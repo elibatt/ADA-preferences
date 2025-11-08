@@ -1,0 +1,102 @@
+{
+    "acting": {
+        "entities": {
+            "Javier Cámara": {
+                "args": [
+                    [
+                        "8_this spanish-argentine drama (2015), set in madrid and framed by a four-day visit from the actor's witty old friend (javier cámara), is pitch-perfect, its comic drollery rooted in character and its awkward, poignant good-byes credibly staged.",
+                        0.8068431148885905
+                    ]
+                ]
+            },
+            "Dolores Fonzi": {
+                "args": []
+            },
+            "Eduard Fernández": {
+                "args": []
+            },
+            "Ricardo Darín": {
+                "args": [
+                    [
+                        "3_the actor, julián, is played by the great ricardo darín, an argentine star with a quick wit and a wry, buoyant presence.",
+                        0.8118226212947388
+                    ],
+                    [
+                        "4_there are things in life and art that are simply so beautiful that they must be witnessed, and darín's performance in \"truman\" is one of those.",
+                        0.8774193359446969
+                    ]
+                ]
+            },
+            "Alex Brendemühl": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Tomás Aragay": {
+                "args": [
+                    [
+                        "6_this well-made, low-key drama, written by mr. gay and tomàs aragay, offers some insights into terminal illness.",
+                        0.6784845718921613
+                    ]
+                ]
+            },
+            "Cesc Gay": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_this spanish-argentine drama (2015), set in madrid and framed by a four-day visit from the actor's witty old friend (javier cámara), is pitch-perfect, its comic drollery rooted in character and its awkward, poignant good-byes credibly staged.",
+                0.8068431148885905
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"truman,\" a great success in its native spain, is definitely done right.",
+                0.8469249341590103
+            ],
+            [
+                "3_canine power is far from the only thing the film has got going for it.",
+                -0.7931356174986114
+            ],
+            [
+                "5_\"truman\" avoids preachiness as scrupulously as it evades certainty.",
+                0.6341877740555608
+            ],
+            [
+                "7_the film is restrained and observational, its impact cumulative.",
+                0.5576591160049365
+            ],
+            [
+                "9_the film's real triumph is in how accurately it captures the intricacies of human relationships, especially when tested.",
+                0.7795600361589978
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Cesc Gay": {
+                "args": [
+                    [
+                        "6_this well-made, low-key drama, written by mr. gay and tomàs aragay, offers some insights into terminal illness.",
+                        0.6784845718921613
+                    ],
+                    [
+                        "10_cesc gay's wise, wistful and well-observed film about two friends enjoying a final reunion in the shadow of impending death, is by turns amusing and affecting - and quite often both at once.",
+                        0.8540502100782518
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

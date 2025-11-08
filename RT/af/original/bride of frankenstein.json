@@ -1,0 +1,202 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_whale added an element of playful sexuality to this version, casting the proceedings in a bizarre visual framework that makes this film a good deal more surreal than the original.",
+                0.8350419082154615
+            ],
+            [
+                "4_whale's most perfectly realised movie, a delight from start to finish.",
+                0.7869711809916325
+            ],
+            [
+                "6_the bride of frankenstein has an in-your- face audacity that hasn't dimmed all that much after 63 years.",
+                0.5593372064035835
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "James Whale": {
+                "args": [
+                    [
+                        "0_ & balderston and director james whale have given it the macabre intensity proper to all good horror pieces, ",
+                        0.7252536020603323
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "John L. Balderston": {
+                "args": [
+                    [
+                        "0_ & balderston and director james whale have given it the macabre intensity proper to all good horror pieces, ",
+                        0.7252536020603323
+                    ]
+                ]
+            },
+            "William Hurlbut": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_karloff manages to invest the character with some subtleties of emotion that are surprisingly real and touching.",
+                0.8091757209326238
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Mary Gordon": {
+                "args": []
+            },
+            "Anne Darling": {
+                "args": []
+            },
+            "Walter Brennan": {
+                "args": []
+            },
+            "Mary Stewart": {
+                "args": []
+            },
+            "Una O'Connor": {
+                "args": []
+            },
+            "E.E. Clive": {
+                "args": []
+            },
+            "John Carradine": {
+                "args": []
+            },
+            "Joan Woodbury": {
+                "args": []
+            },
+            "Frank Terry": {
+                "args": []
+            },
+            "Ann Darling": {
+                "args": []
+            },
+            "O.P. Heggie": {
+                "args": []
+            },
+            "Kansas de Forest": {
+                "args": []
+            },
+            "Arthur S. 'Pop' Byron": {
+                "args": []
+            },
+            "Elsa Lanchester": {
+                "args": []
+            },
+            "Norman Ainsley": {
+                "args": []
+            },
+            "Rollo Lloyd": {
+                "args": []
+            },
+            "Ted Billings": {
+                "args": []
+            },
+            "Brenda Sue Fowler": {
+                "args": []
+            },
+            "Sarah Schwartz": {
+                "args": []
+            },
+            "Douglas Walton": {
+                "args": []
+            },
+            "Grace Cunard": {
+                "args": []
+            },
+            "Monte Montague": {
+                "args": []
+            },
+            "Edwin Mordant": {
+                "args": []
+            },
+            "Josephine McKim": {
+                "args": []
+            },
+            "Frank Benson": {
+                "args": []
+            },
+            "Helen Parrish": {
+                "args": []
+            },
+            "Lucien Prival": {
+                "args": []
+            },
+            "Reginald Barlow": {
+                "args": []
+            },
+            "Lucio Villegas": {
+                "args": []
+            },
+            "Anders Van Haden": {
+                "args": []
+            },
+            "Helen Gibson": {
+                "args": []
+            },
+            "Gavin Gordon": {
+                "args": []
+            },
+            "Ernest Thesiger": {
+                "args": []
+            },
+            "Tempe Piggott": {
+                "args": []
+            },
+            "Kansas DeForrest": {
+                "args": []
+            },
+            "John George": {
+                "args": []
+            },
+            "Boris Karloff": {
+                "args": []
+            },
+            "Gunnis Davis": {
+                "args": []
+            },
+            "Robert A'Dair": {
+                "args": []
+            },
+            "Dwight Frye": {
+                "args": []
+            },
+            "Billy Barty": {
+                "args": []
+            },
+            "Colin Clive": {
+                "args": []
+            },
+            "Jack Curtis": {
+                "args": []
+            },
+            "Peter Shaw": {
+                "args": []
+            },
+            "Valerie Hobson": {
+                "args": []
+            },
+            "Neil Fitzgerald": {
+                "args": []
+            },
+            "Edward Peil Sr.": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kasseem \"Swizz Beatz\" Dean": {
+                "args": []
+            },
+            "Lindsay Ayliffe": {
+                "args": []
+            },
+            "Bill Murray": {
+                "args": []
+            },
+            "Matthew Cardarople": {
+                "args": []
+            },
+            "Brad Blank": {
+                "args": []
+            },
+            "Kassidy Claire": {
+                "args": []
+            },
+            "Carly Craig": {
+                "args": []
+            },
+            "Don Lake": {
+                "args": []
+            },
+            "Nancy Yee": {
+                "args": []
+            },
+            "Kathleen Turner": {
+                "args": []
+            },
+            "Jeff Daniels": {
+                "args": []
+            },
+            "Grant James": {
+                "args": []
+            },
+            "Taylor St. Clair": {
+                "args": []
+            },
+            "Rob Riggle": {
+                "args": []
+            },
+            "Tembi Locke": {
+                "args": []
+            },
+            "Jim Carrey": {
+                "args": [
+                    [
+                        "14_bobby farrelly's original \"dumb and dumber,\" with the carrey-daniels dense duo channeling the stooges and jerry lewis and something else entirely, feels strangely old-fashioned two decades later.",
+                        0.5738581023845863
+                    ],
+                    [
+                        "17_is this worse for jim carrey or jeff daniels?",
+                        -0.6885936516733053
+                    ],
+                    [
+                        "21_whatever was fresh about carrey and daniels' descent into stupidity the first time around just isn't the same in the sequel.",
+                        -0.5921432397625392
+                    ]
+                ]
+            },
+            "Dalton E. Gray": {
+                "args": []
+            },
+            "Jo Wintker": {
+                "args": []
+            },
+            "Steve Tom": {
+                "args": []
+            },
+            "Rachel Melvin": {
+                "args": []
+            },
+            "Tommy Snider": {
+                "args": []
+            },
+            "E. Danny Murphy": {
+                "args": []
+            },
+            "Laurie Holden": {
+                "args": []
+            },
+            "Eddie Shin": {
+                "args": []
+            },
+            "Bryan Dilbeck": {
+                "args": []
+            },
+            "Brady Bluhm": {
+                "args": []
+            },
+            "Michael Yama": {
+                "args": []
+            },
+            "Patricia French": {
+                "args": []
+            },
+            "Atkins Estimond": {
+                "args": []
+            },
+            "Erika Bierman": {
+                "args": []
+            },
+            "Paul Blackthorne": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bobby Farrelly": {
+                "args": [
+                    [
+                        "1_dumb and dumber to as the farrelly brothers did in making it.",
+                        -0.6064589788667625
+                    ],
+                    [
+                        "3_the directors bobby and peter farrelly cram the movie with puns and those kinds of sight gags.",
+                        0.6013755231379774
+                    ],
+                    [
+                        "14_bobby farrelly's original \"dumb and dumber,\" with the carrey-daniels dense duo channeling the stooges and jerry lewis and something else entirely, feels strangely old-fashioned two decades later.",
+                        0.5738581023845863
+                    ]
+                ]
+            },
+            "Peter Farrelly": {
+                "args": []
+            },
+            "J.B. Rogers": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "28_this embarrassing revival plays as if the script were written in comic sans.",
+                -0.5673681271091884
+            ]
+        ],
+        "entities": {
+            "Bobby Farrelly": {
+                "args": []
+            },
+            "Sean Anders": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_almost none of them work.",
+                -0.7120138616035705
+            ],
+            [
+                "6_the majority of it isn't just dumb and dumber, or even crude and cruder.",
+                -0.8507321173782131
+            ],
+            [
+                "7_over all, the movie is just funny enough to make you wish it were much better than it is.",
+                -0.6067152271306415
+            ],
+            [
+                "8_in a world of isis, ebola, dwindling retirement funds and severe drought, somehow this film seems needed.",
+                0.6916765370272934
+            ],
+            [
+                "10_this movie is the opposite of that: it's a laugh-jerker.",
+                -0.5180804973720972
+            ],
+            [
+                "11_the film clearly aspires to (three) stoogery with these lojinks.",
+                -0.6436910185780901
+            ],
+            [
+                "12_i laughed a lot at this movie, possibly even more than i did at the original film, which i enjoyed quite a bit.",
+                0.7586945405672391
+            ],
+            [
+                "16_the farrellys are still not much interested in film as a visual medium, and when lloyd and harry aren't smacking each other or dropping their pants, you might as well be listening to a radio play.",
+                0.6269757058036695
+            ],
+            [
+                "17_that's the sort of question that comes to mind while not laughing at \"dumb and dumber to.\"",
+                0.6195206554201558
+            ],
+            [
+                "22_if there was any doubt that most things in society have been dumbed down in the last couple of decades, dumb and dumber",
+                -0.7693016168290479
+            ],
+            [
+                "23_ that it might not even be as good as-yikes-dumb and dumberer: when harry met lloyd.",
+                -0.561728321270703
+            ],
+            [
+                "25_from junky production values to the parade of unfunny supporting characters to its lazy energy, \"dumb and dumber to\" falls on its face.",
+                -0.7973516935539927
+            ]
+        ]
+    }
+}

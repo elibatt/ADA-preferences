@@ -1,0 +1,127 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Donald Sutherland": {
+                "args": [
+                    [
+                        "7_mirren and sutherland can do anything - except save this sentimental drool bucket of senior cinema from driving into a predictable ditch of been-there-seen-that.",
+                        -0.7258476582869384
+                    ]
+                ]
+            },
+            "Helen Mirren": {
+                "args": [
+                    [
+                        "0_there are quieter moments during which the glances between sutherland and mirren -- containing memories better left unvoiced -- suggest something worthier than the dreck they're trapped in.",
+                        -0.5859231518005937
+                    ],
+                    [
+                        "6_the pleasure of mirren and sutherland's company is considerable, ",
+                        0.7081928001866882
+                    ],
+                    [
+                        "15_even having tremendous actors like sutherland and mirren in the front seat can't enliven this vacation.",
+                        -0.5801485734090741
+                    ],
+                    [
+                        "16_a soggy east coast road trip saga in which helen mirren and donald sutherland valiantly pretend that rogue treatment of debilitating illnesses has its funny/endearing side.",
+                        -0.5402160627754353
+                    ],
+                    [
+                        "18_not even two actors as talented as helen mirren and donald sutherland can save this dreadfully predictable alzheimer's road movie.",
+                        -0.5177960447880392
+                    ]
+                ]
+            },
+            "Kirsty Mitchell": {
+                "args": []
+            },
+            "Christian McKay": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"the leisure seeker\" deserves credit for tackling a difficult subject.",
+                0.5234883054683094
+            ],
+            [
+                "1_unfortunately it comes packaged in a clumsy road movie headed the wrong way down the highway.",
+                -0.7854230333051683
+            ],
+            [
+                "5_the film's poignant and powerful ending does provide a saving grace.",
+                0.7315518473885882
+            ],
+            [
+                "8_paolo virzi's film, based on a novel by michael zadoorian, holds few surprises, leaving us with some enjoyable set pieces in a disappointing movie.",
+                0.5328902815850383
+            ],
+            [
+                "11_there's beauty here - virzi is too humane to make a movie without beautiful moments.",
+                0.7076116521189997
+            ],
+            [
+                "14_if only the film had something to say about america-or about memory, or about families.",
+                0.5640339503028388
+            ],
+            [
+                "17_the movie is only willing to serve up its truths halfway.",
+                -0.5927861507735015
+            ],
+            [
+                "19_a road movie short on comedy and drama should at least offer a keen level of observation, ",
+                0.5570657202580728
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "4_in this one, you feel the director holding his nose.",
+                -0.5300272048542201
+            ]
+        ],
+        "entities": {
+            "Paolo Virzì": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_that isn't fleshed out well in the leaden screenplay, which leans heavily on the most obvious americana trappings to gin up a lighter side of senility.",
+                -0.7812245325150422
+            ],
+            [
+                "12_the performers are always lively, often engaging, and sometimes moving, worth our contemplation even when the script flags.",
+                0.8399159573455591
+            ]
+        ],
+        "entities": {
+            "Stephen Amidon": {
+                "args": []
+            },
+            "Paolo Virzì": {
+                "args": []
+            },
+            "Francesca Archibugi": {
+                "args": []
+            },
+            "Francesco Piccolo": {
+                "args": []
+            }
+        }
+    }
+}

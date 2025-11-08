@@ -1,0 +1,195 @@
+{
+    "writer": {
+        "entities": {
+            "Meg LeFauve": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_the landscapes, beauty and character bonding of \"the good dinosaur\" make it a good bet for a family trip to a theater.",
+                0.8429026238770772
+            ],
+            [
+                "34_a visually breathtaking work of computer-generated animation that is ultimately unable to compensate for a disappointingly derivative script.",
+                -0.5996045714693456
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Peter Sohn": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_if the good dinosaur falls low in the rankings of the company's now 16 titles, it is still leagues finer than the flurry of frenetic colors and screwball pacing of the standard children's animated movie.",
+                0.7505954320778566
+            ],
+            [
+                "1_the good dinosaur is by no means a bad movie.",
+                -0.7217002755325519
+            ],
+            [
+                "1_ it breaks new ground for pixar in that it's the studio's first feature that is explicitly-and pretty much exclusively-a kid's movie.",
+                0.7153025016090762
+            ],
+            [
+                "3_if the good dinosaur falls short in the narrative department, it represents a step forward for pixar's artists.",
+                0.7190055279596734
+            ],
+            [
+                "7_the resulting film is amiable, pretty, and charming in all the right ways -- even if it ultimately settles for a fairly typical tale of a late bloomer finding his way.",
+                0.8073672007672256
+            ],
+            [
+                "10_i didn't love everything about the good dinosaur, ",
+                -0.5370994633510132
+            ],
+            [
+                "13_\"the good dinosaur\" is antic and unexpected as well as homiletic, rife with subversive elements, wacky critters and some of the most beautiful landscapes ever seen in a computer animated film.",
+                0.9078347694040285
+            ],
+            [
+                "14_\"the good dinosaur\" is charmingly different, ",
+                0.7308925918117244
+            ],
+            [
+                "16_inconsistent and weird, the good dinosaur is second-level pixar all the way.",
+                0.6690243254309864
+            ],
+            [
+                "17_part of the movie would likely make anyone under 10 squirm with boredom.",
+                -0.55512282307354
+            ],
+            [
+                "18_on a technical level, at least, the good dinosaur is the most dazzling pixar movie yet.",
+                0.7413449558727583
+            ],
+            [
+                "20_the landscapes, beauty and character bonding of \"the good dinosaur\" make it a good bet for a family trip to a theater.",
+                0.8429026238770772
+            ],
+            [
+                "20_but when it comes to leaping to the top of the pixar heap, \"the good dinosaur,\" like its asteroid,",
+                0.6671502127163483
+            ],
+            [
+                "21_the good dinosaur is an enjoyable romp, especially when it surprisingly turns into a bizarro western midway through.",
+                0.735582375731884
+            ],
+            [
+                "22_the good dinosaur is a good movie for young audiences -- and for parents who want to share a prehistoric moral fable with their children.",
+                0.8558628160144319
+            ],
+            [
+                "25_\"the good dinosaur\" has an original concept, disarming emotional heft and features the most impressive visuals in animated cinema to date.",
+                0.8878790221065835
+            ],
+            [
+                "26_this young boy's adventure film will hypnotize grade school audiences with its sheer imagination and joy in filmmaking.",
+                0.818413941461619
+            ],
+            [
+                "27_small tots will be too taken with all the adorableness to care about this pixar film's shortcomings.",
+                -0.5530067546147528
+            ],
+            [
+                "28_trying to figure out where \"the good dinosaur\" fits into the pixar pantheon is a parlor game best put off for later.",
+                0.6092714298507519
+            ],
+            [
+                "28_in the moment the film has to stand on its own, and it does.",
+                0.6188582789833348
+            ],
+            [
+                "30_the film will satisfy younger viewers, i suppose, ",
+                -0.5033682272712928
+            ],
+            [
+                "33_pixar's latest film has the misfortune of following what's perhaps pixar's greatest.",
+                0.7553919837102828
+            ],
+            [
+                "34_a visually breathtaking work of computer-generated animation that is ultimately unable to compensate for a disappointingly derivative script.",
+                -0.5996045714693456
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Anna Paquin": {
+                "args": []
+            },
+            "Frances McDormand": {
+                "args": []
+            },
+            "Raymond Ochoa": {
+                "args": []
+            },
+            "Mandy Freund": {
+                "args": []
+            },
+            "David Boat": {
+                "args": []
+            },
+            "John Ratzenberger": {
+                "args": []
+            },
+            "Nicolas Dodd": {
+                "args": []
+            },
+            "Peter Sohn": {
+                "args": []
+            },
+            "Marcus Scribner": {
+                "args": []
+            },
+            "Ryan Teeple": {
+                "args": []
+            },
+            "Alan Tudyk": {
+                "args": []
+            },
+            "Carrie Paff": {
+                "args": []
+            },
+            "Jeffrey Wright": {
+                "args": []
+            },
+            "Jack McGraw": {
+                "args": []
+            },
+            "Steven Clay Hunter": {
+                "args": []
+            },
+            "Calum Mackenzie Grant": {
+                "args": []
+            },
+            "Steve Zahn": {
+                "args": []
+            },
+            "Maleah Nipay Padilla": {
+                "args": []
+            },
+            "Sam Elliott": {
+                "args": []
+            },
+            "A.J. Buckley": {
+                "args": []
+            },
+            "Jack Bright": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

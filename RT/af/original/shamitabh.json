@@ -1,0 +1,39 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Amitabh Bachchan": {
+                "args": []
+            },
+            "Akshara Haasan": {
+                "args": []
+            },
+            "Dhanush": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "R. Balakrishnan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "R. Balakrishnan": {
+                "args": []
+            }
+        }
+    }
+}

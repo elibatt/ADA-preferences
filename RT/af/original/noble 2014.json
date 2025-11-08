@@ -1,0 +1,101 @@
+{
+    "writer": {
+        "args": [
+            [
+                "3_ writer-director stephen bradley portrays the grown-up noble as a messianic figure, making her philanthropy seem like acts of hubris rather than selflessness.",
+                0.7681942593413695
+            ],
+            [
+                "8_[writer-director bradley] understands the inherent drama in noble's life story, as well as the necessity of varying the narrative's chronological progression by alternating time periods in the film in order to maintain ongoing interest.",
+                0.8081042550216961
+            ]
+        ],
+        "entities": {
+            "Stephen Bradley": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_a smart, touching, tragic, goofy and surprisingly captivating dramatic biography of irish children's rights activist christina noble.",
+                0.8228675048913332
+            ],
+            [
+                "5_the real noble accomplished a lot, ",
+                0.6269617768566682
+            ],
+            [
+                "5_ the movie insists on giving her achievements a mystical and mythical dimension ... without the imagination to carry it off.",
+                0.548140895792819
+            ],
+            [
+                "7_the movie works because christina's desire to help these kids feels natural, and because she herself shoulders burdens that would drive most people to the grave, all without losing her faith.",
+                0.8023820398252323
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mark Huberman": {
+                "args": []
+            },
+            "Liam Cunningham": {
+                "args": []
+            },
+            "Brendan Coyle": {
+                "args": []
+            },
+            "Nhu Quynh": {
+                "args": []
+            },
+            "Gloria Cramer Curtis": {
+                "args": []
+            },
+            "Ruth Negga": {
+                "args": []
+            },
+            "Deirdre O'Kane": {
+                "args": [
+                    [
+                        "1_a feisty, passionate performance by the irish actress deirdre o'kane gives the inspirational biopic \"noble\" a serrated edge of defiance and gumption.",
+                        0.7852847534292202
+                    ]
+                ]
+            },
+            "Sarah Greene (II)": {
+                "args": []
+            },
+            "David Mumeni": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stephen Bradley": {
+                "args": [
+                    [
+                        "3_ writer-director stephen bradley portrays the grown-up noble as a messianic figure, making her philanthropy seem like acts of hubris rather than selflessness.",
+                        0.7681942593413695
+                    ],
+                    [
+                        "6_writer-director stephen bradley may make some missteps, ",
+                        0.5993976197964148
+                    ],
+                    [
+                        "8_[writer-director bradley] understands the inherent drama in noble's life story, as well as the necessity of varying the narrative's chronological progression by alternating time periods in the film in order to maintain ongoing interest.",
+                        0.8081042550216961
+                    ]
+                ]
+            }
+        }
+    }
+}

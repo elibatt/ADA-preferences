@@ -1,0 +1,198 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Erin Darke": {
+                "args": []
+            },
+            "Frank De Julio": {
+                "args": []
+            },
+            "Michael Chernus": {
+                "args": []
+            },
+            "Charlie Hudson III": {
+                "args": []
+            },
+            "Zach Appelman": {
+                "args": []
+            },
+            "Kathy Bates": {
+                "args": []
+            },
+            "Azita Ghanizada": {
+                "args": []
+            },
+            "Danny Glover": {
+                "args": []
+            },
+            "Tessa Albertson": {
+                "args": []
+            },
+            "Rachel Weisz": {
+                "args": [
+                    [
+                        "5_yet weisz, playful and seductive, utterly confident, disarmingly vulnerable, delivers a performance that makes you forget all that.",
+                        0.8212580004444464
+                    ],
+                    [
+                        "12_an intriguing entertainment that's invigorated by smart filmmaking and potent acting by the virtuosic weisz and her fine costar, michael shannon.",
+                        0.8420793613817683
+                    ]
+                ]
+            },
+            "Omar Metwally": {
+                "args": []
+            },
+            "Hansel S. Tan": {
+                "args": []
+            },
+            "Blake DeLong": {
+                "args": []
+            },
+            "Chris Lowell": {
+                "args": []
+            },
+            "Gary F. Francis Jr.": {
+                "args": []
+            },
+            "Kelly Aucoin": {
+                "args": []
+            },
+            "Condola Rashad": {
+                "args": []
+            },
+            "Michael Shannon": {
+                "args": [
+                    [
+                        "2_writer-director joshua marston gives shannon a chance to shine as a character more pedestrian than the ones he usually plays, ",
+                        0.7263916339797135
+                    ],
+                    [
+                        "4_shannon is usually playing human question marks in the movies, so it's a twist here to see him playing the \"normal\" guy, except shannon is too unconventional an actor to play anything in the normal range.",
+                        0.5344834022395641
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "19_marston, whose previous two features looked like fairly standard no-budget indie fare, has made a huge leap forward here as a director.",
+                -0.5429115250196185
+            ]
+        ],
+        "entities": {
+            "Joshua Marston": {
+                "args": [
+                    [
+                        "2_writer-director joshua marston gives shannon a chance to shine as a character more pedestrian than the ones he usually plays, ",
+                        0.7263916339797135
+                    ],
+                    [
+                        "6_director and co-writer joshua marston likes to let his scenes run long",
+                        -0.5291633948997021
+                    ],
+                    [
+                        "15_like alice, the film seems to be making itself up as it goes along, which would be fine with a less expository script than the one marston wrote with julian sheppard, and with fewer showy gestures at the surreal.",
+                        0.5975808049243678
+                    ],
+                    [
+                        "21_joshua marston's inert and hyper-literal new drama suffers from a fatal identity crisis.",
+                        -0.567274661856829
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_writer-director joshua marston gives shannon a chance to shine as a character more pedestrian than the ones he usually plays, ",
+                0.7263916339797135
+            ],
+            [
+                "6_director and co-writer joshua marston likes to let his scenes run long",
+                -0.5291633948997021
+            ],
+            [
+                "22_it's neither more nuanced, literate or character-focused than an ordinary hollywood studio film.",
+                0.515079022826307
+            ]
+        ],
+        "entities": {
+            "Joshua Marston": {
+                "args": []
+            },
+            "Julian Sheppard": {
+                "args": [
+                    [
+                        "15_like alice, the film seems to be making itself up as it goes along, which would be fine with a less expository script than the one marston wrote with julian sheppard, and with fewer showy gestures at the surreal.",
+                        0.5975808049243678
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_in its latter half the film... gradually runs out of ideas, and out of steam.",
+                -0.6187965881558182
+            ],
+            [
+                "1_complete unknown is the perfect case study of what happens when bad movies rope in good actors.",
+                -0.5390858957655268
+            ],
+            [
+                "3_ \"complete unknown\" raises provocative questions about the nature of identity and whether it's more a comfort or a trap.",
+                0.8211518142104416
+            ],
+            [
+                "5_the movie brushes up against far-fetched soap-opera scenarios.",
+                -0.5426420837442952
+            ],
+            [
+                "7_the film comes across as an irksome contrivance.",
+                -0.5356329890869197
+            ],
+            [
+                "8_even if it's not quite as thrilling as it first seems, \"complete unknown\" poses questions that practically beg for animated conversation ...",
+                0.7591021291787255
+            ],
+            [
+                "11_the film is never less than interesting.",
+                -0.628355604104421
+            ],
+            [
+                "13_the movie does pretty well as a treatment of identity and selfhood, ",
+                0.7148983409662188
+            ],
+            [
+                "14_\"complete unknown\" is a curious hybrid, teetering between a thriller and a romance only to land in a nebulous spot that is neither.",
+                -0.6588337513263129
+            ],
+            [
+                "16_complete unknown is perhaps most titillating when it quietly observes moments between its central duo, two long-lost lovers hurling nearly two decades' worth of unresolved pain at each other over the course of a single evening.",
+                -0.5895832121096681
+            ],
+            [
+                "17_it's more than a little ironic that a film called complete unknown will leave you scratching your head about what you just watched.",
+                0.5968834327222462
+            ],
+            [
+                "22_it's neither more nuanced, literate or character-focused than an ordinary hollywood studio film.",
+                0.515079022826307
+            ],
+            [
+                "22_instead, it's simply a really thin, weak imitation of a hollywood studio film.",
+                -0.7985202604871455
+            ]
+        ]
+    }
+}

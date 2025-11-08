@@ -1,0 +1,129 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Steven Okazaki": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Wataru Akashi": {
+                "args": []
+            },
+            "Yôko Tsukasa": {
+                "args": []
+            },
+            "Yoshio Tsuchiya": {
+                "args": []
+            },
+            "Martin Scorsese": {
+                "args": []
+            },
+            "Haruo Nakajima": {
+                "args": []
+            },
+            "Steven Spielberg": {
+                "args": []
+            },
+            "Toshiro Mifune": {
+                "args": []
+            },
+            "Sadao Nakajima": {
+                "args": []
+            },
+            "Kanzo Uni": {
+                "args": []
+            },
+            "Kyoko Kagawa": {
+                "args": []
+            },
+            "Koji Yakusho": {
+                "args": []
+            },
+            "Tadao Sato": {
+                "args": []
+            },
+            "Hisao Kurosawa": {
+                "args": [
+                    [
+                        "2_this concise documentary focuses largely on his artistic partnership with akira kurosawa ",
+                        0.6610356614901893
+                    ],
+                    [
+                        "7_the last samurai is a relatively short film that would have benefited from additional voices, as well as more kurosawa-like sweep and mifune-style verve.",
+                        0.5910127922485624
+                    ]
+                ]
+            },
+            "Yosuke Natsuki": {
+                "args": []
+            },
+            "Keanu Reeves": {
+                "args": []
+            },
+            "Shiro Mifune": {
+                "args": [
+                    [
+                        "1_nobody in cinema can rival the unique, electric combination of scowling power and exuberant physicality of mifune.",
+                        0.7592646988126681
+                    ],
+                    [
+                        "4_has any movie star had a harsher laugh, or more baleful stare, than toshiro mifune?",
+                        -0.5510877359757396
+                    ],
+                    [
+                        "6_the real accomplishment of mifune:",
+                        0.628870645101912
+                    ],
+                    [
+                        "10_the clips from mifune's work still amaze.",
+                        -0.5893487109223281
+                    ]
+                ]
+            },
+            "Terumi Niki": {
+                "args": []
+            },
+            "Kaoru Yachigusa": {
+                "args": []
+            },
+            "Teruyo Nogami": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stuart Galbraith IV": {
+                "args": []
+            },
+            "Steven Okazaki": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film works best as an appetite stimulant for richer cinematic fare.",
+                0.8066767485143476
+            ],
+            [
+                "2_ includes enough about japan's film industry and the star's charmed life to engross fans and casual viewers alike.",
+                0.6958544186906419
+            ],
+            [
+                "9_the movie is very good at revealing and expanding upon how this reluctant actor became such a masterful one.",
+                0.8115305260824008
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

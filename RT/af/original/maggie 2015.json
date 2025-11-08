@@ -1,0 +1,226 @@
+{
+    "writer": {
+        "entities": {
+            "John Scott 3": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_the problem, aside from not much going on, is that schwarzenegger remains a severely limited actor, so there's not that much character to study.",
+                -0.7606247789101683
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Henry Hobson": {
+                "args": [
+                    [
+                        "11_if only freshman director henry hobson was even more committed to his intriguing strategy for showcasing his unlikely star, and kept things quiet throughout.",
+                        0.5448356577894216
+                    ],
+                    [
+                        "26_a terminal-illness family drama in which the ailment happens to be zombieism, henry hobson's maggie does the genre mashup thing without an ounce of tongue-in-cheek attitude.",
+                        0.5461762628980118
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_most of maggie is so dark you can barely make out the zombies or the humans.",
+                -0.5997882021836775
+            ],
+            [
+                "1_i feel some guilt in giving a film that tries this hard a negative review.",
+                -0.6017370455567927
+            ],
+            [
+                "4_, \"maggie\" is a slog of the living dead.",
+                0.5851622840959478
+            ],
+            [
+                "5_it's a sad story, or would be if the zombie apocalypse backdrop - and the inky splotches creeping across maggie's body - didn't wreak such havoc with the movie's unsmiling sincerity.",
+                -0.666286016481838
+            ],
+            [
+                "7_the performances in maggie are strong.",
+                0.7085661201665453
+            ],
+            [
+                "9_that's the power of star wattage at work.",
+                0.5399242262561549
+            ],
+            [
+                "15_this fatalist little indie is an a-for-effort movie with c-minus entertainment value.",
+                0.5626154915441279
+            ],
+            [
+                "19_that's sad to admit, because it's the kind of film one wished were better.",
+                -0.5790873677066404
+            ],
+            [
+                "20_the film suffers a bit for its slowness.",
+                -0.5520279344057069
+            ],
+            [
+                "23_bidding to be the \"terms of endearment\" of zombie movies, \"maggie\" sucks all the life out of an idea that just won't die.",
+                -0.7879070272075099
+            ],
+            [
+                "24_schwarzenegger may be maggie's main attraction, ",
+                0.6538752194143996
+            ],
+            [
+                "24_ he's so inessential to the film's drama that he could easily be replaced by a grimacing, monosyllabic pull-string doll.",
+                -0.5145190767579217
+            ],
+            [
+                "25_hobson resists the temptation to spice things up with more traditional scares, and the film never allows its ghoulish window dressing to overwhelm the simple story of a father losing his oldest child.",
+                0.6421900200073608
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Carsen Flowers": {
+                "args": []
+            },
+            "Joely Richardson": {
+                "args": []
+            },
+            "Raeden Greer": {
+                "args": []
+            },
+            "Ashley Hudson": {
+                "args": []
+            },
+            "Herbert P.J. Marshall": {
+                "args": []
+            },
+            "Douglas M. Griffin": {
+                "args": []
+            },
+            "Aiden Flowers": {
+                "args": []
+            },
+            "Rachel Whitman Groves": {
+                "args": []
+            },
+            "Jodie Moore": {
+                "args": []
+            },
+            "Taylor Murphy": {
+                "args": []
+            },
+            "Denise Lauren Williamson": {
+                "args": []
+            },
+            "Liann Pattison": {
+                "args": []
+            },
+            "Arnold Schwarzenegger": {
+                "args": [
+                    [
+                        "1_ especially in schwarzenegger's case.",
+                        -0.5257029648582044
+                    ],
+                    [
+                        "3_the problem, aside from not much going on, is that schwarzenegger remains a severely limited actor, so there's not that much character to study.",
+                        -0.7606247789101683
+                    ],
+                    [
+                        "7_the camera is often right up in the characters' faces, putting schwarzenegger's lived-in, world-weary mug to good use and telegraphing breslin's vulnerability.",
+                        0.7736824778605181
+                    ],
+                    [
+                        "8_starring arnold schwarzenegger.",
+                        -0.6465511699254627
+                    ],
+                    [
+                        "9_the sight of schwarzenegger in this small, subdued role makes us root for his survival.",
+                        0.6766409936560692
+                    ],
+                    [
+                        "10_casting schwarzenegger is such an eyebrow-raising choice that the film seemed destined to be something different.",
+                        0.7303939925166139
+                    ],
+                    [
+                        "12_come for arnold schwarzenegger's wrinkled visage and grizzled beard",
+                        -0.6322416340317771
+                    ],
+                    [
+                        "14_t there was nothing new under the zombie-themed sun, or that arnold schwarzenegger can't act, give \"maggie\" a try.",
+                        -0.6933412557994219
+                    ],
+                    [
+                        "19_ strong acting in a schwarzenegger movie - \"maggie\" simply doesn't take root.",
+                        -0.6894176078059737
+                    ],
+                    [
+                        "27_an unlikely proposition on paper, this arnold schwarzenegger-abigail breslin zombie movie offers a moving twist on the genre.",
+                        0.5391051030720925
+                    ]
+                ]
+            },
+            "Abigail Breslin": {
+                "args": [
+                    [
+                        "12_ stay for abigail breslin's fine teen-facing-death pathos.",
+                        0.6279309616331257
+                    ]
+                ]
+            },
+            "Brett Baker": {
+                "args": []
+            },
+            "Colin Walker": {
+                "args": []
+            },
+            "Courtney Vanderslice-Law": {
+                "args": []
+            },
+            "Maris Black": {
+                "args": []
+            },
+            "J.D. Evermore": {
+                "args": []
+            },
+            "Mattie Liptak": {
+                "args": []
+            },
+            "David A. Cole": {
+                "args": []
+            },
+            "Amy Brassette": {
+                "args": []
+            },
+            "Jessy Hughes": {
+                "args": []
+            },
+            "Dana Gourrier": {
+                "args": []
+            },
+            "Bryce Romero": {
+                "args": []
+            },
+            "Walter von Huene": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_despite the novel premise and the strong acting - yes,",
+                0.5204846590809917
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

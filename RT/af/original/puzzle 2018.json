@@ -1,0 +1,190 @@
+{
+    "writer": {
+        "entities": {
+            "Oren Moverman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_turtletaub goes deep on character, allowing macdonald and khan to reveal details of their lives, and also their dreams and fears, in a manner that's as natural as the charming piano score.",
+                0.8504867875640402
+            ],
+            [
+                "12_yet the play of emotions on macdonald's face tells of worries and wounds much deeper than anything that can be accounted for in the script...",
+                0.592045219134649
+            ],
+            [
+                "27_moverman's script, based on the argentinian film rompecabezas by natalia smirnoff, is graceful with the details and its characters.",
+                0.6079892246695334
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "David Denman": {
+                "args": []
+            },
+            "Bubba Weiler": {
+                "args": []
+            },
+            "Irrfan Khan": {
+                "args": [
+                    [
+                        "18_irrfan khan and the rest of the cast, make this gentle, ",
+                        0.6572482332123518
+                    ]
+                ]
+            },
+            "Liv Hewson": {
+                "args": []
+            },
+            "Kelly Macdonald": {
+                "args": [
+                    [
+                        "5_turtletaub goes deep on character, allowing macdonald and khan to reveal details of their lives, and also their dreams and fears, in a manner that's as natural as the charming piano score.",
+                        0.8504867875640402
+                    ],
+                    [
+                        "6_the indie drama's aptly metaphorical goings-on have real warmth, and get an added boost from charming performances by macdonald and irrfan khan...",
+                        0.6811942969088739
+                    ],
+                    [
+                        "10_in \"puzzle,\" macdonald has finally found a movie that she doesn't need to steal, because it belongs to her completely.",
+                        -0.5703278202881351
+                    ],
+                    [
+                        "11_ macdonald is excellent.",
+                        0.7861700973011772
+                    ],
+                    [
+                        "12_yet the play of emotions on macdonald's face tells of worries and wounds much deeper than anything that can be accounted for in the script...",
+                        0.592045219134649
+                    ],
+                    [
+                        "15_a million tiny revelations make up one massive arc, and kelly macdonald positively radiates hope and joy throughout that process.",
+                        0.6885693173869325
+                    ],
+                    [
+                        "17_to say that it's macdonald's best performance would do the rest of her exceptional career a disservice, ",
+                        0.7541018674635639
+                    ],
+                    [
+                        "26_we should be grateful that it exists, if only because it affords a long-overdue leading role to kelly macdonald ...",
+                        -0.5391640393674663
+                    ]
+                ]
+            },
+            "Austin Abrams": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_the acting is uniformly good, ",
+                0.5875034192238986
+            ],
+            [
+                "11_she captures the frustrations agnes didn't even know she had, and her performance is authentic throughout.",
+                0.6180015457263599
+            ],
+            [
+                "18_ deeply felt performance, along with the work of...",
+                0.7401149866660595
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_turtletaub's direction and the trio of ace performances make \"puzzle\" feel relatable and real",
+                0.7086053845601645
+            ],
+            [
+                "1_watching two people do a jigsaw puzzle could be fascinating in the right movie.",
+                -0.5280550404992618
+            ],
+            [
+                "2_\"puzzle\" becomes a low-key pleasure, with all its pieces fitting together nicely.",
+                0.8170884511092256
+            ],
+            [
+                "8_how wonderful it is to see this fine actress carry a film and carry it so beautifully.",
+                0.9095431335656889
+            ],
+            [
+                "12_in truth, there is barely enough story here to make a film.",
+                -0.6401725536264378
+            ],
+            [
+                "13_puzzle touched me profoundly.",
+                0.6243749747976748
+            ],
+            [
+                "14_the most refreshing thing about puzzle is that it's an adult movie about characters and their low-key circumstances.",
+                0.8322845785464648
+            ],
+            [
+                "16_with her fierce, strange energy at the center, the film builds quietly toward its own small revelations, piece by piece.",
+                0.712316097082994
+            ],
+            [
+                "17_ she brings the richness and grace of her finest work to agnes, and she's instrumental to the film's understated success.",
+                0.8159653715892937
+            ],
+            [
+                "18_macdonald has never starred in a film until \"puzzle,\" and her delicate ",
+                0.5915593379344922
+            ],
+            [
+                "18_ deeply felt performance, along with the work of...",
+                0.7401149866660595
+            ],
+            [
+                "18_tful yet pointed film the undeniable success it is.",
+                0.7076138712615412
+            ],
+            [
+                "19_like its protagonist, puzzle finds itself as it goes along, and agnes becomes a truly interesting person to root for.",
+                -0.5100060573318317
+            ],
+            [
+                "20_'puzzle\" is less puzzling than exasperating.",
+                -0.6406573143564422
+            ],
+            [
+                "23_turtletaub and his screenwriters lay the borderline-anachronistic details of their heroine's oppressive life on so thick that the movie starts to sag.",
+                0.5185651096382359
+            ],
+            [
+                "25_the performances transcend the film's tropes, grounding it in characters that feel more complete than this subgenre often produces.",
+                0.5760926083171285
+            ],
+            [
+                "27_moverman's script, based on the argentinian film rompecabezas by natalia smirnoff, is graceful with the details and its characters.",
+                0.6079892246695334
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Marc Turtletaub": {
+                "args": [
+                    [
+                        "9_macdonald is so good, on her own or with a scene partner, director marc turtletaub's movie refuses to fall apart.",
+                        0.6574834257616587
+                    ],
+                    [
+                        "21_like a bedtime cup of cocoa, marc turtletaub's \"puzzle\" has a soothing familiarity that quiets the mind and settles the spirit.",
+                        0.6877220873431895
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

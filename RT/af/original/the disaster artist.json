@@ -1,0 +1,248 @@
+{
+    "writer": {
+        "entities": {
+            "Michael H. Weber": {
+                "args": []
+            },
+            "Scott Neustadter": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_even more impressively, franco makes wiseau, maybe the most unpleasant character he's ever played, someone you genuinely root for in his demented quest for greatness.",
+                0.7060806671058233
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jacki Weaver": {
+                "args": []
+            },
+            "Zac Efron": {
+                "args": []
+            },
+            "Josh Hutcherson": {
+                "args": []
+            },
+            "James Franco": {
+                "args": [
+                    [
+                        "1_wiseau also makes a pretty good avatar for franco himself: a mercurial, relentless performer whose ambition encompasses a thrilling willingness to crash and burn.",
+                        0.7427724704174394
+                    ],
+                    [
+                        "1_and it's that identification that makes the comedy work here: franco kids because he loves.",
+                        0.5850343154350223
+                    ],
+                    [
+                        "4_[james] franco has not just made a really sharp, funny movie about movie making.",
+                        0.5436958198255407
+                    ],
+                    [
+                        "4_he's also made a layered and intimate portrait of a friendship with his own brother, dave franco.",
+                        0.7959048484751896
+                    ],
+                    [
+                        "10_even more impressively, franco makes wiseau, maybe the most unpleasant character he's ever played, someone you genuinely root for in his demented quest for greatness.",
+                        0.7060806671058233
+                    ],
+                    [
+                        "14_there's something joyful about the franco brothers playing a fun-house mirror version of their own hollywood arrival, and the film's best scenes are with rogen's production manager, aghast at tommy's incompetence.",
+                        0.8669548052158124
+                    ],
+                    [
+                        "15_mr. franco recreates the production of \"the room\" - and the escalating behind-the-scenes nuttiness - with an assured, energetic touch ...",
+                        0.8415543841991705
+                    ],
+                    [
+                        "17_in a kooky yet vulnerable and heartfelt performance, franco gets right at the heart of what makes wiseau a true hero - his sheer willingness to try - and that is what makes \"the disaster artist\" work so well.",
+                        0.7311265891717753
+                    ],
+                    [
+                        "21_ franco loses patience and takes a scalpel to the story.",
+                        -0.6155405939174121
+                    ],
+                    [
+                        "27_the disaster artist -- james franco's hyphenated turn as star, producer and director -- deftly falls into that comedic pantheon, joining the likes of ed wood in making an entertaining movie about a truly terrible one.",
+                        0.6249355305458598
+                    ],
+                    [
+                        "31_whatever my queasiness about laughing at a head case, i couldn't help myself from thrilling to franco's timing, his relish, his swan dive into an egotism that has no bottom.",
+                        -0.6765839333549628
+                    ],
+                    [
+                        "32_director james franco's enjoyable ode to the creative process - any creative process, really.",
+                        0.7761295115379166
+                    ],
+                    [
+                        "32_it's also one of franco's strongest roles as an actor, capturing every little quirk and quality of a definite eccentric.",
+                        0.7488079046563507
+                    ],
+                    [
+                        "34_james franco is firing on all his creative cylinders in this comic bonanza about tommy wiseau, the worst filmmaker of the 21st century.",
+                        -0.6590470790242817
+                    ]
+                ]
+            },
+            "Ari Graynor": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": []
+            },
+            "Dave Franco": {
+                "args": []
+            },
+            "Alison Brie": {
+                "args": []
+            },
+            "Kate Upton": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"the disaster artist\" is a sweet, emotionally engaging tri",
+                0.6578969655453427
+            ],
+            [
+                "5_\"the disaster artist\" is a lot of fun, even if some of it is uncomfortable.",
+                0.7092083210836903
+            ],
+            [
+                "9_ even if you've never heard of it, the disaster artist should delight.",
+                0.6537700992151353
+            ],
+            [
+                "11_by the end of the disaster artist, wiseau is still a joke.",
+                -0.5253677756800728
+            ],
+            [
+                "13_the old alchemist's trick of turning lead into gold has nothing on the disaster artist, a film that masters the trickier feat of transforming trash into art.",
+                -0.5503771716586363
+            ],
+            [
+                "16_ the obvious, expository nature of the mockery in \"the disaster artist\" doesn't make it any less funny or illuminating.",
+                -0.64693938613017
+            ],
+            [
+                "18_\"the disaster artist\" is a breezy, entertaining and even affectionate movie about the making of \"the room.\"",
+                0.7808558588894466
+            ],
+            [
+                "21_both the book and the movie try to explain what makes the room such a phenomenon, ",
+                0.6866198679815974
+            ],
+            [
+                "22_in the end, \"the disaster artist\" decides that the only bad movies are the ones that fail to bring us joy. \"",
+                -0.7828231277532572
+            ],
+            [
+                "23_seeing \"the disaster artist\" is less crucial to their camp education.",
+                0.5095409857291
+            ],
+            [
+                "25_\"the disaster artist\" is a love letter to a freak, straddling the line between admiring and appalled.",
+                0.6439332166631947
+            ],
+            [
+                "28_the disaster artist is funny from the beginning, ",
+                0.707742530749483
+            ],
+            [
+                "33_a sense of gnawing inadequacy is a universal feeling, and the disaster artist certainly mines the notion that there's a little bit of the outsider in everybody - which is exactly the kind of magnanimity you'd expect.",
+                0.6743231310459263
+            ],
+            [
+                "34_franco hits a new career peak by making sure his film is as heartfelt as it is hilarious.",
+                0.8523901646137635
+            ],
+            [
+                "35_know that you're in for a movie that flogs its fan service so vigorously",
+                0.5168793468368691
+            ],
+            [
+                "36_franco remains one of the most fascinating performers of his generation, even if his directing ability needs a little work.",
+                0.7130985222854098
+            ],
+            [
+                "41_the disaster artist largely works because it brings us closer to tommy while reveling in the same ingredients that have turned him into an icon.",
+                0.7738722239665059
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James Franco": {
+                "args": [
+                    [
+                        "1_wiseau also makes a pretty good avatar for franco himself: a mercurial, relentless performer whose ambition encompasses a thrilling willingness to crash and burn.",
+                        0.7427724704174394
+                    ],
+                    [
+                        "1_and it's that identification that makes the comedy work here: franco kids because he loves.",
+                        0.5850343154350223
+                    ],
+                    [
+                        "4_[james] franco has not just made a really sharp, funny movie about movie making.",
+                        0.5436958198255407
+                    ],
+                    [
+                        "4_he's also made a layered and intimate portrait of a friendship with his own brother, dave franco.",
+                        0.7959048484751896
+                    ],
+                    [
+                        "10_even more impressively, franco makes wiseau, maybe the most unpleasant character he's ever played, someone you genuinely root for in his demented quest for greatness.",
+                        0.7060806671058233
+                    ],
+                    [
+                        "14_there's something joyful about the franco brothers playing a fun-house mirror version of their own hollywood arrival, and the film's best scenes are with rogen's production manager, aghast at tommy's incompetence.",
+                        0.8669548052158124
+                    ],
+                    [
+                        "15_mr. franco recreates the production of \"the room\" - and the escalating behind-the-scenes nuttiness - with an assured, energetic touch ...",
+                        0.8415543841991705
+                    ],
+                    [
+                        "17_in a kooky yet vulnerable and heartfelt performance, franco gets right at the heart of what makes wiseau a true hero - his sheer willingness to try - and that is what makes \"the disaster artist\" work so well.",
+                        0.7311265891717753
+                    ],
+                    [
+                        "21_ franco loses patience and takes a scalpel to the story.",
+                        -0.6155405939174121
+                    ],
+                    [
+                        "27_the disaster artist -- james franco's hyphenated turn as star, producer and director -- deftly falls into that comedic pantheon, joining the likes of ed wood in making an entertaining movie about a truly terrible one.",
+                        0.6249355305458598
+                    ],
+                    [
+                        "31_whatever my queasiness about laughing at a head case, i couldn't help myself from thrilling to franco's timing, his relish, his swan dive into an egotism that has no bottom.",
+                        -0.6765839333549628
+                    ],
+                    [
+                        "32_director james franco's enjoyable ode to the creative process - any creative process, really.",
+                        0.7761295115379166
+                    ],
+                    [
+                        "32_it's also one of franco's strongest roles as an actor, capturing every little quirk and quality of a definite eccentric.",
+                        0.7488079046563507
+                    ],
+                    [
+                        "34_james franco is firing on all his creative cylinders in this comic bonanza about tommy wiseau, the worst filmmaker of the 21st century.",
+                        -0.6590470790242817
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

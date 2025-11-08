@@ -1,0 +1,222 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "1_frot's performance, as a woman so caught up in the joy of music that she doesn't quite understand how bad she is, is particularly delightful, and often quite moving.",
+                0.667845225678666
+            ],
+            [
+                "9_frot's performance is so towering, so convincing, that it smooths out all the film's rough edges.",
+                0.6836164964383376
+            ],
+            [
+                "13_frot salvages any of the film's shortcomings with her nuanced performance of marguerite, a sweet and isolated woman completely oblivious to her lack of talent.",
+                0.7064151085961095
+            ]
+        ],
+        "entities": {
+            "Christa Theret": {
+                "args": []
+            },
+            "Jean-Yves Tual": {
+                "args": []
+            },
+            "André Marcon": {
+                "args": []
+            },
+            "Denis M'Punga": {
+                "args": []
+            },
+            "Sophia Leboutte": {
+                "args": []
+            },
+            "Aubert Fenoy": {
+                "args": []
+            },
+            "Martine Pascal": {
+                "args": []
+            },
+            "Xavier Giannoli": {
+                "args": [
+                    [
+                        "2_ we don't laugh at marguerite, because somehow director and co-writer xavier giannoli persuades us to see in her the universal tragedy.",
+                        0.7234128031949667
+                    ],
+                    [
+                        "12_and yet even here, giannoli doesn't aim strictly for laughs.",
+                        -0.7779125004604841
+                    ],
+                    [
+                        "21_xavier giannoli offers up an amusingly entertaining portrait of fortune, infamy and severe melodic dysfunction in the polished french period dramedy, marguerite.",
+                        0.6996338930654112
+                    ]
+                ]
+            },
+            "Théo Cholbi": {
+                "args": []
+            },
+            "Christian Pereira": {
+                "args": []
+            },
+            "Michel Fau": {
+                "args": []
+            },
+            "Vincent Schmitt": {
+                "args": []
+            },
+            "Sofia Leboutte": {
+                "args": []
+            },
+            "Catherine Frot": {
+                "args": [
+                    [
+                        "4_catherine frot gives a heartrending performance as the title character, an aging baroness in 1920s paris who feverishly pursues a classical singing career ",
+                        0.6857314663706295
+                    ],
+                    [
+                        "5_but it has frot, an actress with the wise, patient eyes of a cat,",
+                        0.7035304381599073
+                    ],
+                    [
+                        "17_what redeems it is ms. frot's subtle, deeply compassionate portrayal of a rich, lonely woman clutching at an impossible dream until reality intrudes.",
+                        0.5671283764215216
+                    ],
+                    [
+                        "23_the fairly suspenseful last act of the movie hinges on just a few changes of expression that unfold slowly across frot's face.",
+                        0.5267030029940364
+                    ]
+                ]
+            },
+            "Grégoire Strecker": {
+                "args": []
+            },
+            "Sylvain Dieuaide": {
+                "args": []
+            },
+            "Astrid Whettnall": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Xavier Giannoli": {
+                "args": [
+                    [
+                        "2_ we don't laugh at marguerite, because somehow director and co-writer xavier giannoli persuades us to see in her the universal tragedy.",
+                        0.7234128031949667
+                    ],
+                    [
+                        "12_and yet even here, giannoli doesn't aim strictly for laughs.",
+                        -0.7779125004604841
+                    ],
+                    [
+                        "21_xavier giannoli offers up an amusingly entertaining portrait of fortune, infamy and severe melodic dysfunction in the polished french period dramedy, marguerite.",
+                        0.6996338930654112
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_ we don't laugh at marguerite, because somehow director and co-writer xavier giannoli persuades us to see in her the universal tragedy.",
+                0.7234128031949667
+            ],
+            [
+                "4_catherine frot gives a heartrending performance as the title character, an aging baroness in 1920s paris who feverishly pursues a classical singing career ",
+                0.6857314663706295
+            ]
+        ],
+        "entities": {
+            "Xavier Giannoli": {
+                "args": []
+            },
+            "Marcia Romano": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"marguerite\" is a dark delight, a cringe comedy that skirts tragedy throughout, examining delusion, entitlement, denial and the question of whether the truth is essential.",
+                0.7524975945885718
+            ],
+            [
+                "2_we laugh during \"marguerite,\" ",
+                0.5607271595849209
+            ],
+            [
+                "3_marguerite is a powerful film.",
+                0.7124168548836314
+            ],
+            [
+                "6_in the end, the movie gives voice not just to marguerite's deficiencies as a singer ",
+                -0.5588317492760215
+            ],
+            [
+                "7_\"marguerite\" achieves what the protagonist herself never managed: perfect pitch.",
+                0.6031403698292404
+            ],
+            [
+                "9_frot's performance is so towering, so convincing, that it smooths out all the film's rough edges.",
+                0.6836164964383376
+            ],
+            [
+                "10_the film is a little long",
+                0.5234324260059796
+            ],
+            [
+                "10_but \"marguerite\" is a shining star,",
+                0.5347553443392687
+            ],
+            [
+                "10_ a film that will set you laughing and thinking in equal measure.",
+                0.6830629694488226
+            ],
+            [
+                "12_pezzini is a terrific comic creation: an arrogant, money-grubbing divo who, by encouraging marguerite, must fight every fiber of his being.",
+                0.7246314644579616
+            ],
+            [
+                "13_frot salvages any of the film's shortcomings with her nuanced performance of marguerite, a sweet and isolated woman completely oblivious to her lack of talent.",
+                0.7064151085961095
+            ],
+            [
+                "14_meryl streep will soon play jenkins in another movie, ",
+                0.5181296969580669
+            ],
+            [
+                "15_if someone had said to marguerite early on, \"listen.",
+                -0.7013175227779873
+            ],
+            [
+                "15_ marguerite is undeniably happy when she sings.",
+                0.8078051411432178
+            ],
+            [
+                "15_it's an ethical quandary, one the film has a lot of fun exploring.",
+                0.8100083972643498
+            ],
+            [
+                "18_\"marguerite,\" in french with english subtitles, declares itself to have been \"inspired by a true story.",
+                0.731558983201591
+            ],
+            [
+                "19_it's an often witty, smoothly shot film with a couple of extraneous subplots and some last-act psychology that feels contrived.",
+                0.5882391774889348
+            ],
+            [
+                "20_marguerite is a film for those sour enough to enjoy schadenfreude ",
+                0.6730374253343533
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anushka Sharma": {
+                "args": []
+            },
+            "Satyadeep Misra": {
+                "args": []
+            },
+            "Siddhartha Basu": {
+                "args": []
+            },
+            "Manish Choudhary": {
+                "args": []
+            },
+            "Karan Johar": {
+                "args": []
+            },
+            "Ranbir Kapoor": {
+                "args": []
+            },
+            "Kay Kay Menon": {
+                "args": []
+            },
+            "Vivaan Shah": {
+                "args": []
+            },
+            "Remo Fernandes": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_[bombay velvet] is lengthy, violent and emotionally shallow ",
+                -0.6529559491726348
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Anurag Kashyap": {
+                "args": [
+                    [
+                        "3_for much of its first half, bombay velvet hums with the kind of energy found in movies by the 1970s american directors mr. kashyap seems to admire.",
+                        0.7644122725974263
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Vasan Bala": {
+                "args": []
+            },
+            "Hamad Bin Jassim Al Thani": {
+                "args": []
+            },
+            "Gyan Prakash": {
+                "args": []
+            },
+            "Anurag Kashyap": {
+                "args": []
+            }
+        }
+    }
+}

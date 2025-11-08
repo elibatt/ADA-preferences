@@ -1,0 +1,142 @@
+{
+    "acting": {
+        "entities": {
+            "Jacques Hilling": {
+                "args": []
+            },
+            "Félix Marten": {
+                "args": []
+            },
+            "Marcel Journet": {
+                "args": []
+            },
+            "Charles Denner": {
+                "args": []
+            },
+            "Gérard Darrieu": {
+                "args": []
+            },
+            "Jean-Claude Brialy": {
+                "args": []
+            },
+            "Francois Joux": {
+                "args": []
+            },
+            "Elga Andersen": {
+                "args": []
+            },
+            "Lino Ventura": {
+                "args": []
+            },
+            "Maurice Ronet": {
+                "args": []
+            },
+            "Micheline Bona": {
+                "args": []
+            },
+            "Jacqueline Staup": {
+                "args": []
+            },
+            "Jeanne Moreau": {
+                "args": [
+                    [
+                        "7_henri decaë's black-and-white cinematography brings out the melancholy mystery of paris' boulevards and cafes, and ms. moreau, shot with natural lighting and without make-up, is like a mournful goddess of glamour.",
+                        0.6933035079903636
+                    ],
+                    [
+                        "10_the movie's most compelling element of all is moreau, wandering the nighttime streets trying to find her lover.",
+                        0.6322016298232598
+                    ],
+                    [
+                        "15_what makes this swooningly atmospheric movie a true romance is the face of jeanne moreau in close-up, at once impassive, devious and tragic as she wanders the rain-soaked streets of nighttime paris.",
+                        0.590321987674836
+                    ],
+                    [
+                        "17_don't miss this opportunity to see the movie that launched the legend of jeanne moreau.",
+                        0.5475547151546467
+                    ]
+                ]
+            },
+            "Hubert Deschamps": {
+                "args": []
+            },
+            "Georges Poujouly": {
+                "args": []
+            },
+            "Iván Petrovich": {
+                "args": []
+            },
+            "Marcel Cuvelier": {
+                "args": []
+            },
+            "Yori Bertin": {
+                "args": []
+            },
+            "Jean Wall": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Louis Malle": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_a classic european film noir with an irresistible score by miles davis",
+                0.7839947993925563
+            ],
+            [
+                "1_elevator to the gallows, killer stuff.",
+                -0.5433234762690267
+            ],
+            [
+                "2_elevator to the gallows married a new kind of jazz to a new kind of cinema, and created something altogether sublime.",
+                0.7279498826998386
+            ],
+            [
+                "3_the film's alchemic blend of bressonian rigor, hitchcockian suspense, and overall proto-nouvelle vague cool more than compensates for its straightforward plotting ...",
+                0.6688256387203011
+            ],
+            [
+                "5_elevator to the gallows is a treat for the film buff.",
+                0.7344186601708105
+            ],
+            [
+                "9_the plot crackles with energy and misdirection, while the black-and-white film sharpens angles and amplifies the shadows lurking in every hallway.",
+                0.5452319951682397
+            ],
+            [
+                "13_it's also an important film historically, and to top it off, the jazz score, by miles davis, is famous in its own right.",
+                0.8541946970123315
+            ],
+            [
+                "19_if you've never seen this 1957 film-noir gem, you should be seduced by the cool nocturnal cinematography of henri decae and the languid improvisational sounds of miles davis.",
+                0.8548173650690489
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Louis Malle": {
+                "args": [
+                    [
+                        "20_it's precisely malle's omnivorous appetite that makes his first feature, adapted from a policier, so delectable, one stuffed with many sumptuous sights and sounds.",
+                        0.8485273922913847
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

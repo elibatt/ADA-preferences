@@ -1,0 +1,235 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "7_when the plot stops cold for a beauty-pageant performance of exquisite purity, you'll feel like you're watching the most american film of the year.",
+                0.7998654908260108
+            ],
+            [
+                "17_the result is a breezy, slight, southern-flavored movie where the cast appears to be having enough fun to prove mildly infectious.",
+                0.691346353163301
+            ],
+            [
+                "32_soderbergh keeps the action light and playful, and lets the cast members find their own silliness within it.",
+                0.8311599457038374
+            ]
+        ],
+        "entities": {
+            "Daniel Craig": {
+                "args": [
+                    [
+                        "12_daniel craig is off-the-chain hilarious.",
+                        0.5454854541495513
+                    ]
+                ]
+            },
+            "Riley Keough": {
+                "args": []
+            },
+            "Seth MacFarlane": {
+                "args": []
+            },
+            "Sebastian Stan": {
+                "args": []
+            },
+            "Jack Quaid": {
+                "args": []
+            },
+            "Dwight Yoakam": {
+                "args": []
+            },
+            "Channing Tatum": {
+                "args": [
+                    [
+                        "10_soderbergh is in the mood for some fun, and so is a star-filled cast led by channing tatum, adam driver and daniel craig.",
+                        0.7391658300402992
+                    ]
+                ]
+            },
+            "Adam Driver": {
+                "args": []
+            },
+            "Hilary Swank": {
+                "args": []
+            },
+            "Katie Holmes": {
+                "args": []
+            },
+            "Katherine Waterston": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "13_as a hotly anticipated comeback, it feels like a slightly dippy, ultimately disposable warm-up of a director whose brains, chops and judicious taste we need more than ever.",
+                -0.66846621532787
+            ],
+            [
+                "25_it ... feels like the director is trying to reverse-engineer one of the coen brothers' loopier excursions and not getting every one of the pieces in order.",
+                -0.7189911869065475
+            ],
+            [
+                "26_a slick, surprising summer entertainment from a terrific director who's having a helluva time just keeping everyone laughing, and guessing.",
+                0.7172071220158718
+            ]
+        ],
+        "entities": {
+            "Steven Soderbergh": {
+                "args": [
+                    [
+                        "4_it's good to have soderbergh back, even if he never was really away.",
+                        -0.5889935590974503
+                    ],
+                    [
+                        "5_steven soderbergh's \"logan lucky,\" written by rebecca blunt, is a down-home heist movie that comes across like a southern-fried variation of one of his \"ocean's\" films.",
+                        0.6633299080319424
+                    ],
+                    [
+                        "6_a slick, smarter-than-your-average-bear heist comedy that moves and grooves with all the hallmarks of a soderbergh caper.",
+                        0.69886282963071
+                    ],
+                    [
+                        "8_logan lucky is a crackerjack heist film that strongly echoes soderbergh's other crackerjack heist franchise, ",
+                        0.5575231878746326
+                    ],
+                    [
+                        "9_it's a lark, if you can tolerate the hammy redneck accents, and confirms that soderbergh is as agile as ever at knitting together all the moving parts of a complex heist.",
+                        0.7457239613299271
+                    ],
+                    [
+                        "18_the script's vibe recalls soderbergh's arch, knowing \"ocean's\" movies, ",
+                        0.667145925002661
+                    ],
+                    [
+                        "20_it takes a director of soderbergh's gifts to actually make that funny.",
+                        0.6163922772422251
+                    ],
+                    [
+                        "30_mr. soderbergh revels in squareness, and in a loose self-confidence that disguises its mastery. \"",
+                        0.6436322897614011
+                    ],
+                    [
+                        "31_ed by soderbergh, logan lucky is a magnificent movie that comes disguised as a modest one.",
+                        0.7550999905345656
+                    ],
+                    [
+                        "33_southern flavor, rampant goofiness and fun twangs go a long way in making director steven soderbergh's cinematic return such a sparkling hoot.",
+                        0.7377609829620309
+                    ],
+                    [
+                        "35_sometimes, the only reason for doing anything is to have a little fun, and soderbergh seems to be having a lot of it.",
+                        -0.6634655626887636
+                    ],
+                    [
+                        "36_we should be glad soderbergh is back, hopefully this time for good.",
+                        0.5919171099932063
+                    ],
+                    [
+                        "39_steven soderbergh's logan lucky is a high-spirited, low-down blast.",
+                        0.7237853020726431
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_the script's vibe recalls soderbergh's arch, knowing \"ocean's\" movies, ",
+                0.667145925002661
+            ]
+        ],
+        "entities": {
+            "Rebecca Blunt": {
+                "args": [
+                    [
+                        "5_steven soderbergh's \"logan lucky,\" written by rebecca blunt, is a down-home heist movie that comes across like a southern-fried variation of one of his \"ocean's\" films.",
+                        0.6633299080319424
+                    ],
+                    [
+                        "38_ blunt's screenplay scores many points by making the follow-through of the plan so damned pleasurable.",
+                        0.7679514552007044
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_soderbergh films the movie with swing, relishing the overlapping and intertwining strands of the complex plot, the brightly lit personalities of the characters it involves, and the magnificently conceived, essential tiny details ...",
+                0.6189777218110417
+            ],
+            [
+                "1_logan lucky is like a cheerful sing-a-long of a movie, sweeping its audience along easily, even if some of the details quickly vanish from memory.",
+                0.6682140067655549
+            ],
+            [
+                "2_such is the merriment of the new movie, and so spirited is its pace, that you barely notice the wavering of the tone.",
+                0.5537480492735478
+            ],
+            [
+                "3_logan lucky is as charming and welcome as toenail fungus.",
+                0.8237198884322809
+            ],
+            [
+                "7_when the plot stops cold for a beauty-pageant performance of exquisite purity, you'll feel like you're watching the most american film of the year.",
+                0.7998654908260108
+            ],
+            [
+                "11_the whole movie is a trick, reversing our expectations at nearly every turn and casting actors in roles that they were not exactly born to play, ",
+                -0.5961704022285995
+            ],
+            [
+                "12_soderbergh's return to features is a redneck riff on his ocean's 11, a cool breeze of summertime sweetness that restores the good name of movie escapism.",
+                0.7909883129427913
+            ],
+            [
+                "16_the movie is smart and funny, ",
+                0.781695168163244
+            ],
+            [
+                "17_the result is a breezy, slight, southern-flavored movie where the cast appears to be having enough fun to prove mildly infectious.",
+                0.691346353163301
+            ],
+            [
+                "19_if there is something wrong with \"logan lucky,\" i simply can't find it.",
+                -0.7825177151262622
+            ],
+            [
+                "20_perhaps \"logan lucky\" is best appreciated as a stealth commentary on tough times in america.",
+                0.7495221901941707
+            ],
+            [
+                "24_i liked the movie - it's certainly well made, and a lot of fun -",
+                0.8178268960569968
+            ],
+            [
+                "28_logan lucky lands somewhere between magic mike and the ocean's trilogy.",
+                0.6410669632334729
+            ],
+            [
+                "29_logan lucky is great fun and one of the most purely entertaining movies of the year.",
+                0.9119007094150366
+            ],
+            [
+                "30_logan lucky\" is a terrific movie.",
+                0.7123326775654008
+            ],
+            [
+                "40_this is a good-times film that doesn't put on airs, dress to impress or pretend to be something it isn't.",
+                -0.6063438970737571
+            ],
+            [
+                "41_soderbergh returns from retirement with a silly heist movie that packs real soul.",
+                0.5343682252813551
+            ]
+        ]
+    }
+}

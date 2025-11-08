@@ -1,0 +1,86 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Augustine Frizzell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"never goin' back\" is happily silly and low-down and willing to indulge in gross humor, while presenting a story about friendship and about the consequences of growing up with no money or prospects.",
+                -0.5442135417223546
+            ],
+            [
+                "3_\"never goin' back\" owes much of its watchability to the actresses' natural chemistry.",
+                -0.5083285525437156
+            ],
+            [
+                "3_together, they paint a portrait of adolescent friendship so vibrant that it makes up for much of the movie's structural flaws.",
+                0.7984993063693018
+            ],
+            [
+                "8_the movie has a ramshackle charm that's due entirely to its vivacious leads, whose mutual devotion and easy, unlabeled sexuality feels endearingly innocent.",
+                0.796153300905506
+            ],
+            [
+                "9_too bad they're given such wheezy clichés to work with.",
+                -0.8442285943065799
+            ],
+            [
+                "10_never goin' back has all the polish of its studio-produced equivalents, ",
+                -0.6179957286134659
+            ],
+            [
+                "15_the kind of after-a-dorm-party movie that could easily find a cult following over the years.",
+                0.5420580414023594
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kyle Mooney": {
+                "args": []
+            },
+            "Camila Morrone": {
+                "args": []
+            },
+            "Aristotle Abraham II": {
+                "args": []
+            },
+            "Chris Challiot": {
+                "args": []
+            },
+            "Joel Allen": {
+                "args": []
+            },
+            "Maia Mitchell": {
+                "args": [
+                    [
+                        "4_anchored by a pair of effervescent and authentically lived-in performances from mitchell and morrone, \"never goin' back\" is a sweaty, silly summer adventure, and a sincere shout-out to the power of best friendship.",
+                        0.8158586948223744
+                    ],
+                    [
+                        "11_, is attuned to the giddy intimacies of female friendship, and mitchell and morrone are a charismatic pair.",
+                        0.7379405876459267
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Augustine Frizzell": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "16_the vibrant animated feature \"the book of life\" is a cheeky celebration of mexican folklore with a solid cast, an irreverent sensibility and gorgeous visuals.",
+                0.8546601831290125
+            ]
+        ],
+        "entities": {
+            "Christina Applegate": {
+                "args": []
+            },
+            "Plácido Domingo": {
+                "args": []
+            },
+            "Ron Perlman": {
+                "args": []
+            },
+            "Tonita Castro": {
+                "args": []
+            },
+            "Angélica María": {
+                "args": []
+            },
+            "Diego Luna": {
+                "args": []
+            },
+            "Callahan Clark": {
+                "args": []
+            },
+            "Carlos Alazraqui": {
+                "args": []
+            },
+            "Ice Cube": {
+                "args": []
+            },
+            "Ricardo Sanchez": {
+                "args": []
+            },
+            "Ana de la Reguera": {
+                "args": []
+            },
+            "Eugenio Derbez": {
+                "args": []
+            },
+            "Sandra Echeverría": {
+                "args": []
+            },
+            "Trey Bumpass": {
+                "args": []
+            },
+            "Emil-Bastien Bouffard": {
+                "args": []
+            },
+            "Eric Bauza": {
+                "args": []
+            },
+            "Zoe Saldana": {
+                "args": []
+            },
+            "Miguel Sandoval": {
+                "args": []
+            },
+            "Aron Warner": {
+                "args": []
+            },
+            "Elias Garza": {
+                "args": []
+            },
+            "Dan Navarro": {
+                "args": []
+            },
+            "Channing Tatum": {
+                "args": []
+            },
+            "Hector Elizondo": {
+                "args": []
+            },
+            "Kate del Castillo": {
+                "args": [
+                    [
+                        "4_in an animated universe cluttered with kung-fu pandas, ice princesses and video-game heroes, gutierrez and del toro have conjured up an original vision.",
+                        0.547190332319781
+                    ]
+                ]
+            },
+            "Danny Trejo": {
+                "args": []
+            },
+            "Jorge R. Gutierrez": {
+                "args": []
+            },
+            "Sandra Equihua": {
+                "args": []
+            },
+            "Cheech Marin": {
+                "args": []
+            },
+            "Kennedy Peil": {
+                "args": []
+            },
+            "Ben Gleib": {
+                "args": []
+            },
+            "Brad Booker": {
+                "args": []
+            },
+            "Troy Evans": {
+                "args": []
+            },
+            "Gabriel Iglesias": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jorge R. Gutierrez": {
+                "args": [
+                    [
+                        "4_in an animated universe cluttered with kung-fu pandas, ice princesses and video-game heroes, gutierrez and del toro have conjured up an original vision.",
+                        0.547190332319781
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "25_a visually stunning effort that makes up for its formulaic storyline with an enchanting atmosphere that sweeps you into its fantastical world, or in this case, three worlds.",
+                0.868843174320065
+            ]
+        ],
+        "entities": {
+            "Douglas Langdale": {
+                "args": []
+            },
+            "Jorge R. Gutierrez": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_the book of life is a delight.",
+                0.7636943097462952
+            ],
+            [
+                "5_the book of life moves breezily from one scene to the next, keeping the pace brisk and rarely skipping a beat.",
+                0.7072616363243712
+            ],
+            [
+                "7_\"the book of life\" juxtaposes overwrought visual imagery with an undernourished, familiar story - regrettable flaws in one of the few animated films to focus on latino characters and the rich heritage of mexican folk culture.",
+                0.8272125449482463
+            ],
+            [
+                "9_ dallas' reel fx has done it with the book of life, one of the best animated films so far this year.",
+                0.866628536791472
+            ],
+            [
+                "11_the book of life's meticulous, eye-popping visuals alone would be reason enough to upgrade to a 3-d seat.",
+                0.6848901531085546
+            ],
+            [
+                "13_like mexico's day of the dead, the movie enjoyably, and successfully, mixes the macabre with the celebratory.",
+                0.6952663692920512
+            ],
+            [
+                "14_a visually stunning, funny movie that trusts children to deal with subject matter that many films don't: specifically, death.",
+                0.7838217616058047
+            ],
+            [
+                "16_the vibrant animated feature \"the book of life\" is a cheeky celebration of mexican folklore with a solid cast, an irreverent sensibility and gorgeous visuals.",
+                0.8546601831290125
+            ],
+            [
+                "18_\"the book of life\" is a flawed ",
+                0.6999138454342867
+            ],
+            [
+                "24_the book of life's hackneyed stock plot preaches tolerance while lamely reinforcing the status quo.",
+                0.6495974600312316
+            ]
+        ]
+    }
+}

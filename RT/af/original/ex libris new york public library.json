@@ -1,0 +1,67 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Frederick Wiseman": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ultimately ex libris demonstrates that libraries are about people, and what gives the film its great and accumulating force is that people are infinitely complex.",
+                0.8288751665969328
+            ],
+            [
+                "2_ex libris\" is the kind of film that makes you realize what wonders we too often take for granted, and how much work and passion go into such wonders.",
+                0.7367334693565001
+            ],
+            [
+                "5_maybe one temple of learning will inspire a visit to another: see the movie, then pop into your local biblioteca.",
+                0.6640569355588991
+            ],
+            [
+                "6_\"ex libris\" is a profoundly hopeful movie.",
+                0.5687402322709699
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Frederick Wiseman": {
+                "args": [
+                    [
+                        "4_as with all of wiseman's films, the whole is so very much greater than the sum of its parts.",
+                        0.6398856518668334
+                    ],
+                    [
+                        "10_one would be quite wrong to regard frederick wiseman as a mere observer, rather than the agent-provocateur he is.",
+                        0.5293058649208332
+                    ],
+                    [
+                        "13_one of the greatest movies of mr. wiseman's extraordinary career and one of his most thrilling.",
+                        0.8621355955451135
+                    ],
+                    [
+                        "15_a film about the importance of cultural history and truth (two things deeply under siege these days), wiseman's epic ex libris might make you cry with happiness",
+                        0.6588609318618196
+                    ],
+                    [
+                        "19_never talking down to his audience, [wiseman] rather pulls them up to an intellectual level where other filmmakers fear to go.",
+                        -0.5256813571387379
+                    ]
+                ]
+            }
+        }
+    }
+}

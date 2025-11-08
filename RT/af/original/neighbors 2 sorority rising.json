@@ -1,0 +1,279 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ the movie is all digression and shouted exposition.",
+                -0.5730962876698287
+            ],
+            [
+                "2_there are about six really good laughs during the film's 92-minute running length.",
+                -0.5194888045131067
+            ],
+            [
+                "3_the film's hurry to rush through its plethora of characters becomes a strength, because we don't have enough time to get bored by any one scene.",
+                -0.6855777524839799
+            ],
+            [
+                "5_ they could have been taken from - or slipped into - any movie.",
+                -0.7903031149704074
+            ],
+            [
+                "8_title ix has finally hit the college party movie genre and the result is just as goofily funny and mind-bendingly stupid as its testosterone-driven predecessors.",
+                -0.5570083721405235
+            ],
+            [
+                "10_ the movie relies mostly on his heart.",
+                -0.5198740666711721
+            ],
+            [
+                "13_an enormously likable film.",
+                0.7034753854599315
+            ],
+            [
+                "15_i couldn't wait for this movie to end.",
+                -0.6176250462068973
+            ],
+            [
+                "22_none of the film's five writers is a woman, ",
+                0.5701037483936666
+            ],
+            [
+                "26_isn't it time that the ladies got their own rollicking, foul-mouthed, thc-soaked party movie?",
+                -0.5803953544262683
+            ],
+            [
+                "28_with the added layer of humor that comes with switching genders, neighbors 2 ends up offering even more laughs than the original movie.",
+                0.613245464013104
+            ],
+            [
+                "33_the film has a knowingly conflicted engagement with millennial-generation feminism that freshens its outlook even as it unevenly rejigs many of its predecessor's gags.",
+                0.7874644439387312
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Nicholas Stoller": {
+                "args": [
+                    [
+                        "11_if earlier rogen and stoller movies mined experience for laughs, this one is so contrived that it's like it began life as a checklist of things that are supposed to be funny today.",
+                        -0.6088370369992036
+                    ],
+                    [
+                        "16_director nicholas stoller doesn't have any more luck stringing the story together than he did the first time around, ",
+                        -0.5836987607824035
+                    ],
+                    [
+                        "32_in their awkward attempt to shoehorn these kids into the first pic's formula, stoller and his writing collaborators care far less about creating believable characters than getting to the next laugh.",
+                        -0.5704342452842446
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Selena Gomez": {
+                "args": []
+            },
+            "Hannibal Buress": {
+                "args": []
+            },
+            "Christopher Mintz-Plasse": {
+                "args": []
+            },
+            "Liz Cackowski": {
+                "args": []
+            },
+            "Jerrod Carmichael": {
+                "args": []
+            },
+            "Lisa Kudrow": {
+                "args": []
+            },
+            "Denryc Hill": {
+                "args": []
+            },
+            "Clara Mamet": {
+                "args": []
+            },
+            "Abbi Jacobson": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": [
+                    [
+                        "5_a few bits of great physical comedy remain, as when rogen and efron get locked in a garage.",
+                        0.5613612454765557
+                    ],
+                    [
+                        "7_one of the best things about the movie, aside from its screwily positive message, is the blithely freewheeling yet clever way that rogen and company assemble the story's puzzle pieces.",
+                        0.8157860353768234
+                    ],
+                    [
+                        "11_if earlier rogen and stoller movies mined experience for laughs, this one is so contrived that it's like it began life as a checklist of things that are supposed to be funny today.",
+                        -0.6088370369992036
+                    ],
+                    [
+                        "25_and a team of screenwriters, including rogen, poke fun at their own cash-in premise and then get in wicked digs at 2.0 stoners and sexists.",
+                        0.6558226174264306
+                    ],
+                    [
+                        "30_this wonderful sequel leaves america in a pretty good place: weed is practically legal, girls are people too, and seth rogen is the new tom hanks.",
+                        0.8620408989182465
+                    ]
+                ]
+            },
+            "Brian K. Johnson": {
+                "args": []
+            },
+            "Zoey Vargas": {
+                "args": []
+            },
+            "Kemuel Crossty": {
+                "args": []
+            },
+            "Chloë Grace Moretz": {
+                "args": []
+            },
+            "Cameron Hill": {
+                "args": []
+            },
+            "Elise Vargas": {
+                "args": []
+            },
+            "Miles Armstrong": {
+                "args": []
+            },
+            "Beanie Feldstein": {
+                "args": []
+            },
+            "Johnny Pemberton": {
+                "args": []
+            },
+            "Ike Barinholtz": {
+                "args": []
+            },
+            "Kelsey Grammer": {
+                "args": []
+            },
+            "Cameron Hillman": {
+                "args": []
+            },
+            "Ian Gregg": {
+                "args": []
+            },
+            "Ciara Bravo": {
+                "args": []
+            },
+            "Rose Byrne": {
+                "args": [
+                    [
+                        "25_rogen and byrne are crazy fun company.",
+                        0.6156329966131309
+                    ]
+                ]
+            },
+            "John Early": {
+                "args": []
+            },
+            "Billy Eichner": {
+                "args": []
+            },
+            "Sam Richardson": {
+                "args": []
+            },
+            "Robert Windsor Jones Jr.": {
+                "args": []
+            },
+            "Zac Efron": {
+                "args": [
+                    [
+                        "10_unexpectedly, mr. efron has developed a sweet gift for highlighting the poignancy that undergirds his studmuffin persona",
+                        0.7598522535541388
+                    ]
+                ]
+            },
+            "Awkwafina": {
+                "args": []
+            },
+            "Carla Gallo": {
+                "args": []
+            },
+            "Dave Franco": {
+                "args": []
+            },
+            "Jacob Wysocki": {
+                "args": []
+            },
+            "Brian Huskey": {
+                "args": []
+            },
+            "Kiersey Clemons": {
+                "args": []
+            },
+            "Kyle Mooney": {
+                "args": []
+            },
+            "Harrison Thacker": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Seth Rogen": {
+                "args": [
+                    [
+                        "5_a few bits of great physical comedy remain, as when rogen and efron get locked in a garage.",
+                        0.5613612454765557
+                    ],
+                    [
+                        "7_one of the best things about the movie, aside from its screwily positive message, is the blithely freewheeling yet clever way that rogen and company assemble the story's puzzle pieces.",
+                        0.8157860353768234
+                    ],
+                    [
+                        "11_if earlier rogen and stoller movies mined experience for laughs, this one is so contrived that it's like it began life as a checklist of things that are supposed to be funny today.",
+                        -0.6088370369992036
+                    ],
+                    [
+                        "25_and a team of screenwriters, including rogen, poke fun at their own cash-in premise and then get in wicked digs at 2.0 stoners and sexists.",
+                        0.6558226174264306
+                    ],
+                    [
+                        "30_this wonderful sequel leaves america in a pretty good place: weed is practically legal, girls are people too, and seth rogen is the new tom hanks.",
+                        0.8620408989182465
+                    ]
+                ]
+            },
+            "Brendan O'Brien": {
+                "args": []
+            },
+            "Evan Goldberg": {
+                "args": []
+            },
+            "Andrew Jay Cohen": {
+                "args": []
+            },
+            "Nicholas Stoller": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_the screenplay ties itself into a knot from the start, when it presents the founding of the nasty sorority as a feminist event.",
+                -0.6346114746871028
+            ],
+            [
+                "32_in their awkward attempt to shoehorn these kids into the first pic's formula, stoller and his writing collaborators care far less about creating believable characters than getting to the next laugh.",
+                -0.5704342452842446
+            ]
+        ]
+    }
+}

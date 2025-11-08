@@ -1,0 +1,186 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Thea Sharrock": {
+                "args": [
+                    [
+                        "15_ing director, thea sharrock, a respected stage veteran, manage with dramatic credibility.",
+                        0.547294259436538
+                    ],
+                    [
+                        "26_ in me before you she's undermined by director sharrock's technique, and an endless slew of overeager reaction shots.",
+                        -0.5845402034307812
+                    ],
+                    [
+                        "29_moyes and director thea sharrock kept the love story too shallow to be really intriguing.",
+                        -0.5246814307250672
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "9_before you is a beautifully filmed and well-intentioned weeper marred by an unfortunate performance from one of the leads, and a plot development that leaves us more angry and frustrated than moved in the final act.",
+                -0.5883250450873033
+            ]
+        ],
+        "entities": {
+            "Charles Dance": {
+                "args": [
+                    [
+                        "5_the only real acting in this movie comes from janet mcteer and charles dance as will's aggrieved parents.",
+                        0.6128986364918463
+                    ]
+                ]
+            },
+            "Joanna Lumley": {
+                "args": []
+            },
+            "Matthew Lewis": {
+                "args": []
+            },
+            "Stephen Chance": {
+                "args": []
+            },
+            "Janet McTeer": {
+                "args": []
+            },
+            "Pablo Raybould": {
+                "args": []
+            },
+            "Vanessa Kirby": {
+                "args": []
+            },
+            "Chuku Modu": {
+                "args": []
+            },
+            "Samantha Spiro": {
+                "args": []
+            },
+            "Brendan Coyle": {
+                "args": []
+            },
+            "Jenna-Louise Coleman": {
+                "args": []
+            },
+            "Gabrielle Downey": {
+                "args": []
+            },
+            "Sharon Ballard": {
+                "args": []
+            },
+            "Richard Goulding": {
+                "args": []
+            },
+            "Lily Travers": {
+                "args": []
+            },
+            "Ben Lloyd-Hughes": {
+                "args": []
+            },
+            "Stephen Peacocke": {
+                "args": []
+            },
+            "Diane Morgan": {
+                "args": []
+            },
+            "Henri Kirkham": {
+                "args": []
+            },
+            "Sam Claflin": {
+                "args": []
+            },
+            "Emilia Clarke": {
+                "args": []
+            },
+            "Manuel Severi": {
+                "args": []
+            },
+            "Eileen Dunwoodie": {
+                "args": []
+            },
+            "Verity Marshall": {
+                "args": []
+            },
+            "Muzz Khan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jojo Moyes": {
+                "args": [
+                    [
+                        "0_this adaptation of jojo moyes's best-seller (scripted by the novelist herself) might have the structure of a comfort-food weepie, ",
+                        0.5317304282512352
+                    ],
+                    [
+                        "2_fans of the best-selling novel by jojo moyes will be heartened to hear that she wrote the screenplay, too, and that she has preserved all the lines that - when read aloud - will provide much mirth at your next dinner party.",
+                        -0.5182391625589733
+                    ],
+                    [
+                        "17_jojo moyes adapted her own best-selling book, which helps give me before you a singular inviting vibe instead of feeling like the fault in our stars 2.",
+                        0.7380626035151552
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_such a wonderfully uncynical movie that it almost doesn't matter that it isn't very good.",
+                0.5769329587307137
+            ],
+            [
+                "7_this film cost $20-million to make and, at its heart, is a glossy, live-action beauty and the beast, with a quadriplegic in the role of non-human animal.",
+                0.627418571958041
+            ],
+            [
+                "10_i can't recommend this movie to anyone older than high school age.",
+                -0.6261213791910933
+            ],
+            [
+                "14_it's intriguing to see the bits of ambitious ethical weightiness mingled with the movie's gloss.",
+                0.6145107518653896
+            ],
+            [
+                "20_it's that kind of film.",
+                0.6815006852801344
+            ],
+            [
+                "22_you may find the film courageous, ",
+                -0.5489105667349614
+            ],
+            [
+                "23_luckily, many of the plot's maudlin pitfalls are greatly mitigated by the film's utterly infectious leading lady.",
+                0.7622170549941373
+            ],
+            [
+                "25_overall, the film is sweet ",
+                0.6960932490589
+            ],
+            [
+                "31_the film becomes a testament to the transcendent power of love - ",
+                0.7567226152798132
+            ],
+            [
+                "34_this is the kind of movie that can't even get its shameless audience-pandering in order.",
+                -0.754262427982263
+            ],
+            [
+                "36_these are deep, complicated issues the film wades into, and it quickly winds up out of its depth.",
+                -0.5577073164169701
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

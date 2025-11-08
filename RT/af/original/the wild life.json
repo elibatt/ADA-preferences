@@ -1,0 +1,84 @@
+{
+    "acting": {
+        "entities": {
+            "Dieter Hallervorden": {
+                "args": []
+            },
+            "Aylin Tezel": {
+                "args": []
+            },
+            "Cindy aus Marzahn": {
+                "args": []
+            },
+            "Matthias Schweighöfer": {
+                "args": []
+            },
+            "Kaya Yanar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Lee Christopher": {
+                "args": []
+            },
+            "Graham Welldon": {
+                "args": []
+            },
+            "Domonic Paris": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the total lack of snark and cynicism in the film is refreshing.",
+                -0.5315917496217888
+            ],
+            [
+                "2_it's no great shock when a movie based on a beloved book falls short of the original, ",
+                0.5056800132300749
+            ],
+            [
+                "2_ few fail as confoundingly as \"the wild life.\"",
+                -0.5362392858914755
+            ],
+            [
+                "4_\"the wild life\" is an import from belgium that should have been left at customs.",
+                0.5199069360059668
+            ],
+            [
+                "5_ judging from \"the wild life,\" their animated fare needs help.",
+                0.5932558747300938
+            ],
+            [
+                "6_\"the wild life\" is pretty to look at, with its skies and ocean, calm or stormy, and it has a driving soundtrack.",
+                0.7369026882761816
+            ],
+            [
+                "7_it's like the generic version of a disney movie.",
+                -0.5951289821843109
+            ],
+            [
+                "13_the sort of uninspired international pre-sales item that usually goes straight from a basement booth at the cannes film market to a netflix parent's peripheral vision.",
+                -0.6119528504508102
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Vincent Kesteloot": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_it's a movie in which too-muchness ends up being not-enoughness, since the script lacks a vital center.",
+                -0.7740640202353567
+            ],
+            [
+                "5_unfortunately, the central character is as small figuratively as he is literally, and that limits the movie's capacity to enthrall and engage.",
+                -0.5757966209823036
+            ],
+            [
+                "21_co-writer and director alexander payne takes an intriguing premise and inexplicably flushes it down the toilet.",
+                -0.5526952116946318
+            ]
+        ],
+        "entities": {
+            "Alexander Payne": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film, having launched a sprightly comic conceit, lets it glide away.",
+                0.7636848687539137
+            ],
+            [
+                "1_it's a movie in which too-muchness ends up being not-enoughness, since the script lacks a vital center.",
+                -0.7740640202353567
+            ],
+            [
+                "2_downsizing never quite goes where you think it's going, and normally, i'd say that's a plus.",
+                0.5049640520749262
+            ],
+            [
+                "5_unfortunately, the central character is as small figuratively as he is literally, and that limits the movie's capacity to enthrall and engage.",
+                -0.5757966209823036
+            ],
+            [
+                "9_it's the rare movie that seems to execute every part of its concept absolutely wrong",
+                0.717163547143795
+            ],
+            [
+                "10_the film then wanders into murky, puzzling territory, leaving viewers to wonder exactly what the story was all about.",
+                -0.6334018934667052
+            ],
+            [
+                "15_the movie is a surprise, the good kind, an instance of a filmmaker zigging just when you're expecting him to zag.",
+                0.6656300629562464
+            ],
+            [
+                "17_it's hard not to appreciate the visual and thematic scope of \"downsizing's\" reach.",
+                0.6799714022149863
+            ],
+            [
+                "18_the movie resembles an episode of \"the twilight zone\" directed by preston sturges.",
+                -0.6622837377320789
+            ],
+            [
+                "20_in a multiplex full of sequels and retreads \"downsizing\" does stand out.",
+                -0.5313637385180354
+            ],
+            [
+                "23_by the end, \"downsizing\" is one of those great ideas that should have just stayed an idea.",
+                0.5000014219141802
+            ],
+            [
+                "24_the film's ultimate message - help other people, basically - is, while useful and necessary, dramatically rather slack ...",
+                -0.6382915205326712
+            ],
+            [
+                "28_after having gone to great lengths to explain its premise, downsizing thus shifts gears about halfway through, becoming a pretty good movie, just not exactly the one you'd been watching until then.",
+                -0.5158649555422609
+            ],
+            [
+                "32_\"downsizing\" runs out of steam long before it's over.",
+                -0.7534993678619015
+            ],
+            [
+                "33_throughout downsizing, i kept asking myself what the point of all of this was, never engaged by its hodgepodge of themes.",
+                -0.651339158836578
+            ],
+            [
+                "34_downsizing is less a fully-formed satire than a clever idea stranded in first draft and stretched uncomfortably to feature length.",
+                -0.5444287280933552
+            ],
+            [
+                "36_... \"downsizing\" is rife with witty visual touches and inspired comic premises ",
+                0.7627697152192723
+            ],
+            [
+                "37_downsizing is a self-satisfied sci-fi nothingburger that shies away from its early suggestiveness and goes as deep as your average black mirror episode.",
+                0.5362102538304083
+            ],
+            [
+                "38_captivating, funny and possessed of a surprise-filled zig-zag structure that makes it impossible to anticipate where it's headed, this is a deeply humane film that, like the best hollywood classics, feels both entirely of its moment and timeless.",
+                0.8323616765662256
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Brigette Lundy-Paine": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": []
+            },
+            "Jason Sudeikis": {
+                "args": []
+            },
+            "Laura Dern": {
+                "args": []
+            },
+            "Christoph Waltz": {
+                "args": []
+            },
+            "Hong Chau": {
+                "args": []
+            },
+            "Udo Kier": {
+                "args": []
+            },
+            "James Van Der Beek": {
+                "args": []
+            },
+            "Matt Damon": {
+                "args": [
+                    [
+                        "31_with deeply felt performances from matt damon and hong chau and startling special effects in miniature, alexander payne's sci-fi satire brims over with the pleasures of the unexpected.",
+                        0.8008396443715741
+                    ]
+                ]
+            },
+            "Neil Patrick Harris": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "13_there's no doubt about one thing: the director's considerable talent is on full display here.",
+                -0.5841943639810543
+            ]
+        ],
+        "entities": {
+            "Alexander Payne": {
+                "args": [
+                    [
+                        "4_if payne had landed the mix of genres, downsizing could have been a masterpiece.",
+                        0.6323287810539376
+                    ],
+                    [
+                        "11_ payne delivers a comedy for those who enjoy contemplating bigger themes behind the laughs along with an ending that is aptly sublime.",
+                        0.8208106320290017
+                    ],
+                    [
+                        "12_as the movie grinds on, payne tries to steer it into a parable about climate change and the refugee crisis, issues that sit heavily on its flimsy, jokey premise.",
+                        -0.5169633743281679
+                    ],
+                    [
+                        "16_you never quite know where \"downsizing\" is going, and that is by design: payne is unafraid to cultivate destabilization in his audience that some members will find off-putting, others liberating.",
+                        0.5063545384508303
+                    ],
+                    [
+                        "19_ the sci-fi trappings of downsizing make it seem like a big departure from payne's previous work - the descendants, sideways,",
+                        0.6186092261436946
+                    ],
+                    [
+                        "20_much of payne's political satire does hit the mark and hit it well.",
+                        0.7048427139096503
+                    ],
+                    [
+                        "21_co-writer and director alexander payne takes an intriguing premise and inexplicably flushes it down the toilet.",
+                        -0.5526952116946318
+                    ],
+                    [
+                        "25_it's curious that so bold a film as alexander payne's apocalyptic cli-fi satire downsizing fails because of a fundamental lack of nerve.",
+                        -0.590519674958544
+                    ],
+                    [
+                        "26_alexander payne's sci-fi comedy-drama is half-brilliant and half-meandering, ",
+                        0.6143669557426131
+                    ],
+                    [
+                        "29_alexander payne's new sci-fi comedy, about a near future in which humans can opt to \"go small,\" squanders its big ideas in record time.",
+                        0.5518018247404386
+                    ],
+                    [
+                        "31_with deeply felt performances from matt damon and hong chau and startling special effects in miniature, alexander payne's sci-fi satire brims over with the pleasures of the unexpected.",
+                        0.8008396443715741
+                    ],
+                    [
+                        "39_the most whimsically outlandish film of payne's career, ",
+                        0.7575444401187337
+                    ]
+                ]
+            }
+        }
+    }
+}

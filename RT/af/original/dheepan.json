@@ -1,0 +1,155 @@
+{
+    "director": {
+        "args": [
+            [
+                "28_while the unhurried pace is challenging for a film with relatively little narrative incident, it's a pleasure to put yourself in the hands of such a confident director.",
+                0.8307605598925003
+            ]
+        ],
+        "entities": {
+            "Jacques Audiard": {
+                "args": [
+                    [
+                        "1_shooting on actual locations and with a cast of nonprofessional actors, writer-director jacques audiard keeps the neorealism pumping until a third act concession to conventionality (and vigilantism) leads it in the direction of cannon pictures.",
+                        0.7145447285417864
+                    ],
+                    [
+                        "2_a jacques audiard movie looks deceptively naturalistic, ",
+                        0.5857953187883178
+                    ],
+                    [
+                        "8_further cements audiard as a singular chronicler of roiling souls desperately navigating a way out of circumstances that threaten to upend them entirely.",
+                        0.7246649079170656
+                    ],
+                    [
+                        "11_, there's a leanness and economy to audiard's filmmaking that gradually shifts, via dreamlike ellipses and temporal blurs, into a poetically heightened register.",
+                        0.7025451826493145
+                    ],
+                    [
+                        "23_represents everything that makes audiard one of the most exciting forces in contemporary french cinema.",
+                        0.7751122941481845
+                    ],
+                    [
+                        "26_though it takes a jarring left turn at the end, this bears the same immaculate plot construction and tonal consistency of audiard's previous films, augmented by sensitive,",
+                        -0.5974587020778974
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "1_shooting on actual locations and with a cast of nonprofessional actors, writer-director jacques audiard keeps the neorealism pumping until a third act concession to conventionality (and vigilantism) leads it in the direction of cannon pictures.",
+                0.7145447285417864
+            ]
+        ],
+        "entities": {
+            "Vincent Rottiers": {
+                "args": []
+            },
+            "Jesuthasan Anthonythasan": {
+                "args": []
+            },
+            "Faouzi Bensaïdi": {
+                "args": []
+            },
+            "Franck Falise": {
+                "args": []
+            },
+            "Marc Zinga": {
+                "args": []
+            },
+            "Kalieaswari Srinivasan": {
+                "args": [
+                    [
+                        "26_ superlative performances from jesuthasan and srinivasan.",
+                        0.6523902163633256
+                    ]
+                ]
+            },
+            "Claudine Vinasithamby": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_shooting on actual locations and with a cast of nonprofessional actors, writer-director jacques audiard keeps the neorealism pumping until a third act concession to conventionality (and vigilantism) leads it in the direction of cannon pictures.",
+                0.7145447285417864
+            ]
+        ],
+        "entities": {
+            "Noé Debré": {
+                "args": []
+            },
+            "Jacques Audiard": {
+                "args": []
+            },
+            "Thomas Bidegain": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film simmers and builds until it boils over in an explosive climax.",
+                0.5131185566101357
+            ],
+            [
+                "2_ \"dheepan\" is no exception.",
+                -0.654278709674099
+            ],
+            [
+                "5_for three-quarters of its running time, \"dheepan\" feels like something special.",
+                -0.6527360157334119
+            ],
+            [
+                "9_complicated lives get tough yet compassionate treatment in dheepan.",
+                -0.5067647375683202
+            ],
+            [
+                "13_as a narrative of immigrant life, \"dheepan\" moves swiftly, with intriguing twists and turns.",
+                0.7912316385027949
+            ],
+            [
+                "14_dheepan, for all its flaws, is hard-hitting in ways that count.",
+                0.7603604475672618
+            ],
+            [
+                "15_it's simply that dheepan's cultural clashes are richer than its man-vs-thug ones.",
+                -0.5647839564673063
+            ],
+            [
+                "16_\"dheepan\" is finely-drawn, beautifully shot and acted, featuring complex characters doing their best in no-win situations.",
+                0.7769429627410334
+            ],
+            [
+                "19_one part of the film can't be reconciled with the other.",
+                -0.5401870106012626
+            ],
+            [
+                "20_the remarkable performances from the central trio are what carries the film.",
+                0.8139690360529578
+            ],
+            [
+                "25_dheepan is still a warm, alarming, heartache-y watch, about three people united in fleeing one kind of danger for another.",
+                0.7114219220742966
+            ],
+            [
+                "27_what keeps dheepan engaging throughout is the tremendous charisma of the performers.",
+                0.6311910412628472
+            ],
+            [
+                "28_while the unhurried pace is challenging for a film with relatively little narrative incident, it's a pleasure to put yourself in the hands of such a confident director.",
+                0.8307605598925003
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

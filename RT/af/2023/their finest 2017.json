@@ -1,0 +1,149 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "16_\"their finest\" is a charming and ",
+                0.8607786964660988
+            ],
+            [
+                "0_it feels inappropriate to be moved by a film about propaganda during an era of \"alternative facts.\"",
+                0.6809102110296884
+            ],
+            [
+                "1_there's a sweet love story and some wonderful work by an array of british actors.",
+                0.8451154527441063
+            ],
+            [
+                "3_their finest is poignant, well-acted, and at times, pretty fun to watch.",
+                0.8342914723374598
+            ],
+            [
+                "5_scherfig has shot the film in a soft-focus wash of chestnut and sepia tones -- the colours of nostalgia -- and the screenplay catches evans' tone without being quite as funny as the book, ",
+                0.7424482108781585
+            ],
+            [
+                "7_stories to inspire a nation have long made up a sizable percentage of hollywood schlock, and their finest deserves credit for exploring a woman's role in such an effort.",
+                0.6858842926363977
+            ],
+            [
+                "10_ the narrative for their finest occasionally rambles ...",
+                0.6277256668068526
+            ],
+            [
+                "14_you'd need a heart of stone and a funny bone of porridge not to enjoy this sweet-natured and eminently lovable british film - a 1940s adventure, with moments of brashness and poignancy.",
+                0.8475827033389607
+            ],
+            [
+                "15_the production makes charming use of the no-budget film-within-the-film and of its talented, likeable ensemble.",
+                0.8462372688346296
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "6",
+                1
+            ],
+            [
+                "17",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Lone Scherfig": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "5_scherfig has shot the film in a soft-focus wash of chestnut and sepia tones -- the colours of nostalgia -- and the screenplay catches evans' tone without being quite as funny as the book, ",
+                0.7424482108781585
+            ],
+            [
+                "6_arterton brings a grace and dignity to the role, which suggests reserves of courage in her character that the screenplay only hints at.",
+                0.6376206606933119
+            ]
+        ],
+        "entities": {
+            "Gaby Chiappe": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "17_grows into something special, powered forward by arterton's charming central turn.",
+                0.7240937523198774
+            ],
+            [
+                "4_arterton is excellent, her chemistry with claflin absolute perfection, the two actors disappearing into their respective roles.",
+                0.856337388900543
+            ]
+        ],
+        "entities": {
+            "Gemma Arterton": {
+                "unique_args": [
+                    [
+                        "17_grows into something special, powered forward by arterton's charming central turn.",
+                        0.7240937523198774
+                    ]
+                ]
+            },
+            "Sam Claflin": {
+                "unique_args": [
+                    [
+                        "4_arterton is excellent, her chemistry with claflin absolute perfection, the two actors disappearing into their respective roles.",
+                        0.856337388900543
+                    ]
+                ]
+            },
+            "Bill Nighy": {
+                "unique_args": []
+            },
+            "Helen McCrory": {
+                "unique_args": []
+            },
+            "Jack Huston": {
+                "unique_args": []
+            },
+            "Richard E. Grant": {
+                "unique_args": []
+            },
+            "Rachael Stirling": {
+                "unique_args": []
+            },
+            "Henry Goodman": {
+                "unique_args": []
+            },
+            "Jeremy Irons": {
+                "unique_args": []
+            },
+            "Paul Ritter": {
+                "unique_args": []
+            },
+            "Jake Lacy": {
+                "unique_args": []
+            },
+            "Claudia Jessie": {
+                "unique_args": []
+            },
+            "Stephanie Hyam": {
+                "unique_args": []
+            },
+            "Eddie Marsan": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

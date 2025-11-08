@@ -1,0 +1,216 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Carl Gottlieb": {
+                "args": []
+            },
+            "Howard Sackler": {
+                "args": []
+            },
+            "Peter Benchley": {
+                "args": [
+                    [
+                        "3_director steven spielberg has immeasurably improved the bestselling peter benchley potboiler novel.",
+                        0.575563167987292
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_jaws is a grisly film, often ugly as sin, which achieves precisely what it set out to accomplish-scare the hell out of you.",
+                0.6047257539886352
+            ],
+            [
+                "2_perhaps the most perfectly constructed horror story in our time.",
+                0.7765823856558788
+            ],
+            [
+                "4_spielberg had paced the film beautifully so that one is always on edge, tensed for those scary moments that turn out to be false alarms, and left somehow totally unprepared for the real shocks.",
+                0.585976701093583
+            ],
+            [
+                "5_it may be the most cheerfully perverse scare movie ever made.",
+                0.7519970790233496
+            ],
+            [
+                "5_even while you're convulsed with laughter",
+                0.5998731159190047
+            ],
+            [
+                "5_you're still apprehensive, because the editing rhythms are very tricky, and the shock images loom up huge, right on top of you.",
+                0.7841843688083838
+            ],
+            [
+                "6_the result is a fast-paced, straight-line thriller that moves without pause toward the climactic contest at sea between three men and a 25-foot, 3-ton great while killer shark.",
+                0.7442469188870164
+            ],
+            [
+                "7_it is a coarse-grained and exploitive work which depends on excess for its impact.",
+                -0.511667860787685
+            ],
+            [
+                "7_ashore it is a bore, awkwardly staged and lumpily written.",
+                -0.7185809734226996
+            ],
+            [
+                "8_what this movie is about, and where it succeeds best, is the primordial level of fear.",
+                0.7333240184465593
+            ],
+            [
+                "9_a near hitchcockian exercise in transference of guilt and making the audience pay for its illicit pleasures.",
+                0.6174151925693641
+            ],
+            [
+                "10_spielberg may be the man who created the new hollywood, ",
+                0.6812156959093021
+            ],
+            [
+                "10_ in his first megahit he summed up what was best in the old -- the humor, the perversity, and the storytelling integrity of alfred hitchcock.",
+                0.6912985530106851
+            ],
+            [
+                "12_spielberg works self-effacingly, with subtly correct camera placement and meticulous editing.",
+                0.6664771854712862
+            ],
+            [
+                "12_he twists our guts with false alarms, giving us the real thing with heart-stopping suddenness.",
+                0.6739810623993729
+            ],
+            [
+                "14_the fast-moving 124-minute film engenders enormous suspense as the shark attacks a succession of people.",
+                -0.501193701563552
+            ],
+            [
+                "15_it's no wonder a generation of holidaymakers still thinks twice before stepping into the water.",
+                0.5867104904433732
+            ],
+            [
+                "16_when it comes to this kind of thriller, no movie has been able to top jaws, ",
+                -0.6446253612298092
+            ],
+            [
+                "16_and, as the years go by, it seems increasingly unlikely that anything will come close.",
+                -0.5708790718945217
+            ],
+            [
+                "17_jaws is a sensationally effective action picture, a scary thriller that works all the better because it's populated with characters that have been developed into human beings we get to know and care about.",
+                0.752351205490605
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert W. Chambers": {
+                "args": []
+            },
+            "Chris Rebello": {
+                "args": []
+            },
+            "Alfred Wilde": {
+                "args": []
+            },
+            "Roy Scheider": {
+                "args": []
+            },
+            "Jonathan Filley": {
+                "args": []
+            },
+            "Jeffrey Kramer": {
+                "args": []
+            },
+            "Jay Mello": {
+                "args": []
+            },
+            "Murray Hamilton": {
+                "args": []
+            },
+            "Dr. Robert Nevin": {
+                "args": []
+            },
+            "Edward Chalmers Jr.": {
+                "args": []
+            },
+            "Robert Martin Carroll": {
+                "args": []
+            },
+            "Jeffrey Voorhees": {
+                "args": []
+            },
+            "Donald Poole": {
+                "args": []
+            },
+            "Susan Backlinie": {
+                "args": []
+            },
+            "Lorraine Gary": {
+                "args": []
+            },
+            "Allison Caine": {
+                "args": []
+            },
+            "Richard Dreyfuss": {
+                "args": []
+            },
+            "Cyprian R. Dube": {
+                "args": []
+            },
+            "Robert Shaw": {
+                "args": []
+            },
+            "Peter Benchley": {
+                "args": [
+                    [
+                        "3_director steven spielberg has immeasurably improved the bestselling peter benchley potboiler novel.",
+                        0.575563167987292
+                    ]
+                ]
+            },
+            "Lee Fierro": {
+                "args": []
+            },
+            "Craig Kingsbury": {
+                "args": []
+            },
+            "Ted Grossman": {
+                "args": []
+            },
+            "Carl Gottlieb": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Steven Spielberg": {
+                "args": [
+                    [
+                        "1_i don't think there's a more exciting talent at work right now than spielberg, an authentic moviemaking prodigy, and perhaps his worst problem from june 20, 1975, on will be preventing success from making a nervous or artistic wreck of him.",
+                        0.5084206061679941
+                    ],
+                    [
+                        "3_director steven spielberg has immeasurably improved the bestselling peter benchley potboiler novel.",
+                        0.575563167987292
+                    ],
+                    [
+                        "11_mr. spielberg has so effectively spaced out the shocks that by the time we reach the spectacular final confrontation between the three men and the great white shark, we totally accept the makebelieve on its own foolishly entertaining terms.",
+                        0.8540291358854737
+                    ],
+                    [
+                        "13_steven spielberg's mechanical thriller is guaranteed to make you scream on schedule.",
+                        0.5120942637015912
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "writer": {
+        "entities": {
+            "Phil Hay": {
+                "args": []
+            },
+            "Matt Manfredi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jordi Vilasuso": {
+                "args": []
+            },
+            "Patricia Gates": {
+                "args": []
+            },
+            "John Carroll Lynch": {
+                "args": [
+                    [
+                        "3_john carroll lynch shares credit with a superb ensemble, ",
+                        0.83183484823287
+                    ]
+                ]
+            },
+            "Marieh Delfino": {
+                "args": []
+            },
+            "Lindsay Burdge": {
+                "args": []
+            },
+            "Jay Larson": {
+                "args": []
+            },
+            "Tammy Blanchard": {
+                "args": []
+            },
+            "Michelle Krusiec": {
+                "args": []
+            },
+            "Emayatzy E. Corinealdi": {
+                "args": []
+            },
+            "Karl Yune": {
+                "args": []
+            },
+            "Danielle Camastra": {
+                "args": []
+            },
+            "Logan Marshall-Green": {
+                "args": []
+            },
+            "Michiel Huisman": {
+                "args": []
+            },
+            "Mike Doyle": {
+                "args": []
+            },
+            "Toby Huss": {
+                "args": []
+            },
+            "Aiden Lovekamp": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_beautifully paced, the movie traces a steady arc from amiability to apocalypse.",
+                0.6664042081982169
+            ],
+            [
+                "4_it's evident from the bloody prologue where \"the invitation\" is headed.",
+                -0.6912475075885414
+            ],
+            [
+                "6_accept \"the invitation\" and don't ask any more questions.",
+                0.501329322861624
+            ],
+            [
+                "8_the invitation maintains a unique intrigue that constantly defies expectations.",
+                0.7397259238619529
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Karyn Kusama": {
+                "args": [
+                    [
+                        "11_the mysteries of grief form the emotional core of director karyn kusama's unsettling thriller.",
+                        0.627548604890985
+                    ],
+                    [
+                        "14_if the movie works as well as it does, it's because ms. kusama can coax scares from shadows, silences and ricocheting looks.",
+                        0.6981950979895222
+                    ],
+                    [
+                        "17_with the wickedly sharp the invitation, kusama has demanded that hollywood give her a seat at the table.",
+                        0.5995864422083117
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

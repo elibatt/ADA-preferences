@@ -1,0 +1,337 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "21_gordon-levitt turns in an oscar-worthy performance as a man who's all too aware of what he's letting himself in for.",
+                0.6926992019599029
+            ],
+            [
+                "26_ subtle portrayal of a young whistleblower who broke the law and paid a price.",
+                0.5763637755270783
+            ],
+            [
+                "29_ the best efforts of its formidable director and cast, can't remotely match the excitement of real life.",
+                -0.5400072776529612
+            ],
+            [
+                "35_stone made the very smart move to hire a committed, underrated actor to play the challenging lead role, and the result is a film that thrives off its central performance.",
+                0.7694869467030383
+            ]
+        ],
+        "entities": {
+            "Ashani Perera": {
+                "args": []
+            },
+            "Rhys Ifans": {
+                "args": []
+            },
+            "Tom Wilkinson": {
+                "args": []
+            },
+            "Christy Meyers": {
+                "args": []
+            },
+            "Timothy Olyphant": {
+                "args": []
+            },
+            "Joely Richardson": {
+                "args": []
+            },
+            "Kenneth Thomas": {
+                "args": []
+            },
+            "Michael Benz": {
+                "args": []
+            },
+            "Shailene Woodley": {
+                "args": [
+                    [
+                        "21_and woodley skillfully balances a range of emotions as lindsay.",
+                        0.6385973301742052
+                    ],
+                    [
+                        "22_shailene woodley is even better as lindsay mills, snowden's girlfriend.",
+                        0.731113431305357
+                    ]
+                ]
+            },
+            "Erol Sander": {
+                "args": []
+            },
+            "Nicolas Cage": {
+                "args": []
+            },
+            "Ben Chaplin": {
+                "args": []
+            },
+            "Christian Contreras": {
+                "args": []
+            },
+            "Demitri Goritsas": {
+                "args": []
+            },
+            "Melissa Leo": {
+                "args": []
+            },
+            "Ben Schnetzer": {
+                "args": []
+            },
+            "Rachel Handshaw": {
+                "args": []
+            },
+            "Nicolas Rowe": {
+                "args": []
+            },
+            "Scott Eastwood": {
+                "args": []
+            },
+            "Zachary Quinto": {
+                "args": []
+            },
+            "Jaymes Butler": {
+                "args": []
+            },
+            "Mathangi Ray": {
+                "args": []
+            },
+            "Joseph Gordon-Levitt": {
+                "args": [
+                    [
+                        "2_as snowden, gordon-levitt is so muted, so cloistered, that it can be easy to miss that it's a very good performance.",
+                        0.5273590798585645
+                    ],
+                    [
+                        "11_it never feels tedious, thanks to stone's tremendous sense of story construction, the film's razor-sharp editing - and gordon-levitt's masterful performance.",
+                        0.7282965516438984
+                    ],
+                    [
+                        "12_joseph gordon-levitt is fiercely committed as snowden, ",
+                        0.5746756606466096
+                    ],
+                    [
+                        "14_[joseph gordon-levitt delivers] an interestingly inward performance.",
+                        0.6387481193289075
+                    ],
+                    [
+                        "17_credit joseph gordon-levitt -- first, for even playing snowden, and also for attempting to mimic snowden's unique cadence as well as his physical appearance.",
+                        0.7656793787618928
+                    ],
+                    [
+                        "18_joseph gordon-levitt sympathetically portrays the bespectacled title cipher, a rubik's cube champ with an ibm brain.",
+                        0.5252229615668222
+                    ],
+                    [
+                        "22_joseph gordon-levitt is good as snowden (his voice alone is terrific), capturing his nerdy intelligence and passion for patriotism.",
+                        0.7765658869368324
+                    ],
+                    [
+                        "25_they're interesting opposites too, here, in both part and performance: joseph gordon-levitt, minimalist and withholding, as snowden, and shailene woodley, jangling and emotional, as lindsay.",
+                        0.7006700293453471
+                    ],
+                    [
+                        "36_the production values are first-rate - stone's movies are always very good-looking - and the finely shaded performance of joseph gordon-levitt in the lead role is a revelation.",
+                        0.8047801169602642
+                    ]
+                ]
+            },
+            "LaKeith Stanfield": {
+                "args": []
+            },
+            "Stephanie Simbeck": {
+                "args": []
+            },
+            "Parker Sawyers": {
+                "args": []
+            },
+            "Robert Firth": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "29_ the best efforts of its formidable director and cast, can't remotely match the excitement of real life.",
+                -0.5400072776529612
+            ],
+            [
+                "33_stone seems genuinely interested in the slow and steady process by which edward snowden came to distrust the government that he worked for, and the director has made a slow and steady movie to go with it.",
+                0.5385815709113446
+            ],
+            [
+                "40_\"snowden\" isn't just the director's most exciting work since \"nixon\" (1995) - it's the most important and galvanizing political drama by an american filmmaker in years.",
+                0.7403189000568969
+            ]
+        ],
+        "entities": {
+            "Oliver Stone": {
+                "args": [
+                    [
+                        "5_if snowden's story wasn't real, stone would have made it up.",
+                        -0.5976692646650779
+                    ],
+                    [
+                        "5_so why does stone's movie feel so toothless?",
+                        -0.7087341330388832
+                    ],
+                    [
+                        "8_while the drama here is straight forward and conventional, stone turns a brilliant trick by visually showing how computer spying is conducted.",
+                        0.6174399374008465
+                    ],
+                    [
+                        "8_we do not have to understand how it works to appreciate what it does -- because stone skillfully shows us.",
+                        0.6323844817485732
+                    ],
+                    [
+                        "10_if laura poitras' oscar-winning documentary \"citizenfour\" was the technical, unflinching, non-fiction version of edward snowden's explosive nsa leaks, stone's film is most definitely the hollywood version.",
+                        0.6732578279394328
+                    ],
+                    [
+                        "11_it never feels tedious, thanks to stone's tremendous sense of story construction, the film's razor-sharp editing - and gordon-levitt's masterful performance.",
+                        0.7282965516438984
+                    ],
+                    [
+                        "12_ director oliver stone sticks to the surface and buries the provocation.",
+                        0.5226716426630776
+                    ],
+                    [
+                        "19_mr. stone has made an honorable and absorbing contri",
+                        0.6180725504679248
+                    ],
+                    [
+                        "28_ this is stone's most interesting work since the underrated \"w.\" nearly a decade ago, it's not all that much.",
+                        0.5179292913101663
+                    ],
+                    [
+                        "32_moviegoers will love or hate oliver stone and his politics until the end of time.",
+                        -0.5113647491753346
+                    ],
+                    [
+                        "34_more hagiography than biography, stone's film portrays snowden as a candidate for sainthood whose only flaw is that he cares too much.",
+                        -0.5327881748925486
+                    ],
+                    [
+                        "36_the production values are first-rate - stone's movies are always very good-looking - and the finely shaded performance of joseph gordon-levitt in the lead role is a revelation.",
+                        0.8047801169602642
+                    ],
+                    [
+                        "37_ stone somehow finds ways to make it extra boring.",
+                        -0.7740518667363568
+                    ],
+                    [
+                        "39_it's oliver stone's best film since \"jfk.\"",
+                        0.8725381129307457
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_\"snowden\" is worth watching for the ideas and arguments it inspires, and for the layers of a still-mysterious character it reveals.",
+                0.7458430040596068
+            ],
+            [
+                "16_\"snowden\" could have been a character portrait, ",
+                -0.6356002798727087
+            ]
+        ],
+        "entities": {
+            "Kieran Fitzgerald": {
+                "args": []
+            },
+            "Oliver Stone": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_it's a fawning piece of work.",
+                0.5157393549524407
+            ],
+            [
+                "7_snowden could have been an important film.",
+                0.5482688844699699
+            ],
+            [
+                "9_snowden should be frothing at the mouth.",
+                0.503289491515791
+            ],
+            [
+                "9_instead, the best it can work up is a weary sigh.",
+                0.7332151842153815
+            ],
+            [
+                "13_\"snowden\" is worth watching for the ideas and arguments it inspires, and for the layers of a still-mysterious character it reveals.",
+                0.7458430040596068
+            ],
+            [
+                "15_snowden isn't a liberal screed, or at least not an overt one.",
+                -0.7690101142255621
+            ],
+            [
+                "16_\"snowden\" could have been a character portrait, ",
+                -0.6356002798727087
+            ],
+            [
+                "23_snowden's a polarizing whistleblower portrayed as an american hero here ",
+                0.71528046835171
+            ],
+            [
+                "23_ton topic, and the movie seems at times as awkward as its brainiac subject.",
+                -0.6338534245975074
+            ],
+            [
+                "25_stone always gets good work out of his leads.",
+                0.571392490961828
+            ],
+            [
+                "27_it's well and compellingly made, working hard to bring the blurry figure of snowden into focus while dramatizing his transformation from patriotic civil servant to appalled citizen whistle-blower.",
+                0.5446657660865382
+            ],
+            [
+                "29_a duly serious and ambitious fall movie that, ",
+                0.5425332763863001
+            ],
+            [
+                "30_there's a deeper emptiness at the core of the movie, a failure of nerve and a fundamental incuriosity about what makes the snowden affair interesting and relevant, then and now.",
+                0.7058329658632132
+            ],
+            [
+                "31_gordon-levitt is deserving of praise, and possibly more tangible accolades, which the movie as a whole doesn't merit.",
+                0.5152042368305342
+            ],
+            [
+                "32_with well-made movies such as \"snowden,\" ",
+                0.5889075395426502
+            ],
+            [
+                "33_stone seems genuinely interested in the slow and steady process by which edward snowden came to distrust the government that he worked for, and the director has made a slow and steady movie to go with it.",
+                0.5385815709113446
+            ],
+            [
+                "35_stone made the very smart move to hire a committed, underrated actor to play the challenging lead role, and the result is a film that thrives off its central performance.",
+                0.7694869467030383
+            ],
+            [
+                "37_there was always the chance of snowden's story coming off as an underpowered bourne movie, ",
+                0.5520241968272979
+            ],
+            [
+                "40_\"snowden\" isn't just the director's most exciting work since \"nixon\" (1995) - it's the most important and galvanizing political drama by an american filmmaker in years.",
+                0.7403189000568969
+            ],
+            [
+                "42_for viewers who never saw citizenfour, and perhaps have only a vague idea of who he is, what he revealed, and why he did it, then it's quite likely that snowden will provide an eye-opening experience.",
+                -0.5570542771585731
+            ]
+        ]
+    }
+}

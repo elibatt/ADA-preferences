@@ -1,0 +1,69 @@
+{
+    "acting": {
+        "entities": {
+            "Andy Goldsworthy": {
+                "args": [
+                    [
+                        "1_there are moments where you may want to stop the film to assure yourself you're seeing what you're seeing, so disordering to the senses are goldsworthy's re-orderings of nature.",
+                        0.7751953512687125
+                    ],
+                    [
+                        "9_ unarticulated), riedelsheimer is well-matched to goldsworthy's methods and interests.",
+                        0.5573231541534938
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"leaning into the wind\" offers viewers a welcome chance to consider the work of an artist who defies the recent commodification cult to embrace the ephemeral and the nominally \"worthless.\"",
+                0.8381888464797397
+            ],
+            [
+                "3_this is one of the most relaxing experiences i have had watching a movie in a long time.",
+                -0.5841976487949265
+            ],
+            [
+                "7_such pesky details might ruin the meditative worldview of the film",
+                0.6631933551451077
+            ],
+            [
+                "7_ \"leaning into the wind\" asks us to appreciate art for art's sake, and that's not a tough ask at all.",
+                -0.5652756268187604
+            ],
+            [
+                "8_leaning into the wind is a study in seeing, in subordinating one's self to the elements, in creating with nature rather than from it.",
+                0.6369158850324816
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Thomas Riedelsheimer": {
+                "args": [
+                    [
+                        "9_ unarticulated), riedelsheimer is well-matched to goldsworthy's methods and interests.",
+                        0.5573231541534938
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "9_a nonfiction-focused director and cinematographer frequently attracted to the intersection between artistic expression, nature, and spirituality (",
+                0.6512523440441412
+            ]
+        ]
+    }
+}

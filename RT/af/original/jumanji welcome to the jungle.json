@@ -1,0 +1,163 @@
+{
+    "writer": {
+        "entities": {
+            "Scott Rosenberg": {
+                "args": []
+            },
+            "Jeff Pinkner": {
+                "args": []
+            },
+            "Erik Sommers": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_like a video game, the narrative lacks any character development, relying on obstacles, chases, and the threat of elimination.",
+                -0.7424856881704907
+            ],
+            [
+                "21_jumanji reboot welcome to the jungle a happy surprise - a movie that turns out to be good (almost clean) fun, and is much more interested in character and comedy than special effects.",
+                0.7216072174096648
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "5_hart delivers his one-liners with precision and verve, and johnson is sweetly funny as the muscular incarnation of a gawky nerd.",
+                        0.7616078937228272
+                    ],
+                    [
+                        "12_huge kudos go to johnson, hart and especially black for providing some truly entertaining performances.",
+                        0.7524728513094714
+                    ],
+                    [
+                        "13_director jake kasdan coaxes crisp interplay from all four leads, getting more from johnson and hart's scenes together than central intelligence did.",
+                        0.6020008185342857
+                    ],
+                    [
+                        "23_the performances by mr. johnson, mr. hart and mr. black seem informed by the conviction that if they amuse themselves, they will also amuse others.",
+                        0.7688828199737626
+                    ],
+                    [
+                        "24_if you're going to coast on charm, you could do a lot worse than dwayne johnson.",
+                        -0.6499063569936573
+                    ],
+                    [
+                        "27_their cognitive dissonance is what gives jumanji its humor, and the film relies on the star personas of johnson, hart, black and gillan to deliver it.",
+                        0.6846414071540449
+                    ]
+                ]
+            },
+            "Missi Pyle": {
+                "args": []
+            },
+            "Jack Black": {
+                "args": [
+                    [
+                        "3_mostly great fun, with jack black outrageously entertaining as a teenage girl.",
+                        0.8554634718726659
+                    ],
+                    [
+                        "20_and jack black steals every scene he's in.",
+                        -0.5389272447272805
+                    ]
+                ]
+            },
+            "Madison Iseman": {
+                "args": []
+            },
+            "Karen Gillan": {
+                "args": [
+                    [
+                        "3_as ruby roundhouse, gillan is stuck in less clothes than one of rihanna's backing dancers.",
+                        -0.6490500394906964
+                    ]
+                ]
+            },
+            "Ser'Darius Blain": {
+                "args": []
+            },
+            "Nick Jonas": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Morgan Turner": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": []
+            },
+            "Alex Wolff": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_the movie has amusingly broad performances",
+                0.5230258200599233
+            ],
+            [
+                "6_but what the film lacks in depth,",
+                0.6217208542083165
+            ],
+            [
+                "11_it is smarter and more humorous than the first movie, and its digital effects - which include stampeding albino rhinos and mountain-scraping aerobatics - are far snazzier, as one would expect.",
+                0.6577817479894994
+            ],
+            [
+                "12_in the end, the filmmakers have given us one of the most fun movie-going experiences i've had this year.",
+                0.5873094799086525
+            ],
+            [
+                "14_unfortunately, he doesn't have much of a movie.",
+                -0.7431267501140588
+            ],
+            [
+                "17_welcome to the jungle,\" the sequel to the popular 1995 movie about a mystical board game, rolls snake eyes.",
+                -0.5162442040964692
+            ],
+            [
+                "21_jumanji reboot welcome to the jungle a happy surprise - a movie that turns out to be good (almost clean) fun, and is much more interested in character and comedy than special effects.",
+                0.7216072174096648
+            ],
+            [
+                "22_the answer: pretty much the entire movie.",
+                -0.6834778957344669
+            ],
+            [
+                "29_this sequel turns out to be a comedy of manners, of all things, and an agreeable one, a movie that will get you laughing and suck you in.",
+                0.5884182614454744
+            ],
+            [
+                "32_the film's main appeal is in watching familiar actors pretend to be ordinary kids grappling with their new selves.",
+                0.6740485530839251
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jake Kasdan": {
+                "args": [
+                    [
+                        "13_director jake kasdan coaxes crisp interplay from all four leads, getting more from johnson and hart's scenes together than central intelligence did.",
+                        0.6020008185342857
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

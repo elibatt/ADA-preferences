@@ -1,0 +1,375 @@
+{
+    "writer": {
+        "args": [
+            [
+                "4_hanson has made the film noir setting virtually another starring character.",
+                -0.5215859343292049
+            ]
+        ],
+        "entities": {
+            "Brian Helgeland": {
+                "args": []
+            },
+            "Curtis Hanson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_l.a. confidential is a movie bull's-eye: noir with an attitude, a thriller packing punches.",
+                0.6663207063408646
+            ],
+            [
+                "4_hanson has made the film noir setting virtually another starring character.",
+                -0.5215859343292049
+            ],
+            [
+                "6_hanson delivers something ever rarer in film culture, not a new film noir ",
+                0.7004238625068149
+            ],
+            [
+                "6_ an old-fashioned total movie, somehow of a single piece.",
+                0.5364021916337359
+            ],
+            [
+                "7_this may be the best movie of the year",
+                0.9295974153300066
+            ],
+            [
+                "11_with its plot that zigs and zags like knife slashes, its cynicism stoked to the melting point, the movie brings the thrill of corruption crackingly to life.",
+                0.6577190377099887
+            ],
+            [
+                "12_ the reward for your work is dark and dirty fun.",
+                0.6898303963199018
+            ],
+            [
+                "15_this movie restores genre elements to a level of potency that's disturbing, satisfying, and rare as hell.",
+                0.7717656764853267
+            ],
+            [
+                "20_its intricate plot is so nihilistic and cold around the heart, its nominal heroes so amoral, so willing to sell out anyone and everyone, that the film is as initially unnerving as it is finally irresistible.",
+                0.6561095424116996
+            ],
+            [
+                "23_try to imagine this: a mainstream american movie, rife with violent and often murderous behavior, yet so densely plotted, so richly peopled, that you can't summarize it in a sentence.",
+                0.6738972031396099
+            ],
+            [
+                "25_l.a. confidential is immersed in the atmosphere and lore of film noir, ",
+                0.6885690428131062
+            ],
+            [
+                "26_it's a film that has substance and sweep to match its high sense of style.",
+                0.6504986739714361
+            ],
+            [
+                "29_l.a. confidential is at the same time his most personal movie and hollywood filmmaking at its best.",
+                0.7815991297683723
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Don Pulford": {
+                "args": []
+            },
+            "Bob Clendenin": {
+                "args": []
+            },
+            "Kevin Maloney": {
+                "args": []
+            },
+            "Gene Wolande": {
+                "args": []
+            },
+            "Steve Rankin": {
+                "args": []
+            },
+            "Amber Smith": {
+                "args": []
+            },
+            "Jess Thomas": {
+                "args": []
+            },
+            "Jack Knight": {
+                "args": []
+            },
+            "Thomas Rosales Jr.": {
+                "args": []
+            },
+            "Colin Mitchell": {
+                "args": []
+            },
+            "Jeff Austin": {
+                "args": []
+            },
+            "Allan Graf": {
+                "args": []
+            },
+            "Shane Dixon": {
+                "args": []
+            },
+            "Rebecca Jane Klingler": {
+                "args": []
+            },
+            "Darrell Sandeen": {
+                "args": []
+            },
+            "Robert Foster": {
+                "args": []
+            },
+            "Jeff Sanders": {
+                "args": []
+            },
+            "Chris Short": {
+                "args": []
+            },
+            "John Slade": {
+                "args": []
+            },
+            "Michael Ossman": {
+                "args": []
+            },
+            "April Breneman": {
+                "args": []
+            },
+            "Tomas Arana": {
+                "args": []
+            },
+            "Michael McCleery": {
+                "args": []
+            },
+            "Graham Beckel": {
+                "args": []
+            },
+            "Precious Chong": {
+                "args": []
+            },
+            "Robert Barry Fleming": {
+                "args": []
+            },
+            "Brenda Bakke": {
+                "args": []
+            },
+            "Monty McKee": {
+                "args": []
+            },
+            "Brian Lally": {
+                "args": []
+            },
+            "John Mahon": {
+                "args": []
+            },
+            "Elisabeth Granli": {
+                "args": []
+            },
+            "Marisol Padilla Sánchez": {
+                "args": []
+            },
+            "Jody Wood": {
+                "args": []
+            },
+            "Sally Insul": {
+                "args": []
+            },
+            "Lisa Worthy": {
+                "args": []
+            },
+            "Kevin Spacey": {
+                "args": []
+            },
+            "Simon Baker": {
+                "args": []
+            },
+            "Michael Chieffo": {
+                "args": []
+            },
+            "John H. Evans": {
+                "args": []
+            },
+            "Jeremiah Birkett": {
+                "args": []
+            },
+            "David St. James": {
+                "args": []
+            },
+            "Matthew Allen Bretz": {
+                "args": []
+            },
+            "Steve Lambert": {
+                "args": []
+            },
+            "Irene Roseen": {
+                "args": []
+            },
+            "Jordan Marder": {
+                "args": []
+            },
+            "Lennie Loftin": {
+                "args": []
+            },
+            "Ron Rifkin": {
+                "args": []
+            },
+            "George Yager": {
+                "args": []
+            },
+            "Gwenda Deacon": {
+                "args": []
+            },
+            "Symba Smith": {
+                "args": []
+            },
+            "Noel Evangelisti": {
+                "args": []
+            },
+            "Robert Harrison": {
+                "args": []
+            },
+            "Karreem Washington": {
+                "args": []
+            },
+            "Michael Warwick": {
+                "args": []
+            },
+            "Brian Bossetta": {
+                "args": []
+            },
+            "Salim Grant": {
+                "args": []
+            },
+            "Jim Metzler": {
+                "args": []
+            },
+            "Beverly Sharpe": {
+                "args": []
+            },
+            "James Cromwell": {
+                "args": []
+            },
+            "Sandra Taylor": {
+                "args": []
+            },
+            "Henry Meyers": {
+                "args": []
+            },
+            "Patrice Walters": {
+                "args": []
+            },
+            "Dick Stilwell": {
+                "args": []
+            },
+            "Robert Samuel Thompson": {
+                "args": []
+            },
+            "Henry Marder": {
+                "args": []
+            },
+            "Bodie Newcomb": {
+                "args": []
+            },
+            "Kevin Kelly": {
+                "args": []
+            },
+            "Paolo Seganti": {
+                "args": []
+            },
+            "Jack Conley": {
+                "args": []
+            },
+            "Gregory White": {
+                "args": [
+                    [
+                        "30_it's the story of good white actors stranded, in the name of noir, in a movie that refuses to kick into gear until it's far too late.",
+                        -0.5244338307732126
+                    ]
+                ]
+            },
+            "Will Zahrn": {
+                "args": []
+            },
+            "David Strathairn": {
+                "args": []
+            },
+            "Ginger Slaughter": {
+                "args": []
+            },
+            "Ingo Neuhaus": {
+                "args": []
+            },
+            "Guy Pearce": {
+                "args": []
+            },
+            "Paul Guilfoyle (II)": {
+                "args": []
+            },
+            "Fred Scialla": {
+                "args": []
+            },
+            "Norman Howell Jr.": {
+                "args": []
+            },
+            "Shawnee Free Jones": {
+                "args": []
+            },
+            "Kim Basinger": {
+                "args": [
+                    [
+                        "17_as the emotional nexus, a veronica lake lookalike trapped in a web of male desires, basinger is arguably the pick of a perfect cast.",
+                        0.7303643770410861
+                    ]
+                ]
+            },
+            "Russell Crowe": {
+                "args": [
+                    [
+                        "2_at the center of the movie are three mismatched cops with separately fueled ambitions, ferociously played by kevin spacey, russell crowe and guy pearce.",
+                        0.5154725582717689
+                    ]
+                ]
+            },
+            "Mike Kennedy": {
+                "args": []
+            },
+            "Danny DeVito": {
+                "args": []
+            },
+            "Matt McCoy": {
+                "args": []
+            },
+            "Scott Eberlein": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "8_hanson's achievement as director cannot be overrated.",
+                -0.5170152685992832
+            ]
+        ],
+        "entities": {
+            "Curtis Hanson": {
+                "args": [
+                    [
+                        "1_director curtis hanson... keeps a complex story coherent and absorbing -- if bloody at the end.",
+                        0.5473170817798988
+                    ],
+                    [
+                        "28_curtis hanson's resplendently wicked l.a. confidential is a tough, gorgeous, vastly entertaining throwback to the hollywood that did things right.",
+                        0.8293952640288167
+                    ]
+                ]
+            }
+        }
+    }
+}

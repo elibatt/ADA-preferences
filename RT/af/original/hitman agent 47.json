@@ -1,0 +1,229 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_agent 47 doesn't feel like a character who's got what it takes to be a franchise hero - he, and the film, are lacking in personality.",
+                -0.8155211887449925
+            ],
+            [
+                "2_the friction between stateliness and lunacy is more intriguing than, say, the line-toeing mediocrity of a second-rate marvel movie.",
+                -0.5259367943598912
+            ],
+            [
+                "10_the film doesn't rise above the genre and the plot is muddled, ",
+                -0.6027720742608204
+            ],
+            [
+                "18_all of its materials feel utterly and depressingly synthetic, right down to the most basic ingredients of almost any violent b-grade action movie: cars, blood, and fire, which all get the bad-cgi treatment.",
+                -0.8446335581895531
+            ],
+            [
+                "19_\"hitman: agent 47\" is aggressively awful, the kind of film that rubs its lackadaisical screenwriting, dull filmmaking and boring characters in your face, almost daring you to ask the theater operator for your money back.",
+                -0.7366557869453901
+            ],
+            [
+                "21_the movie is profoundly dumb.",
+                -0.7068744807315929
+            ],
+            [
+                "23_the 47th best action film of 2015?",
+                0.7039869148713528
+            ],
+            [
+                "25_ there isn't enough of it to sustain this second film based on the \"hitman\" video game series.",
+                -0.7401446000502826
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Aleksander Bach": {
+                "args": [
+                    [
+                        "23_ion ever made by someone named bach?",
+                        -0.5676040461344197
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Johannes Suhm": {
+                "args": []
+            },
+            "Georg Ebinal": {
+                "args": []
+            },
+            "Daniel \"Stocki\" Stockhorst": {
+                "args": []
+            },
+            "Waye Leon Goh": {
+                "args": []
+            },
+            "Matthias Günther": {
+                "args": []
+            },
+            "Zachary Quinto": {
+                "args": []
+            },
+            "Joe Toedtling": {
+                "args": []
+            },
+            "Manuel Depta": {
+                "args": []
+            },
+            "Alvin Chan": {
+                "args": []
+            },
+            "Jörg Ellmer": {
+                "args": []
+            },
+            "Peter Paes": {
+                "args": []
+            },
+            "Andrew DiBartolomeo": {
+                "args": []
+            },
+            "Nils Brunkhorst": {
+                "args": []
+            },
+            "Charlene Beck": {
+                "args": []
+            },
+            "Michaela Caspar": {
+                "args": []
+            },
+            "Daniel Michael Nelson": {
+                "args": []
+            },
+            "Jesse Hergt": {
+                "args": []
+            },
+            "Asuka Tovazzi": {
+                "args": []
+            },
+            "Janice Koh Yu-Mei": {
+                "args": []
+            },
+            "Dan Bakkedahl": {
+                "args": []
+            },
+            "Mona Pirzad": {
+                "args": []
+            },
+            "Rolf Kanies": {
+                "args": []
+            },
+            "Markus Ranglack": {
+                "args": []
+            },
+            "Jerry Hoffmann": {
+                "args": []
+            },
+            "Rupert Friend": {
+                "args": [
+                    [
+                        "6_the various shootouts and chases that take place along the way are busy, noisy, and ultimately just as flat as friend makes his tone.",
+                        -0.6770237517831876
+                    ],
+                    [
+                        "16_the film was shot on location in berlin and singapore, and friend is out-acted by the gorgeous scenery.",
+                        0.6557962774366468
+                    ]
+                ]
+            },
+            "Melissa Broughton": {
+                "args": []
+            },
+            "Helena Pieske": {
+                "args": []
+            },
+            "Alrik Kreemke": {
+                "args": []
+            },
+            "Hannah Ware": {
+                "args": []
+            },
+            "Angelababy": {
+                "args": []
+            },
+            "Eskindir Tesfay": {
+                "args": []
+            },
+            "Michael Corcoran": {
+                "args": []
+            },
+            "Tomas Jester": {
+                "args": []
+            },
+            "Michael Bornhütter": {
+                "args": []
+            },
+            "Emilio Rivera": {
+                "args": []
+            },
+            "Jürgen Prochnow": {
+                "args": []
+            },
+            "Janice Koh Yu Mei": {
+                "args": []
+            },
+            "Michael Knese": {
+                "args": []
+            },
+            "Kira Smidt": {
+                "args": []
+            },
+            "Florian Hotz": {
+                "args": []
+            },
+            "Felix Koch": {
+                "args": []
+            },
+            "Thomas Kretschmann": {
+                "args": []
+            },
+            "Ciarán Hinds": {
+                "args": []
+            },
+            "Sebastian Hülk": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_agent 47 doesn't feel like a character who's got what it takes to be a franchise hero - he, and the film, are lacking in personality.",
+                -0.8155211887449925
+            ],
+            [
+                "1_there's enough here to piece together a rudimentary storyline ",
+                0.580345001431332
+            ],
+            [
+                "12_\"hitman: agent 47\" is a by-the-numbers schlock action sequel that writes its own epitaph when a character mutters the dusty insult, \"you're dead, too.",
+                -0.5976189555516189
+            ],
+            [
+                "19_\"hitman: agent 47\" is aggressively awful, the kind of film that rubs its lackadaisical screenwriting, dull filmmaking and boring characters in your face, almost daring you to ask the theater operator for your money back.",
+                -0.7366557869453901
+            ]
+        ],
+        "entities": {
+            "Skip Woods": {
+                "args": []
+            },
+            "Michael Finch": {
+                "args": []
+            }
+        }
+    }
+}

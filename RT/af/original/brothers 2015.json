@@ -1,0 +1,53 @@
+{
+    "film": {
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Karan Malhotra": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Gavin O'Connor": {
+                "args": []
+            },
+            "Cliff Dorfman": {
+                "args": []
+            },
+            "Anthony Tambakis": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Sidharth Malhotra": {
+                "args": []
+            },
+            "Akshay Kumar": {
+                "args": [
+                    [
+                        "0_viewers willing to embrace its skillful and emotionally real depiction of a man making impossible choices -- and especially fans of akshay kumar ready to see him excel in a physically and emotionally challenging role -- will be well rewarded.",
+                        0.8338444811106362
+                    ]
+                ]
+            },
+            "Jacqueline Fernandez": {
+                "args": []
+            },
+            "Jackie Shroff": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

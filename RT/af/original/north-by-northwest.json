@@ -1,0 +1,269 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "3_a great film, and certainly one of the most entertaining movies ever made, directed by alfred hitchcock at his peak.",
+                        0.9010316667832443
+                    ],
+                    [
+                        "4_at times it seems hitchcock is kidding his own penchant for the bizarre, ",
+                        0.5226108198723841
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Andy Albin": {
+                "args": []
+            },
+            "Ralph Reed": {
+                "args": []
+            },
+            "Bill Catching": {
+                "args": []
+            },
+            "Bobby Johnson": {
+                "args": []
+            },
+            "John Damler": {
+                "args": []
+            },
+            "Leo G Carroll": {
+                "args": []
+            },
+            "Edward Platt": {
+                "args": []
+            },
+            "James McCallion": {
+                "args": []
+            },
+            "Patrick McVey": {
+                "args": []
+            },
+            "Les Tremayne": {
+                "args": []
+            },
+            "Philip Ober": {
+                "args": []
+            },
+            "Hugh Pryor": {
+                "args": []
+            },
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "3_a great film, and certainly one of the most entertaining movies ever made, directed by alfred hitchcock at his peak.",
+                        0.9010316667832443
+                    ],
+                    [
+                        "4_at times it seems hitchcock is kidding his own penchant for the bizarre, ",
+                        0.5226108198723841
+                    ]
+                ]
+            },
+            "Ned Glass": {
+                "args": []
+            },
+            "Taggart Casey": {
+                "args": []
+            },
+            "Carl Milletaire": {
+                "args": []
+            },
+            "Alexander Lockwood": {
+                "args": []
+            },
+            "Jessie Royce Landis": {
+                "args": []
+            },
+            "Howard Negley": {
+                "args": []
+            },
+            "Dale Van Sickel": {
+                "args": []
+            },
+            "Madge Kennedy": {
+                "args": []
+            },
+            "Carleton Young": {
+                "args": []
+            },
+            "Sally Fraser": {
+                "args": []
+            },
+            "James Mason": {
+                "args": []
+            },
+            "Jesse Royce Landis": {
+                "args": []
+            },
+            "Tom Greenway": {
+                "args": []
+            },
+            "Doreen Lang": {
+                "args": []
+            },
+            "Malcolm Atterbury": {
+                "args": []
+            },
+            "Sara Berner": {
+                "args": []
+            },
+            "Lawrence Dobkin": {
+                "args": []
+            },
+            "Walter Coy": {
+                "args": []
+            },
+            "Jimmy Cross": {
+                "args": []
+            },
+            "Robert B. Williams": {
+                "args": []
+            },
+            "Baynes Barron": {
+                "args": []
+            },
+            "Eva Marie Saint": {
+                "args": []
+            },
+            "Cary Grant": {
+                "args": [
+                    [
+                        "1_hitchcock breezes through a tongue-in-cheek, nightmarish plot with a lightness of touch that's equalled by a charming performance from grant.",
+                        0.7424692095807383
+                    ]
+                ]
+            },
+            "Maudie Prickett": {
+                "args": []
+            },
+            "Jesslyn Fax": {
+                "args": []
+            },
+            "John Beradino": {
+                "args": []
+            },
+            "Robert Ellenstein": {
+                "args": []
+            },
+            "Ernest Anderson": {
+                "args": []
+            },
+            "Ken Lynch": {
+                "args": []
+            },
+            "Frank Wilcox": {
+                "args": []
+            },
+            "Olan Soule": {
+                "args": []
+            },
+            "Susan Whitney": {
+                "args": []
+            },
+            "Martin Landau": {
+                "args": []
+            },
+            "Robert Shayne": {
+                "args": []
+            },
+            "Tommy Farrell": {
+                "args": []
+            },
+            "Harry Seymour": {
+                "args": []
+            },
+            "Doris Singh": {
+                "args": []
+            },
+            "Edward Binns": {
+                "args": []
+            },
+            "Frank Marlowe": {
+                "args": []
+            },
+            "Helen Spring": {
+                "args": []
+            },
+            "Josephine Hutchinson": {
+                "args": []
+            },
+            "Pat McVey": {
+                "args": []
+            },
+            "Stanley Adams": {
+                "args": []
+            },
+            "Patricia Cutts": {
+                "args": []
+            },
+            "Lucille Curtis": {
+                "args": []
+            },
+            "Adam Williams": {
+                "args": []
+            },
+            "Sid Kane": {
+                "args": []
+            },
+            "Doreen Land": {
+                "args": []
+            },
+            "Harvey Stephens": {
+                "args": []
+            },
+            "Harry Strang": {
+                "args": []
+            },
+            "Charles Postal": {
+                "args": []
+            },
+            "Tol Avery": {
+                "args": []
+            },
+            "Maura McGiveney": {
+                "args": []
+            },
+            "Paul Genge": {
+                "args": []
+            },
+            "Philip Coolidge": {
+                "args": []
+            },
+            "Nora Marlowe": {
+                "args": []
+            },
+            "Anne Anderson": {
+                "args": []
+            },
+            "Jack Daly": {
+                "args": []
+            },
+            "Len Hendry": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ernest Lehman": {
+                "args": []
+            }
+        }
+    }
+}

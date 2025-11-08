@@ -1,0 +1,155 @@
+{
+    "acting": {
+        "entities": {
+            "Jennifer Garner": {
+                "args": [
+                    [
+                        "3_what a fine performance by jennifer garner, playing a character we see almost totally through the filter of her husband's viewpoint.",
+                        0.774098069154664
+                    ]
+                ]
+            },
+            "Ian Anthony Dale": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": [
+                    [
+                        "5_thanks to another terrific cranston performance, we hang in there.",
+                        0.6490231059962808
+                    ],
+                    [
+                        "9_wakefield is a terrific movie, with a devastatingly bravura performance by bryan cranston that seizes and grips attention from first scene to last.",
+                        0.8128596540229441
+                    ],
+                    [
+                        "12_it's to cranston's great credit that he's able to keep us watching this shallow",
+                        0.7768875544280217
+                    ],
+                    [
+                        "17_the role of wakefield is a beast, and cranston, rising to the challenges set by director robin swicord, gives it everything he's got.",
+                        0.637260820582947
+                    ],
+                    [
+                        "19_...a one-man show driven by cranston's surprisingly subtle performance.",
+                        0.6065682727754744
+                    ],
+                    [
+                        "21_it would have been asking a lot from any actor to carry this film, and cranston has done the heavy lifting and more.",
+                        0.5405916391731347
+                    ]
+                ]
+            },
+            "Beverly D'Angelo": {
+                "args": []
+            },
+            "Jason O'Mara": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_cranston cranks his performance up to 11, enamored of his own work and incapable of hitting the brakes.",
+                0.5504943126579367
+            ],
+            [
+                "17_his award-caliber performance is astounding to watch.",
+                0.7637096659786018
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Robin Swicord": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_what a fine performance by jennifer garner, playing a character we see almost totally through the filter of her husband's viewpoint.",
+                0.774098069154664
+            ],
+            [
+                "4_working from her own screenplay, director robin swicord delivers a film that balances wry humor and sly introspection.",
+                0.8429519753680936
+            ],
+            [
+                "16_cranston is simply remarkable in the role, a tricky one since his character has precious little dialogue with anyone else.",
+                0.5423280169563951
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_uneventful and dull to look at, the film adapts a short story by e.l. doctorow that probably should have stayed on the page.",
+                -0.7710645541555832
+            ],
+            [
+                "1_cranston cranks his performance up to 11, enamored of his own work and incapable of hitting the brakes.",
+                0.5504943126579367
+            ],
+            [
+                "2_it isn't the dull midlife crisis movie it initially presents itself as.",
+                -0.7500412284527536
+            ],
+            [
+                "7_\"wakefield\" remains oddly watchable, like a cheever-esque '60s-era suburban melodrama that's slick, unreal, yet has a burrowing drive.",
+                0.5812362109131097
+            ],
+            [
+                "8_\"i've stranded myself,\" howard laments, as the film nears its open-ended climax.",
+                0.6051924011980568
+            ],
+            [
+                "8_so, too, does \"wakefield,\" unfortunately.",
+                -0.720266937210436
+            ],
+            [
+                "10_ \"wakefield\" stays stuck in one gear.",
+                -0.6658357546668561
+            ],
+            [
+                "11_wakefield is kind of a wonder.",
+                0.6352225641903555
+            ],
+            [
+                "12_it's the film's fatal failing that we're never sure why.",
+                -0.5504996484126723
+            ],
+            [
+                "14_wakefield is selfish and cunning, competitive and controlling.",
+                0.5017311135961263
+            ],
+            [
+                "15_the film, scrupulously faithful to its source, is decidedly literary, ",
+                0.6693891044606766
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Robin Swicord": {
+                "args": [
+                    [
+                        "4_working from her own screenplay, director robin swicord delivers a film that balances wry humor and sly introspection.",
+                        0.8429519753680936
+                    ],
+                    [
+                        "10_to her credit, swicord clearly made the film she wanted to make, ",
+                        -0.537249880368658
+                    ],
+                    [
+                        "17_the role of wakefield is a beast, and cranston, rising to the challenges set by director robin swicord, gives it everything he's got.",
+                        0.637260820582947
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

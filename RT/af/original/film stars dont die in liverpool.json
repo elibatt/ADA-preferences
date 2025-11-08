@@ -1,0 +1,197 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "19_her performance is a kind of rebuke to the arc and tragic norma desmond view of aging movie actresses.",
+                0.7466372453480968
+            ]
+        ],
+        "entities": {
+            "Vanessa Redgrave": {
+                "args": []
+            },
+            "Annette Bening": {
+                "args": [
+                    [
+                        "2_annette bening is one of those rare actresses who makes a movie, ",
+                        0.7556287511411374
+                    ],
+                    [
+                        "3_worth seeing for bening's brave and touching performance as an actress past her prime.",
+                        0.8055846441896128
+                    ],
+                    [
+                        "9_annette bening is so good in \"film stars don't die in liverpool\" that it makes up for a story that's slighter than it should be.",
+                        0.8436813486021006
+                    ],
+                    [
+                        "11_what an astounding actress annette bening is.",
+                        0.7380085289049043
+                    ],
+                    [
+                        "16_the reason to pay attention to \"film stars don't die in liverpool\" is the reason it got made in the first place: the opportunity it provides to see star annette bening in action.",
+                        0.5067964152292613
+                    ],
+                    [
+                        "19_what the grahame of film stars don't die in liverpool is missing in detail, bening makes up for in affection.",
+                        0.5505310786707874
+                    ],
+                    [
+                        "25_brittle and insecure, yet also steely and magnetic, bening's performance is full of nuance.",
+                        0.6001869152915693
+                    ],
+                    [
+                        "27_over-production-designed as the film is, bening and bell manage to hold their own within it.",
+                        0.76610904405218
+                    ]
+                ]
+            },
+            "Marina Bye": {
+                "args": []
+            },
+            "Jodie McNee": {
+                "args": []
+            },
+            "Pete Lee-Wilson": {
+                "args": []
+            },
+            "Pandora Colin": {
+                "args": []
+            },
+            "Frances Barber": {
+                "args": []
+            },
+            "Jamie Bell": {
+                "args": [
+                    [
+                        "11_and she's at her very best playing gloria grahame, a screen siren of the 1940s and 1950s, who faced a health crisis in her final days with the help of a new love (a terrific jamie bell).",
+                        0.8405996545315497
+                    ]
+                ]
+            },
+            "Stephen Graham": {
+                "args": []
+            },
+            "Tom Brittney": {
+                "args": []
+            },
+            "Peter Turner": {
+                "args": []
+            },
+            "Julie Walters": {
+                "args": []
+            },
+            "Kenneth Cranham": {
+                "args": []
+            },
+            "Gemma Oaten": {
+                "args": []
+            },
+            "Leanne Best": {
+                "args": []
+            },
+            "Alexander Arnold": {
+                "args": []
+            },
+            "Jay Villiers": {
+                "args": []
+            },
+            "Bentley Kalu": {
+                "args": []
+            },
+            "Joanna Brookes": {
+                "args": []
+            },
+            "Tim Ahern": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "21_the frequent chronological jumps ... give a sense that the director is assembling a puzzle in which half the pieces are missing.",
+                -0.6511083259729142
+            ]
+        ],
+        "entities": {
+            "Paul McGuigan": {
+                "args": [
+                    [
+                        "7_director mcguigan and screenwriter matt greenhalgh paint film stars",
+                        -0.5350996818899917
+                    ],
+                    [
+                        "24_in everything from the score to the costumes and hairstyling, mcguigan seems to think that there's no such thing as too much, a lavishness that just isn't supported by the film's obviously modest budget.",
+                        -0.6378252297411903
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Matt Greenhalgh": {
+                "args": [
+                    [
+                        "7_director mcguigan and screenwriter matt greenhalgh paint film stars",
+                        -0.5350996818899917
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_if the movie meanders, it's refreshing to see a may-september romance in which may is played by the man for once and where the sex is happy, frank, and frequent.",
+                0.8609521183056275
+            ],
+            [
+                "5_the screen romance of film stars don't die in liverpool may seem as odd as the real-life pairing was, ",
+                -0.5730021918787015
+            ],
+            [
+                "6_the movie never delves that deeply into who gloria grahame was, aside from a femme fatale slinking across a black-and-white screen.",
+                -0.7280165094275983
+            ],
+            [
+                "12_provides scant evidence about why we should care about grahame to begin with and how her fate was perhaps emblematic of movie sirens both past and present.",
+                -0.5446026652294629
+            ],
+            [
+                "13_no shot in the film dares attempt to communicate more than one idea or emotion at a time.",
+                -0.5299437811369774
+            ],
+            [
+                "14_yet the film has moments of surprising grace and tenderness.",
+                0.8093912615843902
+            ],
+            [
+                "19_her performance is a kind of rebuke to the arc and tragic norma desmond view of aging movie actresses.",
+                0.7466372453480968
+            ],
+            [
+                "20_landing lightly on the loneliness of fame and the ravages of aging, \"film stars don't die in liverpool\" is a fond farewell to a distinctive talent.",
+                0.6907362577900795
+            ],
+            [
+                "23_bening - who, let's be real, is about 15 years and eight performances overdue for her own oscar already - holds the movie in her hands.",
+                0.7768999922565551
+            ],
+            [
+                "26_\"film stars don't die in liverpool\" is a tawdrier, more tragic, ",
+                -0.5604368388008414
+            ],
+            [
+                "28_despite a few quibbles that viewers may have, there is no denying the emotional force that this film develops, and for that,",
+                0.6119347060387886
+            ]
+        ]
+    }
+}

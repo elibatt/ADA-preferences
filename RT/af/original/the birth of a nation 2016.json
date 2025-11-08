@@ -1,0 +1,283 @@
+{
+    "writer": {
+        "entities": {
+            "Nate Parker": {
+                "args": []
+            },
+            "Jean McGianni Celestin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_a seriously damaged and inadequate movie ... its defects reveal traits of character-arrogance, vanity, and self-importance-that exert an unfortunately strong influence on parker's directorial choices.",
+                -0.5920699421006256
+            ],
+            [
+                "22_an ambitious, intelligent and unsettling film from writer-director-star parker.",
+                0.7925228801626679
+            ],
+            [
+                "26_the acting is strong even when the script wanders into thickets of rhetoric and mystification.",
+                -0.5141414433300399
+            ],
+            [
+                "44_ing writer-director nate parker stars in this searingly impressive account of the nat turner slave rebellion.",
+                0.8685202884295452
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Mark Boone Jr.": {
+                "args": []
+            },
+            "Esther Scott": {
+                "args": []
+            },
+            "Aunjanue Ellis": {
+                "args": []
+            },
+            "Jackie Earle Haley": {
+                "args": []
+            },
+            "Penelope Ann Miller": {
+                "args": []
+            },
+            "Nate Parker": {
+                "args": [
+                    [
+                        "1_a seriously damaged and inadequate movie ... its defects reveal traits of character-arrogance, vanity, and self-importance-that exert an unfortunately strong influence on parker's directorial choices.",
+                        -0.5920699421006256
+                    ],
+                    [
+                        "8_there's a deliberate mythmaking quality to parker's reconstruction of the real-life nat turner, who was a much more morally complex figure than the righteous avenger parker writes, directs, and plays him as.",
+                        0.710987540839483
+                    ],
+                    [
+                        "10_but lest the point get lost, what mr. parker has committed to the screen is a righteously indignant,",
+                        -0.5278353393982685
+                    ],
+                    [
+                        "16_instead of a deep, reflective parable, parker gives us a midrange history channel special.",
+                        0.7553516176344626
+                    ],
+                    [
+                        "22_an ambitious, intelligent and unsettling film from writer-director-star parker.",
+                        0.7925228801626679
+                    ],
+                    [
+                        "34_ nate parker throws the knockout punch as people are killed \"for no reason ",
+                        -0.7145406487680286
+                    ],
+                    [
+                        "34_ being black,\" a statement that gives parker's landmark film the heat of a history that's still being written.",
+                        0.7184566207912404
+                    ],
+                    [
+                        "39_a work this powerful would be impressive for any filmmaker, so the fact that this is parker's first directorial feature is undoubtedly amazing.",
+                        0.6419216637610814
+                    ],
+                    [
+                        "44_ing writer-director nate parker stars in this searingly impressive account of the nat turner slave rebellion.",
+                        0.8685202884295452
+                    ]
+                ]
+            },
+            "Armie Hammer": {
+                "args": []
+            },
+            "Aja Naomi King": {
+                "args": []
+            },
+            "Colman Domingo": {
+                "args": []
+            },
+            "Dwight Henry": {
+                "args": []
+            },
+            "Roger Guenveur Smith": {
+                "args": []
+            },
+            "Gabrielle Union": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "26_the acting is strong even when the script wanders into thickets of rhetoric and mystification.",
+                -0.5141414433300399
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_parker's film is at its best when he presents his harrowing story straightforwardly.",
+                0.8316288027067873
+            ],
+            [
+                "2_if you forgive him enough to see it, the birth of a nation offers a troubling tangle of the personal and historical.",
+                0.8077730539024501
+            ],
+            [
+                "3_the birth of a nation is a flawed ",
+                0.5549871399286663
+            ],
+            [
+                "4_the highly charged arena into which this film about america's bloodiest slave revolt arrives gives it a cachet that, in artistic if not sociological terms, it does not really merit.",
+                0.5834301522732169
+            ],
+            [
+                "6_while the birth of a nation certainly has a powerful and important story to tell, it is, ultimately, a story told with little depth or artistry or skill.",
+                0.8057466609465288
+            ],
+            [
+                "7_\"the birth of a nation\" aims for the gut and hits its target.",
+                0.6399756370783422
+            ],
+            [
+                "10_no, the movie can't escape its maelstrom of bad pr, and reviews aren't written in a vacuum either.",
+                -0.8718574927296454
+            ],
+            [
+                "10_ kinetic and well-acted film.",
+                0.6873531093694246
+            ],
+            [
+                "11_ the birth of a nation is a powerful bit of moviemaking about history and the ongoing issue of racial inequality.",
+                0.7238652868232671
+            ],
+            [
+                "12_the film stands tall on its own merits and deserves to be seen irrespective of the perceived failings of its author.",
+                0.7567199361378547
+            ],
+            [
+                "13_ this is nevertheless a solid and strong and valuable piece of work.",
+                0.6731964395015835
+            ],
+            [
+                "17_the birth of a nation is a film for alert minds, even those that can't - and shouldn't - forget the past and present behaviour of its maker.",
+                0.6314904280508553
+            ],
+            [
+                "18_ powerfully affecting film by a flawed ",
+                0.6480339062617716
+            ],
+            [
+                "23_there is a movie here amid the uproar and it's worth attending to: powerful ",
+                0.6284984911640885
+            ],
+            [
+                "24_ devastating movie that haunts the imagination and conscience.",
+                0.5439807145179945
+            ],
+            [
+                "26_the movie, uneven as it is, has terrific momentum and passages of concentrated visual beauty.",
+                0.7272459609334828
+            ],
+            [
+                "27_it's enough to conclude that the birth of a nation feels like the work of a passionate amateur who knows the power of the story he's telling ",
+                0.6850617230952191
+            ],
+            [
+                "28_what you will find is a film that toggles between impressive fury and a kind of made-for-tv blandness that does nat turner's 1831 uprising -- still controversial -- no favors.",
+                0.5824324823033622
+            ],
+            [
+                "31_placed under the microscope, \"the birth of a nation\" lacks some originality of ",
+                0.5575610613025602
+            ],
+            [
+                "32_the film isn't the unqualified stroke of brilliance its sundance honors might indicate, nor is it the overblown failure its detractors might desire.",
+                -0.7106013595819056
+            ],
+            [
+                "35_it's a complicated movie about a complex man that courts controversy, both intentional and not.",
+                0.6212346201962055
+            ],
+            [
+                "35_if that doesn't make it a great movie, it makes it a necessary one, now more than ever.",
+                0.6007128222530208
+            ],
+            [
+                "37_the birth of a nation is a fine and promising de",
+                0.7451192744015551
+            ],
+            [
+                "37_it also feels very much like a first film, too, unable to reach the lofty artistry that it's striving for.",
+                -0.6574998781752046
+            ],
+            [
+                "41_the birth of a nation isn't a great movie -- it's hardly even a good one.",
+                0.6061301381660633
+            ],
+            [
+                "42_ he deserves a film that doesn't soften the era or apologize in any way for his anger",
+                0.5972394728780487
+            ],
+            [
+                "43_more than a movie about a slave rebellion, it's about the difficulty of reconciling the great moral chasms between ",
+                0.7131795675014156
+            ],
+            [
+                "45_the film offers up more than enough in terms of intelligence, insight, historical research and religious nuance as to not at all be considered a missed opportunity ...",
+                -0.551054566664434
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Nate Parker": {
+                "args": [
+                    [
+                        "1_a seriously damaged and inadequate movie ... its defects reveal traits of character-arrogance, vanity, and self-importance-that exert an unfortunately strong influence on parker's directorial choices.",
+                        -0.5920699421006256
+                    ],
+                    [
+                        "8_there's a deliberate mythmaking quality to parker's reconstruction of the real-life nat turner, who was a much more morally complex figure than the righteous avenger parker writes, directs, and plays him as.",
+                        0.710987540839483
+                    ],
+                    [
+                        "10_but lest the point get lost, what mr. parker has committed to the screen is a righteously indignant,",
+                        -0.5278353393982685
+                    ],
+                    [
+                        "16_instead of a deep, reflective parable, parker gives us a midrange history channel special.",
+                        0.7553516176344626
+                    ],
+                    [
+                        "22_an ambitious, intelligent and unsettling film from writer-director-star parker.",
+                        0.7925228801626679
+                    ],
+                    [
+                        "34_ nate parker throws the knockout punch as people are killed \"for no reason ",
+                        -0.7145406487680286
+                    ],
+                    [
+                        "34_ being black,\" a statement that gives parker's landmark film the heat of a history that's still being written.",
+                        0.7184566207912404
+                    ],
+                    [
+                        "39_a work this powerful would be impressive for any filmmaker, so the fact that this is parker's first directorial feature is undoubtedly amazing.",
+                        0.6419216637610814
+                    ],
+                    [
+                        "44_ing writer-director nate parker stars in this searingly impressive account of the nat turner slave rebellion.",
+                        0.8685202884295452
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "19_ feature, a passion project from an enthusiastic director still learning the craft.",
+                0.8286026421217847
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "acting": {
+        "entities": {
+            "Demian Bichir": {
+                "args": []
+            },
+            "Eva Longoria": {
+                "args": [
+                    [
+                        "0_eva longoria gives one of her most authentic performances as the strong and loving gloria.",
+                        0.8785947010447124
+                    ]
+                ]
+            },
+            "Melissa Benoist": {
+                "args": []
+            },
+            "Gabriel Chavarria": {
+                "args": []
+            },
+            "Theo Rossi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ his performance is natural and effective.",
+                0.6910256470977896
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Cheo Hodari Coker": {
+                "args": []
+            },
+            "Elgin James": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_far more creativity went into the various cars' hood murals than into the screenplay.",
+                0.5362187314167742
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "5_it's dispiriting to watch \"lowriders\" make every predictable move.",
+                -0.6122706623519453
+            ],
+            [
+                "8_a movie that mostly rolls out its plot points in a slow, thumping parade.",
+                -0.7361802864545202
+            ],
+            [
+                "10_ what sets the film apart is its deeply felt celebration of the lowrider tradition ...",
+                0.6846883813525548
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ricardo de Montreuil": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

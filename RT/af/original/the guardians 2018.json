@@ -1,0 +1,94 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Marie-Julie Maille": {
+                "args": []
+            },
+            "Xavier Beauvois": {
+                "args": []
+            },
+            "Frédérique Moreau": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_like the cinematic equivalent of slow food, \"the guardians\" is a rich, simmering cassoulet of a film, one that asks viewers to adjust their metabolisms accordingly.",
+                0.6975165680898054
+            ],
+            [
+                "5_like a series of monet paintings come to life, the historical drama the guardians luxuriates in lush, widescreen images of the french countryside.",
+                0.697854827232488
+            ],
+            [
+                "8_unassumingly powerful details make the guardians one of the year's most affecting love stories.",
+                0.830122435399302
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Nicolas Giraud": {
+                "args": []
+            },
+            "Yann Bean": {
+                "args": []
+            },
+            "Nathalie Baye": {
+                "args": [
+                    [
+                        "2_the performances are extraordinary, as they often are in beauvois' films, with baye a study in quiet suffering and bry wonderfully enigmatic - seemingly simple, ",
+                        0.712036183169611
+                    ],
+                    [
+                        "7_ms. baye, one of the great living french screen actresses, is steely and magnificent, even as it is ms. bry who finally captures the film's energy and the sympathy of the audience.",
+                        0.9099404700129499
+                    ]
+                ]
+            },
+            "Olivier Rabourdin": {
+                "args": []
+            },
+            "Gilbert Bonneau": {
+                "args": []
+            },
+            "Cyril Descours": {
+                "args": []
+            },
+            "Laura Smet": {
+                "args": []
+            },
+            "Iris Bry": {
+                "args": []
+            },
+            "Mathilde Viseux": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Xavier Beauvois": {
+                "args": [
+                    [
+                        "2_the performances are extraordinary, as they often are in beauvois' films, with baye a study in quiet suffering and bry wonderfully enigmatic - seemingly simple, ",
+                        0.712036183169611
+                    ],
+                    [
+                        "4_imagine devoting several years, as mr. beauvois did, to making a reflective, bucolic feature that is organized around the themes of community and evolving culture.",
+                        0.8139464791274879
+                    ]
+                ]
+            }
+        }
+    }
+}

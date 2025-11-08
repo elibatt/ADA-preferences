@@ -1,0 +1,287 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_watching the film is like sitting at dinner with a teen-ager who believes that, if he swears long and loudly enough, he will shock the grownups into accepting him as one of their own.",
+                0.7103375393792166
+            ],
+            [
+                "1_flamboyantly vulgar and determinedly self-referential, deadpool has the shape of a superhero movie ",
+                0.5510976712462866
+            ],
+            [
+                "2_deadpool is obnoxious and puerile and infantile and has an irritating meta tone so snide that it's constantly in danger of nullifying the entire movie -- and i still got a pretty big kick out of it.",
+                -0.7506033906967058
+            ],
+            [
+                "5_deadpool is everything that hollywood has raised audiences to believe heroes are not: crass, selfish and with a vocabulary that would have made george carlin blush.",
+                -0.5211426788726974
+            ],
+            [
+                "7_this is a different kind of movie.",
+                0.6285779402045848
+            ],
+            [
+                "8_too bad his film doesn't.",
+                -0.8266292197946661
+            ],
+            [
+                "9_ deadpool, with his relentlessly glib, nothing-sacred attitude, is not an individual who wears particularly well.",
+                -0.5599994298423218
+            ],
+            [
+                "10_this movie's junky feel is part of its charm.",
+                0.5718305271581947
+            ],
+            [
+                "12_deadpool ... has the singular virtue of being funnier than we've been led to believe a superhero film can be.",
+                -0.6024684721344544
+            ],
+            [
+                "15_deadpool is, on the whole, a big bowl of fun filled with great stunts, gory fight scenes, and sexy poses.",
+                0.8373393083463266
+            ],
+            [
+                "18_ they sell \"deadpool\" so hard that you might wonder if marvel has started to pay on commission.",
+                -0.7074701290177798
+            ],
+            [
+                "20_smart, sexy and outrageous, \"deadpool\" delivers.",
+                0.6682823163150707
+            ],
+            [
+                "21_an anti-superhero movie (or maybe a super-antihero movie) that might have worked if it had the courage of its lack of convictions.",
+                -0.8169713338980974
+            ],
+            [
+                "22_calling deadpool \"just another comic book movie\" would do injustice to a film that makes a strong effort to deliver something different.",
+                0.6985940525236489
+            ],
+            [
+                "25_deadpool, intended as a spiky antidote to superhero oversaturation, ends up impaling only itself.",
+                -0.6450329123221257
+            ],
+            [
+                "26_deadpool succeeds where other irreverent send-ups of the genre failed...",
+                0.50159651411652
+            ],
+            [
+                "28_ if you're willing to roll with that, \"deadpool\" is a hoot.",
+                0.8217926458410738
+            ],
+            [
+                "29_in the end, it's hard to shake the feeling that they've made a movie for boys that only adults are allowed to see.",
+                -0.7866782258690694
+            ],
+            [
+                "30_if only deadpool were as clever, dark and funny as it believes itself to be.",
+                0.7081404679953982
+            ],
+            [
+                "32_\"deadpool\" might feel innovative, ",
+                0.509571975410462
+            ],
+            [
+                "33_\"deadpool\" fails to live up to the potential of its beloved source material, subverting its own agenda by becoming a remarkably generic, by-the-numbers man-in-tights flick.",
+                -0.601294191775761
+            ],
+            [
+                "36_deadpool avoids enough pitfalls to both embrace and flambé the superhero genre while also finding time for romance, doling out equal handfuls of bullets, barbs and warm fuzzies.",
+                0.768425832785568
+            ],
+            [
+                "37_just as deadpool himself wears a mask to hide his hideous features, deadpool conceals a highly conventional origin story under a lot of winking self-awareness.",
+                0.5658543966351741
+            ],
+            [
+                "39_deadpool benefits from an intimate story with more heart than you would expect, ",
+                0.8251122286182142
+            ],
+            [
+                "42_a really raunchy, very dirty and pretty funny goof on the entire superhero ethos, as well as the first marvel film to irreverently trash the brand.",
+                0.664483364608271
+            ],
+            [
+                "43_it's a film that's amused with itself, ",
+                0.6109555757553055
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Tim Miller": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "31_while \"deadpool\" heralds the arrival of a talented new director, its success belongs to reynolds, who also served as a producer.",
+                0.799383762394244
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Rhett Reese": {
+                "args": []
+            },
+            "Paul Wernick": {
+                "args": [
+                    [
+                        "43_thanks to a screwball screenplay by rhett rheese and paul wernick and a charmingly snarky lead turn by ryan reynolds, that amusement is both thoroughly earned and completely contagious.",
+                        0.5653999057312514
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_reynolds has never meshed as well with a character or found a better outlet for his smirking, smart aleck persona.",
+                0.7136713895489193
+            ],
+            [
+                "14_reynolds' mighty mutant title character is anything ",
+                -0.5430768197065305
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "T.J. Miller": {
+                "args": []
+            },
+            "Emily Haine": {
+                "args": []
+            },
+            "Gina Carano": {
+                "args": []
+            },
+            "Jason Day": {
+                "args": []
+            },
+            "Style Dayne": {
+                "args": []
+            },
+            "Jed Rees": {
+                "args": []
+            },
+            "Rob Hayter": {
+                "args": []
+            },
+            "Ayzee": {
+                "args": []
+            },
+            "Stefan Kapicic": {
+                "args": []
+            },
+            "Ben Wilkinson": {
+                "args": []
+            },
+            "Amir Aatash": {
+                "args": []
+            },
+            "Taylor Hickson": {
+                "args": []
+            },
+            "Ed Skrein": {
+                "args": []
+            },
+            "Cindy Piper": {
+                "args": []
+            },
+            "Kyle Rideout": {
+                "args": []
+            },
+            "Chad Riley": {
+                "args": []
+            },
+            "Hugh Scott": {
+                "args": []
+            },
+            "Paul Belsito": {
+                "args": []
+            },
+            "Andre Tricoteux": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Rachel Shaw": {
+                "args": []
+            },
+            "Donna Yamamoto": {
+                "args": []
+            },
+            "Morena Baccarin": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "8_in a landscape where superhero roles are too often seen as paycheck parts, reynolds breaks the mold.",
+                        -0.6491092863659007
+                    ],
+                    [
+                        "10_still, deadpool is party time for action junkies and reynolds may just have found the role that makes his career.",
+                        -0.5124646551160835
+                    ],
+                    [
+                        "31_while \"deadpool\" heralds the arrival of a talented new director, its success belongs to reynolds, who also served as a producer.",
+                        0.799383762394244
+                    ],
+                    [
+                        "35_the politically incorrect material suits ryan reynolds as snugly as marvel's tight red costume, giving the canadian actor a chance to work out his mutant power for hurling snarky one-liners.",
+                        0.6281125150996708
+                    ],
+                    [
+                        "40_ryan reynolds gets the full-throttle wisecracking showcase he deserves in this scabrously funny origin story.",
+                        0.541597200599047
+                    ],
+                    [
+                        "43_thanks to a screwball screenplay by rhett rheese and paul wernick and a charmingly snarky lead turn by ryan reynolds, that amusement is both thoroughly earned and completely contagious.",
+                        0.5653999057312514
+                    ]
+                ]
+            },
+            "Naika Toussaint": {
+                "args": []
+            },
+            "Randal Reeder": {
+                "args": []
+            },
+            "Kyle Cassie": {
+                "args": []
+            },
+            "Justyn Shippelt": {
+                "args": []
+            },
+            "Karan Soni": {
+                "args": []
+            },
+            "Michael Benyaer": {
+                "args": []
+            },
+            "Leslie Uggams": {
+                "args": []
+            },
+            "Darcey Johnson": {
+                "args": []
+            },
+            "Isaac C. Singleton Jr.": {
+                "args": []
+            },
+            "Brianna Hildebrand": {
+                "args": []
+            },
+            "Paul Lazenby": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

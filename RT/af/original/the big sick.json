@@ -1,0 +1,212 @@
+{
+    "writer": {
+        "entities": {
+            "Kumail Nanjiani": {
+                "args": [
+                    [
+                        "6_ that is a small complaint when weighed against nanjiani and co.'s remarkable achievement.",
+                        0.6926206107605206
+                    ],
+                    [
+                        "7_the movie chugs along on the chemistry between nanjiani, acquitting himself well as a droll leading man, and zoe kazan as his sunny, devoted sweetheart, ",
+                        0.7828263595785349
+                    ],
+                    [
+                        "26_comic kumail nanjiani and his wife/co-screenwriter emily v. gordon carve this heartfelt love story out of her health crisis and their own culture-clash relationship.",
+                        0.8124514949867445
+                    ],
+                    [
+                        "28_the jokes, many of them lifted from nanjiani's own routines, are often edgy and politically engaged.",
+                        0.6139051557618301
+                    ],
+                    [
+                        "35_comedian and actor kumail nanjiani and writer emily v. gordon mine their personal history for laughs, heartache, and hard-earned insight in the big sick, a film that's by turns romantic, rueful, and hilarious.",
+                        0.7395498860722347
+                    ]
+                ]
+            },
+            "Emily V. Gordon": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "37_nanjiani and showalter imbue the film with so much more character-based truth than we usually see from the genre.",
+                0.7585751279768653
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Michael Showalter": {
+                "args": [
+                    [
+                        "23_again and again, [showalter] finds that laughter-through-tears sweet spot, often in the unlikeliest of places.",
+                        0.6447470445098011
+                    ],
+                    [
+                        "34_infused with honesty and authenticity, michael showalter's crowd-pleaser is an instantly winning heart-stealer and a superbly well-timed story of culture clash that resolves into a lovely tale of mutual understanding and acceptance.",
+                        0.8928761502908267
+                    ],
+                    [
+                        "37_nanjiani and showalter imbue the film with so much more character-based truth than we usually see from the genre.",
+                        0.7585751279768653
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"the big sick\" has a big heart and shows there are still corners left to explore in romantic comedies",
+                0.577186489894072
+            ],
+            [
+                "2_\"the big sick\" has a lot of charm.",
+                -0.566443301153255
+            ],
+            [
+                "3_mostly, the movie works for the reason that all the best rom-coms do: you fall in love, a little bit, with kumail and emily, and want them to stay together.",
+                0.7817434357903359
+            ],
+            [
+                "4_\"the big sick\" suffers from an excess of pleasantness, and this very pleasantness thins out its substance, blands out its tone, weakens its comedy.",
+                -0.782004298686335
+            ],
+            [
+                "5_i'm fully confident the big sick will pass that test the next time i see it, which will be very soon.",
+                0.5610200392616983
+            ],
+            [
+                "10_it's a movie that not only puts human imperfections and incongruities on display, ",
+                0.503458153019117
+            ],
+            [
+                "11_the movie treats the people on screen generously, and it's a romantic comedy with surprising depth of feeling, glancing on all sorts of things: race, religion, tolerance, understanding, the competitive peculiarity of stand-up comedy ...",
+                0.7126565751850502
+            ],
+            [
+                "12_case in point: \"the big sick,\" a small movie that makes a big impact.",
+                0.5159633828004865
+            ],
+            [
+                "14_\"the big sick,\" with ease and seeming effortlessness, makes us care a lot of about these people, together and separately.",
+                0.5803028623065822
+            ],
+            [
+                "15_ it only takes one great film to zap it back into life.",
+                0.5788759836709362
+            ],
+            [
+                "15_the big sick just might be that film.",
+                -0.684584383703396
+            ],
+            [
+                "16_those are a lot of plates for any film to keep spinning, and while it isn't always a complete success - it could stand to lose 15 or 20 minutes -",
+                0.5375005544878292
+            ],
+            [
+                "16_it's the kind of sweetly funny movie love story that's so bizarre that it has to be real.",
+                0.8119589317659068
+            ],
+            [
+                "18_to call the big sick the best comedy so far this year is to skimp its appeal.",
+                0.6663880027244014
+            ],
+            [
+                "18_it's a very funny movie with a surprising amount of depth, and somehow the jokes and the seriousness heighten each other.",
+                0.831697393037405
+            ],
+            [
+                "19_ the big sick is the first \"hospital film\" in a while that makes us feel the stakes of a vicious mystery disease in our guts.",
+                0.6013156404191228
+            ],
+            [
+                "20_it's a lot for any movie to take on.",
+                0.6025668463897706
+            ],
+            [
+                "20_the big sick pulls it off with unquenchable humor and ineffable grace.",
+                0.562721274250974
+            ],
+            [
+                "25_it's an exceedingly high degree of difficulty to hit the perfect chord of humor and heart, plucking the heartstrings just so, blending laughter and tears, and \"the big sick\" strums them just right.",
+                0.7822576143638441
+            ],
+            [
+                "27_the big sick becomes a story rarely explored or romanticized on film, about what it's like to bond with the parents of the person you're in love with.",
+                0.5989507724731111
+            ],
+            [
+                "29_luckily for us, the big sick is neither.",
+                -0.8163683771603562
+            ],
+            [
+                "31_this movie keeps a lot of balls in the air: generational and cultural conflict, hospital drama, screwball banter-and only rarely lets one drop.",
+                -0.6588633239034956
+            ],
+            [
+                "32_the movie's so good... in part because of the degree to which it considers marriage not just as a relationship between two people ",
+                0.8490304072598784
+            ],
+            [
+                "33_already, the big sick is scoring points on familiar rom-com territory, so when it suddenly morphs into a completely different film -- a bracingly sophisticated one -- you'll want to cry with happiness.",
+                0.5152975538229851
+            ],
+            [
+                "39_the big sick is an enormous crowdpleaser, funny and touching in about equal measure, built atop an intense experience, and wise about the ways we interact with both our own parents and those of the people we date.",
+                0.813264301511037
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Ray Romano": {
+                "args": []
+            },
+            "Matty Cardarople": {
+                "args": []
+            },
+            "Holly Hunter": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": [
+                    [
+                        "6_ that is a small complaint when weighed against nanjiani and co.'s remarkable achievement.",
+                        0.6926206107605206
+                    ],
+                    [
+                        "7_the movie chugs along on the chemistry between nanjiani, acquitting himself well as a droll leading man, and zoe kazan as his sunny, devoted sweetheart, ",
+                        0.7828263595785349
+                    ],
+                    [
+                        "26_comic kumail nanjiani and his wife/co-screenwriter emily v. gordon carve this heartfelt love story out of her health crisis and their own culture-clash relationship.",
+                        0.8124514949867445
+                    ],
+                    [
+                        "28_the jokes, many of them lifted from nanjiani's own routines, are often edgy and politically engaged.",
+                        0.6139051557618301
+                    ],
+                    [
+                        "35_comedian and actor kumail nanjiani and writer emily v. gordon mine their personal history for laughs, heartache, and hard-earned insight in the big sick, a film that's by turns romantic, rueful, and hilarious.",
+                        0.7395498860722347
+                    ]
+                ]
+            },
+            "Zoe Kazan": {
+                "args": []
+            },
+            "Anupam Kher": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

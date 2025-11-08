@@ -1,0 +1,190 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_toy story 2 is a brilliant example of that rarest of hollywood phenomena a sequel to a major hit film thats as good, if not better, than the original.",
+                0.8675692290562196
+            ],
+            [
+                "3_pixar's 1995 toy story and its superlative 1999 sequel ushered in the supremacy of computer-generated animation.",
+                0.6142456984610484
+            ],
+            [
+                "4_the folks who brought you 'toy story now present toy story 2, another clever, riotous tale of life in the toy lane.",
+                0.7778994963099567
+            ],
+            [
+                "5_pixar, the animation studio that teamed with disney for both movies, has broken technological ground since the first toy story, and ts2 shows off its newest expertise with one smart visual joke after another.",
+                0.5043671622408681
+            ],
+            [
+                "9_seeing the film ten years later - and in the mighty shadow of pixar's recent masterpieces - the film feels a little chaotic, safe, tired on its feet.",
+                -0.6184492152410275
+            ],
+            [
+                "11_the movie's clearly articulated theme is whether life should be lived for the future or in the present, something both adults and children may find provocative.",
+                0.6256681193816587
+            ],
+            [
+                "14_a technical marvel that's packed to the margins with details and tricks, pathos and inside jokes, toy story 2 fulfills the immense promise of its predecessor where it might have diminished its charms.",
+                0.6027642526757728
+            ],
+            [
+                "15_i forgot something about toys a long time ago, and toy story 2 reminded me.",
+                -0.5764795703829585
+            ],
+            [
+                "17_toy story 2 is everything you could want in a sequel.",
+                0.5609752894013473
+            ],
+            [
+                "19_toy story 2 is even sweeter, faster, funnier and more beautiful than the pixar team's groundbreaking computer animated blockbuster.",
+                0.6960358855727525
+            ],
+            [
+                "24_in the realm of sequels, toy story 2 is to toy story what the empire strikes back was to its predecessor, a richer, more satisfying film in every respect.",
+                0.7146366669379222
+            ],
+            [
+                "27_one would have to be a hopeless curmudgeon not to be entertained by toy story 2's remarkable visual style, quick-moving storyline, endearing characters, and witty dialogue.",
+                0.707102869941189
+            ],
+            [
+                "28_only after leaving the theater is there reason to realize just how much imagination has gone into making this film so enveloping.",
+                -0.705448130635195
+            ],
+            [
+                "31_toy story 2 transforms from rootin'-tootin' 'toon to museum-class art.",
+                0.6406440359684797
+            ],
+            [
+                "33_toy story 2 is a triumph at every level.",
+                0.5094133532170686
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Lasseter": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Joan Cusack": {
+                "args": []
+            },
+            "David Ogden Stiers": {
+                "args": []
+            },
+            "Estelle Harris": {
+                "args": []
+            },
+            "Wayne Knights": {
+                "args": []
+            },
+            "Jeff Pidgeon": {
+                "args": []
+            },
+            "Jim Varney": {
+                "args": []
+            },
+            "Don Rickles": {
+                "args": []
+            },
+            "Annie Potts": {
+                "args": []
+            },
+            "R. Lee Ermey": {
+                "args": []
+            },
+            "Tom Hanks": {
+                "args": []
+            },
+            "Wayne Knight": {
+                "args": []
+            },
+            "Andrew Stanton": {
+                "args": []
+            },
+            "Tim Allen": {
+                "args": [
+                    [
+                        "7_and the vocal talents of tom hanks, tim allen and others bring even fuller soul to the proceedings than before.",
+                        0.7340158202198699
+                    ]
+                ]
+            },
+            "Jonathan Harris": {
+                "args": []
+            },
+            "Jodi Benson": {
+                "args": []
+            },
+            "Joe Ranft": {
+                "args": []
+            },
+            "Laurie Metcalf": {
+                "args": []
+            },
+            "John Morris": {
+                "args": []
+            },
+            "John Ratzenberger": {
+                "args": []
+            },
+            "Wallace Shawn": {
+                "args": []
+            },
+            "Kelsey Grammer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "36_like last year's underrated babe: pig in the city, it dares to take its familiar cast of characters in a different, more melancholy direction.",
+                0.7940312180846631
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Doug Chamberlin": {
+                "args": []
+            },
+            "Doug Chamberlain": {
+                "args": []
+            },
+            "Rita Hsiao": {
+                "args": []
+            },
+            "Chris Webb": {
+                "args": []
+            },
+            "Ash Brannon": {
+                "args": []
+            },
+            "John Lasseter": {
+                "args": []
+            },
+            "Pete Docter": {
+                "args": []
+            },
+            "Andrew Stanton": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_one would have to be a hopeless curmudgeon not to be entertained by toy story 2's remarkable visual style, quick-moving storyline, endearing characters, and witty dialogue.",
+                0.707102869941189
+            ]
+        ]
+    }
+}

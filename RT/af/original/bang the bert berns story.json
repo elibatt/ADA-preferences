@@ -1,0 +1,59 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Van Morrison": {
+                "args": []
+            },
+            "Ronald Isley": {
+                "args": []
+            },
+            "Steven Van Zandt": {
+                "args": [
+                    [
+                        "3_blending stock footage, vintage audio, re-creation, and many testimonials from heavy hitters from ben e. king to van morrison, berns' son brett keeps things visually lively ...",
+                        0.5794195606504208
+                    ]
+                ]
+            },
+            "Paul McCartney": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Brett Berns": {
+                "args": [
+                    [
+                        "3_blending stock footage, vintage audio, re-creation, and many testimonials from heavy hitters from ben e. king to van morrison, berns' son brett keeps things visually lively ...",
+                        0.5794195606504208
+                    ],
+                    [
+                        "4_if you love the music berns made, you'll love this movie",
+                        0.8201490339441163
+                    ]
+                ]
+            },
+            "Bob Sarles": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joel Selvin": {
+                "args": []
+            }
+        }
+    }
+}

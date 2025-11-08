@@ -1,0 +1,102 @@
+{
+    "writer": {
+        "entities": {
+            "Jesse Andrews": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Owen Teague": {
+                "args": []
+            },
+            "Jacob Batalon": {
+                "args": []
+            },
+            "Colin Ford": {
+                "args": []
+            },
+            "Debby Ryan": {
+                "args": []
+            },
+            "Angourie Rice": {
+                "args": [
+                    [
+                        "9_ rice burnishes acting skills that were already gleaming after the beguiled and the nice guys.",
+                        0.5183848838686744
+                    ],
+                    [
+                        "10_and as rhiannon, the appealing angourie rice is just the kind of teenager you root for ...",
+                        0.6632209094354129
+                    ]
+                ]
+            },
+            "Lucas Jade Zumann": {
+                "args": []
+            },
+            "Justice Smith": {
+                "args": [
+                    [
+                        "10_the cast does excellent work, particularly justice smith, who as justin gets to play world's worst and best boyfriend and nails both.",
+                        0.7105911962845577
+                    ]
+                ]
+            },
+            "Maria Bello": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the story probably can't help posing more questions than it could ever reasonably answer, and the great cast goes a long way toward smoothing out the creases.",
+                -0.5188163635589351
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"every day\" is, after all, trying to say something serious about love.",
+                0.5430934349359251
+            ],
+            [
+                "4_it's nothing close to a great film, ",
+                0.5229971449286214
+            ],
+            [
+                "4_ neither is it something audiences see every day.",
+                -0.6759137837382703
+            ],
+            [
+                "5_the love story at the heart of \"every day\" is a deep one, an inventive allegory that packs a timely wallop, ",
+                0.8404603341899195
+            ],
+            [
+                "7_at heart, \"every day\" is just an elaborately convoluted parable of a high-school girl learning to prize a savvy nice guy over a popular cad.",
+                0.6119951347403185
+            ],
+            [
+                "7_ the movie demonstrates why that simple lesson is more than skin-deep.",
+                0.6432784348140277
+            ],
+            [
+                "8_\"every day\" [is] more ambitious than your average teen romance, which only makes it all the more disappointing that it simply remains an average teen romance.",
+                0.5601672668847565
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Michael Sucsy": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

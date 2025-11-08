@@ -1,0 +1,141 @@
+{
+    "writer": {
+        "entities": {
+            "Abderrahmane Sissako": {
+                "args": []
+            },
+            "Kessen Tall": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Abel Jafri": {
+                "args": []
+            },
+            "Hichem Yacoubi": {
+                "args": []
+            },
+            "Mehdi Ag Mohamed": {
+                "args": []
+            },
+            "Fatoumata Diawara": {
+                "args": []
+            },
+            "Salem Dendou": {
+                "args": []
+            },
+            "Kettly Noël": {
+                "args": []
+            },
+            "Layla Walet Mohamed": {
+                "args": []
+            },
+            "Ibrahim Ahmed": {
+                "args": []
+            },
+            "Toulou Kiki": {
+                "args": []
+            },
+            "Adel Mahmoud Cherif": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_for a film that makes you sick with dread, timbuktu has a light, at times glancing touch.",
+                0.7730429089025628
+            ],
+            [
+                "3_timbuktu...is a moving, haunting and beautifully shot peek behind the closed cultural curtain.",
+                0.5702935491858896
+            ],
+            [
+                "6_ the mauritanian movie timbuktu, a nominee for the best foreign film oscar, gives those who suffer its condemnations a searingly human face.",
+                0.8341616131107997
+            ],
+            [
+                "8_\"timbuktu\" is culturally deep, visually ravishing, utterly heartbreaking work.",
+                0.6211433726317439
+            ],
+            [
+                "10_a film that deliberately expresses its outrage with religious oppression, offering moments of humour and, at times, startling beauty.",
+                0.7505744516704786
+            ],
+            [
+                "14_\"timbuktu\" is a terrific film, a quiet work of savage truth.",
+                0.7674407657162287
+            ],
+            [
+                "16_an extraordinary accomplishment, a heartbreaking, visually spectacular and largely accessible work from a cinematic master who is more than ready for international attention.",
+                0.7803695921419391
+            ],
+            [
+                "18_a film that's a mix of tones, of satire and melodrama and tragedy, that somehow jells.",
+                0.5129519568382117
+            ],
+            [
+                "21_the film throbs with humanity, and abounds in extraordinary images ...",
+                0.7982328479109545
+            ],
+            [
+                "23_\"timbuktu\" deserves every accolade it gets.",
+                0.5282478647749704
+            ],
+            [
+                "25_it's a work of art that seems realized in an entirely organic way.",
+                0.6193895655285072
+            ],
+            [
+                "28_the release of \"timbuktu\" could not be more timely, ",
+                0.6410971600456187
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Abderrahmane Sissako": {
+                "args": [
+                    [
+                        "1_director abderrahmane sissako, a muslim from neighboring mauritania, has made a movie that is worthy of comparisons on several levels to terrence malick's wheat-field tragedy \"days of heaven.\"",
+                        0.5385438737704162
+                    ],
+                    [
+                        "11_abderrahmane sissako's sad, handsome film is a response, a supplement, and a protest to the horrors that flash by on the news.",
+                        -0.642096330094165
+                    ],
+                    [
+                        "13_in providing audiences a chance to bear witness to unspeakable suffering as well as dazzling defiance and human dignity, sissako has created a film that's a privilege to watch.",
+                        0.8573425180512961
+                    ],
+                    [
+                        "20_[sissako] has made a film of unforgettable anger, yet tempered his outrage with humor, compassion and visual poetry.",
+                        0.7682512766216859
+                    ],
+                    [
+                        "29_abderrahmane sissako is just such a master.",
+                        0.52953406493306
+                    ],
+                    [
+                        "30_timbuktu is a hard film to forget and once again brings sissako to the center stage of african cinema.",
+                        0.6247121649245961
+                    ],
+                    [
+                        "32_the rebels are too flatly characterized for the religious conflict to deepen, and sissako's other main story line, tracing a deadly feud between a fisherman and a cattle farmer, adds little to the movie's political thrust.",
+                        -0.5400291156661445
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

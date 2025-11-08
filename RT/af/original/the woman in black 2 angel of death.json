@@ -1,0 +1,156 @@
+{
+    "writer": {
+        "entities": {
+            "Jon Croker": {
+                "args": [
+                    [
+                        "13_director tom harper and screenwriter jon croker offer up plenty of atmosphere, ",
+                        0.6126773824974031
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "15_the transparent title character from 2012's \"the woman in black\" is resurrected in this sequel, which abandons atmosphere for cheap scares.",
+                -0.5746831557104668
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Tom Harper": {
+                "args": [
+                    [
+                        "1_director tom harper conveys this theme through dark, moldy-looking mise-en-scene and the uniformly sullen performances he elicits from the cast",
+                        0.6554262838635047
+                    ],
+                    [
+                        "8_the director, tom harper, seems less interested in allegory than in monotonous, conventional goosing, the kind that involves flickering lights and a creaky rocking chair.",
+                        -0.5071039310043604
+                    ],
+                    [
+                        "13_director tom harper and screenwriter jon croker offer up plenty of atmosphere, ",
+                        0.6126773824974031
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "5_it's a dour, drab, dark movie, enlivened by some moderately effective chills in the first half ",
+                -0.5870471085312418
+            ],
+            [
+                "7_the 1940s setting gives the film's first half some unearned gravity, ",
+                0.7097529944580239
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Thomas Arnold": {
+                "args": []
+            },
+            "Lexie Cook": {
+                "args": []
+            },
+            "Leanne Best": {
+                "args": [
+                    [
+                        "12_that said, the new installment is, at best, a serviceable creep show, one with far more chills than thrills.",
+                        0.586781127824515
+                    ]
+                ]
+            },
+            "Andreas Bazigos": {
+                "args": []
+            },
+            "Keanen Diaper": {
+                "args": []
+            },
+            "Casper Allpress": {
+                "args": []
+            },
+            "Amelia Pidgeon": {
+                "args": []
+            },
+            "Oaklee Pendergast": {
+                "args": []
+            },
+            "Natasha Wigman": {
+                "args": []
+            },
+            "Mary Roscoe": {
+                "args": []
+            },
+            "Ned Dennehy": {
+                "args": []
+            },
+            "Jude Wright": {
+                "args": []
+            },
+            "Leilah de Meza": {
+                "args": []
+            },
+            "Annabel Hindley": {
+                "args": []
+            },
+            "Helen McCrory": {
+                "args": []
+            },
+            "Oscar Cameron": {
+                "args": []
+            },
+            "Amelia Crouch": {
+                "args": []
+            },
+            "Phoebe Fox": {
+                "args": []
+            },
+            "Katherine Brown": {
+                "args": []
+            },
+            "Lucy Dawson": {
+                "args": []
+            },
+            "Adrian Rawlins": {
+                "args": []
+            },
+            "Eve Pearce": {
+                "args": []
+            },
+            "Alfie Simmons": {
+                "args": []
+            },
+            "Pip Pearce": {
+                "args": []
+            },
+            "Chloe Mitchell": {
+                "args": []
+            },
+            "Olivia Sear": {
+                "args": []
+            },
+            "Jeremy Irvine": {
+                "args": []
+            },
+            "Georgina Vane": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_director tom harper conveys this theme through dark, moldy-looking mise-en-scene and the uniformly sullen performances he elicits from the cast",
+                0.6554262838635047
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

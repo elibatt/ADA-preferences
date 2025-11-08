@@ -1,0 +1,144 @@
+{
+    "writer": {
+        "entities": {
+            "Angela Workman": {
+                "args": [
+                    [
+                        "2_ the way it plays out in angela workman's script (adapted from diane ackerman's bestseller) is strictly by the numbers.",
+                        -0.5480177705787104
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Niki Caro": {
+                "args": [
+                    [
+                        "1_niki caro breaks out of the genre and emerges with a truly moving and original film.",
+                        0.7922076675326376
+                    ],
+                    [
+                        "10_overall, caro seems to be making a pointed narrative choice:",
+                        0.6733914401312866
+                    ],
+                    [
+                        "18_belief begets belief, and the faith that star jessica chastain and director niki caro have in \"the zookeeper's wife\" turn this world war ii drama into an emotional experience that is straight-ahead ",
+                        0.7918832860139383
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_but when the film pivots to the scared human beings down below, you get a hint of the weirder,",
+                0.6149419233768173
+            ],
+            [
+                "7_a film that prefers tastefully underplaying holocaust clichés to building its own legitimate drama.",
+                0.6925088006183187
+            ],
+            [
+                "9_once the nazis roll in and shoot all the critters, the movie begins to feel like a budget version of schindler's list and drifts away into the deep blue sea of holocaust dramas.",
+                0.5415006308956106
+            ],
+            [
+                "10_in the war movie genre, those who quietly tend to the vulnerable don't always get their due.",
+                0.5963101078225639
+            ],
+            [
+                "23_it's a good movie about great heroism, and you wish it was more.",
+                0.5857512611254037
+            ],
+            [
+                "25_ pallid recycling of holocaust movie tropes with epic pretensions.",
+                0.5669159384131297
+            ],
+            [
+                "27_it's a worthy film that fails in revealing any depth to its protagonists, remembering them for their courageousness and little more.",
+                -0.5878097028811637
+            ],
+            [
+                "29_ultimately, the movie gets by on the power of its characters' goodness",
+                0.5826921190957095
+            ],
+            [
+                "31_the movie is nicely shot and sympathetically acted, ",
+                0.5751238837174597
+            ],
+            [
+                "33_as refreshing as it is to see a woman in an oskar schindler-type role get her big-movie due, the trappings of handsome blandness, tinny storytelling, and thumbnail-sketch war terror prove too much for this story of a beauty fighting beastliness.",
+                0.5940413622648912
+            ],
+            [
+                "34_the movie's central figures and their experiences have been cleansed of complexity, embalmed in a sort of hagiographic glaze that makes even the pain look pretty.",
+                0.6428644362277592
+            ],
+            [
+                "35_caro's movie fails to muster even a fraction of the suspense such life-and-death material naturally demands.",
+                -0.7929296399077346
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Johan Heldenbergh": {
+                "args": []
+            },
+            "Michael McElhatton": {
+                "args": []
+            },
+            "Iddo Goldberg": {
+                "args": []
+            },
+            "Jessica Chastain": {
+                "args": [
+                    [
+                        "4_jessica chastain is relaxed with some actual lion cubs, and there's a bunny that should win an oscar.",
+                        0.7726180744657434
+                    ],
+                    [
+                        "8_this is a handsomely shot, weighty story, and chastain is a knockout in the lead.",
+                        -0.6434540109713793
+                    ],
+                    [
+                        "14_the film is at its best when chastain is on screen - and that is a lot.",
+                        0.8591297048880648
+                    ],
+                    [
+                        "15_ does boast an excellent lead performance from jessica chastain",
+                        0.9051340434744003
+                    ],
+                    [
+                        "17_the film's flaws in pacing are easily overlooked in the shadow of chastain's moving performance, as well as the performances of those around her.",
+                        0.7823073574608097
+                    ],
+                    [
+                        "18_belief begets belief, and the faith that star jessica chastain and director niki caro have in \"the zookeeper's wife\" turn this world war ii drama into an emotional experience that is straight-ahead ",
+                        0.7918832860139383
+                    ],
+                    [
+                        "32_ that's no reason to ignore it (and chastain, who strikes a wonderful balance with heldenbergh, is masterful at expressing stoicism without ever tipping into sanctimony).",
+                        0.9107294366365867
+                    ]
+                ]
+            },
+            "Shira Haas": {
+                "args": []
+            },
+            "Daniel Brühl": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

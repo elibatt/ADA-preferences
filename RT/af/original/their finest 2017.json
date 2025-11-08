@@ -1,0 +1,156 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_stories to inspire a nation have long made up a sizable percentage of hollywood schlock, and their finest deserves credit for exploring a woman's role in such an effort.",
+                0.6858842926363977
+            ],
+            [
+                "1_ the narrative for their finest occasionally rambles ... it is by-and-large a stirring drama that incorporates lighter moments with scenes of deeply felt tragedy.",
+                0.8018884776521316
+            ],
+            [
+                "3_\"their finest\" is a charming and ",
+                0.8574639389880545
+            ],
+            [
+                "3_tful movie, about people making a charming and ",
+                0.8145518654434332
+            ],
+            [
+                "5_at its best, which is often, their finest... manipulates appearance and reality, relief and recognition, with exquisite finesse.",
+                0.9233266001324273
+            ],
+            [
+                "5_as befits a film about making films.",
+                0.6643730011600122
+            ],
+            [
+                "10_scherfig sets so many plates spinning in this second world war romantic drama, part of the film's great appeal is wondering if they'll come crashing down.",
+                0.6596375157692841
+            ],
+            [
+                "11_a war film, yes, and a film about empowerment and romance.",
+                0.69586896804858
+            ],
+            [
+                "11_ it's also a movie about movies.",
+                0.6011379330011213
+            ],
+            [
+                "12_as enjoyable as it often is, i found myself resenting somewhat the film's insistence on the redemptive powers of movies during wartime.",
+                0.7239417028943365
+            ],
+            [
+                "15_love and laughter flow so naturally in \"their finest\"",
+                0.6880182751363009
+            ],
+            [
+                "16_their finest is one of the smartest, funniest and most surprising movies i've seen in years.",
+                0.9019846070015758
+            ],
+            [
+                "19_their finest is a solid, refreshing crowd-pleaser.",
+                0.8141119027671778
+            ],
+            [
+                "20_their finest nimbly sidesteps inspirational pomposity and lands on a refreshingly utilitarian approach to the art of writing and producing a war movie.",
+                0.8130440414786168
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Lone Scherfig": {
+                "args": [
+                    [
+                        "8_ lone scherfig's smart, heartwarming take on the efforts of the british film industry makes up for the sparse coverage.",
+                        0.8287367721297858
+                    ],
+                    [
+                        "22_a relentlessly charming romantic comedy that sees director lone scherfig ... finally expand the sensibilities she displayed with \"italian for beginners\" and \"an education\" into a more commercial direction.",
+                        0.8038392166250005
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Gaby Chiappe": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_their finest nimbly sidesteps inspirational pomposity and lands on a refreshingly utilitarian approach to the art of writing and producing a war movie.",
+                0.8130440414786168
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Claudia Jessie": {
+                "args": []
+            },
+            "Hubert Burton": {
+                "args": []
+            },
+            "Jake Lacy": {
+                "args": []
+            },
+            "Jeremy Irons": {
+                "args": []
+            },
+            "Bill Nighy": {
+                "args": []
+            },
+            "Eddie Marsan": {
+                "args": []
+            },
+            "Stephanie Hyam": {
+                "args": []
+            },
+            "Gemma Arterton": {
+                "args": [
+                    [
+                        "7_as polite, charming, and english as its star gemma arterton, who sails through the chaos and calamity with the good sense, pluck, and grace of a motherly angel.",
+                        0.8273484411955061
+                    ]
+                ]
+            },
+            "Sam Claflin": {
+                "args": [
+                    [
+                        "21_arterton brings grace and understatement to catrin's gradual belief in herself and in the magic of movies, while claflin reveals maturity and dry humor that will be a surprise for audiences who know him primarily from his hunger games role.",
+                        0.8278717186153097
+                    ]
+                ]
+            },
+            "Jack Huston": {
+                "args": []
+            },
+            "Paul Ritter": {
+                "args": []
+            },
+            "Richard E. Grant": {
+                "args": []
+            },
+            "Rachael Stirling": {
+                "args": []
+            },
+            "Henry Goodman": {
+                "args": []
+            },
+            "Helen McCrory": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

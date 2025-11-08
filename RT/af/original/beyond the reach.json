@@ -1,0 +1,108 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Douglas": {
+                "args": [
+                    [
+                        "0_michael douglas chews the spectacular desert scenery in this silly, enjoyable survival thriller.",
+                        0.6310005278768608
+                    ],
+                    [
+                        "2_watching douglas behave like a narcissistic scumbag is an absolute pleasure, one in which viewers of action-adventure \"beyond the reach\" can happily indulge.",
+                        0.63665829953505
+                    ],
+                    [
+                        "10_michael douglas seems to have been slithering toward this part for 40 years",
+                        -0.6073242525379542
+                    ],
+                    [
+                        "17_not even a gleeful michael douglas can make this a cat-and-mouse game worth playing.",
+                        0.601491242430261
+                    ]
+                ]
+            },
+            "Jeremy Irvine": {
+                "args": []
+            },
+            "Hanna Mangan Lawrence": {
+                "args": []
+            },
+            "Martin Palmer": {
+                "args": []
+            },
+            "Jimmy Romano": {
+                "args": []
+            },
+            "Patricia Bethune": {
+                "args": []
+            },
+            "Ronny Cox": {
+                "args": []
+            },
+            "David Garver": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_\"beyond the reach\" is a grueling, unsatisfying thriller that fails the logic test in spectacular ways.",
+                -0.6054781745354887
+            ],
+            [
+                "5_douglas is in his element and the throwback, stylized look of the production makes beyond the reach an entertaining hit of escapist fun.",
+                0.8343327542197785
+            ],
+            [
+                "11_there are goofy, primal pleasures to be had in the first two-thirds of the film.",
+                0.7043906250456093
+            ],
+            [
+                "11_but \"beyond the reach\" exceeds even its humble grasp in the final act,",
+                -0.6017108154375002
+            ],
+            [
+                "11_ collapsing in a clatter of blockheaded manhunter-movie cliches.",
+                -0.5655020231545325
+            ],
+            [
+                "12_the flat-out awful ending ... deflates much of the goodwill built up by the rest of the film.",
+                -0.7503150705395184
+            ],
+            [
+                "13_\"beyond the reach\" is a misfire, one of those movies that never quite rises to the level of guilty pleasure.",
+                -0.5010187991528794
+            ],
+            [
+                "14_\"beyond the reach\" fails to achieve the southwestern noir potency of \"no country for old men,\" ",
+                -0.587217408855429
+            ],
+            [
+                "15_the movie tries too hard to promise nail-crunching terror that it never really delivers.",
+                -0.7860916828165506
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean-Baptiste Léonetti": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stephen Susco": {
+                "args": []
+            }
+        }
+    }
+}

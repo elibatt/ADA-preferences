@@ -1,0 +1,93 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_to think that everyone here intended to make a movie this utterly lifeless and banal from the outset is infinitely more frightening than anything presented on screen.",
+                -0.6880083129072518
+            ],
+            [
+                "5_ there is fun to be had and even some cultural relevancy if you decide to say hi to the bye bye man.",
+                0.6678642636861034
+            ],
+            [
+                "6_this horror movie has a hook that's sharper than it sounds.",
+                -0.6052811267546839
+            ],
+            [
+                "8_there may be worse horror films than the bye bye man this year, ",
+                -0.6581237526484307
+            ],
+            [
+                "9_the derivative work doesn't deliver scares so much as a few starts, all while ripping off such genre classics as \"candyman\" and \"a nightmare on elm street.\"",
+                -0.7459439040153848
+            ],
+            [
+                "14_succumbs to the usual genre pitfalls: loud and empty shocks, monotony, and talk-explain-talk-explain scenes that drain the movie of any ghoulish mystery it might have held.",
+                -0.6264219075874772
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stacy Title": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_the script teems with horror clichés (scribbled drawings, a creepy kid, the skeptical protagonist looking up the demon's origins on a library computer), and everything from the acting to the makeup to the special effects is atrocious.",
+                -0.58226602195168
+            ]
+        ],
+        "entities": {
+            "Cressida Bonas": {
+                "args": []
+            },
+            "Faye Dunaway": {
+                "args": []
+            },
+            "Marisa Echeverria": {
+                "args": []
+            },
+            "Lucien Laviscount": {
+                "args": []
+            },
+            "Carrie-Anne Moss": {
+                "args": []
+            },
+            "Doug Jones": {
+                "args": []
+            },
+            "Erica Tremblay": {
+                "args": []
+            },
+            "Jenna Kanell": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_the script teems with horror clichés (scribbled drawings, a creepy kid, the skeptical protagonist looking up the demon's origins on a library computer), and everything from the acting to the makeup to the special effects is atrocious.",
+                -0.58226602195168
+            ],
+            [
+                "1_if so, your writer is happy to remain uneducated.",
+                0.7658074492198004
+            ]
+        ],
+        "entities": {
+            "Jonathan Penner": {
+                "args": []
+            }
+        }
+    }
+}

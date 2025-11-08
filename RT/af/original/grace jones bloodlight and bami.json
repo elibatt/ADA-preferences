@@ -1,0 +1,77 @@
+{
+    "director": {
+        "args": [
+            [
+                "4_unfortunately, jones is alone here, forced to carry the film without much help from the director.",
+                -0.5782054078262635
+            ]
+        ],
+        "entities": {
+            "Sophie Fiennes": {
+                "args": [
+                    [
+                        "5_perhaps fiennes's intent is to draw the viewer into the solipsistic intensity of what it is to be grace jones.",
+                        0.6779408112248703
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_fiennes provides a meandering observation of the woman behind the glamazon, disco diva and full-throated and furious singer/performance artist in this unstructured doc.",
+                0.6911041166946624
+            ]
+        ],
+        "entities": {
+            "Jean-Paul Goude": {
+                "args": []
+            },
+            "Grace Jones": {
+                "args": [
+                    [
+                        "2_as it ticks on, it achieves an unlikely and perhaps not entirely unintentional feat: it makes grace jones kind of boring.",
+                        -0.5593947358028987
+                    ],
+                    [
+                        "3_the film, which opens with jones tearing up the house as she sings behind gaudy funeral masks, gradually strips away the artifice and lets her identity emerge fully formed.",
+                        0.7048338686895594
+                    ],
+                    [
+                        "4_unfortunately, jones is alone here, forced to carry the film without much help from the director.",
+                        -0.5782054078262635
+                    ],
+                    [
+                        "5_perhaps fiennes's intent is to draw the viewer into the solipsistic intensity of what it is to be grace jones.",
+                        0.6779408112248703
+                    ],
+                    [
+                        "7_fiennes does achieve a level of intimacy and candor with jones that's uncommon for documentaries about figures who control their images this closely.",
+                        0.9045511391263256
+                    ],
+                    [
+                        "9_this portrait of grace jones meanders a bit, preferring a loose series of intimate moments to anything too slick or traditional.",
+                        0.7063307025168574
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_the movie clocks in at just under two hours and feels considerably longer.",
+                -0.6722152511857677
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

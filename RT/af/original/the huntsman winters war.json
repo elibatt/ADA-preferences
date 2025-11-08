@@ -1,0 +1,232 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_when people gripe about hollywood's reliance on sequels and cheap franchise cash-ins, this is the kind of movie they mean: no grimm's fairy tale, ",
+                -0.5395600376421642
+            ],
+            [
+                "7_every resonant theme or intriguing story possibility is stripped away and replaced with a ready-made franchise-movie conceit.",
+                0.661570786060146
+            ],
+            [
+                "14_there is a decent movie buried in here somewhere, ",
+                -0.6423102660876022
+            ],
+            [
+                "15_overall, \"the huntsman: winter's war\" feels like a movie that didn't need making, ",
+                -0.6383449938329717
+            ],
+            [
+                "16_this incoherent screenplay seems to have been written by a roomful of the gorilla-like trolls who show up in the movie at one point.",
+                -0.6987935906624968
+            ],
+            [
+                "18_while the funny, action-packed sequences are the best parts, they are indicative of the film's main problems: an inability to focus and an overly complicated plot.",
+                0.5189840323045046
+            ],
+            [
+                "20_this is a film that doesn't even obtain mediocrity.",
+                -0.7108446657700805
+            ],
+            [
+                "31_the film borrows plenty, ",
+                0.5825039283151542
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "30_everybody's acting up a storm, ",
+                -0.602613604818727
+            ]
+        ],
+        "entities": {
+            "Tim Delap": {
+                "args": []
+            },
+            "Annie Guy": {
+                "args": []
+            },
+            "Sope Dirisu": {
+                "args": []
+            },
+            "Antony Acheampong": {
+                "args": []
+            },
+            "Maya Wasowicz": {
+                "args": []
+            },
+            "Conrad Khan": {
+                "args": []
+            },
+            "Robert Wilfort": {
+                "args": []
+            },
+            "George Watkins": {
+                "args": []
+            },
+            "Sheridan Smith": {
+                "args": []
+            },
+            "Robert Portal": {
+                "args": []
+            },
+            "Eshan Gopal": {
+                "args": []
+            },
+            "Ryan Donaldson": {
+                "args": []
+            },
+            "David Mumeni": {
+                "args": []
+            },
+            "Sam Hazeldine": {
+                "args": []
+            },
+            "Rob Brydon": {
+                "args": []
+            },
+            "Nick Frost": {
+                "args": []
+            },
+            "Ralph Ineson": {
+                "args": []
+            },
+            "Chinna Wodu": {
+                "args": []
+            },
+            "Charlize Theron": {
+                "args": [
+                    [
+                        "29_charlize theron is offscreen for a full hour, presumably reading better scripts.",
+                        -0.6502226390368158
+                    ]
+                ]
+            },
+            "Kara Lily Hayworth": {
+                "args": []
+            },
+            "Madeleine Worrall": {
+                "args": []
+            },
+            "Sam Claflin": {
+                "args": []
+            },
+            "Natahlia Colbourne": {
+                "args": []
+            },
+            "Sophie Cookson": {
+                "args": []
+            },
+            "Fred Tatasciore": {
+                "args": []
+            },
+            "Yusuf Hofri": {
+                "args": []
+            },
+            "AJ Bediako": {
+                "args": []
+            },
+            "Jessica Chastain": {
+                "args": []
+            },
+            "Ian Davies": {
+                "args": []
+            },
+            "Chris Hemsworth": {
+                "args": [
+                    [
+                        "10_winter's war is as beautiful as its macho lead actor chris hemsworth is handsome.",
+                        0.7270217297184977
+                    ],
+                    [
+                        "10_the movie is also as vacuous, silly and boring as hemsworth is awkward and awful in the title role.",
+                        -0.9203836821385545
+                    ],
+                    [
+                        "24_ it's at least buoyed by chris hemsworth's charisma and the few times where winter's war embraces complete camp.",
+                        0.514509339300298
+                    ]
+                ]
+            },
+            "Lynne Wilmot": {
+                "args": []
+            },
+            "Andrew Rothney": {
+                "args": []
+            },
+            "Sam Coulson": {
+                "args": []
+            },
+            "Amelia Crouch": {
+                "args": []
+            },
+            "Niamh Walter": {
+                "args": []
+            },
+            "Osi Okerafor": {
+                "args": []
+            },
+            "Nana Agyeman-Bediako": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": [
+                    [
+                        "28_ it's just a two-hour vogue fashion shoot highlighted by emily blunt riding bareback on a polar bear.",
+                        -0.5659265388232664
+                    ]
+                ]
+            },
+            "Colin Morgan": {
+                "args": []
+            },
+            "Alexandra Roach": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_the script lifts so much plot from disney's animated frozen that it could qualify as a remake.",
+                -0.5940929981972953
+            ],
+            [
+                "8_nearly every major character dies and comes back to life at least once and a convoluted narrative yields not a single, palpable moment of drama.",
+                -0.6481496588282096
+            ],
+            [
+                "16_this incoherent screenplay seems to have been written by a roomful of the gorilla-like trolls who show up in the movie at one point.",
+                -0.6987935906624968
+            ]
+        ],
+        "entities": {
+            "Evan Spiliotopoulos": {
+                "args": []
+            },
+            "Craig Mazin": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Cedric Nicolas-Troyan": {
+                "args": [
+                    [
+                        "21_even the good bits lack zip and verve, and the bad bits leave you wondering why director cedric nicolas-troyan (who did visual effects on the first entry) isn't doing more with the super-powered sibling rivalry that clearly sparks his interest.",
+                        -0.6737704900704509
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

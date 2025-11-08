@@ -1,0 +1,48 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jung-min Hwang": {
+                "args": []
+            },
+            "Jung Woo": {
+                "args": []
+            },
+            "In-kwon Kim": {
+                "args": []
+            },
+            "Cho Sung-ha": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lee Suk-Hoon": {
+                "args": [
+                    [
+                        "1_director lee suk-hoon proves a capable (if uninspired) hand at meeting genre expectations",
+                        -0.5056984780787304
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the himalayas\" is a broad comedy, a buddy movie, a mountain climbing adventure and a cornball weepie, not always in proportions that go well together.",
+                0.653682704417733
+            ]
+        ]
+    }
+}

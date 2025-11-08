@@ -1,0 +1,87 @@
+{
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Aarif Lee": {
+                "args": []
+            },
+            "Wu Yue-Shu": {
+                "args": []
+            },
+            "Yo Yang": {
+                "args": []
+            },
+            "Chang Kuo-Shu": {
+                "args": []
+            },
+            "Eddie Peng": {
+                "args": []
+            },
+            "Alex Tsui": {
+                "args": []
+            },
+            "Yun-Fat Chow": {
+                "args": []
+            },
+            "Wu Yue": {
+                "args": []
+            },
+            "Chang Kuo-Chu": {
+                "args": []
+            },
+            "Bibi Zhou": {
+                "args": []
+            },
+            "Fan Zhibo": {
+                "args": []
+            },
+            "Ma Yili": {
+                "args": []
+            },
+            "Tony Leung Ka Fai": {
+                "args": []
+            },
+            "Charlie Yeung": {
+                "args": []
+            },
+            "Aaron Kwok": {
+                "args": []
+            },
+            "Janice Man": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Sunny Luk": {
+                "args": []
+            },
+            "Jack Ng": {
+                "args": []
+            },
+            "Longman Leung": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sunny Luk": {
+                "args": []
+            },
+            "Longman Leung": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

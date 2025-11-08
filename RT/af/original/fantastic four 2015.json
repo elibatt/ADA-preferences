@@ -1,0 +1,500 @@
+{
+    "writer": {
+        "entities": {
+            "Simon Kinberg": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Josh Trank ": {
+                "args": []
+            },
+            "Jack Kirby": {
+                "args": []
+            },
+            "Jeremy Slater": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "26_her character also has the power to make other things vanish.",
+                0.5242144908108299
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Josh Trank ": {
+                "args": [
+                    [
+                        "13_this josh trank-directed reboot had a very low hurdle to overcome to become the best ff movie so far.",
+                        0.7068062781269626
+                    ],
+                    [
+                        "23_all four principals -- miles teller, kate mara, michael b. jordan, and jamie bell -- are well-cast, and their gee-whiz idealism is just right for the wide-eyed perspective of director josh trank.",
+                        0.7930159665365202
+                    ],
+                    [
+                        "27_much of josh trank's abysmal \"fantastic four\" is set in a barren place called planet zero - and you may feel stranded there yourself for all 100 minutes of this plodding, joyless and stillborn marvel reboot.",
+                        -0.5714421842071463
+                    ],
+                    [
+                        "42_director josh trank has assembled a quartet of engaging, charismatic performers and stranded them in a miasma of exposition and set-up.",
+                        0.6567570622701359
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the latest iteration of \"fantastic four\" is far from what its name suggests.",
+                0.622207102179275
+            ],
+            [
+                "1_profoundly uninteresting, it hits all the beats of the standard superhero movie, ",
+                0.5440367210623369
+            ],
+            [
+                "3_if you would like to admire the awfulness of fantastic four without actually having to sit through it--or if you've already seen the movie and are still reeling from the experience--read on.",
+                0.6116008622775477
+            ],
+            [
+                "7_the resulting film combines the worst aspects of gritty reboots with the worst aspects of cartoony, comic book logic.",
+                -0.5216094965911799
+            ],
+            [
+                "8_a comic book movie that is bizarrely short on humour and action.",
+                0.5998184583202897
+            ],
+            [
+                "9_the film's dynamic is completely off, offering too much build and too little payoff.",
+                -0.7232868027943404
+            ],
+            [
+                "10_the film's lack of scale becomes readily apparent in the final confrontation, which is surprisingly toothless.",
+                -0.7725197235784969
+            ],
+            [
+                "12_ they are never developed and the movie as a whole seems like the unhappy marriage of competing agendas.",
+                -0.6146585386044778
+            ],
+            [
+                "13_the most fantastical aspect of the movie is that it may not achieve that goal.",
+                0.7014023020317879
+            ],
+            [
+                "14_i can't remember the last time four actors appeared less invested in a movie for which they've teamed up.",
+                -0.6905625739319969
+            ],
+            [
+                "15_once those super powers kick in, the whole film goes into a more standard gear.",
+                -0.6093529545393388
+            ],
+            [
+                "16_maybe \"fantastic four\" is a cursed property, or maybe just one that shouldn't be turned into a film?",
+                0.5394383317999424
+            ],
+            [
+                "17_a self-destruct mode is apparently automatically included in any film adaptation of marvel's \"first family of superheroes.",
+                -0.5280673416588056
+            ],
+            [
+                "17_\" this is the third attempt at a movie franchise - and the third lame result.",
+                -0.6596116314003686
+            ],
+            [
+                "18_an unfortunate movie that does an embarrassing disservice to the decades-old property and is a frightful waste of all the talent involved.",
+                -0.8182061865661521
+            ],
+            [
+                "19_thus does the summer of the superhero movie stumble to an end with a whimper and a wheeze.",
+                -0.5274135559292961
+            ],
+            [
+                "21_the latest reboot of the fantastic four - the cinematic equivalent of malware - is worse than worthless.",
+                -0.7176559486172706
+            ],
+            [
+                "24_fantastic four, yet another live-action, big-screen reboot of the marvel comic book, starts with a sloooooooow burn that lasts for more than an hour.",
+                0.5346278703274383
+            ],
+            [
+                "24_ the movie never ignites into anything exciting.",
+                -0.5856465998353002
+            ],
+            [
+                "26_i would say she should have exercised it on this movie, ",
+                -0.644352852562635
+            ],
+            [
+                "28_the third big-budget attempt to tell the origin story of the fantastic four superhero saga on film hasn't turned out to be the charm.",
+                -0.5409741952525189
+            ],
+            [
+                "30_there's a fundamental tonal dissonance at the heart of fantastic four.",
+                0.7698264729893662
+            ],
+            [
+                "32_it's shockingly humorless and glacially slow for a film featuring a bendy boy genius, an invisible woman, a human torch, and a talking pile of stones.",
+                0.5103091206982345
+            ],
+            [
+                "34_for a movie largely set on a planet (\"planet zero\") coursing with living, liquid energy, i don't know if i've ever seen a superhero movie more in need of a lie-down.",
+                -0.6587373495623976
+            ],
+            [
+                "35_ and \"fantastic four\" mostly qualifies.",
+                0.6363066536693113
+            ],
+            [
+                "36_counting roger corman's unreleased stab, this is the fourth fantastic four movie.",
+                0.551625663727503
+            ],
+            [
+                "36_t of making a fantastic four movie.",
+                0.7958372033907299
+            ],
+            [
+                "38_fantastic four is a synthetic bum-out, an assembly-line product, a movie a group of people made just because they could.",
+                -0.6082341067142257
+            ],
+            [
+                "40_fantastic four feels like a 100-minute trailer for a movie that never happens.",
+                -0.7383265542498011
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nathan Alan Thomas": {
+                "args": []
+            },
+            "Chet Hanks": {
+                "args": []
+            },
+            "Reg E. Cathey": {
+                "args": []
+            },
+            "Allen Romeraux": {
+                "args": []
+            },
+            "Tamika Shanell Johnson": {
+                "args": []
+            },
+            "M. Jearl Vinot": {
+                "args": []
+            },
+            "Kyle Crosby": {
+                "args": []
+            },
+            "Adam Fristoe": {
+                "args": []
+            },
+            "Lance E. Nichols": {
+                "args": []
+            },
+            "Barney Lanning": {
+                "args": []
+            },
+            "Anna R. Parsons": {
+                "args": []
+            },
+            "Aaron V. Williamson": {
+                "args": []
+            },
+            "Adam Elder": {
+                "args": []
+            },
+            "Keith Nussbaum": {
+                "args": []
+            },
+            "Kurt Schlachter": {
+                "args": []
+            },
+            "John Ceallach": {
+                "args": []
+            },
+            "Michael D. Anglin": {
+                "args": []
+            },
+            "Gretchen Koerner": {
+                "args": []
+            },
+            "Clint Michael Naquin": {
+                "args": []
+            },
+            "Gerard 'Jerry' Lewis": {
+                "args": []
+            },
+            "Han Soto": {
+                "args": []
+            },
+            "Anthony Ramsey": {
+                "args": []
+            },
+            "Don Yesso": {
+                "args": []
+            },
+            "Lisa Ann Smith": {
+                "args": []
+            },
+            "Elton LeBlanc": {
+                "args": []
+            },
+            "Evan Hannemann": {
+                "args": []
+            },
+            "Timothy Bell": {
+                "args": []
+            },
+            "David Michael Cefalu": {
+                "args": []
+            },
+            "Nicolas Bosc": {
+                "args": []
+            },
+            "Michael B. Jordan": {
+                "args": [
+                    [
+                        "23_all four principals -- miles teller, kate mara, michael b. jordan, and jamie bell -- are well-cast, and their gee-whiz idealism is just right for the wide-eyed perspective of director josh trank.",
+                        0.7930159665365202
+                    ],
+                    [
+                        "37_we get endless scenes of teller being personable, jordan being passionate and a raccoon-eyed kate mara having no chemistry with anybody.",
+                        -0.5852883311320667
+                    ]
+                ]
+            },
+            "Robert 'Bigg Sarge' Deon": {
+                "args": []
+            },
+            "Alfonzo Walker": {
+                "args": []
+            },
+            "Jodi Lyn Brockton": {
+                "args": []
+            },
+            "Jesse Yarborough": {
+                "args": []
+            },
+            "Robert D'Arensbourg": {
+                "args": []
+            },
+            "Steve Kish": {
+                "args": []
+            },
+            "Kate Mara": {
+                "args": []
+            },
+            "Wayne Pére": {
+                "args": []
+            },
+            "Rhonda Dents": {
+                "args": []
+            },
+            "Jamie Bell": {
+                "args": []
+            },
+            "Abhi Trivedi": {
+                "args": []
+            },
+            "John Teal Jr.": {
+                "args": []
+            },
+            "Gus Rhodes": {
+                "args": []
+            },
+            "Duane Moseley": {
+                "args": []
+            },
+            "Marco St. John": {
+                "args": []
+            },
+            "Ravi Naidu": {
+                "args": []
+            },
+            "Owen Judge": {
+                "args": []
+            },
+            "Eric Berris": {
+                "args": []
+            },
+            "Garrett Hollingsworth": {
+                "args": []
+            },
+            "Deneen Tyler": {
+                "args": []
+            },
+            "John R. Mangus": {
+                "args": []
+            },
+            "Daryl Thibodaux": {
+                "args": []
+            },
+            "Andrew J. Spinks": {
+                "args": []
+            },
+            "Shauna Rappold": {
+                "args": []
+            },
+            "Nick Killebrew": {
+                "args": []
+            },
+            "Fernandez Osvaldo": {
+                "args": []
+            },
+            "Jaylen Moore": {
+                "args": []
+            },
+            "Mary-Pat Green": {
+                "args": []
+            },
+            "Jeffry Griffin": {
+                "args": []
+            },
+            "Samantha Hopkins": {
+                "args": []
+            },
+            "Roger L. Pfeiffer": {
+                "args": []
+            },
+            "Ronnie Hooks": {
+                "args": []
+            },
+            "Tim Blake Nelson": {
+                "args": []
+            },
+            "Markeith Coleman": {
+                "args": []
+            },
+            "John L. Armijo": {
+                "args": []
+            },
+            "Kylen Davis": {
+                "args": []
+            },
+            "Anthony Reynolds": {
+                "args": []
+            },
+            "Cynthia LeBlanc": {
+                "args": []
+            },
+            "Mike R. Moreau": {
+                "args": []
+            },
+            "Jerrad Vunovich": {
+                "args": []
+            },
+            "Michael 'Mick' Harrity": {
+                "args": []
+            },
+            "Joshua Montes": {
+                "args": []
+            },
+            "Nathaniel Holt": {
+                "args": []
+            },
+            "Joseph Oliveira": {
+                "args": []
+            },
+            "Andre Pushkin": {
+                "args": []
+            },
+            "Ben VanderMey": {
+                "args": []
+            },
+            "Miles Teller": {
+                "args": []
+            },
+            "Will Stone": {
+                "args": []
+            },
+            "Jane Rumbaua": {
+                "args": []
+            },
+            "Spence Maughon": {
+                "args": []
+            },
+            "Artrial Clark": {
+                "args": []
+            },
+            "Sue-Lynn Ansari": {
+                "args": []
+            },
+            "Toby Kebbell": {
+                "args": []
+            },
+            "Christopher Heskey": {
+                "args": []
+            },
+            "Patrick Kearns": {
+                "args": []
+            },
+            "Alexandra Goel": {
+                "args": []
+            },
+            "Kerry Sims": {
+                "args": []
+            },
+            "Carlos Retana Jr.": {
+                "args": []
+            },
+            "Kesha Bullard": {
+                "args": []
+            },
+            "Jerome Andries": {
+                "args": []
+            },
+            "Santana Draper": {
+                "args": []
+            },
+            "Bryan Stapf": {
+                "args": []
+            },
+            "Sheldon Maurer": {
+                "args": []
+            },
+            "Jackson Pyle": {
+                "args": []
+            },
+            "Gloria Gonnillini": {
+                "args": []
+            },
+            "David Kency": {
+                "args": []
+            },
+            "John Henry": {
+                "args": []
+            },
+            "Melissa McCurley": {
+                "args": []
+            },
+            "Mary Rachel Dudley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_the special effects are cheesy, the acting perfunctory, the plotting pallid.",
+                -0.6045327933348421
+            ],
+            [
+                "6_the entire experience is shameful -- for us, for the filmmakers, for whoever at the studio had the job of creating the ads, in which the cast appear to be starring in hostage posters.",
+                -0.6552107224018887
+            ],
+            [
+                "20_even a cast of our very finest 28-to-32-year-olds who can sort of pass as adolescents ... can't save this dreary, overfamiliar origin story.",
+                -0.5616119333389316
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

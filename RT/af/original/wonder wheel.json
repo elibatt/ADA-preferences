@@ -1,0 +1,268 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ \"wonder wheel\" is a ride to nowhere.",
+                -0.5475399723761261
+            ],
+            [
+                "1_like the fairground ride for which it's named, \"wonder wheel\" is entertaining ",
+                0.7723518603266698
+            ],
+            [
+                "3_wonder wheel seems more like a cobbled-together after",
+                0.5025630835466034
+            ],
+            [
+                "5_whatever its director's motivations, a work so contemptuous of its own heroine is always going to border on the offensive.",
+                0.5783386912681237
+            ],
+            [
+                "7_the script plays like an unedited rough draft, or the work of someone who no longer has anyone to tell him he needs to try harder.",
+                -0.7943190347785172
+            ],
+            [
+                "10_line to line, \"wonder wheel\" clunks and groans.",
+                -0.5439461542519564
+            ],
+            [
+                "13_then again, there is something artificial, or at least heightened and operatic, about the entire movie - the sets, the colors, the situations, the performers.",
+                -0.6406517798524782
+            ],
+            [
+                "16_this is true again of wonder wheel.",
+                0.6261711537287031
+            ],
+            [
+                "20_wonder wheel isn't merely a bad movie ",
+                -0.8636242575241512
+            ],
+            [
+                "21_ wonder wheel loses its charms quickly and you'll soon be begging to get off this particular ride.",
+                -0.6907285760272505
+            ],
+            [
+                "23_ inert wonder wheel - he's moving in place as lazily as the coney island ferris wheel of the title.",
+                0.5759568941779754
+            ],
+            [
+                "28_like that giant metaphorical carousel looming over them, it's a movie that's spinning its wheels.",
+                0.6132877085287585
+            ],
+            [
+                "31_ the stories speak for themselves, and wonder wheel proves they still have a lot to say.",
+                0.7228953046544556
+            ],
+            [
+                "32_it's got movement and flow, it's got a vibrant sunset look of honky-tonk nostalgia, and it's got a bittersweet mood of lyrical despair that the film stays true to right up until the final note.",
+                0.6945834018376509
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {
+            "amusement park": {
+                "args": [
+                    [
+                        "1_like the fairground ride for which it's named, \"wonder wheel\" is entertaining ",
+                        0.7723518603266698
+                    ],
+                    [
+                        "29_i'm not sure why we need a coney island that looks like bertolucci's the conformist, ",
+                        -0.7039592912973124
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Woody Allen": {
+                "args": [
+                    [
+                        "2_as we watch allen worry and nitpick over the way women fret over aging, painting ginny as pathetic, jealous, insecure, and clownish, it's dull, unoriginal, and offensive.",
+                        -0.6591220459423833
+                    ],
+                    [
+                        "2_frankly, we've have enough woody allen takes on this subject.",
+                        0.50057951405381
+                    ],
+                    [
+                        "4_if 2016's café society was writer-director woody allen's attempt to introduce a younger generation to the world of woody allen, then this might just be his followup attempt to show the kids of today what a filmed tennessee williams play looks like.",
+                        0.519241475411663
+                    ],
+                    [
+                        "7_ the move shows evidence of allen's late-career bad habits:",
+                        -0.7318696836222058
+                    ],
+                    [
+                        "8_this is another earnest, stylish, deeply observant late work from allen, with only subliminal appearances from the jokey humor that made him a marquee star.",
+                        -0.525232022549983
+                    ],
+                    [
+                        "12_\"wonder wheel\" will strike fans as an embarrassment and doubters as further evidence of decline - proof of allen's lack of interest or engagement in a world beyond his shrinking artistic comfort zone.",
+                        -0.62344324500788
+                    ],
+                    [
+                        "16_i've often written that even on a bad day, woody allen is better than everybody else on sunday.",
+                        -0.7231611014229059
+                    ],
+                    [
+                        "18_a fresh woody allen movie arrives practically every year like clockwork.",
+                        0.5144517583390069
+                    ],
+                    [
+                        "18_ with allen, what you often get are retreads dolled up to look brand-new.",
+                        0.66015591547318
+                    ],
+                    [
+                        "19_woody's allen's period drama feels more like a stage play than a film - its claustrophobic atmosphere can be stifling.",
+                        0.6452673349288531
+                    ],
+                    [
+                        "22_\"oh god, spare me the bad drama,\" a character in woody allen's \"wonder wheel\" implores.",
+                        -0.7271902043303571
+                    ],
+                    [
+                        "24_\"wonder wheel\" isn't one of allen's worst, ",
+                        -0.7887507358594602
+                    ],
+                    [
+                        "25_mr. allen certainly keeps you busy with all these colors, tones, influences, complications, stereotypes and histrionics, ",
+                        -0.5586217926007999
+                    ],
+                    [
+                        "26_a woody allen disaster that elicits both a cocked head and a dropped jaw.",
+                        -0.6073469643204377
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "5_whatever its director's motivations, a work so contemptuous of its own heroine is always going to border on the offensive.",
+                0.5783386912681237
+            ],
+            [
+                "23_for years, the writer-director has returned to the nostalgia-soaked new york of his youth.",
+                0.7429088137878008
+            ],
+            [
+                "33_the warming affection that the director has bestowed on so many of his best characters is largely missing.",
+                -0.5086447697053693
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Tony Sirico": {
+                "args": []
+            },
+            "Robert C. Kirk": {
+                "args": []
+            },
+            "Bobby Slayton": {
+                "args": []
+            },
+            "Juno Temple": {
+                "args": []
+            },
+            "David Krumholtz": {
+                "args": []
+            },
+            "Tommy Nohilly": {
+                "args": []
+            },
+            "Danielle Ferland": {
+                "args": []
+            },
+            "Ed Jewett": {
+                "args": []
+            },
+            "Thomas Guiry": {
+                "args": []
+            },
+            "Steve Schirripa": {
+                "args": []
+            },
+            "Justin Timberlake": {
+                "args": []
+            },
+            "Jim Belushi": {
+                "args": []
+            },
+            "Michael Zegarski": {
+                "args": []
+            },
+            "Kate Winslet": {
+                "args": [
+                    [
+                        "15_ a flat melodrama in which some lovely camerawork and a ferocious central performance from winslet can't conceal the rote tiredness of it all.",
+                        -0.6351068359019516
+                    ],
+                    [
+                        "17_rather than loose, the ensemble often seems underrehearsed, and too many of winslet's lines have little impact.",
+                        0.5036612004345296
+                    ],
+                    [
+                        "19_ kate winslet is a bonfire that burns through every scene.",
+                        0.5512687225105846
+                    ],
+                    [
+                        "21_despite a stunning performance by winslet and some beautiful cinematography by vittorio storaro,",
+                        0.8401821757467739
+                    ]
+                ]
+            },
+            "Jack Gore": {
+                "args": []
+            },
+            "Debi Mazar": {
+                "args": []
+            },
+            "Max Casella": {
+                "args": []
+            },
+            "Gregory Dann": {
+                "args": []
+            },
+            "Geneva Carr": {
+                "args": []
+            },
+            "John Doumanian": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Woody Allen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_if 2016's café society was writer-director woody allen's attempt to introduce a younger generation to the world of woody allen, then this might just be his followup attempt to show the kids of today what a filmed tennessee williams play looks like.",
+                0.519241475411663
+            ],
+            [
+                "7_the script plays like an unedited rough draft, or the work of someone who no longer has anyone to tell him he needs to try harder.",
+                -0.7943190347785172
+            ],
+            [
+                "22_\"oh god, spare me the bad drama,\" a character in woody allen's \"wonder wheel\" implores.",
+                -0.7271902043303571
+            ],
+            [
+                "23_for years, the writer-director has returned to the nostalgia-soaked new york of his youth.",
+                0.7429088137878008
+            ],
+            [
+                "30_he doesn't have a tragic writer's temperament.",
+                -0.7422693976335148
+            ]
+        ]
+    }
+}

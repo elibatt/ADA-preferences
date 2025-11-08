@@ -1,0 +1,147 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "François Truffaut": {
+                "args": [
+                    [
+                        "6_distinguished by its intensity of feeling and freewheeling use of the wide-screen frame, the film ranks among truffaut's best.",
+                        0.7682806380357744
+                    ],
+                    [
+                        "9_amazingly, this vigorous effort is the first feature film of m. truffaut, who had previously been (of all things!)",
+                        0.6259379447656195
+                    ],
+                    [
+                        "10_for all of truffaut's mastery of the behind-the-camera aspects of the 400 blows, an equal share of the credit must go to lead actor jean-pierre léaud.",
+                        0.7971078046225295
+                    ],
+                    [
+                        "11_the later films have their own merits, and stolen kisses is one of truffaut's best, ",
+                        0.8105141016094355
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Patrick Auffay": {
+                "args": []
+            },
+            "Christian Brocard": {
+                "args": []
+            },
+            "Albert Remy": {
+                "args": []
+            },
+            "Renaud Fontanarosa": {
+                "args": []
+            },
+            "Yvonne Claudie": {
+                "args": []
+            },
+            "Pierre Repp": {
+                "args": []
+            },
+            "Daniel Couturier": {
+                "args": []
+            },
+            "Jeanne Moreau": {
+                "args": []
+            },
+            "Georges Flament": {
+                "args": []
+            },
+            "Robert Beauvais": {
+                "args": []
+            },
+            "Henri Virlojeux": {
+                "args": []
+            },
+            "Jean-Pierre Léaud": {
+                "args": [
+                    [
+                        "10_for all of truffaut's mastery of the behind-the-camera aspects of the 400 blows, an equal share of the credit must go to lead actor jean-pierre léaud.",
+                        0.7971078046225295
+                    ]
+                ]
+            },
+            "Marius Laurey": {
+                "args": []
+            },
+            "Guy Decomble": {
+                "args": []
+            },
+            "Serge Moati": {
+                "args": []
+            },
+            "Claude Mansard": {
+                "args": []
+            },
+            "Jacques Demy": {
+                "args": []
+            },
+            "Luc Andrieux": {
+                "args": []
+            },
+            "Jean-Claude Brialy": {
+                "args": []
+            },
+            "Claire Maurier": {
+                "args": []
+            },
+            "Guy Decombie": {
+                "args": []
+            },
+            "Jacques Monod": {
+                "args": []
+            },
+            "Jean Douchet": {
+                "args": []
+            },
+            "Richard Kanayan": {
+                "args": []
+            },
+            "Georges Flamant": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "François Truffaut": {
+                "args": []
+            },
+            "Marcel Moussy": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_a remarkable confluence of talents are at work here.",
+                0.6200418050424873
+            ],
+            [
+                "7_an engaging, moving film.",
+                0.7136701298251666
+            ],
+            [
+                "9_the movie critic for a french magazine.",
+                0.5479764123088463
+            ],
+            [
+                "11_ the 400 blows, with all its simplicity and feeling, is in a class by itself.",
+                0.6836647116754637
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

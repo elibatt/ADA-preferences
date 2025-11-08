@@ -1,0 +1,86 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_there's no reason a movie in which bruce lee and steve mcqueen (er, \"steve mckee\") duke it out with chinatown gangsters in mid-1960s san francisco has any business being this joyless and dull.",
+                -0.8498432278985157
+            ],
+            [
+                "1_ the film never really gets fully juiced until the climax ...",
+                -0.6798086208038752
+            ],
+            [
+                "2_zippy, b-movie entertainment.",
+                -0.5344145822651432
+            ],
+            [
+                "3_how, this far into the 21st century, does a film like this get made?",
+                0.7260129456774426
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "George Nolfi": {
+                "args": [
+                    [
+                        "6_white-saviour complex and bait and switch aside, nolfi fails at almost everything he attempts.",
+                        -0.6874524112026755
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Stephen J. Rivele": {
+                "args": []
+            },
+            "Christopher Wilkinson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_it wants to be a character study, an explication of martial arts philosophy and an action picture ...",
+                -0.622646355725738
+            ],
+            [
+                "3_one that shunts bruce lee to the status of secondary character in a lazy and boringly familiar star-crossed romance?",
+                -0.5332391392234282
+            ],
+            [
+                "4_an inferior effort that fails to do justice to both its central character and provocative premise.",
+                -0.6757274234224384
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jin Xing": {
+                "args": []
+            },
+            "Terry Chen": {
+                "args": []
+            },
+            "Jingjing Qu": {
+                "args": []
+            },
+            "Billy Magnussen": {
+                "args": []
+            },
+            "Yu Xia": {
+                "args": []
+            },
+            "Philip Ng": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "writer": {
+        "entities": {
+            "Sebastián Lelio": {
+                "args": []
+            },
+            "Gonzalo Maza": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "29_a fantastic woman is at its most compelling as a conventional character study of an unconventional female lead.",
+                0.7783494874851362
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Sebastián Lelio": {
+                "args": [
+                    [
+                        "28_the title of sebastián lelio's new film might seem a bit on the nose.",
+                        0.5722788707027198
+                    ],
+                    [
+                        "29_like lelio's breakthrough film, gloria,",
+                        0.5972446148975401
+                    ],
+                    [
+                        "30_i just wish vega and lelio let us in a little more to see her as an individual, aside from the hostility she encounters.",
+                        0.6050900537835304
+                    ],
+                    [
+                        "31_chilean director sebastián lelio and star daniela vega give the growing bracket of transgender drama a new, luminous touchstone work.",
+                        0.6503083348294916
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"a fantastic woman\" is a superb chilean drama, at times infuriating ",
+                0.8384396459849911
+            ],
+            [
+                "4_in our increasingly polarized time, \"a fantastic woman\" bridges the gap between ignorance and understanding through the transcendent power of art.",
+                0.7995902783202271
+            ],
+            [
+                "5_[a] gently heart-wrenching, quietly furious movie ...",
+                0.69041879984271
+            ],
+            [
+                "6_\"a fantastic woman\" becomes a delicate, moving study of grief, of quiet triumph over adversity, of adjusting to life's empty spaces - and learning to fill them with love.",
+                0.6704052922694616
+            ],
+            [
+                "9_a fantastic woman trumpets its intentions in its very title.",
+                0.5682539844982414
+            ],
+            [
+                "11_at its core, a fantastic woman is the story of genuine love, something requires no definition.",
+                0.7961443394331318
+            ],
+            [
+                "13_\"a fantastic woman\" serves as a gentle reminder that we all contain multitudes.",
+                0.8415246589845343
+            ],
+            [
+                "14_yes - she's a fantastic woman.",
+                0.753805377921483
+            ],
+            [
+                "20_it's a reminder that as much as a film can open doors, there are places we're allowed into only by the grace of our hosts, and that permission can be withdrawn at any moment.",
+                0.7879815741699723
+            ],
+            [
+                "28_it's a fantastic movie.",
+                0.7796953350836946
+            ],
+            [
+                "29_a fantastic woman is at its most compelling as a conventional character study of an unconventional female lead.",
+                0.7783494874851362
+            ],
+            [
+                "32_the result is a rare movie about a trans person that - for better or worse - feels of its time, and not at least a half-step behind.",
+                -0.5363299340218668
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nicolás Saavedra": {
+                "args": []
+            },
+            "Francisco Reyes": {
+                "args": []
+            },
+            "Alejandro Goic": {
+                "args": []
+            },
+            "Luis Gnecco": {
+                "args": []
+            },
+            "Sergio Hernández": {
+                "args": []
+            },
+            "Aline Küppenheim": {
+                "args": []
+            },
+            "Amparo Noguera": {
+                "args": []
+            },
+            "Nestor Cantillana": {
+                "args": []
+            },
+            "Antonia Zegers": {
+                "args": []
+            },
+            "Daniela Vega": {
+                "args": [
+                    [
+                        "2_\"a fantastic woman\" is the role of a lifetime for vega, ",
+                        0.7887196134355428
+                    ],
+                    [
+                        "8_the film's great triumph is daniela vega, a transgender actress and singer, who makes an indelible impression in the leading role.",
+                        0.901833261195774
+                    ],
+                    [
+                        "19_what lifts argument into art is ms. vega's performance...",
+                        0.6828075628579791
+                    ],
+                    [
+                        "21_it's [daniela] vega's extraordinary performance, full of grace and depth, that keeps \"a fantastic woman\" in check from becoming something either too campy or too sanctimonious.",
+                        0.6963828044764717
+                    ],
+                    [
+                        "22_this indelibly moving film - chile's entry in the oscar race for best foreign film - features a performance of surpassing beauty and tenderness from daniela vega, an openly transgender actress seizing her moment with stirring authenticity.",
+                        0.8742898170037163
+                    ],
+                    [
+                        "27_the most plausible element, the foundation on which the movie rests and finally soars, is vega's magnetic and meticulously controlled performance.",
+                        0.7836216647567477
+                    ],
+                    [
+                        "28_daniela vega, the star, is fantastic in it.",
+                        0.6822047465501526
+                    ],
+                    [
+                        "30_i just wish vega and lelio let us in a little more to see her as an individual, aside from the hostility she encounters.",
+                        0.6050900537835304
+                    ],
+                    [
+                        "31_chilean director sebastián lelio and star daniela vega give the growing bracket of transgender drama a new, luminous touchstone work.",
+                        0.6503083348294916
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

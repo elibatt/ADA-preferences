@@ -1,0 +1,68 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dolores Huerta": {
+                "args": [
+                    [
+                        "10_with any luck, dolores will move the needle, enlightening viewers about the formidable huerta and raising awareness of her rightful place in civil rights history.",
+                        0.794142997456961
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_with dolores, we're getting the lesson we deserve.",
+                0.5141909623973555
+            ],
+            [
+                "3_\"dolores\" is a fascinating corrective to 50-plus years of american history.",
+                0.7886482007726026
+            ],
+            [
+                "4_it's a contradiction the film could have more sharply explored.",
+                0.568601633537052
+            ],
+            [
+                "5_\"dolores\" is a documentary that celebrates a hero, ",
+                0.6729151927697848
+            ],
+            [
+                "7_huerta is such a commanding figure, and the array of historical footage marshalled on behalf of her story is so impressive, that the film makes a strong impression.",
+                0.7858582834384633
+            ],
+            [
+                "8_in some way you can see that in her work: she has made activism an art form.",
+                0.8106439206860452
+            ],
+            [
+                "12_\"dolores\" crams a great deal of information, themes, and diverse archival materials into a sharp, cogent whole ...",
+                0.8274907060618025
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peter Bratt": {
+                "args": [
+                    [
+                        "2_ still lively and informative, this documentary by peter bratt shines a spotlight on a historic, relatively overlooked figure...",
+                        0.6703334444248183
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

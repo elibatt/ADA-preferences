@@ -1,0 +1,42 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Danny Clinch": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Pearl Jam": {
+                "args": [
+                    [
+                        "0_unable to make up its mind whether it wants to be a pearl jam concert film or sports documentary,",
+                        -0.7407680603020925
+                    ],
+                    [
+                        "2_as a pearl jam documentary, not so much.",
+                        -0.6250672327832679
+                    ],
+                    [
+                        "4_a shotgun marriage of cubs history and powerful performances, including a casual pearl jam session on a pub roof that fills the streets below.",
+                        0.7422830767410971
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

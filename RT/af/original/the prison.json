@@ -1,0 +1,51 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Na Hyun": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jo Jae-yoon": {
+                "args": []
+            },
+            "Han Seok-Kyu": {
+                "args": []
+            },
+            "Seong-gyoon Kim": {
+                "args": []
+            },
+            "Kyeong-Yeong Lee": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Na Hyun": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"the prison\"...feels like the kind of movie hollywood will remake in its own image.",
+                -0.5900589927212908
+            ],
+            [
+                "1_ as \"the prison\" is brutally entertaining just the way it is.",
+                0.7986781951323594
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

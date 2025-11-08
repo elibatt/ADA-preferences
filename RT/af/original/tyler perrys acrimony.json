@@ -1,0 +1,90 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Tyler Perry": {
+                "args": [
+                    [
+                        "3_what was tyler perry going for here?",
+                        -0.6223398683835903
+                    ],
+                    [
+                        "5_tyler perry's acrimony, presumably titled to set it apart from your acrimony or mine, will make you angry for wasting the talents of taraji p. hensen on a hack job unworthy of her talent talent and your money.",
+                        -0.6338382639493582
+                    ],
+                    [
+                        "6_ compared to the usual saints-vs.-sinners tales that perry has offered up over the course of 19 feature films he's written, acrimony takes us to whole new levels of complexity.",
+                        0.7629288895408375
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Crystle Stewart": {
+                "args": []
+            },
+            "Ptosha Storey": {
+                "args": []
+            },
+            "Nelson Estévez": {
+                "args": []
+            },
+            "Antonio Madison": {
+                "args": []
+            },
+            "Taraji P. Henson": {
+                "args": [
+                    [
+                        "4_the 20 or so minutes we get of henson's rage are not enough to warrant the title or the ticket price.",
+                        -0.7595394824840297
+                    ],
+                    [
+                        "8_taraji p. henson deserves better.",
+                        0.5252036747363074
+                    ]
+                ]
+            },
+            "Lyriq Bent": {
+                "args": []
+            },
+            "Jazmyn Simon": {
+                "args": []
+            },
+            "Kendrick Cross": {
+                "args": []
+            },
+            "Bresha Webb": {
+                "args": []
+            },
+            "Ajiona Alexus": {
+                "args": []
+            },
+            "Danielle Nicolet": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_ the clumsy writing and slow pace prove lethal.",
+                -0.7645784536330579
+            ]
+        ],
+        "entities": {
+            "Tyler Perry": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

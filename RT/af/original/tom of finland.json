@@ -1,0 +1,106 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_in the end, the overarching theme of \"tom of finland\" is the power of art, even - or maybe especially - so-called deviant art.",
+                0.5853643007393593
+            ],
+            [
+                "3_\"tom of finland\" entertainingly recounts an intriguing and vital chapter of 20th-century gay history with style and deference.",
+                0.8090408302458709
+            ],
+            [
+                "4_tom of finland is a good, strong movie, ",
+                0.6864896099122413
+            ],
+            [
+                "4_one salivates at the adventurous directions the film could have explored.",
+                0.512010931823673
+            ],
+            [
+                "5_why does tom of finland play like an over-cited term paper?",
+                -0.6474586464006156
+            ],
+            [
+                "5_the film is jammed with incident and detail ",
+                0.6328163376188166
+            ],
+            [
+                "7_a decorous restraint pervades tom of finland - which, given its subject matter, can't help ",
+                -0.55475451593896
+            ],
+            [
+                "8_while mr. laaksonen devoted his life (1920-91) to challenging conventions, the film is committed to honoring them.",
+                0.7695461834331191
+            ],
+            [
+                "10_karukoski's film at least honors its subject's work in some key respects:",
+                0.5798340230348661
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dome Karukoski": {
+                "args": [
+                    [
+                        "7_ karukoski never manages to capture the hedonistic excess of laaksonen's art.",
+                        0.5867181894908938
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jimmy Shaw": {
+                "args": []
+            },
+            "Kari Hietalahti": {
+                "args": []
+            },
+            "Þorsteinn Bachmann": {
+                "args": []
+            },
+            "Lauri Tilkanen": {
+                "args": []
+            },
+            "Jessica Grabowsky": {
+                "args": []
+            },
+            "Werner Daehn": {
+                "args": []
+            },
+            "Jakob Oftebro": {
+                "args": []
+            },
+            "Pekka Strang": {
+                "args": [
+                    [
+                        "0_ wily performance, strang never loses sight of his character's innate sense of resistance.",
+                        0.6423947633328996
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_ wily performance, strang never loses sight of his character's innate sense of resistance.",
+                0.6423947633328996
+            ]
+        ],
+        "entities": {
+            "Aleksi Bardy": {
+                "args": []
+            }
+        }
+    }
+}

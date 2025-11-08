@@ -1,0 +1,46 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_beginning brightly with goofy slapstick, irreverent humor and a dastardly plot to overthrow the monarch, the film squanders its early success in a second half marred by pedestrian pacing and ho-hum action scenes.",
+                -0.6037581056938344
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Moon Hyun-Sung": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Hee-won Kim": {
+                "args": []
+            },
+            "Ahn Jae-hong": {
+                "args": []
+            },
+            "Lee Sun-kyun": {
+                "args": []
+            },
+            "Joo Jin-Mo": {
+                "args": []
+            },
+            "Jang Young-nam": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

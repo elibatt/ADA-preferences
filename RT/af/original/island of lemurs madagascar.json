@@ -1,0 +1,60 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the film is an equally fun and sobering look at the lives of these animals, along with the evolving efforts to try and save this distant cousin of humans.",
+                0.7882808371722094
+            ],
+            [
+                "4_no matter which variety the film is spotlighting, they have a power to fascinate.",
+                0.6108023274957031
+            ],
+            [
+                "6_even at a meager 40 minutes, the film feels padded.",
+                -0.7148469059760518
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David Douglas": {
+                "args": []
+            },
+            "Drew Fellman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dr. Hantanirina Rasamimanana": {
+                "args": []
+            },
+            "Patricia Wright": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": [
+                    [
+                        "9_this morgan freeman-narrated documentary doesn't stray much from the nature-doc formula of making its stars look frisky and winsome while sprinkling in a few info-nuggets about the critters (they're older than dinosaurs!).",
+                        -0.5120970993729393
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Drew Fellman": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Graham Greene (II)": {
+                "args": []
+            },
+            "Ryan Robbins": {
+                "args": []
+            },
+            "Lane Edwards": {
+                "args": []
+            },
+            "Derek Hamilton": {
+                "args": []
+            },
+            "Christopher Britton": {
+                "args": []
+            },
+            "Megan Charpentier": {
+                "args": []
+            },
+            "Tim McGraw": {
+                "args": []
+            },
+            "Carson Reaume": {
+                "args": []
+            },
+            "Radha Mitchell": {
+                "args": []
+            },
+            "Octavia Spencer": {
+                "args": [
+                    [
+                        "0_if octavia spencer is god, then lord, take me to church.",
+                        -0.5145203905264621
+                    ]
+                ]
+            },
+            "Gage Munroe": {
+                "args": []
+            },
+            "Laura MacKillop": {
+                "args": []
+            },
+            "Alice Braga": {
+                "args": []
+            },
+            "Aviv Alush": {
+                "args": []
+            },
+            "Jordyn Ashley Olson": {
+                "args": []
+            },
+            "Sumire Matsubara": {
+                "args": []
+            },
+            "Sam Worthington": {
+                "args": [
+                    [
+                        "6_when worthington and his wacky trio are allowed to loosen up, the shack radiates with undeniable sweetness, ",
+                        0.6283900493668566
+                    ]
+                ]
+            },
+            "Amélie Eve": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the shack wants to be a sincere exploration of faith and forgiveness ",
+                0.6827846821105323
+            ],
+            [
+                "4_\"the shack\" is a grief-packed journey through loss, bargaining and acceptance that feels like an overly long church sermon.",
+                0.5129569682947419
+            ],
+            [
+                "5_most of its running time is taken with mollifying conversations between mack and the movie's new age-meets-bible belt oversimplifications of the holy trinity.",
+                0.6907994313061978
+            ],
+            [
+                "6_ the darker elements grind it to an unnerving halt.",
+                0.599960331081743
+            ],
+            [
+                "7_readers conjure up worlds of their own, filmgoers are stuck with what's on the screen.",
+                -0.5634350540174369
+            ],
+            [
+                "8_ what it needed was a director whose reverence would be tempered by a healthy sense of the ludicrous, an ability to tap into and draw out the material's stranger undercurrents.",
+                0.6058657035443612
+            ],
+            [
+                "9_for a faith-based film that aims to promote spiritual healing and prescribe forgiveness, the shack is almost unforgivably joyless and visually bland.",
+                0.5283045276114298
+            ],
+            [
+                "10_\"the shack\" is unshakable in its religious message, and that's admirable in a cynical world.",
+                0.6046204311200397
+            ],
+            [
+                "10_ it's just not a very good film.",
+                0.5899272957016071
+            ],
+            [
+                "11_as the film passes the two-hour mark, it begins to feel as if it's treading water.",
+                -0.5236326446233321
+            ],
+            [
+                "11_people of faith already know that there are no cut-and-dried answers to the kinds of questions mack is asking.",
+                0.7052045858529973
+            ],
+            [
+                "13_at more than two hours, the film is too long and the storyline too faith-infused to be truly redemptive for a broader audience.",
+                -0.5355676658299455
+            ],
+            [
+                "14_a hallmark-card therapy session, a kind of woodland weekend-retreat self-actualization seminar hosted by the father, the son, and the holy ghost.",
+                0.8086686207307325
+            ],
+            [
+                "15_an important message ... buried under platitudes, sermons and a saccharine score that endlessly plucks at the heart strings.",
+                0.735201508045999
+            ],
+            [
+                "16_the shack is a well-acted and sometimes moving ",
+                0.7432068135188385
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "8_ what it needed was a director whose reverence would be tempered by a healthy sense of the ludicrous, an ability to tap into and draw out the material's stranger undercurrents.",
+                0.6058657035443612
+            ]
+        ],
+        "entities": {
+            "Stuart Hazeldine": {
+                "args": [
+                    [
+                        "12_however universal the perennial questions and struggles that the shack illuminates, under stuart hazeldine's plodding direction,",
+                        0.54972077298865
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_at more than two hours, the film is too long and the storyline too faith-infused to be truly redemptive for a broader audience.",
+                -0.5355676658299455
+            ]
+        ],
+        "entities": {
+            "Destin Daniel Cretton": {
+                "args": []
+            },
+            "John Fusco": {
+                "args": []
+            },
+            "Andrew Lanham": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stellan Skarsgard": {
+                "args": [
+                    [
+                        "12_ stellan skarsgard as a russian defector and damian lewis as a british intelligence officer both give dynamite performances.",
+                        0.7950572800573359
+                    ]
+                ]
+            },
+            "Ewan McGregor": {
+                "args": [
+                    [
+                        "13_has all the earmarks of an enjoyable...contemporary thriller: intrigue, exotic locales, evil russians...a john le carré pedigree, and ewan mcgregor looking frightened.",
+                        0.7214944458027174
+                    ],
+                    [
+                        "23_director susanna white, on only her second feature, jazzes up the proceedings to match the skill of actors like mcgregor, harris, and skarsgård.",
+                        -0.5712935600507333
+                    ]
+                ]
+            },
+            "Velibor Topic": {
+                "args": []
+            },
+            "Mark Stanley (VI)": {
+                "args": []
+            },
+            "Damian Lewis": {
+                "args": []
+            },
+            "Carlos Acosta": {
+                "args": []
+            },
+            "Marek Oravec": {
+                "args": []
+            },
+            "Jeremy Northam": {
+                "args": []
+            },
+            "Alicia von Rittberg": {
+                "args": []
+            },
+            "Naomie Harris": {
+                "args": []
+            },
+            "Khalid Abdalla": {
+                "args": []
+            },
+            "Alec Utgoff": {
+                "args": []
+            },
+            "Mark Gatiss": {
+                "args": []
+            },
+            "Saskia Reeves": {
+                "args": []
+            },
+            "Jana Perez": {
+                "args": []
+            },
+            "Grigoriy Dobrygin": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_our kind of traitor is tense enough, ",
+                0.5284036767759508
+            ],
+            [
+                "5_the movie grossly overestimates the audience's sympathy for a murderous thug and its interest in the morality of international banking.",
+                -0.5989737655355275
+            ],
+            [
+                "7_our kind of traitor\" more rewarding?",
+                0.6334978236429595
+            ],
+            [
+                "9_ the film is nonetheless a riveting and accomplished work.",
+                0.7591733276524844
+            ],
+            [
+                "10_for all its blather about honor and courage the movie doesn't really go anywhere with its inquiry into the new evil.",
+                -0.666596581274886
+            ],
+            [
+                "18_our kind of traitor\" is a dismal, low-energy affair.",
+                0.5562760427599232
+            ],
+            [
+                "20_[a] proficient, moderately engaging film ...",
+                0.6505917128085918
+            ],
+            [
+                "21_\"our kind of traitor\" is built on a familiar premise, ",
+                0.5022873069630276
+            ],
+            [
+                "24_ clichés abound, the film lacks narrative thrust and the camerawork looks like one of those slick british cadbury commercials for after-dinner mints.",
+                -0.6300506251793527
+            ],
+            [
+                "26_our kind of traitor tries to sell itself as a classic british espionage thriller, ",
+                0.5387157155623636
+            ],
+            [
+                "26_ with spy work this boring, this isn't our kind of movie.",
+                -0.8166362923446608
+            ],
+            [
+                "27_the whole film is oddly poised between the pensive and the peevish, with a topdressing of high jinks.",
+                0.7126269030072915
+            ],
+            [
+                "28_the film, while gorgeously shot, is schematic and wholly implausible.",
+                -0.6003708200477541
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Susanna White": {
+                "args": [
+                    [
+                        "23_director susanna white, on only her second feature, jazzes up the proceedings to match the skill of actors like mcgregor, harris, and skarsgård.",
+                        -0.5712935600507333
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_he beautifully portrays his character's thinking:",
+                0.6488124634728423
+            ]
+        ],
+        "entities": {
+            "John Le Carré": {
+                "args": [
+                    [
+                        "8_ none of the political and moral outrage that might have elevated this genre story into a le carré one.",
+                        0.553449586173652
+                    ],
+                    [
+                        "9_fans of spy novelist john le carré may take umbrage with the reworked ending, ",
+                        0.5266030002426509
+                    ],
+                    [
+                        "12_sadly, this film version of john le carré spy novel is not as tasty as amc's take on le carré's the night manager, ",
+                        0.5285789919610675
+                    ],
+                    [
+                        "13_has all the earmarks of an enjoyable...contemporary thriller: intrigue, exotic locales, evil russians...a john le carré pedigree, and ewan mcgregor looking frightened.",
+                        0.7214944458027174
+                    ],
+                    [
+                        "14_traitor suffers somewhat in comparison with night manager: feature length doesn't always suit the longform, dense storytelling of le carre's work.",
+                        -0.7194644959402472
+                    ],
+                    [
+                        "15_i haven't read the john le carré novel that inspired this incoherent mess, ",
+                        -0.683811070397975
+                    ],
+                    [
+                        "16_ not enjoyed le carré films, which are overly abstract",
+                        0.6831326164746423
+                    ],
+                    [
+                        "22_feeble action and bogus plotting make this one of the dullest john le carré adaptations you'll ever see.",
+                        0.5317060026453921
+                    ]
+                ]
+            },
+            "Hossein Amini": {
+                "args": [
+                    [
+                        "19_just a respectful appreciation for the old-fashioned political thriller, in an adaptation by screenwriter hossein amini (\"drive\")",
+                        0.6310386456814645
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "acting": {
+        "entities": {
+            "Jessica Biel": {
+                "args": []
+            },
+            "Jason Deline": {
+                "args": []
+            },
+            "Hilary Swank": {
+                "args": []
+            },
+            "Jace Norman": {
+                "args": []
+            },
+            "Susan Sarandon": {
+                "args": [
+                    [
+                        "6_one questions how a movie this ill-conceived even got made, and how writer-director aaron woodley recruited a voice cast that includes talent like susan sarandon, patrick stewart and hilary swank.",
+                        -0.5751422359455987
+                    ]
+                ]
+            },
+            "Patrick Stewart": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Aaron Woodley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_if you were the writer of this movie, you might say it lacks a certain... spark of inspiration.",
+                -0.5535463266745573
+            ],
+            [
+                "6_one questions how a movie this ill-conceived even got made, and how writer-director aaron woodley recruited a voice cast that includes talent like susan sarandon, patrick stewart and hilary swank.",
+                -0.5751422359455987
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_if you were the writer of this movie, you might say it lacks a certain... spark of inspiration.",
+                -0.5535463266745573
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Aaron Woodley": {
+                "args": [
+                    [
+                        "0_what, exactly, happened to director aaron woodley?",
+                        -0.7272797101396338
+                    ],
+                    [
+                        "6_one questions how a movie this ill-conceived even got made, and how writer-director aaron woodley recruited a voice cast that includes talent like susan sarandon, patrick stewart and hilary swank.",
+                        -0.5751422359455987
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

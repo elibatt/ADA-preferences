@@ -1,0 +1,72 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Glenn Morshower": {
+                "args": []
+            },
+            "Luke Shelton": {
+                "args": []
+            },
+            "Dominic Ryan Gabriel": {
+                "args": []
+            },
+            "Maemae Renfrow": {
+                "args": []
+            },
+            "Lorelei Linklater": {
+                "args": []
+            },
+            "Eddie Hassell": {
+                "args": []
+            },
+            "Logan Huffman": {
+                "args": []
+            },
+            "Henry Knotts": {
+                "args": []
+            },
+            "Dave Davis": {
+                "args": []
+            },
+            "Marilyn Manson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"bomb city\" just keeps on having its caucasian adolescents scream into the ether until you get it: angry middle-american teenagers are all not alike!",
+                -0.6320763569874128
+            ],
+            [
+                "2_\"bomb city\" will keep you in its grasp during every moment leading to its climactic violence.",
+                0.5724072465875423
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jameson Brooks": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jameson Brooks": {
+                "args": []
+            },
+            "Sheldon Chick": {
+                "args": []
+            }
+        }
+    }
+}

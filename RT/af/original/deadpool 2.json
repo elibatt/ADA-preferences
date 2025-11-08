@@ -1,0 +1,233 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_deadpool 2 is an r-rated, potty-mouthed splatterfest and a funny one.",
+                0.6215026712229653
+            ],
+            [
+                "1_for all the impulsive flamboyance of deadpool's patter, the liberating power of personal virtue, and the disinhibiting promise of second chances, \"deadpool 2\" feels narrowly impersonal and oppressively unfree.",
+                0.6141783061821156
+            ],
+            [
+                "2_it's the role he was born to play and whenever he's on screen, the movie's inner classic shines forth.",
+                0.6442003666031948
+            ],
+            [
+                "3_all in all, i prefer a marvel movie that doesn't take itself seriously, ",
+                -0.523641932791201
+            ],
+            [
+                "3_ the nonstop unseriousness of deadpool 2 can wear you down, too.",
+                -0.6767116272630218
+            ],
+            [
+                "4_instead of seeking to top the over-the-top antics of the first film, [both director and star are] content to simply groove with what they've already established and just have fun.",
+                -0.5287862054284949
+            ],
+            [
+                "5_a little of deadpool's incessant winkiness goes a long way, and by the time the movie was over, all i felt was sore.",
+                -0.7357714685605565
+            ],
+            [
+                "11_\"deadpool 2\" is annoying and bad.",
+                -0.8829765820556634
+            ],
+            [
+                "12_it's a long movie and when its star isn't on screen and cracking wise, the boundary-pushing shocks and endless self-references wear thin.",
+                -0.7583382544522123
+            ],
+            [
+                "13_a least as funny as the original deadpool, and better in virtually every other respect: better plot, better villains, a few unexpected narrative swerves, and, yes, at least one genuinely moving sequence.",
+                0.7128142330508966
+            ],
+            [
+                "16_rather than face its own moral incoherence, deadpool 2 blinks.",
+                -0.5496296106209537
+            ],
+            [
+                "17_seriously subversive, seriously funny, seriously profane, occasionally even serious, deadpool 2 is the best kind of cinematic entertainment.",
+                0.7862363820637518
+            ],
+            [
+                "18_it's family guy: the movie.",
+                -0.6035881272940448
+            ],
+            [
+                "19_doesn't build on the first film, choosing instead to replay the greatest hits.",
+                0.7070752742016506
+            ],
+            [
+                "20_the film's impulse to profess a knowing, snarky superiority can become painfully awkward.",
+                -0.5092581024022764
+            ],
+            [
+                "21_the deadpool movies occasionally push the bounds of taste, ",
+                -0.5018067519408115
+            ],
+            [
+                "21_viewed as more of an action-comedy, then, deadpool 2 works passably well.",
+                0.5232893573065636
+            ],
+            [
+                "22_ deadpool 2 still plays like the runt of the comic-book litter.",
+                0.5169615872298039
+            ],
+            [
+                "23_in two years, deadpool has gone from the scrappy class clown to the annoying wiseass in the back of the room spewing crude insults to amuse himself.",
+                -0.8462090106718632
+            ],
+            [
+                "25_a movie that feels scribbled in pencil crayon, drenched in jolt cola and coated with the dust of a thousand discarded bags of flamin' hot cheetos...",
+                -0.614898467052606
+            ],
+            [
+                "25_as it is, deadpool 2 is a film that is merely aggressively aggressive.",
+                0.5954494483298575
+            ],
+            [
+                "28_deadpool 2 makes a point of not taking itself too seriously, which can be harder than it looks.",
+                -0.8256895285939712
+            ],
+            [
+                "29_if the filmmakers were as self-reflexive as they pretend to be, they'd find a way to show that deadpool's insides are becoming as charred as his face.",
+                -0.6067488051120729
+            ],
+            [
+                "33_the eagerness of deadpool to call out its own shortcomings earns this trash-talking franchise a lot of goodwill.",
+                -0.5675229118377432
+            ],
+            [
+                "36_deadpool 2 is, above all else, a lot of fun.",
+                0.710258550035421
+            ],
+            [
+                "41_deadpool 2 is kind of like that zany guy you met at a party once.",
+                0.5926373522037698
+            ],
+            [
+                "42_deadpool 2 is wicked, dark fun from start to finish, with some twisted and very funny special effects, cool production elements, terrific ensemble work -- and for dessert, perhaps the best end-credits \"cookie\" scene ever.",
+                0.8816140562398596
+            ],
+            [
+                "45_the original \"deadpool\" caught lightning in a bottle.",
+                0.6290227707027337
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "David Leitch": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_instead of seeking to top the over-the-top antics of the first film, [both director and star are] content to simply groove with what they've already established and just have fun.",
+                -0.5287862054284949
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "6_the film's greatest asset is reynolds, who in deadpool finally found the role of his dreams.",
+                        0.863295208514763
+                    ],
+                    [
+                        "9_ there's no weight to the character or to reynolds's playing of him.",
+                        -0.7435074728471318
+                    ],
+                    [
+                        "37_still, there is a lot left to like here, and reynolds and company crank out better, more outrageous laughs than most pure comedies.",
+                        -0.591499979231797
+                    ],
+                    [
+                        "40_with reynolds' charismatic irreverence at its core, the pic moves from bloody mayhem to lewd comedy and back fluidly, occasionally even making room to go warm and mushy.",
+                        0.6514929054680534
+                    ]
+                ]
+            },
+            "Rhett Reese": {
+                "args": []
+            },
+            "Paul Wernick": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Josh Brolin": {
+                "args": []
+            },
+            "Bill Skarsgård": {
+                "args": []
+            },
+            "T.J. Miller": {
+                "args": []
+            },
+            "Morena Baccarin": {
+                "args": []
+            },
+            "Jack Kesy": {
+                "args": []
+            },
+            "Lewis Tan": {
+                "args": []
+            },
+            "Zazie Beetz": {
+                "args": []
+            },
+            "Eddie Marsan": {
+                "args": []
+            },
+            "Terry Crews": {
+                "args": []
+            },
+            "Karan Soni": {
+                "args": []
+            },
+            "Leslie Uggams": {
+                "args": []
+            },
+            "Julian Dennison": {
+                "args": []
+            },
+            "Rob Delaney": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "6_the film's greatest asset is reynolds, who in deadpool finally found the role of his dreams.",
+                        0.863295208514763
+                    ],
+                    [
+                        "9_ there's no weight to the character or to reynolds's playing of him.",
+                        -0.7435074728471318
+                    ],
+                    [
+                        "37_still, there is a lot left to like here, and reynolds and company crank out better, more outrageous laughs than most pure comedies.",
+                        -0.591499979231797
+                    ],
+                    [
+                        "40_with reynolds' charismatic irreverence at its core, the pic moves from bloody mayhem to lewd comedy and back fluidly, occasionally even making room to go warm and mushy.",
+                        0.6514929054680534
+                    ]
+                ]
+            },
+            "Brianna Hildebrand": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "4_artistically, phantom thread might be the best film of the year.",
+                0.9219725654407211
+            ],
+            [
+                "9_... i challenge you not to be grimly compelled by every minute of phantom thread.",
+                -0.7302825080298089
+            ],
+            [
+                "10_it is a wonderfully fixating film in every respect, and wholly non-formulaic.",
+                0.7121461690875301
+            ],
+            [
+                "11_if phantom thread has a problem, it is that it's so full of fraught confrontations, even those that are outwardly genteel, that it sometimes feels more like a compilation of outstanding scenes than a great movie.",
+                0.6417328179739137
+            ],
+            [
+                "15_despite swoonsome visuals, it's a constricting, prickly and demanding film,",
+                0.6137438693714271
+            ],
+            [
+                "18_perfectly made, with an assured hand, this is a truly remarkable film.",
+                0.8839977495267412
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "6",
+                1
+            ],
+            [
+                "8",
+                1
+            ],
+            [
+                "13",
+                1
+            ],
+            [
+                "16",
+                1
+            ],
+            [
+                "17",
+                1
+            ],
+            [
+                "19",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "3_as visual music grounded in a feeling of preposterous luxury, this is as enveloping and experimental as anything anderson has done.",
+                0.649230754129081
+            ],
+            [
+                "8_possibly paul thomas anderson's best film since that american auteur's staggeringly assured early work.",
+                0.8092553055864646
+            ],
+            [
+                "13_the pleasure here lies in the unpredictability of paul thomas anderson's approach, his ability and that of his actors to surprise us with every new stitch of the movie.",
+                0.7003401924423072
+            ],
+            [
+                "16_paul thomas anderson 's sly oddness is all his own.",
+                0.6595089965626784
+            ],
+            [
+                "17_paul thomas anderson does gothic romance in prestige brit picture style, eliciting a worthy final performance from daniel day-lewis that's admirably matched by newcomer vicky krieps.",
+                0.8124188915203663
+            ]
+        ],
+        "entities": {
+            "Paul Thomas Anderson": {
+                "unique_args": [
+                    [
+                        "3_as visual music grounded in a feeling of preposterous luxury, this is as enveloping and experimental as anything anderson has done.",
+                        0.649230754129081
+                    ],
+                    [
+                        "8_possibly paul thomas anderson's best film since that american auteur's staggeringly assured early work.",
+                        0.8092553055864646
+                    ],
+                    [
+                        "13_the pleasure here lies in the unpredictability of paul thomas anderson's approach, his ability and that of his actors to surprise us with every new stitch of the movie.",
+                        0.7003401924423072
+                    ],
+                    [
+                        "16_paul thomas anderson 's sly oddness is all his own.",
+                        0.6595089965626784
+                    ],
+                    [
+                        "17_paul thomas anderson does gothic romance in prestige brit picture style, eliciting a worthy final performance from daniel day-lewis that's admirably matched by newcomer vicky krieps.",
+                        0.8124188915203663
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Paul Thomas Anderson": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "6_daniel day-lewis has turned in a measured, masterful performance of a flawed man who could be tender and kind, petulant and dismissive, and deeply hurtful.",
+                0.63031726305341
+            ],
+            [
+                "17_paul thomas anderson does gothic romance in prestige brit picture style, eliciting a worthy final performance from daniel day-lewis that's admirably matched by newcomer vicky krieps.",
+                0.8124188915203663
+            ],
+            [
+                "19_i was mostly riveted by this movie because of the incredible work from both daniel day-lewis, and the actress who portrays alma (vicky krieps).",
+                0.812787830058179
+            ],
+            [
+                "18_a stunning film with enchanting performances from day lewis and manville.",
+                0.842385310314375
+            ]
+        ],
+        "entities": {
+            "Daniel Day-Lewis": {
+                "unique_args": [
+                    [
+                        "6_daniel day-lewis has turned in a measured, masterful performance of a flawed man who could be tender and kind, petulant and dismissive, and deeply hurtful.",
+                        0.63031726305341
+                    ],
+                    [
+                        "17_paul thomas anderson does gothic romance in prestige brit picture style, eliciting a worthy final performance from daniel day-lewis that's admirably matched by newcomer vicky krieps.",
+                        0.8124188915203663
+                    ],
+                    [
+                        "19_i was mostly riveted by this movie because of the incredible work from both daniel day-lewis, and the actress who portrays alma (vicky krieps).",
+                        0.812787830058179
+                    ]
+                ]
+            },
+            "Vicky Krieps": {
+                "unique_args": []
+            },
+            "Lesley Manville": {
+                "unique_args": [
+                    [
+                        "18_a stunning film with enchanting performances from day lewis and manville.",
+                        0.842385310314375
+                    ]
+                ]
+            },
+            "Camilla Rutherford": {
+                "unique_args": []
+            },
+            "Gina McKee": {
+                "unique_args": []
+            },
+            "Brian Gleeson": {
+                "unique_args": []
+            },
+            "Harriet Sansom Harris": {
+                "unique_args": []
+            },
+            "Lujza Richter": {
+                "unique_args": []
+            },
+            "Julia Davis": {
+                "unique_args": []
+            },
+            "Jane Perry": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {
+            "clothing": {
+                "unique_args": []
+            }
+        }
+    }
+}

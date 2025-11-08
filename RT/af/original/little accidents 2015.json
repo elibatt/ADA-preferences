@@ -1,0 +1,141 @@
+{
+    "writer": {
+        "entities": {
+            "Sara Colangelo": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_to her credit, the writer-director tries for complexity.",
+                0.5950286641524923
+            ],
+            [
+                "4_owen tries with lurching uncertainty to ease back into normal, even as the writer and director sara colangelo clutters his path with enough obstacles to challenge the most heroically determined traveler.",
+                0.7392528689063145
+            ],
+            [
+                "5_there's a quiet desperation to all the lives depicted in writer-director sara colangelo's assured indie about a west virginia mining accident that upends everyone in town.",
+                0.7839009810166345
+            ],
+            [
+                "8_ by writer-director sara colangelo that never quite rises above its dreary blue-collar ambience ",
+                0.5179961987761195
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Josh Lucas": {
+                "args": []
+            },
+            "Alexia Rasmussen": {
+                "args": []
+            },
+            "Chloë Sevigny": {
+                "args": []
+            },
+            "Beau Wright": {
+                "args": []
+            },
+            "Boyd Holbrook": {
+                "args": []
+            },
+            "Travis Tope": {
+                "args": []
+            },
+            "James DeForest Parker": {
+                "args": []
+            },
+            "Elizabeth Banks": {
+                "args": []
+            },
+            "Jacob Lofland": {
+                "args": []
+            },
+            "Randy Springer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_nothing feels forced in this movie, which is testament to colangelo's skill as well as the cast's.",
+                0.5912782823845983
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_little accidents paints a vivid portrait of a community facing an imminent existential crisis.",
+                0.768990703663019
+            ],
+            [
+                "3_now if she can just get the storytelling to match the quality of the filmmaking, i suspect there will be fewer little accidents.",
+                -0.6560425786744954
+            ],
+            [
+                "6_\"little accidents\" is a serious movie, ",
+                0.5555172642273223
+            ],
+            [
+                "8_a promising feature-film de",
+                0.6080998646812618
+            ],
+            [
+                "9_this is a bleak and bitter movie, ",
+                0.5144197225375786
+            ],
+            [
+                "10_ the film lacks the memorable idiosyncrasy of a river's edge, or more fittingly, the myth-making lyricism of matewan.",
+                0.6866085985706427
+            ],
+            [
+                "12_ rather ordinary melodrama that wouldn't have seemed out of place as a network movie-of-the-week circa 1985.",
+                -0.8073676471163523
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sara Colangelo": {
+                "args": [
+                    [
+                        "1_nothing feels forced in this movie, which is testament to colangelo's skill as well as the cast's.",
+                        0.5912782823845983
+                    ],
+                    [
+                        "4_owen tries with lurching uncertainty to ease back into normal, even as the writer and director sara colangelo clutters his path with enough obstacles to challenge the most heroically determined traveler.",
+                        0.7392528689063145
+                    ],
+                    [
+                        "5_there's a quiet desperation to all the lives depicted in writer-director sara colangelo's assured indie about a west virginia mining accident that upends everyone in town.",
+                        0.7839009810166345
+                    ],
+                    [
+                        "7_all of these characters are in pain, and colangelo never lets the audience forget it, since she's directed everyone to wear similar brooding expressions and walk around as if this screwed-up world and its many adversities are a constant weight.",
+                        -0.5718678223946214
+                    ],
+                    [
+                        "8_ by writer-director sara colangelo that never quite rises above its dreary blue-collar ambience ",
+                        0.5179961987761195
+                    ],
+                    [
+                        "11_a small-town tragedy leads to moral crises on all sides in sara colangelo's little accidents, a sober drama that makes class central to the story without ever sounding like it has an agenda.",
+                        0.7001877563005723
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_to her credit, the writer-director tries for complexity.",
+                0.5950286641524923
+            ]
+        ]
+    }
+}

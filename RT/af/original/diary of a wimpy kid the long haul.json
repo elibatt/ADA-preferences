@@ -1,0 +1,80 @@
+{
+    "acting": {
+        "args": [
+            [
+                "0_it's mostly carried off with aplomb, particularly by charlie wright, who looks like a slightly less evil ezra miller and gives a genuinely funny performance as permanently perplexed metalhead rodrick.",
+                0.6225077629085151
+            ],
+            [
+                "4_the all-new cast is fine, ",
+                0.7312503317790182
+            ],
+            [
+                "18_the adults' acting is crude and clownish.",
+                -0.6087347833803731
+            ]
+        ],
+        "entities": {
+            "Chris Coppola": {
+                "args": []
+            },
+            "Owen Asztalos": {
+                "args": []
+            },
+            "Alicia Silverstone": {
+                "args": []
+            },
+            "Tom Everett Scott": {
+                "args": []
+            },
+            "Jason Drucker (III)": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the long haul\" is the common type of road trip movie, the one where everything that can go wrong does go wrong.",
+                -0.7564826320639197
+            ],
+            [
+                "5_a deeply unfunny family road trip film that has gross out jokes to rival the r-rated vacation remake.",
+                -0.5828405193182675
+            ],
+            [
+                "7_the rest of us can hope the inevitable next film is better.",
+                0.5510873267127503
+            ],
+            [
+                "14_another forgettable film.",
+                -0.5401125810480785
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Bowers": {
+                "args": [
+                    [
+                        "12_kinney and bowers succeed in their effort to deliver their material's earnest themes with new clarity and resonance.",
+                        0.7702338940871742
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Adam Sztykiel": {
+                "args": []
+            }
+        }
+    }
+}

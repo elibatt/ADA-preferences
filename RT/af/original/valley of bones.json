@@ -1,0 +1,56 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dan Glaser": {
+                "args": []
+            },
+            "Steven Molony": {
+                "args": []
+            },
+            "Richard M. Lewis": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mason Mahay": {
+                "args": []
+            },
+            "Rhys Coiro": {
+                "args": []
+            },
+            "Steven Molony": {
+                "args": []
+            },
+            "Autumn Reeser": {
+                "args": []
+            },
+            "Muse Watson": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dan Glaser": {
+                "args": [
+                    [
+                        "0_this earnest quasi-crime thriller, directed by dan glaser, takes too long to gain momentum and deliver the requisite action and suspense.",
+                        -0.7515184794312695
+                    ]
+                ]
+            }
+        }
+    }
+}

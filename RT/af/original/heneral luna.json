@@ -1,0 +1,123 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_from an american perspective, \"heneral luna\" may not be much of a film, ",
+                0.7465563502629693
+            ],
+            [
+                "2_\"heneral luna\" would never be mistaken for more serious-minded art-house material, ",
+                0.5242408052231358
+            ],
+            [
+                "3_as with luna himself, the film might go too far at times, ",
+                -0.5715805310411699
+            ],
+            [
+                "4_really, when a film works this hard to rouse you",
+                0.577138541664332
+            ],
+            [
+                "5_heneral luna is a sturdy, stirring if perhaps sometimes simplistic historical epic about bravery and treachery in a country at war.",
+                0.6760683564966232
+            ],
+            [
+                "6_a hagiographic, testosterone-driven war film heavy on macho posturing, gunfire and explosions, bodies falling, and a stoic hero at the center of it all.",
+                -0.6134546225016324
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jerrold Tarog": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Arcilla": {
+                "args": [
+                    [
+                        "0_anchored by a charismatic central performance by john arcilla (\"metro manila\") and peppered with exciting action sequences, the pic has the all-around energy to overcome the odd moment of bumpy storytelling and prosaic dialogue.",
+                        0.5154106970222291
+                    ]
+                ]
+            },
+            "Joem Bascon": {
+                "args": []
+            },
+            "Alvin Anson": {
+                "args": []
+            },
+            "Lorenzo Martinez": {
+                "args": []
+            },
+            "Mylene Dizon": {
+                "args": []
+            },
+            "Paulo Avelino": {
+                "args": []
+            },
+            "Alex Medina": {
+                "args": []
+            },
+            "Epy Quizon": {
+                "args": []
+            },
+            "Art Acuña": {
+                "args": []
+            },
+            "Ben Alves": {
+                "args": []
+            },
+            "Ronnie Lazaro": {
+                "args": []
+            },
+            "Mon Confiado": {
+                "args": []
+            },
+            "Nonie Buencamino": {
+                "args": []
+            },
+            "Arron Villaflor": {
+                "args": []
+            },
+            "Leo Martinez": {
+                "args": []
+            },
+            "Arthur Acuna": {
+                "args": []
+            },
+            "Bing Pimentel": {
+                "args": []
+            },
+            "Archie Alemania": {
+                "args": []
+            },
+            "Ketchup Eusebio": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Henry Francia": {
+                "args": []
+            },
+            "Jerrold Tarog": {
+                "args": []
+            },
+            "E.A. Rocha": {
+                "args": []
+            }
+        }
+    }
+}

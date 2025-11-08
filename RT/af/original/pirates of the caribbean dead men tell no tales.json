@@ -1,0 +1,181 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the subtitle of the new pirates of the caribbean movie is \"dead men tell no tales.\"",
+                -0.5249298014563952
+            ],
+            [
+                "0_the moral of the movie, alas, is that the same cannot be said of dead franchises.",
+                -0.775716399587502
+            ],
+            [
+                "3_is this really only the fifth entry in the pirates film franchise?",
+                -0.6649806951998486
+            ],
+            [
+                "4_again, the trick to enjoying this film is to expect nothing.",
+                -0.541029748546537
+            ],
+            [
+                "5_i daresay it is the very best fourth sequel ever made to a movie based on a 50-year-old theme park ride.",
+                0.849712025547531
+            ],
+            [
+                "8_ goes nowhere new and the film's \"bigness\" makes it hard to remember what an amazingly unexpected treasure",
+                0.6075685515505576
+            ],
+            [
+                "10_ they are self-fulfilling prophecies, and dire ones, about the future of the theatrical movie business.",
+                -0.5398265565365037
+            ],
+            [
+                "13_[it] tries to turn back time, seeking to replicate the first 2003 film's chemistry.",
+                -0.5113759035483819
+            ],
+            [
+                "13_that attempt to swim against the tide doesn't entirely work, ",
+                0.5290492719346456
+            ],
+            [
+                "17_depp, who once was among the most risk-taking actors in film, seems to be merely going through the motions.",
+                -0.609933104398824
+            ],
+            [
+                "20_the dead tell a tale in the latest pirates of the caribbean movie, ",
+                0.5658105223791843
+            ],
+            [
+                "21_it's a strange thing for a movie to get more quiet when cannons fire.",
+                0.5231559092168452
+            ],
+            [
+                "35_depp remains wholeheartedly the focus of this fifth pirates film, and saying the character's loopy novelty has faded is like complaining that there are maggots in the below-decks gruel: you knew what you were getting when you came aboard.",
+                -0.5184193180929877
+            ],
+            [
+                "36_ never has a \"pirates\" film felt this inessential, this depressingly pro forma.",
+                0.5206980962916985
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Joachim Rønning": {
+                "args": []
+            },
+            "Espen Sandberg": {
+                "args": [
+                    [
+                        "4_directors joachim rønning and espen sandberg work up a stormy sea-parting finale that is better than anything in the ten commandments.",
+                        -0.6535906446906856
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kevin McNally": {
+                "args": []
+            },
+            "Goran D. Kleut": {
+                "args": []
+            },
+            "Johnny Depp": {
+                "args": [
+                    [
+                        "7_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                        -0.6283555507233618
+                    ],
+                    [
+                        "22_a cartoonish depp and a muddled plot send this fifth \"pirates\" film to the bottom.",
+                        -0.5971478975399327
+                    ],
+                    [
+                        "28_the story once again centers on johnny depp's captain jack sparrow, a character who at this point makes more sense in a party city clearance aisle than on a multiplex screen.",
+                        -0.6054751334216826
+                    ],
+                    [
+                        "32_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                        0.5690375430328778
+                    ]
+                ]
+            },
+            "Mahesh Jadu": {
+                "args": []
+            },
+            "Stephen Graham": {
+                "args": []
+            },
+            "Javier Bardem": {
+                "args": [
+                    [
+                        "3_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                        0.6217446168717399
+                    ],
+                    [
+                        "24_we have oscar winners geoffrey rush and javier bardem hamming it up beneath all the makeup and cgi trickery, and that's a hoot.",
+                        -0.5192540306911271
+                    ]
+                ]
+            },
+            "Martin Klebba": {
+                "args": []
+            },
+            "Mark Preston": {
+                "args": []
+            },
+            "Brenton Thwaites": {
+                "args": []
+            },
+            "Geoffrey Rush": {
+                "args": []
+            },
+            "Orlando Bloom": {
+                "args": []
+            },
+            "Adam Brown": {
+                "args": []
+            },
+            "Kaya Scodelario": {
+                "args": []
+            },
+            "Zoe Ventoura": {
+                "args": []
+            },
+            "Golshifteh Farahani": {
+                "args": []
+            },
+            "David Wenham": {
+                "args": []
+            },
+            "Jessica Green (XIII)": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "28_the story once again centers on johnny depp's captain jack sparrow, a character who at this point makes more sense in a party city clearance aisle than on a multiplex screen.",
+                -0.6054751334216826
+            ],
+            [
+                "35_depp remains wholeheartedly the focus of this fifth pirates film, and saying the character's loopy novelty has faded is like complaining that there are maggots in the below-decks gruel: you knew what you were getting when you came aboard.",
+                -0.5184193180929877
+            ]
+        ],
+        "entities": {
+            "Jeff Nathanson": {
+                "args": []
+            }
+        }
+    }
+}

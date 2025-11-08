@@ -1,0 +1,112 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "7_smit-mcphee's performance is astonishing, and believable in every respect as a boy on the cusp of adulthood who must dig deep to find the courage and resourcefulness to survive.",
+                0.7727143920663951
+            ],
+            [
+                "9_smit-mcphee is... quite affecting, in a performance that calls for very little speaking, and a screen partner that is, well, known for chewing the scenery.",
+                0.61535406238962
+            ]
+        ],
+        "entities": {
+            "Leonor Varela": {
+                "args": []
+            },
+            "Priya Rajaratnam": {
+                "args": []
+            },
+            "Jóhannes Haukur Jóhannesson": {
+                "args": []
+            },
+            "Natassia Malthe": {
+                "args": []
+            },
+            "Jens Hultén": {
+                "args": []
+            },
+            "Kodi Smit-McPhee": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "14_ the picture's tendency to stray into the ridiculous robs it of the majesty the director so clearly hoped to achieve.",
+                -0.5840701893879
+            ]
+        ],
+        "entities": {
+            "Albert Hughes": {
+                "args": [
+                    [
+                        "6_what could have made other storytellers stir-crazy seems to have unleashed something philosophical in albert hughes.",
+                        -0.5496460658260405
+                    ],
+                    [
+                        "10_mr. hughes, who for many years cocreated films with his twin brother, allen, and here makes his solo feature de",
+                        0.8366431035742165
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Daniele Sebastian Wiedenhaupt ": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a work of great imagination ",
+                0.8196653087008582
+            ],
+            [
+                "2_evidently, facts aren't terribly important here (even the movie's title comes from a civilization that's still millennia away), ",
+                -0.6248688155323743
+            ],
+            [
+                "3_there's a pleasant, old-fashioned feel to alpha.",
+                0.7448889391718541
+            ],
+            [
+                "4_seeing alpha on as big and splashy a screen as possible is advisable, preferably with children who can handle occasional scenes of intense peril.",
+                0.5381440651146338
+            ],
+            [
+                "5_alpha\" would be her favorite movie.",
+                0.5170606666699498
+            ],
+            [
+                "12_the stylishly crafted film mostly succeeds in its engaging (and tagline-ready) ambition to chronicle \"how mankind discovered man's best friend,\" even if its naturalistic strengths are swapped out for an exaggeratedly epic tone in the later going.",
+                0.8506163010117329
+            ],
+            [
+                "13_for the most part, the film is harrowing, suspenseful and gritty - and a perfect vehicle for impressive 3-d effects that bring to life an exquisitely beautiful ",
+                0.9000601731567738
+            ],
+            [
+                "16_this is a summer movie that feels designed to transport a younger audience somewhere, not just drag them along for whatever pg-13 ride has been deemed kid-friendly by default.",
+                -0.7338370191391322
+            ],
+            [
+                "17_alpha is always generous to its namesake, serious about being a buddy film and respectful of the impact this imagined encounter will have on the history of two species.",
+                0.7708190443951337
+            ],
+            [
+                "18_an old-fashioned movie made with new-fashioned finesse.",
+                0.7054795910176672
+            ]
+        ]
+    }
+}

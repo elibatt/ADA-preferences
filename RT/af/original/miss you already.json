@@ -1,0 +1,219 @@
+{
+    "acting": {
+        "entities": {
+            "Kumud Pant": {
+                "args": []
+            },
+            "A.K. Steppa": {
+                "args": []
+            },
+            "Shola Adewusi": {
+                "args": []
+            },
+            "Mem Ferda": {
+                "args": []
+            },
+            "Charlotte Ubben": {
+                "args": []
+            },
+            "Lucy Morton": {
+                "args": []
+            },
+            "Grace Schneider": {
+                "args": []
+            },
+            "Emily Trappen": {
+                "args": []
+            },
+            "Noah Huntley": {
+                "args": []
+            },
+            "Toni Collette": {
+                "args": [
+                    [
+                        "10_barrymore and collette bring life and charm to a screenplay that needs all the life and charm it can get.",
+                        0.6924529471418887
+                    ],
+                    [
+                        "19_toni collette gives an oscar-caliber performance in a movie that oscar voters probably will avoid watching until 2019 when they're stuck home with the flu.",
+                        0.5596903299162742
+                    ]
+                ]
+            },
+            "Neil Alexander Smith": {
+                "args": []
+            },
+            "Guna Gultniece": {
+                "args": []
+            },
+            "Charlotte Hope": {
+                "args": []
+            },
+            "Dominic Cooper": {
+                "args": []
+            },
+            "Anick Wiget": {
+                "args": []
+            },
+            "Hannah Blamires": {
+                "args": []
+            },
+            "Paddy Considine": {
+                "args": []
+            },
+            "Janice Acquah": {
+                "args": []
+            },
+            "Eleanor Stagg": {
+                "args": []
+            },
+            "Sophie Brown": {
+                "args": []
+            },
+            "Charlotte Mellish": {
+                "args": []
+            },
+            "Alex Gillison": {
+                "args": []
+            },
+            "Cameron Joel Orme": {
+                "args": []
+            },
+            "Minouche Kaftel": {
+                "args": []
+            },
+            "Joanna Bobin": {
+                "args": []
+            },
+            "Shaz Lancaster": {
+                "args": []
+            },
+            "Lukas Rolfe": {
+                "args": []
+            },
+            "Honor Kneafsey": {
+                "args": []
+            },
+            "Jacqueline Bisset": {
+                "args": []
+            },
+            "Max Rinehart": {
+                "args": []
+            },
+            "Amy Clare Beales": {
+                "args": []
+            },
+            "Drew Barrymore": {
+                "args": [
+                    [
+                        "12_the film belongs to barrymore and collette, who generate a palpable bff chemistry that will defy you not to be choked up by the time the credits roll.",
+                        0.7192450794593606
+                    ]
+                ]
+            },
+            "Waleed Akhtar": {
+                "args": []
+            },
+            "Joanne Kneafsey": {
+                "args": []
+            },
+            "Frances De La Tour": {
+                "args": []
+            },
+            "Anjli Mohindra": {
+                "args": []
+            },
+            "Tyson Ritter": {
+                "args": []
+            },
+            "Vera Chok": {
+                "args": []
+            },
+            "Eileen Davies": {
+                "args": []
+            },
+            "Sophie Holland": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_the film is a soulless parade of movie conventions and rote acting.",
+                -0.6173897788457913
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Morwenna Banks": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_barrymore and collette bring life and charm to a screenplay that needs all the life and charm it can get.",
+                0.6924529471418887
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_there's a tough-minded drama struggling to break through the movie's glossy veneer-a contemplation of the black hole of death that, sooner or later, becomes the center of life.",
+                -0.7609271836817018
+            ],
+            [
+                "2_in the march to the end, \"miss you already\" grinds its gears through the late stages of cancer, following a predictable and cliche path.",
+                -0.8036874629657281
+            ],
+            [
+                "5_the film is a soulless parade of movie conventions and rote acting.",
+                -0.6173897788457913
+            ],
+            [
+                "8_ you never doubt that these women love each other and that the movie's interest in the complexities of that love is justified.",
+                0.8193158583634808
+            ],
+            [
+                "11_a movie about love and loss that doesn't dissolve into soft focus when the hard parts start.",
+                -0.540886091783907
+            ],
+            [
+                "14_milly's not always likeable and her narcissistic streak helps miss you already get to interesting places.",
+                0.5799659998906296
+            ],
+            [
+                "15_collette's work is so compulsively watchable that \"miss you already\" is worth a watch for that reason alone.",
+                -0.5757455127562277
+            ],
+            [
+                "16_for some, it's just as hard to say no to a movie with cancer.",
+                -0.651079067620661
+            ],
+            [
+                "17_tonally, miss you already is a slapdash mess of achingly sincere moments and tasteless jokes.",
+                -0.6875362127064798
+            ],
+            [
+                "20_unflinching yet unburdened, \"miss you already\" is like the best kind of hug: warm, reassuring, cathartic, and a fleeting ",
+                0.7892947570638077
+            ],
+            [
+                "22_in [its] overwrought moments, \"miss you already\" forfeits any claims to credibility.",
+                -0.7844439808077152
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Catherine Hardwicke": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "writer": {
+        "entities": {
+            "Destin Daniel Cretton": {
+                "args": []
+            },
+            "Andrew Lanham": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_jeannette, the central voice and consciousness in the book, is an oddly blurred character on screen.",
+                0.6054924943940451
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Destin Daniel Cretton": {
+                "args": [
+                    [
+                        "0_[destin daniel] cretton wants to make an old-fashioned melodrama ",
+                        0.5461175316619923
+                    ],
+                    [
+                        "4_due to the herculean task of adaptation, \"the glass castle\" lacks the emotional potency of cretton's earlier work and the unflinching detail of walls' memoir.",
+                        0.6033526647688165
+                    ],
+                    [
+                        "31_ cretton's film, up to those final credits, does the interpreting for us, and the result is sometimes jarring.",
+                        0.6408224807308457
+                    ],
+                    [
+                        "37_reflective and cumulatively poignant, destin cretton's the glass castle lays bare the utmost truth about families: you will eventually morph into your parents.",
+                        0.7758863886828069
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_there are heart-tugging moments in the glass castle, ",
+                0.6249544926012024
+            ],
+            [
+                "2_for it to match up to the book, the movie needed the glass to be smashed, not every shard treasured.",
+                -0.5515424742818379
+            ],
+            [
+                "6_a film that presents overwhelming evidence of rex and rose mary as appalling human beings for 90 percent of the journey, and then asks us to give them a break?",
+                0.7377276204444253
+            ],
+            [
+                "7_a film that never quite clicks tonally and doesn't do justice to its harrowing central story.",
+                -0.629322904786103
+            ],
+            [
+                "9_instead of the book's cold, hard truths, the film peddles easy upllft.",
+                0.5756163012833923
+            ],
+            [
+                "11_it's not so much harrowing as it is repetitive, and the film gets stuck in a single gear",
+                -0.760400046434593
+            ],
+            [
+                "15_and the film itself loses focus as it drifts toward the conventions of the coming-of-age story and the family-dysfunction melodrama.",
+                0.7007432701427869
+            ],
+            [
+                "16_the glass castle unfortunately lives up to its see-through, illusory title.",
+                -0.6695153156809703
+            ],
+            [
+                "18_-flawed misfire of a movie ...",
+                -0.5728968249075554
+            ],
+            [
+                "19_the movie may hit home for anyone who has ever wondered how much of our identity is shaped by nature, vs. nurture.",
+                0.6682163745333185
+            ],
+            [
+                "24_the glass castle offers up a movie clan to beat in terms of complete dysfunction, ",
+                0.5520248953252365
+            ],
+            [
+                "24_ the brutal and heart-wrenching film is in its own way just as much of a mess.",
+                0.6751347219613442
+            ],
+            [
+                "25_the problem is that this film seems reluctant to really confront it.",
+                -0.5526696836923813
+            ],
+            [
+                "27_you watch the movie, and you wonder: what was this life like, really?",
+                -0.5961910438959961
+            ],
+            [
+                "27_that's a sign of a movie not quite answering the question.",
+                -0.528149065935259
+            ],
+            [
+                "28_to watch \"the glass castle\" is to feel trapped inside jeanette walls' childhood.",
+                -0.6385254130980192
+            ],
+            [
+                "33_whatever its imbalances and flaws, the movie is sure to strike an emotional chord with the book's many fans as well as newcomers to the remarkable tale.",
+                0.8933474926461161
+            ],
+            [
+                "34_\"the glass castle\" is a family portrait that at its heart is a father-daughter movie, anchored by two outstanding actors.",
+                0.8413933546193013
+            ],
+            [
+                "36_cretton captures the incidents of walls' childhood (too many of them, to be honest, as the film really ought to be half an hour shorter), ",
+                -0.5863798023788505
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Brie Larson": {
+                "args": [
+                    [
+                        "9_oscar winner brie larson stars in an artificial adaptation of journalist jeanette walls' devastating rough-childhood memoir.",
+                        -0.6354657269304623
+                    ],
+                    [
+                        "30_unlike the book, it's got woody harrelson and brie larson, acting spectacularly.",
+                        -0.524585474615696
+                    ]
+                ]
+            },
+            "Woody Harrelson": {
+                "args": [
+                    [
+                        "21_a remarkable and moving story, anchored by an oscar-worthy harrelson.",
+                        0.8392033848880921
+                    ]
+                ]
+            },
+            "Sarah Snook": {
+                "args": []
+            },
+            "Max Greenfield": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_good acting helps us overlook the story's obvious trajectory.",
+                0.556481149847728
+            ],
+            [
+                "17_larson turns in an engaging performance as a woman uncertain about just who she wants to be.",
+                0.5966411516928596
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

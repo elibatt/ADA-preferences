@@ -1,0 +1,101 @@
+{
+    "writer": {
+        "entities": {
+            "Tyler Macintyre": {
+                "args": []
+            },
+            "Chris Lee Hill": {
+                "args": [
+                    [
+                        "6_macintyre and chris lee hill's screenplay is rife with absurdity, glorious carnage, jet-black humor - and best of all, a solid relationship at its core.",
+                        0.826864566196247
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Marycarmen Lopez": {
+                "args": []
+            },
+            "Craig Robinson": {
+                "args": []
+            },
+            "Kevin Durand": {
+                "args": []
+            },
+            "Jack Quaid": {
+                "args": []
+            },
+            "Alexandra Shipp": {
+                "args": []
+            },
+            "Josh Hutcherson": {
+                "args": []
+            },
+            "Austin Abrams": {
+                "args": []
+            },
+            "Kerry Rhodes": {
+                "args": []
+            },
+            "Brianna Hildebrand": {
+                "args": []
+            },
+            "Timothy V. Murphy": {
+                "args": []
+            },
+            "Nicky Whelan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_the movie's central idea and bright young cast are so good that some of its shallowness is forgivable.",
+                0.6604485204134811
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_in the meantime, i don't want to oversell a near-great b-movie that is nonetheless a b-movie.",
+                0.5109925175118951
+            ],
+            [
+                "1_suffice to say tragedy girls has great fun with myriad horror movie tropes.",
+                0.8306394159791697
+            ],
+            [
+                "2_for the most part ... the movie cranks visceral, caffeinated thrills out of its teenage-meat grinder.",
+                0.6821283815376424
+            ],
+            [
+                "3_attempting to combine clueless-style humor revolving around self-absorbed high school girls with slasher film tropes, tragedy girls proves neither funny nor scary enough to be distinctive.",
+                -0.5976299344807043
+            ],
+            [
+                "4_the movie's central idea and bright young cast are so good that some of its shallowness is forgivable.",
+                0.6604485204134811
+            ],
+            [
+                "7_at its best, \"tragedy girls\" plays like a sweet story of a believable high school friendship between two girls who just happen to be sociopaths.",
+                0.8269849011502135
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Tyler Macintyre": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

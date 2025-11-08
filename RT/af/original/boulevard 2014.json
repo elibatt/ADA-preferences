@@ -1,0 +1,203 @@
+{
+    "writer": {
+        "entities": {
+            "Douglas Soesbe": {
+                "args": [
+                    [
+                        "2_ it's one we've seen before, and neither screenwriter douglas soesbe nor director dito montiel has found a way to elevate it into something that challenges or inspires.",
+                        0.6957214290689697
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "14_there is never a moment in \"boulevard\" when you can't feel williams trying to push through the labored script to the bitter truth of nolan's agony.",
+                -0.8071056426921277
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bob Odenkirk": {
+                "args": []
+            },
+            "Joshua Decker": {
+                "args": []
+            },
+            "Giles Matthey": {
+                "args": []
+            },
+            "David Ditmore": {
+                "args": []
+            },
+            "Crystal Gray": {
+                "args": []
+            },
+            "Billy Lewis": {
+                "args": []
+            },
+            "Roberto Aguire": {
+                "args": []
+            },
+            "Steven Randazzo": {
+                "args": []
+            },
+            "Robin Williams": {
+                "args": [
+                    [
+                        "6_in dito montiel's treacly, programmatic film, williams succumbs to a recurring neediness, earnestness, and sentimentality.",
+                        -0.5423424314065075
+                    ],
+                    [
+                        "8_in scene after scene, his co-stars put out energy and williams absorbs it, reflects on it and gives back sadness.",
+                        0.7386630365567153
+                    ],
+                    [
+                        "9_that may be a far cry from the robin williams roles we knew and loved, ",
+                        0.7400614862540351
+                    ],
+                    [
+                        "11_and here's the saddest thing of all - it's one of the last stories robin williams will ever give us.",
+                        0.5912602926858469
+                    ],
+                    [
+                        "12_ williams carries the movie.",
+                        0.6892116326830707
+                    ],
+                    [
+                        "13_all the film's problems are secondary to williams himself.",
+                        0.5019298771910634
+                    ],
+                    [
+                        "14_there is never a moment in \"boulevard\" when you can't feel williams trying to push through the labored script to the bitter truth of nolan's agony.",
+                        -0.8071056426921277
+                    ],
+                    [
+                        "15_the main attraction is mr. williams's relentlessly dour performance.",
+                        0.5757805907905995
+                    ],
+                    [
+                        "18_as robin williams' final film, it tolls a wonderful bell for the legacy of a distinguished career.",
+                        0.8453580713238363
+                    ]
+                ]
+            },
+            "Sondra Morton Chaffin": {
+                "args": []
+            },
+            "Henry Haggard": {
+                "args": []
+            },
+            "Gary Willis": {
+                "args": []
+            },
+            "J. Karen Thomas": {
+                "args": []
+            },
+            "Gary Gardner": {
+                "args": []
+            },
+            "Eleonore Hendricks": {
+                "args": []
+            },
+            "Landon Marshall": {
+                "args": []
+            },
+            "Jerry Chipman": {
+                "args": []
+            },
+            "Kathy Baker": {
+                "args": []
+            },
+            "Reegus Flenory": {
+                "args": []
+            },
+            "Becky Fly": {
+                "args": []
+            },
+            "Brandon Hirsch": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_williams delivers a performance of mannered, sometimes heart-wrenching restraint.",
+                0.6811614752094264
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_boulevard itself moves toward an obvious conclusion with no surprises along the way",
+                -0.5928977712758854
+            ],
+            [
+                "3_unfortunately, the movie plods",
+                -0.5854602586377057
+            ],
+            [
+                "4_ something closer to cautiousness tamps down the film.",
+                0.5021515160815031
+            ],
+            [
+                "7_if the movie is cheesy at times, it more often presents an understanding of life's contradictions and compromises.",
+                0.673440546637183
+            ],
+            [
+                "9_boulevard is a sad, hesitant little movie about a sad, hesitant little man.",
+                -0.6095237589805202
+            ],
+            [
+                "12_the movie is mapped out too easily, ",
+                -0.5900443697802522
+            ],
+            [
+                "16_boulevard is a movie that feels at least a decade past its sell-by date, if not two.",
+                -0.6631582160978201
+            ],
+            [
+                "17_a frustrating ending to a stellar career, a cramped and melancholy film about a cramped and melancholy man.",
+                0.5842688580081787
+            ],
+            [
+                "19_\"boulevard\" consistently evokes the road not traveled, ",
+                0.5442629429389185
+            ],
+            [
+                "20_i spent the movie aching for its star, not its characters.",
+                -0.6142536994105644
+            ],
+            [
+                "21_[boulevard] is well written, acted and directed, and yet somehow never manages to surprise.",
+                0.6281106236397096
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dito Montiel": {
+                "args": [
+                    [
+                        "2_ it's one we've seen before, and neither screenwriter douglas soesbe nor director dito montiel has found a way to elevate it into something that challenges or inspires.",
+                        0.6957214290689697
+                    ],
+                    [
+                        "6_in dito montiel's treacly, programmatic film, williams succumbs to a recurring neediness, earnestness, and sentimentality.",
+                        -0.5423424314065075
+                    ],
+                    [
+                        "10_williams and director dito montiel are in tune with a pervading sense of tenderness, as the movie distinctly ruminates on connection, not love.",
+                        0.692028569678233
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "acting": {
+        "args": [
+            [
+                "2_the cast will be stars, the gags will be immortal, and you'll still be watching this movie years from now.",
+                0.5504266486310202
+            ],
+            [
+                "14_oodles of charm from the young cast.",
+                0.6593974978429333
+            ],
+            [
+                "19_what might have been a frank portrayal of high school culture and challenges ends up veering between being either too cynically hyper-sexual or preachy.",
+                -0.6142996484338824
+            ]
+        ],
+        "entities": {
+            "Demetrius Bridges": {
+                "args": []
+            },
+            "Danielle Lyn": {
+                "args": []
+            },
+            "Marisela Zumbado": {
+                "args": []
+            },
+            "David Gridley": {
+                "args": []
+            },
+            "Bianca A. Santos": {
+                "args": []
+            },
+            "Turner Wheat": {
+                "args": []
+            },
+            "Skyler Samuels": {
+                "args": []
+            },
+            "Cason Richter": {
+                "args": []
+            },
+            "Veanna Black": {
+                "args": []
+            },
+            "Jill Jane Clements": {
+                "args": []
+            },
+            "Chris Wylde": {
+                "args": []
+            },
+            "Anthony John Cavalero": {
+                "args": [
+                    [
+                        "11_the duff would make john hughes smile.",
+                        0.5293656011825392
+                    ],
+                    [
+                        "14_a smart, funny, straight-talking teen movie in the john hughes tradition.",
+                        0.6298138420286579
+                    ]
+                ]
+            },
+            "Beau Rich": {
+                "args": []
+            },
+            "Richard Kohberger": {
+                "args": []
+            },
+            "Bella Thorne": {
+                "args": []
+            },
+            "Nick Eversman": {
+                "args": []
+            },
+            "Lai-Ling Bernstein": {
+                "args": []
+            },
+            "Allison Janney": {
+                "args": []
+            },
+            "Ken Jeong": {
+                "args": []
+            },
+            "Jonathan Baron": {
+                "args": []
+            },
+            "Ben Papac": {
+                "args": []
+            },
+            "Mae Whitman": {
+                "args": [
+                    [
+                        "8_especially because the young co-stars mae whitman and robbie amell are so appealing, the duff is charming, cheeky and relevant.",
+                        0.7565702504086605
+                    ],
+                    [
+                        "13_mae whitman is the best thing here, and the funny actress deserves better material than what's offered in this derivative and superficial ode to teen self-acceptance.",
+                        0.5546192787041654
+                    ],
+                    [
+                        "20_\"mae whitman reveals herself to be one of the funniest actresses of her generation in a spot-on and endlessly quotable take on teenage 'dramz' in 2015.\"",
+                        0.7829242778466048
+                    ],
+                    [
+                        "23_ it's ample proof that we should be seeing more of mae whitman.",
+                        0.692441273722321
+                    ],
+                    [
+                        "26_they're smartly played by mae whitman and robbie amell, whose warmth and comic chops keep the movie buoyant.",
+                        0.7911306514251922
+                    ]
+                ]
+            },
+            "Danielle Sherrick": {
+                "args": []
+            },
+            "Romany Malco": {
+                "args": []
+            },
+            "Kurt Krause": {
+                "args": []
+            },
+            "Alexandra Ficken": {
+                "args": []
+            },
+            "Dorothy Reynolds": {
+                "args": []
+            },
+            "Emily Norcia": {
+                "args": []
+            },
+            "Krissy Notes": {
+                "args": []
+            },
+            "Kyle Wilkerson": {
+                "args": []
+            },
+            "Fiona Hardingham": {
+                "args": []
+            },
+            "Robbie Amell": {
+                "args": []
+            },
+            "Mahaley Manning": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a well-intentioned and sometimes quite sharp high school movie that falls just short of the mark due to a few way-off-the-mark scenes and too much heavy-handed preaching.",
+                -0.5881172932180361
+            ],
+            [
+                "1_it's hard not to see \"the duff\" becoming an instant teen classic.",
+                0.510480880745414
+            ],
+            [
+                "2_because wit and charm matter, and the duff has a good deal of both.",
+                0.8940444579719335
+            ],
+            [
+                "2_the cast will be stars, the gags will be immortal, and you'll still be watching this movie years from now.",
+                0.5504266486310202
+            ],
+            [
+                "3_whitman displays flawless comic timing and consistently makes inspiring choices in terms of delivery, reaction, even the slightest facial expression.",
+                0.781865673265136
+            ],
+            [
+                "5_it's the first great teen comedy since mean girls.",
+                0.5345935705611056
+            ],
+            [
+                "6_sandel's film has heart, some good laughs and a decent message.",
+                0.7011444762061911
+            ],
+            [
+                "7_it falls short of the mark, even as it hits every one of the genre's conventions.",
+                0.7376703404532048
+            ],
+            [
+                "9_even in this would-be subversive comedy, success means getting the guy.",
+                -0.5618216158968486
+            ],
+            [
+                "10_romance, or the desire to find someone special, isn't a bad thing - if it's not the only thing.",
+                -0.8728250084794694
+            ],
+            [
+                "10_\" the denouement at prom has cliché written all over it.",
+                -0.607453922642879
+            ],
+            [
+                "12_a derivative unimaginative forgettable film.",
+                -0.6739536525832952
+            ],
+            [
+                "14_oodles of charm from the young cast.",
+                0.6593974978429333
+            ],
+            [
+                "16_the ostensible message of accepting difference is overwhelmed by a spirit of blind conformism.",
+                -0.5064329959693055
+            ],
+            [
+                "17_\"the duff\" is a dumb, uninteresting, formulaic failure.",
+                -0.7270868515214592
+            ],
+            [
+                "18_making a really good movie about a three-dimensional teenage female character that doesn't start and finish with both eyes on the same old punishing character types.",
+                0.5595264637531252
+            ],
+            [
+                "19_what might have been a frank portrayal of high school culture and challenges ends up veering between being either too cynically hyper-sexual or preachy.",
+                -0.6142996484338824
+            ],
+            [
+                "22_the duff doesn't seem to know what its point actually is.",
+                -0.7443104618589624
+            ],
+            [
+                "23_the duff won't stay with you far past its runtime.",
+                -0.5931857090704835
+            ],
+            [
+                "25_this winsome comedy is a little low in the stakes department, not to mention predictable, ",
+                0.5478832128785958
+            ],
+            [
+                "27_while it's neither as biting as mean girls nor as sweetly referential as easy a,",
+                -0.6185043617978637
+            ],
+            [
+                "27_the earnest and sometimes amusing the duff is a fine addition to the canon.",
+                0.7709277727835482
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ari Sandel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_making a really good movie about a three-dimensional teenage female character that doesn't start and finish with both eyes on the same old punishing character types.",
+                0.5595264637531252
+            ]
+        ],
+        "entities": {
+            "Josh A. Cagan": {
+                "args": []
+            }
+        }
+    }
+}

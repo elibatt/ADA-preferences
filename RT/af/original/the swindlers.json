@@ -1,0 +1,50 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jang Chang-won": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the film - while well-made and intermittently entertaining - isn't particularly distinctive beyond its casting.",
+                0.5491138795685295
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Hyun Bin": {
+                "args": []
+            },
+            "Bae Seong-woo": {
+                "args": []
+            },
+            "Yoo Ji-tae": {
+                "args": []
+            },
+            "Ahn Se-ha": {
+                "args": []
+            },
+            "Park Sung-woong": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jang Chang-won": {
+                "args": []
+            }
+        }
+    }
+}

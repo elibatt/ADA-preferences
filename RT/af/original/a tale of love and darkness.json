@@ -1,0 +1,247 @@
+{
+    "writer": {
+        "entities": {
+            "Natalie Portman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ portman's script reduces his writing to platitudes and cliches.",
+                -0.5627946045602761
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Natalie Portman": {
+                "args": [
+                    [
+                        "0_ portman's script reduces his writing to platitudes and cliches.",
+                        -0.5627946045602761
+                    ],
+                    [
+                        "2_but there are times when portman lets the toughness, the tenacity,",
+                        0.7079890232666746
+                    ],
+                    [
+                        "4_[portman] has filmed the book according to its emotional meaning to her, and that's fine.",
+                        0.6834054878284385
+                    ],
+                    [
+                        "5_a passion project for the jerusalem-born portman and told primarily in hebrew",
+                        0.6717961429593511
+                    ],
+                    [
+                        "7_a good start for portman, with promise of better things to come.",
+                        0.5426578747008682
+                    ],
+                    [
+                        "9_every frame of a tale of love and darkness reflects natalie portman's passionate striving and her grieving heart.",
+                        0.7924843723216792
+                    ],
+                    [
+                        "10_though love and darkness has moments of self-conscious artiness, as many first films do, portman, very sure as to what she wanted, has made certain not to overstate the story's potent emotions,",
+                        0.8279523805401566
+                    ],
+                    [
+                        "12_yet portman's evocation of this world has a strange, captivating pull.",
+                        0.6165317158484541
+                    ],
+                    [
+                        "14_to her credit, portman makes smart use of silence and lets actors' faces do the communicating.",
+                        0.8124137718295078
+                    ],
+                    [
+                        "21_the autobiography of amos oz, one of israel's best-known writers, gives structure to natalie portman's sensitive if somewhat unfocused directing bow, a tale of love and darkness.",
+                        0.8253666366504877
+                    ],
+                    [
+                        "22_natalie portman wrote, directed and starred in this well-meaning ",
+                        0.5459125647629128
+                    ]
+                ]
+            },
+            "Or Shefer": {
+                "args": []
+            },
+            "Alexander Peleg": {
+                "args": []
+            },
+            "Errel Steinmetz": {
+                "args": []
+            },
+            "Peter Knoller": {
+                "args": []
+            },
+            "Neta Riskin": {
+                "args": []
+            },
+            "Amir Tessler": {
+                "args": []
+            },
+            "Henry David": {
+                "args": []
+            },
+            "Maria Belkin": {
+                "args": []
+            },
+            "Makram Khoury": {
+                "args": []
+            },
+            "Shira Haas": {
+                "args": []
+            },
+            "Gilad Kahana": {
+                "args": []
+            },
+            "Mor Cohen": {
+                "args": []
+            },
+            "Tomer Kapon": {
+                "args": []
+            },
+            "Ruth Rasiuk": {
+                "args": []
+            },
+            "Itzchak Peker": {
+                "args": []
+            },
+            "Ahmed Saleh": {
+                "args": []
+            },
+            "Gera Sandler": {
+                "args": []
+            },
+            "Ohad Knoller": {
+                "args": []
+            },
+            "Dina Doron": {
+                "args": []
+            },
+            "Amir Hinkis": {
+                "args": []
+            },
+            "Silvia Drori": {
+                "args": []
+            },
+            "Rotem Keinan": {
+                "args": []
+            },
+            "Moni Moshonov": {
+                "args": []
+            },
+            "Vladimir Friedman": {
+                "args": []
+            },
+            "Erez Eyni Shavit": {
+                "args": []
+            },
+            "Varda Ben Hur": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_a tale of love and darkness loses itself in dreamy imagery, in its studiously crafted aesthetic.",
+                0.7738626801757049
+            ],
+            [
+                "3_while a tale of love and darkness is often difficult to watch -- because of all the sadness it presents -- it is also a beautiful film in that it makes us think about existing in a world where we do not completely fit in.",
+                0.8200058304138993
+            ],
+            [
+                "4_what she hasn't done is whip it into shape as a compelling movie.",
+                -0.5085942477050142
+            ],
+            [
+                "8_\"a tale of love and darkness\" is a dead film, an eminently worthy corpse.",
+                0.7576943739646975
+            ],
+            [
+                "11_but throughout the film,",
+                0.6241703786579066
+            ],
+            [
+                "12_tonally, the film doesn't quite match with the universality of oz's shimmering prose.",
+                -0.500906526736721
+            ],
+            [
+                "16_portman's emotional connection to the material couldn't be more obvious, yet the film itself is still largely inert.",
+                -0.653429514756122
+            ],
+            [
+                "17_despite the geopolitical momentousness - and present-day potency - of its concerns, it's an elegant and intimate movie,",
+                0.8116779358230772
+            ],
+            [
+                "18_feels like a movie that left critical portions of its essential backstories on the cutting room floor, with only somberness to fill in the gaps.",
+                -0.8071929801154718
+            ],
+            [
+                "20_portman keeps her scenes short and her film barreling along, and if she can't resist the occasional jarring close-up or unnecessary insert shot, she also exhibits daring and curiosity ...",
+                -0.6498030531438734
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Natalie Portman": {
+                "args": [
+                    [
+                        "0_ portman's script reduces his writing to platitudes and cliches.",
+                        -0.5627946045602761
+                    ],
+                    [
+                        "2_but there are times when portman lets the toughness, the tenacity,",
+                        0.7079890232666746
+                    ],
+                    [
+                        "4_[portman] has filmed the book according to its emotional meaning to her, and that's fine.",
+                        0.6834054878284385
+                    ],
+                    [
+                        "5_a passion project for the jerusalem-born portman and told primarily in hebrew",
+                        0.6717961429593511
+                    ],
+                    [
+                        "7_a good start for portman, with promise of better things to come.",
+                        0.5426578747008682
+                    ],
+                    [
+                        "9_every frame of a tale of love and darkness reflects natalie portman's passionate striving and her grieving heart.",
+                        0.7924843723216792
+                    ],
+                    [
+                        "10_though love and darkness has moments of self-conscious artiness, as many first films do, portman, very sure as to what she wanted, has made certain not to overstate the story's potent emotions,",
+                        0.8279523805401566
+                    ],
+                    [
+                        "12_yet portman's evocation of this world has a strange, captivating pull.",
+                        0.6165317158484541
+                    ],
+                    [
+                        "14_to her credit, portman makes smart use of silence and lets actors' faces do the communicating.",
+                        0.8124137718295078
+                    ],
+                    [
+                        "21_the autobiography of amos oz, one of israel's best-known writers, gives structure to natalie portman's sensitive if somewhat unfocused directing bow, a tale of love and darkness.",
+                        0.8253666366504877
+                    ],
+                    [
+                        "22_natalie portman wrote, directed and starred in this well-meaning ",
+                        0.5459125647629128
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

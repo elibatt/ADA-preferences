@@ -1,0 +1,151 @@
+{
+    "writer": {
+        "entities": {
+            "Fiona Seres": {
+                "args": []
+            },
+            "Michael Kinirons": {
+                "args": [
+                    [
+                        "7_the nagging sense sets in that farrant and screenwriters fiona seres and michael kinirons are after something arty with their story, and the movie can't ambiguously end fast enough.",
+                        0.535398406376357
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "11_director kim farrant paces her story deliberately, building up a heavy, almost oppressive tone, and kidman takes advantage of it, burrowing into a complex and unglamorous character.",
+                -0.565140366418091
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kim Farrant": {
+                "args": [
+                    [
+                        "1_director kim farrant goes for a feeling that's as harsh, unforgiving, and wild as the land she lets the camera linger on, and it's the right idea when handling the potential melodrama of the material.",
+                        0.5719170524953838
+                    ],
+                    [
+                        "4_director kim farrant's de",
+                        0.5701364549618547
+                    ],
+                    [
+                        "7_the nagging sense sets in that farrant and screenwriters fiona seres and michael kinirons are after something arty with their story, and the movie can't ambiguously end fast enough.",
+                        0.535398406376357
+                    ],
+                    [
+                        "11_director kim farrant paces her story deliberately, building up a heavy, almost oppressive tone, and kidman takes advantage of it, burrowing into a complex and unglamorous character.",
+                        -0.565140366418091
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_strangerland runs out of gas, leaving us with a couple of final \"forget you\" (shall we say) moments.",
+                -0.509083434201291
+            ],
+            [
+                "2_erie and unpredictable, strangerland holds attention, even if traditional suspense tricks are avoided like they were dingos at the daycare.",
+                0.5523575156127485
+            ],
+            [
+                "3_kidman's best performances have often been as grieving moms (dead calm, the others, rabbit hole) and here she provides the flaccid movie's sole flash of daring and unpredictability.",
+                0.6252789253763489
+            ],
+            [
+                "5_but the film abandons the viewer in the end,",
+                0.5227103407301289
+            ],
+            [
+                "6_\"strangerland\" ... strains credulity with its secrets and revelations to facilitate its surprises.",
+                0.5131951969574474
+            ],
+            [
+                "8_\"strangerland\" is an uneven ",
+                -0.5814980052578783
+            ],
+            [
+                "8_ often mesmerizing film with a mood of quiet dread",
+                0.7952531788528374
+            ],
+            [
+                "12_it's hard to get over the movie's haunting atmosphere.",
+                -0.5779036699636756
+            ],
+            [
+                "14_kidman clarifies as much as she can, and for a while the movie seems to be on her wavelength.",
+                -0.5064320276902179
+            ],
+            [
+                "15_the film remains stranded in a sort of genre no man's land.",
+                0.6591458037887398
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nicholas Hamilton": {
+                "args": []
+            },
+            "Trangi Speedy-Coe": {
+                "args": []
+            },
+            "Nicole Kidman": {
+                "args": [
+                    [
+                        "5_it certainly provides kidman with some meaty, twisted material.",
+                        0.5708633593270971
+                    ],
+                    [
+                        "11_director kim farrant paces her story deliberately, building up a heavy, almost oppressive tone, and kidman takes advantage of it, burrowing into a complex and unglamorous character.",
+                        -0.565140366418091
+                    ]
+                ]
+            },
+            "Bronwyn Penrith": {
+                "args": []
+            },
+            "Lisa Flanagan": {
+                "args": []
+            },
+            "Martin Dingle Wall": {
+                "args": []
+            },
+            "Joseph Fiennes": {
+                "args": []
+            },
+            "Meyne Wyatt": {
+                "args": []
+            },
+            "Hugo Weaving": {
+                "args": []
+            },
+            "Sean P. Keenan": {
+                "args": []
+            },
+            "Jim Russell": {
+                "args": []
+            },
+            "Maddison Brown": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_ feature is beautifully shot and offers some powerful, well-acted moments from a strong cast, ",
+                0.7809661867083965
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

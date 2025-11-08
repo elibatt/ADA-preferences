@@ -1,0 +1,175 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it's a delicious movie to see in these last, lazy days of august, when summer has slowed not quite to nothingness ",
+                0.6384509050812424
+            ],
+            [
+                "1_ at least to the bliss of a warm day that begins with a bird's song and ends without a worry as to what work has not been done by dusk.",
+                0.6919925261417017
+            ],
+            [
+                "2_ pooh's innocence irritates christopher before it redeems him, and madeline undertakes a bold adventure to gain her father's attention.",
+                0.7360276064561745
+            ],
+            [
+                "5_the modesty, the unfussy simplicity, of christopher robin feels different, and somewhat refreshing.",
+                0.7423322972297802
+            ],
+            [
+                "6_the film also does a fantastic job of juxtaposing the reality of our past with that of our current.",
+                0.8310453179002931
+            ],
+            [
+                "15_christopher robin can't reconcile its darkness and its light.",
+                -0.5079739542897947
+            ],
+            [
+                "16_the movie mostly works -- a fleeting reminder of the simple pleasures of hanging out with family and a talking bear, which, in these frenetic times, is the kind of silliness that's worth savoring.",
+                0.8711477221377049
+            ],
+            [
+                "17_it's everything that christopher robin isn't.",
+                -0.6909702740585096
+            ],
+            [
+                "18_christopher robin is not a naked cash grab, just a prettily clothed one.",
+                -0.7533370304317272
+            ],
+            [
+                "19_ the film drags with a too-long escapade through the streets of london and sometimes trips over its predictability,",
+                -0.5135110371558405
+            ],
+            [
+                "22_see the movie, and take the time to think, think, think with your loved ones.",
+                0.7922405619553351
+            ],
+            [
+                "24_christopher robin may be gloomier than past pooh pursuits, ",
+                -0.507831918731375
+            ],
+            [
+                "26_christopher robin more or less believes that you would, and what's more, it would be the morally right and spiritually healthy thing to do.",
+                0.6397679529782336
+            ],
+            [
+                "27_christopher robin shows it's not easy to update a classic.",
+                0.6480288499071142
+            ],
+            [
+                "29_christopher robin pricks the surface, and it'll certainly leave you with the warm and fuzzies, ",
+                0.8433967129308162
+            ],
+            [
+                "30_once christopher robin softens its insufferable, needlessly cynical conception of the title character, it offers more or less what a pooh reboot should: a lot of nostalgia, a bit of humor and tactile computer animation.",
+                0.5447852299697722
+            ],
+            [
+                "31_there's no end to the schmaltz in winnie the pooh's honey pot, yet disney's live-action christopher robin also tosses in enough charm and tomfoolery for a sufficiently delightful hang with the iconic bear.",
+                0.5608321894409729
+            ],
+            [
+                "32_the lessons christopher must learn -- don't work too hard, hold your most cherished memories close, love your family and friends above all else -- are nothing if not obvious.",
+                -0.553785018114477
+            ],
+            [
+                "35_movies about saying goodbye to childhood friends, and finding them again, work on our emotional defenses like nothing else.",
+                -0.5998116464125642
+            ],
+            [
+                "36_movies like christopher robin don't come around that often any more, and they're good for the soul.",
+                -0.5569177641581753
+            ],
+            [
+                "38_this is the sort of devastatingly boring film that sets up every shot with \"lights! camera!",
+                -0.8199155171598651
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marc Forster": {
+                "args": [
+                    [
+                        "12_director marc forster stitches together a lovingly overstuffed comedy that reflects the best and worst of its hero.",
+                        0.5955338028245051
+                    ],
+                    [
+                        "14_poo is too kind a word to describe the flat, gray nature of disney's reenvisioned hundred acre wood and the trademarked bland anonymity director marc forster brings to the party.",
+                        0.5110088284485592
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Alex Ross Perry": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_ the story around him is at times questionable, the performance and realistic animated rendering of this character is the perfect distillation of winnie-the-pooh's essential, philosophical self.",
+                0.7727700704995988
+            ],
+            [
+                "30_once christopher robin softens its insufferable, needlessly cynical conception of the title character, it offers more or less what a pooh reboot should: a lot of nostalgia, a bit of humor and tactile computer animation.",
+                0.5447852299697722
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Hayley Atwell": {
+                "args": []
+            },
+            "Sophie Okonedo": {
+                "args": []
+            },
+            "Nick Mohammed": {
+                "args": []
+            },
+            "Ewan McGregor": {
+                "args": [
+                    [
+                        "20_what's so satisfying about these telegraphed messages is the earnest, old-fashioned charm that mcgregor and longtime pooh voice actor jim cummings bring to them.",
+                        0.6873753986559317
+                    ]
+                ]
+            },
+            "Mark Gatiss": {
+                "args": []
+            },
+            "Brad Garrett": {
+                "args": []
+            },
+            "Jim Cummings": {
+                "args": [
+                    [
+                        "23_a sweetly good-natured fable, with winning voice performances by disney veteran jim cummings in the dual roles of pooh and tigger, and especially by brad garrett as the perpetually gloomy eeyore.",
+                        0.8143031415157842
+                    ]
+                ]
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "Peter Capaldi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_ the story around him is at times questionable, the performance and realistic animated rendering of this character is the perfect distillation of winnie-the-pooh's essential, philosophical self.",
+                0.7727700704995988
+            ]
+        ]
+    }
+}

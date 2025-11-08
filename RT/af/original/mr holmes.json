@@ -1,0 +1,266 @@
+{
+    "film": {
+        "args": [
+            [
+                "10_the film's plots are soft and flimsy, and they don't mesh as gracefully as they might, ",
+                -0.7398659057990735
+            ],
+            [
+                "12_there is nothing elementary about mr. holmes, the fascinating film that tells the \"true story\" of what happens when the world's most famous detective goes into retirement and seclusion.",
+                0.84024192219127
+            ],
+            [
+                "20_the movie resonates most as a story of approaching death -- the only mystery our hero can't solve.",
+                -0.640734883668314
+            ],
+            [
+                "27_ visually speaking, it looks like a blandly touching movie about a lonely old man who befriends a scrappy kid and learns about the magic of storytelling.",
+                0.6379197535654988
+            ],
+            [
+                "32_ he and his film come close just often enough.",
+                -0.5100640306237043
+            ],
+            [
+                "33_it belongs to what a friend of mine calls the toot-toot genre, which includes any period film or tv drama that starts with a shot of a steam train.",
+                0.51903895915079
+            ],
+            [
+                "36_while the good detective himself hobbles about with a cane, \"mr. holmes\" the movie glides smoothly back and forth across decades and continents as it follows these disparate plot strands through to their eminently logical conclusions.",
+                0.8055017581281492
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bill Condon": {
+                "args": [
+                    [
+                        "5_the best of it, as in condon's other movies, are the details of emotions, fleeting ",
+                        0.8456232472305223
+                    ],
+                    [
+                        "18_the movie, directed by bill condon, provides a showcase for mr. mckellen, who in real life is 76",
+                        0.7918150066279823
+                    ],
+                    [
+                        "21_director bill condon and screenwriter jeffrey hatcher are clueless, and come up with an incoherent, implausible, contrived mishmash.",
+                        -0.6540378929924393
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Sam Coulson": {
+                "args": []
+            },
+            "Colin Starkey": {
+                "args": []
+            },
+            "Madeleine Worrall": {
+                "args": []
+            },
+            "Oliver Devoti": {
+                "args": []
+            },
+            "Hiroyuki Sanada": {
+                "args": []
+            },
+            "Patrick Kennedy": {
+                "args": []
+            },
+            "Sarah Crowden": {
+                "args": []
+            },
+            "Frances Barber": {
+                "args": []
+            },
+            "Ian McKellen": {
+                "args": [
+                    [
+                        "1_ mckellen excels, switching effortlessly between the reclusive beekeeper with a faltering memory and the elegant younger detective at the height of his powers.",
+                        0.7805464336469095
+                    ],
+                    [
+                        "3_even those who've read the book can be startled by what happens in mr. holmes, while they're being moved by mckellen in a role he's come to late, ",
+                        0.5732040868463989
+                    ],
+                    [
+                        "6_ less a mystery solved than a character explored, fascinating in many small ways thanks to superb work from mckellen.",
+                        0.7742129459206675
+                    ],
+                    [
+                        "10_ they do serve as an adequate trellis for mr. mckellen's performance, which is gratifyingly ",
+                        0.5935256082008132
+                    ],
+                    [
+                        "14_and with mckellen at its center, his face as gloriously long and complex as a sir arthur conan doyle plot, it's also a master class in acting.",
+                        0.7594349693604238
+                    ],
+                    [
+                        "16_along with all the sighs and grunts, mckellen gives sherlock a rich inner life troubled by moral and existential doubts.",
+                        0.6559786610865989
+                    ],
+                    [
+                        "18_the movie, directed by bill condon, provides a showcase for mr. mckellen, who in real life is 76",
+                        0.7918150066279823
+                    ],
+                    [
+                        "19_sherlock holmes is a kind of detective superman, and what makes \"mr. holmes\" so intriguing - in addition to a terrific performance by ian mckellen as the title character - is seeing him facing his own personal kryptonite.",
+                        0.8422715460478787
+                    ],
+                    [
+                        "26_ there's no denying the fact that even when sitting through mr. holmes seems numbing, mr. mckellen is a force so powerful he's his own reward.",
+                        -0.5111400403067863
+                    ],
+                    [
+                        "28_amply rewards mckellen and holmes fans willing to go with its leisurely pace.",
+                        0.7695382036371027
+                    ],
+                    [
+                        "29_ian mckellen, magnificent as sherlock, brings us a riveting character study of a lion not going gentle into winter.",
+                        0.7917222577235313
+                    ],
+                    [
+                        "31_after his recent string of what feels like too many comic-book blockbusters, social-media memes and chat-show appearances, it's nice to see mckellen in a role that actually demands - and rewards - his acting abilities.",
+                        0.6651182850881789
+                    ]
+                ]
+            },
+            "Siobhan McSweeney": {
+                "args": []
+            },
+            "Nicholas Rowe": {
+                "args": []
+            },
+            "Mike Burnside": {
+                "args": []
+            },
+            "Kit Connor": {
+                "args": []
+            },
+            "Philip Davis": {
+                "args": []
+            },
+            "Spike White": {
+                "args": []
+            },
+            "Nicolas Rowe": {
+                "args": []
+            },
+            "Hermione Corfield": {
+                "args": []
+            },
+            "Zoe Rainey": {
+                "args": []
+            },
+            "Zak Shukor": {
+                "args": []
+            },
+            "Milo Parker": {
+                "args": [
+                    [
+                        "22_and the young parker holds his own in every scene he shares with his elder.",
+                        0.5793919260928027
+                    ]
+                ]
+            },
+            "Eileen Davies": {
+                "args": []
+            },
+            "Takako Akashi": {
+                "args": []
+            },
+            "Laura Linney": {
+                "args": []
+            },
+            "Hattie Morahan": {
+                "args": []
+            },
+            "Roger Allam": {
+                "args": []
+            },
+            "Michael Culkin": {
+                "args": []
+            },
+            "David Foxxe": {
+                "args": []
+            },
+            "John Sessions": {
+                "args": []
+            },
+            "Charles Maddox": {
+                "args": []
+            },
+            "Frances De La Tour": {
+                "args": []
+            },
+            "Charlie Maddox": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_ watching every moment of his performance is pure pleasure.",
+                0.7263080693667903
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Arthur Conan Doyle": {
+                "args": [
+                    [
+                        "14_and with mckellen at its center, his face as gloriously long and complex as a sir arthur conan doyle plot, it's also a master class in acting.",
+                        0.7594349693604238
+                    ],
+                    [
+                        "35_the film represents an agreeably old-fashioned alternative to all the modernized reinventions of arthur conan doyle's venerable detective in recent years.",
+                        0.7910539832780066
+                    ]
+                ]
+            },
+            "Jeffrey Hatcher": {
+                "args": [
+                    [
+                        "21_director bill condon and screenwriter jeffrey hatcher are clueless, and come up with an incoherent, implausible, contrived mishmash.",
+                        -0.6540378929924393
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "0_as someone who neither hungers for yet another incarnation of this character nor understands why anyone would, i watched in subdued bafflement.",
+                -0.7986913299962
+            ],
+            [
+                "6_mr. holmes adds another version of the beloved character to the sherlock canon",
+                0.5190610404856856
+            ],
+            [
+                "6_ less a mystery solved than a character explored, fascinating in many small ways thanks to superb work from mckellen.",
+                0.7742129459206675
+            ],
+            [
+                "19_sherlock holmes is a kind of detective superman, and what makes \"mr. holmes\" so intriguing - in addition to a terrific performance by ian mckellen as the title character - is seeing him facing his own personal kryptonite.",
+                0.8422715460478787
+            ],
+            [
+                "24_mckellen, who gets under the skin of every character he plays, takes sherlock in new directions.",
+                0.6387806219350953
+            ],
+            [
+                "29_ian mckellen, magnificent as sherlock, brings us a riveting character study of a lion not going gentle into winter.",
+                0.7917222577235313
+            ]
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Alex Tse": {
+                "args": [
+                    [
+                        "16_alex tse's script adheres to the basic outline of the original while sprinkling in some fresh touches.",
+                        0.688174104621027
+                    ],
+                    [
+                        "21_the nuance-free script, by alex tse, sometimes results in an unintentional laugh, ",
+                        0.5922911529470256
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the new superfly seems...like an embarrassing throwback.",
+                -0.567016290502756
+            ],
+            [
+                "1_for all its tossed-off flash, \"superfly\" goes beyond the mere intricacy of its audacious plotting to suggest the cruelty, the horror, and the deceit at the heart of the american body politic.",
+                0.6227625230515856
+            ],
+            [
+                "2_for all its pulpy, genre-movie intentions, superfly is virtually crippled by its own ludicrousness.",
+                0.5629861501507682
+            ],
+            [
+                "6_superfly has a long way to go to be considered a great movie, ",
+                0.6470561502288115
+            ],
+            [
+                "7_the new superfly isn't a great work of artistry or of cheap thrills - it's so in between",
+                0.5385728400603671
+            ],
+            [
+                "9_the film's strip-club-and-slo-mo aesthetic is yanked right out of any number of hip-hop videos - and also about as deep.",
+                -0.5631176204764785
+            ],
+            [
+                "10_superfly isn't challenging or groundbreaking, ",
+                -0.6080472942361344
+            ],
+            [
+                "12_-this movie is all about beautiful, pricey surfaces.",
+                0.5603988849330325
+            ],
+            [
+                "15_jackson's uninspiring performance only serves to highlight the film's other weaknesses, like the corny aphorisms that pepper its dialogue and the much-hyped soundtrack...",
+                0.5306498530275834
+            ],
+            [
+                "18_a bizarrely watchable and often funny confluence of thug life and b-movie campiness.",
+                0.6585467325349785
+            ],
+            [
+                "20_superfly is a visual treat that embellishes director x's signature kaleidoscopic visuals with an uncanny knack for storytelling.",
+                0.7773272964460792
+            ],
+            [
+                "21_ the film overall is more entertaining than not.",
+                0.5313555101121695
+            ],
+            [
+                "23_in the end, it feels as if both superfly and the audience got their money's worth.",
+                -0.5617729139507286
+            ],
+            [
+                "25_director x nods to the original movie ",
+                0.6142404923353392
+            ],
+            [
+                "29_in this film's 21st-century atlanta, \"the man\" never really manifests.",
+                0.5188883343056832
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "15_jackson's uninspiring performance only serves to highlight the film's other weaknesses, like the corny aphorisms that pepper its dialogue and the much-hyped soundtrack...",
+                0.5306498530275834
+            ]
+        ],
+        "entities": {
+            "Jennifer Morrison": {
+                "args": []
+            },
+            "Trevor Jackson": {
+                "args": [
+                    [
+                        "4_\"superfly\" escapes superficiality thanks largely to strong performances from jackson",
+                        0.8071849362757862
+                    ],
+                    [
+                        "14_in this misbegotten update, travis jackson is upstaged by his upswept hair.",
+                        -0.5169364297282455
+                    ],
+                    [
+                        "14_if hair could act, the jackson tresses would be up for a follicular oscar.",
+                        0.6241105124469075
+                    ]
+                ]
+            },
+            "Jason Mitchell": {
+                "args": [
+                    [
+                        "4_ jason mitchell as priest's workmanlike partner, eddie, and michael kenneth williams as priest's mentor, scatter.",
+                        0.5362661257896315
+                    ]
+                ]
+            },
+            "Andrea Londo": {
+                "args": []
+            },
+            "Omar Chaparro": {
+                "args": []
+            },
+            "Terayle Hill": {
+                "args": []
+            },
+            "Lex Scott Davis": {
+                "args": []
+            },
+            "Jacob Ming-Trent": {
+                "args": []
+            },
+            "Allen Maldonado": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "5_a more seasoned director of narrative features might've figured of how to sustain these high points.",
+                -0.5937167689505638
+            ],
+            [
+                "14_too bad director x gets lost in ambitions",
+                -0.8556875469625618
+            ],
+            [
+                "20_superfly is a visual treat that embellishes director x's signature kaleidoscopic visuals with an uncanny knack for storytelling.",
+                0.7773272964460792
+            ]
+        ],
+        "entities": {
+            "Director X.": {
+                "args": []
+            }
+        }
+    }
+}

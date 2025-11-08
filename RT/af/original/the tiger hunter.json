@@ -1,0 +1,74 @@
+{
+    "writer": {
+        "entities": {
+            "Sameer Asad Gardezi": {
+                "args": []
+            },
+            "Lena Khan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lena Khan": {
+                "args": [
+                    [
+                        "2_ few have been as laugh-out-loud delightful as \"the tiger hunter,\" a sparkling first feature by lena khan.",
+                        0.7584412387906254
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_as a feel good dramatic comedy, the tiger hunter hits most of the right notes while only sounding a few sour ones.",
+                0.6153795658014708
+            ],
+            [
+                "5_ the tiger hunter, with its pastiche of fish-out-of-water comedy and pointy collared shirts, ultimately feels weightless.",
+                -0.7372544269274143
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Danny Pudi": {
+                "args": []
+            },
+            "Kevin Pollak": {
+                "args": []
+            },
+            "Karen David": {
+                "args": []
+            },
+            "Iqbal Theba": {
+                "args": []
+            },
+            "Sam Page": {
+                "args": []
+            },
+            "Michael McMillian": {
+                "args": []
+            },
+            "Jon Heder": {
+                "args": []
+            },
+            "Rizwan Manji": {
+                "args": []
+            },
+            "Parvesh Cheena": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Joe Russo": {
+                "args": []
+            },
+            "Anthony Russo": {
+                "args": [
+                    [
+                        "2_the motto of the directors, anthony and joe russo, appears to be: if you can make it happen, do it.",
+                        0.6260818448907679
+                    ],
+                    [
+                        "34_kudos to co-directors anthony and joe russo and the team of writers for juggling more than a dozen comic-book characters and nearly that many plot lines, and only occasionally getting us (and by us i mean me) lost in the geek weeds.",
+                        -0.667777776486409
+                    ],
+                    [
+                        "52_directors anthony and joe russo continue to mine their experience with tv comedies, juggling all the members of their superhero family with a playful touch that both informs character interaction and delivers vital breathing room in between battles.",
+                        0.82400114205576
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "7_downey jr. persists in trying to give a real performance in these marvel movies, and, against all odds, succeeds.",
+                0.8117231951782427
+            ]
+        ],
+        "entities": {
+            "John Curran (IV)": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": []
+            },
+            "Scarlett Johansson": {
+                "args": []
+            },
+            "Umar Khan": {
+                "args": []
+            },
+            "Damion Poitier": {
+                "args": []
+            },
+            "Michael A. Cook": {
+                "args": []
+            },
+            "Daniel Brühl": {
+                "args": []
+            },
+            "John Slattery": {
+                "args": []
+            },
+            "Beniamino Brogi": {
+                "args": []
+            },
+            "Sebastian Stan": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": []
+            },
+            "Sophia Russo": {
+                "args": []
+            },
+            "Josh Peck": {
+                "args": []
+            },
+            "Alfre Woodard": {
+                "args": []
+            },
+            "Rafael Banasik": {
+                "args": []
+            },
+            "Sven Honig": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "Paul Bettany": {
+                "args": []
+            },
+            "Be Satrazemis": {
+                "args": []
+            },
+            "Chadwick Boseman": {
+                "args": [
+                    [
+                        "14_the players salvage this thing with their acting and awesome thighs, and the fun really kicks in when spider-man (tom holland), ant-man (paul rudd), and black panther (chadwick boseman) join the squabble in an exhilarating airport sequence.",
+                        0.6329646756765062
+                    ],
+                    [
+                        "23_that holds true here, up to and including charismatic newcomers chadwick boseman [and] tom holland.",
+                        0.5827876418040565
+                    ]
+                ]
+            },
+            "Gene Farber": {
+                "args": []
+            },
+            "Brent McGee": {
+                "args": []
+            },
+            "Chris Evans": {
+                "args": []
+            },
+            "Brett Gentile": {
+                "args": []
+            },
+            "Katie Amess": {
+                "args": []
+            },
+            "Blair Jasin": {
+                "args": []
+            },
+            "Oliver Bigalke": {
+                "args": []
+            },
+            "Amelia Morck": {
+                "args": []
+            },
+            "John Kani": {
+                "args": []
+            },
+            "Tom Holland (II)": {
+                "args": []
+            },
+            "Brian Schaeffer": {
+                "args": []
+            },
+            "Michael Anthony Rogers": {
+                "args": [
+                    [
+                        "2_the motto of the directors, anthony and joe russo, appears to be: if you can make it happen, do it.",
+                        0.6260818448907679
+                    ],
+                    [
+                        "34_kudos to co-directors anthony and joe russo and the team of writers for juggling more than a dozen comic-book characters and nearly that many plot lines, and only occasionally getting us (and by us i mean me) lost in the geek weeds.",
+                        -0.667777776486409
+                    ],
+                    [
+                        "52_directors anthony and joe russo continue to mine their experience with tv comedies, juggling all the members of their superhero family with a playful touch that both informs character interaction and delivers vital breathing room in between battles.",
+                        0.82400114205576
+                    ]
+                ]
+            },
+            "Cornell John": {
+                "args": []
+            },
+            "Kerry Condon": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Martin Freeman": {
+                "args": []
+            },
+            "Robert Downey Jr.": {
+                "args": []
+            },
+            "Elizabeth Olsen": {
+                "args": []
+            },
+            "Kim Scar": {
+                "args": []
+            },
+            "Laughton Parchment": {
+                "args": []
+            },
+            "Paul Rudd": {
+                "args": [
+                    [
+                        "24_when you include paul rudd as ant-man, how could it not be?",
+                        -0.5211510594075104
+                    ]
+                ]
+            },
+            "Jessica Walther-Gabory": {
+                "args": []
+            },
+            "Emily VanCamp": {
+                "args": []
+            },
+            "Ugochukwu Ani": {
+                "args": []
+            },
+            "Gozie Agbo": {
+                "args": []
+            },
+            "Surely Alvelo": {
+                "args": []
+            },
+            "Jim Rash": {
+                "args": []
+            },
+            "Florence Kasumba": {
+                "args": []
+            },
+            "Silvina Buchbauer": {
+                "args": []
+            },
+            "Guy Fernandez": {
+                "args": []
+            },
+            "William Hurt": {
+                "args": []
+            },
+            "Don Cheadle": {
+                "args": []
+            },
+            "David Brown": {
+                "args": []
+            },
+            "Frank Grillo": {
+                "args": []
+            },
+            "Henry Amadi": {
+                "args": []
+            },
+            "David Devries": {
+                "args": []
+            },
+            "Paul Austin Sanders": {
+                "args": []
+            },
+            "Hope Davis": {
+                "args": []
+            },
+            "Julianna Guill": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_it is one of the best movies to ever come out of the marvel cinematic universe, balancing engaging action set pieces and witty dialogue with intelligent character studies and ethical debates.",
+                0.8761247189081874
+            ],
+            [
+                "3_as they did in winter soldier, the russos have achieved an uncommon balance of plot and action, humor and drama, all of it once again deeply grounded in character.",
+                0.5618153677257289
+            ],
+            [
+                "11_the filmmakers ... understand that they've built up a vast ensemble of character types, all of them played by better-than-average actors, and that they can mix and match the drama, comedy, or action as they see fit.",
+                -0.5893288249998003
+            ],
+            [
+                "40_while it lacks the sense of surprise of [the last film], its mix of action, humor, effects, the introduction of a new character and the reintroduction of an old one strikes just the right tone for a film that is as much about marketing as moviemaking.",
+                0.785284398291223
+            ],
+            [
+                "52_directors anthony and joe russo continue to mine their experience with tv comedies, juggling all the members of their superhero family with a playful touch that both informs character interaction and delivers vital breathing room in between battles.",
+                0.82400114205576
+            ]
+        ],
+        "entities": {
+            "Christopher Markus": {
+                "args": []
+            },
+            "Stephen McFeely": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the fact that a marvel movie dares to question the big, shiny spectacle that is its bread and ",
+                0.6786056047559673
+            ],
+            [
+                "6_in the end this is a movie about friendships and conflict, and what can happen when the latter overwhelms the former.",
+                -0.6483338453502658
+            ],
+            [
+                "9_simply put, when it comes to juggling multiple superheroes in a single movie, marvel's latest comes close to setting the standard.",
+                -0.6652676400082291
+            ],
+            [
+                "19_ just the right shade of light and bright for a movie about superheroes fighting superheroes.",
+                0.7072184725468845
+            ],
+            [
+                "20_the good news is, most of them are fun, and there are enough rousing moments to elevate the movie to marvel's top tier.",
+                0.6659133092952396
+            ],
+            [
+                "28_the most impressive superpower on display in captain america: civil war... is the whole team's ability to give an escapist comic book movie an intelligent sense of connection to life in the modern world.",
+                0.870735743593996
+            ],
+            [
+                "30_downey is enough to make you think that an avengers movie with no action at all might still be good.",
+                -0.5143865358212427
+            ],
+            [
+                "33_if you do not count guardians of the galaxy -- because it remains an eccentric outlier -- civil war now easily ranks as the best movie in the marvel cinematic universe.",
+                0.8699665098650866
+            ],
+            [
+                "40_while it lacks the sense of surprise of [the last film], its mix of action, humor, effects, the introduction of a new character and the reintroduction of an old one strikes just the right tone for a film that is as much about marketing as moviemaking.",
+                0.785284398291223
+            ],
+            [
+                "41_the summer movie season has barely begun, and already the remedy for superhero film fatigue has arrived.",
+                -0.599208523530942
+            ],
+            [
+                "42_the third \"captain america\" film entertains relentlessly, which is to say loudly and busily, ",
+                -0.5209210747999338
+            ],
+            [
+                "43_civil war is both a captain america sequel and a third avengers movie, and that's more than any movie could possibly pull off.",
+                0.6726975237468955
+            ],
+            [
+                "44_marvel practically doubles the number of superheroes for this movie.",
+                0.5023542564212973
+            ],
+            [
+                "51_, and the third captain america movie is at its core a deep exploration of friendship and family and what sacrifices should be made to hold onto both.",
+                0.778972806628304
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

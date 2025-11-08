@@ -1,0 +1,315 @@
+{
+    "film": {
+        "args": [
+            [
+                "8_taken on its own terms, this isn't a bad little movie.",
+                -0.7586857385011072
+            ],
+            [
+                "12_in the second half ... the film degenerates into a desultory action movie as everybody starts creeping around trying to shoot one another.",
+                -0.6959713232738151
+            ],
+            [
+                "13_\"escobar: paradise lost\" plays more like greek tragedy than the kind of drug-war tale we'd get in a broader, bigger film, and that is no small part of the many reasons it works.",
+                0.8543646172950592
+            ],
+            [
+                "18_everyone in the theatre is thinking: given that i paid good money to learn about the world's most frightening cocaine king, why am i watching a movie about the world's most stupid canadian?",
+                -0.5686330266071133
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrea Di Stefano": {
+                "args": [
+                    [
+                        "7_the suspense that di stefano generates in the film's final hour is genuine, and the action gripping.",
+                        -0.5162292398053855
+                    ],
+                    [
+                        "14_escobar offers an odd mix of action movie, romantic melodrama and cautionary traveler's tale, which works better than it should thanks to del toro's fascinating performance and di stefano's assured, muscular helming.",
+                        0.819152978021626
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_ precise performance as a man who has made himself into a god.",
+                0.5363726139476785
+            ]
+        ],
+        "entities": {
+            "José Hernandez": {
+                "args": []
+            },
+            "Elkin Correa": {
+                "args": []
+            },
+            "Diana Roman DeDiaz": {
+                "args": []
+            },
+            "Henri Bravo": {
+                "args": []
+            },
+            "Brady Corbet": {
+                "args": []
+            },
+            "Luis Luján": {
+                "args": []
+            },
+            "Haiman Shabetay": {
+                "args": []
+            },
+            "Tenoch Huerta Mejía": {
+                "args": []
+            },
+            "Grismel Rangel": {
+                "args": []
+            },
+            "Daniel Bendis": {
+                "args": []
+            },
+            "Golan Shabetay": {
+                "args": []
+            },
+            "David Noreña": {
+                "args": []
+            },
+            "Reinaldo Jules": {
+                "args": []
+            },
+            "James Vibyral": {
+                "args": []
+            },
+            "Frank Spano": {
+                "args": []
+            },
+            "Zuisteen Gaitan": {
+                "args": []
+            },
+            "Marvis Pitti": {
+                "args": []
+            },
+            "Laura Londoño": {
+                "args": []
+            },
+            "Eduardo Helder Martinez": {
+                "args": []
+            },
+            "Adrian Morales": {
+                "args": []
+            },
+            "Richard Rimo Moreno": {
+                "args": []
+            },
+            "Ernesto Rothery": {
+                "args": []
+            },
+            "Oriel Cerrut": {
+                "args": []
+            },
+            "Rodrigo Farrugia": {
+                "args": []
+            },
+            "Julio Rueda": {
+                "args": []
+            },
+            "Lucho Gotti": {
+                "args": []
+            },
+            "Larry Diaz": {
+                "args": []
+            },
+            "Roger Rene Rodriguez": {
+                "args": []
+            },
+            "Paola Andrea Alvarez": {
+                "args": []
+            },
+            "Nyra Soberon Torchia": {
+                "args": []
+            },
+            "David Hart": {
+                "args": []
+            },
+            "Varón Pacheco": {
+                "args": []
+            },
+            "Mario Miranda": {
+                "args": []
+            },
+            "César Vargas": {
+                "args": []
+            },
+            "Jaime Correa": {
+                "args": []
+            },
+            "Eladio Aguilar": {
+                "args": []
+            },
+            "Maynor Pomaire": {
+                "args": []
+            },
+            "Giovany Pastor": {
+                "args": []
+            },
+            "Jorge Garcia": {
+                "args": []
+            },
+            "Jorge Castillo": {
+                "args": []
+            },
+            "Violet Kemble Cooper": {
+                "args": []
+            },
+            "Gabriel Lezcano": {
+                "args": []
+            },
+            "Gilbert Castro": {
+                "args": []
+            },
+            "Alexis Mitchell": {
+                "args": []
+            },
+            "Claudia Traisac": {
+                "args": []
+            },
+            "Manuel Gomez": {
+                "args": []
+            },
+            "Katterine Miranda": {
+                "args": []
+            },
+            "John Fredy Carmona": {
+                "args": []
+            },
+            "Josh Hutcherson": {
+                "args": []
+            },
+            "Gabriel Péréz Matteo": {
+                "args": []
+            },
+            "Jeily Alejandra Ramirez Ibañez": {
+                "args": []
+            },
+            "Eduardo DeLeon": {
+                "args": []
+            },
+            "Justin Goncalves": {
+                "args": []
+            },
+            "Jhon Velandia": {
+                "args": []
+            },
+            "Rasiel Rodriguez": {
+                "args": []
+            },
+            "Alex Quiroga": {
+                "args": []
+            },
+            "Alberto Saa": {
+                "args": []
+            },
+            "Ángel Gutiérrez": {
+                "args": []
+            },
+            "Rossana Uribe": {
+                "args": []
+            },
+            "Carlos Bardem": {
+                "args": []
+            },
+            "Hedras Urrego": {
+                "args": []
+            },
+            "Ernesto Leonardo Fields": {
+                "args": []
+            },
+            "Aaron Zebede": {
+                "args": []
+            },
+            "Javier Morales": {
+                "args": []
+            },
+            "Roberto Quintero": {
+                "args": []
+            },
+            "Micke Moreno": {
+                "args": []
+            },
+            "Ana Girardot": {
+                "args": []
+            },
+            "Benicio Del Toro": {
+                "args": [
+                    [
+                        "1_[del toro is] really very good here, as he almost always is, no matter the quality of the film around him.",
+                        0.6227156992661023
+                    ],
+                    [
+                        "2_when you have the fortune of landing an actor like del toro, it's almost criminal to spend so much time watching the scales fall from an innocent's eyes when we could be watching a master actor convey quiet, sleepy-eyed, mumbling menace.",
+                        0.5457486414684242
+                    ],
+                    [
+                        "3_ it's mr. del toro, face flickering from benevolent to vicious and body heaving with literal and symbolic weight, who seizes the film.",
+                        -0.5930552615605144
+                    ],
+                    [
+                        "4_the highlight here is benicio del toro's tamped-down ",
+                        -0.5753370630548844
+                    ],
+                    [
+                        "6_benicio del toro is a looming, larger-than life presence in this smaller-than-it-deserves, 1980s drama.",
+                        0.6107768348494342
+                    ],
+                    [
+                        "10_while the film captures some of the turbulence and tension during escobar's reign of terror, it leaves most of the coherence up to the always fascinating mr. del toro.",
+                        0.810462392191001
+                    ],
+                    [
+                        "11_when you've got benicio del toro playing pablo escobar, the rest is just icing on the cake.",
+                        -0.58351699033991
+                    ],
+                    [
+                        "14_escobar offers an odd mix of action movie, romantic melodrama and cautionary traveler's tale, which works better than it should thanks to del toro's fascinating performance and di stefano's assured, muscular helming.",
+                        0.819152978021626
+                    ],
+                    [
+                        "16_it's del toro who manages the strongest achievement, imbuing escobar with a creepy blend of charm and cruelty as he peers out from above a scrappy beard and orders death with ease.",
+                        0.690536342526856
+                    ],
+                    [
+                        "19_a genre film that gets a lift above mediocrity thanks to an overripe performance by benicio del toro as a slovenly, charismatic king of blow.",
+                        0.7771672848655866
+                    ]
+                ]
+            },
+            "Carlos Madrid": {
+                "args": []
+            },
+            "Emily Silverstrom": {
+                "args": []
+            },
+            "Mariluz Noto": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andrea Di Stefano": {
+                "args": []
+            }
+        }
+    }
+}

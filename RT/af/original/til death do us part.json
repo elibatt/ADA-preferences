@@ -1,0 +1,68 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chris Stokes": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_the fact that it ... succeeds as a domestic drama is a credit to both the filmmakers and cast, who appear totally committed to the cause.",
+                0.6605511672032536
+            ]
+        ],
+        "entities": {
+            "Rome Mubarak": {
+                "args": []
+            },
+            "Stephen Bishop": {
+                "args": []
+            },
+            "Annie Ilonzeh": {
+                "args": []
+            },
+            "Suzanne Whang": {
+                "args": []
+            },
+            "Dylan Mooney": {
+                "args": []
+            },
+            "Janet Lopez": {
+                "args": []
+            },
+            "Malik Yoba": {
+                "args": []
+            },
+            "Taye Diggs": {
+                "args": []
+            },
+            "Robinne Lee": {
+                "args": []
+            },
+            "Jessica Vanessa DeLeon": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Marques Houston": {
+                "args": []
+            },
+            "Chris Stokes": {
+                "args": []
+            }
+        }
+    }
+}

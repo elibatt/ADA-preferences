@@ -1,0 +1,171 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_let the sunshine in\" works because it's real, relatable and true to the heart.",
+                0.807976392081099
+            ],
+            [
+                "7_tilt it one way, and \"let the sunshine",
+                0.5066117099103242
+            ],
+            [
+                "11_the movie is all a bit more airy than it needs to be, ",
+                -0.5581752786999845
+            ],
+            [
+                "17_let the sunshine in moves between dialogue and carnal interludes with rhythmic fluidity.",
+                -0.5095057887850222
+            ],
+            [
+                "18_ the film's fascination lies less in its portraits of grievously flawed men than in its presentation of the heroine as a riddle for us to solve.",
+                0.7188635902628896
+            ],
+            [
+                "19_the film's confidence comes in part from the acceptance of the things that can't be known.",
+                0.6628415356710772
+            ],
+            [
+                "23_suffice it to say that the movie's mostly enjoyable, ",
+                0.7302295085992875
+            ],
+            [
+                "26_, this is complex, quietly symphonic work ...",
+                0.5970358665791625
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Claire Denis": {
+                "args": [
+                    [
+                        "0_they're saying this is the closest director claire denis has come to a romcom.",
+                        -0.5460987547758542
+                    ],
+                    [
+                        "1_it's a pleasure to go along with that ride - to watch binoche's face lighting up like a flower suddenly blooming, to enjoy denis' golden light and moody, nostalgic score.",
+                        0.8501681932183143
+                    ],
+                    [
+                        "4_ that's not the one co-writer and director claire denis presents. \"",
+                        0.5515896599579495
+                    ],
+                    [
+                        "9_a dry, lightly sad, and very french comedy of romantic neurosis, brought to us by two great artists, director claire denis and star juliette binoche.",
+                        0.5976807953041094
+                    ],
+                    [
+                        "15_ denis' film poses the questions: what if crises aren't limited to a certain age, and what if love itself is the crisis?",
+                        0.7065355176672551
+                    ],
+                    [
+                        "21_an existential whirlwind even when it seems sitcom-flippant, sunshine sees denis continuing on an elevated cinematic plane.",
+                        0.6969570219624096
+                    ],
+                    [
+                        "27_ surely works its charms, painting a rich, emotionally complex portrait of a woman who, like denis herself, will not let herself be boxed in.",
+                        0.6808809382975454
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Christine Angot": {
+                "args": []
+            },
+            "Claire Denis": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_ that's not the one co-writer and director claire denis presents. \"",
+                0.5515896599579495
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nicolas Duvauchelle": {
+                "args": []
+            },
+            "Juliette Binoche": {
+                "args": [
+                    [
+                        "1_it's a pleasure to go along with that ride - to watch binoche's face lighting up like a flower suddenly blooming, to enjoy denis' golden light and moody, nostalgic score.",
+                        0.8501681932183143
+                    ],
+                    [
+                        "2_if it weren't for binoche's warmth, the film might easily sink beneath the stereotype of french culture as overly talky and sex obsessed.",
+                        0.5183503394881723
+                    ],
+                    [
+                        "6_denis instinctively knows what will draw us in - for most of the movie it's binoche's face, so inviting, eager to soak up everything around her.",
+                        0.7861281197396033
+                    ],
+                    [
+                        "9_a dry, lightly sad, and very french comedy of romantic neurosis, brought to us by two great artists, director claire denis and star juliette binoche.",
+                        0.5976807953041094
+                    ],
+                    [
+                        "10_it's binoche, here delivering one of her finest and most subtly calibrated performances, who imbues isabelle with the heart and earthy eroticism that makes her far more appealing, even heroic, than the pathetic figure she might have been.",
+                        0.7814706845196877
+                    ],
+                    [
+                        "13_it's the great binoche performance of the decade.",
+                        0.8260950992841255
+                    ],
+                    [
+                        "17_the mostly nocturnal settings and sumptuous black and red palette intensify binoche's soulful sensuality.",
+                        0.569969215098219
+                    ],
+                    [
+                        "20_ms. binoche is the film's primary and sufficient source of light.",
+                        0.7475987362219434
+                    ],
+                    [
+                        "22_it had never occurred to me that watching juliette binoche turn men down for an hour and a half would be enough plot for a movie, let alone one so rich, hilarious and sensual.",
+                        -0.6933101005728904
+                    ],
+                    [
+                        "24_from the opening scene, a realistically messy tryst, binoche offers a flux of vulnerability and pragmatism...",
+                        0.6416899604519439
+                    ]
+                ]
+            },
+            "Claire Tran": {
+                "args": []
+            },
+            "Josiane Balasko": {
+                "args": []
+            },
+            "Gérard Depardieu": {
+                "args": []
+            },
+            "Alex Descas": {
+                "args": []
+            },
+            "Xavier Beauvois": {
+                "args": []
+            },
+            "Valeria Bruni Tedeschi": {
+                "args": []
+            },
+            "Paul Blain": {
+                "args": []
+            },
+            "Bruno Podalydès": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

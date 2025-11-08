@@ -1,0 +1,228 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Tyler Perry": {
+                "args": [
+                    [
+                        "0_ i get the feeling perry still doesn't know how to direct for the screen.",
+                        -0.7804087148580369
+                    ],
+                    [
+                        "1_maybe someday perry will make a good comedy for her.",
+                        0.7118554102245809
+                    ],
+                    [
+                        "2_mr. perry is ... an eccentric, inspired performer, and his screen-filling antics as the raucous ",
+                        0.5187898613830053
+                    ],
+                    [
+                        "2_ righteous madea - a character who runs through mr. perry's stage, film and tv work - is the truly pertinent component here.",
+                        -0.6488111363402563
+                    ],
+                    [
+                        "5_a madea halloween\" is rare for perry in that it's one of only two \"madea\" films not adapted from a stage play, ",
+                        0.7030907369582517
+                    ],
+                    [
+                        "7_as usual, this latest perry madea flick is all about laughs - nothing less and nothing more.",
+                        -0.5764182690327837
+                    ],
+                    [
+                        "8_it's another of perry's raucous and slovenly comedies of responsibility, which means that its heart is in a very old - and right - place.",
+                        0.749467450582284
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_scenes are repeated over and over, and some of the acting would not cut it in a school play.",
+                -0.7068656203501237
+            ]
+        ],
+        "entities": {
+            "Andre Hall": {
+                "args": []
+            },
+            "Liza Koshy": {
+                "args": []
+            },
+            "Adele Givens": {
+                "args": []
+            },
+            "Angela Ray": {
+                "args": []
+            },
+            "Michael Hampton": {
+                "args": []
+            },
+            "Jimmy Tatro": {
+                "args": []
+            },
+            "Kian Lawley": {
+                "args": []
+            },
+            "Andrew Rush": {
+                "args": []
+            },
+            "Joey Nappo": {
+                "args": []
+            },
+            "Cassi Davis": {
+                "args": []
+            },
+            "Lexy Panterra": {
+                "args": []
+            },
+            "Dominique": {
+                "args": []
+            },
+            "Coletrane Williams": {
+                "args": []
+            },
+            "Tyler Perry": {
+                "args": [
+                    [
+                        "0_ i get the feeling perry still doesn't know how to direct for the screen.",
+                        -0.7804087148580369
+                    ],
+                    [
+                        "1_maybe someday perry will make a good comedy for her.",
+                        0.7118554102245809
+                    ],
+                    [
+                        "2_mr. perry is ... an eccentric, inspired performer, and his screen-filling antics as the raucous ",
+                        0.5187898613830053
+                    ],
+                    [
+                        "2_ righteous madea - a character who runs through mr. perry's stage, film and tv work - is the truly pertinent component here.",
+                        -0.6488111363402563
+                    ],
+                    [
+                        "5_a madea halloween\" is rare for perry in that it's one of only two \"madea\" films not adapted from a stage play, ",
+                        0.7030907369582517
+                    ],
+                    [
+                        "7_as usual, this latest perry madea flick is all about laughs - nothing less and nothing more.",
+                        -0.5764182690327837
+                    ],
+                    [
+                        "8_it's another of perry's raucous and slovenly comedies of responsibility, which means that its heart is in a very old - and right - place.",
+                        0.749467450582284
+                    ]
+                ]
+            },
+            "Will Kommor": {
+                "args": []
+            },
+            "Lavell Crawford": {
+                "args": []
+            },
+            "Abraham Clinkscales": {
+                "args": []
+            },
+            "Bill Humphries": {
+                "args": []
+            },
+            "Jason Jamal Ligon": {
+                "args": []
+            },
+            "Brock O'Hurn": {
+                "args": []
+            },
+            "Patrice Lovely": {
+                "args": []
+            },
+            "Javon Johnson": {
+                "args": []
+            },
+            "Thomas Miles": {
+                "args": []
+            },
+            "Corey Holcomb": {
+                "args": []
+            },
+            "Diamond White": {
+                "args": []
+            },
+            "Khalib McAdams": {
+                "args": []
+            },
+            "Davison Willis": {
+                "args": []
+            },
+            "Yousef Erakat": {
+                "args": []
+            },
+            "Dee Dubois": {
+                "args": []
+            },
+            "Bella Thorne": {
+                "args": []
+            },
+            "Christine Horn": {
+                "args": []
+            },
+            "J.C. Caylen": {
+                "args": []
+            },
+            "Aaron Beelner": {
+                "args": []
+            },
+            "Jason Vail": {
+                "args": []
+            },
+            "Ahmed Zakzouk": {
+                "args": []
+            },
+            "RJ Shearer": {
+                "args": []
+            },
+            "Cody Griffis Griffis": {
+                "args": []
+            },
+            "Tyga": {
+                "args": []
+            },
+            "Cody Griffis": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_madea remains a distinctive, weirdly compelling character.",
+                0.6648206275820127
+            ],
+            [
+                "2_ righteous madea - a character who runs through mr. perry's stage, film and tv work - is the truly pertinent component here.",
+                -0.6488111363402563
+            ]
+        ],
+        "entities": {
+            "Tyler Perry": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_boo! is certainly the most watchable madea movie i've seen in a long time, even ",
+                0.5893164586303983
+            ],
+            [
+                "4_at 103 minutes, this film has way too much dead weight.",
+                -0.8240790745903572
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

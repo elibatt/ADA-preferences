@@ -1,0 +1,169 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_it's bleak business, and as it hurries toward its explosive, expository conclusion, the film becomes nonsensical, too.",
+                -0.6306328945120802
+            ],
+            [
+                "9_ the maze runner devolves into one of the weakest post-apocalyptic young adult movies to reach theaters in recent years.",
+                0.6662802373525569
+            ],
+            [
+                "12_ finally feels more like a long trailer than an involving movie.",
+                -0.551825691996344
+            ],
+            [
+                "13_by keeping its cards so close, \"the maze runner\" remains compelling.",
+                0.6153586263489343
+            ],
+            [
+                "18_sure, \"the maze runner\" unravels a few mysteries, ",
+                0.5466369499588376
+            ],
+            [
+                "20_those who hunger for more could do worse than \"the maze runner,\" based on the first book in james dashner's trilogy.",
+                0.5996982287552801
+            ],
+            [
+                "21_ until they start handing out free copies before the movie starts, that cannot be a requirement.",
+                -0.5895078357201899
+            ],
+            [
+                "25_what's intriguing about \"the maze runner\"-for a long time, at least-is the way it tells us a story we think we've heard countless times before ",
+                0.5772123824189263
+            ],
+            [
+                "26_there's a pleasantly low-fi, bare-bones kind of storytelling here, at least before the movie's mysteries are boringly explained - another apocalypse to parse.",
+                -0.5458808318381863
+            ],
+            [
+                "28_the maze runner bucks the conventions of its genre by functioning as a pure cliffhanger machine, fueled by mystery instead of melodrama.",
+                0.5304233447930617
+            ],
+            [
+                "29_rare is the movie based on a best-seller that is vastly superior to the book that inspired it. \"",
+                0.6946778402541323
+            ],
+            [
+                "29_the maze runner\" is just such a rarity.",
+                0.5545753643745738
+            ],
+            [
+                "31_as world-creation ya pictures go, \"the maze runner\" feels refreshingly low-tech and properly story-driven, based on james dashner's popular 2009 fantasy novel.",
+                0.7054585532431132
+            ],
+            [
+                "33_ the more we learn about thomas and teresa's shared nightmarish memories, and the closer the movie gets to its requisite \"to be continued\" climax, the less interesting it all seems.",
+                0.5934596170886796
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Wes Ball": {
+                "args": [
+                    [
+                        "5_ the film directed by wes ball bears many of the cruder markings of ya fiction.",
+                        0.5986555839780898
+                    ],
+                    [
+                        "10_director wes ball and his outstanding young cast work unusually hard to counter the derivative feel.",
+                        0.5233324962578952
+                    ],
+                    [
+                        "21_wes ball's film version of the popular young-adult novel by james dashner never makes much sense.",
+                        -0.5247121446700642
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dexter Darden": {
+                "args": []
+            },
+            "Chris Sheffield": {
+                "args": []
+            },
+            "Patricia Clarkson": {
+                "args": []
+            },
+            "Thomas Sangster": {
+                "args": []
+            },
+            "Alexander Flores": {
+                "args": []
+            },
+            "Joe Adler": {
+                "args": []
+            },
+            "Ki Hong Lee": {
+                "args": []
+            },
+            "Aml Ameen": {
+                "args": []
+            },
+            "Will Poulter": {
+                "args": []
+            },
+            "Dylan O'Brien (II)": {
+                "args": [
+                    [
+                        "14_and he elicits a hair-trigger performance from o'brien.",
+                        0.5481955307461401
+                    ]
+                ]
+            },
+            "Kaya Scodelario": {
+                "args": []
+            },
+            "Don R. McManus": {
+                "args": []
+            },
+            "Randall Cunningham": {
+                "args": []
+            },
+            "Jacob Latimore": {
+                "args": []
+            },
+            "Blake Cooper": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_director wes ball and his outstanding young cast work unusually hard to counter the derivative feel.",
+                0.5233324962578952
+            ],
+            [
+                "15_everything looks great, from the cast to the setting to the beasties, and the pacing gives the characters room to live and breathe.",
+                0.6344602781863014
+            ],
+            [
+                "30_i couldn't help getting hooked by the combination of fine acting, intriguing premise and riveting scenery -- even if the story, at times, was a bit too easy.",
+                0.7531302349055665
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Noah Oppenheim": {
+                "args": []
+            },
+            "Grant Pierce Myers": {
+                "args": []
+            },
+            "T.S. Nowlin": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

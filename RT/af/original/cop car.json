@@ -1,0 +1,180 @@
+{
+    "acting": {
+        "entities": {
+            "Chuck Kull": {
+                "args": []
+            },
+            "Lily Heber": {
+                "args": []
+            },
+            "Cooter Heber": {
+                "args": []
+            },
+            "James Freedson-Jackson": {
+                "args": []
+            },
+            "Sit Lenh": {
+                "args": []
+            },
+            "Sean Hartley": {
+                "args": []
+            },
+            "Loi Nguyen": {
+                "args": []
+            },
+            "Justin Barr": {
+                "args": []
+            },
+            "Joseph Oliveira": {
+                "args": []
+            },
+            "Kathleen Bentley": {
+                "args": []
+            },
+            "Hays Wellford": {
+                "args": []
+            },
+            "Kevin Bacon": {
+                "args": []
+            },
+            "Kyra Sedgwick": {
+                "args": []
+            },
+            "Shea Whigham": {
+                "args": []
+            },
+            "Camryn Manheim": {
+                "args": []
+            },
+            "Thomas Coates": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Christopher Ford": {
+                "args": []
+            },
+            "Jon Watts": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_[cop car] doesn't offer much in the way of substantial character development, ",
+                -0.7434532055237293
+            ],
+            [
+                "2_anchored by solid performances and a taut script, cop car is a tension-filled thrill ride.",
+                0.7390995239426768
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_[cop car] doesn't offer much in the way of substantial character development, ",
+                -0.7434532055237293
+            ],
+            [
+                "0_ that's not a deterrent when the fun twists keep coming.",
+                0.6098785414012674
+            ],
+            [
+                "2_anchored by solid performances and a taut script, cop car is a tension-filled thrill ride.",
+                0.7390995239426768
+            ],
+            [
+                "3_ cop car is an arresting ride.",
+                0.5879593908447467
+            ],
+            [
+                "4_[cop car features] the most evil monologue of the year.",
+                -0.5081273106523583
+            ],
+            [
+                "5_\"cop car\" has two kids at its center, ",
+                0.5026010672252049
+            ],
+            [
+                "5_ don't mistake this taut, wicked little thriller for a children's film.",
+                -0.5619441053528269
+            ],
+            [
+                "7_bacon can play just about anything, and he's having a good time here as a guy not quite smart enough to keep himself out of trouble, ",
+                0.5265451824953653
+            ],
+            [
+                "8_\"cop car\" builds up a nice, suspenseful head of steam, mixing dark comedy and true creepiness in such a way that one mood never overwhelms the other.",
+                0.7054870608117413
+            ],
+            [
+                "9_ the film avoids self-importance.",
+                0.5695381671117489
+            ],
+            [
+                "10_cop car is a movie that prioritizes a child's-eye view to merciless effect, even as it deals with corruption, drugs, and murder.",
+                0.6314096883449938
+            ],
+            [
+                "13_cop car feels like a great short stretched into a mediocre feature.",
+                -0.5845324663497693
+            ],
+            [
+                "14_part of what makes \"cop car\" such easy viewing is that it doesn't ask much of you narratively or ethically.",
+                0.6074753294424368
+            ],
+            [
+                "16_watts demonstrates a sadistic patience that's refreshing, especially compared to the usual blockbuster breathlessness.",
+                0.8137894834799062
+            ],
+            [
+                "17_scenes that should take 30 seconds take three minutes.",
+                -0.6177322104924132
+            ],
+            [
+                "18_ \"cop car\" keeps a boyish sense of action and adventure through to a twist ending.",
+                -0.5024907198347734
+            ],
+            [
+                "19_the film soars early as a fantasy steeped in life and crashes into a drag of a crime drama, one ripped from the movies rather than anyone's idea of small-town colorado.",
+                0.5778732915491847
+            ],
+            [
+                "21_a potentially fun premise soon turns into no fun at all in cop car, a seriously imagination-challenged low-end action thriller.",
+                -0.7755235701728748
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jon Watts": {
+                "args": [
+                    [
+                        "6_with his sense of black humor and with a coldly calculating view of a world determined by intransigent laws of physics, watts recalls the coen brothers of \"blood simple.\"",
+                        0.7683728027695788
+                    ],
+                    [
+                        "11_the plot description is a good old-fashioned okey-doke, a distraction that lulls you with its absurdity so you'll be blindsided by the lean, suspenseful and effective movie director jon watts delivers.",
+                        0.8668224810956938
+                    ],
+                    [
+                        "12_there's no denying watts' skill at a certain kind of desolate cat and mouse, ",
+                        0.6373282393243068
+                    ],
+                    [
+                        "17_writer-director jon watts does successfully channel childhood, ",
+                        0.596343707567767
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

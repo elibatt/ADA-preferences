@@ -1,0 +1,70 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_at a long two hours, the film gets as repetitive as the tide.",
+                -0.6721287834888323
+            ],
+            [
+                "3_in the end, that ride isn't worth the work it takes to get there.",
+                -0.7023347103590423
+            ],
+            [
+                "5_if it's a quality film about surfing you crave, track down john milius' big wednesday.",
+                -0.5129259171268855
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rory Kennedy": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Laird Hamilton": {
+                "args": [
+                    [
+                        "1_the film may not shed any new light on hamilton, ",
+                        0.7503784369195772
+                    ],
+                    [
+                        "3_the film's last shot is a gasp-inducing long look at hamilton triumphantly skimming across a wave for what seems like minutes.",
+                        -0.5678605171695678
+                    ],
+                    [
+                        "4_the life of laird hamilton\" doesn't exactly wade deep into the psyche of the legendary surfer, ",
+                        0.7127425282039949
+                    ]
+                ]
+            },
+            "Gabrielle Reece": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_a character study more than anything else.",
+                0.5284654714527959
+            ]
+        ],
+        "entities": {
+            "Jack Youngelson": {
+                "args": []
+            },
+            "Mark Bailey": {
+                "args": []
+            }
+        }
+    }
+}

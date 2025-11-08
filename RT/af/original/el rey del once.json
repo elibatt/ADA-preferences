@@ -1,0 +1,83 @@
+{
+    "writer": {
+        "entities": {
+            "Daniel Burman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dalmiro Burman": {
+                "args": [
+                    [
+                        "4_in his lovely new film, argentine director daniel burman mixes reality with fiction in inventive ways.",
+                        0.8505937423802906
+                    ],
+                    [
+                        "6_this low-key romantic comedy marks a return to one of burman's oft-repeated themes -- a son coming to grips with his relationship with his father -- and to the setting of one of his most successful features, lost embrace.",
+                        0.731179553701916
+                    ]
+                ]
+            },
+            "Dan Breitman": {
+                "args": []
+            },
+            "Uriel Rubin": {
+                "args": []
+            },
+            "Julieta Zylberberg": {
+                "args": []
+            },
+            "Elvira Onetto": {
+                "args": []
+            },
+            "Adrián Stoppelman": {
+                "args": []
+            },
+            "Elisa Carricajo": {
+                "args": []
+            },
+            "Alan Sabbagh": {
+                "args": []
+            },
+            "Usher Barilka": {
+                "args": []
+            },
+            "Daniel Droblas": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the humor of this rambling film runs dry to the point of unpalatable.",
+                -0.5812469638138907
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Daniel Burman": {
+                "args": [
+                    [
+                        "4_in his lovely new film, argentine director daniel burman mixes reality with fiction in inventive ways.",
+                        0.8505937423802906
+                    ],
+                    [
+                        "6_this low-key romantic comedy marks a return to one of burman's oft-repeated themes -- a son coming to grips with his relationship with his father -- and to the setting of one of his most successful features, lost embrace.",
+                        0.731179553701916
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "writer": {
+        "entities": {
+            "Aaron Sorkin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_while the script crackles and excites, the film itself is profoundly uncinematic.",
+                -0.5953477820499166
+            ],
+            [
+                "2_if you're fond of sorkin's script flourishes, then molly's game is for you.",
+                -0.5889355013151131
+            ],
+            [
+                "10_the quality of the screenplay takes a back seat to its quantity, and the direction never brings it to life.",
+                0.65008892827063
+            ],
+            [
+                "20_a sharply judged edit stitches together three separate timelines, shaping molly as a complex and razor-sharp character in a world dominated by entitled mansplainers.",
+                0.7489464677860281
+            ],
+            [
+                "21_ that's the nature of her character.",
+                0.610186932963686
+            ],
+            [
+                "31_as a director, sorkin mostly (and wisely) stays out of the way of his screenplay, composing shots with an eye toward how they'll likely be shaped in the editing room, based primarily on verbal rhythms.",
+                0.6400761890809484
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michael Cera": {
+                "args": []
+            },
+            "Bill Camp": {
+                "args": []
+            },
+            "Kevin Costner": {
+                "args": []
+            },
+            "Jessica Chastain": {
+                "args": [
+                    [
+                        "8_few actors on the planet can shift gears as effortlessly as chastain, who perfectly captures molly's chameleon-like ability to adapt to situations and to rationalize her worst behavior.",
+                        -0.5983949764589017
+                    ],
+                    [
+                        "9_it's fun enough to watch chastain's bloom find her way, making things up she goes along.",
+                        -0.5223529287363067
+                    ],
+                    [
+                        "11_despite ms. chastain's charisma and gift for delivering mr. sorkin's fast talk,",
+                        0.7573735911080992
+                    ],
+                    [
+                        "13_star jessica chastain proves as eloquent in silence as she does in speech and deals audiences a winning hand.",
+                        0.8506560448836102
+                    ],
+                    [
+                        "16_sorkin's reputation for crisp, rat-a-tat dialogue is well deserved, and he has an intriguing protagonist in chastain's molly bloom.",
+                        0.7476234092436638
+                    ],
+                    [
+                        "18_words and cards are dealt in equal hand with aaron sorkin's poker drama molly's game, featuring jessica chastain at the center of a compelling film about fame, power and empathy.",
+                        0.7503827463660426
+                    ],
+                    [
+                        "21_ms. chastain has burnished a reputation as a passionate actress (\"zero dark thirty,\" \"the tree of life\") who's also brilliant technically, and this adds to it",
+                        0.6180009642480055
+                    ],
+                    [
+                        "29_\" he and jessica chastain make a winning pair.",
+                        0.7510420989779893
+                    ],
+                    [
+                        "30_it's too bad that chastain's heady, exquisitely subtle performance is dragged down by the laughably vehement male characters that seek to speak for her.",
+                        -0.7926941400337015
+                    ],
+                    [
+                        "38_a dense, dynamic, compulsively entertaining affair, whose central role makes stunning use of chastain's stratospheric talent.",
+                        0.7702166667727868
+                    ]
+                ]
+            },
+            "Idris Elba": {
+                "args": []
+            },
+            "Jeremy Strong": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_chastain, who's in nearly every frame of the film, delivers an impressively intense, hammered-down performance.",
+                0.6539784330864187
+            ],
+            [
+                "37_, sorkin both entertains and makes you lean in to absorb every detail of this wild tale, which boasts a stellar cast to help tell it.",
+                0.7273813794634307
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_while the script crackles and excites, the film itself is profoundly uncinematic.",
+                -0.5953477820499166
+            ],
+            [
+                "1_most of the arias in molly's game don't achieve liftoff, and so neither does the movie.",
+                -0.7878958547364793
+            ],
+            [
+                "19_chastain, who's in nearly every frame of the film, delivers an impressively intense, hammered-down performance.",
+                0.6539784330864187
+            ],
+            [
+                "20_forget rounders -- here's a poker movie to go all-in on.",
+                -0.564580317048775
+            ],
+            [
+                "22_\"molly's game,\" the new high-stakes poker movie, is a pretty safe bet.",
+                0.7443388030300069
+            ],
+            [
+                "23_the movie version of a card player who doesn't know how to quit when she's ahead.",
+                -0.7352038515553967
+            ],
+            [
+                "27_ as it is, it's a good movie overstuffed.",
+                0.6855366440505684
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Aaron Sorkin": {
+                "args": [
+                    [
+                        "2_if you're fond of sorkin's script flourishes, then molly's game is for you.",
+                        -0.5889355013151131
+                    ],
+                    [
+                        "4_ this is sorkin's directing de",
+                        -0.5124934554090728
+                    ],
+                    [
+                        "7_\" it's a question sorkin should have anticipated.",
+                        -0.5981820787172494
+                    ],
+                    [
+                        "11_despite ms. chastain's charisma and gift for delivering mr. sorkin's fast talk,",
+                        0.7573735911080992
+                    ],
+                    [
+                        "13_aaron sorkin's directorial de",
+                        0.5595417372037846
+                    ],
+                    [
+                        "14_nothing and no one seems to be holding [sorkin] back, for better and for worse.",
+                        -0.7239815694386251
+                    ],
+                    [
+                        "17_word-pusher aaron sorkin makes his de",
+                        0.505544746450347
+                    ],
+                    [
+                        "18_words and cards are dealt in equal hand with aaron sorkin's poker drama molly's game, featuring jessica chastain at the center of a compelling film about fame, power and empathy.",
+                        0.7503827463660426
+                    ],
+                    [
+                        "27_\"molly's game\" could have been a terrific movie if sorkin could have edited out 20-30 minutes",
+                        -0.5402328561044254
+                    ],
+                    [
+                        "28_it's tempting to say that the real star here is sorkin, since he's put the dialogue so front and center, basing the film on it.",
+                        -0.6576496960081757
+                    ],
+                    [
+                        "29_aaron sorkin is one of a kind.",
+                        0.765900413193012
+                    ],
+                    [
+                        "31_as a director, sorkin mostly (and wisely) stays out of the way of his screenplay, composing shots with an eye toward how they'll likely be shaped in the editing room, based primarily on verbal rhythms.",
+                        0.6400761890809484
+                    ],
+                    [
+                        "34_the frequent pleasures of molly's game more than make up for the occasional lapse into sorkin indulgence.",
+                        0.6618954263640144
+                    ],
+                    [
+                        "37_, sorkin both entertains and makes you lean in to absorb every detail of this wild tale, which boasts a stellar cast to help tell it.",
+                        0.7273813794634307
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_it's all good stuff, delivered by a director who knows how to get the most out of performers speaking his words.",
+                0.5995487193955412
+            ],
+            [
+                "17_ as a director, and whaddya know, he directs a lot like he writes: fast and smooth, bordering on slick.",
+                0.595624993330562
+            ]
+        ]
+    }
+}

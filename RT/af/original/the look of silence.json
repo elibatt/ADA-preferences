@@ -1,0 +1,154 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"the look of silence\" is so disturbing because so few people in it seem disturbed.",
+                -0.5243516850199756
+            ],
+            [
+                "4_the look of silence couldn't possibly equal its predecessor, ",
+                -0.5419436946356743
+            ],
+            [
+                "5_\"the look of silence\" is painful and unforgettable - a serious and honorable form, perhaps the highest, of \"gotcha\" journalism imaginable.",
+                -0.5029099069106138
+            ],
+            [
+                "7_a ... profoundly shattering movie.",
+                0.5112609707394854
+            ],
+            [
+                "9_my relief in watching this movie, which once again recounts the slaughters in great, almost fetishistic detail, is that at least the victims are allowed a voice this time.",
+                0.5250200903654443
+            ],
+            [
+                "11_the film is all the more potent for its restraint, as constant on the mind as the cicadas that sound throughout the unyielding night.",
+                0.8433317130884925
+            ],
+            [
+                "12_a shocking and significant film, a further illumination of one of recent history's great horrors, a documentary that will make a difference in the world.",
+                0.83216448170919
+            ],
+            [
+                "12_it is also an exceptionally difficult film to actually watch.",
+                -0.6339214882955092
+            ],
+            [
+                "13_in a way, i wish i'd never seen \"the look of silence,\" because now i won't be able to forget it.",
+                -0.5285538065065211
+            ],
+            [
+                "14_the look of silence in some ways manages to burrow deeper into your soul...and your nightmares.",
+                0.6191957748541759
+            ],
+            [
+                "16_\"the look of silence\" is a simpler work than \"the act of killing,\" and a better one.",
+                0.6483355842931148
+            ],
+            [
+                "19_ this atmosphere has the effect of making the violence at the film's heart all the more shocking.",
+                0.6780898521508735
+            ],
+            [
+                "20_the look of silence ... uses members of a single family to represent the millions of victims and survivors.",
+                0.5885508651321
+            ],
+            [
+                "21_the look of silence is a powerful gesture of political rebellion, one whose boldest action isn't damning mass murderers to their faces, ",
+                0.7107887710866743
+            ],
+            [
+                "23_if it's a far less flashy film than the act of killing, it's also a better and possibly more honest one.",
+                0.7007909648488727
+            ],
+            [
+                "24_while not as mind-blowing or surprising as \"killing,\" \"the look of silence\" is perhaps the more necessary film.",
+                0.5453032277096972
+            ],
+            [
+                "27_what a combination of misery and uplift this movie is.",
+                0.5000827041008529
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Joshua Oppenheimer": {
+                "args": [
+                    [
+                        "0_ oppenheimer and adi manage to locate a lightness as well that lessens the burden.",
+                        0.590748862191098
+                    ],
+                    [
+                        "15_a superior work of confrontational boldness, it might be the movie oppenheimer wanted to make in the first place.",
+                        -0.520228466753345
+                    ],
+                    [
+                        "25_feels more like an extended dvd extra to oppenheimer's genre-defying previous film than a stand-alone documentary.",
+                        0.5431845411069857
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_there's a rage far beneath adi's placid expression and the director's dispassionate style.",
+                0.6274321374265712
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Amir Siahaan": {
+                "args": []
+            },
+            "Amir Hasan": {
+                "args": []
+            },
+            "Adi Rukun": {
+                "args": []
+            },
+            "Joshua Oppenheimer": {
+                "args": [
+                    [
+                        "0_ oppenheimer and adi manage to locate a lightness as well that lessens the burden.",
+                        0.590748862191098
+                    ],
+                    [
+                        "15_a superior work of confrontational boldness, it might be the movie oppenheimer wanted to make in the first place.",
+                        -0.520228466753345
+                    ],
+                    [
+                        "25_feels more like an extended dvd extra to oppenheimer's genre-defying previous film than a stand-alone documentary.",
+                        0.5431845411069857
+                    ]
+                ]
+            },
+            "Kemat": {
+                "args": []
+            },
+            "Ted Yates": {
+                "args": []
+            },
+            "M.Y. Basrun": {
+                "args": []
+            },
+            "Inong": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Joshua Oppenheimer": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

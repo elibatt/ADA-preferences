@@ -1,0 +1,210 @@
+{
+    "acting": {
+        "args": [
+            [
+                "17_given her most challenging leading role in a film since her oscar-nominated performance 15 years ago in frida, the actress creates a complex portrait of a person's emotional unravelling.",
+                0.8029232337564541
+            ]
+        ],
+        "entities": {
+            "John Lithgow": {
+                "args": [
+                    [
+                        "0_ she's also more than a bit unhinged - and lithgow is so good at playing ceo oiliness that you have to smile.",
+                        0.7144745931376599
+                    ],
+                    [
+                        "18_hayek turns beatriz into her own breed of wonder woman, lithgow's strutt is definitely a super villain of sorts and their head-to-head battle is clearly worth seeing even if, in real life, it has only begun.",
+                        0.8056350227295482
+                    ]
+                ]
+            },
+            "Chloë Sevigny": {
+                "args": []
+            },
+            "Amy Landecker": {
+                "args": []
+            },
+            "Jay Duplass": {
+                "args": []
+            },
+            "Salma Hayek": {
+                "args": [
+                    [
+                        "8_as touching as hayek's performance is, \"beatriz at dinner\" too often forsakes nuance for caricature ...",
+                        0.7949409465128043
+                    ],
+                    [
+                        "13_ the frequent, steady close-ups of hayek's eyes, as they slowly harden.",
+                        0.5716757116610003
+                    ],
+                    [
+                        "16_salma hayek gives the performance of her career in this stealth weapon of a comedy from director miguel arteta and screenwriter mike white.",
+                        0.741819108842996
+                    ],
+                    [
+                        "17_the movie ultimately belongs to hayek.",
+                        0.5241483335509008
+                    ],
+                    [
+                        "20_the seriousness of its themes in no way detracts from the delight in watching ms. hayek and mr. lithgow perform their eccentric, intricate dance.",
+                        0.745557438740607
+                    ],
+                    [
+                        "28_this might be the best performance salma hayek has ever given, her quiet, observant reserve eventually giving way to bewilderment and resolve.",
+                        0.7910594219346935
+                    ],
+                    [
+                        "32_ elegantly deft squirmfest that features a luminous performance by salma hayek.",
+                        0.7365466038616133
+                    ]
+                ]
+            },
+            "David Warshofsky": {
+                "args": []
+            },
+            "Connie Britton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"beatriz at dinner\" is an insanely heavy-handed liberal fantasy that both sides of the aisle can come together to equally hate.",
+                0.5651734888176524
+            ],
+            [
+                "2_\"beatriz at dinner\" is a meal of a film, with plenty to chew on.",
+                0.6696700624028187
+            ],
+            [
+                "3_the menu for \"beatriz at dinner\" is more appetizer than main course.",
+                -0.5027041914851705
+            ],
+            [
+                "5_beatriz at dinner works well beyond both lecture or lesson because of the care and attention everyone has put into the people that play them out.",
+                0.8067032343975697
+            ],
+            [
+                "6_as obvious as the movie's intent and execution are, it gnaws at the conscience thanks to the brilliance of the lead performances.",
+                0.8187301528888113
+            ],
+            [
+                "11_the real power of \"beatriz at dinner\" is that it isn't about politics ",
+                -0.6086117592826034
+            ],
+            [
+                "12_in a mere 83 minutes, \"beatriz at dinner\" gets close to the heart of the matter.",
+                -0.5181418455534248
+            ],
+            [
+                "13_it's a film filled with unexpected beauty: the \"wishing lanterns\" that giddy guests send up into the night sky",
+                0.8077076481271257
+            ],
+            [
+                "14_, the movie grows limber, ambiguous, and twice as interesting, and the sermon goes astray.",
+                -0.5006668991077764
+            ],
+            [
+                "17_given her most challenging leading role in a film since her oscar-nominated performance 15 years ago in frida, the actress creates a complex portrait of a person's emotional unravelling.",
+                0.8029232337564541
+            ],
+            [
+                "22_the film's failure to launch is all the more disappointing given the talent on both sides of the camera.",
+                0.606462274544563
+            ],
+            [
+                "25_this queasily funny and suspenseful movie is more than a smirking exercise in ideological deck stacking, and to praise it for its political relevance would be to understate its subtlety and specificity.",
+                0.6729365871319464
+            ],
+            [
+                "31_a flawed work, too broad and scattershot to skewer its deserving targets with the precision necessary for the task.",
+                0.5347314474007492
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Miguel Arteta": {
+                "args": [
+                    [
+                        "4_together, screenwriter mike white and his enlightened director miguel arteta have an almost magical way with light-touch verbal sparring, an art that's become lost in today's broad, banter-filled comedies.",
+                        0.8314145872333338
+                    ],
+                    [
+                        "10_through white's script and arteta's smooth direction, most characters get a hard drubbing and a fair hearing.",
+                        0.6284567552211489
+                    ],
+                    [
+                        "16_salma hayek gives the performance of her career in this stealth weapon of a comedy from director miguel arteta and screenwriter mike white.",
+                        0.741819108842996
+                    ],
+                    [
+                        "19_the discomfort that arteta elicits serves a purpose and is buoyed by a few very funny moments.",
+                        0.6406431914652656
+                    ],
+                    [
+                        "27_a film often smartly attuned to language, beatriz at dinner - a sober comedy about class clash and soft-to-hard racism directed by miguel arteta and written by mike white - operates in several different idioms.",
+                        0.7836622640504332
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_ he seems to think that planting a character like beatriz in front of a stand-in for the president is enough.",
+                0.555715338963249
+            ],
+            [
+                "30_white's script is well crafted as a grim chamber piece, ",
+                0.5431316080262831
+            ]
+        ],
+        "entities": {
+            "Mike White": {
+                "args": [
+                    [
+                        "4_together, screenwriter mike white and his enlightened director miguel arteta have an almost magical way with light-touch verbal sparring, an art that's become lost in today's broad, banter-filled comedies.",
+                        0.8314145872333338
+                    ],
+                    [
+                        "7_screenwriter mike white aims for social satire ",
+                        0.5935651517101634
+                    ],
+                    [
+                        "10_through white's script and arteta's smooth direction, most characters get a hard drubbing and a fair hearing.",
+                        0.6284567552211489
+                    ],
+                    [
+                        "16_salma hayek gives the performance of her career in this stealth weapon of a comedy from director miguel arteta and screenwriter mike white.",
+                        0.741819108842996
+                    ],
+                    [
+                        "24_this is a more anguished film than anything white has written recently, not least because current events can't help ",
+                        0.5629861709800499
+                    ],
+                    [
+                        "26_ beatriz at dinner goes for its share of low blows against the vapidly white and well-to-do ... its small pleasures lie in the way it sidesteps cheap caricature.",
+                        0.7286997992327453
+                    ],
+                    [
+                        "27_a film often smartly attuned to language, beatriz at dinner - a sober comedy about class clash and soft-to-hard racism directed by miguel arteta and written by mike white - operates in several different idioms.",
+                        0.7836622640504332
+                    ],
+                    [
+                        "29_ effective piece of inspired artistry, including two sharp performances working from mike white's tight script.",
+                        0.7762705329663433
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "acting": {
+        "args": [
+            [
+                "12_dalio, who is bipolar himself, takes his portrayal of the illness very seriously and leaves very little room for light-heartedness.",
+                -0.6162930716339712
+            ]
+        ],
+        "entities": {
+            "Katie Holmes": {
+                "args": [
+                    [
+                        "13_\"touched with fire\" is an actor's field day, and both mr. kirby and ms. holmes boldly meet the challenge of playing bright, high-strung artists struggling with depression.",
+                        0.8797537597311863
+                    ]
+                ]
+            },
+            "Griffin Dunne": {
+                "args": []
+            },
+            "Bruce Altman": {
+                "args": []
+            },
+            "Luke Kirby": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_dalio's script doesn't always flow as smoothly as the camera work, ",
+                -0.511448757135641
+            ],
+            [
+                "2_\"touched with fire\" is effective in showing the intensity of a new relationship and the barriers people build up around themselves when they take on an us-against-the-world mentality.",
+                0.7844157670392602
+            ],
+            [
+                "3_\"touched with fire\" raises multiple topics of discussion, then avoids eye contact when it's time for the actual conversation.",
+                0.6908498817325023
+            ],
+            [
+                "4_dalio, who based the film (his directing de",
+                0.6485796191053635
+            ],
+            [
+                "9_the production values and melodrama sometimes seem better suited for a small-screen movie.",
+                -0.5314240951893197
+            ],
+            [
+                "11_touched with fire has something to say about a thorny, serious subject, ",
+                0.5443343736586773
+            ],
+            [
+                "14_the film has good intentions, straining to allow both the howls of creativity and rational pleas for treatment to ring out.",
+                0.6012303045516914
+            ],
+            [
+                "16_the film is courageous and accomplished, beautifully acted and moving for long, fitful passages.",
+                0.7346676364839378
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Paul Dalio": {
+                "args": [
+                    [
+                        "0_written, directed, edited, scored, and partially lived by bipolar filmmaker paul dalio, this intense romantic drama solely exists to prove that his so-called \"disorder\" isn't a dehumanizing defect.",
+                        0.6021163164441697
+                    ],
+                    [
+                        "7_it's possible that [director] dalio recognizes the fantastical element to his tale",
+                        0.6363589194009562
+                    ],
+                    [
+                        "10_writer-director dalio has firsthand experience with bipolar disorder, and his perspective sheds fresh light on the unique ways in which manic-depressive individuals experience love and creativity.",
+                        0.8691191873367229
+                    ],
+                    [
+                        "15_as personal, well-performed, and sometimes lyrical as this material is, dalio also has a peculiar way of making it all play like a public service announcement-like a feature commissioned for a mental-wellness convention.",
+                        0.6611065607334632
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_dalio's script doesn't always flow as smoothly as the camera work, ",
+                -0.511448757135641
+            ]
+        ],
+        "entities": {
+            "Paul Dalio": {
+                "args": []
+            }
+        }
+    }
+}

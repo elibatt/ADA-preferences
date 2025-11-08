@@ -1,0 +1,214 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_this is not a film of big revelations or ready-made solutions.",
+                0.5584509270752517
+            ],
+            [
+                "6_certain women is a film where a missed opportunity to connect, or a brief, surprising flash of empathy, feels crucial enough to pore over days after seeing it.",
+                -0.6387546913209227
+            ],
+            [
+                "7_\"certain women\" requires patience from the viewer and isn't for anyone, ",
+                -0.5546905474296929
+            ],
+            [
+                "7_ it's a film of quiet and lingering beauty.",
+                0.7515450078563634
+            ],
+            [
+                "9_it's a tiptoe of a movie, ",
+                -0.5153611806274336
+            ],
+            [
+                "13_the acting is good throughout the film, ",
+                0.7091887821307896
+            ],
+            [
+                "15_a movie in which it becomes very possible to respect the intent and yet be frustrated by the result.",
+                -0.6948806491700316
+            ],
+            [
+                "16_it isn't until the last third that the film finally comes to heartbreaking life.",
+                -0.5076731752203459
+            ],
+            [
+                "19_certain women turns out to be a study in women's uncertainties, in the experience of pain that leads not to action ",
+                -0.5889502328318743
+            ],
+            [
+                "21_the subtlety of the film is both an accomplishment and a limitation.",
+                0.7445804035678409
+            ],
+            [
+                "24_certain women burns slow, ",
+                -0.589828541750956
+            ],
+            [
+                "26_like a lot of really strong short story collections, certain women is greater than the sum of its parts, even if one of those parts is also significantly greater than the others.",
+                0.6715356044998413
+            ],
+            [
+                "27_the only reason to see certain women is the cast.",
+                -0.5924885077185613
+            ],
+            [
+                "28_it's hard to recall a movie with such a precise, immersive sense of place, and the very specific mood that comes with it.",
+                0.8096402479754018
+            ],
+            [
+                "31_certain women is a kind, loving, and deeply moving portrait of big-hearted small-town people.",
+                0.8862477215798736
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kelly Reichardt": {
+                "args": [
+                    [
+                        "1_with the third act, the power of reichardt's elliptical approach becomes apparent.",
+                        0.5447738828593633
+                    ],
+                    [
+                        "4_as with all of reichardt's films, the gems are in the smallest moments --",
+                        0.6584276164997593
+                    ],
+                    [
+                        "5_for the most part, these narratives lack the kind of tension between character and setting that have made reichardt's quiet, modest, measured films so compelling.",
+                        0.7351349986552659
+                    ],
+                    [
+                        "17_the cumulative power of reichardt's film, beautifully acted by laura dern, michelle williams, kristen stewart and lily gladstone, is undeniable and quietly devastating.",
+                        0.6197739760779188
+                    ],
+                    [
+                        "18_these are normal people, like you and me, and it's that relatability that makes reichardt's work here so powerful.",
+                        0.7274427608669871
+                    ],
+                    [
+                        "23_even as the four protagonists struggle, often in vain, to get someone else to pay attention, reichardt's camera is right there, watching and listening.",
+                        0.5868914498448446
+                    ],
+                    [
+                        "29_director kelly reichardt, who made the great \"wendy and lucy,\" likes stories that unfold slowly and simply.",
+                        0.6081220675620332
+                    ],
+                    [
+                        "32_as with reichardt's previous work, the film provides a showcase for the kind of acting and cinematography that's never showy ",
+                        0.7877279838482971
+                    ],
+                    [
+                        "33_kelly reichardt's wonderful triptych of female character studies confirms her status as the quietest of great american filmmakers.",
+                        0.8743550611862401
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Kelly Reichardt": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_for the most part, these narratives lack the kind of tension between character and setting that have made reichardt's quiet, modest, measured films so compelling.",
+                0.7351349986552659
+            ],
+            [
+                "33_kelly reichardt's wonderful triptych of female character studies confirms her status as the quietest of great american filmmakers.",
+                0.8743550611862401
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sara Rodier": {
+                "args": []
+            },
+            "Laura Dern": {
+                "args": [
+                    [
+                        "17_the cumulative power of reichardt's film, beautifully acted by laura dern, michelle williams, kristen stewart and lily gladstone, is undeniable and quietly devastating.",
+                        0.6197739760779188
+                    ]
+                ]
+            },
+            "Stephanie Campbell": {
+                "args": []
+            },
+            "Gabriel Clark": {
+                "args": []
+            },
+            "Kristen Stewart": {
+                "args": [
+                    [
+                        "13_ gladstone and stewart are a step up from everyone else.",
+                        0.5113811692403459
+                    ]
+                ]
+            },
+            "James LeGros": {
+                "args": []
+            },
+            "Jared Harris": {
+                "args": []
+            },
+            "Guy Boyd": {
+                "args": []
+            },
+            "Joshua T. Fonokalafi": {
+                "args": []
+            },
+            "Edelen McWilliams": {
+                "args": []
+            },
+            "Michelle Williams": {
+                "args": []
+            },
+            "James Jordan": {
+                "args": []
+            },
+            "Zena Dell Lowe": {
+                "args": []
+            },
+            "Rene Auberjonois": {
+                "args": []
+            },
+            "Lily Gladstone": {
+                "args": []
+            },
+            "John Getz": {
+                "args": []
+            },
+            "Matt McTighe": {
+                "args": []
+            },
+            "Ashlie Atkinson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "13_the acting is good throughout the film, ",
+                0.7091887821307896
+            ],
+            [
+                "27_the only reason to see certain women is the cast.",
+                -0.5924885077185613
+            ],
+            [
+                "32_as with reichardt's previous work, the film provides a showcase for the kind of acting and cinematography that's never showy ",
+                0.7877279838482971
+            ]
+        ]
+    }
+}

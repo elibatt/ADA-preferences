@@ -1,0 +1,206 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this might be the best kids' movie since up.",
+                0.814090365877522
+            ],
+            [
+                "6_\"hunt for the wilderpeople\" is the kind of adorable, coming-of-age dramedy that pixar would proudly create if it made live-action movies and not cartoons.",
+                0.724330320419713
+            ],
+            [
+                "10_laugh-out-loud funny one minute, achingly sad the next, \"hunt for the wilderpeople\" takes the audience on a rollicking yet poignant journey through the new zealand backcountry in the company of a pair of engagingly eccentric characters.",
+                0.5541553071245452
+            ],
+            [
+                "12_\"hunt for the wilderpeople\" has much to recommend it, ",
+                0.5007365700010092
+            ],
+            [
+                "12_ none of it would work ",
+                -0.6872684669593914
+            ],
+            [
+                "14_hunt for the wilderpeople magically taps into the logic, ",
+                0.5856560689833105
+            ],
+            [
+                "19_\"hunt for the wilderpeople\" is consistently clever and even moving.",
+                0.7428309266153584
+            ],
+            [
+                "22_\"hunt for the wilderpeople\" takes a troika of familiar story types - the plucky kid, the crusty geezer, the nurturing bosom - and strips them of cliché.",
+                0.6811056703916968
+            ],
+            [
+                "24_a familiar sort of coming-of-age movie made more interesting by the uniqueness of its setting and its off-kilter kiwi humor.",
+                0.5584811796685663
+            ],
+            [
+                "25_every once in a while, a small, unheralded film comes along, so smart and funny, such a pleasure to experience, you can't believe your luck. \"",
+                0.8321754889568493
+            ],
+            [
+                "25_hunt for the wilderpeople\" is such a film.",
+                0.5655706624233738
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "11_dennison is a marvel, completely unself-conscious in his portrayal of a kid who is lost ",
+                0.5486182193465726
+            ]
+        ],
+        "entities": {
+            "John Campbell": {
+                "args": []
+            },
+            "Stan Walker": {
+                "args": []
+            },
+            "Julian Dennison": {
+                "args": [
+                    [
+                        "30_ it's the trash-talking, family-craving ten-year-old dennison who steals the show, exuding a wacko, wounded attitude rooted in ricky's backwoods rambo-scarface-mad max reveries.",
+                        0.5807372590398008
+                    ]
+                ]
+            },
+            "Troy Kingi": {
+                "args": []
+            },
+            "Mabelle Dennison": {
+                "args": []
+            },
+            "Mike Minogue": {
+                "args": []
+            },
+            "Lloyd Scott": {
+                "args": []
+            },
+            "Rachel House": {
+                "args": []
+            },
+            "Cohen Holloway": {
+                "args": []
+            },
+            "Timothy Herbert": {
+                "args": []
+            },
+            "Tioreore Ngatai-Melbourne": {
+                "args": []
+            },
+            "Nadine Chalmers Ross": {
+                "args": []
+            },
+            "Taika Waititi": {
+                "args": [
+                    [
+                        "5_director taika waititi proves expert in his management of tone, such that the farcical elements, ",
+                        0.647453335375251
+                    ],
+                    [
+                        "13_the cranky charisma of the performers, plus the cheerfully idiosyncratic rhythms of waititi's filmmaking, keep it clicking.",
+                        0.6761466575248402
+                    ],
+                    [
+                        "18_new zealand writer-director taika waititi blends sharply cynical humour with huge heart in arguably his best film to date, hunt for the wilderpeople.",
+                        0.8332086372206954
+                    ],
+                    [
+                        "28_a wonderful slice of new zealand-bred humor that should have a far wider appeal than waititi's previous films.",
+                        0.7394331671714406
+                    ]
+                ]
+            },
+            "Mihingarangi Forbes": {
+                "args": []
+            },
+            "Stu Giles": {
+                "args": []
+            },
+            "Sam Wallace": {
+                "args": []
+            },
+            "Selina Woulfe": {
+                "args": []
+            },
+            "Rhys Darby": {
+                "args": []
+            },
+            "Rima Te Wiata": {
+                "args": []
+            },
+            "Sam Neill": {
+                "args": [
+                    [
+                        "26_dennison juggles foulmouthed brattiness and sweet sincerity well enough, and neill soars as a gruff outdoorsman hiding a soft, chewy center.",
+                        0.680353788502704
+                    ]
+                ]
+            },
+            "Sonia Spyve": {
+                "args": []
+            },
+            "Oscar Kightley": {
+                "args": []
+            },
+            "Hamish Parkinson": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_waititi looks for humor in quirks of character and degrees of stubbornness, and the natural challenges of crump's wilderness journey generate a succession of belly laughs onscreen as the gruff old man scraps with the loudmouthed kid.",
+                0.5438703902292912
+            ],
+            [
+                "11_neill, playing a different sort of character for him (quiet, unfriendly), is also outstanding.",
+                0.7768470295133278
+            ],
+            [
+                "18_new zealand writer-director taika waititi blends sharply cynical humour with huge heart in arguably his best film to date, hunt for the wilderpeople.",
+                0.8332086372206954
+            ]
+        ],
+        "entities": {
+            "Taika Waititi": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Taika Waititi": {
+                "args": [
+                    [
+                        "5_director taika waititi proves expert in his management of tone, such that the farcical elements, ",
+                        0.647453335375251
+                    ],
+                    [
+                        "13_the cranky charisma of the performers, plus the cheerfully idiosyncratic rhythms of waititi's filmmaking, keep it clicking.",
+                        0.6761466575248402
+                    ],
+                    [
+                        "18_new zealand writer-director taika waititi blends sharply cynical humour with huge heart in arguably his best film to date, hunt for the wilderpeople.",
+                        0.8332086372206954
+                    ],
+                    [
+                        "28_a wonderful slice of new zealand-bred humor that should have a far wider appeal than waititi's previous films.",
+                        0.7394331671714406
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

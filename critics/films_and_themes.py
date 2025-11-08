@@ -1,0 +1,63 @@
+films = ["https://www.rottentomatoes.com/m/lady_bird/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/three_billboards_outside_ebbing_missouri/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/alien_covenant/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/mother_2017/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/the_foreigner_2017/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/lbj/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_men_tell_no_tales/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/wonder_wheel/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/all_eyez_on_me_2017/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/fifty_shades_darker/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/phantom_thread/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/a_quiet_place_2018/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/game_night_2018/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/jumanji_welcome_to_the_jungle/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/the_greatest_showman_2017/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/i_tonya/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/mollys_game/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/call_me_by_your_name/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/coco_2017/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/lawrence_of_arabia/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/the_dark_knight/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/moana_2016/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/get_out/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/et_the_extraterrestrial/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/godfather/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/singin_in_the_rain/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/la_la_land/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/ghost_in_the_shell/reviews/?type=top_critics",
+"https://www.rottentomatoes.com/m/inception/reviews/?type=top_critics"]
+
+
+movie_selected_themes = dict()
+movie_selected_themes["all eyez on me 2017"] = ('rap music', [('hip', 'hop'), ('rapper',)])
+movie_selected_themes["fifty shades darker"] = ('pleasure', [('playboy',), ('gratification',), ('bondage',)])
+movie_selected_themes["lady bird"] = ('adolescence', [('adolescence',), ('coming', 'of', 'age')])
+movie_selected_themes["mother 2017"] = ('children', [('sunday', 'school'), ('school',)])
+movie_selected_themes["wonder wheel"] = ('amusement park', [('coney', 'island'), ('fairground',)])
+
+movie_selected_themes["the greatest showman 2017"] = ('entertainment', [('impresario',), ('amusement',), ('amusement', 'park')])
+movie_selected_themes["a quiet place 2018"] = ('terror', [('fright',), ('terror',), ('dread',), ('taut',), ('suspense',)])
+movie_selected_themes["call me by your name"] = ('affection', [('first', 'love'), ('love',), ('affection',), ('romance',)])
+movie_selected_themes["et the extraterrestrial"] = ('atmosphere', [('space',), ('outer', 'space')])
+movie_selected_themes["godfather"] = ('mafia', [('don',), ('mafia',)])
+movie_selected_themes["i tonya"] = ('competitor', [('competition',), ('outsider',)])
+movie_selected_themes["inception"] = ('dream', [('dreamer',), ('dreamscape',), ('dreaming',)])
+
+# movie_selected_themes["coco 2017"] = ('string', [('guitar',), ('chord',)])
+movie_selected_themes["coco 2017"] = ('mother', [('family',), ('great', 'grandmother'), ('grandmother',), ('mama',)])
+# movie_selected_themes["get out"] = ('fear', [('fright',), ('danger',)])
+# movie_selected_themes["get out"] = ('humor', [('humor',), ('satire',)])
+movie_selected_themes["get out"] = ('race', [('black', 'people'), ('of', 'color')])
+# movie_selected_themes["ghost in the shell"] = ('computer', [('cyberpunk',), ('hard', 'drive'), ('cyber',)])
+movie_selected_themes["ghost in the shell"] = ('anime', [('manga',), ('anime',)])
+# movie_selected_themes["ghost in the shell"] = ('robot', [('robotic',), ('robot',)])
+movie_selected_themes["la la land"] = ('relationship', [('rapport',), ('one', 'another'), ('intimacy',)])
+# movie_selected_themes["la la land"] = ('happiness', [('golden', 'age'), ('joy',)])
+# movie_selected_themes["moana 2016"] = ('animate', [('animator',), ('animation',)])
+movie_selected_themes["moana 2016"] = ('melody', [('riff',), ('song',)])
+movie_selected_themes["phantom thread"] = ('clothing', [('clothe',), ('fashion',), ('dress',), ('designer',)])
+# movie_selected_themes["phantom thread"] = ('design', [('designer',), ('tapestry',), ('wallpaper',)])
+# movie_selected_themes["phantom thread"] = ('clothing', [('clothe',), ('fashion',), ('dress',)])
+# movie_selected_themes["phantom thread"] = ('food', [('taste',), ('tin',), ('nourishment',)])
+movie_selected_themes["the dark knight"] = ('book', [('blockbuster',), ('comic', 'book'), ('suspense',)])

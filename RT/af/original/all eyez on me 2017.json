@@ -1,0 +1,135 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Benny Boom": {
+                "args": [
+                    [
+                        "1_the film's director, benny boom, is best known for music videos, ",
+                        0.7863369839105567
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kat Graham": {
+                "args": []
+            },
+            "Demetrius Shipp Jr.": {
+                "args": []
+            },
+            "Jamal Woolard": {
+                "args": []
+            },
+            "Hill Harper": {
+                "args": []
+            },
+            "Danai Gurira": {
+                "args": []
+            },
+            "Lauren Cohan": {
+                "args": []
+            },
+            "Annie Ilonzeh": {
+                "args": []
+            },
+            "Dominic L. Santana": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Steven Bagatourian": {
+                "args": []
+            },
+            "Eddie Gonzalez (VIII) ": {
+                "args": []
+            },
+            "Jeremy Haft": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the last 20 minutes or so of the film try desperately to create drama out of an ending we all already know, milking every moment for maximum ominousness.",
+                -0.6752334202842247
+            ],
+            [
+                "5_all eyez on me is rarely more than a faithful adaptation of the rapper's wikipedia entry, so fixated on name-checking every footnote of shakur's public life that there is no space to explore the experience of the man himself.",
+                -0.5680199465754605
+            ],
+            [
+                "6_all eyez on me is one of the most useless music biopics ever made-it'll be too confusing for newcomers and too underwhelming for those familiar with the work and the life of rap prophet tupac shakur.",
+                0.7916432880678265
+            ],
+            [
+                "9_as for the people banking on tupac getting his own straight outta compton-level movie, well - we ain't mad at cha,",
+                -0.6760650357892869
+            ],
+            [
+                "11_ all eyez on me occasionally dips into tupac's complex nature,",
+                -0.5222901420595667
+            ],
+            [
+                "15_not only a clumsy and often bland account of his life and work, ",
+                0.5399609299072733
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {
+            "rap music": {
+                "args": [
+                    [
+                        "0_this wikipedia-page biopic races through the rapper's major life events without ever getting to grips with the real questions.",
+                        0.6780633595444546
+                    ],
+                    [
+                        "1_he's taken a legend and made him into a man.",
+                        0.5750877746994121
+                    ],
+                    [
+                        "4_there's a lot of nostalgia, ",
+                        0.5025796633231939
+                    ],
+                    [
+                        "4_ for the unfamiliar, it's probably a pretty decent introduction.",
+                        0.6560437534302979
+                    ],
+                    [
+                        "5_all eyez on me is rarely more than a faithful adaptation of the rapper's wikipedia entry, so fixated on name-checking every footnote of shakur's public life that there is no space to explore the experience of the man himself.",
+                        -0.5680199465754605
+                    ],
+                    [
+                        "7_a lumbering, illustrated hagiography of the slain rap phenom tupac shakur that, in its efforts to exalt and exonerate the man, reduces him to a strangely passive figure: a sweet, goodhearted, brilliant kid to whom bad things keep happening.",
+                        0.604796632690006
+                    ],
+                    [
+                        "8_it's a relatively straightforward biopic using conventional framing devices (including the liberal use of flashbacks) to tell the story of an extraordinary artist who overcame tremendous odds to become an american icon.",
+                        0.8573519553686563
+                    ],
+                    [
+                        "10_a by-the-numbers biopic that trades on the worst clichés of the hip-hop world (that is, drugs, bling and a preoccupation with women's ",
+                        -0.750549214505285
+                    ],
+                    [
+                        "14_[a] messy, hugely flawed, ",
+                        0.5559036994794139
+                    ],
+                    [
+                        "15_not only a clumsy and often bland account of his life and work, ",
+                        0.5399609299072733
+                    ]
+                ]
+            }
+        }
+    }
+}

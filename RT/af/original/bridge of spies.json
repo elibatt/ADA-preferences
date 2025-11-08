@@ -1,0 +1,521 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_bridge of spies is a heart-on-its-sleeve affirmation of american values -- not in the loaded contemporary sense of the term, ",
+                0.5949526575897217
+            ],
+            [
+                "4_bridge of spies connects cold war paranoia to today's terror.",
+                -0.5341141891035326
+            ],
+            [
+                "6_when a film is as enjoyable as this one, its timing so sweet, and its atmosphere conjured with such skill, do you really wish to register a complaint?",
+                0.7935447951082405
+            ],
+            [
+                "8_bridge of spies is solid and uplifting, ",
+                0.6528504016853247
+            ],
+            [
+                "14_a film that is so old-fashioned and comforting that, for much of the time, watching it feels like cuddling up under a soft good-movie blanket.",
+                0.534487074136224
+            ],
+            [
+                "15_bridge of spies, which waxes poetic -- and occasionally cynically -- on patriotism, honor, and duty, echoes in your mind long after the credits roll and begs for a second viewing.",
+                0.7249227854703751
+            ],
+            [
+                "17_\"bridge of spies\" is a moral drama driven by an insurance lawyer.",
+                0.6863732403663154
+            ],
+            [
+                "19_\"bridge of spies\" isn't conventionally exciting, and isn't intended to be.",
+                -0.5970399128848005
+            ],
+            [
+                "23_ the film is inspirational enough that viewers might do their own out-of-theatre research and learn a lot more.",
+                0.6411994880319709
+            ],
+            [
+                "25_\"bridge of spies\" is a consummate professional's tri",
+                0.7333112148036584
+            ],
+            [
+                "30_i liked the movie a lot -",
+                0.5597931043086355
+            ],
+            [
+                "34_bridge of spies has been described as a minor work from a major filmmaker, ",
+                0.5201770846788853
+            ],
+            [
+                "39_when the titles of the five-plus films nominated for best picture are announced, it will be a surprise if bridge of spies doesn't make the cut.",
+                0.6318915829058207
+            ],
+            [
+                "41_it's a riveting film and i understood every word.",
+                0.7711187522502173
+            ],
+            [
+                "50_\"bridge of spies\" is a neat encapsulation of america's great commercial director pushing for sophistication while sticking to familiar beats.",
+                0.7596381691012468
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Steven Spielberg": {
+                "args": [
+                    [
+                        "0_director steven spielberg gives audiences a meticulously composed espionage thriller, which establishes a tense atmosphere from the start and keeps the viewer engaged throughout.",
+                        0.6291174160306415
+                    ],
+                    [
+                        "8_ it doesn't extend spielberg's range.",
+                        0.5209617310578053
+                    ],
+                    [
+                        "18_using a screenplay polished and honed by the coen brothers, spielberg dips into john le carré territory ...",
+                        0.739705244316384
+                    ],
+                    [
+                        "24_steven spielberg's period drama works as glossy entertainment ",
+                        0.7832802324577495
+                    ],
+                    [
+                        "26_ \"bridge of spies\" is among spielberg's finest achievements - and a reminder that the past is much more than just a repository for nostalgia.",
+                        0.8060101388694157
+                    ],
+                    [
+                        "29_like everything about spielberg's \"bridge of spies,\" hanks' performance makes relaxed professionalism and genial decency look easy.",
+                        0.8180831500187566
+                    ],
+                    [
+                        "30_it's one of spielberg's most measured and most adult films in years, with production values every bit as good as you'd expect.",
+                        0.9070362847347389
+                    ],
+                    [
+                        "31_in his fourth pairing with hanks, spielberg again examines the furtive face of justice and issues another masterful ruling.",
+                        0.6960024081841433
+                    ],
+                    [
+                        "33_while not phenomenal, especially compared to the rest of the spielberg oeuvre, spies still hits the spot.",
+                        0.7497452496812895
+                    ],
+                    [
+                        "34_ the film is too personal to dismiss as a curiosity, and its overall theme blends right in with many of spielberg's previous pictures.",
+                        0.8232963827481845
+                    ],
+                    [
+                        "35_\"bridge of spies\" is, like most of mr. spielberg's films, a consummate entertainment that sweeps you up with pure cinema.",
+                        0.8972150688512985
+                    ],
+                    [
+                        "36_for all spielberg, his star-packed cast, led by tom hanks, and his on-screen and off-screen team (joel and ethan coen co-wrote the screenplay) bring to the table, bridge of spies is remarkable only for how stuffy and surprisingly inert the film becomes.",
+                        0.6358154707503741
+                    ],
+                    [
+                        "40_steven spielberg is so smooth, so good at what he does, that his best movies have a way of seeming inevitable, when they're the furthest thing from it.",
+                        0.875481169479855
+                    ],
+                    [
+                        "42_steven spielberg's latest is a solid, quietly made drama carefully wrapped around a civics lesson.",
+                        0.7605671338196598
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_in terms of the director's oeuvre, this will likely be remembered as one of his \"minor\" productions.",
+                0.7297139960168358
+            ],
+            [
+                "50_\"bridge of spies\" is a neat encapsulation of america's great commercial director pushing for sophistication while sticking to familiar beats.",
+                0.7596381691012468
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Mark Zak": {
+                "args": []
+            },
+            "Burghart Klaussner": {
+                "args": []
+            },
+            "Hamilton Clancy": {
+                "args": []
+            },
+            "Hayley Feinstein": {
+                "args": []
+            },
+            "Vladimir Vilanov": {
+                "args": []
+            },
+            "Le Chance DuRand": {
+                "args": []
+            },
+            "Donavon Dietz": {
+                "args": []
+            },
+            "Billy Magnussen": {
+                "args": []
+            },
+            "Michael Kranz": {
+                "args": []
+            },
+            "David Wilson Barnes": {
+                "args": []
+            },
+            "Tim Morten Uhlenbrock": {
+                "args": []
+            },
+            "Michael Kempen": {
+                "args": []
+            },
+            "Mario Corry": {
+                "args": []
+            },
+            "Brian Hutchison": {
+                "args": []
+            },
+            "Lucy Dreznin": {
+                "args": []
+            },
+            "Victoria Leigh": {
+                "args": []
+            },
+            "Steve Cirbus": {
+                "args": []
+            },
+            "Radik Golovkov": {
+                "args": []
+            },
+            "Stefan Langel": {
+                "args": []
+            },
+            "Domenick Lombardozzi": {
+                "args": []
+            },
+            "Austin Stowell": {
+                "args": []
+            },
+            "Nadja Bobyleva": {
+                "args": []
+            },
+            "Maik Rogge": {
+                "args": []
+            },
+            "Joe Starr": {
+                "args": []
+            },
+            "Jillian Lebling": {
+                "args": []
+            },
+            "Jesse Plemons": {
+                "args": []
+            },
+            "Tracy Howe": {
+                "args": []
+            },
+            "Jonathan Walker": {
+                "args": []
+            },
+            "Jon Curry": {
+                "args": []
+            },
+            "Andy Schneeflock": {
+                "args": []
+            },
+            "Geoffrey Rude": {
+                "args": []
+            },
+            "John Henry Cox": {
+                "args": []
+            },
+            "Moritz Berg": {
+                "args": []
+            },
+            "Sebastian Koch": {
+                "args": []
+            },
+            "Dakin Matthews": {
+                "args": []
+            },
+            "Sawyer Barth": {
+                "args": []
+            },
+            "Greg Nutcher": {
+                "args": []
+            },
+            "Mathias Gartner": {
+                "args": []
+            },
+            "Petra Marie Cammin": {
+                "args": []
+            },
+            "Kristoffer Fuss": {
+                "args": []
+            },
+            "Will Rogers (IV)": {
+                "args": []
+            },
+            "Laurie Dawn": {
+                "args": []
+            },
+            "Michael Gaston": {
+                "args": []
+            },
+            "Steven Boyer": {
+                "args": []
+            },
+            "Nina Gummich": {
+                "args": []
+            },
+            "Martin D. Dew": {
+                "args": []
+            },
+            "Henning Bormann": {
+                "args": []
+            },
+            "Amy Ryan": {
+                "args": []
+            },
+            "Peter McRobbie": {
+                "args": []
+            },
+            "Nolan Lyons": {
+                "args": []
+            },
+            "Henny Russell": {
+                "args": []
+            },
+            "Wes McGee": {
+                "args": []
+            },
+            "Ketel Weber": {
+                "args": []
+            },
+            "Jim Ferris": {
+                "args": []
+            },
+            "Eve Hewson": {
+                "args": []
+            },
+            "Merab Ninidze": {
+                "args": []
+            },
+            "Frederic Heidorn": {
+                "args": []
+            },
+            "James Lorinz": {
+                "args": []
+            },
+            "Matilda Palma Galisch": {
+                "args": []
+            },
+            "John Taylor": {
+                "args": []
+            },
+            "Rebekah Brockman": {
+                "args": []
+            },
+            "Kai Wido Meyer": {
+                "args": []
+            },
+            "Noah Schnapp": {
+                "args": []
+            },
+            "Michael Schenk": {
+                "args": []
+            },
+            "Greta Galisch DePalma": {
+                "args": []
+            },
+            "Konstantin Frolov": {
+                "args": []
+            },
+            "Joe Forbrich": {
+                "args": []
+            },
+            "Hayley Rawson": {
+                "args": []
+            },
+            "Ashlie Atkinson": {
+                "args": []
+            },
+            "Tom Hanks": {
+                "args": [
+                    [
+                        "10_apart from hanks, and an understated, scene-stealing turn by mark rylance as the soviet spy abel, bridge of spies mostly settles for being solidly told and atmospheric.",
+                        0.7166315208349918
+                    ],
+                    [
+                        "21_tom hanks lends his considerable honest john appeal to this fascinating cold war drama.",
+                        0.6328120332482375
+                    ],
+                    [
+                        "29_like everything about spielberg's \"bridge of spies,\" hanks' performance makes relaxed professionalism and genial decency look easy.",
+                        0.8180831500187566
+                    ],
+                    [
+                        "31_in his fourth pairing with hanks, spielberg again examines the furtive face of justice and issues another masterful ruling.",
+                        0.6960024081841433
+                    ],
+                    [
+                        "36_for all spielberg, his star-packed cast, led by tom hanks, and his on-screen and off-screen team (joel and ethan coen co-wrote the screenplay) bring to the table, bridge of spies is remarkable only for how stuffy and surprisingly inert the film becomes.",
+                        0.6358154707503741
+                    ],
+                    [
+                        "38_the skill with which hanks navigates the intricacies of the plot amount to some of the best work of his career.",
+                        0.8287059624242874
+                    ],
+                    [
+                        "45_spielberg's best since 'saving private ryan' stars a flawless tom hanks in an engrossing old-school thriller.",
+                        0.8438146346502042
+                    ]
+                ]
+            },
+            "Rafael Gareisen": {
+                "args": []
+            },
+            "Marko Caka": {
+                "args": []
+            },
+            "Patricia Squire": {
+                "args": []
+            },
+            "Matthias Scherwenikas": {
+                "args": []
+            },
+            "Scott Shepherd": {
+                "args": []
+            },
+            "Stephen Kunken": {
+                "args": []
+            },
+            "Wanja Götz": {
+                "args": []
+            },
+            "Maximilian Mauff": {
+                "args": []
+            },
+            "Victor Schefe": {
+                "args": []
+            },
+            "Daniela Schulz": {
+                "args": []
+            },
+            "Ivan Shvedov": {
+                "args": []
+            },
+            "Nils Malten": {
+                "args": []
+            },
+            "Mike Houston": {
+                "args": []
+            },
+            "John Rue": {
+                "args": []
+            },
+            "Thomas Hacikoglu": {
+                "args": []
+            },
+            "Mikhail Gorevoy": {
+                "args": []
+            },
+            "Jon Donahue": {
+                "args": []
+            },
+            "Lucia Ryan": {
+                "args": []
+            },
+            "Emma Nazahn": {
+                "args": []
+            },
+            "Max Kidd": {
+                "args": []
+            },
+            "Joshua Harto": {
+                "args": []
+            },
+            "Alan Alda": {
+                "args": []
+            },
+            "Edward James Hyland": {
+                "args": []
+            },
+            "Michael Pemberton": {
+                "args": []
+            },
+            "Mark Rylance": {
+                "args": [
+                    [
+                        "27_hanks and rylance deliver golden performances as natural combatants who find common cause in seeking honest justice, even if only they realize it.",
+                        0.6610168947532257
+                    ]
+                ]
+            },
+            "Victor Verhaeghe": {
+                "args": []
+            },
+            "Joel Brady": {
+                "args": []
+            },
+            "Nico Ehrenteit": {
+                "args": []
+            },
+            "Mark Fichera": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_rylance's performance is particularly interesting as he infuses abel's dry understatements on his predicament with just the right dose of quiet irony.",
+                0.7294782194460517
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Matthew Charman": {
+                "args": []
+            },
+            "Ethan Coen": {
+                "args": [
+                    [
+                        "18_using a screenplay polished and honed by the coen brothers, spielberg dips into john le carré territory ...",
+                        0.739705244316384
+                    ],
+                    [
+                        "36_for all spielberg, his star-packed cast, led by tom hanks, and his on-screen and off-screen team (joel and ethan coen co-wrote the screenplay) bring to the table, bridge of spies is remarkable only for how stuffy and surprisingly inert the film becomes.",
+                        0.6358154707503741
+                    ]
+                ]
+            },
+            "Joel Coen": {
+                "args": []
+            },
+            "Matt Charman": {
+                "args": [
+                    [
+                        "3_spielberg and charman frame donovan as a thin bulwark against the american government's attempts to work around its own supposed ideals at the height of the cold war.",
+                        -0.6653041517497982
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "48_hanks has never seemed more like a modern jimmy stewart, drink in hand, just looking to get home to his bed, as the script leans into its cavalcade of slightly bizarre negotiations with eastern european goons.",
+                0.537289959056058
+            ]
+        ]
+    }
+}

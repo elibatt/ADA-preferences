@@ -1,0 +1,533 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mika Odom": {
+                "args": []
+            },
+            "Steven Prince": {
+                "args": []
+            },
+            "Bonnie Cross": {
+                "args": []
+            },
+            "Jessi Mechler": {
+                "args": []
+            },
+            "Charlotte Linklater": {
+                "args": []
+            },
+            "Mark Finn": {
+                "args": []
+            },
+            "Andrea Chen": {
+                "args": []
+            },
+            "Savannah Welch": {
+                "args": []
+            },
+            "Alina Linklater": {
+                "args": []
+            },
+            "Shane Graham": {
+                "args": []
+            },
+            "Sam Dillon": {
+                "args": []
+            },
+            "Mona Lee": {
+                "args": []
+            },
+            "Gordon Friday": {
+                "args": []
+            },
+            "Wayne Sutton": {
+                "args": []
+            },
+            "Libby Villari": {
+                "args": []
+            },
+            "Will Harris": {
+                "args": []
+            },
+            "Garry Peters": {
+                "args": []
+            },
+            "Ryan Power": {
+                "args": [
+                    [
+                        "1_ the cumulative power is tremendous.",
+                        -0.5256541522375091
+                    ]
+                ]
+            },
+            "Bill Wise": {
+                "args": []
+            },
+            "Cassidy Rose Johnson": {
+                "args": []
+            },
+            "Tamara Jolaine": {
+                "args": []
+            },
+            "Nick Krause": {
+                "args": []
+            },
+            "Elijah Ford": {
+                "args": []
+            },
+            "Megan Devine": {
+                "args": []
+            },
+            "Richard Robichaux": {
+                "args": []
+            },
+            "Chris Doubek": {
+                "args": []
+            },
+            "Tom McTigue": {
+                "args": []
+            },
+            "Indica Shaw": {
+                "args": []
+            },
+            "Roland Ruiz": {
+                "args": []
+            },
+            "Conrad Choucroun": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": []
+            },
+            "Jennifer Griffin": {
+                "args": []
+            },
+            "Maximillian McNamara": {
+                "args": []
+            },
+            "Joe Sundell": {
+                "args": []
+            },
+            "Barbara Chisholm": {
+                "args": []
+            },
+            "Zoe Graham": {
+                "args": []
+            },
+            "Lorelei Linklater": {
+                "args": [
+                    [
+                        "13_richard linklater's latest feels more like living a life than watching a movie.",
+                        0.5175343961789569
+                    ],
+                    [
+                        "14_ yet no sense of grind, still less of fatigue, attends this richard linklater project.",
+                        -0.5689354375859824
+                    ],
+                    [
+                        "16_richard linklater does both with boyhood.",
+                        0.6038402417990707
+                    ],
+                    [
+                        "25_in completing this simple, beautiful project linklater took his time.",
+                        0.7700888995288325
+                    ],
+                    [
+                        "29_i have long maintained that richard linklater is the most gifted and audacious director of his generation.",
+                        0.6944692787865666
+                    ],
+                    [
+                        "44_i can think of few feature films in the history of the medium that have explored the power, and the melancholy, of film's intimate enmeshment with time in the way richard linklater's boyhood does.",
+                        0.8133594317384059
+                    ],
+                    [
+                        "46_richard linklater's coming-of-age tale is the best movie of the year, a four-star game-changer that earns its place in the cultural time capsule.",
+                        0.9023865492083475
+                    ],
+                    [
+                        "49_epic in scope yet unassuming throughout, linklater's incredibly involving chronicle marks an unprecedented achievement in fictional storytelling",
+                        0.7029900737826966
+                    ],
+                    [
+                        "52_perhaps never has the long arc of the journey from childhood to college been portrayed as cohesively and convincingly as richard linklater has done in a film that can be plain on a moment-to-moment basis ",
+                        -0.5246687864767817
+                    ],
+                    [
+                        "53_there's a rough-edged, organic quality to \"boyhood\" that recalls the work of those european helmers linklater so admires: fassbinder, bergman, bresson.",
+                        0.707747557743245
+                    ],
+                    [
+                        "54_the film has that deadpan linklater tone of slacker haphazardness, ",
+                        0.583290055479092
+                    ]
+                ]
+            },
+            "Sinjin Venegas": {
+                "args": []
+            },
+            "Patricia Arquette": {
+                "args": []
+            },
+            "Matthew Martinez-Arndt": {
+                "args": []
+            },
+            "David Blackwell": {
+                "args": []
+            },
+            "Andrew Villarreal": {
+                "args": []
+            },
+            "Merrille McCommas": {
+                "args": []
+            },
+            "Tess Allen": {
+                "args": []
+            },
+            "Angela Rawna": {
+                "args": []
+            },
+            "Taylor Weaver": {
+                "args": []
+            },
+            "Martel Summers": {
+                "args": []
+            },
+            "Bruce Salmon": {
+                "args": []
+            },
+            "Sydney Orta": {
+                "args": []
+            },
+            "Elijah Smith": {
+                "args": []
+            },
+            "Landon Collier": {
+                "args": []
+            },
+            "Kyle Crusham": {
+                "args": []
+            },
+            "Daniel Zeh": {
+                "args": []
+            },
+            "Tyler Strother": {
+                "args": []
+            },
+            "Jenni Tooley": {
+                "args": []
+            },
+            "Sean Tracey": {
+                "args": []
+            },
+            "Brad Hawkins": {
+                "args": []
+            },
+            "Richard Jones": {
+                "args": []
+            },
+            "Marco Perella": {
+                "args": []
+            },
+            "Andrew Bunten": {
+                "args": []
+            },
+            "Karen Jones": {
+                "args": []
+            },
+            "Derek Chase": {
+                "args": []
+            },
+            "Holly Moore": {
+                "args": []
+            },
+            "Jamie Howard": {
+                "args": []
+            },
+            "Jesse Tilton": {
+                "args": []
+            },
+            "Evie Louise Thompson": {
+                "args": []
+            },
+            "Charlie Sexton": {
+                "args": []
+            },
+            "Jordan Howard": {
+                "args": []
+            },
+            "Sharee Fowler": {
+                "args": []
+            },
+            "David Clark": {
+                "args": []
+            },
+            "Ellar Coltrane": {
+                "args": [
+                    [
+                        "2_while everything about boyhood is done with extraordinary care, the master stroke was clearly the casting, 13 years ago, of a little texas boy named ellar coltrane.",
+                        0.6064863662121621
+                    ],
+                    [
+                        "20_linklater's writing is typically warm and insightful, and the cast is uniformly excellent, including ellar coltrane as the quiet, down-to-earth hero.",
+                        0.8258125860274053
+                    ]
+                ]
+            },
+            "Cambell Westmoreland": {
+                "args": []
+            },
+            "Genevieve Kinney": {
+                "args": []
+            },
+            "Ben Hodges": {
+                "args": []
+            },
+            "Byron Jenkins": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richard Linklater": {
+                "args": [
+                    [
+                        "13_richard linklater's latest feels more like living a life than watching a movie.",
+                        0.5175343961789569
+                    ],
+                    [
+                        "14_ yet no sense of grind, still less of fatigue, attends this richard linklater project.",
+                        -0.5689354375859824
+                    ],
+                    [
+                        "16_richard linklater does both with boyhood.",
+                        0.6038402417990707
+                    ],
+                    [
+                        "25_in completing this simple, beautiful project linklater took his time.",
+                        0.7700888995288325
+                    ],
+                    [
+                        "29_i have long maintained that richard linklater is the most gifted and audacious director of his generation.",
+                        0.6944692787865666
+                    ],
+                    [
+                        "44_i can think of few feature films in the history of the medium that have explored the power, and the melancholy, of film's intimate enmeshment with time in the way richard linklater's boyhood does.",
+                        0.8133594317384059
+                    ],
+                    [
+                        "46_richard linklater's coming-of-age tale is the best movie of the year, a four-star game-changer that earns its place in the cultural time capsule.",
+                        0.9023865492083475
+                    ],
+                    [
+                        "49_epic in scope yet unassuming throughout, linklater's incredibly involving chronicle marks an unprecedented achievement in fictional storytelling",
+                        0.7029900737826966
+                    ],
+                    [
+                        "52_perhaps never has the long arc of the journey from childhood to college been portrayed as cohesively and convincingly as richard linklater has done in a film that can be plain on a moment-to-moment basis ",
+                        -0.5246687864767817
+                    ],
+                    [
+                        "53_there's a rough-edged, organic quality to \"boyhood\" that recalls the work of those european helmers linklater so admires: fassbinder, bergman, bresson.",
+                        0.707747557743245
+                    ],
+                    [
+                        "54_the film has that deadpan linklater tone of slacker haphazardness, ",
+                        0.583290055479092
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_supporting performances are variable, the sister drops out as a dramatic character ...",
+                0.6619775786321571
+            ],
+            [
+                "20_linklater's writing is typically warm and insightful, and the cast is uniformly excellent, including ellar coltrane as the quiet, down-to-earth hero.",
+                0.8258125860274053
+            ]
+        ],
+        "entities": {
+            "Richard Linklater": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ it feels like especially worthy praise for boyhood, considering how much went into making it feel whole.",
+                -0.6106722259095142
+            ],
+            [
+                "1_we can quibble with small stuff in boyhood.",
+                0.6257441806753884
+            ],
+            [
+                "4_a word about the film's epic length.",
+                0.6060754569847713
+            ],
+            [
+                "4_boyhood is 166 minutes long.",
+                -0.626454860964566
+            ],
+            [
+                "6_boyhood is proof that a strange magic can still bloom amidst the tragedy that buffets human life.",
+                0.7106833284248699
+            ],
+            [
+                "9_linklater has crafted what may be the most ingenious film of the century here and given it a tone like no other ...",
+                0.7953278973865427
+            ],
+            [
+                "11_the year's most captivating narrative experiment, and possibly the most engrossing coming-of-age movie in the history of the genre.",
+                0.8180509878215454
+            ],
+            [
+                "12_boyhood understands the tumult of childhood and adolescence as well as it does the hurdles and satisfaction of raising children.",
+                0.7514103081777591
+            ],
+            [
+                "14_any film that takes twelve years to shoot should be commended for its stamina alone",
+                0.5484135830126838
+            ],
+            [
+                "15_ think there may have been a better movie still lurking in his accumulated footage, one that with a mild shift in emphasis might have been titled, more ambitiously, adulthood.",
+                -0.6586695939845861
+            ],
+            [
+                "16_few filmmakers ever make a great movie.",
+                0.7462643292934831
+            ],
+            [
+                "16_fewer still ever make a movie that expands what movies can express.",
+                0.5948189799418752
+            ],
+            [
+                "17_so, while it's tempting to say that nothing happens in boyhood, that would be wrong.",
+                -0.6445263586847035
+            ],
+            [
+                "18_\"boyhood\" is a stunt, an epic, a home video, and a benediction.",
+                0.500983873522159
+            ],
+            [
+                "19_to say boyhood wouldn't be that special if it were shot in a conventional manner is kind of like saying that elephant in the zoo wouldn't be so big if it weren't so big.",
+                -0.7462202936886715
+            ],
+            [
+                "21_\"boyhood\" is not just a great movie, it's a landmark achievement in film.",
+                0.7983478759683064
+            ],
+            [
+                "22_as a film that dares to honor small moments and the life they add up to, \"boyhood\" isn't just a masterpiece.",
+                0.6807098835942037
+            ],
+            [
+                "23_\"boyhood\" is a cinematic gift, a compassionate and sometimes amusing drama about growing up that extracts truths out of what appear to be life's most random moments.",
+                0.7706057332690379
+            ],
+            [
+                "24_to sit with this movie and witness the concentrated passage of time is to watch, in a true, moving way, your life unspool before your eyes, without fanfare or idealism or romance.",
+                0.8466203650386595
+            ],
+            [
+                "26_boyhood, at its best, boasts qualities that are usually under-valued in avant-garde work: tingling observations, unforced comedy and quirky, enduring charm.",
+                0.8505439067391584
+            ],
+            [
+                "29_his new movie, boyhood, which runs 2 hours and 44 minutes, is a stunning reconfirmation.",
+                -0.5140895180865965
+            ],
+            [
+                "30_the film gives every appearance of happening exactly the way life does, and exactly the way life does, it makes you care.",
+                0.6273374958011484
+            ],
+            [
+                "32_the film ends and the credits come up and you ask the same question that you ask at the end of an evening spent with old, dear friends: where did the time go?",
+                0.5081202786149293
+            ],
+            [
+                "33_a marvelous, minimal epic of a movie ...",
+                0.6835173497599611
+            ],
+            [
+                "34_there isn't anything else quite like \"boyhood\" in the history of cinema, ",
+                -0.5207773997666962
+            ],
+            [
+                "35_an extraordinarily intimate portrait of a life unfolding and an exceptional, unconventional film in which not much else occurs.",
+                0.7391726312150354
+            ],
+            [
+                "36_boyhood is an epic masterpiece that seems wholly unconcerned with trying to be one.",
+                0.6177003869339239
+            ],
+            [
+                "38_on rare occasions a movie seems to channel the flow of real life.",
+                0.6865382272586615
+            ],
+            [
+                "38_\"boyhood\" is one of those occasions.",
+                0.6353676051205185
+            ],
+            [
+                "39_the film is lengthy -- almost three hours -- and without much plot, ",
+                -0.6247804148826562
+            ],
+            [
+                "40_\"boyhood\" is a transporting experience about the simplest of subjects.",
+                0.6729016342295799
+            ],
+            [
+                "40_the movie telescopes artfully - ",
+                0.5422881845052983
+            ],
+            [
+                "41_boyhood shimmers with unforced reality.",
+                0.5756102297935888
+            ],
+            [
+                "41_it shows how an ordinary life can be reflected in an extraordinary movie.",
+                0.583423779830866
+            ],
+            [
+                "43_there's never been a movie quite like boyhood, and it may be years before anyone works up the gumption to match its achievement.",
+                0.5329928774591577
+            ],
+            [
+                "45_a heady film experience packed with so many telling details about life in the united states over the past 12 years - and one that makes you care such much about the struggles and foibles of its imperfect characters.",
+                0.8407313694364191
+            ],
+            [
+                "47_a quiet stunner of a movie that yields to time rather than try to bend it to its will.",
+                -0.5115770001724247
+            ],
+            [
+                "49_if there was ever project that demanded to be informed by the history of its making, \"boyhood\" is it.",
+                0.5189490131023603
+            ],
+            [
+                "50_boyhood fills you with openhearted happiness and awe at its scope and daring.",
+                0.8712775073971261
+            ],
+            [
+                "55_boyhood is a narrative drama, ",
+                0.6145877626309304
+            ],
+            [
+                "56_unshakable, witty and deeply felt, the film will be paying emotional dividends for a long, long time.",
+                0.6615142725955603
+            ]
+        ]
+    }
+}

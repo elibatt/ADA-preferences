@@ -1,0 +1,213 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "5_it's his best work since sideways.",
+                0.6147679524496447
+            ],
+            [
+                "6_i think this will be a movie that you'll want to go back to and and revisit.",
+                -0.664558902022139
+            ],
+            [
+                "10_wry, funny (with some zingers that will stay with you long after the film is over), and closely observed, the holdovers is my kind of christmas film.",
+                0.8103488256144188
+            ],
+            [
+                "13_the holdovers is a brilliant study of an all-boys school and the troubled men it produces.",
+                0.7491175781059424
+            ],
+            [
+                "18_this is one of the best films of the year, with career best work by all involved.",
+                0.9355102208525675
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "7",
+                1
+            ],
+            [
+                "12",
+                1
+            ],
+            [
+                "14",
+                1
+            ],
+            [
+                "15",
+                1
+            ],
+            [
+                "16",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "2_this is one of the director’s greatest films.",
+                0.83601639194967
+            ],
+            [
+                "12_for me, it stands as a minor if beautifully crafted film in the context of payne’s entire oeuvre, ",
+                0.7593378877340325
+            ],
+            [
+                "14_nothing about the holdovers sounds particularly special, and yet it’s one of director alexander payne’s best films -- very funny, occasionally touching and a sterling example of the bonds that can be forged by an unlikely family.",
+                0.8686454090792768
+            ],
+            [
+                "15_nearly 20 years after alexander payne and paul giamatti teamed up for sideways, they’re reunited for the wintry character study, with giamatti once again turning in masterful work as a hard-tippling misanthrope...",
+                0.8536812536582442
+            ]
+        ],
+        "entities": {
+            "Alexander Payne": {
+                "unique_args": [
+                    [
+                        "2_in payne’s work, one individual’s foibles and failings can open another’s perception",
+                        0.6602414847134193
+                    ],
+                    [
+                        "12_for me, it stands as a minor if beautifully crafted film in the context of payne’s entire oeuvre, ",
+                        0.7593378877340325
+                    ],
+                    [
+                        "14_nothing about the holdovers sounds particularly special, and yet it’s one of director alexander payne’s best films -- very funny, occasionally touching and a sterling example of the bonds that can be forged by an unlikely family.",
+                        0.8686454090792768
+                    ],
+                    [
+                        "15_nearly 20 years after alexander payne and paul giamatti teamed up for sideways, they’re reunited for the wintry character study, with giamatti once again turning in masterful work as a hard-tippling misanthrope...",
+                        0.8536812536582442
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "15_nearly 20 years after alexander payne and paul giamatti teamed up for sideways, they’re reunited for the wintry character study, with giamatti once again turning in masterful work as a hard-tippling misanthrope...",
+                0.8536812536582442
+            ],
+            [
+                "18_each scene is a small gem, the ensemble work is as good as it gets, the screenplay by david hemingson is smart, funny, and touching.",
+                0.8688303269699911
+            ]
+        ],
+        "entities": {
+            "David Hemingson": {
+                "unique_args": [
+                    [
+                        "18_each scene is a small gem, the ensemble work is as good as it gets, the screenplay by david hemingson is smart, funny, and touching.",
+                        0.8688303269699911
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "7_paul giamatti [is] so good in the subtlest ways.",
+                0.7330329075121464
+            ],
+            [
+                "15_nearly 20 years after alexander payne and paul giamatti teamed up for sideways, they’re reunited for the wintry character study, with giamatti once again turning in masterful work as a hard-tippling misanthrope...",
+                0.8536812536582442
+            ],
+            [
+                "0_da'vine joy randolph is amazing in this as well.",
+                0.810354598389806
+            ],
+            [
+                "16_ the real joy of “the holdovers” is watching two pros and a newcomer deliver such beautiful, haunting performances.",
+                0.8263578899956806
+            ]
+        ],
+        "entities": {
+            "Paul Giamatti": {
+                "unique_args": [
+                    [
+                        "7_paul giamatti [is] so good in the subtlest ways.",
+                        0.7330329075121464
+                    ],
+                    [
+                        "15_nearly 20 years after alexander payne and paul giamatti teamed up for sideways, they’re reunited for the wintry character study, with giamatti once again turning in masterful work as a hard-tippling misanthrope...",
+                        0.8536812536582442
+                    ]
+                ]
+            },
+            "Da'Vine Joy Randolph": {
+                "unique_args": [
+                    [
+                        "0_da'vine joy randolph is amazing in this as well.",
+                        0.810354598389806
+                    ],
+                    [
+                        "16_ the real joy of “the holdovers” is watching two pros and a newcomer deliver such beautiful, haunting performances.",
+                        0.8263578899956806
+                    ]
+                ]
+            },
+            "Dominic Sessa": {
+                "unique_args": []
+            },
+            "Carrie Preston": {
+                "unique_args": []
+            },
+            "Andrew Garman": {
+                "unique_args": []
+            },
+            "Tate Donovan": {
+                "unique_args": []
+            },
+            "Gillian Vigman": {
+                "unique_args": []
+            },
+            "Brady Hepner": {
+                "unique_args": []
+            },
+            "Naheem Garcia": {
+                "unique_args": []
+            },
+            "Jim Kaplan": {
+                "unique_args": []
+            },
+            "Alexander Cook": {
+                "unique_args": []
+            },
+            "Michael Provost": {
+                "unique_args": []
+            },
+            "Melissa McMeekin": {
+                "unique_args": []
+            },
+            "Ian Dolley": {
+                "unique_args": []
+            },
+            "Kelly AuCoin": {
+                "unique_args": []
+            },
+            "Darby Lee-Stack": {
+                "unique_args": []
+            },
+            "Stephen Thorne": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

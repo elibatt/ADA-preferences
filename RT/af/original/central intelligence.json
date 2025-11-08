@@ -1,0 +1,248 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_central intelligence won't blow you out of the theater, ",
+                -0.6437429794650694
+            ],
+            [
+                "11_central intelligence is actually funny.",
+                0.5403905930786732
+            ],
+            [
+                "12_\"central intelligence\" is one of those slick, gunplay-riddled, stupidly plotted, aggressively loud buddy movies - so formulaic and dumb, even if you see it you'll probably forget you've seen it by the end of the year.",
+                0.5577055506245875
+            ],
+            [
+                "13_i like central intelligence, even when it is being stupid.",
+                -0.7847902586062439
+            ],
+            [
+                "14_, \"central intelligence\" is a clean-out-the-fridge soup of celebrity cameos and c.i.a. confusion.",
+                -0.5553693442881973
+            ],
+            [
+                "15_\"central intelligence\" is dumb in all the right ways, and also a bit smarter than you might expect.",
+                0.7484989719655435
+            ],
+            [
+                "18_and whys of the quest at hand aren't exactly important, as central intelligence is far more concerned with squeezing its leading men together-often literally-and kicking back to enjoy the juice, and that's a wise move.",
+                0.7242675137189724
+            ],
+            [
+                "20_painless, strained, occasionally amusing, and utterly disposable - just another studio buddy comedy/action movie that forgot where it put the script.",
+                -0.5514004794463274
+            ],
+            [
+                "24_ central intelligence isn't smart enough to make the most of their pairing.",
+                -0.6875053591017996
+            ],
+            [
+                "25_\"central intelligence\" won't win any points for originality, ",
+                0.5182023897296935
+            ],
+            [
+                "26_ their personal appeal hits its limits when they are recruited to perform in a film that is hard to sit through.",
+                -0.5462780241281857
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Rawson Marshall Thurber": {
+                "args": [
+                    [
+                        "29_rawston marshall thurber's tepid buddy comedy is stuck between the rock and a hart place.",
+                        -0.5686374815135499
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Rawson Marshall Thurber": {
+                "args": []
+            },
+            "Ike Barinholtz": {
+                "args": []
+            },
+            "David Stassen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_painless, strained, occasionally amusing, and utterly disposable - just another studio buddy comedy/action movie that forgot where it put the script.",
+                -0.5514004794463274
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sarah K. Thurber": {
+                "args": []
+            },
+            "Jason Bateman": {
+                "args": []
+            },
+            "Phil Reeves": {
+                "args": []
+            },
+            "Dylan Boyack": {
+                "args": []
+            },
+            "Timothy John Smith": {
+                "args": [
+                    [
+                        "8_ often weirdly sweet action comedy about bullies, high-school friendships and grown men who still love john hughes movies.",
+                        0.7199671018889369
+                    ]
+                ]
+            },
+            "Tim Griffin": {
+                "args": []
+            },
+            "Annie Kerins": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": [
+                    [
+                        "24_johnson and hart actually do have potential as a comic duo - better than ice cube and hart in the already stale ride",
+                        -0.6008332307822164
+                    ],
+                    [
+                        "26_johnson and hart are performers of trustworthy charisma, ",
+                        0.5430560646610696
+                    ],
+                    [
+                        "27_johnson and hart make the journey a little more pleasant than it could have been.",
+                        0.5336922460313493
+                    ],
+                    [
+                        "29_rawston marshall thurber's tepid buddy comedy is stuck between the rock and a hart place.",
+                        -0.5686374815135499
+                    ]
+                ]
+            },
+            "Amy Ryan": {
+                "args": []
+            },
+            "Megan Park": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Rickey Eugene Brown": {
+                "args": []
+            },
+            "Danielle Nicolet": {
+                "args": []
+            },
+            "Nate Richman": {
+                "args": []
+            },
+            "Rawson Marshall Thurber": {
+                "args": []
+            },
+            "Aaron Paul": {
+                "args": []
+            },
+            "Thomas Kretschmann": {
+                "args": []
+            },
+            "Michael Patrick Kane": {
+                "args": []
+            },
+            "Lawrence Koplin": {
+                "args": []
+            },
+            "Ryan Hansen": {
+                "args": []
+            },
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "2_no one can steal the show from johnson and hart.",
+                        0.6146790870487022
+                    ],
+                    [
+                        "4_the film has a firm grasp of johnson's appeal as a leading man: he is hollywood's most imposing ray of sunshine.",
+                        0.733518518141842
+                    ],
+                    [
+                        "7_if you're a fan of either hart or johnson's usual movie shtick, central intelligence is just about fun enough to recommend.",
+                        0.539816586995551
+                    ],
+                    [
+                        "9_a buddy comedy that's pleasant enough without ever reaching the full comic heights that johnson's casting implicitly promises.",
+                        0.7542363867131805
+                    ],
+                    [
+                        "16_what central intelligence lacks in depth or inventiveness, it makes up for in personality, steaming along on the robust comic rapport between johnson and hart.",
+                        0.7644132342507098
+                    ],
+                    [
+                        "17_you go along for the ride because kevin hart and dwayne johnson promise something they can't deliver: a movie as funny as they are.",
+                        -0.605198296164948
+                    ],
+                    [
+                        "19_hart and johnson make a terrific team, ",
+                        0.7386095772713291
+                    ],
+                    [
+                        "22_central intelligence, a buddy action-comedy starring kevin hart and dwayne \"the rock\" johnson, doesn't pack many big laughs, ",
+                        -0.6712076532060511
+                    ],
+                    [
+                        "23_we're here for the johnson and hart show, and they deliver.",
+                        -0.5123438218714206
+                    ],
+                    [
+                        "30_hart and johnson are a classic comedy duo in the tradition of abbott & costello, bob hope & bing crosby and gene wilder & richard pryor.",
+                        0.6211279132089188
+                    ],
+                    [
+                        "33_it capitalizes on the chemistry between hart and johnson, who convey what seems like genuine delight in each other's company - something that gives this bromantic diversion a giddy kick.",
+                        0.8553986925894919
+                    ],
+                    [
+                        "34_the blend of johnson's laid-back hero-dudeness and hart's whippet-fast comic timing should have been good fun.",
+                        0.7313982741377918
+                    ],
+                    [
+                        "34_make johnson the comedian and hart the straight man.",
+                        -0.5090091767523509
+                    ],
+                    [
+                        "35_there's literally nothing unloveable about johnson's performance - think peak-form john candy trapped in the body of, well, the rock.",
+                        -0.606104721099149
+                    ]
+                ]
+            },
+            "Slaine Jenkins": {
+                "args": []
+            },
+            "Kyle Washburn": {
+                "args": []
+            },
+            "David Stassen": {
+                "args": []
+            },
+            "Robert Woo": {
+                "args": []
+            },
+            "Sione Kelepi": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

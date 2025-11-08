@@ -1,0 +1,156 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Gus Van Sant": {
+                "args": [
+                    [
+                        "0_gus van sant's biopic about a self-made artist brims with hard-won wisdom and terrific performances from unlikely actors.",
+                        0.7525534314614033
+                    ],
+                    [
+                        "4_leave it to filmmaker gus van sant to make a film about a hopeless drunk who becomes a quadriplegic into a story that's funny, dark, sad, sweet and even sort of inspirational.",
+                        0.750405440092285
+                    ],
+                    [
+                        "7_it's hardly the worst movie of the year-van sant is too competent a filmmaker for that, even now-",
+                        -0.8281822066189073
+                    ],
+                    [
+                        "8_joaquin phoenix and director gus van sant turn a biopic of quadriplegic cartoonist john callahan into something tender, unique.",
+                        0.7312906580665048
+                    ],
+                    [
+                        "18_van sant the screenwriter does a disservice to the material by constantly chopping up narrative strands into bite-size chunks and later circling back to key incidents.",
+                        -0.6911337764935099
+                    ],
+                    [
+                        "19_ van sant uses humor to avoid the pitfalls of a schmaltzy lifetime movie recovery story, he still seems afraid to confront callahan as an artist, and a person,",
+                        0.516077423219825
+                    ],
+                    [
+                        "21_if there's one thing that van sant does very well here, it's creating a humanizing anchor at the center of the story.",
+                        0.5158425198595381
+                    ],
+                    [
+                        "23_van sant's film is fascinating for many reasons.",
+                        0.7501617688356481
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "6_\"don't worry, he won't get far on foot\" sometimes plays more like an acting class than a proper movie.",
+                -0.6509474319357523
+            ],
+            [
+                "6_ with acting this good it's difficult to complain.",
+                0.524077646086313
+            ]
+        ],
+        "entities": {
+            "Jack Black": {
+                "args": []
+            },
+            "Udo Kier": {
+                "args": []
+            },
+            "Carrie Brownstein": {
+                "args": []
+            },
+            "Beth Ditto": {
+                "args": []
+            },
+            "Kim Gordon": {
+                "args": []
+            },
+            "Ronnie Adrian": {
+                "args": []
+            },
+            "Tony Greenhand": {
+                "args": []
+            },
+            "Rooney Mara": {
+                "args": []
+            },
+            "Mark Webber": {
+                "args": []
+            },
+            "Jonah Hill": {
+                "args": []
+            },
+            "Joaquin Phoenix": {
+                "args": [
+                    [
+                        "1_can one wan directing job mute the sheer performance power of joaquin phoenix?",
+                        0.6258288074731667
+                    ],
+                    [
+                        "8_joaquin phoenix and director gus van sant turn a biopic of quadriplegic cartoonist john callahan into something tender, unique.",
+                        0.7312906580665048
+                    ],
+                    [
+                        "12_[phoenix's] interactions with jonah hill as his sponsor are really true and kind of heartbreaking.",
+                        0.726035605661564
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_van sant the screenwriter does a disservice to the material by constantly chopping up narrative strands into bite-size chunks and later circling back to key incidents.",
+                -0.6911337764935099
+            ]
+        ],
+        "entities": {
+            "Gus Van Sant": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the film sings with creativity and a feel-good '70s vibe and some fantastic dark humor.",
+                0.8028590452631195
+            ],
+            [
+                "5_the film, loosely adapted from callahan's life, is as divisive as his work, sure to be considered brutally funny by some and brutally insensitive by others.",
+                0.8339765991958403
+            ],
+            [
+                "6_\"don't worry, he won't get far on foot\" sometimes plays more like an acting class than a proper movie.",
+                -0.6509474319357523
+            ],
+            [
+                "11_a movie that's supposed to inspire winds up being irritating instead.",
+                -0.7806112697602879
+            ],
+            [
+                "14_a movie about that most essential thing in life: finding your people, even when you don't know who you are yourself.",
+                0.7180793649926497
+            ],
+            [
+                "24_the movie falls short of deep insights, ",
+                -0.5185677344336934
+            ],
+            [
+                "24_es of callahan's endearing work.",
+                0.6101524416447789
+            ],
+            [
+                "25_but when his high-wire emotional arc suits the movie,",
+                -0.5133318840369822
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

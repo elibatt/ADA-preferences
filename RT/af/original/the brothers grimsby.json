@@ -1,0 +1,380 @@
+{
+    "writer": {
+        "entities": {
+            "Phil Johnston": {
+                "args": []
+            },
+            "Peter Baynham": {
+                "args": []
+            },
+            "Sacha Baron Cohen": {
+                "args": [
+                    [
+                        "0_ it's amazing how quickly sasha baron cohen's comedy has grown safe and stale.",
+                        0.6228940624565424
+                    ],
+                    [
+                        "2_the joke at the heart of sacha baron cohen's new comedy",
+                        0.6748508646859261
+                    ],
+                    [
+                        "12_sacha baron cohen's new comedy brings the raunch - ",
+                        0.7123709304199481
+                    ],
+                    [
+                        "13_while there may be comedy gold in an elephant's vagina, mr. cohen fails to find it here.",
+                        -0.7086293760603612
+                    ],
+                    [
+                        "18_at the very least, it's more entertaining than the time baron cohen dumped ashes on ryan seacrest at the oscars ",
+                        0.5960161110254091
+                    ],
+                    [
+                        "22_sacha baron cohen takes a backward lurch.",
+                        -0.5363746720687406
+                    ],
+                    [
+                        "23_as frequently hilarious as grimsby is, it doesn't see cohen working at his full potential",
+                        0.5467734566606077
+                    ],
+                    [
+                        "24_baron cohen and strong are both robustly physical performers, and their finest moments are when they're grappling with each other, producing a great tangle of limbs and teeth.",
+                        0.8629119791316082
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "1_cohen, brilliant in his craftier and more avant-garde shock-humor roles, is too irritating to make this character likable, much less lovable as the story demands.",
+                0.5803562097022177
+            ],
+            [
+                "24_ the script... is not especially generous to the other members of the cast.",
+                -0.641979397933504
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michelene Deppe": {
+                "args": []
+            },
+            "Gabourey Sidibe": {
+                "args": []
+            },
+            "David James": {
+                "args": []
+            },
+            "Joanna Bobin": {
+                "args": []
+            },
+            "Jon-Jon Lockwood": {
+                "args": []
+            },
+            "Danny Green": {
+                "args": []
+            },
+            "Miles Jupp": {
+                "args": []
+            },
+            "Tamsin Egerton": {
+                "args": []
+            },
+            "Clive Tyldesley": {
+                "args": []
+            },
+            "Rebel Wilson": {
+                "args": []
+            },
+            "Jamie Glassman": {
+                "args": []
+            },
+            "Annabelle Wallis": {
+                "args": []
+            },
+            "Janie Booth": {
+                "args": []
+            },
+            "Ricky Tomlinson": {
+                "args": []
+            },
+            "Jamie Chambers": {
+                "args": []
+            },
+            "Raheem Sterling": {
+                "args": []
+            },
+            "Mark Strong (II)": {
+                "args": []
+            },
+            "John Bradley": {
+                "args": []
+            },
+            "Penelope Cruz": {
+                "args": []
+            },
+            "Laura Thérèse": {
+                "args": []
+            },
+            "Craig Macrae": {
+                "args": []
+            },
+            "Nick Sampson": {
+                "args": []
+            },
+            "Steve Scott": {
+                "args": []
+            },
+            "Callum Joseph King": {
+                "args": []
+            },
+            "Ryan Pickard": {
+                "args": []
+            },
+            "Mika Behrman": {
+                "args": []
+            },
+            "Zak Sutcliffe": {
+                "args": []
+            },
+            "John Thomson": {
+                "args": []
+            },
+            "Rebecca Front": {
+                "args": []
+            },
+            "Isla Fisher": {
+                "args": []
+            },
+            "Claudia Adshead": {
+                "args": []
+            },
+            "Gabriel Chay Palmer": {
+                "args": []
+            },
+            "Robert Wilfort": {
+                "args": []
+            },
+            "Jorge de Juan": {
+                "args": []
+            },
+            "Stefano Pasianot": {
+                "args": []
+            },
+            "Clayton Evertson": {
+                "args": []
+            },
+            "Andy Townsend": {
+                "args": []
+            },
+            "Jordi Castello": {
+                "args": []
+            },
+            "Freddie Crowder": {
+                "args": []
+            },
+            "Hennie Bosman": {
+                "args": []
+            },
+            "Matt Baldwin": {
+                "args": []
+            },
+            "Peter Baynham": {
+                "args": []
+            },
+            "Johnny Vegas": {
+                "args": []
+            },
+            "Amaan Hendricks": {
+                "args": []
+            },
+            "Shaun Thomas": {
+                "args": []
+            },
+            "Sacha Baron Cohen": {
+                "args": [
+                    [
+                        "0_ it's amazing how quickly sasha baron cohen's comedy has grown safe and stale.",
+                        0.6228940624565424
+                    ],
+                    [
+                        "2_the joke at the heart of sacha baron cohen's new comedy",
+                        0.6748508646859261
+                    ],
+                    [
+                        "12_sacha baron cohen's new comedy brings the raunch - ",
+                        0.7123709304199481
+                    ],
+                    [
+                        "13_while there may be comedy gold in an elephant's vagina, mr. cohen fails to find it here.",
+                        -0.7086293760603612
+                    ],
+                    [
+                        "18_at the very least, it's more entertaining than the time baron cohen dumped ashes on ryan seacrest at the oscars ",
+                        0.5960161110254091
+                    ],
+                    [
+                        "22_sacha baron cohen takes a backward lurch.",
+                        -0.5363746720687406
+                    ],
+                    [
+                        "23_as frequently hilarious as grimsby is, it doesn't see cohen working at his full potential",
+                        0.5467734566606077
+                    ],
+                    [
+                        "24_baron cohen and strong are both robustly physical performers, and their finest moments are when they're grappling with each other, producing a great tangle of limbs and teeth.",
+                        0.8629119791316082
+                    ]
+                ]
+            },
+            "Paul Thornley": {
+                "args": []
+            },
+            "Nathan Joel Jukes": {
+                "args": []
+            },
+            "Sam Redford": {
+                "args": []
+            },
+            "Jamie Ben Chambers": {
+                "args": []
+            },
+            "Anthony Hines": {
+                "args": []
+            },
+            "Clifford 'Zorro' Sidloy": {
+                "args": []
+            },
+            "Ian McShane": {
+                "args": []
+            },
+            "Patrick Walton": {
+                "args": []
+            },
+            "Affif Ben Badra": {
+                "args": []
+            },
+            "Nick Boraine": {
+                "args": []
+            },
+            "Nhlanhla Mkhwanazi": {
+                "args": []
+            },
+            "David Harewood": {
+                "args": []
+            },
+            "Jason Furnival": {
+                "args": []
+            },
+            "Alex Lowe": {
+                "args": []
+            },
+            "Rory Keenan": {
+                "args": []
+            },
+            "Mark Theodore": {
+                "args": []
+            },
+            "Bob Cryer": {
+                "args": []
+            },
+            "Alex Lanipekun": {
+                "args": []
+            },
+            "Yusuf Hofri": {
+                "args": []
+            },
+            "Callum Joseph King-Chadwick": {
+                "args": []
+            },
+            "Feyi Babalola": {
+                "args": []
+            },
+            "Mihhail Sibul": {
+                "args": []
+            },
+            "Kyle Rowe": {
+                "args": []
+            },
+            "Scott Adkins": {
+                "args": []
+            },
+            "Sam Hazeldine": {
+                "args": []
+            },
+            "Margaret Jackman": {
+                "args": []
+            },
+            "Lewis Johnson": {
+                "args": []
+            },
+            "Patrick John Walton": {
+                "args": []
+            },
+            "Miles Evans": {
+                "args": []
+            },
+            "Lex Shrapnel": {
+                "args": []
+            },
+            "Barkhad Abdi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "24_ the script... is not especially generous to the other members of the cast.",
+                -0.641979397933504
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_the brothers grimsby [is] an enjoyable one, even when the film as a whole weaves between being just hilariously foul and incoherently sloppy.",
+                0.7426729679565133
+            ],
+            [
+                "3_mostly, the brothers grimsby simply wants to make you laugh.",
+                -0.6472341091682237
+            ],
+            [
+                "7_it's one of those movies that's barely a movie",
+                0.5412860480153375
+            ],
+            [
+                "14_as a comedy, \"the brothers grimsby\" is weak and scattershot, ",
+                -0.715208073508286
+            ],
+            [
+                "15_the movie has plenty of terrible scenes ",
+                -0.6563573463924552
+            ],
+            [
+                "16_the movie's scant 83 minutes dictate that the brothers grimsby proceed impatiently",
+                -0.6426571970363902
+            ],
+            [
+                "16_ the movie feels cut to fit the running time, rather than for the effectiveness of either the story or the comedy.",
+                -0.7339941116554372
+            ],
+            [
+                "19_compared to glib junk like zoolander 2, the brothers grimsby is practically high art.",
+                -0.7269106220273219
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Louis Leterrier": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

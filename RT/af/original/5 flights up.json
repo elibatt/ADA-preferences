@@ -1,0 +1,138 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Charlie Peters": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_if you're looking for a film completely free of loud explosions, raised voices or anything actually happening, you can't go wrong with this fusty new york fairytale.",
+                -0.6715695703973084
+            ],
+            [
+                "2_sometimes you see a play and you can imagine it being a movie.",
+                0.5440618511328882
+            ],
+            [
+                "2_sometimes you see a small movie like this, and you can imagine it working better as an intimate stage play.",
+                0.7899049385713124
+            ],
+            [
+                "5_the movie ends just as you expected it to end, and there are almost no surprises along the way.",
+                -0.5458609158037806
+            ],
+            [
+                "6_based on jill ciment's wry novel heroic measures, the film is at its best when it sticks with the everyday ...",
+                0.7217305737627744
+            ],
+            [
+                "8_5 flights up is a sweet film with a few nicely turned lines, some good jokes, and some very lovely dialogue.",
+                0.6995128147273694
+            ],
+            [
+                "11_\"5 flights up\" is far from perfect, ",
+                0.5743353848171979
+            ],
+            [
+                "13_it's good to see first-rate artists devoted to a film that doesn't pander to an unsophisticated audience with a thirst for violence and smut.",
+                0.7052924798066766
+            ],
+            [
+                "14_ the movie's far too pleasant for far too long.",
+                -0.6203523278743844
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Maury Ginsberg": {
+                "args": []
+            },
+            "Liza J. Bennett": {
+                "args": []
+            },
+            "Ilana Levine": {
+                "args": []
+            },
+            "Claire van der Boom": {
+                "args": []
+            },
+            "Ted Sod": {
+                "args": []
+            },
+            "Korey Jackson": {
+                "args": []
+            },
+            "Alysia Reiner": {
+                "args": []
+            },
+            "Michael Cristofer": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": [
+                    [
+                        "10_morgan freeman and diane keaton have unexpectedly great chemistry in this warm and funny comedy about a couple who contemplate leaving a walk-up apartment in brooklyn they've occupied for their entire 40-year marriage.",
+                        0.8498310150186108
+                    ],
+                    [
+                        "12_if 5 flights up is worth seeing, it's primarily for the pleasure of keaton and freeman's company, plus maybe for some tips on buying and selling an apartment.",
+                        0.8143137134920194
+                    ],
+                    [
+                        "14_diane keaton and morgan freeman are pleasantly entertaining in \"5 flights up.\"",
+                        0.6760052249691396
+                    ],
+                    [
+                        "16_keaton and freeman's chemistry goes a long way toward selling this trifle, and whatever it may lack in drama, it is refreshing to see a happy golden-years marriage depicted with such affection onscreen.",
+                        0.8338718784230625
+                    ]
+                ]
+            },
+            "Carrie Preston": {
+                "args": []
+            },
+            "Miriam Shor": {
+                "args": []
+            },
+            "Diane Keaton": {
+                "args": []
+            },
+            "Cynthia Nixon": {
+                "args": []
+            },
+            "Gary Wilmes": {
+                "args": []
+            },
+            "Sterling Jerins": {
+                "args": []
+            },
+            "Maddie Corman": {
+                "args": []
+            },
+            "Josh Pais": {
+                "args": []
+            },
+            "Diana Ciesla": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richard Loncraine": {
+                "args": []
+            }
+        }
+    }
+}

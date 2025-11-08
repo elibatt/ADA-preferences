@@ -1,0 +1,169 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_ \"the last word\" doesn't do her or her legacy justice.",
+                -0.6966250994177023
+            ],
+            [
+                "5_ would never happen in the way it happens here, there are positive aspects to \"the last word.\"",
+                0.51277958592795
+            ],
+            [
+                "9_a moribund movie that doesn't have a spontaneous, surprising - or genuine - bone in its body.",
+                -0.545445455410252
+            ],
+            [
+                "10_nothing in the movie will surprise you, ",
+                0.5593099504778877
+            ],
+            [
+                "14_to get to what's good about the last word, you're obliged to take it warts and all.",
+                0.6101839424594777
+            ],
+            [
+                "16_ that would require backbone, edge and honesty, none of which this movie finally has.",
+                0.5092429957126303
+            ],
+            [
+                "19_maclaine clearly likes to work.",
+                -0.6424950602279056
+            ],
+            [
+                "22_maclaine has something that shines through and elevates a film like this one.",
+                0.6865814988271249
+            ],
+            [
+                "22_the movie is prefab indie whimsy, ",
+                -0.5321476216091505
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mark Pellington": {
+                "args": [
+                    [
+                        "7_director mark pellington and first-time screenwriter stuart ross fink lack weitz's sense of taboo-busting mischief, opting instead for the more mundane strategy of unearthing hidden heartache.",
+                        0.7424884159162675
+                    ],
+                    [
+                        "13_that it starts off promisingly and then seems to drop off in quality has more to do with maclaine's performance than with pellington's fitful direction or stuart ross fink's cutesy script.",
+                        -0.5428469011137572
+                    ],
+                    [
+                        "21_harriet's obvious faults and blind spots as well as her bold second-wave feminism, and pellington largely succeeds.",
+                        0.7692285416420523
+                    ],
+                    [
+                        "23_casting is everything in director mark pellington's latest, with maclaine in blazingly fine form as she dignifies the movie's every pre-programmed emotional cue while blossoming from dragon lady into nurturing giver of life lessons.",
+                        0.8172149632516625
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Stuart Ross Fink": {
+                "args": [
+                    [
+                        "7_director mark pellington and first-time screenwriter stuart ross fink lack weitz's sense of taboo-busting mischief, opting instead for the more mundane strategy of unearthing hidden heartache.",
+                        0.7424884159162675
+                    ],
+                    [
+                        "13_that it starts off promisingly and then seems to drop off in quality has more to do with maclaine's performance than with pellington's fitful direction or stuart ross fink's cutesy script.",
+                        -0.5428469011137572
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_by the time maclaine's character harriet shows real humanity, all sympathy for her character's loneliness has long since vanished.",
+                0.5218061086963051
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Tom Everett Scott": {
+                "args": []
+            },
+            "Gedde Watanabe": {
+                "args": []
+            },
+            "Thomas Sadoski": {
+                "args": []
+            },
+            "Shirley MacLaine": {
+                "args": [
+                    [
+                        "1_the occasionally retired ms. maclaine is ever quick with a retort, ",
+                        0.552902481180718
+                    ],
+                    [
+                        "3_by the time maclaine's character harriet shows real humanity, all sympathy for her character's loneliness has long since vanished.",
+                        0.5218061086963051
+                    ],
+                    [
+                        "4_i hope that in the name of her decades-spanning career and six academy award nominations (plus one win), we might do maclaine the small courtesy of forgetting that this pedestrian and dull comedy ever happened.",
+                        -0.5537677791937229
+                    ],
+                    [
+                        "8_the film is lucky to have shirley maclaine return to her first starring role in years.",
+                        0.7133461728856532
+                    ],
+                    [
+                        "13_that it starts off promisingly and then seems to drop off in quality has more to do with maclaine's performance than with pellington's fitful direction or stuart ross fink's cutesy script.",
+                        -0.5428469011137572
+                    ],
+                    [
+                        "17_so empty and witless, dressing up a formulaic story with boatloads of unearned sentiment and embarrassing, one-note characters, that it seems destined to lie here as a bloated paperweight on maclaine's own memory.",
+                        -0.55886326657069
+                    ],
+                    [
+                        "20_it's a role that allows maclaine full range to be feisty, funny, blue (both kinds) and ruminative, ",
+                        0.702081759709514
+                    ],
+                    [
+                        "20_ in a movie that ultimately fails her by refusing to be what maclaine so often has been in her career: surprising.",
+                        -0.5769942161389099
+                    ],
+                    [
+                        "21_the film attempts to honor both maclaine/",
+                        -0.5047922248367798
+                    ],
+                    [
+                        "23_casting is everything in director mark pellington's latest, with maclaine in blazingly fine form as she dignifies the movie's every pre-programmed emotional cue while blossoming from dragon lady into nurturing giver of life lessons.",
+                        0.8172149632516625
+                    ]
+                ]
+            },
+            "Amanda Seyfried": {
+                "args": []
+            },
+            "Anne Heche": {
+                "args": []
+            },
+            "AnnJewel Lee Dixon": {
+                "args": []
+            },
+            "Yvette Freeman": {
+                "args": []
+            },
+            "Philip Baker Hall": {
+                "args": []
+            },
+            "Joel Murray": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

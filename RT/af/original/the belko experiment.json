@@ -1,0 +1,99 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "James Gunn (II)": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_for all its promise to be a wry commentary on the savagery of office politics, \"the belko experiment\" is more like an experiment in how many cracked-open skulls can be crammed into one movie.",
+                -0.5353861526256102
+            ],
+            [
+                "4_by the end of the film, you're left with the unshakable feeling that everyone involved, from actors to filmmakers to the audience, is, and should have been, better than material like this.",
+                -0.6251909889970684
+            ],
+            [
+                "6_belko is an appropriately disreputable, gleefully disturbing movie.",
+                0.6030151183529486
+            ],
+            [
+                "8_any movie that includes death by tape dispenser is worth seeing.",
+                0.668629207930459
+            ],
+            [
+                "9_the movie might have been better served by a director not hellbent on rubbing pretty much every head wound in the viewer's face.",
+                -0.6746388672819663
+            ],
+            [
+                "11_the belko experiment is the kind of film many people will walk out of, and those who stick it out to the end just to see the curtain pulled back will be sorely let down by an ending so anti-climactic i could spoil it right now",
+                -0.6447212839936465
+            ],
+            [
+                "13_as a self-aware guilty pleasure, \"the belko experiment\" may not quite seize greatness, ",
+                0.6816639483411387
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Owain Yeoman": {
+                "args": []
+            },
+            "Brent Sexton": {
+                "args": []
+            },
+            "Melonie Diaz": {
+                "args": []
+            },
+            "Adria Arjona": {
+                "args": []
+            },
+            "John C. McGinley": {
+                "args": []
+            },
+            "John Gallagher Jr.": {
+                "args": []
+            },
+            "Josh Brener": {
+                "args": []
+            },
+            "Michael Rooker": {
+                "args": []
+            },
+            "Tony Goldwyn": {
+                "args": []
+            },
+            "Sean Gunn": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_the movie might have been better served by a director not hellbent on rubbing pretty much every head wound in the viewer's face.",
+                -0.6746388672819663
+            ]
+        ],
+        "entities": {
+            "Greg McLean": {
+                "args": [
+                    [
+                        "0_greg mclean's the belko experiment is pure genre fun.",
+                        0.6988814537673788
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Taye Diggs": {
+                "args": []
+            },
+            "Tara Strong": {
+                "args": []
+            },
+            "Sia": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Cathy Weseluck": {
+                "args": []
+            },
+            "Nicole Oliver": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": []
+            },
+            "Kristin Chenoweth": {
+                "args": []
+            },
+            "Liev Schreiber": {
+                "args": []
+            },
+            "Tabitha St. Germain": {
+                "args": []
+            },
+            "Zoe Saldana": {
+                "args": []
+            },
+            "Uzo Aduba": {
+                "args": []
+            },
+            "Ashleigh Ball": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jayson Thiessen": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joe Ballarini": {
+                "args": []
+            },
+            "Michael Vogel (VI) ": {
+                "args": []
+            },
+            "Rita Hsiao": {
+                "args": []
+            },
+            "Meghan McCarthy": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film is done in the classic 2-d animation style and embraces the flat, colorful, saturday-morning cartoon look and feel.",
+                0.6108586246030837
+            ],
+            [
+                "2_imagine eating a giant bag of skittles, then throwing it all up in a fit of sugar-induced nausea and you'll have some idea of what it feels like to sit through my little pony: the movie.",
+                -0.5930952571691471
+            ],
+            [
+                "4_your status as worst animated feature of the year might well be in jeopardy when my little pony: the movie trots into theaters this weekend.",
+                -0.5240223996202048
+            ],
+            [
+                "5_\"my little pony: the movie\" won't disrupt the best animated feature category at next year's oscars (",
+                0.7658790593757707
+            ],
+            [
+                "6_most of the film feels like an exercise in creating enough plot to hit the 90-minute mark.",
+                -0.6624878684556509
+            ],
+            [
+                "7_it's always nice when a kid's film aims higher than the bare necessities, especially when it's a beloved property that doesn't have to.",
+                -0.5595782863300911
+            ],
+            [
+                "10_the animated film has what fans of the tv series expect: their favorite ponies on an adventure with occasional songs about friendship and togetherness.",
+                0.6938701725601847
+            ]
+        ]
+    }
+}

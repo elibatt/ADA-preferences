@@ -1,0 +1,148 @@
+{
+    "writer": {
+        "entities": {
+            "Guillermo Amoedo": {
+                "args": []
+            },
+            "Eli Roth": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Bruno Pakomio": {
+                "args": []
+            },
+            "Ramon Llao": {
+                "args": []
+            },
+            "Eusebio Arenas": {
+                "args": []
+            },
+            "Nicolás Martínez Zemborain": {
+                "args": []
+            },
+            "Paul Norris": {
+                "args": []
+            },
+            "Maria Tepihe": {
+                "args": []
+            },
+            "Marco Frias": {
+                "args": []
+            },
+            "Eufemia Teao": {
+                "args": []
+            },
+            "John Mark Allan": {
+                "args": []
+            },
+            "Cody Pittman": {
+                "args": []
+            },
+            "Sky Ferreira": {
+                "args": []
+            },
+            "Antonieta Pari": {
+                "args": []
+            },
+            "Daryl Sabara": {
+                "args": []
+            },
+            "Lorenza Izzo": {
+                "args": []
+            },
+            "Kirby Bliss Blanton": {
+                "args": []
+            },
+            "Carola Chacon": {
+                "args": []
+            },
+            "Mary Dunworth": {
+                "args": []
+            },
+            "Ariel Levy": {
+                "args": []
+            },
+            "Sally Rose": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_any sense that the kids die because they never bothered to research the tribe they were trying to save is undermined by the movie's treatment of the natives as just as abstract.",
+                -0.7538657740756616
+            ],
+            [
+                "1_\"the green inferno\" is a breezy college comedy.",
+                -0.5784985038731122
+            ],
+            [
+                "3_\"the green inferno\" is not exactly a feel-good film, ",
+                0.5574184088196924
+            ],
+            [
+                "4_a flop of a horror film that overestimates gore for actual scares.",
+                -0.6070049256590357
+            ],
+            [
+                "5_the green inferno is less a riff on spaghetti splatter flicks like cannibal holocaust than a desperate-to-shock pastiche of guts and gore served with a wink to audiences with strong stomachs.",
+                0.5356622549666828
+            ],
+            [
+                "8_the film is measured and executed effectively to satiate horror fans' bloodlust, yet its underlying messages are just so repugnant.",
+                0.6483153774060388
+            ],
+            [
+                "9_the movie is a revisiting of what is often called the cannibal subgenre, a vile strain of films in which westerners encounter tribes in the jungle.",
+                0.587940003181672
+            ],
+            [
+                "11_the green inferno can easily be dismissed as juvenilia, both in its sneering rebuke of political correctness and in its zeal for unearthing a horror tradition that should have been laid to rest.",
+                0.6960079371733834
+            ],
+            [
+                "13_finish your popcorn early if you're going to \"the green inferno,\" and save the bucket to barf in.",
+                -0.5478739797484194
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Eli Roth": {
+                "args": [
+                    [
+                        "6_eli roth is extremely extreme.",
+                        -0.5537386603514904
+                    ],
+                    [
+                        "7_whatever criticism you want to throw at roth, at least the director stays true to his singular, repulsive vision: his cannibals-gone-wild tale is a work of unrelenting and squishy terror.",
+                        0.7138751899084617
+                    ],
+                    [
+                        "12_the green inferno fancies itself a gory skewering of what roth has repeatedly referred to as \"slacktivism.\"",
+                        -0.6687154056026126
+                    ],
+                    [
+                        "14_eli roth's faux-smart, long-shelved, and exploitative-as-hell cannibal tale \"the green inferno\" is a remarkably perfect example of horror's unexamined white privilege.",
+                        0.68509730896478
+                    ],
+                    [
+                        "16_a serviceable reintroduction to roth's idiosyncratic brand of horror, ",
+                        0.575849434587137
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

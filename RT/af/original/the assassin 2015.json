@@ -1,0 +1,143 @@
+{
+    "writer": {
+        "entities": {
+            "Cheng Ah": {
+                "args": []
+            },
+            "Hai-Meng Hsieh": {
+                "args": []
+            },
+            "Hai Meng Hsieh": {
+                "args": []
+            },
+            "T'ien-wen Chu": {
+                "args": []
+            },
+            "Hsiao-hsien Hou": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Hsiao-hsien Hou": {
+                "args": [
+                    [
+                        "4_part of the problem is hou's style works at odds with the material.",
+                        -0.5102863850750536
+                    ],
+                    [
+                        "8_ hou hsiao-hsien's the assassin is technically a wuxia film - martial arts, swordplay, the whoosh of arrows in flight - it is much more a film of stillness, quiet,",
+                        0.6315375758960355
+                    ],
+                    [
+                        "15_combining hou's patient, observant style with a historical martial arts tale, the film is a fascinating hybrid of craft, genre and story.",
+                        0.8295974260296545
+                    ],
+                    [
+                        "21_if the assassin is sometimes agonisingly slow, it's also agonisingly well-crafted, and it's an agony that regularly tips into ecstasy as hou allows us to be lost in the period, people and places he offers us.",
+                        0.7415080373762902
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the assassin\" is gorgeous to look at, ",
+                0.7998769972592855
+            ],
+            [
+                "3_and they make \"the assassin\" unforgettable.",
+                0.6407907201053685
+            ],
+            [
+                "5_the assassin is like some stereotypical beauty - gorgeous, ",
+                0.6767859409350749
+            ],
+            [
+                "7_ if you think it's for you - if you believe that beauty is its own reward - find the biggest canvas on which to behold this movie that you possibly can.",
+                0.6775559147576249
+            ],
+            [
+                "9_\"the assassin\" is a mood piece, evoking rather than explaining.",
+                0.6088347677209454
+            ],
+            [
+                "13_the film is intriguing, ",
+                0.6577147756031393
+            ],
+            [
+                "13_ ultimately opaque, a lovely, inert object that offers, in the name of movie love, an escape from so much that is vital and interesting about movies.",
+                0.6201630665941994
+            ],
+            [
+                "16_with and without allegory, to watch the assassin is to be carried along in the river of life, in all its ecstasy and terror.",
+                0.6616549095400923
+            ],
+            [
+                "19_the assassin is one of the most flat-out beautiful movies of the last decade, and also one of the most puzzling.",
+                0.6939771602362734
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nikki Hsieh": {
+                "args": []
+            },
+            "Ni Dahong": {
+                "args": []
+            },
+            "Fang Mei": {
+                "args": []
+            },
+            "Mei Yong": {
+                "args": []
+            },
+            "Chun Shih": {
+                "args": []
+            },
+            "Satoshi Tsumabuki": {
+                "args": []
+            },
+            "Shao-Huai Chang": {
+                "args": []
+            },
+            "Jacques Picoux": {
+                "args": []
+            },
+            "Chen Chang": {
+                "args": []
+            },
+            "Ching-Tien Juan": {
+                "args": []
+            },
+            "Yun Zhou": {
+                "args": []
+            },
+            "Qi Shu": {
+                "args": []
+            },
+            "Zhen Yu Lei": {
+                "args": []
+            },
+            "Sheu Fang-Yi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_the visuals relegate the acting to secondary importance.",
+                -0.5657886844644596
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

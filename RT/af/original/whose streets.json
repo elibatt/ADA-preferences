@@ -1,0 +1,83 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_whose streets? is an impassioned polemic.",
+                0.5444955125922472
+            ],
+            [
+                "3_\"whose streets?\" doesn't pretend to solve any problems, only illuminate those that are happening everyday.",
+                -0.5676233685788996
+            ],
+            [
+                "6_\"whose streets?\" marks the filmmaking de",
+                0.704571450807951
+            ],
+            [
+                "8_made in an impressionistic style with no narration, [whose streets?]",
+                -0.507140134916044
+            ],
+            [
+                "10_a movie that doesn't merely tell a gripping, important story, ",
+                0.6637327796362996
+            ],
+            [
+                "17_you may not agree with the politics of \"whose streets?\"",
+                0.7238689393313725
+            ],
+            [
+                "19_ultimately, whose streets? is timely not only because of its social message, ",
+                0.5758737504451121
+            ],
+            [
+                "21_there are sequences here, with officers arrayed in gas masks and guns mounted atop armored vehicles, that would not look out of place in a war film.",
+                -0.5673087978634824
+            ],
+            [
+                "23_whatever its flaws in terms of documentary craft, whose streets? is an essential testament to the commitment of activists whose credo is",
+                0.7574741635881636
+            ],
+            [
+                "24_raw and unadorned, whose streets? is a documentary in the truest sense of the word",
+                0.7074250522845081
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Damon Davis": {
+                "args": [
+                    [
+                        "11_\"whose streets?\" looks beyond the media narrative to offer what davis has called \"black people seeing black people\" - validation, encouragement and love in the face of a bitter legacy of injustice.",
+                        0.7310203279467342
+                    ]
+                ]
+            },
+            "Sabaah Folayan": {
+                "args": [
+                    [
+                        "6_ of folayan and davis, and it's charged by its personal touch.",
+                        0.6606008132059117
+                    ],
+                    [
+                        "14_even through this more personal lens, folayan and davis take an evenhanded approach: civilians loot stores and burn police cars, ",
+                        -0.5390171415999487
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

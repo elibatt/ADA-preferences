@@ -1,0 +1,52 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kabir Bedi": {
+                "args": []
+            },
+            "Pooja Hegde": {
+                "args": []
+            },
+            "Hrithik Roshan": {
+                "args": [
+                    [
+                        "1_fortunately the camera adores roshan, and everyone else melts away.",
+                        -0.5640677942783806
+                    ],
+                    [
+                        "2_mr. roshan, an appealing dancer, works hard to twinkle his way into our affections and make sarmar something more than a cardboard hero.",
+                        0.6844870779535768
+                    ]
+                ]
+            },
+            "Arunoday Singh": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ashutosh Gowariker": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a movie of remarkable scale",
+                0.745861819110775
+            ]
+        ]
+    }
+}

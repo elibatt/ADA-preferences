@@ -1,0 +1,192 @@
+{
+    "acting": {
+        "args": [
+            [
+                "3_the cast member you really feel bad for is the cat.",
+                -0.7804947853038923
+            ]
+        ],
+        "entities": {
+            "Melissa Duncan": {
+                "args": []
+            },
+            "Malina Weissman": {
+                "args": []
+            },
+            "Cheryl Hines": {
+                "args": []
+            },
+            "Jon Olson": {
+                "args": []
+            },
+            "Christopher Wilding": {
+                "args": []
+            },
+            "Ellen David": {
+                "args": []
+            },
+            "Barry Sonnenfeld": {
+                "args": []
+            },
+            "Kwasi Songui": {
+                "args": []
+            },
+            "Jewelle Blackman": {
+                "args": []
+            },
+            "Talitha Bateman": {
+                "args": []
+            },
+            "David-Alexandre Coiteux": {
+                "args": []
+            },
+            "Mark Camacho": {
+                "args": []
+            },
+            "Lori Graham": {
+                "args": []
+            },
+            "Kyle Gatehouse": {
+                "args": []
+            },
+            "Jennifer Garner": {
+                "args": []
+            },
+            "Robert Harrison": {
+                "args": []
+            },
+            "Kevin Spacey": {
+                "args": []
+            },
+            "Brad Aldous": {
+                "args": []
+            },
+            "Jack Hallett": {
+                "args": []
+            },
+            "Christopher Walken": {
+                "args": []
+            },
+            "Sook Hexamer": {
+                "args": []
+            },
+            "Julianne Jain": {
+                "args": []
+            },
+            "Melissa Duncan-Seon": {
+                "args": []
+            },
+            "Chloe Sonnenfeld": {
+                "args": [
+                    [
+                        "10_in addition to listless direction from sonnenfeld, and an overall feeling of cheapness and carelessness, nine lives also suffers from incoherence.",
+                        -0.5990560733820188
+                    ]
+                ]
+            },
+            "Serge Houde": {
+                "args": []
+            },
+            "Tristan D. Lalla": {
+                "args": []
+            },
+            "Jay Patterson": {
+                "args": []
+            },
+            "Jason Cavalier": {
+                "args": []
+            },
+            "Camille Ross": {
+                "args": []
+            },
+            "Mark Consuelos": {
+                "args": []
+            },
+            "Jason Blicker": {
+                "args": []
+            },
+            "Meghan Gabruch": {
+                "args": []
+            },
+            "Robbie Amell": {
+                "args": []
+            },
+            "Teddy Sears": {
+                "args": []
+            },
+            "Emilee Veluz": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_it's not that nine lives is terrible.",
+                -0.881356925368749
+            ],
+            [
+                "2_a frankenstein's monster of hollywood's worst instincts, a movie made with a math formula where its vision should have been.",
+                -0.9637277727528113
+            ],
+            [
+                "2_the fact of the matter is that you're going to need nine wines to endure \"nine lives.\"",
+                0.5018296367907064
+            ],
+            [
+                "4_this witless talking cat movie needs to go out with the kitty litter.",
+                -0.7200197172337105
+            ],
+            [
+                "7_to add insult to injury, the film actually opens with a montage of renowned cat videos.",
+                -0.5927138198239784
+            ],
+            [
+                "9_yes, nine lives is dumb.",
+                -0.658359964279387
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Barry Sonnenfeld": {
+                "args": [
+                    [
+                        "10_in addition to listless direction from sonnenfeld, and an overall feeling of cheapness and carelessness, nine lives also suffers from incoherence.",
+                        -0.5990560733820188
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_the script is stupid and debasing, subjecting the tycoon to numerous cat-piss and emasculation jokes after he turns into \"mister fuzzypants.\"",
+                -0.7243793245864908
+            ]
+        ],
+        "entities": {
+            "Matt Allen": {
+                "args": []
+            },
+            "Daniel Antoniazzi": {
+                "args": []
+            },
+            "Gwyn Lurie": {
+                "args": []
+            },
+            "Caleb Wilson": {
+                "args": []
+            },
+            "Ben Shiffrin": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_\"risk\" makes a case that character is stronger than idealism or ideology - that who you are will always trump what you hope to achieve.",
+                0.8193655380779434
+            ],
+            [
+                "5_we may not get a perfect documentary with risk, ",
+                0.7377662213403182
+            ],
+            [
+                "8_risk's strongest point is in its insistence that portraying one need not come at the expense of the other, that misogyny and acts of alleged abuse are in no way negated by some grander-scaled pursuit of justice.",
+                -0.6295667483125199
+            ],
+            [
+                "15_ and so many other things touched on by this film -- it's a story that demands watching.",
+                0.7020919701512273
+            ],
+            [
+                "19_timing being everything in life, risk could hardly be more of the moment.",
+                0.5890544189837787
+            ],
+            [
+                "22_\"risk\" raises deep misgivings about its subject and its maker.",
+                0.5946871348466429
+            ],
+            [
+                "24_it's a patchy and seemingly unfinished film.",
+                0.6111688040627444
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Laura Poitras": {
+                "args": [
+                    [
+                        "4_the most salient feature of risk is how poitras remains non-judgmental throughout.",
+                        0.6880769181566196
+                    ],
+                    [
+                        "6_it's telling that poitras has assigned that particular name to her portrait of wikileaks founder julian assange.",
+                        0.6725856317110325
+                    ],
+                    [
+                        "11_whether or not it was poitras' intention, risk reminds us that grand ideals are finally no grander than the flawed human beings who bring them to life.",
+                        0.6974806323193972
+                    ],
+                    [
+                        "12_another fascinating piece of cinema-as-history that reminds us that laura poitras remains one of our most original, courageous and valuable filmmakers.",
+                        0.8470977398818815
+                    ],
+                    [
+                        "18_it does seem as if poitras became a teensy bit of an ex-devotee over the course of shooting and editing risk, even if her own commitment to exposing the realities of the security state hasn't wavered.",
+                        -0.5550852481055895
+                    ],
+                    [
+                        "20_with the snowden and assange films, poitras is truly reporting from the cusp of history, ",
+                        0.7250946118351371
+                    ],
+                    [
+                        "21_the achievement - and the frustration - of this sleek, searching movie is that poitras' access often seems to obscure as much as it clarifies.",
+                        0.507547966451865
+                    ],
+                    [
+                        "25_too often, assange acts as if there are no such tensions, and poitras abets him in this.",
+                        -0.6514494548653065
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Daniel Ellsberg": {
+                "args": []
+            },
+            "Jacob Appelbaum": {
+                "args": []
+            },
+            "Julian Assange": {
+                "args": [
+                    [
+                        "1_ it deserves better than julian assange.",
+                        0.5902876725698243
+                    ],
+                    [
+                        "6_it's telling that poitras has assigned that particular name to her portrait of wikileaks founder julian assange.",
+                        0.6725856317110325
+                    ],
+                    [
+                        "7_the result is a searing portrait of assange as a man pitted against his cause, an egomaniacal advocate who may or may not care about the ramifications of his work.",
+                        0.5964667824391824
+                    ],
+                    [
+                        "13_there's plenty of access to assange, ",
+                        0.5703708122907779
+                    ],
+                    [
+                        "15_however you feel about assange -- and about risk, secrecy,",
+                        0.5301664787513956
+                    ],
+                    [
+                        "20_with the snowden and assange films, poitras is truly reporting from the cusp of history, ",
+                        0.7250946118351371
+                    ],
+                    [
+                        "23_it exists not to demystify assange ",
+                        -0.5788871554505463
+                    ],
+                    [
+                        "25_too often, assange acts as if there are no such tensions, and poitras abets him in this.",
+                        -0.6514494548653065
+                    ],
+                    [
+                        "26_risk is an incredibly gripping work, one made with an unprecedented level of access to assange, ",
+                        0.6476644738537667
+                    ],
+                    [
+                        "28_running a short 84 minutes, \"risk\" offers considerable insights into assange, ",
+                        -0.572617543281455
+                    ]
+                ]
+            },
+            "Sarah Harrison (XXIII)": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_\"risk\" makes a case that character is stronger than idealism or ideology - that who you are will always trump what you hope to achieve.",
+                0.8193655380779434
+            ]
+        ],
+        "entities": {}
+    }
+}

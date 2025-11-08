@@ -1,0 +1,51 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kim Sung-ryoung": {
+                "args": []
+            },
+            "Ryu Jun-yeol": {
+                "args": []
+            },
+            "Cha Seoung-won": {
+                "args": []
+            },
+            "Kim Joo-hyuck": {
+                "args": []
+            },
+            "Cho Jin-woong": {
+                "args": []
+            },
+            "Park Hae-jun": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lee Hae-Young": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Chung Seo-Kyung": {
+                "args": []
+            },
+            "Lee Hae-Young": {
+                "args": []
+            }
+        }
+    }
+}

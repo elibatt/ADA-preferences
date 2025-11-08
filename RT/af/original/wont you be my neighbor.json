@@ -1,0 +1,163 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Joe Negri": {
+                "args": []
+            },
+            "Fred Rogers": {
+                "args": [
+                    [
+                        "1_i enjoyed how the film explains rogers's personality and reveals some behind-the-scenes anecdotes, ",
+                        0.8032403839362394
+                    ],
+                    [
+                        "3_\" doesn't deify rogers, ",
+                        -0.6972535103034487
+                    ],
+                    [
+                        "4_this timely doc will resonate deeply with anyone who remembers rogers befriending them from the small screen.",
+                        0.6256624344231393
+                    ],
+                    [
+                        "5_you don't need a strong nostalgic connection to rogers' show to feel genuinely moved by the man's essential goodness, all the more as neville contrasts it with today's public discourse.",
+                        0.595891074541104
+                    ],
+                    [
+                        "8_ rogers's approach, the film seems to say, can be unexpectedly powerful.",
+                        0.6274936206788372
+                    ],
+                    [
+                        "19_kids need the antic and unruly as much as they need the soft acceptance of fred rogers.",
+                        -0.5231263738927558
+                    ],
+                    [
+                        "20_soothing tv host fred rogers was quietly radical at shaping generations of american children.",
+                        0.5365126206237768
+                    ],
+                    [
+                        "20_and this funny, touching and vital doc from oscar winner morgan neville shows why the late mr. rogers remains timely and timeless.",
+                        0.6652794049673858
+                    ],
+                    [
+                        "21_mister rogers made it his mission to give kids self-esteem.",
+                        0.6190480998001845
+                    ],
+                    [
+                        "24_manages to make the mild-mannered fred rogers look downright revolutionary.",
+                        -0.7471138307342746
+                    ],
+                    [
+                        "26_it's a beautiful day in the neighborhood when a wonderful, life-affirming documentary about mr. rogers comes around.",
+                        0.8838758621388372
+                    ],
+                    [
+                        "28_my neighbor asserts that there are more mr. rogers out there than we suspect.",
+                        0.5413788374545773
+                    ],
+                    [
+                        "31_skillfully peels that away, so viewers can remember one of mister rogers' most important lessons: that it's okay to feel.",
+                        0.627502359461409
+                    ],
+                    [
+                        "32_ it works best as a fascinating reminder that rogers was trying to be more than a mascot of american politeness.",
+                        0.8609559789378456
+                    ],
+                    [
+                        "34_the documentary is ultimately bittersweet, because it highlights just how alien fred rogers' philosophy of television has become today.",
+                        0.5967828818938412
+                    ],
+                    [
+                        "41_for the many generations that grew up with rogers' friendly face as their guide",
+                        0.7445744907094779
+                    ]
+                ]
+            },
+            "Yo-Yo Ma": {
+                "args": []
+            },
+            "François Clemmons": {
+                "args": []
+            },
+            "Kailyn Davis": {
+                "args": []
+            },
+            "David Newell": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Morgan Neville": {
+                "args": [
+                    [
+                        "5_you don't need a strong nostalgic connection to rogers' show to feel genuinely moved by the man's essential goodness, all the more as neville contrasts it with today's public discourse.",
+                        0.595891074541104
+                    ],
+                    [
+                        "6_as oscar winner morgan neville's timely, tear-duct lubricating documentary \"",
+                        0.6715503170933078
+                    ],
+                    [
+                        "20_and this funny, touching and vital doc from oscar winner morgan neville shows why the late mr. rogers remains timely and timeless.",
+                        0.6652794049673858
+                    ],
+                    [
+                        "36_filmmaker morgan neville delivers a sweet, affecting story.",
+                        0.8185538172783244
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_ to me, won't you be my neighbor is an important film because it makes a convincing case for love above all.",
+                0.7174404989691368
+            ],
+            [
+                "10_a film that so deeply embodies its subject that it almost transcends it.",
+                -0.5150506482794007
+            ],
+            [
+                "13_ the sentiment and affection that pour through the film is honestly arrived at.",
+                0.624986640722651
+            ],
+            [
+                "14_this beautiful film celebrates a deeply good man with a great gift for repairing.",
+                0.9215362686976285
+            ],
+            [
+                "22_it's an hour-and-a-half of peace, a movie that exists beyond cynicism and irony.",
+                -0.5390115891958397
+            ],
+            [
+                "25_neville has created a film that operates both as a dewy-eyed nostalgia trip and stirring appeal for civility.",
+                0.7676809454831949
+            ],
+            [
+                "27_this movie is at once unapologetically admiring and intellectually rigorous.",
+                -0.5321396618984937
+            ],
+            [
+                "32_the film is touching, sometimes saccharine, and other times bluntly honest, ",
+                0.721986879625203
+            ],
+            [
+                "34_ the film also functions as a gentle rallying cry.",
+                0.6850067412719608
+            ]
+        ]
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_\"victor frankenstein\" goes uphill ... for a bit before plummeting downhill fast.",
+                -0.5916961168001568
+            ],
+            [
+                "8_the first words spoken in victor frankenstein are \"you know the story,\" and anyone who simply mutters \"yep,\" gets up, and heads back to the box office for a refund will be well ahead of the game.",
+                0.6951880321814088
+            ],
+            [
+                "9_thin as a halfpenny, \"victor frankenstein\" has nothing to offer on science and the mysteries of creation, ",
+                -0.5566777804616388
+            ],
+            [
+                "10_this un-terrifying film tries to find an interesting twist on the classic frankenstein tale, ",
+                0.529699174992201
+            ],
+            [
+                "20_whether you call it a hybrid, an origin story, a prequel, spinoff or \"regeneration,\" the stitched-together monster mashup that is victor frankenstein is in one sense a perfect specimen:",
+                0.8215021705775092
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Paul McGuigan": {
+                "args": [
+                    [
+                        "19_paul mcguigan directs, ",
+                        0.5311354043225137
+                    ],
+                    [
+                        "23_despite director paul mcguigan's eccentric attempt to add a fresh vision to the story combining melodrama and black comedy, he has, in effect,",
+                        -0.6111512737094245
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Bronson Webb": {
+                "args": []
+            },
+            "Rufus White": {
+                "args": []
+            },
+            "Carolina Vella": {
+                "args": []
+            },
+            "Spencer Wilding": {
+                "args": []
+            },
+            "Fiona Nunn": {
+                "args": []
+            },
+            "Adrian Schiller": {
+                "args": []
+            },
+            "Harley duMaurier": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Callum Turner": {
+                "args": []
+            },
+            "John Burton": {
+                "args": []
+            },
+            "Ant Henson": {
+                "args": []
+            },
+            "Adam Bond": {
+                "args": []
+            },
+            "Alistair Petrie": {
+                "args": []
+            },
+            "Drew Sheridan-Wheeler": {
+                "args": []
+            },
+            "Cera Rose Pickering": {
+                "args": []
+            },
+            "Andrew Scott": {
+                "args": []
+            },
+            "Yves O'Hara": {
+                "args": []
+            },
+            "David Swift": {
+                "args": []
+            },
+            "Freddie Fox": {
+                "args": []
+            },
+            "Barrie Martin": {
+                "args": []
+            },
+            "Adrian Palmer": {
+                "args": []
+            },
+            "Arti Shah": {
+                "args": []
+            },
+            "Edmund Sage-Green": {
+                "args": []
+            },
+            "Henry McCook": {
+                "args": []
+            },
+            "Attila G. Kerekes": {
+                "args": []
+            },
+            "Sal Bolton": {
+                "args": []
+            },
+            "Patricia Winker": {
+                "args": []
+            },
+            "Georgie-May Tearle": {
+                "args": []
+            },
+            "Matthew John Morley": {
+                "args": []
+            },
+            "Guillaume Delaunay": {
+                "args": []
+            },
+            "Rita McDonald Damper": {
+                "args": []
+            },
+            "Steve Saunders": {
+                "args": []
+            },
+            "Jessica Brown Findlay": {
+                "args": []
+            },
+            "Peter Lidell": {
+                "args": []
+            },
+            "Mark Gatiss": {
+                "args": []
+            },
+            "Andrew Porter": {
+                "args": []
+            },
+            "Tiago Alexandre Fonseca": {
+                "args": []
+            },
+            "Francesca Bennett": {
+                "args": []
+            },
+            "Daniel Radcliffe": {
+                "args": [
+                    [
+                        "5_only radcliffe escapes unscathed, lending igor a convincing psychology ",
+                        0.5847044291049909
+                    ],
+                    [
+                        "15_as radcliffe says from the beginning, we know this story.",
+                        0.6908189460125641
+                    ]
+                ]
+            },
+            "Marc Alan Nicholson": {
+                "args": []
+            },
+            "Ashley Hudson": {
+                "args": []
+            },
+            "Christian Wolf-La'Moy": {
+                "args": []
+            },
+            "Chris Marchant": {
+                "args": []
+            },
+            "Mel Blakey": {
+                "args": []
+            },
+            "Will Chambers": {
+                "args": []
+            },
+            "Kieran Jones": {
+                "args": []
+            },
+            "Andrew James Porter": {
+                "args": []
+            },
+            "Bron James": {
+                "args": []
+            },
+            "Adam Roberts": {
+                "args": []
+            },
+            "Daniel Mays": {
+                "args": []
+            },
+            "Sipei Benson": {
+                "args": []
+            },
+            "Craig Walters": {
+                "args": []
+            },
+            "James Michael Rankin": {
+                "args": []
+            },
+            "Louise Brealey": {
+                "args": []
+            },
+            "Suzanne Williams": {
+                "args": []
+            },
+            "Alida Pantone": {
+                "args": []
+            },
+            "James McAvoy": {
+                "args": [
+                    [
+                        "1_mcguigan's visually vivid victor frankenstein races to its lightning-storm finish, running over the solid (if not electrifying) acting of mcavoy and radcliffe.",
+                        0.6463026379319119
+                    ],
+                    [
+                        "17_ the mad doctor (played by james mcavoy) gets title billing, the star this time is his faithful assistant igor (daniel radcliffe), a circus sideshow freak whose hump turns out to have been a really big zit (no,",
+                        -0.5893740492426931
+                    ]
+                ]
+            },
+            "Di Botcher": {
+                "args": []
+            },
+            "Matt Tyzack": {
+                "args": []
+            },
+            "Craig Goult": {
+                "args": []
+            },
+            "Valene Kane": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_mcavoy's performance is good for a few laughs, ",
+                0.5673938937104391
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Max Landis": {
+                "args": [
+                    [
+                        "2_to avoid the accusation that it's an unnecessary remake of an oft-told story, screenwriter max landis has reduced mary shelly's cautionary tale to a bad comic book, bereft of soul and intelligence.",
+                        -0.7581532205954131
+                    ]
+                ]
+            },
+            "Mary Shelley": {
+                "args": [
+                    [
+                        "4_the latest resurrection of mary shelley's horror classic has a tech-era vibe that adds to its modest appeal.",
+                        0.6158686956033125
+                    ],
+                    [
+                        "9_ it does reaffirm the grip that shelley's story retains on the imagination, no matter how far afield it's taken.",
+                        -0.600303221287632
+                    ],
+                    [
+                        "12_for much of the movie's running time, i wished i were watching mel brooks' classic take on shelley's yarn, \"young frankenstein.",
+                        -0.5709552881367037
+                    ],
+                    [
+                        "23_ written a chapter of \"mary shelley for dummies.\"",
+                        0.5374831625652939
+                    ],
+                    [
+                        "24_this skewed take on mary shelley's classic never shows enough sparks of life to justify reanimating its nearly 200-year-old source.",
+                        0.6516353181627889
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "21_feels as stitched together as one of the title character's monsters, flirting with horror, action, comedy and even romance ",
+                0.560671453434066
+            ]
+        ]
+    }
+}

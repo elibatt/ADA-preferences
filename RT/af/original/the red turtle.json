@@ -1,0 +1,127 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Baptiste Goy": {
+                "args": []
+            },
+            "Axel Devillers": {
+                "args": []
+            },
+            "Tom Hudson": {
+                "args": []
+            },
+            "Michaël Dudok De Wit": {
+                "args": [
+                    [
+                        "24_dudok de wit modulates our emotions in sophisticated ways, first accessing the awe of the black stallion, then straight-up guilt and, finally, an evolution that can't be explained by anything other than hope.",
+                        0.6870632763948159
+                    ]
+                ]
+            },
+            "Isao Takahata": {
+                "args": []
+            },
+            "Emmanuel Garijo": {
+                "args": []
+            },
+            "Jean-Christophe Lie": {
+                "args": []
+            },
+            "Barbara Beretta": {
+                "args": []
+            },
+            "Pascale Ferran": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_yet once you're on its wavelength, the film is a mesmerizing experience.",
+                0.8191444288777208
+            ],
+            [
+                "3_the red turtle is a profoundly simple meditation on the many ways we've become alienated from nature and from the earth.",
+                0.8140639576099373
+            ],
+            [
+                "4_ the story is slight, the film leaves viewers with a lasting,",
+                0.5700469995615083
+            ],
+            [
+                "8_watching \"the red turtle\" ... is like falling into an 80-minute wormhole of spare artistry.",
+                -0.5254369399538901
+            ],
+            [
+                "14_in all ways, the film plays its hand gently.",
+                0.7418663884811912
+            ],
+            [
+                "15_ the red turtle's humanity is completely experiential in a way that matches the best studio ghibli joints.",
+                0.8110973233550012
+            ],
+            [
+                "16_the red turtle succeeds as both a sumptuous story of humanity's potential for unity with nature and an example of the unique human capacity for understanding through art.",
+                0.8393506403482992
+            ],
+            [
+                "18_the delicacy of the animated movie the red turtle... is so quietly breathtaking that to call it a tone poem doesn't quite do the film justice.",
+                0.8003874764807365
+            ],
+            [
+                "19_should you see the red turtle?",
+                0.5427517313807416
+            ],
+            [
+                "20_\"the red turtle\" practices a minor, gentle magic.",
+                0.6915620031915573
+            ],
+            [
+                "25_\"the red turtle\" is a visually stunning poetic fable, ",
+                0.6851533239068128
+            ],
+            [
+                "26_though some may find its allusiveness and magical-realist turns to be overly fanciful, the red turtle nevertheless remains throughout a simple,",
+                0.6012525275464606
+            ],
+            [
+                "27_the red turtle will make you want to ... discover your own private island paradise.",
+                0.6815142762681765
+            ],
+            [
+                "29_like the red turtle's shipwrecked protagonist, you have to simply stop fighting the current and go with the flow.",
+                0.5135426415277523
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michaël Dudok De Wit": {
+                "args": [
+                    [
+                        "24_dudok de wit modulates our emotions in sophisticated ways, first accessing the awe of the black stallion, then straight-up guilt and, finally, an evolution that can't be explained by anything other than hope.",
+                        0.6870632763948159
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Michaël Dudok De Wit": {
+                "args": []
+            },
+            "Pascale Ferran": {
+                "args": []
+            }
+        }
+    }
+}

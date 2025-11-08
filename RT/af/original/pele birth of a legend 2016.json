@@ -1,0 +1,220 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the story of brazilian soccer's ascension to the world stage is a remarkable one, and the film would have benefitted if the zimbalists had found a way to add a bit of depth - or even doubt - to the legend.",
+                0.8426206441317655
+            ],
+            [
+                "5_between the whitewashing factors and the very familiar narrative beats, there's a lot of this movie that's not much more than a tolerable drag.",
+                -0.5830949753933259
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Zimbalist": {
+                "args": []
+            },
+            "Jeff Zimbalist": {
+                "args": [
+                    [
+                        "8_co-directors jeff and michael zimbalist stick to the playbook throughout, from typical moments of uplift to a pelé cameo only slightly less fan-serving than stan lee's marvel spots.",
+                        -0.6424920706449244
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Duda Monteiro DosSantos": {
+                "args": []
+            },
+            "Jon Coterill": {
+                "args": []
+            },
+            "Lin Mo Shi": {
+                "args": []
+            },
+            "Jovana": {
+                "args": []
+            },
+            "Gabriel Vinicius Reis DeOliveira": {
+                "args": []
+            },
+            "Roger Haag": {
+                "args": []
+            },
+            "Alex Bilbao": {
+                "args": []
+            },
+            "Nathan Alves Rosseto": {
+                "args": []
+            },
+            "Arthur Murphy": {
+                "args": []
+            },
+            "Arthur Jansen": {
+                "args": []
+            },
+            "Ivan Orlic": {
+                "args": []
+            },
+            "Arthur Macedo": {
+                "args": []
+            },
+            "Diego Boneta": {
+                "args": []
+            },
+            "Gustavo Mascarenhas Ribas": {
+                "args": []
+            },
+            "Carey Strella": {
+                "args": []
+            },
+            "Seu Jorge": {
+                "args": []
+            },
+            "Kevin de Paula": {
+                "args": []
+            },
+            "Mariana Nunes": {
+                "args": []
+            },
+            "Garcia Junior": {
+                "args": []
+            },
+            "Cinara Leal": {
+                "args": []
+            },
+            "Guilherme Martins": {
+                "args": []
+            },
+            "Milton Gonçalves": {
+                "args": []
+            },
+            "Felipe Simas": {
+                "args": []
+            },
+            "Raphael Benicio Thome": {
+                "args": []
+            },
+            "Fernando Caruso": {
+                "args": []
+            },
+            "Jose Victor Pires DaFonseca": {
+                "args": []
+            },
+            "Fernando Pitt": {
+                "args": []
+            },
+            "Julio Levy": {
+                "args": []
+            },
+            "Sergio Menezes": {
+                "args": []
+            },
+            "Rodrigo Santoro": {
+                "args": []
+            },
+            "Thiago Rocha": {
+                "args": []
+            },
+            "Jorge Xavier": {
+                "args": []
+            },
+            "Agusto Madeira": {
+                "args": []
+            },
+            "Jerome Franz": {
+                "args": []
+            },
+            "Mailson Moura": {
+                "args": []
+            },
+            "Emmanuel Pasqualini": {
+                "args": []
+            },
+            "Icaro Amado": {
+                "args": []
+            },
+            "Daniel DeAraujo": {
+                "args": []
+            },
+            "Charles Myara": {
+                "args": []
+            },
+            "Antonio Karabachian": {
+                "args": []
+            },
+            "Milson Ferreira": {
+                "args": []
+            },
+            "Vincent D'Onofrio": {
+                "args": []
+            },
+            "Lui Mendes": {
+                "args": []
+            },
+            "André Mattos": {
+                "args": []
+            },
+            "Ricardo Accola": {
+                "args": []
+            },
+            "Raffaele Casuccio": {
+                "args": []
+            },
+            "Colm Meaney": {
+                "args": []
+            },
+            "Leonardo Lima Carvalho": {
+                "args": []
+            },
+            "Fabiano Bandeira": {
+                "args": []
+            },
+            "Alvaro Diniz": {
+                "args": []
+            },
+            "Tarciso Rossi": {
+                "args": []
+            },
+            "Rafael Henrique DeSouza Reuther": {
+                "args": []
+            },
+            "Gabriel Vinicius Reis-DeOliveira": {
+                "args": []
+            },
+            "Bruce Gomlevski": {
+                "args": []
+            },
+            "Theo Rodrigues Coelho Lima": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_it's as if pelé is no longer a flesh-and-blood character, ",
+                -0.5282498446756174
+            ]
+        ],
+        "entities": {
+            "Michael Zimbalist": {
+                "args": []
+            },
+            "Jeff Zimbalist": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the miracle season is pleasantly swift, ",
+                0.5768193123930179
+            ],
+            [
+                "1_this movie goes for the heartstrings and tear ducts more than the sports-conscious.",
+                -0.5423683059382451
+            ],
+            [
+                "2_a simple movie of straightforward sentimentalism and gung-ho, against-all-odds inspiration.",
+                0.771316874737412
+            ],
+            [
+                "3_the best thing about \"the miracle season\" is it lets that story unfold and doesn't do anything to stand in its way.",
+                0.5016421607040431
+            ],
+            [
+                "8_but the miracle season seems downright preordained,",
+                -0.5213032640032117
+            ],
+            [
+                "11_\"the miracle season\" is a pleasant surprise, the rare inspirational sports movie that actually earns its tears.",
+                0.8040691778877973
+            ],
+            [
+                "12_ it's not a film, it's a tri",
+                -0.5073206450188665
+            ],
+            [
+                "13_from lighting to music cues, \"the miracle season\" never misses a chance to lunge for your tear ducts, treating its characters less as flesh-and-blood humans than as props for delivering bromides.",
+                0.6190645013024509
+            ],
+            [
+                "14_even if you see through the benign (manipulative) strategies of \"the miracle season,\" which isn't hard to do, resistance is futile.",
+                -0.7128547282955529
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sean McNamara": {
+                "args": [
+                    [
+                        "6_\"miracle\" director sean mcnamara presents it.",
+                        0.6042162311259128
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Nesta Cooper": {
+                "args": []
+            },
+            "Helen Hunt": {
+                "args": [
+                    [
+                        "9_it's downright depressing to see oscar winners hunt and hurt struggling to make something meaningful out of their superficially written characters.",
+                        -0.6190628730758908
+                    ]
+                ]
+            },
+            "William Hurt": {
+                "args": []
+            },
+            "Jillian Fargey": {
+                "args": []
+            },
+            "Rebecca Staab": {
+                "args": []
+            },
+            "Danika Yarosh": {
+                "args": []
+            },
+            "Tiera Skovbye": {
+                "args": []
+            },
+            "Erin Moriarty (II)": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_ in a quest for ruthless efficiency, a few character beats are skipped.",
+                -0.5210106351373627
+            ],
+            [
+                "7_this dramatization of a true story is long on sentiment, short on character and drama.",
+                0.6477836076842487
+            ]
+        ],
+        "entities": {
+            "Elissa Matsueda": {
+                "args": []
+            },
+            "David Aaron Cohen": {
+                "args": []
+            }
+        }
+    }
+}

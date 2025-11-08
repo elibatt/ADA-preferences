@@ -1,0 +1,171 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Yorgos Lanthimos": {
+                "args": []
+            },
+            "Efthimis Filippou": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_this is the feel-bad film of the year.",
+                -0.6308022363552728
+            ],
+            [
+                "3_an amazingly weird assemblage of notions from greek mythology and concepts from pessimistic geniuses like stanley kubrick, roman polanski and michael haneke, the film creates something akin to a dreadful dream.",
+                0.6903437414021941
+            ],
+            [
+                "4_the killing of a sacred deer is haunting and singular and strange, ",
+                0.6185559858996804
+            ],
+            [
+                "6_the killing of a sacred deer is humane and satirical, horrifying and hilarious.",
+                0.7126924349879451
+            ],
+            [
+                "7_the killing of a sacred deer never hedges its bets, never takes its foot off the gas.",
+                -0.6381359541473817
+            ],
+            [
+                "8_\"the killing of a sacred deer\" takes strange and unexpected turns along the way, and some of them are brutal, and a few of them are shocking.",
+                0.5649135399761396
+            ],
+            [
+                "10_it's the kind of movie that you watch with two simultaneous emotions: fascination, and the desire to leave immediately.",
+                0.7173222242678026
+            ],
+            [
+                "24_the plot is that of a horror movie, ",
+                -0.6055569014819929
+            ],
+            [
+                "25_the movie feels increasingly like a self-satisfied ",
+                -0.5755434580332339
+            ],
+            [
+                "27_and yet the film never quite loses its mythic drive.",
+                -0.6186018959619032
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "23_with uniformly great performances throughout the cast and lanthimos' stunning eye for detail and composition, this is one of the most unforgettable films of the year.",
+                0.8922857778337419
+            ],
+            [
+                "32_the impressive rigor of its craft, the skillfully subdued intensity of the acting, and the startling originality of the story will make it unmissable for anyone who cares about bold filmmaking.",
+                0.8050216933072708
+            ]
+        ],
+        "entities": {
+            "Nicole Kidman": {
+                "args": [
+                    [
+                        "20_colin farrell and nicole kidman find themselves trapped in a domestic nightmare in yorgos lanthimos' stunning, cerebral revenge story that plays like a biblical \"sophie's choice.\"",
+                        0.721257434984409
+                    ]
+                ]
+            },
+            "Bill Camp": {
+                "args": []
+            },
+            "Colin Farrell": {
+                "args": []
+            },
+            "Barry Keoghan": {
+                "args": [
+                    [
+                        "2_ the standout is irish actor keoghan.",
+                        -0.5446841113186432
+                    ]
+                ]
+            },
+            "Denise Dal Vera": {
+                "args": []
+            },
+            "Raffey Cassidy": {
+                "args": []
+            },
+            "Alicia Silverstone": {
+                "args": []
+            },
+            "Sunny Suljic": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "27_i started to wonder if the director had merely written himself into a corner and was doubling down on weirdness to get himself out.",
+                -0.7934203352120801
+            ],
+            [
+                "30_it's like cape fear by way of the shining, just in the same absurdist register as all of the greek director's trips to the twilight zone.",
+                -0.5363662706689338
+            ],
+            [
+                "31_to see an unfettered nightmare like this from such an idiosyncratic director feels like a cruel treat, and a welcome stylistic stretch.",
+                0.6199831882116635
+            ]
+        ],
+        "entities": {
+            "Yorgos Lanthimos": {
+                "args": [
+                    [
+                        "0_it's less a film about crime and punishment than an occasion for lanthimos to cycle through the idiosyncratic set of perversities that first grabbed our attention ",
+                        0.7441575889236136
+                    ],
+                    [
+                        "10_ i'm still pondering exactly how lanthimos pulled off the first.",
+                        -0.587554018136143
+                    ],
+                    [
+                        "12_in his most bracing and maddening morality tale yet, lanthimos doesn't so much paint himself into a corner as he runs into it, headlong, dragging us with him all the way.",
+                        -0.545123371129396
+                    ],
+                    [
+                        "14_these are formidable, icy influences, and lanthimos is a formidable enough talent to use them to his own ends.",
+                        0.5280951213902622
+                    ],
+                    [
+                        "17_and lanthimos is definitely messing with us, from the first frame forward.",
+                        0.7098905953340208
+                    ],
+                    [
+                        "18_ lanthimos could adhere so loyally to the classical model of the tragic, yet the result treads close to monotony, and even to a kind of sorrowful sadism ...",
+                        -0.5964191366413549
+                    ],
+                    [
+                        "19_ lanthimos just teaches you to be more cautious about his next film.",
+                        0.6370845728967385
+                    ],
+                    [
+                        "20_colin farrell and nicole kidman find themselves trapped in a domestic nightmare in yorgos lanthimos' stunning, cerebral revenge story that plays like a biblical \"sophie's choice.\"",
+                        0.721257434984409
+                    ],
+                    [
+                        "23_with uniformly great performances throughout the cast and lanthimos' stunning eye for detail and composition, this is one of the most unforgettable films of the year.",
+                        0.8922857778337419
+                    ],
+                    [
+                        "28_this is lanthimos' most scattered and sedate film, ",
+                        0.5571252822757788
+                    ]
+                ]
+            }
+        }
+    }
+}

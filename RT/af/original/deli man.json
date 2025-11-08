@@ -1,0 +1,128 @@
+{
+    "acting": {
+        "entities": {
+            "Freddie Roman": {
+                "args": []
+            },
+            "Bernice Penciner": {
+                "args": []
+            },
+            "Jerry Stiller": {
+                "args": []
+            },
+            "Cantor Jack Mendelson": {
+                "args": []
+            },
+            "Larry King": {
+                "args": []
+            },
+            "Yitz Penciner": {
+                "args": []
+            },
+            "David Sax": {
+                "args": []
+            },
+            "Pam Gruber": {
+                "args": []
+            },
+            "Gene Gruber": {
+                "args": []
+            },
+            "Freddie Loeser": {
+                "args": []
+            },
+            "Dennis Howard": {
+                "args": []
+            },
+            "Sandy Levine": {
+                "args": []
+            },
+            "Freddie Klein": {
+                "args": []
+            },
+            "Barry Orenstein": {
+                "args": []
+            },
+            "Alan M. Dershowitz": {
+                "args": []
+            },
+            "Cheryl Morantz": {
+                "args": []
+            },
+            "Michael Wex": {
+                "args": []
+            },
+            "Ziggy Gruber": {
+                "args": []
+            },
+            "Fyvush Finkel": {
+                "args": []
+            },
+            "Ronnie Dragoon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_heartfelt and heartwarming, deli man is documentary filmmaking at its tastiest.",
+                0.611374290608651
+            ],
+            [
+                "3_gruber's sense of a calling to tradition is a common denominator among the many deli owners we meet in this fun and interesting film, mostly stressed-out men who somehow find deep satisfaction in being part of a long history.",
+                0.753550971073754
+            ],
+            [
+                "4_like a fat slab of pastrami, \"deli man\" is the cinematic equivalent of comfort food: warm, generous and made with love.",
+                0.6484299198949874
+            ],
+            [
+                "6_\"deli man\" is a delicious little concoction, a consideration of the history of the jewish delicatessen and how it reflects jewish culture in america.",
+                0.7840204518455985
+            ],
+            [
+                "11_a fairly thin subject for a feature film, ",
+                -0.5584393650415844
+            ],
+            [
+                "14_the film is content to portray classic \"appetizing\" as the work of defiant outliers-not exactly untrue, ",
+                0.6182883580952121
+            ],
+            [
+                "15_deli man, your legend will survive anything, even houston.",
+                0.5461679273109499
+            ],
+            [
+                "17_in the food-film canon, it aims to the be \"jiro dreams of sushi\" of jewish cuisine, and if it doesn't quite reach those poetic heights, it's still an affably informative documentary.",
+                0.7524374895989905
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Erik Anjou": {
+                "args": [
+                    [
+                        "8_in balancing the more objective cultural history of delis with a personal profile, anjou serves neither well.",
+                        0.7163402261396987
+                    ],
+                    [
+                        "12_an unexpectedly charming documentary directed by erik greenberg anjou that is warm and piquant as well as informative ...",
+                        0.8560471148068485
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

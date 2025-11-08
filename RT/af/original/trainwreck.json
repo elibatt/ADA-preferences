@@ -1,0 +1,532 @@
+{
+    "acting": {
+        "args": [
+            [
+                "0_schumer's performance is a tour de force of razor-sharp comedic timing.",
+                0.6831297460160847
+            ]
+        ],
+        "entities": {
+            "Dave Attell": {
+                "args": []
+            },
+            "Marv Albert": {
+                "args": []
+            },
+            "Lisa Kicielinski": {
+                "args": []
+            },
+            "Norman Lloyd": {
+                "args": []
+            },
+            "Leslie Jones": {
+                "args": []
+            },
+            "Mike Birbiglia": {
+                "args": []
+            },
+            "John Cena": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "Daniel Radcliffe": {
+                "args": []
+            },
+            "Claudia O'Doherty": {
+                "args": []
+            },
+            "Kevin Thompson (II)": {
+                "args": []
+            },
+            "Bill Hader": {
+                "args": [
+                    [
+                        "21_and she's blessed with the perfect opposite number in hader ...",
+                        0.7289401947996555
+                    ],
+                    [
+                        "39_schumer and hader are wonderful together.",
+                        0.8899819375990801
+                    ]
+                ]
+            },
+            "Luciano Acuna Jr.": {
+                "args": []
+            },
+            "Eric Locklin": {
+                "args": []
+            },
+            "Warren Hull": {
+                "args": []
+            },
+            "Leah O'Donnell": {
+                "args": []
+            },
+            "Robert E. Torres": {
+                "args": []
+            },
+            "Bridget Everett": {
+                "args": []
+            },
+            "Jim Florentine": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "Tim Meadows": {
+                "args": []
+            },
+            "Alicia Mazepa": {
+                "args": []
+            },
+            "Amy Schumer": {
+                "args": [
+                    [
+                        "2_you forget how limited so many movies' ideas of women are until schumer launches into an extended tampon joke.",
+                        0.5768696970395355
+                    ],
+                    [
+                        "6_ schumer is frequently amazing in it.",
+                        0.723338778275582
+                    ],
+                    [
+                        "7_ the reversal of traditional on-screen gender roles-combined with schumer and hader's easy chemistry-makes \"trainwreck\" feel new and fresh.",
+                        0.7433358424486933
+                    ],
+                    [
+                        "9_despite schumer's subversive instincts,",
+                        0.6019611772875648
+                    ],
+                    [
+                        "10_the absolute best thing about this film, aside from schumer's strong, smart voice, is the promise of more to come.",
+                        0.6368535409899654
+                    ],
+                    [
+                        "13_we have seen the future of romantic comedy and its name is amy schumer.",
+                        0.6300741681291451
+                    ],
+                    [
+                        "16_a surprisingly touching and raucously funny r-rated comedy written by and starring amy schumer.",
+                        0.7876412008336235
+                    ],
+                    [
+                        "17_often extremely funny, even if it never approaches the radicalness of [schumer's] greatest, most dangerous work.",
+                        0.674195838608612
+                    ],
+                    [
+                        "20_apatow and schumer know that sturdy comedy benefits from the stuff of real life, and they supply it in consistent and sneaky fashion.",
+                        0.7200491805370001
+                    ],
+                    [
+                        "21_what makes \"trainwreck\" work is that [schumer] approaches every beat - funny, serious and in-between - in an open, undefended state.",
+                        0.6993735983094858
+                    ],
+                    [
+                        "24_and it remains hilarious, because schumer seems to be incapable of being anything else.",
+                        0.5994487420795063
+                    ],
+                    [
+                        "26_a deeply lazy and sentimental raunch comedy from director judd apatow and writer-star amy schumer.",
+                        0.514212888312619
+                    ],
+                    [
+                        "29_[schumer] takes the romantic-comedy heroine and the onscreen treatment of feminism to places they've seldom, if ever, been before.",
+                        0.5215166395406678
+                    ],
+                    [
+                        "31_ultimately comes down in favor of mainstream girl-gets-boy in a way that inside amy schumer might find a little dubious, ",
+                        0.5143142718848742
+                    ],
+                    [
+                        "31_ it never feels like schumer is aggressively watering down her uniquely prickly brand of comedy for a mass audience.",
+                        -0.6197939199759486
+                    ],
+                    [
+                        "40_ schumer gives their raunchy rom-com enough of her signature spikiness to prevent it from ever feeling predictable.",
+                        -0.5629460922963632
+                    ],
+                    [
+                        "41_apatow and schumer probably believe they've made a feminist picture, ",
+                        -0.5463608666261177
+                    ],
+                    [
+                        "42_if you're looking for something radical, you'd be best to stick with schumer's television show.",
+                        0.5952681071479722
+                    ],
+                    [
+                        "45_amy schumer and judd apatow craft a winning portrait of a good time sally in the grip of her first serious relationship.",
+                        0.8105305473209832
+                    ]
+                ]
+            },
+            "Dave Hanson": {
+                "args": []
+            },
+            "Arnold Y. Kim": {
+                "args": []
+            },
+            "Nikki Glaser": {
+                "args": []
+            },
+            "Evan Brinkman": {
+                "args": []
+            },
+            "Selena Watkins": {
+                "args": []
+            },
+            "Estee Adoram": {
+                "args": []
+            },
+            "Javoris Carlisle": {
+                "args": []
+            },
+            "Carla Oudin": {
+                "args": []
+            },
+            "Chris Evert": {
+                "args": []
+            },
+            "Amanda Robinson": {
+                "args": []
+            },
+            "Method Man": {
+                "args": []
+            },
+            "Marina Franklin": {
+                "args": []
+            },
+            "Bobby Kelly": {
+                "args": []
+            },
+            "Amare Stoudemire": {
+                "args": []
+            },
+            "Victoria Dicce": {
+                "args": []
+            },
+            "Brie Larson": {
+                "args": []
+            },
+            "Nicole Serapiglia": {
+                "args": []
+            },
+            "Alva Chinn": {
+                "args": []
+            },
+            "Ezra Miller": {
+                "args": []
+            },
+            "Whitney Wiggins": {
+                "args": []
+            },
+            "Ryan Farrell": {
+                "args": []
+            },
+            "LeBron James": {
+                "args": []
+            },
+            "Derric Stotts": {
+                "args": []
+            },
+            "Kim Caramele": {
+                "args": []
+            },
+            "Kyle Dunnigan": {
+                "args": []
+            },
+            "Kevin Kane, Jr.": {
+                "args": []
+            },
+            "Colin Quinn": {
+                "args": []
+            },
+            "Jon Glaser": {
+                "args": []
+            },
+            "Tony Romo": {
+                "args": []
+            },
+            "Aidan Charlery": {
+                "args": []
+            },
+            "Criscia Richardson": {
+                "args": []
+            },
+            "Karen Chamberlain": {
+                "args": []
+            },
+            "Keith Robinson": {
+                "args": []
+            },
+            "Matthew Broderick": {
+                "args": []
+            },
+            "Devin Fabry": {
+                "args": []
+            },
+            "Rachel Feinstein": {
+                "args": []
+            },
+            "Vanessa Bayer": {
+                "args": []
+            },
+            "Rob Buntzen": {
+                "args": []
+            },
+            "Tilda Swinton": {
+                "args": []
+            },
+            "Max Alexander": {
+                "args": []
+            },
+            "Sterling Jones": {
+                "args": []
+            },
+            "Dan Soder": {
+                "args": []
+            },
+            "Josh Segarra": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the title of the movie suggests its heroine is in need of repair, ",
+                -0.6365574518286301
+            ],
+            [
+                "2_it's a film about everyday sexism and double standards.",
+                0.7193735131628718
+            ],
+            [
+                "3_this is a film that belongs not to its director ",
+                0.5691208841497037
+            ],
+            [
+                "5_trainwreck ... has some very traditional romantic comedy elements, including a big, implausible finish.",
+                0.5735663360688256
+            ],
+            [
+                "6_\"trainwreck\" is not very good, ",
+                0.6116455016793253
+            ],
+            [
+                "8_there's a funny movie in trainwreck, ",
+                0.7083943797961548
+            ],
+            [
+                "12_trainwreck is brash, funny, and often vulgar.",
+                0.7036842100714886
+            ],
+            [
+                "14_people who go into trainwreck looking for that amy --the subversive truth-teller, the feminist role model -- are likely to be disappointed.",
+                -0.5586113371272705
+            ],
+            [
+                "14_trainwreck is a surprisingly old-fashioned romantic comedy, the kind that rarely gets made anymore.",
+                0.6363653693948881
+            ],
+            [
+                "18_the movie veers sharply off track toward the end.",
+                -0.6138321603717802
+            ],
+            [
+                "19_\"trainwreck\" serves as confirmation that a star is born, a seemingly average woman whose above-average superpowers include reminding us of our own.",
+                0.8089490324443578
+            ],
+            [
+                "22_while i can't say i felt love at first sight for \"trainwreck,\" it is a raw and honest romantic farce, even when it is upside-down wrong.",
+                -0.5207506589551466
+            ],
+            [
+                "23_this is a fully fleshed-out movie, the funniest of the year.",
+                0.6596838692217581
+            ],
+            [
+                "24_once the romance takes off, the entire film shifts.",
+                -0.5826370160548422
+            ],
+            [
+                "25_a film that crackles with edgy and boundary-pushing wit.",
+                0.6160613396961204
+            ],
+            [
+                "28_unlike many comic vehicles and just as many big-city romances, it's a real, and ultimately rewarding, piece of work.",
+                0.6748642215087585
+            ],
+            [
+                "32_\"trainwreck\" is a corrective to a lot of outdated clichés.",
+                -0.5739741338415624
+            ],
+            [
+                "33_ \"trainwreck\" works as comedy more often than it doesn't - and that's rare enough.",
+                0.7994138942115752
+            ],
+            [
+                "35_trainwreck is a tart blend of frank sexuality and domestic drama, giving audiences something they rarely see at the movies: a woman unapologetic about wanting sex.",
+                0.6488851556492209
+            ],
+            [
+                "38_schumer has never had anything like a leading film role, ",
+                -0.5402838632881338
+            ],
+            [
+                "41_this is a conventional movie dressed as a progressive one.",
+                0.5407519453987244
+            ],
+            [
+                "42_trainwreck is just good fun, and a lot of it at that.",
+                0.753524725867956
+            ],
+            [
+                "43_schumer's pretty wonderful, and the movie - in a summer that was still waiting for its r-rated smash - is great fun.",
+                0.8960558029999295
+            ],
+            [
+                "44_\"trainwreck\" sticks to the rails.",
+                -0.519486273131332
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "3_this is a film that belongs not to its director ",
+                0.5691208841497037
+            ]
+        ],
+        "entities": {
+            "Judd Apatow": {
+                "args": [
+                    [
+                        "11_in the way of most apatow films, trainwreck is a little too long, a little too shaggy and a little too conservative in insisting that all's square in love and war.",
+                        0.7064025722977688
+                    ],
+                    [
+                        "26_a deeply lazy and sentimental raunch comedy from director judd apatow and writer-star amy schumer.",
+                        0.514212888312619
+                    ],
+                    [
+                        "33_there's nothing remotely fresh about this plotline (or the way apatow, true to form, makes the movie 20 minutes longer than it should be), ",
+                        0.5348698418354374
+                    ],
+                    [
+                        "34_is 40, apatow has toyed with finding the right blend of the serious and the hilarious and finally hits it here.",
+                        0.8386451741688605
+                    ],
+                    [
+                        "37_schumer raises apatow's game beautifully.",
+                        0.5704283368167382
+                    ],
+                    [
+                        "40_beneath all of his bad-boy shtick, apatow's always been a pretty conventional moralist.",
+                        -0.5128299128037843
+                    ],
+                    [
+                        "45_amy schumer and judd apatow craft a winning portrait of a good time sally in the grip of her first serious relationship.",
+                        0.8105305473209832
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "37_her biting, pitch-black wit and his penchant for character-driven comedy go together like gin and tonic.",
+                0.6010256457246997
+            ]
+        ],
+        "entities": {
+            "Amy Schumer": {
+                "args": [
+                    [
+                        "2_you forget how limited so many movies' ideas of women are until schumer launches into an extended tampon joke.",
+                        0.5768696970395355
+                    ],
+                    [
+                        "6_ schumer is frequently amazing in it.",
+                        0.723338778275582
+                    ],
+                    [
+                        "7_ the reversal of traditional on-screen gender roles-combined with schumer and hader's easy chemistry-makes \"trainwreck\" feel new and fresh.",
+                        0.7433358424486933
+                    ],
+                    [
+                        "9_despite schumer's subversive instincts,",
+                        0.6019611772875648
+                    ],
+                    [
+                        "10_the absolute best thing about this film, aside from schumer's strong, smart voice, is the promise of more to come.",
+                        0.6368535409899654
+                    ],
+                    [
+                        "13_we have seen the future of romantic comedy and its name is amy schumer.",
+                        0.6300741681291451
+                    ],
+                    [
+                        "16_a surprisingly touching and raucously funny r-rated comedy written by and starring amy schumer.",
+                        0.7876412008336235
+                    ],
+                    [
+                        "17_often extremely funny, even if it never approaches the radicalness of [schumer's] greatest, most dangerous work.",
+                        0.674195838608612
+                    ],
+                    [
+                        "20_apatow and schumer know that sturdy comedy benefits from the stuff of real life, and they supply it in consistent and sneaky fashion.",
+                        0.7200491805370001
+                    ],
+                    [
+                        "21_what makes \"trainwreck\" work is that [schumer] approaches every beat - funny, serious and in-between - in an open, undefended state.",
+                        0.6993735983094858
+                    ],
+                    [
+                        "24_and it remains hilarious, because schumer seems to be incapable of being anything else.",
+                        0.5994487420795063
+                    ],
+                    [
+                        "26_a deeply lazy and sentimental raunch comedy from director judd apatow and writer-star amy schumer.",
+                        0.514212888312619
+                    ],
+                    [
+                        "29_[schumer] takes the romantic-comedy heroine and the onscreen treatment of feminism to places they've seldom, if ever, been before.",
+                        0.5215166395406678
+                    ],
+                    [
+                        "31_ultimately comes down in favor of mainstream girl-gets-boy in a way that inside amy schumer might find a little dubious, ",
+                        0.5143142718848742
+                    ],
+                    [
+                        "31_ it never feels like schumer is aggressively watering down her uniquely prickly brand of comedy for a mass audience.",
+                        -0.6197939199759486
+                    ],
+                    [
+                        "40_ schumer gives their raunchy rom-com enough of her signature spikiness to prevent it from ever feeling predictable.",
+                        -0.5629460922963632
+                    ],
+                    [
+                        "41_apatow and schumer probably believe they've made a feminist picture, ",
+                        -0.5463608666261177
+                    ],
+                    [
+                        "42_if you're looking for something radical, you'd be best to stick with schumer's television show.",
+                        0.5952681071479722
+                    ],
+                    [
+                        "45_amy schumer and judd apatow craft a winning portrait of a good time sally in the grip of her first serious relationship.",
+                        0.8105305473209832
+                    ]
+                ]
+            }
+        }
+    }
+}

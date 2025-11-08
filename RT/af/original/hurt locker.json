@@ -1,0 +1,267 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Kathryn Bigelow": {
+                "args": [
+                    [
+                        "1_director kathryn bigelow, doing her run-'n'-gun best, doesn't mine traditional suspense so much as impart a queasy feeling of monotony.",
+                        -0.5799195844837383
+                    ],
+                    [
+                        "6_like her protagonist, bigelow is both a meticulous technician and a ballsy showoff.",
+                        0.6123476136353931
+                    ],
+                    [
+                        "19_screenwriter mark boal and director kathryn bigelow have made a unique film about war.",
+                        0.7690102837993686
+                    ],
+                    [
+                        "20_[kathryn] bigelow and screenwriter mark boal...have made the first fictional feature about american soldiers in iraq that doesn't fall apart, or preach to a choir, or turn into a position paper.",
+                        0.5623749486465953
+                    ],
+                    [
+                        "21_the hurt locker is a spellbinding war film by kathryn bigelow, a master of stories about men and women who choose to be in physical danger.",
+                        0.674804701049154
+                    ],
+                    [
+                        "26_, it's both the film about the war in iraq that we've been waiting for and the kind of unqualified triumph that's been long expected from director kathryn bigelow.",
+                        0.6579126902065509
+                    ],
+                    [
+                        "28_in the end, bigelow's point of view is what's most interesting about the hurt locker.",
+                        0.5743400249512417
+                    ],
+                    [
+                        "32_the director, kathryn bigelow, shot with four lightweight cameras, and the imagery is rarely still.",
+                        0.509632768776173
+                    ],
+                    [
+                        "38_there is something powerfully convincing about bigelow's way of placing the viewer in a situation where death is unpredictable, can come from 360 degrees, and is indiscriminate about who it takes.",
+                        -0.5250855073438649
+                    ],
+                    [
+                        "41_instead of setting out to prove a point, it seeks to immerse us in an environment -- something bigelow does with a conceptual rigor usually associated with those directors whose work is confined to film societies and art houses.",
+                        0.7344480166931732
+                    ],
+                    [
+                        "48_tensely action-packed and muscularly directed by kathryn bigelow, this tale of an elite u.s. army bomb disposal unit in baghdad is a familiar story in new clothes, targeted at the young male demographic.",
+                        0.5408226417736575
+                    ],
+                    [
+                        "49_ increasingly weakened by its fuzzy psychology, kathryn bigelow's the hurt locker doesn't bring anything new to the table of grunts-in-the-firing-line movies.",
+                        -0.7175011685265323
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "David Morse": {
+                "args": []
+            },
+            "Ralph Fiennes": {
+                "args": []
+            },
+            "Feisal Saddun": {
+                "args": []
+            },
+            "Sam Redford": {
+                "args": []
+            },
+            "Christopher Sayegh": {
+                "args": []
+            },
+            "Sam Spruell": {
+                "args": []
+            },
+            "Barrie Rice": {
+                "args": []
+            },
+            "Christian Camargo": {
+                "args": []
+            },
+            "Malcolm Barrett": {
+                "args": []
+            },
+            "Nabil Koni": {
+                "args": []
+            },
+            "Guy Pearce": {
+                "args": []
+            },
+            "Erin Gann": {
+                "args": []
+            },
+            "Justin Campbell": {
+                "args": []
+            },
+            "Suhail Aldabbach": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": [
+                    [
+                        "23_t anthony mackie in particular really, really nailed it.",
+                        -0.6504116880968123
+                    ]
+                ]
+            },
+            "Evangeline Lilly": {
+                "args": []
+            },
+            "Ryan Tramont": {
+                "args": []
+            },
+            "Nibras Qassem": {
+                "args": []
+            },
+            "Feisal Sadoun": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": [
+                    [
+                        "3_one of the best movies of the year, with a star-making performance from jeremy renner.",
+                        0.9541760287817963
+                    ]
+                ]
+            },
+            "Brian Geraghty": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_the hurt locker is at once an unforgettable war film and a brilliant character study.",
+                0.7522315642172688
+            ],
+            [
+                "30_a first-rate action thriller, a vivid evocation of urban warfare in iraq, a penetrating study of heroism and a showcase for austere technique, terse writing and a trio of brilliant performances.",
+                0.7218543983659248
+            ]
+        ],
+        "entities": {
+            "Mark Boal": {
+                "args": [
+                    [
+                        "8_this beyond-the-headlines war movie, a 'ticking clock' thriller from journalist-turned-screenwriter mark boal, is the first iraq war movie to qualify as more first-rate entertainment than sermon.",
+                        0.5444547577108503
+                    ],
+                    [
+                        "19_screenwriter mark boal and director kathryn bigelow have made a unique film about war.",
+                        0.7690102837993686
+                    ],
+                    [
+                        "20_[kathryn] bigelow and screenwriter mark boal...have made the first fictional feature about american soldiers in iraq that doesn't fall apart, or preach to a choir, or turn into a position paper.",
+                        0.5623749486465953
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the hurt locker is without a doubt one of the best war pictures i have ever seen, and i have seen most of them.",
+                0.847492964305405
+            ],
+            [
+                "2_bigelow's film combines an expert management of tension with a sensitive and journalistic attention to detail: she has one eye on the truth and the other on the multiplex.",
+                0.6801353236944294
+            ],
+            [
+                "4_ the hurt locker is the first of them that can properly be called a masterpiece.",
+                0.667062115158289
+            ],
+            [
+                "7_the hurt locker is at once an unforgettable war film and a brilliant character study.",
+                0.7522315642172688
+            ],
+            [
+                "9_bigelow's direction is confident -- the action sequences are tense and suspenseful, so much so that the hurt locker also works as a straight-up war film.",
+                0.740906636505667
+            ],
+            [
+                "11_it's the best war movie since full metal jacket.",
+                0.6165911772364566
+            ],
+            [
+                "12_ the hurt locker has a fullness of understanding that sets it apart.",
+                0.5205878274857518
+            ],
+            [
+                "15_psychologically acute and thrillingly dramatic, the hurt locker blows every other iraq war movie off the screen.",
+                -0.6402933259925366
+            ],
+            [
+                "16_the hurt locker is about iraq in the same way that paths of glory was about world war i or full metal jacket was about vietnam -- which is to say, utterly and not at all.",
+                -0.5428289430832633
+            ],
+            [
+                "16_the hurt locker is a great movie, period.",
+                0.7978518922048464
+            ],
+            [
+                "17_like all the best war movies -- no matter what war, what era -- the hurt locker goes to the core of human nature.",
+                0.6992928453135319
+            ],
+            [
+                "18_the hurt locker leaves an impression.",
+                -0.6137107936925601
+            ],
+            [
+                "22_... a super-smart actioner about men in war that's arguably the best american film of the year.",
+                0.8705133622959247
+            ],
+            [
+                "25_a movie that deserves to stand as one of the defining films of the decade.",
+                0.7419422291785969
+            ],
+            [
+                "29_by keeping its scale miniature instead of epic (there are no combat scenes in the traditional sense), the hurt locker keeps its audience in a constant state of tension without risking battle fatigue.",
+                0.5598616294717499
+            ],
+            [
+                "31_finally, hollywood has made a great film about the iraq war.",
+                0.8345188262650697
+            ],
+            [
+                "33_when it comes to getting an audience's attention, there's nothing quite like blowing up a major star within the first five minutes of a movie.",
+                -0.6648994730296263
+            ],
+            [
+                "35_if the hurt locker is not the best action movie of the summer, i'll blow up my car.",
+                -0.6453392565910211
+            ],
+            [
+                "36_for the first hour or more, the hurt locker boldly forsakes any conventional narrative hook beyond the ongoing tensions between these men and the terrifying grind of defusing bombs day after day.",
+                0.5345370759043786
+            ],
+            [
+                "39_here's the iraq war movie for those who don't like iraq war movies.",
+                0.5594430181530228
+            ],
+            [
+                "40_more than any recent movie, this has a 'you are there' feel to it that gives us a flavor of an iraq we don't see on the nightly newscasts.",
+                0.6380266817376488
+            ],
+            [
+                "44_the hurt locker might be the first iraq-set film to break through to a mass audience because it doesn't lead with the paralysis of the guilt-ridden yank.",
+                0.6102138069989875
+            ],
+            [
+                "46_the hurt locker is a near-perfect movie about men in war, men at work.",
+                0.5720689779889296
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

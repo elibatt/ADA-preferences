@@ -1,0 +1,94 @@
+{
+    "acting": {
+        "entities": {
+            "Lara Dutta": {
+                "args": []
+            },
+            "Andy Von Eich": {
+                "args": []
+            },
+            "Ajay Devgan": {
+                "args": []
+            },
+            "Govind Namdeo": {
+                "args": []
+            },
+            "Suchitra Pillai": {
+                "args": []
+            },
+            "Katrina Kaif": {
+                "args": []
+            },
+            "Mohammed Abrar": {
+                "args": []
+            },
+            "Rahul Bhatt": {
+                "args": []
+            },
+            "Talat Aziz": {
+                "args": []
+            },
+            "Kunaal Kyhaan": {
+                "args": []
+            },
+            "Akshay Oberoi": {
+                "args": []
+            },
+            "Tunisha Sharma": {
+                "args": []
+            },
+            "Aditi Rao Hydari": {
+                "args": []
+            },
+            "Tabu": {
+                "args": []
+            },
+            "Rayees Mohi-Ud-Din": {
+                "args": []
+            },
+            "Aditya Roy Kapoor": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Abhishek Kapoor": {
+                "args": []
+            },
+            "Supratik Sen": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"fitoor\" doesn't get much political resonance out of its kashmiri setting, ",
+                -0.6637511971115615
+            ],
+            [
+                "1_ the wintry sadness of the first scenes has power.",
+                0.6925201333151213
+            ],
+            [
+                "1_nor does it get much resonance out of class differences between noor and firdaus.",
+                -0.5403853858587268
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Abhishek Kapoor": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

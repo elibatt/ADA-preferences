@@ -1,0 +1,130 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Eddie Marsan": {
+                "args": []
+            },
+            "Peter Sullivan": {
+                "args": []
+            },
+            "Rosamund Pike": {
+                "args": [
+                    [
+                        "12_after a good start, even the reliable daniel brühl and rosamund pike quickly are reduced to standing around looking grim and, frankly, a little bored.",
+                        -0.5233358154232872
+                    ],
+                    [
+                        "13_the british actress rosamund pike, alas, is a disaster as kuhlmann.",
+                        -0.6794281752331426
+                    ]
+                ]
+            },
+            "Ben Schnetzer": {
+                "args": []
+            },
+            "Nonso Anozie": {
+                "args": []
+            },
+            "Laurel Lefkow": {
+                "args": []
+            },
+            "Denis Ménochet": {
+                "args": []
+            },
+            "Angel Bonanni": {
+                "args": []
+            },
+            "Daniel Brühl": {
+                "args": []
+            },
+            "Brontis Jodorowsky": {
+                "args": []
+            },
+            "Daniel Ben Zenou": {
+                "args": []
+            },
+            "Lior Ashkenazi": {
+                "args": []
+            },
+            "Mark Ivanir": {
+                "args": []
+            },
+            "Vincent Riotta": {
+                "args": []
+            },
+            "David Annen": {
+                "args": []
+            },
+            "Natalie Stone": {
+                "args": []
+            },
+            "Noof McEwan": {
+                "args": []
+            },
+            "Kamil Lemieszewski": {
+                "args": []
+            },
+            "Andrea Deck": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_unfortunately, he gives us a lesson in moral complexity instead of a movie.",
+                -0.5094744662838788
+            ],
+            [
+                "7_even a tight timeline can't keep the movie on track.",
+                -0.609950297667003
+            ],
+            [
+                "8_in the end, it's a reasonably well done film with no compelling purpose.",
+                0.6708564779706863
+            ],
+            [
+                "9_\"7 days in entebbe\" is a powerful example of how dramatizing a well-recorded chapter of history can still generate hard-hitting suspense.",
+                0.722487895471075
+            ],
+            [
+                "10_the dance's themes of conformity and deviation resonate powerfully with the movie's true theme, which questions whether israel's robotic stance of non-negotiation has been effective, in the long run.",
+                0.8116596964149249
+            ],
+            [
+                "14_the film ... gestures toward relevance without finding a coherent historical or political point of view.",
+                0.537588100485129
+            ],
+            [
+                "18_it's a lesson that history has failed to teach us, filtered through a movie that doesn't understand why.",
+                -0.8232857623422861
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "José Padilha": {
+                "args": [
+                    [
+                        "19_director josé padilha's task was simple: find something new to say about the 1970s most famous air rescue.",
+                        0.7709247382044636
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gregory Burke": {
+                "args": []
+            }
+        }
+    }
+}

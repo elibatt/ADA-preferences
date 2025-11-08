@@ -1,0 +1,210 @@
+{
+    "acting": {
+        "entities": {
+            "Ilka Gruning": {
+                "args": []
+            },
+            "Marcel Dalio": {
+                "args": []
+            },
+            "Sydney Greenstreet": {
+                "args": []
+            },
+            "Mischa Auer": {
+                "args": []
+            },
+            "Olaf Hytten": {
+                "args": []
+            },
+            "Dan Seymour": {
+                "args": []
+            },
+            "Gino Corrado": {
+                "args": []
+            },
+            "Martin Garralaga": {
+                "args": []
+            },
+            "Oliver Blake": {
+                "args": []
+            },
+            "S.Z. Sakall": {
+                "args": []
+            },
+            "Richard Ryen": {
+                "args": []
+            },
+            "Leo Mostovoy": {
+                "args": []
+            },
+            "William Edmunds": {
+                "args": []
+            },
+            "Humphrey Bogart": {
+                "args": [
+                    [
+                        "3_nobody lights a torch like ingrid bergman's ilsa or carries one like humphrey bogart's rick.",
+                        0.6045616291481258
+                    ],
+                    [
+                        "8_its complex propagandist subtexts and vision of a reluctantly martial america's 'stumbling' morality still intrigue, just as bogart's cult reputation among younger viewers still obtains.",
+                        0.7645449999134067
+                    ],
+                    [
+                        "9_across seven decades, the humphrey bogart-ingrid bergman starrer has emerged as americans' default favorite movie.",
+                        0.6919013879056974
+                    ]
+                ]
+            },
+            "Frank Puglia": {
+                "args": []
+            },
+            "Dooley Wilson": {
+                "args": []
+            },
+            "Paul Porcasi": {
+                "args": []
+            },
+            "Conrad Veidt": {
+                "args": []
+            },
+            "John Qualen": {
+                "args": []
+            },
+            "Hans Heinrich von Twardowski": {
+                "args": []
+            },
+            "George Dee": {
+                "args": []
+            },
+            "Leonid Kinskey": {
+                "args": []
+            },
+            "Norma Varden": {
+                "args": []
+            },
+            "Madeleine LeBeau": {
+                "args": []
+            },
+            "Ingrid Bergman": {
+                "args": []
+            },
+            "Gregory Gaye": {
+                "args": []
+            },
+            "Claude Rains": {
+                "args": []
+            },
+            "Michael Mark": {
+                "args": []
+            },
+            "Torben Meyer": {
+                "args": []
+            },
+            "Helmut Dantine": {
+                "args": []
+            },
+            "Paul Henreid": {
+                "args": []
+            },
+            "Ludwig Stossel": {
+                "args": []
+            },
+            "Peter Lorre": {
+                "args": []
+            },
+            "Curt Bois": {
+                "args": []
+            },
+            "Charles La Torre": {
+                "args": []
+            },
+            "Leon Belasco": {
+                "args": []
+            },
+            "Creighton Hale": {
+                "args": []
+            },
+            "Wolfgang Zilzer": {
+                "args": []
+            },
+            "Monte Blue": {
+                "args": []
+            },
+            "Joy Page": {
+                "args": []
+            },
+            "Alberto Morin": {
+                "args": []
+            },
+            "Henry Rowland": {
+                "args": []
+            },
+            "Louis Mercier": {
+                "args": []
+            },
+            "Corinna Mura": {
+                "args": []
+            },
+            "Lou Marcelle": {
+                "args": []
+            },
+            "George Meeker": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_certainly a more accomplished cast of players cannot be imagined, and their direction by michael curtiz is inspired.",
+                0.8063534799510732
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Howard Koch": {
+                "args": []
+            },
+            "Julius J. Epstein": {
+                "args": []
+            },
+            "Philip G. Epstein": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_casablanca is the most sociable, the most companionable film ever made.",
+                0.7480575266211323
+            ],
+            [
+                "11_the greatest pleasure anyone can derive from this movie comes through simply watching it.",
+                0.6670080573027606
+            ],
+            [
+                "12_seeing the film over and over again, year after year, i find it never grows over-familiar.",
+                -0.5873960505887634
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Michael Curtiz": {
+                "args": [
+                    [
+                        "1_certainly a more accomplished cast of players cannot be imagined, and their direction by michael curtiz is inspired.",
+                        0.8063534799510732
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

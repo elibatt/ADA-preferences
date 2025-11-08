@@ -1,0 +1,157 @@
+{
+    "acting": {
+        "entities": {
+            "Aaron Moorhead": {
+                "args": [
+                    [
+                        "1_this is benson and moorhead's most professionally-made movie to date, ",
+                        0.6551716151820836
+                    ],
+                    [
+                        "3_ benson and moorhead keep the film grounded, making its twists and turns all the more compelling.",
+                        0.7354894185775422
+                    ],
+                    [
+                        "10_what puts the endless ahead of many indie genre films of its type is not only moorhead's skill as a cinematographer, ",
+                        0.6601581510055815
+                    ]
+                ]
+            },
+            "Emily Montague": {
+                "args": []
+            },
+            "Vinny Curran": {
+                "args": []
+            },
+            "Shane Brady": {
+                "args": []
+            },
+            "Billy Ray Brewton": {
+                "args": []
+            },
+            "Tate Ellington": {
+                "args": []
+            },
+            "Peter Cilella": {
+                "args": []
+            },
+            "Catherine Lawson": {
+                "args": []
+            },
+            "Glen Roberts": {
+                "args": []
+            },
+            "Ric Sarabia": {
+                "args": []
+            },
+            "James Jordan": {
+                "args": []
+            },
+            "Josh Higgins": {
+                "args": []
+            },
+            "Justin Benson": {
+                "args": [
+                    [
+                        "11_felker and benson's fast-slow-fast pacing not only gives psychological weight to benson's unabashedly pulpy scenario ",
+                        -0.6008505519851324
+                    ]
+                ]
+            },
+            "Kira Powell": {
+                "args": []
+            },
+            "David Lawson": {
+                "args": []
+            },
+            "Lew Temple": {
+                "args": []
+            },
+            "Callie Hernandez": {
+                "args": []
+            },
+            "David Lawson Jr.": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_great use of an eerie southern california landscape and some fine, naturalistic acting emphasizes how the ordinary can sometimes seem threatening - and vice-versa.",
+                0.7174511984580602
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Justin Benson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"the endless\" grows more mind-boggling as it goes on, ",
+                -0.5510302355452397
+            ],
+            [
+                "4_the eventual reveal fits with the film's overall intelligence and interest in people and existence over spectacle and action.",
+                0.7828926957466046
+            ],
+            [
+                "4_the endless is a smart, sweetly creepy good time.",
+                0.8035089997021204
+            ],
+            [
+                "5_\"the endless\" gets into your head and keeps you alert for whatever abnormal turn comes next.",
+                -0.6286785218258931
+            ],
+            [
+                "8_a movie that plays with our perceptions of time, space, and reality, and sketches the outlines of unimaginable terror while leaving the details to our imagination.",
+                0.7259692262673234
+            ],
+            [
+                "9_the endless\" rewards patience with mind-bending twists and turns.",
+                0.5307204388132484
+            ],
+            [
+                "14_while not flashy enough to rival blockbuster science fiction offerings at the box office, \"the endless\" ought to delight those who like having their imaginations tickled by projects such as \"another earth\" and \"the oa.\"",
+                -0.6470357104342888
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Aaron Moorhead": {
+                "args": [
+                    [
+                        "10_what puts the endless ahead of many indie genre films of its type is not only moorhead's skill as a cinematographer, ",
+                        0.6601581510055815
+                    ]
+                ]
+            },
+            "Justin Benson": {
+                "args": [
+                    [
+                        "1_this is benson and moorhead's most professionally-made movie to date, ",
+                        0.6551716151820836
+                    ],
+                    [
+                        "3_ benson and moorhead keep the film grounded, making its twists and turns all the more compelling.",
+                        0.7354894185775422
+                    ],
+                    [
+                        "11_felker and benson's fast-slow-fast pacing not only gives psychological weight to benson's unabashedly pulpy scenario ",
+                        -0.6008505519851324
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

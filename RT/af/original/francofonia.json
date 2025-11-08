@@ -1,0 +1,160 @@
+{
+    "acting": {
+        "entities": {
+            "Benjamin Utzerath": {
+                "args": []
+            },
+            "Vincent Nemeth": {
+                "args": []
+            },
+            "Andrey Chelpanov": {
+                "args": []
+            },
+            "Peter Lontzek": {
+                "args": []
+            },
+            "Jean-Claude Caër": {
+                "args": []
+            },
+            "Louis-Do de Lencquesaing": {
+                "args": []
+            },
+            "François Smesny": {
+                "args": []
+            },
+            "Johanna Korthals Altes": {
+                "args": []
+            },
+            "Aleksandr Sokurov": {
+                "args": [
+                    [
+                        "1_this is disjointed and dreary, its power diluted by sokurov's constant, self-important narration.",
+                        -0.5661749149954091
+                    ],
+                    [
+                        "3_as sokurov examines a pivotal point in the louvre's history and gives us a virtual tour of the magnificent museum, he makes larger points about the vital importance of art throughout human history.",
+                        0.8489832365793035
+                    ],
+                    [
+                        "8_[sokurov's] little capers loosen up the proceedings and make his underlying seriousness more inviting.",
+                        0.5060878626242551
+                    ],
+                    [
+                        "9_aleksandr sokurov wonders as he narrates this challenging philosophical essay, and sifts materials back, forth and around in the louvre's history.",
+                        0.6328112118645438
+                    ],
+                    [
+                        "17_making the barest hint about the destruction of historic artworks in syria at the hands of isis, sokurov gently reminds the viewer why all this is terribly relevant today.",
+                        -0.5252751188706112
+                    ],
+                    [
+                        "18_alexander sokurov's dense, enriching meditation on the louvre and specifically (",
+                        0.6399300465111708
+                    ],
+                    [
+                        "19_skipping across ages and genres, this cine-essay beguilement from russian ark director alexander sokurov considers the louvre - and the miracle of the transmission of art and culture across its history.",
+                        0.7001980752693322
+                    ],
+                    [
+                        "20_what matters at this point, as sokurov admirers can confirm, is to hold your nerve, and to trust that all these strands will be threaded into the weave of a larger design.",
+                        0.7067084005185236
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Aleksandr Sokurov": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"francofonia\" is terribly over-directed and seems strange just for the sake of being strange.",
+                -0.7302689884564582
+            ],
+            [
+                "2_francofonia is a brilliant meditation on art, on war - and what happens to art when nations go to war.",
+                0.8201547493582888
+            ],
+            [
+                "5_\"francofonia,\" a powerful cinematic essay on how art and war are irrevocably intertwined, has an ideal canvas and time peg for its philosophical musings: the louvre museum during the nazi occupation of france.",
+                0.6954062201343695
+            ],
+            [
+                "7_\"francofonia\" is a love letter to france and the louvre, ",
+                0.6963689247293144
+            ],
+            [
+                "11_ this rumination feels like a work of self-conceit that is likely to leave even the art house crowd mystified.",
+                -0.6372262973926914
+            ],
+            [
+                "13_this film wanders like a flâneur between past and present, traversing space and history, crossing from fiction to nonfiction and back.",
+                0.7040644142992607
+            ],
+            [
+                "15_beware the film billed as a \"meditation\" on anything.",
+                0.6300651572444612
+            ],
+            [
+                "16_francofonia is scatterbrained, occasionally leaden, frequently redundant, crammed with false starts and dead ends, wrapped in gauzy greenish murk.",
+                -0.7940889618021787
+            ],
+            [
+                "17_the subject of francofonia is art as the spoils of war...",
+                0.6262377801289266
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Aleksandr Sokurov": {
+                "args": [
+                    [
+                        "1_this is disjointed and dreary, its power diluted by sokurov's constant, self-important narration.",
+                        -0.5661749149954091
+                    ],
+                    [
+                        "3_as sokurov examines a pivotal point in the louvre's history and gives us a virtual tour of the magnificent museum, he makes larger points about the vital importance of art throughout human history.",
+                        0.8489832365793035
+                    ],
+                    [
+                        "8_[sokurov's] little capers loosen up the proceedings and make his underlying seriousness more inviting.",
+                        0.5060878626242551
+                    ],
+                    [
+                        "9_aleksandr sokurov wonders as he narrates this challenging philosophical essay, and sifts materials back, forth and around in the louvre's history.",
+                        0.6328112118645438
+                    ],
+                    [
+                        "17_making the barest hint about the destruction of historic artworks in syria at the hands of isis, sokurov gently reminds the viewer why all this is terribly relevant today.",
+                        -0.5252751188706112
+                    ],
+                    [
+                        "18_alexander sokurov's dense, enriching meditation on the louvre and specifically (",
+                        0.6399300465111708
+                    ],
+                    [
+                        "19_skipping across ages and genres, this cine-essay beguilement from russian ark director alexander sokurov considers the louvre - and the miracle of the transmission of art and culture across its history.",
+                        0.7001980752693322
+                    ],
+                    [
+                        "20_what matters at this point, as sokurov admirers can confirm, is to hold your nerve, and to trust that all these strands will be threaded into the weave of a larger design.",
+                        0.7067084005185236
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Grace Fulton": {
+                "args": []
+            },
+            "Lou Lou Safran": {
+                "args": []
+            },
+            "Miranda Otto": {
+                "args": []
+            },
+            "Samara Lee": {
+                "args": []
+            },
+            "Anthony LaPaglia": {
+                "args": []
+            },
+            "Stephanie Sigman": {
+                "args": []
+            },
+            "Talitha Bateman": {
+                "args": []
+            },
+            "Philippa Coulthard": {
+                "args": []
+            },
+            "Lulu Wilson": {
+                "args": []
+            },
+            "Tayler Buck": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David F. Sandberg": {
+                "args": [
+                    [
+                        "9_as with last year's \"lights out,\" [mr. sandberg] proves a master of the flash-scare, a nifty choreographer of precipitous timing and striptease visuals.",
+                        0.765757785078045
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_the clumsy script has difficulty establishing the rules of what the doll and the daughter can do, so you're never really sure of what the characters are up against.",
+                0.5635180380061495
+            ]
+        ],
+        "entities": {
+            "Gary Dauberman": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_has echoes of the original film, and works more with mood and less with cheap scares than either annabelle or the conjuring 2, resulting in a truly effective genre flick.",
+                0.7686366227770252
+            ],
+            [
+                "5_sandberg does nothing to update his horror film from some of the genre's more damaging stereotypes.",
+                0.5427920748085567
+            ],
+            [
+                "12_the constant floating, spinning, shattering, and slamming of household objects gradually saps the movie's tension.",
+                0.5967234708465406
+            ],
+            [
+                "16_a well-made horror film and a solid addition to the canon.",
+                0.7338155856638561
+            ],
+            [
+                "20_the fourth film in the conjuring universe, annabelle: creation is well performed, ",
+                0.6880188434458084
+            ],
+            [
+                "23_this effective yet empty-headed horror movie goes to show how eager audiences are to be scared, and how even an unsightly doll can do the trick when the spirit is willing.",
+                -0.6243111288350571
+            ]
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kiran More": {
+                "args": []
+            },
+            "Anupam Kher": {
+                "args": []
+            },
+            "Sushant Singh Rajput": {
+                "args": []
+            },
+            "Kumud Mishra": {
+                "args": []
+            },
+            "Kranti Prakash Jha": {
+                "args": []
+            },
+            "Deepak Dutta": {
+                "args": []
+            },
+            "Rajesh Sharma": {
+                "args": []
+            },
+            "Kali Prasad Mukherjee": {
+                "args": []
+            },
+            "Disha Patani": {
+                "args": []
+            },
+            "Kiara Advani": {
+                "args": []
+            },
+            "Ravindra Mankani": {
+                "args": []
+            },
+            "Bhumika Chawla": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Neeraj Pandey": {
+                "args": [
+                    [
+                        "0_the movie, written and directed by neeraj pandey, is not hagiographic or overly obvious.",
+                        -0.7124279214336244
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Neeraj Pandey": {
+                "args": []
+            },
+            "Dilip Jha": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    }
+}

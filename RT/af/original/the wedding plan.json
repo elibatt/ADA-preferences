@@ -1,0 +1,133 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Noa Koler": {
+                "args": [
+                    [
+                        "15_what makes the film work is koler's magnetic performance as michal, who has screwball energy and a mind of her own.",
+                        0.7498361370449811
+                    ]
+                ]
+            },
+            "Udi Persi": {
+                "args": []
+            },
+            "Oded Leopold": {
+                "args": []
+            },
+            "Oz Zehavi": {
+                "args": []
+            },
+            "Dafi Alferon": {
+                "args": []
+            },
+            "Amos Tamam": {
+                "args": []
+            },
+            "Irit Sheleg": {
+                "args": []
+            },
+            "Ronny Merhavi": {
+                "args": []
+            },
+            "Jonathan Rozen": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the film's structural shortcomings will matter less to most viewers than the personality of the central character, michal.",
+                0.5730758861826775
+            ],
+            [
+                "2_this is a film of subtle humor and universal appeal.",
+                0.7275994582532305
+            ],
+            [
+                "3_you've probably never seen a romantic comedy like \"the wedding plan.\"",
+                0.5332673993832711
+            ],
+            [
+                "4_unexpectedly rich, \"the wedding plan\" uses the frame of an apparent romantic comedy as a vehicle to study religious faith, loneliness, culture and inner turmoil.",
+                0.7365580696649834
+            ],
+            [
+                "5_once this measured film kicks in, predictability falls away, sending michal on a twisty, awkward, darkly humorous and emotionally raw march toward the chuppah.",
+                -0.5535400753193939
+            ],
+            [
+                "7_in the end, \"the wedding plan\" is very much a crowd pleaser, ",
+                -0.5065496265672078
+            ],
+            [
+                "8_the reason the wedding plan rises above its flippancies is not only because of the novelty of its israeli trappings ",
+                -0.6211099616910429
+            ],
+            [
+                "11_koler won the ophir award (the israeli version of the oscar) for this, her first major film role.",
+                0.7372352529329292
+            ],
+            [
+                "11_she appears to have a happily ever after movie career ahead of her.",
+                0.5365759674503461
+            ],
+            [
+                "13_this ordinary-sounding movie is actually pretty special.",
+                -0.5696358755866727
+            ],
+            [
+                "16_in marrying date-movie conventions to reverent tradition, the wedding plan brightens both.",
+                0.67917944495051
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rama Burshtein": {
+                "args": [
+                    [
+                        "6_so does israeli filmmaker rama burshtein.",
+                        0.6004938137150202
+                    ],
+                    [
+                        "10_-poignant israeli rom-com from rama burshtein, the writer-director responsible for the 2012 melodrama fill the void.",
+                        0.5353643928237297
+                    ],
+                    [
+                        "14_ the soul of ms. burshtein's film lives in its lovely off-center encounters.",
+                        0.8033406792299689
+                    ],
+                    [
+                        "19_rama burshtein's follow-up to \"fill the void\" brings romantic comedy to the hasidic community, with relatively pleasing results.",
+                        0.6955436442587511
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_the film's structural shortcomings will matter less to most viewers than the personality of the central character, michal.",
+                0.5730758861826775
+            ],
+            [
+                "10_-poignant israeli rom-com from rama burshtein, the writer-director responsible for the 2012 melodrama fill the void.",
+                0.5353643928237297
+            ]
+        ],
+        "entities": {
+            "Rama Burshtein": {
+                "args": []
+            }
+        }
+    }
+}

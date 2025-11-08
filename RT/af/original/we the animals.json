@@ -1,0 +1,111 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Josiah Gabriel": {
+                "args": []
+            },
+            "Sheila Vand": {
+                "args": []
+            },
+            "Isaiah Kristian": {
+                "args": []
+            },
+            "Evan Rosado": {
+                "args": []
+            },
+            "Raul Castillo": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the movie is all nuance and it continually wafts away into artiness.",
+                0.6098134730448898
+            ],
+            [
+                "3_[a] stunning, semi-impressionistic film...",
+                0.6747116166758672
+            ],
+            [
+                "4_every once in a while a movie grabs you, unsuspecting, and hustles its way into your heart.",
+                0.7842215982294678
+            ],
+            [
+                "6_any potential sentimentality is obliterated by the film's tone and by the performances.",
+                0.6525190209910656
+            ],
+            [
+                "9_zagar has found a way to let the film's scenes surface and recede the way memories do.",
+                0.756286736528899
+            ],
+            [
+                "10_\"we the animals\" unfolds almost as a dream, albeit one that never shies away from the often hopeless reality of what it's like to grow up poor in america.",
+                0.553676398223256
+            ],
+            [
+                "11_\"we the animals\" is a classic coming-of age tale",
+                0.745249812809108
+            ],
+            [
+                "13_zagar is a documentarian at heart, and it shows: the film is a closely, compassionately observed study of a boyhood that's ",
+                0.7582029858351996
+            ],
+            [
+                "14_an impressionistic swirl of a film about masculinity, about abuse, about growing up queer, about chaotic family life, about the jumble of incidents and stirrings through which a child discovers a self.",
+                0.6963773907740389
+            ],
+            [
+                "17_in every scene, we the animals evokes not only the specificity of that world ",
+                0.5919245136261744
+            ],
+            [
+                "18_we the animals is a tiny film ",
+                0.5834883554290622
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jeremiah Zagar": {
+                "args": [
+                    [
+                        "4_jeremiah zagar's \"we the animals\" does that.",
+                        -0.5978395391770065
+                    ],
+                    [
+                        "8_for his first narrative feature, the documentarian zagar displays a thrillingly sensitive eye for the curiosity and caution that exists in every young child's heart, and how it is so simple for the world to crush that.",
+                        0.8325543568910707
+                    ],
+                    [
+                        "15_adapting justin torres' autobiographical novel, jerimiah zagar crafts a haunting, singular coming-of-age story.",
+                        0.6430965912910467
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "16_zagar has a gift for capturing a character's essence in an image or two, via simple compositions occasionally augmented by spellbinding snatches of animation.",
+                0.7752927697099
+            ]
+        ],
+        "entities": {
+            "Daniel Kitrosser": {
+                "args": []
+            },
+            "Jeremiah Zagar": {
+                "args": []
+            }
+        }
+    }
+}

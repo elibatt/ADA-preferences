@@ -1,0 +1,51 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kim Yong-hwa": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Cha Tae-hyun": {
+                "args": []
+            },
+            "Lee Jung-jae": {
+                "args": []
+            },
+            "Ha Jung-woo": {
+                "args": []
+            },
+            "Kyung-soo Do": {
+                "args": []
+            },
+            "Ju Ji-hun": {
+                "args": []
+            },
+            "Kim Hyang-gi": {
+                "args": []
+            },
+            "Kim Dong-wook": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kim Yong-hwa": {
+                "args": []
+            }
+        }
+    }
+}

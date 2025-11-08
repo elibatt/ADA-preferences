@@ -1,0 +1,163 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lauren Cohan": {
+                "args": []
+            },
+            "Iko Uwais": {
+                "args": [
+                    [
+                        "1_the two times uwais is allowed to bust out his fighting moves, the scenes are cuisinarted into incomprehensible shreds, and the point becomes not the precision and virtuosity of his skills, ",
+                        -0.6138873878905546
+                    ],
+                    [
+                        "24_the spectacular failure of the film's aesthetic makes for a tremendous waste of uwais, whose talents as a brawler surpass anything that berg has ever had at his disposal before.",
+                        0.6665383560174822
+                    ],
+                    [
+                        "27_fortunately, it's also loaded with some of the crunchiest action scenes since the john wick movies thanks to indonesian martial-arts maestro iko uwais.",
+                        0.6303359726310147
+                    ]
+                ]
+            },
+            "Terry Kinney": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": [
+                    [
+                        "5_berg and wahlberg deliver a relentlessly paced, addictively slick paramilitary thriller actively catering to fans of gonzo brutality and turbocharged machismo.",
+                        -0.6083252963614114
+                    ],
+                    [
+                        "12_it's theoretically possible that wahlberg and cohan are the best there is at what they do.",
+                        0.8029129347403475
+                    ]
+                ]
+            },
+            "Poorna Jagannathan": {
+                "args": []
+            },
+            "Carlo Alban": {
+                "args": []
+            },
+            "Emily Skeggs": {
+                "args": []
+            },
+            "Chae Rin Lee": {
+                "args": []
+            },
+            "Sam Medina": {
+                "args": []
+            },
+            "John Malkovich": {
+                "args": []
+            },
+            "Ronda Rousey": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a confused film that, for all of its macho bluster and propulsive forward motion, doesn't really know where it's going.",
+                -0.6020962243794101
+            ],
+            [
+                "2_this movie is so overly edited, it's all shaky cam.",
+                -0.6039262171673068
+            ],
+            [
+                "3_for a movie so excited to tell a story about the cia's most highly-prized and least understood unit, it sure doesn't do much to ensure you leave any more informed than you were when you sat down.",
+                -0.5673096531078835
+            ],
+            [
+                "6_not surprisingly, the performances tend to get lost amid the mayhem -- the point here is style, not substance.",
+                -0.6776349484995519
+            ],
+            [
+                "8_mile 22 delivers precisely what's expected from a violent, escapist action film and does so with brevity and shock power.",
+                0.6004747751540591
+            ],
+            [
+                "10_\"mile 22\" is drunk on its own macho shadow conspiracy nonsense, tossing out so much double speak and inside jargon that it forgets there's an audience out there that doesn't know these people, who they are or how they operate.",
+                -0.738307082095685
+            ],
+            [
+                "11_ especially structurally, mile 22 is a mess.",
+                -0.6452094733908067
+            ],
+            [
+                "12_ mile 22 isn't very nice.",
+                -0.585597343307962
+            ],
+            [
+                "13_in all, a cracking good action film/spy caper with some fine performances makes mile 22 a rollicking summer escape.",
+                0.8517526275458827
+            ],
+            [
+                "14_a riot of nearly incomprehensible editing, a violent melee of intertwining scenes, shots, characters, formats and timelines, straining the limits of coherence and cogency.",
+                -0.7162399960529886
+            ],
+            [
+                "15_mile 22 can give you chase scenes and bullet-ridden shoot-outs and evil russians and lengthy diatribes.",
+                -0.6250648345459646
+            ],
+            [
+                "15_what it can't give you is a watchable action movie.",
+                -0.639895891943703
+            ],
+            [
+                "16_\"mile 22\" makes for an appalling referendum on the state of commercial cinema in 2018.",
+                0.5045929105647773
+            ],
+            [
+                "18_\"mile 22\" is like a bad dream about a bad movie.",
+                -0.8166800343075433
+            ],
+            [
+                "20_if you think i am going to call mile 22 a bad film, you are wrong.",
+                -0.7697132334677766
+            ],
+            [
+                "20_it's not a film at all.",
+                -0.6699669630878997
+            ],
+            [
+                "23_there's a more than satisfactory amount of boom-boom in the movie's trim running time.",
+                0.5234606955854271
+            ],
+            [
+                "25_the movie equivalent of being shouted at by your drunk ex-army dad about how stupid and pointless your taste in popcorn fare is, and why can't there be more bloody combat scenes with foreigners?",
+                -0.8629496418300769
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Peter Berg": {
+                "args": [
+                    [
+                        "24_the spectacular failure of the film's aesthetic makes for a tremendous waste of uwais, whose talents as a brawler surpass anything that berg has ever had at his disposal before.",
+                        0.6665383560174822
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Lea Carpenter": {
+                "args": []
+            }
+        }
+    }
+}

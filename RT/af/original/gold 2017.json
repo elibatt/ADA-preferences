@@ -1,0 +1,238 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_if a single performance could make a film, gold would be, well, solid.",
+                0.6124480067888388
+            ],
+            [
+                "4_ the film doesn't hold half the heat of his obsession.",
+                -0.5570500791792958
+            ],
+            [
+                "7_as a movie, gold is slim pickings.",
+                -0.5022327935771688
+            ],
+            [
+                "11_gold is more of a bronze.",
+                -0.5087905184850551
+            ],
+            [
+                "12_gold often can't seem to make up its mind to be disgusted and embarrassed by its hero's naked greed and the seeming moral vacuum at his heart, or get swept up in his adrenaline rush.",
+                -0.8277907874472648
+            ],
+            [
+                "13_ the film keeps restyling itself in progressively absurd shifts.",
+                -0.5977532965965525
+            ],
+            [
+                "14_we've been here many romps before, and one wishes that for once, someone would make a film on this subject without making the obligatory sharp turn into folksy, facile populism that gold and its ilk inevitably do.",
+                -0.5391168332655549
+            ],
+            [
+                "17_despite its uneven tone, the film is compelling and, perhaps more importantly,",
+                0.7252626493143218
+            ],
+            [
+                "21_the most ironic thing about \"gold\" is this: for all its efforts, the movie seems to know it's sitting on a gold mine of a backstory, ",
+                -0.5621619082096876
+            ],
+            [
+                "22_gold ain't the mcconaissance 2.0.",
+                -0.6888726141201651
+            ],
+            [
+                "23_\"gold\" could have been a biting satire of greed and folly, a neo-conradian tale of western misadventure in asia, a rousing fable of underdog triumph or a caper comedy.",
+                0.6273244367833977
+            ],
+            [
+                "24_\"gold\" is a major disappointment - a film of admirable ambition ",
+                -0.5751992767961569
+            ],
+            [
+                "27_the movie's an easy, engaging watch, even if it's literally all over the map.",
+                0.5760141293478868
+            ],
+            [
+                "28_\"gold\" is one of those movies that sounds like much more fun than it actually is.",
+                0.6798710904910228
+            ],
+            [
+                "31_it's a movie built solely around its star.",
+                -0.5477209765427142
+            ],
+            [
+                "32_nothing in gold is quite golden, ",
+                0.6229030196355587
+            ],
+            [
+                "36_while the movie seems to be merely another celebration of grasping capitalism and dick-swinging contests of masculinity, it's got far more up its sleeve.",
+                0.523899174281985
+            ],
+            [
+                "39_gold is fitfully entertaining, ",
+                0.5555266129049385
+            ],
+            [
+                "39_ for a movie that gives itself license to go bigger and weirder than real life, its imagination for excess runs out whenever it isn't focused intently on its star.",
+                -0.6382249938720367
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Stephen Gaghan": {
+                "args": [
+                    [
+                        "8_not even all of mcconaughey's substantial powers can overcome director stephen gaghan's lacklustre vision or the screenwriters' muddy narrative.",
+                        -0.5219997600523469
+                    ],
+                    [
+                        "15_ the director, stephen gaghan, and the writers, patrick massett and john zinman, don't give us much reason to care about what's to come.",
+                        -0.7443990992895249
+                    ],
+                    [
+                        "26_ which is too bad for gaghan.",
+                        -0.8819809249701801
+                    ],
+                    [
+                        "35_directed without distinction by stephen gaghan, the film unfolds like a chintzy ripoff of david o. russell ripping off martin scorsese ripping off real life.",
+                        -0.5141763802280274
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "John Zinman": {
+                "args": [
+                    [
+                        "15_ the director, stephen gaghan, and the writers, patrick massett and john zinman, don't give us much reason to care about what's to come.",
+                        -0.7443990992895249
+                    ]
+                ]
+            },
+            "Patrick Massett": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "34_turning mcconaughey into a wreck through makeup and lighting is not an adequate substitute for character development.",
+                -0.685161142400905
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Stacy Keach": {
+                "args": []
+            },
+            "Rachael Taylor": {
+                "args": []
+            },
+            "Craig T. Nelson": {
+                "args": []
+            },
+            "Macon Blair": {
+                "args": []
+            },
+            "Toby Kebbell": {
+                "args": []
+            },
+            "Bhavesh Patel": {
+                "args": []
+            },
+            "Bruce Greenwood": {
+                "args": []
+            },
+            "Corey Stoll": {
+                "args": []
+            },
+            "Frank Wood": {
+                "args": []
+            },
+            "Matthew McConaughey": {
+                "args": [
+                    [
+                        "0_despite mcconaughey's commitment to the role, his kenny is more pathetic than sympathetic,",
+                        0.5805858784477217
+                    ],
+                    [
+                        "5_except for mcconaughey's performance, there is little sense of urgency or adventurousness in the way the narrative plays out.",
+                        0.6090695963947634
+                    ],
+                    [
+                        "7_ mcconaughey keeps you riveted.",
+                        0.5130882604058361
+                    ],
+                    [
+                        "8_not even all of mcconaughey's substantial powers can overcome director stephen gaghan's lacklustre vision or the screenwriters' muddy narrative.",
+                        -0.5219997600523469
+                    ],
+                    [
+                        "13_the intense charisma of mcconaughey is nearly enough to keep gold from sinking.",
+                        0.5423578946504868
+                    ],
+                    [
+                        "19_it's mcconaughey's great big performance and the fine work by the outstanding cast that carries the day in gold, an uneven and overlong ",
+                        0.857719642443695
+                    ],
+                    [
+                        "20_\"gold\" is designed less to tell a coherent story than it is to set up mcconaughey for an oscar nomination.",
+                        0.5843585684991116
+                    ],
+                    [
+                        "29_you're along for the ride with the fully committed mcconaughey, who swings for the fences with his bold acting choices and studious lack of vanity, and he manages to create a seamless, inhabited performance.",
+                        0.7072652903529131
+                    ],
+                    [
+                        "32_ at least matthew mcconaughey - with a lack of hair and an abundance of beer gut - shines.",
+                        -0.570051338003317
+                    ],
+                    [
+                        "34_turning mcconaughey into a wreck through makeup and lighting is not an adequate substitute for character development.",
+                        -0.685161142400905
+                    ],
+                    [
+                        "37_[mcconaughey's] intensity never flags.",
+                        -0.5377725709866439
+                    ]
+                ]
+            },
+            "Michael Landes": {
+                "args": []
+            },
+            "Timothy C. Simons": {
+                "args": []
+            },
+            "Edgar Ramirez": {
+                "args": []
+            },
+            "Bryce Dallas Howard": {
+                "args": []
+            },
+            "Bill Camp": {
+                "args": []
+            },
+            "Joshua Harto": {
+                "args": []
+            },
+            "Adam LeFevre": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_if a single performance could make a film, gold would be, well, solid.",
+                0.6124480067888388
+            ]
+        ]
+    }
+}

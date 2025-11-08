@@ -1,0 +1,50 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kim Hyang-gi": {
+                "args": []
+            },
+            "Ma Dong-seok": {
+                "args": []
+            },
+            "Ju Ji-hun": {
+                "args": []
+            },
+            "Kim Dong-wook": {
+                "args": []
+            },
+            "Ha Jung-woo": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_once viewers get accustomed to a movie that can move within minutes from courtroom drama to dinosaur attacks, they may enjoy the overwhelming spectacle of it all.",
+                0.6681289113952419
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kim Yong-hwa": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kim Yong-hwa": {
+                "args": []
+            }
+        }
+    }
+}

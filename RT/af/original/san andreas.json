@@ -1,0 +1,353 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_this movie didn't take much time escalating from realistic depiction of a disaster to giant, numbing cgi spectacle.",
+                -0.6948630157230072
+            ],
+            [
+                "3_my resistance to summer blockbusters crumbled like a collapsing skyscraper in the face of this big, loud, exuberantly destructive movie.",
+                -0.5184755469289204
+            ],
+            [
+                "4_ never campy enough and far too numbingly artificial to ever drum up any real suspense or sense of awe, the film has a scale that's squandered on visual witlessness.",
+                -0.6610185865911289
+            ],
+            [
+                "5_the allure of san andreas rests entirely on the calibre of its pandemonium, savored, ideally, with a brawling audience on a friday night.",
+                -0.5003589796886849
+            ],
+            [
+                "7_the earth of san andreas cleaves itself open to us like the devil's sunroof.",
+                0.641070441507329
+            ],
+            [
+                "9_ did san andreas have to be such a monument to stupidity?",
+                -0.6468647140126
+            ],
+            [
+                "11_there are things in san andreas that no one would have dreamed of seeing 40 years ago, when earthquake (with its tacky, plaster-cracking \"sensurround\") represented the state of the art.",
+                -0.7036576338474869
+            ],
+            [
+                "12_\"san andreas\" never pretends to be any less subtle than the rock's physique.",
+                -0.6303912303573572
+            ],
+            [
+                "13_san andreas lacks backbone.",
+                0.5174847850774006
+            ],
+            [
+                "13_between its steroidic cgi and emotionally vacant plot line, the movie is all flex, no muscle.",
+                -0.661192689689189
+            ],
+            [
+                "15_it causes one to wonder if san andreas might have worked better if the entire film had focused on his character.",
+                -0.6598656171428625
+            ],
+            [
+                "18_helo-flown and hella-dumb, the movie delivers what its ads promise and not a particle more: semi-convincing digital erasure of infrastructure.",
+                -0.6912613346403707
+            ],
+            [
+                "19_san andreas does exactly what it set out to do:",
+                0.5737781521670613
+            ],
+            [
+                "19_satisfy the thrill-seekers with a popcorn movie.",
+                0.6294425275882619
+            ],
+            [
+                "21_really, that's about all there is to say about \"san andreas\" ...",
+                0.6584277969358313
+            ],
+            [
+                "23_\"san andreas\" changes all too quickly from satisfyingly foolish to dismayingly dumb to genuinely stupid.",
+                -0.82571570166532
+            ],
+            [
+                "25_considered as pure spectacle, \"san andreas\" is gripping and effective, as well as a somewhat interesting form of counter-narrative: a vision of near-term apocalypse that has nothing to do with climate change, monsters or alien invaders.",
+                0.731262865758926
+            ],
+            [
+                "27_\"san andreas\" is an action film that hits viewers over the head.",
+                0.6547389176164282
+            ],
+            [
+                "29_ that san andreas is a different type of disaster.",
+                0.523612523418672
+            ],
+            [
+                "33_\"san andreas\" is a disaster - literally.",
+                -0.6455528216903732
+            ],
+            [
+                "34_the result is a pretty exemplary popcorn movie.",
+                0.6058533982479652
+            ],
+            [
+                "36_it's hard to appreciate san andreas as much more than a series of special effects vistas: impeccably detailed, completely plastic.",
+                0.6373367227000872
+            ],
+            [
+                "39_but \"san andreas\" does know where its epicenter must be: overdone, loud,",
+                -0.5678930522735068
+            ],
+            [
+                "41_california crumbles spectacularly in an action movie that quickly degenerates from blissfully stupid to fatally stupid.",
+                -0.8666404083457995
+            ],
+            [
+                "42_thankfully, the action set pieces are exciting enough, and come at such a successive clip - \"oh, s-t\" may be the film's most repeated line of dialogue - that it's only afterward that you have the chance to pause and ask questions about the plot.",
+                0.5504584444074246
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Brad Peyton": {
+                "args": [
+                    [
+                        "8_the cgi effects in this film, directed by brad peyton, are quite remarkable and help take one's mind off the cornball disaster-brings-families-together underpinnings.",
+                        0.7284157116057681
+                    ],
+                    [
+                        "30_as patently preposterous, scientifically dubious, and unapologetically corny as director brad peyton's orgy of cgi devastation is, its popcorn prophecy of the inevitable is a blast of giddy, disposable fun.",
+                        0.803347941759474
+                    ],
+                    [
+                        "38_ director brad peyton and his writers often deploy them in downright laughable ways.",
+                        -0.5410500617814673
+                    ],
+                    [
+                        "40_together with cinematographer steve yedlin and vfx supervisor colin strause, director brad peyton achieves a persuasive blending of practical shots and superior cg techniques for the most complex sequences.",
+                        0.7090376207389855
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Fiona Press": {
+                "args": []
+            },
+            "Michael J. Asberry": {
+                "args": []
+            },
+            "Sophia Emberson-Bain": {
+                "args": []
+            },
+            "Renee Somerfield": {
+                "args": []
+            },
+            "Ben McIvor": {
+                "args": []
+            },
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "0_it's enormously entertaining, thanks to the undeniable charisma of dwayne \"the rock\" johnson and the wanton cgi destruction of all of the west coast's greatest landmarks (in 3-d, no less).",
+                        0.8077919373567892
+                    ],
+                    [
+                        "1_summer's upon us, and you could do worse than watch the undeniably appealing johnson try to save the day while uttering the silliest dialogue imaginable.",
+                        -0.6374623735168619
+                    ],
+                    [
+                        "16_for all the unabashed cliches and straight-faced silliness delivered by johnson, paul giamatti, and their generally capable castmates, they're doing something right.",
+                        0.6037066524602155
+                    ],
+                    [
+                        "20_when you think about it, is there anybody else you'd want looking out for you in times of trouble than johnson?",
+                        -0.5133366163427833
+                    ],
+                    [
+                        "22_, johnson has a stabilizing influence on all the silliness that surrounds him.",
+                        0.6493140596304934
+                    ],
+                    [
+                        "28_the movie nicely delivers the computer-generated goods - the destruction of the golden gate bridge is pretty spectacular - and if johnson doesn't quite make it sing, at least it growls suspensefully.",
+                        0.6763372802799166
+                    ],
+                    [
+                        "34_the action is bracing, johnson's performance is solid and, within its extremely narrow parameters, entirely convincing, and gugino and daddario are both gritty and attractive.",
+                        0.791388872366957
+                    ],
+                    [
+                        "35_in san andreas, the big one finally hits california, and not even dwayne johnson's mutant biceps can keep those infamous tectonic plates from separating.",
+                        0.5308471981227241
+                    ]
+                ]
+            },
+            "Teirrah McNair": {
+                "args": []
+            },
+            "Hugh Francis": {
+                "args": []
+            },
+            "Ioan Gruffudd": {
+                "args": []
+            },
+            "Calum Grant": {
+                "args": []
+            },
+            "Sofie Formica": {
+                "args": []
+            },
+            "Hugo JohnstoneBurt": {
+                "args": []
+            },
+            "Nick Allen": {
+                "args": []
+            },
+            "Paul Giamatti": {
+                "args": [
+                    [
+                        "15_paul giamatti is perfectly cast as the rumpled scientist and his scenes are by far the most interesting.",
+                        0.7437716746121947
+                    ]
+                ]
+            },
+            "Barry Southgate": {
+                "args": []
+            },
+            "Ben Blankenship": {
+                "args": []
+            },
+            "Simone Kessell": {
+                "args": []
+            },
+            "Archie Panjabi": {
+                "args": []
+            },
+            "Hayley Sullivan": {
+                "args": []
+            },
+            "Eduardo Ambriz DeColosio": {
+                "args": []
+            },
+            "Matt Gerald": {
+                "args": []
+            },
+            "Joey D. Vieira": {
+                "args": []
+            },
+            "Sophia Emberson": {
+                "args": []
+            },
+            "Colton Haynes": {
+                "args": []
+            },
+            "Saskia Williscroft": {
+                "args": []
+            },
+            "Nick Allen-Ducat": {
+                "args": []
+            },
+            "Will Yun Lee": {
+                "args": []
+            },
+            "Breanne Hill": {
+                "args": []
+            },
+            "Carla Gugino": {
+                "args": []
+            },
+            "Michael Yamaguchi": {
+                "args": []
+            },
+            "Kylie Minogue": {
+                "args": []
+            },
+            "Brad McMurray": {
+                "args": []
+            },
+            "Alexandra Daddario": {
+                "args": []
+            },
+            "Art Parkinson": {
+                "args": []
+            },
+            "Alec Utgoff": {
+                "args": []
+            },
+            "Hugo Johnstone-Burt": {
+                "args": [
+                    [
+                        "31_i enjoyed large chunks of san andreas, largely because the actors give it a full load of sincerity, and there's some bizarrely effective comic relief thanks to hugo johnstone-burt and art parkinson as brits who picked the wrong week to visit the bay area.",
+                        0.7981510234335211
+                    ]
+                ]
+            },
+            "Julian Shaw": {
+                "args": []
+            },
+            "Marissa Neitling": {
+                "args": []
+            },
+            "John Brently Reynolds": {
+                "args": []
+            },
+            "Arabella Morton": {
+                "args": []
+            },
+            "Todd Williams": {
+                "args": []
+            },
+            "Laurence Coy": {
+                "args": []
+            },
+            "Dennis Coard": {
+                "args": []
+            },
+            "Claire Lovering": {
+                "args": []
+            },
+            "Nikki Greene": {
+                "args": []
+            },
+            "Georgia Lockhart-Adams": {
+                "args": []
+            },
+            "Morgan Griffin": {
+                "args": []
+            },
+            "Nikki Green": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_top-notch effects and a bottom-scraping script make this disaster flick a spectacular bore.",
+                -0.583057746824562
+            ],
+            [
+                "15_it causes one to wonder if san andreas might have worked better if the entire film had focused on his character.",
+                -0.6598656171428625
+            ]
+        ],
+        "entities": {
+            "Carlton Cuse": {
+                "args": []
+            },
+            "Jeremy Passmore": {
+                "args": []
+            },
+            "Carey Hayes": {
+                "args": []
+            },
+            "Chad Hayes": {
+                "args": []
+            }
+        }
+    }
+}

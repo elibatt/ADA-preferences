@@ -1,0 +1,69 @@
+{
+    "writer": {
+        "entities": {
+            "Michael Mason": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Gregory Alan Williams": {
+                "args": []
+            },
+            "David A.R. White": {
+                "args": []
+            },
+            "John Corbett": {
+                "args": []
+            },
+            "Shane Harper": {
+                "args": []
+            },
+            "Shwayze": {
+                "args": []
+            },
+            "Jennifer Taylor": {
+                "args": []
+            },
+            "Ted McGinley": {
+                "args": []
+            },
+            "Mike C. Manning": {
+                "args": []
+            },
+            "Samantha Boscarino": {
+                "args": []
+            },
+            "Tatum O'Neal": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_in darkness isn't as offensive as the first film-it lacks the requisite misogyny and islamophobia, and does a better job of looking like it's almost a real movie-",
+                -0.5804078942378368
+            ],
+            [
+                "2_ it's not far behind, an emblematic film for the foul moment.",
+                -0.5896570534083876
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Michael Mason": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

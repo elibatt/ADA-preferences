@@ -1,0 +1,85 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the film has a hypnotic pull, drawing the viewer deeper and deeper into its enigmatic adventure by crafting a world all its own.",
+                0.8005737454302779
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Andrei Tarkovsky": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_there are no flying saucers in the great russian director's haunting tale of a journey into the depths of a postapocalyptic landscape, ",
+                0.7993584704000598
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Emin Khachaturyan": {
+                "args": []
+            },
+            "Alexander Kaidanovsky": {
+                "args": []
+            },
+            "Alisa Freindlikh": {
+                "args": []
+            },
+            "Natasha Abramova": {
+                "args": []
+            },
+            "Faime Jurno": {
+                "args": []
+            },
+            "Anatoli Solonitsyn": {
+                "args": []
+            },
+            "Alissa Freindlich": {
+                "args": []
+            },
+            "Nikolai Grinko": {
+                "args": []
+            },
+            "F. Yurma": {
+                "args": []
+            },
+            "Aleksandre Kaïdanovski": {
+                "args": []
+            },
+            "R. Rendi": {
+                "args": []
+            },
+            "E. Kostin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Andrei Tarkovsky": {
+                "args": []
+            },
+            "Arkadiy Strugatskiy": {
+                "args": []
+            },
+            "Boris Strugatsky": {
+                "args": []
+            },
+            "Arkady Strugatsky": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "writer": {
+        "entities": {
+            "Lars Kraume": {
+                "args": []
+            },
+            "Olivier Guez": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_though blessed with a spectacular true story and character to work from, director and co-screenwriter lars kraume fails to breathe much life into the stuffy,",
+                0.5314103988925631
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Lars Kraume": {
+                "args": [
+                    [
+                        "6_director lars kraume's mounting of this tale, while capable enough, is also rather staid and conventional.",
+                        -0.5464027955579576
+                    ],
+                    [
+                        "8_by focusing on his subject's unwavering moral certainty, kraume denies his ethical complexity and diminishes the difficulties of his challenging stance to educate the society that wanted him dead.",
+                        0.725609806557329
+                    ],
+                    [
+                        "9_though relatively conservative in its approach, lars kraume's teleplay-style treatment of a still-touchy subject has the nerve to name names,",
+                        0.58085414540969
+                    ],
+                    [
+                        "10_though blessed with a spectacular true story and character to work from, director and co-screenwriter lars kraume fails to breathe much life into the stuffy,",
+                        0.5314103988925631
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_klaussner's fine performance keeps us on edge through most of the film, even ",
+                0.682620770797669
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Laura Tonke": {
+                "args": []
+            },
+            "Stefan Gebelhoff": {
+                "args": []
+            },
+            "Rüdiger Klink": {
+                "args": []
+            },
+            "Anna von Haebler": {
+                "args": []
+            },
+            "Ronald Zehrfeld": {
+                "args": []
+            },
+            "Burghart Klaussner": {
+                "args": []
+            },
+            "Matthias Weidenhöffer": {
+                "args": []
+            },
+            "Tilo Werner": {
+                "args": []
+            },
+            "Dani Levy": {
+                "args": []
+            },
+            "Chaim Cohn": {
+                "args": []
+            },
+            "Christopher Buchholz": {
+                "args": []
+            },
+            "Robert Atzorn": {
+                "args": []
+            },
+            "Jörg Schüttauf": {
+                "args": []
+            },
+            "Michael Schenk": {
+                "args": []
+            },
+            "Paulus Manker": {
+                "args": []
+            },
+            "Lilith Stangenberg": {
+                "args": []
+            },
+            "Götz Schubert": {
+                "args": []
+            },
+            "Cornelia Gröschel": {
+                "args": []
+            },
+            "Sebastian Blomberg": {
+                "args": []
+            },
+            "Matthias Weidenhöfer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_klaussner's powerful performance as bauer ... snaps the picture back into focus.",
+                0.7428711916931596
+            ],
+            [
+                "4_klaussner's fine performance keeps us on edge through most of the film, even ",
+                0.682620770797669
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

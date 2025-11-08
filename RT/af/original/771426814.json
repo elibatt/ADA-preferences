@@ -1,0 +1,63 @@
+{
+    "writer": {
+        "entities": {
+            "Kabir Khan": {
+                "args": []
+            },
+            "Parveez Shaikh": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Saif Ali Khan": {
+                "args": [
+                    [
+                        "0_lead actors khan and kaif try their best, ",
+                        0.7539363901290309
+                    ]
+                ]
+            },
+            "Farah Ahmed (II)": {
+                "args": []
+            },
+            "Rajesh Tailang": {
+                "args": []
+            },
+            "Elyas Ahmad": {
+                "args": []
+            },
+            "Katrina Kaif": {
+                "args": [
+                    [
+                        "0_ what's most impressive is how kaif's hairstyle remains intact after every high-flying chase.",
+                        0.7996998423952288
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Kabir Khan": {
+                "args": [
+                    [
+                        "0_lead actors khan and kaif try their best, ",
+                        0.7539363901290309
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michelle Dockery": {
+                "args": []
+            },
+            "Joe Alwyn": {
+                "args": []
+            },
+            "Freya Mavor": {
+                "args": []
+            },
+            "Emily Mortimer": {
+                "args": []
+            },
+            "Matthew Goode": {
+                "args": []
+            },
+            "Billy Howle": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": [
+                    [
+                        "3_director ritesh batra's adaptation of julian barnes's my-theme-is-memory novel serves as a grand showcase for star jim broadbent as a sour old soul who is ever so gently forced to reckon with his past.",
+                        0.7602082558711047
+                    ],
+                    [
+                        "4_beyond broadbent's rich portrait of tony's wide-eyed surprise and bumbling reassessments, batra has found various deft ways of making barnes's points about time and memory ...",
+                        0.856286450633837
+                    ],
+                    [
+                        "9_payne's screenplay doesn't always live up to broadbent's talents.",
+                        -0.6151957701618725
+                    ],
+                    [
+                        "12_without an actor of broadbent's poise and humor, the sense of an ending - which, i must add, is appropriately also the title of a famous work of literary criticism by frank kermode about theories of fiction - would be a bit too fusty.",
+                        0.5996687860712392
+                    ],
+                    [
+                        "16_if the sense of an ending is an object lesson in the heedless cruelty of the young, it's also, in broadbent's versatile hands, a moving account of the inner turmoil of a man with little time left to right a wrong.",
+                        0.7276278776185143
+                    ],
+                    [
+                        "17_the movie is ultimately broadbent's showcase, and he shoulders the dramatic burden with sly, curmudgeonly expertise.",
+                        0.5757038800512165
+                    ]
+                ]
+            },
+            "Charlotte Rampling": {
+                "args": []
+            },
+            "Harriet Walter": {
+                "args": [
+                    [
+                        "1_broadbent and walter are perfectly paired...",
+                        0.6589985199872337
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a mature film that asks us to bring a lot of ourselves to it.",
+                0.7570212442684747
+            ],
+            [
+                "2_watching the sense of an ending",
+                0.6452518595108022
+            ],
+            [
+                "2_, i was struck by the realization that this should have been a good movie.",
+                -0.6603590464692102
+            ],
+            [
+                "7_it's a cozy movie with a decidedly un-cozy message - about the perils of resuscitating our pasts, and the even bigger risk of leaving them be.",
+                0.5604378128263925
+            ],
+            [
+                "8_\"the sense of an ending\" does not provide easy answers.",
+                0.6703530439219011
+            ],
+            [
+                "9_ and \"the sense of an ending\" is so much better as a result.",
+                0.5376681511595471
+            ],
+            [
+                "10_barnes' novel, winner of the 2011 man booker prize, is elevated in a way the movie can't reach",
+                -0.5280288666697206
+            ],
+            [
+                "10_ it has a jewellike perfection to it, while the movie's simply quite good.",
+                0.6423322558440642
+            ],
+            [
+                "11_an exemplary work about the way we select and file our memories, conveniently editing what we choose to forget.",
+                0.547253235148975
+            ],
+            [
+                "14_a film that's well-acted ",
+                0.6855094190929458
+            ],
+            [
+                "18_the film totters into a redemptive sentimentality that wouldn't even play if it were made to seem more earned.",
+                -0.6205460064296447
+            ],
+            [
+                "19_it takes a while to recognize that the sense of an ending is essentially a portrait of a jerk.",
+                0.6153122890418852
+            ],
+            [
+                "21_had this well-meaning movie been more willing to directly embrace its origins in barnes's luminous prose, it's quite possible it might be something special rather than something worthy.",
+                0.789437235531583
+            ],
+            [
+                "23_julian barnes' short, penetrating novel about how we self-protectively edit our memories receives an intelligent, low-key, necessarily diluted big-screen treatment in the sense of an ending.",
+                0.7508553304176295
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ritesh Batra": {
+                "args": [
+                    [
+                        "3_director ritesh batra's adaptation of julian barnes's my-theme-is-memory novel serves as a grand showcase for star jim broadbent as a sour old soul who is ever so gently forced to reckon with his past.",
+                        0.7602082558711047
+                    ],
+                    [
+                        "4_beyond broadbent's rich portrait of tony's wide-eyed surprise and bumbling reassessments, batra has found various deft ways of making barnes's points about time and memory ...",
+                        0.856286450633837
+                    ],
+                    [
+                        "6_director ritesh batra adapts the man booker prize-winning novel into a contemplative ",
+                        0.5575990106502461
+                    ],
+                    [
+                        "22_more than anything, the sense of an ending reinforces batra as a keen observer of small moments.",
+                        0.6616391926231119
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_payne's screenplay doesn't always live up to broadbent's talents.",
+                -0.6151957701618725
+            ],
+            [
+                "20_the melodrama alone conveys the writer's conviction that even in old age one's understanding of life can be swept away in an instant.",
+                0.5357714600696761
+            ]
+        ],
+        "entities": {
+            "Nick Payne (IX) ": {
+                "args": []
+            }
+        }
+    }
+}

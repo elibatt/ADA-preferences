@@ -1,0 +1,130 @@
+{
+    "writer": {
+        "entities": {
+            "Sergio Amidei": {
+                "args": []
+            },
+            "Roberto Rossellini": {
+                "args": []
+            },
+            "Federico Fellini": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_the total effect of the picture is a sense of real experience, achieved as much by the performance as by the writing and direction.",
+                0.6317939321484494
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Roberto Rossellini": {
+                "args": [
+                    [
+                        "0_handheld cameras tremble with the urgency of open wounds and violent emotion in roberto rossellini's 1945 drama of the italian resistance to the capital's occupation by nazi germany.",
+                        0.7335987034979609
+                    ],
+                    [
+                        "4_ rossellini found room, too, for the humour and warmth of everyday life.",
+                        0.6783833120994065
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ that dusty, respectful word does not do justice to a film that has not lost its power to surprise and even shock.",
+                -0.5280702597525186
+            ],
+            [
+                "3_this much of the film is standard hero and villain stuff.",
+                0.6150037960663385
+            ],
+            [
+                "7_remains a film of electric drama and high emotion, as well as a major turning point in film history.",
+                0.8037536933955868
+            ],
+            [
+                "8_ the film astonished audiences around the world and remains a masterpiece.",
+                0.7741800366568503
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "C. Sindici": {
+                "args": []
+            },
+            "Amalia Pellegrini": {
+                "args": []
+            },
+            "Vito Annicchiarico": {
+                "args": []
+            },
+            "Eduardo Passarelli": {
+                "args": []
+            },
+            "Maria Michi": {
+                "args": []
+            },
+            "Carlo Sindici": {
+                "args": []
+            },
+            "Joop van Hulzen": {
+                "args": []
+            },
+            "Giovanna Galletti": {
+                "args": []
+            },
+            "Akos Tolnay": {
+                "args": []
+            },
+            "Vito Annichiarico": {
+                "args": []
+            },
+            "Harry Feist": {
+                "args": []
+            },
+            "Anna Magnani": {
+                "args": []
+            },
+            "Marcello Pagliero": {
+                "args": []
+            },
+            "Carla Revere": {
+                "args": []
+            },
+            "Eduardo Passanelli": {
+                "args": []
+            },
+            "Francesco Grandjacquet": {
+                "args": []
+            },
+            "Aldo Fabrizi": {
+                "args": []
+            },
+            "Nando Bruno": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_it's a street opera, caught on camera during wartime, a story performed by a mixed cast of amazing professionals and earnest non-professionals.",
+                0.7050715808558243
+            ],
+            [
+                "6_the total effect of the picture is a sense of real experience, achieved as much by the performance as by the writing and direction.",
+                0.6317939321484494
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

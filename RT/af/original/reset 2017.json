@@ -1,0 +1,61 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_reset could use a lot more discipline itself",
+                0.6207649117842984
+            ],
+            [
+                "7_midway through the film, this level of unstructured naturalism crosses a threshold from boring to subtly compelling.",
+                -0.6842600292911825
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Thierry Demaizière": {
+                "args": [
+                    [
+                        "4_as they recount \"the story of a world premiere,\" filmmakers thierry demaizière and alban teurlai take the viewer from first steps to exultant gala performance - in essence, from the prosaic to the transcendent.",
+                        0.7861985251322989
+                    ]
+                ]
+            },
+            "Alban Teurlai": {
+                "args": [
+                    [
+                        "3_it helps that, with co-director teurlai serving as cinematographer, the filmmakers exhibit a refined and elegant eye for the kind of quiet loveliness that can be found in movement as well as stillness.",
+                        0.83075483576154
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Benjamin Millepied": {
+                "args": [
+                    [
+                        "2_did the film make me want to see mr. millepied's ballet, \"clear, loud, bright, forward,\" on the stage?",
+                        0.6068693519926316
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "4_as they recount \"the story of a world premiere,\" filmmakers thierry demaizière and alban teurlai take the viewer from first steps to exultant gala performance - in essence, from the prosaic to the transcendent.",
+                0.7861985251322989
+            ]
+        ]
+    }
+}

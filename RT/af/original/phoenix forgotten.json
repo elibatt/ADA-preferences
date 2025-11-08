@@ -1,0 +1,57 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Justin Barber": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Cyd Strittmatter": {
+                "args": []
+            },
+            "Chelsea Lopez": {
+                "args": []
+            },
+            "Justin Matthews (XIII)": {
+                "args": []
+            },
+            "Florence Hartigan": {
+                "args": []
+            },
+            "Luke Spencer Roberts": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Justin Barber": {
+                "args": []
+            },
+            "T.S. Nowlin": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_yes, it's a found-footage film, a genre that seemed played out not long after it arrived, and \"phoenix forgotten\" doesn't do anything to revive it.",
+                -0.6199563983380261
+            ],
+            [
+                "2_ few have aped the genre's touchstone quite as shamelessly as does phoenix forgotten.",
+                0.5624474539108886
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

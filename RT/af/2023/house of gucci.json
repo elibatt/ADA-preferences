@@ -1,0 +1,662 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_i wanted the film to be over-the-top, messy, silly, involving, gorgeous, stylish -- and it's all those things.",
+                0.70
+            ],
+            [
+                "18_house of gucci does a solid job of evoking its recent-history milieu, boasting a beige and brown palette that reeks of nicotine and caffeine, with occasional bursts of reportage-style monochrome.",
+                0.30
+            ],
+            [
+                "19_house of gucci is a titillating, ridiculous and utterly engrossing soap opera.",
+                0.13333333333333333
+            ],
+            [
+                "24_there's a joyful campiness to house of gucci that is firmly established by the pop star turned movie star's performance.",
+                -0.2
+            ],
+            [
+                "27_the film is a tragi-comic triumph of operatic proportions.",
+                0.60
+            ],
+            [
+                "28_i found the film so insistently campy yet painfully mirthless-its style lies somewhere between opera buffa and telenovela-that my mental state of acute anguish may have skewed my perceptions of whatever the story has to offer.",
+                -0.06666666666666665
+            ],
+            [
+                "29_you reach the end of the movie, sometimes having been entertained and more often irritated, and wonder, 'what were they trying to do here?'",
+                0.5
+            ],
+            [
+                "30_say this for 'house of gucci,' it announces its basic silliness right off the bat.",
+                0.14285714285714285
+            ],
+            [
+                "35_house of gucci is not only a bad film, ",
+                -0.3499999999999999
+            ],
+            [
+                "37_house of gucci isn't aggressively bad, ",
+                -0.4999999999999998
+            ],
+            [
+                "38_there is indeed lots to be found in house of gucci once you let go of your expectations of, say, learning anything about the gucci company or understanding the characters' motivations.",
+                0.10
+            ],
+            [
+                "39_regrets, we have more than a few regarding 'house of gucci,' beginning with the underachieving a-list cast.",
+                0.15
+            ]
+        ],
+        "unique_args": [
+            [
+                "5_i wanted the film to be over-the-top, messy, silly, involving, gorgeous, stylish -- and it's all those things.",
+                0.70
+            ],
+            [
+                "18_house of gucci does a solid job of evoking its recent-history milieu, boasting a beige and brown palette that reeks of nicotine and caffeine, with occasional bursts of reportage-style monochrome.",
+                0.30
+            ],
+            [
+                "19_house of gucci is a titillating, ridiculous and utterly engrossing soap opera.",
+                0.13333333333333333
+            ],
+            [
+                "24_there's a joyful campiness to house of gucci that is firmly established by the pop star turned movie star's performance.",
+                -0.2
+            ],
+            [
+                "27_the film is a tragi-comic triumph of operatic proportions.",
+                0.60
+            ],
+            [
+                "28_i found the film so insistently campy yet painfully mirthless-its style lies somewhere between opera buffa and telenovela-that my mental state of acute anguish may have skewed my perceptions of whatever the story has to offer.",
+                -0.06666666666666665
+            ],
+            [
+                "29_you reach the end of the movie, sometimes having been entertained and more often irritated, and wonder, 'what were they trying to do here?'",
+                0.5
+            ],
+            [
+                "30_say this for 'house of gucci,' it announces its basic silliness right off the bat.",
+                0.14285714285714285
+            ],
+            [
+                "35_house of gucci is not only a bad film, ",
+                -0.3499999999999999
+            ],
+            [
+                "37_house of gucci isn't aggressively bad, ",
+                -0.4999999999999998
+            ],
+            [
+                "38_there is indeed lots to be found in house of gucci once you let go of your expectations of, say, learning anything about the gucci company or understanding the characters' motivations.",
+                0.10
+            ],
+            [
+                "39_regrets, we have more than a few regarding 'house of gucci,' beginning with the underachieving a-list cast.",
+                0.15
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "2",
+                -1
+            ],
+            [
+                "15",
+                1
+            ],
+            [
+                "17",
+                1
+            ],
+            [
+                "20",
+                -1
+            ],
+            [
+                "23",
+                1
+            ],
+            [
+                "26",
+                1
+            ],
+            [
+                "31",
+                -1
+            ],
+            [
+                "34",
+                -1
+            ],
+            [
+                "36",
+                1
+            ],
+            [
+                "41",
+                -1
+            ],
+            [
+                "46",
+                1
+            ],
+            [
+                "47",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ridley Scott": {
+                "args": [
+                    [
+                        "2_lady gaga makes an immediate and indelible impression as patrizia reggiani, the future signora gucci, in ridley scott's film about the guccis' fractured history.",
+                        0.70
+                    ],
+                    [
+                        "34_ you have to admire scott's energy.",
+                        0.60
+                    ],
+                    [
+                        "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                        0.40
+                    ],
+                    [
+                        "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                        -0.40
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "2_lady gaga makes an immediate and indelible impression as patrizia reggiani, the future signora gucci, in ridley scott's film about the guccis' fractured history.",
+                        0.70
+                    ],
+                    [
+                        "34_ you have to admire scott's energy.",
+                        0.60
+                    ],
+                    [
+                        "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                        0.40
+                    ],
+                    [
+                        "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                        -0.40
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "2_lady gaga makes an immediate and indelible impression as patrizia reggiani, the future signora gucci, in ridley scott's film about the guccis' fractured history.",
+                0.70
+            ],
+            [
+                "34_ you have to admire scott's energy.",
+                0.60
+            ],
+            [
+                "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                0.50
+            ],
+            [
+                "47_director ridley scott seems firmly in american gangster mode here, a by-the-numbers biographical approach that fits the film like one of leto's pastel suits.",
+                -0.40
+            ]
+        ]
+    },
+    "writer": {
+        "args": [
+            [
+                "0_",
+                1
+            ],
+            [
+                "2, ",
+                1
+            ],
+            [
+                "e, ",
+                -1
+            ]
+        ],
+        "entities": {
+            "Becky Johnston": {
+                "args": [
+                    [
+                        "0_",
+                        1
+                    ],
+                    [
+                        "2, ",
+                        1
+                    ],
+                    [
+                        "e, ",
+                        -1
+                    ]
+                ],
+                "unique_args": []
+            }
+        },
+        "unique_args": [ [
+            "0_",
+            1
+        ],
+        [
+            "2, ",
+            1
+        ],
+        [
+            "e, ",
+            -1
+        ]]
+    },
+    "acting": {
+        "args": [
+            [
+                "0_a very fine cast of american actors speaking with italian accents ensures that, ",
+                0.18055555555555558
+            ],
+            [
+                "23_what of great acting that looks and feels like acting, that draws on the performer's own outsize persona, that lands on the screen larger, lusher and more lavish than life?",
+                0.31666666666666665
+            ],
+            [
+                "24_there's a joyful campiness to house of gucci that is firmly established by the pop star turned movie star's performance.",
+                -0.2
+            ],
+            [
+                "39_regrets, we have more than a few regarding 'house of gucci,' beginning with the underachieving a-list cast.",
+                0.15
+            ],
+            [
+                "46_gaga delivers a bravura performance as patrizia, an alchemical blend of sheer charisma, power of personality, undeniable magnetism, and most importantly, commitment to the bit.",
+                0.3
+            ]
+        ],
+        "entities": {
+            "Lady Gaga": {
+                "args": [
+                    [
+                        "15_when lady gaga is on screen, this movie is very watchable and compelling.",
+                        0.25
+                    ],
+                    [
+                        "17_if the film is remembered for anything, it's for being exhibit a as what a great actor [lady gaga] is.",
+                        0.8
+                    ],
+                    [
+                        "17_long live the house that gaga built.",
+                        0.13636363636363635
+                    ],
+                    [
+                        "20_in short, this isn't a bad film, and it's probably worth seeing for lady gaga alone, ",
+                        -0.13333333333333328
+                    ],
+                    [
+                        "26_lady gaga is never less than fascinating to watch and driver, always impressive, gives one of his best performances in this bananas story of glamor, ambition, and betrayal.",
+                        0.6958333333333333
+                    ],
+                    [
+                        "27_thanks in no small part to stand-out star lady gaga, house of gucci has made melodrama fashionable again.",
+                        -0.0875
+                    ],
+                    [
+                        "31_it's a movie blueprinted to be a hit, and if it succeeds-whether with boomers, millennials, gaga's little monsters, or some sort of broad coalition-it'll sadly prove its own point about the inherent, illicit, and insubstantial allure of wretched excess.",
+                        -0.0062500000000000056
+                    ],
+                    [
+                        "41_amid the jumble of fake italian accents and overall too-muchness, an oscar-ready lady gaga is flat-out fabulous.",
+                        -0.024999999999999994
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "17_if the film is remembered for anything, it's for being exhibit a as what a great actor [lady gaga] is.",
+                        0.8
+                    ],
+                    [
+                        "15_when lady gaga is on screen, this movie is very watchable and compelling.",
+                        0.25
+                    ],
+                    [
+                        "20_in short, this isn't a bad film, and it's probably worth seeing for lady gaga alone, ",
+                        -0.13333333333333328
+                    ],
+                    [
+                        "26_lady gaga is never less than fascinating to watch and driver, always impressive, gives one of his best performances in this bananas story of glamor, ambition, and betrayal.",
+                        0.6958333333333333
+                    ],
+                    [
+                        "27_thanks in no small part to stand-out star lady gaga, house of gucci has made melodrama fashionable again.",
+                        -0.0875
+                    ],
+                    [
+                        "31_it's a movie blueprinted to be a hit, and if it succeeds-whether with boomers, millennials, gaga's little monsters, or some sort of broad coalition-it'll sadly prove its own point about the inherent, illicit, and insubstantial allure of wretched excess.",
+                        -0.0062500000000000056
+                    ],
+                    [
+                        "41_amid the jumble of fake italian accents and overall too-muchness, an oscar-ready lady gaga is flat-out fabulous.",
+                        -0.024999999999999994
+                    ]
+                ]
+            },
+            "Adam Driver": {
+                "args": [],
+                "unique_args": []
+            },
+            "Al Pacino": {
+                "args": [],
+                "unique_args": []
+            },
+            "Jeremy Irons": {
+                "args": [],
+                "unique_args": []
+            },
+            "Jared Leto": {
+                "args": [],
+                "unique_args": []
+            },
+            "Jack Huston": {
+                "args": [],
+                "unique_args": []
+            },
+            "Salma Hayek": {
+                "args": [
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        0.2
+                    ],
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        0.2
+                    ],
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        -0.2
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        0.2
+                    ],
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        0.2
+                    ],
+                    [
+                        "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                        -0.2
+                    ]
+                ]
+            },
+            "Alexia Murray": {
+                "args": [],
+                "unique_args": []
+            },
+            "Vincent Riotta": {
+                "args": [],
+                "unique_args": []
+            },
+            "Gaetano Bruno": {
+                "args": [],
+                "unique_args": []
+            },
+            "Camille Cottin": {
+                "args": [],
+                "unique_args": []
+            },
+            "Youssef Kerkour": {
+                "args": [],
+                "unique_args": []
+            },
+            "Reeve Carney": {
+                "args": [],
+                "unique_args": []
+            },
+            "Florence Andrews": {
+                "args": [],
+                "unique_args": []
+            },
+            "Mehdi Nebbou": {
+                "args": [],
+                "unique_args": []
+            },
+            "Miloud Mourad Benamara": {
+                "args": [],
+                "unique_args": []
+            },
+            "Madalina Diana Ghenea": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "0_a very fine cast of american actors speaking with italian accents ensures that, ",
+                0.18055555555555558
+            ],
+            [
+                "23_what of great acting that looks and feels like acting, that draws on the performer's own outsize persona, that lands on the screen larger, lusher and more lavish than life?",
+                0.31666666666666665
+            ],
+            [
+                "24_there's a joyful campiness to house of gucci that is firmly established by the pop star turned movie star's performance.",
+                -0.2
+            ],
+            [
+                "39_regrets, we have more than a few regarding 'house of gucci,' beginning with the underachieving a-list cast.",
+                0.15
+            ],
+            [
+                "46_gaga delivers a bravura performance as patrizia, an alchemical blend of sheer charisma, power of personality, undeniable magnetism, and most importantly, commitment to the bit.",
+                0.3
+            ],
+            [
+                "17_if the film is remembered for anything, it's for being exhibit a as what a great actor [lady gaga] is.",
+                0.8
+            ],
+            [
+                "15_when lady gaga is on screen, this movie is very watchable and compelling.",
+                0.25
+            ],
+            [
+                "20_in short, this isn't a bad film, and it's probably worth seeing for lady gaga alone, ",
+                -0.13333333333333328
+            ],
+            [
+                "26_lady gaga is never less than fascinating to watch and driver, always impressive, gives one of his best performances in this bananas story of glamor, ambition, and betrayal.",
+                0.6958333333333333
+            ],
+            [
+                "27_thanks in no small part to stand-out star lady gaga, house of gucci has made melodrama fashionable again.",
+                -0.0875
+            ],
+            [
+                "31_it's a movie blueprinted to be a hit, and if it succeeds-whether with boomers, millennials, gaga's little monsters, or some sort of broad coalition-it'll sadly prove its own point about the inherent, illicit, and insubstantial allure of wretched excess.",
+                -0.0062500000000000056
+            ],
+            [
+                "41_amid the jumble of fake italian accents and overall too-muchness, an oscar-ready lady gaga is flat-out fabulous.",
+                -0.024999999999999994
+            ],
+            [
+                "36_...this melodrama � la mode is 150 minutes of goofy fun, filled with wild performances, killer costumes, and salma hayek playing a ... witch.",
+                0.2
+            ]
+        ]
+    },
+    "themes": {
+        "args": [
+            [
+                "1.",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "3",
+                -1
+            ],
+            [
+                "1.",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "3",
+                -1
+            ]
+        ],
+        "entities": {
+            "betrayal": {
+                "args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ],
+                    [
+                        "4 ",
+                        -0.13333333333333328
+                    ],
+                    [
+                        "5",
+                        -0.6958333333333333
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ],
+                    [
+                        "4 ",
+                        -0.13333333333333328
+                    ],
+                    [
+                        "5",
+                        -0.6958333333333333
+                    ]
+                ]
+            },
+            "ambition": {
+                "args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ]
+                ]
+            },
+            "greed": {
+                "args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "1.",
+                        1
+                    ],
+                    [
+                        "2",
+                        1
+                    ],
+                    [
+                        "3",
+                        -1
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "1.",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "3",
+                -1
+            ],
+            [
+                "1.",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "3",
+                -1
+            ]
+        ]
+    }
+}

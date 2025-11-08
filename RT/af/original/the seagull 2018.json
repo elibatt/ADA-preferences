@@ -1,0 +1,174 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_tful acting can take you only so far, and \"the seagull\" has been brought into close-up without ever coming into focus.",
+                0.501025070510286
+            ],
+            [
+                "8_if nothing else, the movie is a double tour de force of acting.",
+                0.5207705427000793
+            ],
+            [
+                "12_the seagull is handsomely mounted and well-acted by a stellar cast, ",
+                0.6084058458744409
+            ],
+            [
+                "12_ it's one of those theatrical adaptations that has no reason to exist for any viewer who can recall a superior stage version of the same work.",
+                -0.6983942399840344
+            ],
+            [
+                "13_as film, the results are often fabulous.",
+                0.5385408248252133
+            ],
+            [
+                "14_the seagull, true to its author, turns life into art",
+                0.6502812707710153
+            ],
+            [
+                "16_the most impressive thing about this film of the seagull is that every role has been ideally cast.",
+                0.6347376133421462
+            ],
+            [
+                "19_for a distinctly russian play, he's made a notably american film, pleasantly unstuffy.",
+                0.651964552609198
+            ],
+            [
+                "20_but this is still a bad movie,",
+                -0.8304626003428836
+            ],
+            [
+                "22_the film will appeal mostly to theater buffs curious to see these particular actors in the roles.",
+                0.5608588849516857
+            ],
+            [
+                "23_the true magic of the film lies in its performances.",
+                0.8114144275880762
+            ],
+            [
+                "24_the seagull is both laugh out loud hilarious and tragically sad, sometimes in the same scene",
+                0.6881084185536857
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Mayer (VI)": {
+                "args": [
+                    [
+                        "11_when director michael mayer lets his restless camera stay out of the way, annette bening, saoirse ronan and elisabeth moss lift this chekhov adaptation to the heights.",
+                        0.5791145989849039
+                    ],
+                    [
+                        "28_, in michael mayer's sultry screen adaptation of anton chekhov's classic 1896 play.",
+                        0.6439010679521455
+                    ],
+                    [
+                        "29_but she's a firecracker in michael mayer's spirited adaptation of anton chekhov's the seagull, as the aging,",
+                        0.7764681717990164
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "1_mayer brings a labored hand to the proceedings and can't maximize his dynamite cast or the potential for salaciousness in chekov's tangled web of characters.",
+                -0.5273451088083574
+            ],
+            [
+                "5_tful acting can take you only so far, and \"the seagull\" has been brought into close-up without ever coming into focus.",
+                0.501025070510286
+            ],
+            [
+                "8_if nothing else, the movie is a double tour de force of acting.",
+                0.5207705427000793
+            ],
+            [
+                "12_the seagull is handsomely mounted and well-acted by a stellar cast, ",
+                0.6084058458744409
+            ],
+            [
+                "16_the most impressive thing about this film of the seagull is that every role has been ideally cast.",
+                0.6347376133421462
+            ]
+        ],
+        "entities": {
+            "Annette Bening": {
+                "args": [
+                    [
+                        "21_an enticing, amusing and passionate showcase for its top-drawer cast led by a once-again superb annette bening.",
+                        0.7835502563278264
+                    ],
+                    [
+                        "25_arkadina is one of literature's most narcissistic mothers - which is saying something - and yet bening makes her damnably human.",
+                        0.663537310808435
+                    ]
+                ]
+            },
+            "Elisabeth Moss": {
+                "args": []
+            },
+            "Michael Zegen": {
+                "args": []
+            },
+            "Brian Dennehy": {
+                "args": []
+            },
+            "Saoirse Ronan": {
+                "args": [
+                    [
+                        "6_the best reason to check out the film is for saoirse ronan's tender, wrenching performance as the lovelorn nina, and, especially, for annette bening's fantastic turn as irina...",
+                        0.8769530924937396
+                    ],
+                    [
+                        "11_when director michael mayer lets his restless camera stay out of the way, annette bening, saoirse ronan and elisabeth moss lift this chekhov adaptation to the heights.",
+                        0.5791145989849039
+                    ],
+                    [
+                        "23_bening is the best she's ever been as the vain, aging stage actress, with a perfectly naïve ronan as nina just discovering her sexual power.",
+                        0.9067352268695128
+                    ],
+                    [
+                        "26_when [saoirse] ronan's face appears for the first time it is a glowing orb that fills the screen.",
+                        0.5875392037235366
+                    ]
+                ]
+            },
+            "Mare Winningham": {
+                "args": []
+            },
+            "Jon Tenney": {
+                "args": []
+            },
+            "Billy Howle": {
+                "args": []
+            },
+            "Corey Stoll": {
+                "args": [
+                    [
+                        "7_bening and stoll, in particular, find all the wit, vanity, vulnerability and casual cruelty there is to be found here.",
+                        -0.6579727976172588
+                    ]
+                ]
+            },
+            "Glenn Fleshler": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stephen Karam": {
+                "args": []
+            }
+        }
+    }
+}

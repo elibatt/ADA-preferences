@@ -1,0 +1,393 @@
+{
+    "writer": {
+        "args": [
+            [
+                "16_you keep waiting for the film to come together, for rick to emerge as a character rather than a cipher, for the women to seem less interchangeable - in short, for a point to it all.",
+                -0.5411616906131478
+            ],
+            [
+                "40_the sheer weight of evocative, ethereal images is not matched by complexity, depth or character development.",
+                -0.5787655408340682
+            ],
+            [
+                "41_there's something at once vividly familiar and strikingly different about \"knight of cups,\" a feverish plunge into the toxic cloud of decadence swirling around a los angeles screenwriter gone to seed.",
+                0.5942951400100351
+            ]
+        ],
+        "entities": {
+            "Terrence Malick": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_ he knows exactly what he's looking for, and knight of cups, for all its splendor, made me wish that he could take a swig and forget.",
+                0.5335951330086014
+            ],
+            [
+                "5_taken as a straightforward movie, \"knight of cups\" is an indecipherable mess.",
+                0.5597639156809983
+            ],
+            [
+                "5_taken as a piece of nonlinear visual poetry, \"knight of cups\" is still an indecipherable mess.",
+                0.5783131698408427
+            ],
+            [
+                "6_sitting in the theater, watching knight of cups, you hear an incredible amount of ",
+                0.8313595356261219
+            ],
+            [
+                "7_the inwardness also has the happy effect of making the film's physical settings - obscene palazzos, gray temples of commerce, vegas casinos, desert wastes, neon clubs, and various and sundry bodies of water - serve as interior landscapes.",
+                0.7424962187317354
+            ],
+            [
+                "11_\"knight of cups\" may want to be understood as the portrait of a man plunging beneath the veneer of modern life, ",
+                0.7814976552369647
+            ],
+            [
+                "12_light on story line, \"knight of cups\" offers images closer to the visual tableaux of coffee table photography books than typical drama.",
+                0.7535339050205428
+            ],
+            [
+                "14_this is the kind of film that makes moviegoers long for good, old-fashioned storytelling.",
+                0.7278077194911581
+            ],
+            [
+                "16_you keep waiting for the film to come together, for rick to emerge as a character rather than a cipher, for the women to seem less interchangeable - in short, for a point to it all.",
+                -0.5411616906131478
+            ],
+            [
+                "17_if there's a better film this year, get ready for a very good year.",
+                0.692334903979932
+            ],
+            [
+                "25_malick has made what is essentially the same movie three times in a row:",
+                -0.5608708896201183
+            ],
+            [
+                "27_this turns out to be a film that teaches you how to watch it.",
+                0.5401902187954797
+            ],
+            [
+                "28_\"knight of cups\" settles into a lukewarm bath of male self-pity, a condition perhaps more deserving of satire than sanctification.",
+                -0.5141408364326814
+            ],
+            [
+                "30_this dog of a film is as riveting and fascinating as a walk-in bathtub.",
+                0.7684103129118371
+            ],
+            [
+                "32_with the transporting, repetitive knight of cups,",
+                0.5320598257231869
+            ],
+            [
+                "34_titled after, and loosely structured around, cards in a tarot deck, \"knight of cups\" instead recaptures a less exalted card-based activity: 52 pickup.",
+                0.5283222840059408
+            ],
+            [
+                "35_at every turn, the film shakes off each attempt a viewer makes to cling to it.",
+                -0.5474342683023279
+            ],
+            [
+                "38_many will run screaming from knight of cups, even as some of us are enraptured.",
+                0.6265138732444686
+            ],
+            [
+                "41_there's something at once vividly familiar and strikingly different about \"knight of cups,\" a feverish plunge into the toxic cloud of decadence swirling around a los angeles screenwriter gone to seed.",
+                0.5942951400100351
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bruce Wagner": {
+                "args": []
+            },
+            "Alpha Takahashi": {
+                "args": []
+            },
+            "Joe Manganiello": {
+                "args": []
+            },
+            "Freida Pinto": {
+                "args": []
+            },
+            "David Joseph Salamida": {
+                "args": []
+            },
+            "Clifton Collins Jr.": {
+                "args": []
+            },
+            "Jamie Harris": {
+                "args": []
+            },
+            "Shea Whigham": {
+                "args": []
+            },
+            "Riley Lee": {
+                "args": []
+            },
+            "Christie Beran": {
+                "args": []
+            },
+            "Cherry Jones": {
+                "args": []
+            },
+            "Imogen Poots": {
+                "args": []
+            },
+            "Wes Bentley": {
+                "args": []
+            },
+            "Slavitza Jovan": {
+                "args": []
+            },
+            "Paula Lema": {
+                "args": []
+            },
+            "Madeleine Lindley": {
+                "args": []
+            },
+            "Joel Kinnaman": {
+                "args": []
+            },
+            "Antonio Banderas": {
+                "args": []
+            },
+            "Melissa Haro": {
+                "args": []
+            },
+            "Isabel Lucas": {
+                "args": []
+            },
+            "Yumi Mizui": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Janette Roderick": {
+                "args": []
+            },
+            "Leo Vendedda": {
+                "args": []
+            },
+            "Sarah Kaite Coughlan": {
+                "args": []
+            },
+            "Katia Winter": {
+                "args": []
+            },
+            "Sergey Bodrov": {
+                "args": []
+            },
+            "Thomas Barnes": {
+                "args": []
+            },
+            "Phoebe Schrafft": {
+                "args": []
+            },
+            "Jason Clarke": {
+                "args": []
+            },
+            "Fabio": {
+                "args": []
+            },
+            "Dane DeHaan": {
+                "args": []
+            },
+            "Jessica Farrow": {
+                "args": []
+            },
+            "Rachel Zimmerman": {
+                "args": []
+            },
+            "Joerg Widmer": {
+                "args": []
+            },
+            "Beau Garrett": {
+                "args": []
+            },
+            "Jocelin Donahue": {
+                "args": []
+            },
+            "Armin Mueller-Stahl": {
+                "args": []
+            },
+            "Ryan O'Neal": {
+                "args": []
+            },
+            "Ben Kingsley": {
+                "args": []
+            },
+            "Joe Lo Truglio": {
+                "args": []
+            },
+            "Cate Blanchett": {
+                "args": [
+                    [
+                        "29_it's symptomatic of the tone of \"knight of cups\" that even blanchett, ordinarily the most sure-footed of performers, has trouble finding a convincing reality to play here.",
+                        0.7747596136371784
+                    ]
+                ]
+            },
+            "Rick Hess": {
+                "args": []
+            },
+            "Cleo Bartolo": {
+                "args": []
+            },
+            "Brian Dennehy": {
+                "args": []
+            },
+            "Natalie Portman": {
+                "args": []
+            },
+            "Kevin Corrigan": {
+                "args": []
+            },
+            "Lawrence Jackson": {
+                "args": []
+            },
+            "Jennifer Connell": {
+                "args": []
+            },
+            "Kelly Cutrone": {
+                "args": []
+            },
+            "Elizabeth Betzen": {
+                "args": []
+            },
+            "Isis Alize": {
+                "args": []
+            },
+            "Teresa Palmer": {
+                "args": []
+            },
+            "Peter Matthiessen": {
+                "args": []
+            },
+            "Jelly Howie": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            },
+            "Alana Marie": {
+                "args": []
+            },
+            "Michael Wincott": {
+                "args": []
+            },
+            "Miranda Jewel": {
+                "args": []
+            },
+            "Raquel Zimmerman": {
+                "args": []
+            },
+            "Thomas Lennon": {
+                "args": []
+            },
+            "Christian Bale": {
+                "args": [
+                    [
+                        "36_by the time you've seen the fifth beautiful, lithe woman in flowing fabrics spinning around bale, knight of cups starts to read more as a fleeting fetish epic than a powerful meditation.",
+                        0.8273892261522728
+                    ]
+                ]
+            },
+            "Sara Mohr": {
+                "args": []
+            },
+            "Danny Strong": {
+                "args": []
+            },
+            "Patrick Whitesell": {
+                "args": []
+            },
+            "Naha Armady": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Terrence Malick": {
+                "args": [
+                    [
+                        "0_more of the same from malick, ",
+                        0.5101259764789708
+                    ],
+                    [
+                        "1_there's nothing quite like a malick movie.",
+                        -0.6563165708793872
+                    ],
+                    [
+                        "2_this is all simply malick being malick - you're either on his wavelength",
+                        -0.541024163662281
+                    ],
+                    [
+                        "8_terrence malick at his worst-tossing a bunch of stars into an ill-defined story.",
+                        -0.7879991756572103
+                    ],
+                    [
+                        "10_[malick] seems to be working ever closer to some kind of ur-movie in his head - the film he has always wanted to see and maybe even be.",
+                        0.5183567127128291
+                    ],
+                    [
+                        "13_an angst experience, delivering a simulacrum of a man's search for meaning as he soaks up the delights of the plush purgatory malick makes l.a. out to be: an endless corridor of cocktails, palm trees, and lithe ladies.",
+                        0.7317990883051613
+                    ],
+                    [
+                        "21_i used to think it was a good thing that malick made movies like no one else's.",
+                        -0.5139033915010491
+                    ],
+                    [
+                        "22_the city malick gives us is at once familiar and strange, beautiful and empty, a place where the real and the surreal were born to coexist.",
+                        0.740839284572186
+                    ],
+                    [
+                        "24_archetypes have a way of turning into abstractions or, worse, clichés, and malick repeats himself so much the movie comes to feel like self-parody.",
+                        -0.773807732230738
+                    ],
+                    [
+                        "26_the mood isn't particularly new, and malick's deliberately elliptical style doesn't feel quite as fresh as it did a few years ago, before younger, less talented filmmakers began imitating him.",
+                        0.6045128370831707
+                    ],
+                    [
+                        "30_with the corpse of a nightmare called knight of cups, i have finally given up on terrence malick.",
+                        -0.5453847796760668
+                    ],
+                    [
+                        "32_terrence malick either matures into the purest version of himself or finally lapses into self-parody.",
+                        -0.5690882487230429
+                    ],
+                    [
+                        "33_there's a line between artful and arty, and malick has crossed it.",
+                        0.5128472517585088
+                    ],
+                    [
+                        "37_terrence malick's recent films are paintings that move, their swirl of ethereal images stirring visceral responses with an unexpected force that's unlike anybody else working today.",
+                        0.8060963120886072
+                    ],
+                    [
+                        "38_at times, malick almost seems to welcome this polarized response.",
+                        0.7048022436883898
+                    ],
+                    [
+                        "39_there's a freshness to watching malick's dreamlike storytelling take root in a fully modern setting for the first time.",
+                        0.7810242506455065
+                    ]
+                ]
+            }
+        }
+    }
+}

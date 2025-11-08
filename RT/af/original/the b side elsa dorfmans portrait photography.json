@@ -1,0 +1,57 @@
+{
+    "director": {
+        "args": [
+            [
+                "2_clocking in at a trim 76 minutes, the b-side is as warmly affectionate as its subject, a close friend and neighbor of the director.",
+                -0.6186836922817645
+            ]
+        ],
+        "entities": {
+            "Errol Morris": {
+                "args": [
+                    [
+                        "4_you can almost sense morris smiling off-camera as she pulls each exposure from her file drawers for reminiscing and newfound scrutiny - that's how strong and warm his admiration is for dorfman and the humble richness of her work.",
+                        0.8041894349604312
+                    ],
+                    [
+                        "6_ it's a pleasure to see a warm, creative, and not even remotely evasive individual in front of [morris'] signature interrotron camera for a change.",
+                        0.8295759624756665
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Elsa Dorfman": {
+                "args": [
+                    [
+                        "4_you can almost sense morris smiling off-camera as she pulls each exposure from her file drawers for reminiscing and newfound scrutiny - that's how strong and warm his admiration is for dorfman and the humble richness of her work.",
+                        0.8041894349604312
+                    ],
+                    [
+                        "10_her stories are great, especially the one about dorfman gate-crashing dylan's rolling thunder revue in 1975.",
+                        0.8033414890669694
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "7_this film will convince you that she definitely deserves a higher position in the pantheon.",
+                0.7589003610449868
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

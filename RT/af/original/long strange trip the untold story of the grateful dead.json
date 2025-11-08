@@ -1,0 +1,76 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_it should go without saying, given its eye-popping length, that this is primarily a movie for deadheads.",
+                -0.588148670256002
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Amir Bar-Lev": {
+                "args": [
+                    [
+                        "1_using never-before-seen footage and interviews, bar-lev's warts-and-all approach fits a band that backed into fame in spite of itself.",
+                        0.7539564657809926
+                    ],
+                    [
+                        "3_you don't need a vr headset to watch amir bar-lev's documentary about the grateful dead, because this four-hour movie is as immersive a wade into the waters of the bay area-germinated psychedelic band's history as 2d gets.",
+                        -0.5443806666871035
+                    ],
+                    [
+                        "5_ bar-lev's emotional connection to his subject is also an animating force.",
+                        0.5133817214210625
+                    ],
+                    [
+                        "7_amir bar-lev's documentary on the grateful dead is an epic, and one that should not be dismissed by eye-rolling millennials as just another reverie about someone else's youth, or another solemn bout of baby boomer navel-gazing.",
+                        -0.5756194130141756
+                    ],
+                    [
+                        "8_the brilliance of long strange trip is that bar-lev allows for multiple interpretations.",
+                        0.570861778169686
+                    ],
+                    [
+                        "11_amir bar-lev's excellent, definitive film on the haight-ashbury acid-testers is long -- four fly-by hours -- ",
+                        0.5366757587439073
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Phil Lesh": {
+                "args": []
+            },
+            "Jerry Garcia": {
+                "args": [
+                    [
+                        "5_in some ways the film is guilty of the kind of worship that made garcia uneasy, ",
+                        0.5986297525817215
+                    ]
+                ]
+            },
+            "Bob Weir": {
+                "args": []
+            },
+            "Bill Kreutzmann": {
+                "args": []
+            },
+            "Mickey Hart": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

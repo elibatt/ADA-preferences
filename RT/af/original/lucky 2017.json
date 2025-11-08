@@ -1,0 +1,186 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_a film comprised of first-rate actors, each given the opportunity to spin a yarn or two.",
+                0.5440127496173774
+            ],
+            [
+                "5_stanton, as \"lucky\" reminds us, remained capable of carrying a movie even to the very end.",
+                0.6991978435506304
+            ],
+            [
+                "6_tracing every step of lucky's protracted daily routine becomes a powerful exercise in both empathy and discomfort as he ponders the meaning of life and the inevitability of death, without the balm of spirituality.",
+                0.7153815531565619
+            ],
+            [
+                "8_the movie's small, and a little too tidy, ",
+                -0.6140930859938314
+            ],
+            [
+                "12_lucky never reaches for the tragic.",
+                -0.6019533389271271
+            ],
+            [
+                "14_the humblest deep movie of recent years, a work in the same vein as american marginalia like stranger than paradise and trees lounge, ",
+                0.769587948087446
+            ],
+            [
+                "17_the movie nurtures a quiet sense of mystery, content in the knowledge that neither an upbeat mind-set nor a cruel, nihilistic one can really capture the full experience of life as it's lived.",
+                0.7647285444985529
+            ],
+            [
+                "18_lucky is an elegiac and ultimately affirming meditation on mortality, regret, and smiling through hardship.",
+                0.6729085289729646
+            ],
+            [
+                "21_the plot is a whisper, barely there - just enough for us to better understand lucky's ruminations on death and the void that comes after.",
+                -0.585510252324592
+            ],
+            [
+                "22_nothing much happens in \"lucky,\" and then everything does.",
+                -0.5604883654817312
+            ],
+            [
+                "26_lucky serves as a first-rate showcase for its star as well as an ideal swan song.",
+                0.8985443901710031
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Carroll Lynch": {
+                "args": [
+                    [
+                        "0_john carroll lynch, who's worked with everyone from martin scorsese to albert brooks, doesn't explicitly borrow from any of his directors, ",
+                        -0.6017674778474237
+                    ],
+                    [
+                        "11_ director john carroll lynch zeroes in on the undeniable pathos and hidden feelings in mr. stanton's map-lined face.",
+                        0.6038243805339761
+                    ],
+                    [
+                        "23_lucky was written by logan sparks and drago sumonja specifically for stanton, and director lynch and cinematographer tim suhrstedt do him justice in every frame.",
+                        0.6421444654631138
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_what's a five-letter word meaning \"great performance\"?",
+                0.5662986890760264
+            ]
+        ],
+        "entities": {
+            "Tom Skerritt": {
+                "args": []
+            },
+            "Beth Grant": {
+                "args": []
+            },
+            "Ron Livingston": {
+                "args": []
+            },
+            "David Lynch": {
+                "args": [
+                    [
+                        "0_john carroll lynch, who's worked with everyone from martin scorsese to albert brooks, doesn't explicitly borrow from any of his directors, ",
+                        -0.6017674778474237
+                    ]
+                ]
+            },
+            "Harry Dean Stanton": {
+                "args": [
+                    [
+                        "10_\"lucky\" is one of harry dean stanton's last roles, a rare leading performance, and it is a treasure.",
+                        0.774511527380431
+                    ],
+                    [
+                        "11_ director john carroll lynch zeroes in on the undeniable pathos and hidden feelings in mr. stanton's map-lined face.",
+                        0.6038243805339761
+                    ],
+                    [
+                        "13_if you're a harry dean stanton fan, seeing him get a rare lead in \"lucky\" is a kind of present and fond farewell.",
+                        0.7890513515117216
+                    ],
+                    [
+                        "15_a movie that simply wouldn't work without the mystical, almost elemental presence of its leading man, harry dean stanton (who died two weeks ago at age 91), lucky now feels like the last will and testament of a ghost.",
+                        -0.6622464265616089
+                    ],
+                    [
+                        "16_even it weren't arriving immediately after his death at the age of 91, this effortlessly moving portrait would be a milestone in stanton's career ...",
+                        -0.5105663655412611
+                    ],
+                    [
+                        "19_when mr. stanton sings a song near film's end, at a child's birthday, in spanish, it's more spectacular than the parting of the red sea.",
+                        0.8464150532625213
+                    ],
+                    [
+                        "20_the late, great stanton gets the perfect send-off playing an atheist loner kicking his own mortality down the road like a tin can that got in his way.",
+                        0.6606734450020726
+                    ],
+                    [
+                        "20_ what kind of fool doesn't believe in harry dean stanton?",
+                        -0.6122961147524454
+                    ],
+                    [
+                        "23_lucky was written by logan sparks and drago sumonja specifically for stanton, and director lynch and cinematographer tim suhrstedt do him justice in every frame.",
+                        0.6421444654631138
+                    ],
+                    [
+                        "25_borrowing a few biographical details from stanton's life, the virtually plotless drama exudes admiration for its nonagenarian muse, ",
+                        0.5645661571947069
+                    ],
+                    [
+                        "27_the late harry dean stanton, in one of his last roles, infuses the slightest gesture and inflection with the weight of grave experience, ",
+                        0.5012137504495426
+                    ],
+                    [
+                        "29_everything harry dean stanton has done in his career, and his life, has brought him to his moment of triumph in \"lucky,\" an unassumingly wonderful little film about nothing in particular and everything that's important.",
+                        0.8085218241547226
+                    ],
+                    [
+                        "30_a beautiful showcase for the 90-year-old harry dean stanton, giving one of the best performances of his remarkable career.",
+                        0.917495144729847
+                    ]
+                ]
+            },
+            "Ed Begley Jr.": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "20_his character may not believe in god.",
+                0.6096394012935832
+            ],
+            [
+                "28_a wise and wistful love letter from one remarkable character actor to another.",
+                0.7067580644942015
+            ]
+        ],
+        "entities": {
+            "Logan Sparks": {
+                "args": [
+                    [
+                        "23_lucky was written by logan sparks and drago sumonja specifically for stanton, and director lynch and cinematographer tim suhrstedt do him justice in every frame.",
+                        0.6421444654631138
+                    ]
+                ]
+            },
+            "Drago Sumonja": {
+                "args": []
+            }
+        }
+    }
+}

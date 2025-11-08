@@ -1,0 +1,89 @@
+{
+    "acting": {
+        "entities": {
+            "Dale Dickey": {
+                "args": []
+            },
+            "Devon Bostick": {
+                "args": []
+            },
+            "Lothaire Bluteau": {
+                "args": []
+            },
+            "Janet Porter": {
+                "args": []
+            },
+            "David Dencik": {
+                "args": []
+            },
+            "Aaron Abrams": {
+                "args": []
+            },
+            "Aaron Ashmore": {
+                "args": []
+            },
+            "Jacob Neayem": {
+                "args": []
+            },
+            "Peter MacNeill": {
+                "args": []
+            },
+            "Kristian Bruun": {
+                "args": []
+            },
+            "Adam Butcher": {
+                "args": []
+            },
+            "David Thewlis": {
+                "args": []
+            },
+            "Emma Watson": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Alejandro Amenábar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_hawke anchors the film as a cop who descends deeper and deeper into the monstrous, violent world he's uncovered.",
+                0.5786753403285846
+            ],
+            [
+                "1_a disposable genre movie that cannot scare, convince, or enlighten.",
+                -0.6701472687068823
+            ],
+            [
+                "2_tripped up by its subject matter, the movie is ultimately a tepid and frustrating experience.",
+                -0.5017224529011364
+            ],
+            [
+                "3_well-intended seriousness dismantles \"regression,\" a not-exactly-horror horror movie that's also a mystery with no mystery.",
+                -0.542862540286197
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Alejandro Amenábar": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

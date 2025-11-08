@@ -1,0 +1,130 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie's focus on the caustic effects of celebrity make this narrative set in the first half of the 20th century particularly relevant for the media-frenzied 21st.",
+                0.6702450923072687
+            ],
+            [
+                "1_curtis drags the story through all the routine period motions, where everybody looks and talks and dresses like they're in a stately prestige film.",
+                -0.6100016680343495
+            ],
+            [
+                "2_\"goodbye christopher robin\" digs into the origins and consequences of milne's mythic winnie-the-pooh stories in ways that are charming and ultimately poignant.",
+                0.8064500872283857
+            ],
+            [
+                "3_goodbye christopher robin resonates today amid multiple wars and a celebrity culture that skews fame, life, and values.",
+                0.7930918434488395
+            ],
+            [
+                "9_\"goodbye christopher robin\" works in spite of itself, because it understands what milne's creation meant to him and to a post-war world and to every child and parent since: a place forever innocent and forever england.",
+                0.86510436304564
+            ],
+            [
+                "11_\"goodbye christopher robin\" touches something bigger than its own ambitions.",
+                0.5453545176102835
+            ],
+            [
+                "12_everything in this too-too movie feels overfermented, off.",
+                -0.7061784877279204
+            ],
+            [
+                "13_the film's main conflict is with its source material, twisting and wringing milne's life for everything it's worth and hoping enough is squeezed out to qualify as a film.",
+                0.7569126186726105
+            ],
+            [
+                "14_ a decent enough film touching on important themes,",
+                0.7709956027623408
+            ],
+            [
+                "18_exquisitely made by director simon curtis, goodbye christopher robin is a genuinely emotional film -- one that explores deeper themes in a simple and understated manner.",
+                0.7229673373683814
+            ],
+            [
+                "19_though \"goodbye christopher robin\" has moments of delight and even profundity, and looks pbs-pretty,",
+                0.5555548562426281
+            ],
+            [
+                "20_why would anyone want to watch a movie about these people?",
+                -0.6369301365343278
+            ],
+            [
+                "21_\"goodbye christopher robin\" is an emotionally layered story about failures in parenting that gave rise to one of our most enduring joys.",
+                0.7602215587047899
+            ],
+            [
+                "22_never hinting at the wit or philosophizing of the pooh stories, the film mostly makes milne look like an inexpressive hack.",
+                -0.5438461716
+            ],
+            [
+                "27_no one's going to accuse goodbye christopher robin of subtlety or of rewriting the biopic rules, ",
+                -0.5332512113020982
+            ],
+            [
+                "28_two tips for all who see the film: brush up on the books (and also milne's beloved poem \"vespers\") before going, in order to appreciate all the inside references, and pack your hankies.",
+                0.8864819674896564
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Margot Robbie": {
+                "args": []
+            },
+            "Kelly Macdonald": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": [
+                    [
+                        "26_it's the chemistry between domhnall gleeson and newcomer will tilston, as the awkwardly matched father and son, that makes the movie more than a mélange of inept parenting and tigger too.",
+                        0.5807315241366432
+                    ]
+                ]
+            },
+            "Phoebe Waller-Bridge": {
+                "args": []
+            },
+            "Will Tilston": {
+                "args": [
+                    [
+                        "8_and poor little tilston, who plays billy, is stranded on screen for far too long, left to dazzle us with his range of exactly two facial expression - frozen happiness, frozen disappointment.",
+                        -0.8433437937231997
+                    ]
+                ]
+            },
+            "Alex Lawther": {
+                "args": []
+            },
+            "Geraldine Somerville": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "18_exquisitely made by director simon curtis, goodbye christopher robin is a genuinely emotional film -- one that explores deeper themes in a simple and understated manner.",
+                0.7229673373683814
+            ]
+        ],
+        "entities": {
+            "Frank Cottrell Boyce": {
+                "args": []
+            },
+            "Simon Vaughan": {
+                "args": []
+            }
+        }
+    }
+}

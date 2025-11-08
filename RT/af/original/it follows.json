@@ -1,0 +1,205 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "27_\"it follows\" pretty much earns its buzz as the scariest and best-engineered american horror movie of recent years, and that's all down to mitchell's sophisticated understanding of technique and the trust and freedom he accords his youthful cast.",
+                0.8539391034758654
+            ]
+        ],
+        "entities": {
+            "Claire Sloma": {
+                "args": []
+            },
+            "Ruby Harris": {
+                "args": []
+            },
+            "Loren Bass": {
+                "args": []
+            },
+            "Linda Boston": {
+                "args": []
+            },
+            "Keir Gilchrist": {
+                "args": []
+            },
+            "Lili Sepe": {
+                "args": []
+            },
+            "Maika Monroe": {
+                "args": []
+            },
+            "Olivia Luccardi": {
+                "args": []
+            },
+            "Jake Weary": {
+                "args": []
+            },
+            "Leisa Pulido": {
+                "args": []
+            },
+            "Debbie Williams": {
+                "args": []
+            },
+            "Bailey Spry": {
+                "args": []
+            },
+            "Daniel Zovatto": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Robert Mitchell": {
+                "args": [
+                    [
+                        "9_writer/director david robert mitchell forms a provocative filmic world of slowly unfolding secrets, creating a highly disturbing, highly recommended nightmare.",
+                        0.6817251561879876
+                    ],
+                    [
+                        "17_jennifer kent's the babadook, from last year, turned parenthood into the scariest story of all, and now comes david robert mitchell's it follows, which merges paranoia and teen sexuality into an exercise in delicious dread.",
+                        0.7865933321301755
+                    ],
+                    [
+                        "22_written and directed by david robert mitchell,",
+                        0.603712855967077
+                    ],
+                    [
+                        "25_unlike many working in this genre, mitchell doesn't punish young women for having sex: this is a gender-blind demonic delivery vehicle.",
+                        0.561147758515112
+                    ],
+                    [
+                        "27_\"it follows\" pretty much earns its buzz as the scariest and best-engineered american horror movie of recent years, and that's all down to mitchell's sophisticated understanding of technique and the trust and freedom he accords his youthful cast.",
+                        0.8539391034758654
+                    ],
+                    [
+                        "32_in this case, after the initial awe wears off, the effect is the opposite: it only makes you realize how much more there was to mine from mitchell's premise all along.",
+                        -0.7767061147870065
+                    ],
+                    [
+                        "36_writer-director david robert mitchell has clearly studied up on john carpenter.",
+                        -0.5019127255115159
+                    ],
+                    [
+                        "36_ mitchell has his own twisted gift for letting atmosphere help define character.",
+                        0.7215570551135838
+                    ],
+                    [
+                        "40_\"it follows\" is a fine title, blending a logician's briskness with the job description of a stalker, and david robert mitchell, the writer and director, has fun with his various predators.",
+                        0.8014339404342873
+                    ],
+                    [
+                        "42_despite all the fun-to-unpack ideas swirling around mitchell's premise,",
+                        0.5017216113450809
+                    ],
+                    [
+                        "43_starting off strong before losing its way in the end, this stylish, suspenseful chiller should significantly broaden mitchell's audience without disappointing his early supporters in the slightest.",
+                        -0.6663923682093555
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "36_ mitchell has his own twisted gift for letting atmosphere help define character.",
+                0.7215570551135838
+            ],
+            [
+                "40_\"it follows\" is a fine title, blending a logician's briskness with the job description of a stalker, and david robert mitchell, the writer and director, has fun with his various predators.",
+                0.8014339404342873
+            ]
+        ],
+        "entities": {
+            "David Robert Mitchell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_it follows represents a compelling evolution in how studios and audiences can (and should) conceive of its monsters.",
+                0.6710206688344267
+            ],
+            [
+                "2_it's a testament to how scary a movie",
+                -0.5358408907953462
+            ],
+            [
+                "3_follows gives the film a fanciful, otherworldly feel.",
+                0.6549770526528816
+            ],
+            [
+                "5_\"it follows\" is the creepiest movie in years.",
+                0.5428659620620975
+            ],
+            [
+                "6_less a conventional scary horror film than a fitful, disturbing dream, it follows is all about atmosphere, with an unsettling soundscape and dislocating widescreen imagery.",
+                0.631922703069443
+            ],
+            [
+                "7_it follows manages to bend the rules of fateful juvenile sexuality, and does so in a manner that genuinely tingles the spine and disturbs the mind.",
+                0.7435435331172189
+            ],
+            [
+                "10_the matters of sex and lost innocence work like a thematic undertow, pulling the characters down into the dark, psychological depths.",
+                0.5182416214522985
+            ],
+            [
+                "18_an assured piece of filmmaking that works as both a horror movie and a coming-of-age story.",
+                0.8044817069872001
+            ],
+            [
+                "19_ the film never reaches terrifying heights.",
+                -0.5562252204196315
+            ],
+            [
+                "20_\"it follows\" is one of the scariest movies i've ever seen.",
+                0.7323649680088643
+            ],
+            [
+                "21_it follows is that it will not follow in everyone else's footsteps.",
+                0.5185341462841372
+            ],
+            [
+                "22_it follows is the latest in a long line of sex-as-horror flicks that somehow grounds its terror both in reality and in the otherworldly, making this a smart and ",
+                0.6028002874289415
+            ],
+            [
+                "24_\"it follows\" is not really about sex, ",
+                -0.6817899589316603
+            ],
+            [
+                "26_i've been a horror-movie freak, and i've rarely been as scared as i was at it follows.",
+                -0.7332639341986493
+            ],
+            [
+                "31_a beautifully shot, nicely acted, oddly multilayered movie.",
+                0.6403013835760868
+            ],
+            [
+                "33_it follows is yet another example of how smart the indie horror game is these days.",
+                -0.621664774257016
+            ],
+            [
+                "36_it follows creeps you out big-time.",
+                0.587027358814561
+            ],
+            [
+                "37_the film turns its viewers into paranoid spectators, scanning the frame for signs of trouble.",
+                -0.5112095341259119
+            ],
+            [
+                "44_canny manipulation of tone, atmosphere and tension makes this a satisfying little horror movie.",
+                0.6994279055004807
+            ]
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"novitiate\" is challenging, uncomfortable, violent, simple in its message about transformative mind control imposed on youth, superbly acted and technically flawless.",
+                0.7492407652241099
+            ],
+            [
+                "1_novitiate\" grapples with what's going on inside them.",
+                -0.567766068755085
+            ],
+            [
+                "4_there are times when novitiate tests the viewer's endurance",
+                0.5773619736877809
+            ],
+            [
+                "4_- it's a beautifully shot movie, ",
+                0.5039395154773261
+            ],
+            [
+                "4_ it runs more than two hours, and lingering compositions of silent nuns and novitiates start to feel unsupported by the story.",
+                -0.6797634785720621
+            ],
+            [
+                "5_the film raises interesting questions, ",
+                0.7157361708780259
+            ],
+            [
+                "8_perhaps the most remarkable thing about novitiate is the even-handedness with which it treats religion in general and 1960s era catholicism in particular.",
+                0.668422364127109
+            ],
+            [
+                "11_betts has put together a talented acting ensemble, and the performances are, for the most part, uniformly good and subtle, particularly among the actresses who play the young novices.",
+                0.8513209989502502
+            ],
+            [
+                "12_you can call novitiate divinely inspired and mean it.",
+                -0.5349991073755378
+            ],
+            [
+                "13_the film is a potent provocation shot through with grit and grace.",
+                0.7076894572519561
+            ],
+            [
+                "14_novitiate is an intriguing if somewhat opaque movie, a feverish testament to the long reach and hard limits of faith.",
+                0.7633504972534081
+            ],
+            [
+                "16_it's a faith-based film that's about the actual search for faith - and about how often that journey leads us where it will, rather than where we want to go.",
+                0.6795022596816475
+            ],
+            [
+                "20_when novitiate retains its focus, it ventures towards some interesting answers.",
+                0.6159279292110171
+            ],
+            [
+                "21_novitiate\" is the latest case in point.",
+                -0.5891190700345823
+            ],
+            [
+                "25_novitiate doesn't tell a straightforward story of love and sacrifice, of faith and its crises.",
+                0.8173287025121623
+            ],
+            [
+                "27_there's a lot of great filmmaking in novitiate, ",
+                0.706457623849619
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Margaret Betts": {
+                "args": [
+                    [
+                        "7_it says everything about the effective subtlety of betts' writing and of the performances it inspired that much of what we know of the characters is rarely if ever stated.",
+                        0.7414189366449973
+                    ],
+                    [
+                        "10_writer-director maggie betts balances the naturalistic exchanges of her sympathetic young cast with bravura set pieces for the seasoned actors.",
+                        0.75931743359292
+                    ],
+                    [
+                        "13_a stirring, soulful convent drama from first-time director maggie betts features melissa leo in an oscar-worthy performance as mother superior.",
+                        0.775143320739334
+                    ],
+                    [
+                        "19_in a time of reflexive irony and glib sophistication, ms. betts has made a lovely film about love of god-about marriage to god-and given it a political dimension as well as a dominant character of fierce complexity.",
+                        0.8682664113673817
+                    ],
+                    [
+                        "22_ms. betts refrains from easy, uplifting answers and facile condemnations of organized religion.",
+                        0.737504013167287
+                    ],
+                    [
+                        "25_[margaret] betts's film is ritualistic and enthralling, with a complex feminism woven into its cloth, and it's something of a blessing.",
+                        0.7343657626072824
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "9_leo's impassioned acting makes a supporting role seem like a leading one.",
+                0.5693926930502758
+            ],
+            [
+                "10_writer-director maggie betts balances the naturalistic exchanges of her sympathetic young cast with bravura set pieces for the seasoned actors.",
+                0.75931743359292
+            ],
+            [
+                "11_betts has put together a talented acting ensemble, and the performances are, for the most part, uniformly good and subtle, particularly among the actresses who play the young novices.",
+                0.8513209989502502
+            ],
+            [
+                "24_betts ... undercuts the characters' passion and transcendent devotion with audiovisual commonplaces, familiar acting styles, and a merely anecdotal narrative.",
+                0.5330333796684065
+            ]
+        ],
+        "entities": {
+            "Julianne Nicholson": {
+                "args": []
+            },
+            "Dianna Agron": {
+                "args": []
+            },
+            "Morgan Saylor": {
+                "args": []
+            },
+            "Margaret Qualley": {
+                "args": []
+            },
+            "Melissa Leo": {
+                "args": [
+                    [
+                        "2_in leo, it presents a remarkable portrait of a complex woman struggling with forces beyond her control.",
+                        0.76845880476279
+                    ],
+                    [
+                        "13_a stirring, soulful convent drama from first-time director maggie betts features melissa leo in an oscar-worthy performance as mother superior.",
+                        0.775143320739334
+                    ],
+                    [
+                        "30_t-provoking, occasionally melodramatic fare that should definitely garner some award nominations for leo, who could put the fear of god into anybody.",
+                        0.5857804679737307
+                    ],
+                    [
+                        "31_the tension leo can generate simply by entering a room is extraordinary",
+                        -0.5302707538088077
+                    ]
+                ]
+            },
+            "Denis O'Hare": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_it says everything about the effective subtlety of betts' writing and of the performances it inspired that much of what we know of the characters is rarely if ever stated.",
+                0.7414189366449973
+            ],
+            [
+                "19_in a time of reflexive irony and glib sophistication, ms. betts has made a lovely film about love of god-about marriage to god-and given it a political dimension as well as a dominant character of fierce complexity.",
+                0.8682664113673817
+            ]
+        ],
+        "entities": {
+            "Margaret Betts": {
+                "args": []
+            }
+        }
+    }
+}

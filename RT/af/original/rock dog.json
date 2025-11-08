@@ -1,0 +1,103 @@
+{
+    "acting": {
+        "entities": {
+            "Luke Wilson": {
+                "args": []
+            },
+            "Sam Elliott": {
+                "args": []
+            },
+            "Eddie Izzard": {
+                "args": []
+            },
+            "Lewis Black": {
+                "args": []
+            },
+            "Kenan Thompson": {
+                "args": []
+            },
+            "Mae Whitman": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            },
+            "Jorge Garcia": {
+                "args": []
+            },
+            "Matt Dillon": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_this draggy, computer-animated feature exhibits neither bark nor bite in its portrayal of a sheep-guarding, guitar-playing himalayan mastiff who has his head perpetually in the clouds.",
+                0.5315182565057754
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Kurt Voelker": {
+                "args": []
+            },
+            "Ash Brannon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the definition of 'rock' here seems to be winsome be-yourself ballads with a smattering of guitar.",
+                0.5310728262388376
+            ],
+            [
+                "3_it took nine people to write the cheap-looking animated film rock dog, and not one of them ever stopped to consider the fact that the dog of the title never rocks.",
+                -0.8174221797301857
+            ],
+            [
+                "5_taking an ode to the power of musical rebellion and running it through the mill of committee-thinking winds up being no rock and roll fun.",
+                0.5007796976805237
+            ],
+            [
+                "9_when there are so many sophisticated animated movies coming to the theaters, it's likely that \"rock dog\" may soon be forgotten.",
+                0.6096199443075956
+            ],
+            [
+                "10_there's just not enough on the screen to buy into \"rock dog.",
+                -0.7673005706540744
+            ],
+            [
+                "11_rock dog is memorable enough, especially that not-bad song that eventually ties everything together, and it goes down easy.",
+                0.5476898146874933
+            ],
+            [
+                "12_intermittently diverting as it may be, the movie bears all the earmarks of a cobbled-together, made-by-committee product, poorly aimed at its tween-and-younger target audience in look, tone, music and story.",
+                -0.5162789432321025
+            ],
+            [
+                "13_too lackluster to be praised highly, yet too benign to be excoriated, \"rock dog\" is the perfect family film for a rainy day with no other options.",
+                -0.5643772596918228
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ash Brannon": {
+                "args": [
+                    [
+                        "15_the film, based on a chinese graphic novel and directed by ash brannon, keeps its animation simple and its story lines clear, which makes it reliable fare for the 10-and-younger set.",
+                        0.7779604681950874
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

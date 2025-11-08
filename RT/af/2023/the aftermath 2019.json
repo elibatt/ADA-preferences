@@ -1,0 +1,108 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "12_from the title on down, most of the drama in the aftermath seems to have already happened off-screen.",
+                -0.7406753695990236
+            ],
+            [
+                "15_the movie is both ridiculous and enjoyable.",
+                0.6190460706586475
+            ],
+            [
+                "17_ i didn't believe the aftermath.",
+                -0.6795721775903683
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "18",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "James Kent": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "0_knightley's character is - hello! - more sympathetic and sensual than in the novel, while clarke's is more one-dimensional, to the point of caricature.",
+                0.6417966318651763
+            ]
+        ],
+        "entities": {
+            "Joe Shrapnel": {
+                "unique_args": []
+            },
+            "Anna Waterhouse": {
+                "unique_args": []
+            },
+            "Rhidian Brook": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "18_what's left is soap opera, leaving suds that even the stellar knightley, skarsgård and clarke can't rinse off their performances.",
+                -0.766853009596109
+            ],
+            [
+                "0_knightley's character is - hello! - more sympathetic and sensual than in the novel, while clarke's is more one-dimensional, to the point of caricature.",
+                0.6417966318651763
+            ]
+        ],
+        "entities": {
+            "Keira Knightley": {
+                "unique_args": [
+                    [
+                        "18_what's left is soap opera, leaving suds that even the stellar knightley, skarsgård and clarke can't rinse off their performances.",
+                        -0.766853009596109
+                    ]
+                ]
+            },
+            "Alexander Skarsgård": {
+                "unique_args": []
+            },
+            "Jason Clarke": {
+                "unique_args": [
+                    [
+                        "0_knightley's character is - hello! - more sympathetic and sensual than in the novel, while clarke's is more one-dimensional, to the point of caricature.",
+                        0.6417966318651763
+                    ]
+                ]
+            },
+            "Martin Compston": {
+                "unique_args": []
+            },
+            "Flora Li Thiemann": {
+                "unique_args": []
+            },
+            "Kate Phillips": {
+                "unique_args": []
+            },
+            "Jannik Schümann": {
+                "unique_args": []
+            },
+            "Fionn O'Shea": {
+                "unique_args": []
+            },
+            "Anna Schimrigk": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

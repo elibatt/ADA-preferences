@@ -1,0 +1,286 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_wright's movie delivers action that's convincing and concrete - the cars seem real, even when the people don't.",
+                0.6417046422289217
+            ],
+            [
+                "8_summer can finally start now: baby driver is that blast of energy we've all been waiting for.",
+                0.5776081399245161
+            ],
+            [
+                "9_baby driver is sweet fantasy, unlike more violent and existential vehicular visions such as drive or bullitt.",
+                0.5919728222720009
+            ],
+            [
+                "12_\"baby driver\" somehow maintains a tone of sweetness even as bullets fly, blood spurts, and gears are stripped.",
+                0.7797086871406413
+            ],
+            [
+                "12_in fact, the movie feels like tarantino minus the sleaze.",
+                -0.6899080325824709
+            ],
+            [
+                "17_there's nothing like an epic getaway chase to kick a movie into high gear, and the first five minutes of baby driver are pure movie magic.",
+                0.5591159596436936
+            ],
+            [
+                "19_baby driver is wild, violent, often very funny and hugely inventive.",
+                0.7950505900214497
+            ],
+            [
+                "20_[baby driver] is very savvy about pop music and pop culture, and it has a number of thrilling car chase sequences.",
+                0.8099676536650082
+            ],
+            [
+                "21_this is movie craftsmanship and showmanship of a very high order.",
+                0.679000346092417
+            ],
+            [
+                "23_as sharply executed as a hairpin turn, baby driver is a crackling-good ride, one that organically weaves music and humor into a slick showcase for its cast.",
+                0.7800936555383641
+            ],
+            [
+                "24_there's much to enjoy in \"baby driver,\" including the satisfactions of genuine cinematic craft and technique, qualities that moviegoers can no longer take for granted.",
+                0.635693425930141
+            ],
+            [
+                "25_it's been a week since i saw \"baby driver,\" and i'm still pleasantly buzzed.",
+                -0.6684252891742621
+            ],
+            [
+                "26_everything in baby driver, from the rubber-on-road action scenes to the expositional conversations, is its own kind of set piece, engineered to hit pleasure centers with homing-missile accuracy.",
+                0.6906670379047607
+            ],
+            [
+                "32_just what you want a summer movie to be.",
+                0.5597510365226156
+            ],
+            [
+                "33_he does just enough with the men and women populating baby driver for us to get a sense of who they are.",
+                0.7525507915880407
+            ],
+            [
+                "36_loads of fun, baby driver gives a great ride.",
+                0.8971929300134431
+            ],
+            [
+                "39_the movie exists in this dreamlike state of ecstasy for nearly 70 minutes.",
+                -0.5680060234469986
+            ],
+            [
+                "40_plays out like blasting your coolest friend's record collection in your car at 100 mph on the atlanta freeway while cops close in on all sides - essentially what happens in the movie again and again, to always-riveting effect.",
+                -0.5213149101579333
+            ],
+            [
+                "42_a sweet and speed-crazed crime film you can dance to.",
+                0.8078083598468802
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Edgar Wright": {
+                "args": [
+                    [
+                        "2_edgar wright's baby driver is one of the most entertaining thrill rides of this year, this decade.",
+                        0.6989699100310688
+                    ],
+                    [
+                        "5_edgar wright's start to finish sensation is blessed with killer car chases, a star-making turn from ansel elgort, the year's best soundtrack and the most fun you'll have at the movies all summer.",
+                        0.8893992847157481
+                    ],
+                    [
+                        "7_edgar wright's crackling crime caper rises to the top of this summer's most entertaining movies.",
+                        0.7814546680333934
+                    ],
+                    [
+                        "16_as charming as baby driver strives to be, the appeal starts to curdle once wright makes his fetishistic aims clear.",
+                        0.5226677465071763
+                    ],
+                    [
+                        "18_edgar wright, a major record-head, might appreciate this comparison: he makes movies out of ideas that are too crazy to make movies out of.",
+                        -0.6687293435496185
+                    ],
+                    [
+                        "28_with wright in the driver's seat, your standard getaway driver story is transformed into a giddy, adrenaline-filled joyride that'll leave you gripping the edge of your seat and tapping your feet.",
+                        0.841778416491602
+                    ],
+                    [
+                        "29_and even a few off notes can't stop the beat of wright's fast and furious symphony.",
+                        -0.6523512704044685
+                    ],
+                    [
+                        "41_like all edgar wright movies, \"baby driver\" is a blast, featuring wall-to-wall music and a surfeit of inspired ideas.",
+                        0.7519694593998955
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "23_as sharply executed as a hairpin turn, baby driver is a crackling-good ride, one that organically weaves music and humor into a slick showcase for its cast.",
+                0.7800936555383641
+            ]
+        ],
+        "entities": {
+            "Joe Loya": {
+                "args": []
+            },
+            "CJ Jones": {
+                "args": []
+            },
+            "Jon Hamm": {
+                "args": [
+                    [
+                        "1_oozing menace as addicted bank robbers, jamie foxx and jon hamm are all the more charismatic thanks to bill pope's luscious noir photography.",
+                        0.7274475061942557
+                    ]
+                ]
+            },
+            "Patrick Walker": {
+                "args": []
+            },
+            "Andy McDermott": {
+                "args": []
+            },
+            "Keith Hudson": {
+                "args": []
+            },
+            "Brigitte Kali": {
+                "args": []
+            },
+            "Lance Palmer": {
+                "args": []
+            },
+            "Sky Ferreira": {
+                "args": []
+            },
+            "Ansel Elgort": {
+                "args": [
+                    [
+                        "5_edgar wright's start to finish sensation is blessed with killer car chases, a star-making turn from ansel elgort, the year's best soundtrack and the most fun you'll have at the movies all summer.",
+                        0.8893992847157481
+                    ]
+                ]
+            },
+            "Flea": {
+                "args": []
+            },
+            "Thomas E. Haynes": {
+                "args": []
+            },
+            "Sidney Sewell": {
+                "args": []
+            },
+            "Andrea Frye": {
+                "args": []
+            },
+            "Hal Whiteside": {
+                "args": []
+            },
+            "Brogan Hall": {
+                "args": []
+            },
+            "Jamie Foxx": {
+                "args": []
+            },
+            "Jon Bernthal": {
+                "args": []
+            },
+            "Antwan 'Big Boi' Patton": {
+                "args": []
+            },
+            "Cynne Simpson": {
+                "args": []
+            },
+            "Micah Howard": {
+                "args": []
+            },
+            "Wilbur Fitzgerald": {
+                "args": []
+            },
+            "Lanny Joon": {
+                "args": []
+            },
+            "Ben VanderMey": {
+                "args": []
+            },
+            "Paul Williams": {
+                "args": []
+            },
+            "Eiza Gonzalez": {
+                "args": []
+            },
+            "David Robert Lewis": {
+                "args": []
+            },
+            "Kevin Spacey": {
+                "args": [
+                    [
+                        "9_that means its two-bit thieves and criminal masterminds (jamie foxx, jon hamm, kevin spacey) are enjoyably cartoonish.",
+                        0.5846241038635517
+                    ]
+                ]
+            },
+            "Allison King": {
+                "args": []
+            },
+            "Thurman Sewell": {
+                "args": []
+            },
+            "Hudson Meek": {
+                "args": []
+            },
+            "Morgan Brown": {
+                "args": []
+            },
+            "Walter Hill": {
+                "args": []
+            },
+            "Richard Marcos Taylor": {
+                "args": []
+            },
+            "Viviana Chavez": {
+                "args": []
+            },
+            "Lily James": {
+                "args": []
+            },
+            "Killer Mike": {
+                "args": []
+            },
+            "Christopher Beanland": {
+                "args": []
+            },
+            "Jonathan Spencer": {
+                "args": []
+            },
+            "Elijah Everett": {
+                "args": []
+            },
+            "Russell B. Spencer": {
+                "args": []
+            },
+            "Clay Donahue Fontenot": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Edgar Wright": {
+                "args": []
+            }
+        }
+    }
+}

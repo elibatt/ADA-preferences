@@ -1,0 +1,117 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gustav von Wangenheim": {
+                "args": []
+            },
+            "Greta Schröder": {
+                "args": []
+            },
+            "Gustav Botz": {
+                "args": []
+            },
+            "Fanny Schreck": {
+                "args": []
+            },
+            "John Gottowt": {
+                "args": []
+            },
+            "Max Schreck": {
+                "args": [
+                    [
+                        "3_less frightening than haunting, murnau's film conjures a persistent atmosphere of dread and decay, thanks in part to max schreck's immortal performance as orlok.",
+                        0.7764404498166126
+                    ]
+                ]
+            },
+            "Karl Etlinger": {
+                "args": []
+            },
+            "Alexander Granach": {
+                "args": []
+            },
+            "Guido Herzfeld": {
+                "args": []
+            },
+            "Georg H. Schnell": {
+                "args": []
+            },
+            "Heinrich Witte": {
+                "args": []
+            },
+            "Wolfgang Heinz": {
+                "args": []
+            },
+            "Max Nemetz": {
+                "args": []
+            },
+            "Ruth Landshoff": {
+                "args": []
+            },
+            "Hardy von Francois": {
+                "args": []
+            },
+            "Albert Venohr": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_it's not just a great horror movie.",
+                0.6643281094035248
+            ],
+            [
+                "4_it's a poem of horror, a symphony of dread, a film so rapt, mysterious and weirdly lovely",
+                0.7937922081706735
+            ],
+            [
+                "9_murnau's classic vampire movie, ",
+                0.5522845619318849
+            ],
+            [
+                "9_ not his best film, remains one of the most poetic of all horror films.",
+                0.8372161481845002
+            ],
+            [
+                "10_as vampire movies go, few are more memorable than nosferatu, which is not only the first screen version of dracula, ",
+                -0.5690392529296526
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "F.W. Murnau": {
+                "args": [
+                    [
+                        "3_less frightening than haunting, murnau's film conjures a persistent atmosphere of dread and decay, thanks in part to max schreck's immortal performance as orlok.",
+                        0.7764404498166126
+                    ],
+                    [
+                        "5_the metaphysical style is most vividly rendered by murnau's obsessive use of point-of-view shots, which force a viewer to follow the characters into the abyss of their terrifying visions.",
+                        0.720019992749532
+                    ],
+                    [
+                        "7_the film shows murnau's uncanny mixture of expressionism and location shooting at its finest.",
+                        0.7588859710303526
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Henrik Galeen": {
+                "args": []
+            }
+        }
+    }
+}

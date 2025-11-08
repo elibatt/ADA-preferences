@@ -1,0 +1,266 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "4_smith's performance as the bizarre old lady, who manages to get help by rejecting it, is the reason to watch this film.",
+                0.6430368354571814
+            ],
+            [
+                "12_smith's performance is not only virtuosic ",
+                -0.5099294489119438
+            ]
+        ],
+        "entities": {
+            "Claire Foy": {
+                "args": []
+            },
+            "Marion Bailey": {
+                "args": []
+            },
+            "Russell Tovey": {
+                "args": []
+            },
+            "Pandora Colin": {
+                "args": []
+            },
+            "Maggie Smith": {
+                "args": [
+                    [
+                        "0_jennings' portrayal isn't as flashy as smith's - the things she can do with just a glance - ",
+                        -0.6610844601804797
+                    ],
+                    [
+                        "3_the joy of the film comes in watching smith work her magic.",
+                        0.8022170256707839
+                    ],
+                    [
+                        "6_it's exhausting just to list the accolades that dame maggie smith has accumulated over her decades on screen and stage:",
+                        0.5550917297741632
+                    ],
+                    [
+                        "10_it's about the boundless talents of maggie smith, sometimes chewing up the screen, sometimes saying volumes simply by sitting very, very still, with a perfectly perfect expression on her face.",
+                        0.6110922363257637
+                    ],
+                    [
+                        "13_there's no use fending off the force of nature that is smith.",
+                        0.6684857174416166
+                    ],
+                    [
+                        "18_for anyone who adores smith-which is pretty much everyone these days-they will have quite a satisfying ride with this crusty grand dame behind the wheel.",
+                        0.817009560912044
+                    ],
+                    [
+                        "19_ maggie smith does her best to give the role some edge.",
+                        0.8742703464495512
+                    ],
+                    [
+                        "20_fortunately, with smith around, that would not have happened anyway.",
+                        -0.6239028098105814
+                    ],
+                    [
+                        "21_[smith] is a treasure here, not only carrying the film ",
+                        0.5739897639927162
+                    ],
+                    [
+                        "22_in ms. smith's tough, levelheaded performance, mary is an irascible termagant full of batty notions clutching on to life as best she can.",
+                        0.7619988031719881
+                    ],
+                    [
+                        "25_if the real miss shepherd were any bit as fascinating as smith's portrayal, it's easy to see why bennett gave in and let her stay.",
+                        0.6133116221375129
+                    ],
+                    [
+                        "26_wonderfully funny, terribly touching and a vehicle-with comically dilapidated vehicles-for the boundless gifts of maggie smith.",
+                        0.7737325006436503
+                    ],
+                    [
+                        "30_smith, who has played miss shepherd onstage, is mighty and raging, stubborn and frail, always true to the woman herself rather than our idea of what smith should be on screen.",
+                        0.5162667287472746
+                    ],
+                    [
+                        "33_it's smith's eccentric oldster who is the film's driving force, and the 80-year-old actress doesn't disappoint.",
+                        0.5765210378619936
+                    ],
+                    [
+                        "34_maggie smith is the chief draw in this slight, innocuously enjoyable adaptation of alan bennett's memoir.",
+                        0.6554615491431912
+                    ]
+                ]
+            },
+            "James Corden": {
+                "args": []
+            },
+            "Cecilia Noble": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Roger Allam": {
+                "args": []
+            },
+            "David Calder": {
+                "args": []
+            },
+            "Frances De La Tour": {
+                "args": []
+            },
+            "Dominic Cooper": {
+                "args": []
+            },
+            "Alan Bennett": {
+                "args": [
+                    [
+                        "11_bennett livens up a narrative that trades heavily in reminiscence by splitting the character based on himself into two people and this proves to be a rich vein for bennett's comic musing.",
+                        0.5475427494387002
+                    ],
+                    [
+                        "20_if bennett were nonstop nice he'd be unbelievable and the story would dissolve into sentimental goo.",
+                        0.5560576807594868
+                    ],
+                    [
+                        "23_might more appropriately have been called \"playwright alan bennett and the living, breathing human being",
+                        0.5556046884152924
+                    ],
+                    [
+                        "29_though director nicholas hytner does his best to enliven the material, bennett very much comes across as a dull man's charlie kaufman, even more so when the movie ends with flat,",
+                        -0.5906542359501623
+                    ]
+                ]
+            },
+            "Samuel Barnett": {
+                "args": []
+            },
+            "Deborah Findlay": {
+                "args": []
+            },
+            "Nicholas Burns": {
+                "args": []
+            },
+            "Alex Jennings": {
+                "args": [
+                    [
+                        "14_in bennett's shrugs of humane generosity, jennings develops a characterization of sweetness and sadness in well-judged proportions.",
+                        0.7036099826484253
+                    ]
+                ]
+            },
+            "Stephen Campbell Moore": {
+                "args": []
+            },
+            "Samuel Anderson": {
+                "args": []
+            },
+            "Gwen Taylor": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Nicholas Hytner": {
+                "args": [
+                    [
+                        "29_though director nicholas hytner does his best to enliven the material, bennett very much comes across as a dull man's charlie kaufman, even more so when the movie ends with flat,",
+                        -0.5906542359501623
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "33_not surprisingly, she fully exploits the humor in her character's bizarreness.",
+                0.6825726026819579
+            ]
+        ],
+        "entities": {
+            "Alan Bennett": {
+                "args": [
+                    [
+                        "11_bennett livens up a narrative that trades heavily in reminiscence by splitting the character based on himself into two people and this proves to be a rich vein for bennett's comic musing.",
+                        0.5475427494387002
+                    ],
+                    [
+                        "14_in bennett's shrugs of humane generosity, jennings develops a characterization of sweetness and sadness in well-judged proportions.",
+                        0.7036099826484253
+                    ],
+                    [
+                        "20_if bennett were nonstop nice he'd be unbelievable and the story would dissolve into sentimental goo.",
+                        0.5560576807594868
+                    ],
+                    [
+                        "23_might more appropriately have been called \"playwright alan bennett and the living, breathing human being",
+                        0.5556046884152924
+                    ],
+                    [
+                        "25_if the real miss shepherd were any bit as fascinating as smith's portrayal, it's easy to see why bennett gave in and let her stay.",
+                        0.6133116221375129
+                    ],
+                    [
+                        "29_though director nicholas hytner does his best to enliven the material, bennett very much comes across as a dull man's charlie kaufman, even more so when the movie ends with flat,",
+                        -0.5906542359501623
+                    ],
+                    [
+                        "34_maggie smith is the chief draw in this slight, innocuously enjoyable adaptation of alan bennett's memoir.",
+                        0.6554615491431912
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_there's an elegiac, sentimental quality to this film adaptation, from the manipulative meet-cute of alan and miss shepherd through their disputations.",
+                0.5993259382960154
+            ],
+            [
+                "2_ oddly off-balance film, juggling and nearly dropping the star turn at its center.",
+                0.5448744196866
+            ],
+            [
+                "4_smith's performance as the bizarre old lady, who manages to get help by rejecting it, is the reason to watch this film.",
+                0.6430368354571814
+            ],
+            [
+                "5_\"the lady in the van\" doesn't pretend to be anything more than a pleasant diversion.",
+                -0.6966418943252056
+            ],
+            [
+                "8_try not to let the film's overbearingly jaunty score get in the way.",
+                -0.5138396200904773
+            ],
+            [
+                "8_the lady in the van is quite a feat.",
+                0.6208019404541444
+            ],
+            [
+                "15_there are few false notes in the sturdy, pleasantly entertaining the lady in the van.",
+                0.5553968871602329
+            ],
+            [
+                "17_the lady in the van grows on you, like a vine.",
+                0.6415171177486416
+            ],
+            [
+                "24_a delicately written, boisterously performed movie about the difficult people who dare us to care about them.",
+                -0.5872319741496865
+            ],
+            [
+                "28_the movie's mix of passivity and grit, of hostility and politeness, of eccentricity and rule-following, adds up to something: a meditation on that peculiar state of existence called englishness.",
+                0.6546924385945301
+            ],
+            [
+                "31_the movie equivalent of cosying up with a warm ",
+                0.6272848013950474
+            ]
+        ]
+    }
+}

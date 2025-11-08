@@ -1,0 +1,272 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_a finely tuned comedy machine, a film that not only works as a standalone contemporary project, ",
+                0.7719767013491428
+            ],
+            [
+                "5_a raucous and refreshing new take on the christmas movie.",
+                0.7417255531013898
+            ],
+            [
+                "6_various people you know from television show up to give \"the night before\" a sketch-comedy, holiday-special vibe.",
+                -0.5507325417493336
+            ],
+            [
+                "10_the new movie is profane, insane, politically incorrect, religiously irreverent and ridiculously funny.",
+                0.553818213956109
+            ],
+            [
+                "12_before proves the stoner comedy and the holiday movie to be a surprisingly wonderful combination.",
+                0.8126990739340778
+            ],
+            [
+                "15_not many of the movie's jokes linger after the credits roll, ",
+                0.6814125305271174
+            ],
+            [
+                "17_beyond all the pop culture references, dumb behavior and the easily distracted \"a christmas carol\" plotline, the movie doesn't offer much to get audiences invested.",
+                -0.5998854618894074
+            ],
+            [
+                "18_worst christmas movie ever?",
+                -0.5908817775658588
+            ],
+            [
+                "20_\"the night before\" wants to make you laugh and cry, ",
+                -0.7296522059734927
+            ],
+            [
+                "21_i was searching for a metaphor to capture the experience of watching \"the night before\" when a character fell backward into a dumpster full of garbage bags.",
+                -0.52522571077448
+            ],
+            [
+                "22_\"the night before\" is a well-intentioned comedy with some big laughs and some big misfires, ",
+                0.5325718568842279
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jonathan Levine": {
+                "args": [
+                    [
+                        "6_the writing, by a whole lot of guys, is uneven, and the direction, by jonathan levine, is adequate.",
+                        -0.5817728490225553
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Marilyn O'Connell": {
+                "args": []
+            },
+            "Tracy Morgan": {
+                "args": []
+            },
+            "Jason Jones": {
+                "args": []
+            },
+            "Kiley Liddell": {
+                "args": []
+            },
+            "Aaron Hill": {
+                "args": []
+            },
+            "Ilana Glazer": {
+                "args": []
+            },
+            "Miley Cyrus": {
+                "args": []
+            },
+            "Kamal Angelo Bolden": {
+                "args": []
+            },
+            "Lizzy Caplan": {
+                "args": []
+            },
+            "Natalie Knepp": {
+                "args": []
+            },
+            "Harolyn Blackwell": {
+                "args": []
+            },
+            "James Franco": {
+                "args": [
+                    [
+                        "24_while the night before sometimes strains to be bad -- some of the lesser gags deploy dick picks and the ever-grinning james franco -- the movie scores when it savors its fully-baked camaraderie",
+                        -0.6125306165502852
+                    ]
+                ]
+            },
+            "Brooke Liddell": {
+                "args": []
+            },
+            "Lorraine Toussaint": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": [
+                    [
+                        "0_seth rogen bursts with inventive exuberance in this schematic ",
+                        0.6420007098324731
+                    ],
+                    [
+                        "4_when we were first introduced to rogen in \"knocked up,\" there was some novelty to a story about a dopey slacker who learns some family values.",
+                        -0.5375621627761267
+                    ],
+                    [
+                        "15_levine, rogen, and company manage to convey holiday sweetness and sadness without resorting to quasi-cynical posturing about what a pain the season is.",
+                        0.5843726920641062
+                    ],
+                    [
+                        "16_it's sort of astonishing that rogen - undervalued, always, because he makes various forms and modes of comedy look so easy - can still wring laughs out of a character stoned/coked/'shroomed out of his gourd ...",
+                        0.5799974105514508
+                    ],
+                    [
+                        "22_ it ultimately works because rogen and his well-cast buddies ground it in a way that makes them likable.",
+                        0.7960849750598376
+                    ]
+                ]
+            },
+            "Darrie Lawrence": {
+                "args": []
+            },
+            "Julia Ross": {
+                "args": []
+            },
+            "Clem Cheung": {
+                "args": []
+            },
+            "Mindy Kaling": {
+                "args": []
+            },
+            "Michaela Sprague": {
+                "args": []
+            },
+            "Kanye West": {
+                "args": []
+            },
+            "Joseph Gordon-Levitt": {
+                "args": []
+            },
+            "Jamie Arentzen": {
+                "args": []
+            },
+            "Michael Shannon": {
+                "args": []
+            },
+            "Theodora Woolley": {
+                "args": []
+            },
+            "Richard Hughes": {
+                "args": []
+            },
+            "Curt Bouril": {
+                "args": []
+            },
+            "Cameron Earl Thrift": {
+                "args": []
+            },
+            "Brett Weymark": {
+                "args": []
+            },
+            "Chuck Muckle": {
+                "args": []
+            },
+            "Nathan Fielder": {
+                "args": []
+            },
+            "Danielle Elliott": {
+                "args": []
+            },
+            "Baron Davis": {
+                "args": []
+            },
+            "Vashon Johnson": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "Jeremy Vimes": {
+                "args": []
+            },
+            "Gabriel Long": {
+                "args": [
+                    [
+                        "8_ there's a mournful poignance to its depiction of long-term friendship that comes from how its tensions about maturity have been internalized.",
+                        0.6265974627437615
+                    ]
+                ]
+            },
+            "Jillian Bell": {
+                "args": []
+            },
+            "Heléne Yorke": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": []
+            },
+            "Mike Schmid": {
+                "args": []
+            },
+            "Jaco Caraco": {
+                "args": []
+            },
+            "Jason Mantzoukas": {
+                "args": []
+            },
+            "Euan Morton": {
+                "args": []
+            },
+            "Stacy Jones": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_the writing, by a whole lot of guys, is uneven, and the direction, by jonathan levine, is adequate.",
+                -0.5817728490225553
+            ],
+            [
+                "11_ the small, apparently improvised character moments generate a few chuckles.",
+                -0.6654471193066135
+            ],
+            [
+                "16_it's sort of astonishing that rogen - undervalued, always, because he makes various forms and modes of comedy look so easy - can still wring laughs out of a character stoned/coked/'shroomed out of his gourd ...",
+                0.5799974105514508
+            ],
+            [
+                "21_i was searching for a metaphor to capture the experience of watching \"the night before\" when a character fell backward into a dumpster full of garbage bags.",
+                -0.52522571077448
+            ]
+        ],
+        "entities": {
+            "Kyle Hunter": {
+                "args": []
+            },
+            "Ariel Shaffir": {
+                "args": []
+            },
+            "Jonathan Levine": {
+                "args": []
+            },
+            "Evan Goldberg": {
+                "args": []
+            }
+        }
+    }
+}

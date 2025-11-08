@@ -1,0 +1,103 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_a fabulous idea for a movie, ",
+                -0.5200155154089912
+            ],
+            [
+                "4_ unfortunately flatliners represents the second failed attempt to do it justice.",
+                -0.8314767502655231
+            ],
+            [
+                "7_ the idea only works when the new movie takes the basic premise and takes it in new directions.",
+                0.5034759285841517
+            ],
+            [
+                "10_oplev turns the conceit into just another excuse for rote haunting, making this flatliners often indistinguishable from its 2017 thriller peers.",
+                -0.5732746077274736
+            ],
+            [
+                "11_this flatliners is in fact a new definition of \"meh.\"",
+                0.5796800060821112
+            ],
+            [
+                "13_an agonizingly boring remake of a movie about the danger of bringing things back from the dead.",
+                -0.7832681987276955
+            ],
+            [
+                "14_flatliners 2017 is the same dumb movie as flatliners 1990, minus most of the surface charisma.",
+                -0.6905485399903318
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Niels Arden Oplev": {
+                "args": [
+                    [
+                        "2_ the new flatliners movie, by danish director niels arden oplev, has the distinction of being perhaps the most unnecessary of them all.",
+                        -0.6385004803027101
+                    ],
+                    [
+                        "12_the best that can be said about the flatliners remake is that the new filmmaking team of writer ben ripley and director niels arden oplev makes the original's members look like peerless masters of horror.",
+                        0.6101785583924736
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Daniela Barbosa": {
+                "args": []
+            },
+            "Diego Luna": {
+                "args": []
+            },
+            "Kiefer Sutherland": {
+                "args": []
+            },
+            "Tyler Hynes": {
+                "args": []
+            },
+            "James Norton": {
+                "args": []
+            },
+            "Kiersey Clemons": {
+                "args": []
+            },
+            "Ellen Page": {
+                "args": []
+            },
+            "Beau Mirchoff": {
+                "args": []
+            },
+            "Nina Dobrev": {
+                "args": []
+            },
+            "Steve Byers": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ben Ripley": {
+                "args": [
+                    [
+                        "12_the best that can be said about the flatliners remake is that the new filmmaking team of writer ben ripley and director niels arden oplev makes the original's members look like peerless masters of horror.",
+                        0.6101785583924736
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

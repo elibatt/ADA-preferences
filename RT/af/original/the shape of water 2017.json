@@ -1,0 +1,272 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie's worldview is as easy to like as the protagonist and her friends, ",
+                0.581749484898031
+            ],
+            [
+                "2_the more i try to find some kind of justifiable meaning and relevance, the more i find the shape of water a loopy, lunkheaded load of drivel.",
+                -0.58462567095963
+            ],
+            [
+                "5_\"the shape of water\" is one of the best films of the year.",
+                0.9412694387490697
+            ],
+            [
+                "6_you never know where \"the shape of water\" is going.",
+                -0.6422554574429908
+            ],
+            [
+                "11_the shape of water makes the deepest dive into romance this year of any movie - literally, figuratively and on both sides of the camera.",
+                0.6634756807479671
+            ],
+            [
+                "12_, it's a film that plays by all the rules and none of them, going its own way with fierce abandon.",
+                0.6560376169796102
+            ],
+            [
+                "14_more than any movie in recent memory, this is one you really need to discover for yourself.",
+                0.6275401279677231
+            ],
+            [
+                "15_it's a finely calibrated film, brimming with romance, excitement and humanity.",
+                0.7623613016738797
+            ],
+            [
+                "16_\"the shape of water\" is a love story like no other, and it features one of the year's most heart-wrenching performances nestled in a supreme confabulation of cinematic craft.",
+                0.8403285400183209
+            ],
+            [
+                "17_at the start, i worried that the film might prove merely winsome, like a maryland \"amélie,\" ",
+                -0.6120404189198747
+            ],
+            [
+                "18_\"the shape of water\" is brilliant, ",
+                0.7165728650189764
+            ],
+            [
+                "24_even if you're not transported by every minute of the film's story, ",
+                0.5777348728107182
+            ],
+            [
+                "27_nothing is out of place in the shape of water, especially its heart.",
+                -0.5277329485246578
+            ],
+            [
+                "29_ultimately, this is a film from a group of terrific talents that never quite comes together the way you'd hope.",
+                0.7638535673198636
+            ],
+            [
+                "31_all of this is true of the shape of water, ",
+                0.5961887598462996
+            ],
+            [
+                "33_\"the shape of water\" is partly a code-scrambled fairy tale, partly a genetically modified monster movie, and altogether wonderful.",
+                0.7923560317100891
+            ],
+            [
+                "34_\"the shape of water\" is such a gorgeous, deeply felt movie",
+                0.7790804291430036
+            ],
+            [
+                "38_it's an utterly lovely, complacent movie, too comfortable with itself to generate real dramatic tension.",
+                -0.5178292138459593
+            ],
+            [
+                "39_the beastliness offsets the beauty nicely, like splotches of grisly red on the film's lustrous, sea foam-green color palette.",
+                0.7256412664822408
+            ],
+            [
+                "42_there's enough magic, and extraordinary visual imagination, to smooth the edges of the movie's problems.",
+                0.7594654164777823
+            ],
+            [
+                "44_a ravishing, eccentric auteur's imagining, spilling artistry, empathy and sensuality from every open pore, it also offers more straight-up movie for your money than just about any hollywood studio offering this year.",
+                -0.5322917016450812
+            ],
+            [
+                "45_a dark-edged fairy tale as lovingly steeped in vintage movie magic as it is in hypnotic water imagery, this captivating creature feature marries a portrait of morally corrupt early-1960s america with an outsider tale of love and friendship ...",
+                0.8805382286765414
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Guillermo del Toro": {
+                "args": [
+                    [
+                        "0_ del toro lays it on so thick that there's no room for counterargument or even independent ",
+                        -0.7846861169948773
+                    ],
+                    [
+                        "1_\"the shape of water\" is director guillermo del toro's finest film, a lovely, empathetic tri",
+                        0.7981981200082632
+                    ],
+                    [
+                        "7_eggs, water, and-yes-sex all play crucial and overlapping roles in director guillermo del toro's the shape of water, an adult fairy tale that is at once deeply familiar and utterly original.",
+                        0.8026827102442602
+                    ],
+                    [
+                        "9_as much as the shape of water's disparate parts shouldn't work - and as much as its \"originality\" is sourced from the thousands of other fables del toro has consumed over his lifetime - it does, in the end.",
+                        -0.5856723025598066
+                    ],
+                    [
+                        "13_as prodigious as del toro's vision and craftsmanship are, it's hawkins who gives palpable life to his deepest ideals, and their undertow of longing for connection, not simply as a matter of romantic love, ",
+                        0.7666050612538534
+                    ],
+                    [
+                        "20_guillermo del toro's \"the shape of water\" is like a beautiful painting you keep visiting at your favorite museum, because it continues to reveal its brilliant magic in new and different ways.",
+                        0.8899147667204488
+                    ],
+                    [
+                        "21_it's hard to come away from this film and not believe that, in his heart, writer/director del toro is a romantic.",
+                        0.5871241064367908
+                    ],
+                    [
+                        "22_del toro might have made the shape of water, ",
+                        -0.5257563656811854
+                    ],
+                    [
+                        "24_, del toro creates such a sumptuous visual world that it's impossible to take your eyes off the screen.",
+                        0.539433985872204
+                    ],
+                    [
+                        "30_perhaps foremost, the film plays like an ode to the black-and-white staples that helped forge del toro's passion for movies, drawing upon those old-fashioned virtues even as the director seeks to update them with a distinctive spin.",
+                        0.7983187041143325
+                    ],
+                    [
+                        "31_in a corporate-run franchise-driven industry, del toro's movies are refreshingly personal.",
+                        0.6864245769803399
+                    ],
+                    [
+                        "32_a role-reversal monster movie with gorgeous visuals from guillermo del toro and a knockout performance from hawkins.",
+                        0.7209523612159027
+                    ],
+                    [
+                        "34_i wish that del toro didn't still have some of his schoolboy urge to gross us out.",
+                        -0.7113690123907097
+                    ],
+                    [
+                        "35_the scenes that take place in a seemingly undersea world are stunning, and del toro's filmmaking technique buoys a love-story narrative that at times feels a little too straightforward for its unorthodox conceit.",
+                        0.839849032978072
+                    ],
+                    [
+                        "36_under all that rubber and slime, 6-foot-4 actor jones continues to impress as the go-to monster for del toro and the rest of hollywood.",
+                        -0.5536062604155658
+                    ],
+                    [
+                        "37_del toro is a world-class film artist and he proves it in this cold war romance about a mute cleaning lady (sally hawkins, unforgettable) who falls for an amphibious creature.",
+                        0.7621244901074872
+                    ],
+                    [
+                        "37_don't t analyze how del toro does it.",
+                        -0.6357931808899238
+                    ],
+                    [
+                        "40_one of [del toro's] deepest, most complex, most rewarding, and flat-out beautiful films.",
+                        0.7310921092457519
+                    ],
+                    [
+                        "43_del toro's tight directorial control sees to that.",
+                        0.5701481629310413
+                    ],
+                    [
+                        "46_ del toro transcends mere pastiche to craft a work that feels like the product of our collective film-going subconscious.",
+                        -0.6808043153534682
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Guillermo del Toro": {
+                "args": []
+            },
+            "Vanessa Taylor": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "21_it's hard to come away from this film and not believe that, in his heart, writer/director del toro is a romantic.",
+                0.5871241064367908
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Octavia Spencer": {
+                "args": []
+            },
+            "Lauren Lee Smith": {
+                "args": []
+            },
+            "Sally Hawkins": {
+                "args": [
+                    [
+                        "13_as prodigious as del toro's vision and craftsmanship are, it's hawkins who gives palpable life to his deepest ideals, and their undertow of longing for connection, not simply as a matter of romantic love, ",
+                        0.7666050612538534
+                    ],
+                    [
+                        "17_ hawkins makes it taut and fierce.",
+                        0.7183225694482707
+                    ],
+                    [
+                        "19_\"the shape of water\" is devoted, madly, to the notion of love as a state of liquid bliss, and we see that bliss and a hundred other emotions in hawkins' nonverbal (mostly) ",
+                        0.7263775915099961
+                    ],
+                    [
+                        "22_ sally hawkins owns it.",
+                        0.5313980323429041
+                    ],
+                    [
+                        "32_a role-reversal monster movie with gorgeous visuals from guillermo del toro and a knockout performance from hawkins.",
+                        0.7209523612159027
+                    ],
+                    [
+                        "37_del toro is a world-class film artist and he proves it in this cold war romance about a mute cleaning lady (sally hawkins, unforgettable) who falls for an amphibious creature.",
+                        0.7621244901074872
+                    ]
+                ]
+            },
+            "Michael Stuhlbarg": {
+                "args": []
+            },
+            "Richard Jenkins": {
+                "args": []
+            },
+            "Doug Jones": {
+                "args": [
+                    [
+                        "36_under all that rubber and slime, 6-foot-4 actor jones continues to impress as the go-to monster for del toro and the rest of hollywood.",
+                        -0.5536062604155658
+                    ]
+                ]
+            },
+            "Michael Shannon": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_ endlessly expressive performance.",
+                0.7606537447029379
+            ],
+            [
+                "27_the cast is universally flawless, as is the lavish production design of paul.",
+                0.7362536540723661
+            ],
+            [
+                "36_he's as synonymous with practical effects as andy serkis is with performance capture.",
+                0.6437685422589351
+            ]
+        ]
+    }
+}

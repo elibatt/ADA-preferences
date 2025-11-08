@@ -1,0 +1,121 @@
+{
+    "writer": {
+        "entities": {
+            "Matthew Miele": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Matthew Miele": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"always at the carlyle\" takes a potentially juicy subject - a swanky landmark that caters to celebrities and zillionaires - and turns it into a 90-minute infomercial, with nary a revelation in sight.",
+                -0.7040964461634381
+            ],
+            [
+                "6_why see a movie about a posh manhattan refuge for one-percenters?",
+                0.5401657931171585
+            ],
+            [
+                "7_though sometimes it seems like a promotional video, the film offers a glimpse into the vagaries of class, culture, celebrity,",
+                0.7543504202269455
+            ],
+            [
+                "9_\" i believe him - and would love to see the movie that actually makes the case.",
+                0.7658523931241268
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sofia Coppola": {
+                "args": []
+            },
+            "Naomi Campbell": {
+                "args": []
+            },
+            "Rita Wilson": {
+                "args": []
+            },
+            "Tommy Lee Jones": {
+                "args": []
+            },
+            "Rob Marshall": {
+                "args": []
+            },
+            "Woody Allen": {
+                "args": []
+            },
+            "George Clooney": {
+                "args": []
+            },
+            "Lenny Kravitz": {
+                "args": []
+            },
+            "Joy Philbin": {
+                "args": []
+            },
+            "Megan Hilty": {
+                "args": []
+            },
+            "Paul Shaffer": {
+                "args": []
+            },
+            "Condoleezza Rice": {
+                "args": []
+            },
+            "Piers Morgan": {
+                "args": []
+            },
+            "Jon Hamm": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "Anthony Bourdain": {
+                "args": [
+                    [
+                        "9_at one point, the chef and cnn host anthony bourdain calls the carlyle \"completely nuts.",
+                        -0.5940235600037083
+                    ]
+                ]
+            },
+            "Elaine Stritch": {
+                "args": []
+            },
+            "Molly Ringwald": {
+                "args": []
+            },
+            "Regis Philbin": {
+                "args": []
+            },
+            "Anjelica Huston": {
+                "args": []
+            },
+            "Marie Brenner": {
+                "args": []
+            },
+            "Alan Cumming": {
+                "args": []
+            },
+            "Wes Anderson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

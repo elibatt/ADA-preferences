@@ -1,0 +1,131 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Asano Nagahide": {
+                "args": []
+            },
+            "Zhang Lanxin": {
+                "args": []
+            },
+            "Huang Zitao": {
+                "args": []
+            },
+            "Hiroyuki Ikeuchi": {
+                "args": []
+            },
+            "Alan Ng": {
+                "args": []
+            },
+            "Wang Ta Lu": {
+                "args": []
+            },
+            "Darren Wang": {
+                "args": []
+            },
+            "Zhang Yishang": {
+                "args": []
+            },
+            "Sang Ping": {
+                "args": []
+            },
+            "Natas Asoka": {
+                "args": []
+            },
+            "Liu Hai Long": {
+                "args": []
+            },
+            "Kôji Yano": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": [
+                    [
+                        "1_beyond mr. chan's deft work here, \"railroad tigers,\" directed by ding sheng, is kind of a mess.",
+                        -0.5649041909303991
+                    ],
+                    [
+                        "5_it's not a complete waste of time as there are a few magical chan moments as when he's fighting off and dodging bad guys on the top of a speeding train...",
+                        -0.747663086225998
+                    ],
+                    [
+                        "7_with heart, humor and some breathtaking special effects, ding sheng's railroad tigers charms and thrills, pitting a merry band of robin hood-style peasants led by jackie chan in rural china against the japanese military.",
+                        0.8490576986317728
+                    ],
+                    [
+                        "8_railroad tigers is a capable wartime caper that thrives on the dynamism and efficient action choreography that manage to conjure a spectacle out of even the most ploddingly penned jackie chan vehicle.",
+                        -0.6074236084871296
+                    ],
+                    [
+                        "9_you know things are getting bad when an instantly forgettable, nearly impossible-to-follow, chinese-language action movie manages to score a u.s. release simply because of chan's involvement.",
+                        -0.5942115227104634
+                    ]
+                ]
+            },
+            "Zitao Huang": {
+                "args": []
+            },
+            "Fan Xu": {
+                "args": []
+            },
+            "Kai Wang": {
+                "args": []
+            },
+            "Wang Kai": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ all that it offers-railroad tigers is far slower than a goofy action movie that mostly takes place on a locomotive should ever be.",
+                -0.6303738848978373
+            ],
+            [
+                "4_it takes a special anti-talent to make a movie that's hard to follow out of material this broad.",
+                -0.6245155989834503
+            ],
+            [
+                "6_while the film's sometimes gritty violence is surprising for an action comedy, delightful moments abound, too, such as a scene in which ma's men argue over the proper key for a peasant song.",
+                0.5968151517929159
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sheng Ding": {
+                "args": [
+                    [
+                        "1_beyond mr. chan's deft work here, \"railroad tigers,\" directed by ding sheng, is kind of a mess.",
+                        -0.5649041909303991
+                    ],
+                    [
+                        "3_ it will be hard to beat hong kong director ding sheng's \"railroad tigers\" for the best opening credit sequence of the year.",
+                        0.7944646376910618
+                    ],
+                    [
+                        "7_with heart, humor and some breathtaking special effects, ding sheng's railroad tigers charms and thrills, pitting a merry band of robin hood-style peasants led by jackie chan in rural china against the japanese military.",
+                        0.8490576986317728
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "He Keke": {
+                "args": []
+            },
+            "Sheng Ding": {
+                "args": []
+            }
+        }
+    }
+}

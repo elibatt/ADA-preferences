@@ -1,0 +1,70 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert Patrick": {
+                "args": []
+            },
+            "Castulo Guerra": {
+                "args": []
+            },
+            "Danny Cooksey": {
+                "args": []
+            },
+            "Linda Hamilton": {
+                "args": []
+            },
+            "Arnold Schwarzenegger": {
+                "args": [
+                    [
+                        "2_the movie's true power stems from [cameron's] ability to tap into fears not just of mechanization and dehumanization (notions that schwarzenegger embodies in his very persona) ",
+                        0.6878184006545813
+                    ]
+                ]
+            },
+            "S. Epatha Merkerson": {
+                "args": []
+            },
+            "Joe Morton": {
+                "args": []
+            },
+            "Edward Furlong": {
+                "args": []
+            },
+            "Earl Boen": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Cameron": {
+                "args": [
+                    [
+                        "2_the movie's true power stems from [cameron's] ability to tap into fears not just of mechanization and dehumanization (notions that schwarzenegger embodies in his very persona) ",
+                        0.6878184006545813
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "James Cameron": {
+                "args": []
+            },
+            "William Wisher Jr.": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    }
+}

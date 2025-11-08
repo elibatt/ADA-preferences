@@ -1,0 +1,131 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_loveless is about a state of mind, a lament, an indictment of crimes against the human spirit.",
+                0.779141002680332
+            ],
+            [
+                "2_\"loveless,\" which is ingmar bergman's \"scenes from a marriage\" dipped in battery acid, is a master class in melancholy.",
+                0.7101146493938931
+            ],
+            [
+                "3_everything here - from the image to the dialogue to the landscape to the film's vision and judgment - is clean, cold, and bracing.",
+                0.5683009628450588
+            ],
+            [
+                "4_loveless\" is as bleak and harsh as the tundra.",
+                0.5224117176741028
+            ],
+            [
+                "5_the movie is also worth watching for the uniformly good performances.",
+                0.7514037453758764
+            ],
+            [
+                "6_the movie's about two people - and, by extension, the culture and country of which they're a part - confronting the fact that they're no longer recognizably human.",
+                0.5454150840168928
+            ],
+            [
+                "7_these images are more powerful than any of the characterizations, which are less complex than one usually finds in the director's work...",
+                0.678438371853268
+            ],
+            [
+                "11_this is a film that's likely to stick with you because of its exceptional intensity.",
+                0.8063069888274185
+            ],
+            [
+                "12_zvyagintsev has always been wildly ambitious, sometimes to a fault, and loveless is perhaps his most encompassing indictment of russian society.",
+                0.744821682953948
+            ],
+            [
+                "14_loveless is a beautifully shot and elegantly constructed film.",
+                0.6183095879298931
+            ],
+            [
+                "25_a visually mesmerizing film, even as it captures a nightmarish situation.",
+                0.8138991300938017
+            ],
+            [
+                "26_loveless is an unsparing portrait of an emotionally, ethically and physically ravaged country.",
+                0.7095984363262854
+            ],
+            [
+                "28_loveless gives us a multicourse meal of social ills, too dispersed to feel like a thesis, yet too chilly to feel like a raw, unbridled tantrum.",
+                -0.6090520203104851
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Andrey Zvyagintsev": {
+                "args": [
+                    [
+                        "8_director zvyagintsev, who co-wrote the film, is intent on showing how calamity doesn't necessarily unite people - it can push them further apart.",
+                        -0.770593430796488
+                    ],
+                    [
+                        "15_after his last two dissections of modern russia, zvyagintsev takes a more people-focused than system-exposing approach this time to laying bare his country's psychological fault lines.",
+                        0.5962747063582767
+                    ],
+                    [
+                        "20_[zvyagintsev] continues to solidify his place as one of the most important and original voices in world cinema.",
+                        0.8785898525129417
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "7_these images are more powerful than any of the characterizations, which are less complex than one usually finds in the director's work...",
+                0.678438371853268
+            ],
+            [
+                "7_the director may be a master at setting a mood, ",
+                0.7295558361470905
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Andrey Zvyagintsev": {
+                "args": []
+            },
+            "Oleg Negin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Yanina Hope": {
+                "args": []
+            },
+            "Aleksey Rozin": {
+                "args": []
+            },
+            "Andris Keyshs": {
+                "args": []
+            },
+            "Matvey Novikov": {
+                "args": []
+            },
+            "Maryana Spivak": {
+                "args": []
+            },
+            "Marina Vasilyeva": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_zvyagintsev and his sterling cast expertly paint the portrait of a family too blinded by selfish desires to see the pain they are causing others.",
+                0.5248709384563269
+            ]
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tom O'Connor": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the whole film feels slightly grubby and low-res, like it's been languishing in private mode on the filmmakers' pre-hd youtube page since 2008.",
+                -0.6562534188913389
+            ],
+            [
+                "1_for me, the hitman's bodyguard is the epitome of what a summer movie should be.",
+                0.5175229873524562
+            ],
+            [
+                "6_aside from a handful of chuckles and high-octane action sequences, \"the hitman's bodyguard\" is an ugly film lacking a moral center.",
+                -0.6264403143896858
+            ],
+            [
+                "7_why did either of you gentlemen sign up for this tone-deaf piece of work?",
+                0.5882926846270207
+            ],
+            [
+                "10_even those who try to lose themselves in the meager, mindless thrills of \"the hitman's bodyguard\" may be distracted, if not by the looming specter of current events, then at least by the movie's technical shoddiness.",
+                0.5051548569151041
+            ],
+            [
+                "15_the movie's also pretty galling in its unceasing brutality for laughs.",
+                -0.5485359627359703
+            ],
+            [
+                "23_\"the htiman's bodyguard\" ... is not a good movie, ",
+                0.5388381264810933
+            ],
+            [
+                "25_an original summer movie that lazily forces all of its most famous actors to embody the most basic versions of their brands.",
+                0.846891134965533
+            ],
+            [
+                "26_it's exactly the movie it promises to be, ",
+                -0.5914685200352414
+            ],
+            [
+                "27_if you have ever seen a movie produced between 1983 and 1991, you know exactly what happens.",
+                0.5890962998703273
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "29_the picture feels far more generic than its a-list cast would suggest.",
+                -0.5691208985641595
+            ]
+        ],
+        "entities": {
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "11_reynolds and jackson make this summer lunacy go down easy with their banter and bullet-dodging skills.",
+                        0.6177657574328019
+                    ],
+                    [
+                        "28_ jackson deserves a lot of the credit for what works ...",
+                        0.7580632654147573
+                    ]
+                ]
+            },
+            "Salma Hayek": {
+                "args": []
+            },
+            "Gary Oldman": {
+                "args": []
+            },
+            "Kirsty Mitchell": {
+                "args": []
+            },
+            "Elodie Yung": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "20_the only ones who seem to be truly enjoying themselves are jackson and reynolds-even during the boring parts where they have to talk about their feelings.",
+                        -0.8283790264679465
+                    ]
+                ]
+            },
+            "Richard E. Grant": {
+                "args": []
+            },
+            "Joaquim de Almeida": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Patrick Hughes": {
+                "args": [
+                    [
+                        "9_one has to give mr. hughes credit for the numerous, creative and explosive obstacles he puts in the way of michael and darius, not so much for the scattershot tone of the movie as a whole.",
+                        0.551416865948234
+                    ]
+                ]
+            }
+        }
+    }
+}

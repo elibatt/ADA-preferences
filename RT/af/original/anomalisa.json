@@ -1,0 +1,167 @@
+{
+    "writer": {
+        "entities": {
+            "Charlie Kaufman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_kaufman's script stings with uncomfortable truths, ",
+                0.5759557328474092
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Tom Noonan": {
+                "args": []
+            },
+            "Jennifer Jason Leigh": {
+                "args": [
+                    [
+                        "7_with spot-on vocal performances from thewlis, leigh and tom noonan, the film is nothing less than mesmerizing - and must viewing for serious cinephiles.",
+                        0.7259596652703509
+                    ]
+                ]
+            },
+            "David Thewlis": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_what drives the film is a scowling suspicion that modern man is a mechanized being, created as if on an assembly line, and stripped bare of individuality-a product, like any other merchandise.",
+                -0.5543181358367474
+            ],
+            [
+                "6_that sensibility informs every word and frame of \"anomalisa\" ...",
+                0.5368462646037924
+            ],
+            [
+                "8_the prevailing mood in anomalisa is a surreal otherness, the result of the intricate stop-motion animation, which is beautiful ",
+                0.8221864442159258
+            ],
+            [
+                "9_anomalisa offers evidence that animated films are not necessarily the sole province of children.",
+                0.5559999293071803
+            ],
+            [
+                "10_if anomalisa fails, it's because it michael can't quite bring himself to relate to anyone else on earth.",
+                -0.7646901098736175
+            ],
+            [
+                "11_it's as if the film was designed to appeal to both my inner child and my inner snob.",
+                -0.5900653116909338
+            ],
+            [
+                "13_in an age of endemic anxiety, this peerlessly weird little film finds a new look-and a new sound-for feeling bad.",
+                0.5420260905208832
+            ],
+            [
+                "14_anomalisa is a far more human story than most films i've seen with actual humans in them.",
+                0.7820616979514571
+            ],
+            [
+                "18_try anomalisa, as haunting and hypnotic an r-rated love story for grownups as you'll see anywhere.",
+                0.8675526312588651
+            ],
+            [
+                "19_an amazing work with crossover appeal as adult drama, melancholy csomedy and unexpected stop-motion animation.",
+                0.7325499743871043
+            ],
+            [
+                "22_\"anomalisa\" finds an adult story that could only have been effectively achieved through animation, and then realizes it with precision, sensitivity and shocking humor.",
+                0.6980828055790237
+            ],
+            [
+                "25_whatever combination of practical effects and digital wizardry went into the technique that gave rise to anomalisa's otherworldly yet very human narrative universe, i hope it will be used to tell more stories, perhaps by this same storyteller.",
+                0.7011735248894049
+            ],
+            [
+                "26_anomalisa finds the sublime and the tragic and the overwhelming in the everyday.",
+                0.7064226246972876
+            ],
+            [
+                "28_what's fascinating is how the things that make the film different are the very things that make it emotionally engaging.",
+                0.7907811922558348
+            ],
+            [
+                "31_while \"anomalisa\" is filled with uncomfortably, at times sourly humorous moments, it's also a horror movie about the agonizing, banal surrealism of everyday life.",
+                0.7688573054429223
+            ],
+            [
+                "32_whether you leave the film ecstatically impressed, indifferent or disappointed, you will know you've seen something unique.",
+                0.6481761314919261
+            ],
+            [
+                "33_there's something strange and dreamlike and delicate and beautiful about \"anomalisa,\" an animated film for grown-ups that takes a long while to make its point, ",
+                0.6664680583583594
+            ],
+            [
+                "35_once you start reckoning with anomalisa's obsession with self-absorption, the novelty of this one-man pity party begins to wear off.",
+                -0.6540967569150211
+            ],
+            [
+                "36_anomalisa is a staggeringly inventive trojan horse of a film.",
+                0.6999085600309224
+            ],
+            [
+                "40_anomalisa is a frequently hilarious inquiry into solipsistic challenges.",
+                0.7393945651978506
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Duke Johnson": {
+                "args": [
+                    [
+                        "42_kaufman and johnson create a vivid, dismally relatable world here, both droll and dreary, ",
+                        0.7313990176740139
+                    ]
+                ]
+            },
+            "Charlie Kaufman": {
+                "args": [
+                    [
+                        "1_charlie kaufman's animated feature is one of his best films yet, a haunting fable about the illusion of love.",
+                        0.9118721363222806
+                    ],
+                    [
+                        "20_it's fair to say that \"anomalisa\" is unlike any movie you've ever seen, which is something fair to say about pretty much any movie charlie kaufman is involved in.",
+                        0.8426374037142171
+                    ],
+                    [
+                        "21_there's a special place in movie heaven for charlie kaufman.",
+                        0.7677529741692346
+                    ],
+                    [
+                        "27_anomalisa, in common with virtually every film kaufman has written, struggles to make peace with the knowledge that we are all fundamentally alone.",
+                        0.6201707778398251
+                    ],
+                    [
+                        "29_like all of kaufman's stories, it has the wonderfully weird pull of feeling like something we've never seen before - while telling us a story we know all too painfully well.",
+                        0.5389020582982924
+                    ],
+                    [
+                        "41_it's what you imagine might have happened if charlie kaufman had got his hands on up in the air or lost in translation.",
+                        -0.6325496779183372
+                    ],
+                    [
+                        "43_charlie kaufman teams with stop-motion wiz duke johnson to bring his conceptual stageplay to life, resulting in another uniquely cerebral yet satisfying bout of self-analysis.",
+                        0.6342015844401706
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

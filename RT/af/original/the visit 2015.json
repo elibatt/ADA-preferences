@@ -1,0 +1,203 @@
+{
+    "director": {
+        "args": [
+            [
+                "27_following a creative low period that found the director trying his hand at effects-driven fantasy and sci-fi, it can't help ",
+                0.5330948593434011
+            ],
+            [
+                "30_ it's a welcome return to form for a director who seemed doomed to a future of remembering better days.",
+                0.7274678577628071
+            ]
+        ],
+        "entities": {
+            "M. Night Shyamalan": {
+                "args": [
+                    [
+                        "1_for all its intelligence and craft, m. night shyamalan's foray into the genre of found-footage horror has the feeling of homework done well.",
+                        0.5754696956535716
+                    ],
+                    [
+                        "3_m. night shyamalan's latest film may well have been his last chance at redemption.",
+                        0.5200132226075602
+                    ],
+                    [
+                        "6_like the best horror merchants, shyamalan exploits our secret fears - in this case, of old age, ill health and dementia.",
+                        0.5719794852162862
+                    ],
+                    [
+                        "10_the director m. night shyamalan has a fine eye and a nice, natural way with actors, and he has a talent for gently rap-rap-rapping on your nerves.",
+                        0.8263699389885861
+                    ],
+                    [
+                        "13_despite a promising premise and effective \"shyamalan twist\",",
+                        0.515592041994736
+                    ],
+                    [
+                        "23_[shyamalan's] manipulation of tone is impressive -- he gets you to laugh at the grandparents' strange behavior, only to shift gears into horror when you least expect it.",
+                        0.5597166463462062
+                    ],
+                    [
+                        "24_an effective if flawed psychological thriller, a modest campfire story with a solid, genuinely startling twist that is likely to restore the faith of some of [shyamalan's] critics.",
+                        0.8122011836553781
+                    ],
+                    [
+                        "25_much like shyamalan's flawed/interesting films \"signs\" and \"the village,\" the filmmaker promises more than he can deliver.",
+                        0.7720765119791643
+                    ],
+                    [
+                        "29_ shyamalan ends a long dry spell with the visit.",
+                        0.5890904333573559
+                    ],
+                    [
+                        "32_frightfully fun, with shyamalan relentless toying with us and cramming in horror genre references.",
+                        0.8171309968531325
+                    ],
+                    [
+                        "33_immersion of the conjuring, james wan's basement-wandering simulator, with the crack scripting and meta-cinematic surprises of shyamalan's best early films.",
+                        0.8092626648470305
+                    ],
+                    [
+                        "34_ it does not mark a return to long-lost greatness for shyamalan.",
+                        -0.5021770292742943
+                    ],
+                    [
+                        "35_the happening\" or \"lady in the water,\" shyamalan still can't quite pull off the delicate tonal balance he's after.",
+                        -0.6441823437540289
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Peter McRobbie": {
+                "args": [
+                    [
+                        "20_dunagan and mcrobbie have a blast in their respective roles, alternating between everyday grandparent oddities and behavior that wouldn't be out of place at the overlook hotel.",
+                        0.7690780531235041
+                    ]
+                ]
+            },
+            "Samuel Stricklen": {
+                "args": []
+            },
+            "Benjamin Kanes": {
+                "args": []
+            },
+            "Celia Keenan-Bolger": {
+                "args": []
+            },
+            "Deanna Dunagan": {
+                "args": []
+            },
+            "Seamus Moroney": {
+                "args": []
+            },
+            "Steve Annan": {
+                "args": []
+            },
+            "Patch Darragh": {
+                "args": []
+            },
+            "Olivia DeJonge": {
+                "args": []
+            },
+            "Kathryn Hahn": {
+                "args": []
+            },
+            "Ed Oxenbould": {
+                "args": []
+            },
+            "Jorge Cordova": {
+                "args": []
+            },
+            "Ocean James": {
+                "args": [
+                    [
+                        "33_immersion of the conjuring, james wan's basement-wandering simulator, with the crack scripting and meta-cinematic surprises of shyamalan's best early films.",
+                        0.8092626648470305
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_while the production values are simple, the script is sneakily complex.",
+                0.5230652089461406
+            ]
+        ],
+        "entities": {
+            "M. Night Shyamalan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the visit is a pleasant surprise.",
+                0.8417094253939824
+            ],
+            [
+                "2_it is with some surprise-and perhaps even a hint of disappointment-that i must report that the visit is merely mediocre and not the breathtaking calamity that we've come to anticipate from its author.",
+                0.6082739366197755
+            ],
+            [
+                "3_fortunately, he rises to the challenge and makes the visit good, scary fun.",
+                0.7847761553443697
+            ],
+            [
+                "7_a film so purely entertaining that you almost forget how scary it is.",
+                0.5078880168705933
+            ],
+            [
+                "7_with all its terror, \"the visit\" is an extremely funny film.",
+                0.800851744342654
+            ],
+            [
+                "9_\"the visit\" may be worth one.",
+                0.7279359186184886
+            ],
+            [
+                "13_ this low-budget horror film still underwhelms.",
+                -0.56754558028663
+            ],
+            [
+                "14_unfortunately, \"the visit\" isn't part of it.",
+                -0.5903994323642662
+            ],
+            [
+                "16_what's more, the movie is often surprisingly, wickedly funny ...",
+                0.761840082058912
+            ],
+            [
+                "18_here is a movie in which old people are scary because they're senile and icky and incontinent and do baffling things.",
+                -0.7820874163414695
+            ],
+            [
+                "19_the low-budget thriller deftly mixes horror-movie moments, pure strangeness and comedy like a family-friendly david lynch effort as it takes audiences on one really oddball trip to grandma's house.",
+                0.65414116678428
+            ],
+            [
+                "21_fortunately, the visit has a lot of (intentional!) laughs between the creepy bits and jump scares, and never takes itself too seriously.",
+                -0.745610204732074
+            ],
+            [
+                "30_the visit is lightweight and doesn't have the emotional resonance of the sixth sense, ",
+                -0.643444486200542
+            ],
+            [
+                "34_ never terrifying, \"the visit\" may make a little money, ",
+                0.568644612352131
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

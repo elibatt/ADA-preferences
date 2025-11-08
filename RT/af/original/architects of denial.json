@@ -1,0 +1,52 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "George Clooney": {
+                "args": []
+            },
+            "Gregory Stanton": {
+                "args": []
+            },
+            "Jonathan Babington-Heina": {
+                "args": []
+            },
+            "Julian Assange": {
+                "args": []
+            },
+            "Sibel Edmonds": {
+                "args": []
+            },
+            "John Marshall Evans": {
+                "args": []
+            },
+            "Eddie Bernice Johnson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_architects of denial has done, in some ways, the very thing it is rightly angry at others for doing: it has opened the door to doubt.",
+                -0.5233427198403644
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Lee George": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

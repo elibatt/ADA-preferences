@@ -1,0 +1,187 @@
+{
+    "acting": {
+        "entities": {
+            "Hattie Grund": {
+                "args": []
+            },
+            "William Genovese": {
+                "args": [
+                    [
+                        "11_what lifts \"the witness\" out of the true-crime documentary genre is its portrait of bill genovese.",
+                        0.633946180464005
+                    ],
+                    [
+                        "12_ perhaps its greatest triumph is that for a brief time, it resurrects kitty genovese, and lets us see her as a person.",
+                        0.8632378157039587
+                    ],
+                    [
+                        "23_seen in vintage 8mm home movies, kitty genovese emerges as a vibrant, exuberant young woman whose violent death tragically came to overshadow her much too brief life.",
+                        0.6757728832083526
+                    ]
+                ]
+            },
+            "Mike Wallace": {
+                "args": []
+            },
+            "Matthew Genovese": {
+                "args": []
+            },
+            "Michael Daly": {
+                "args": []
+            },
+            "Richard Wald": {
+                "args": []
+            },
+            "Michael Farrar": {
+                "args": []
+            },
+            "Gabe Pressman": {
+                "args": []
+            },
+            "A.M. Rosenthal": {
+                "args": []
+            },
+            "Vincent Genovese": {
+                "args": []
+            },
+            "Tod Tillotson": {
+                "args": []
+            },
+            "Joseph Lelyveld": {
+                "args": []
+            },
+            "Charles Skoller": {
+                "args": []
+            },
+            "Lynne Tillotson": {
+                "args": []
+            },
+            "Dale Genovese": {
+                "args": []
+            },
+            "Maegan Genovese": {
+                "args": []
+            },
+            "Frank Genovese": {
+                "args": []
+            },
+            "Jim Rasenberger": {
+                "args": []
+            },
+            "Joseph DeMay": {
+                "args": []
+            },
+            "Josh Genovese": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "William Genovese": {
+                "args": [
+                    [
+                        "11_what lifts \"the witness\" out of the true-crime documentary genre is its portrait of bill genovese.",
+                        0.633946180464005
+                    ],
+                    [
+                        "12_ perhaps its greatest triumph is that for a brief time, it resurrects kitty genovese, and lets us see her as a person.",
+                        0.8632378157039587
+                    ],
+                    [
+                        "23_seen in vintage 8mm home movies, kitty genovese emerges as a vibrant, exuberant young woman whose violent death tragically came to overshadow her much too brief life.",
+                        0.6757728832083526
+                    ]
+                ]
+            },
+            "Russell Greene": {
+                "args": []
+            },
+            "James D. Solomon": {
+                "args": []
+            },
+            "Gabriel Rhodes": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_that's the thing about the witness, its strength is in the lingering questions you're left with at the ending credits.",
+                -0.6423012621038515
+            ],
+            [
+                "1_an engrossing detective story, an enlightening sociological study, and a heartbreaking story of unreconciled grief, \"the witness\" is one of the best documentaries of 2016.",
+                0.8451770688536071
+            ],
+            [
+                "3_the movie cuts deep on a personal level as well, turning kitty from a poster child back into a real person.",
+                0.6743308364079919
+            ],
+            [
+                "4_\"the witness\" makes an encouraging case for the argument that society is not as apathetic as we fear.",
+                0.6935692164830795
+            ],
+            [
+                "5_for all the tedium of the work before william, \"the witness\" is a riveting deconstruction of a decades-old media narrative.",
+                0.6939763308231514
+            ],
+            [
+                "8_the strength of \"the witness\" lies in its recognition that the truth is often not just elusive ",
+                0.678919848517528
+            ],
+            [
+                "10_the film makes its mark when it leans in on the deeply personal connection between its subject and its storyteller.",
+                0.5549780780648282
+            ],
+            [
+                "12_this is a powerful film, ",
+                0.7124168548836314
+            ],
+            [
+                "13_at its sharpest, the witness is a careful inquiry into the tricks memory plays, and into how ambiguous events get reshaped into narratives that fit individual and collective needs.",
+                0.7472941354695102
+            ],
+            [
+                "15_\"the witness\" is remarkable for its emotional impact, and its clarity.",
+                0.6487995382304771
+            ],
+            [
+                "17_perhaps because any real closure is impossible at this point, the witness eventually embraces its own inconclusiveness, like some documentary cousin to zodiac.",
+                -0.6136626078956264
+            ],
+            [
+                "18_even if you're familiar with debunked details of her murder, moments in the film have the capacity to startle.",
+                0.7994951815374028
+            ],
+            [
+                "20_the movie's one reënactment-an ingenious experiment in forensics and social science-unites drama, journalism, and first-hand experience in a masterstroke of pure cinema.",
+                0.8542611058174582
+            ],
+            [
+                "22_[the film] functions as a project of not only confrontation ",
+                0.5574976328295772
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James D. Solomon": {
+                "args": [
+                    [
+                        "9_the witness, from first-time filmmaker james solomon, is full of arresting moments.",
+                        0.651647620059578
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

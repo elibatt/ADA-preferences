@@ -1,0 +1,200 @@
+{
+    "writer": {
+        "entities": {
+            "Adam Sandler": {
+                "args": [
+                    [
+                        "1_hotel transylvania 2 is the greatest movie adam sandler and kevin james have ever made together.",
+                        0.6934900518521354
+                    ],
+                    [
+                        "10_it's an episodic, energetically animated gag factory from the pen of adam sandler, and while it's the best screenplay to bear his name in years, it also warps some overfamiliar family-movie concerns until they become unavoidable in their ickiness.",
+                        0.8653398061960966
+                    ],
+                    [
+                        "18_its plot comes across as just a rickety skeleton designed to prop up sandler and company's litany of cornball punchlines and gags, only a few of which cleverly play off of these characters' iconography",
+                        -0.7783878682911904
+                    ]
+                ]
+            },
+            "Robert Smigel": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_so much attention has been paid to crafting a relentless string of in-jokes meant for ancient horror fans that the storyline limps from tired blood.",
+                -0.5505203655109884
+            ],
+            [
+                "8_genndy tartakovsky is a talented director who knows how to telegraph what an animated character is thinking and doing and how to move a character in ways that suggest personality.",
+                0.7757788634669738
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sadie Sandler": {
+                "args": []
+            },
+            "Roey Smigel": {
+                "args": []
+            },
+            "Jared Sandler": {
+                "args": []
+            },
+            "Megan Mullally": {
+                "args": []
+            },
+            "Luenell": {
+                "args": []
+            },
+            "Julia Wolov": {
+                "args": []
+            },
+            "Molly Shannon": {
+                "args": []
+            },
+            "Doug Dale": {
+                "args": []
+            },
+            "Dana Carvey": {
+                "args": []
+            },
+            "Jon Lovitz": {
+                "args": []
+            },
+            "Sunny Sandler": {
+                "args": []
+            },
+            "Robert Smigel": {
+                "args": []
+            },
+            "Nick Swardson": {
+                "args": []
+            },
+            "Andy Samberg": {
+                "args": []
+            },
+            "Jennifer Lyter": {
+                "args": []
+            },
+            "Chris Kattan": {
+                "args": []
+            },
+            "Adam Sandler": {
+                "args": [
+                    [
+                        "1_hotel transylvania 2 is the greatest movie adam sandler and kevin james have ever made together.",
+                        0.6934900518521354
+                    ],
+                    [
+                        "10_it's an episodic, energetically animated gag factory from the pen of adam sandler, and while it's the best screenplay to bear his name in years, it also warps some overfamiliar family-movie concerns until they become unavoidable in their ickiness.",
+                        0.8653398061960966
+                    ],
+                    [
+                        "18_its plot comes across as just a rickety skeleton designed to prop up sandler and company's litany of cornball punchlines and gags, only a few of which cleverly play off of these characters' iconography",
+                        -0.7783878682911904
+                    ]
+                ]
+            },
+            "Selena Gomez": {
+                "args": []
+            },
+            "Steve Buscemi": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "David Spade": {
+                "args": []
+            },
+            "Paul Brittain": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Rose Abdoo": {
+                "args": []
+            },
+            "Mel Brooks": {
+                "args": []
+            },
+            "Fran Drescher": {
+                "args": []
+            },
+            "Kevin James": {
+                "args": []
+            },
+            "Allen Covert": {
+                "args": []
+            },
+            "Chris Parnell": {
+                "args": []
+            },
+            "Rob Riggle": {
+                "args": []
+            },
+            "Asher Blinkoff": {
+                "args": []
+            },
+            "Jonny Solomon": {
+                "args": []
+            },
+            "Ethan Smigel": {
+                "args": []
+            },
+            "Melissa Sturm": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"hotel transylvania 2\" is an unfortunate throwback to about 20 years ago, when animated movies were more widely accepted as cinematic babysitters.",
+                -0.6126721799249211
+            ],
+            [
+                "3_yes, every joke in the film is low-hanging fruit, ",
+                -0.6134974004664547
+            ],
+            [
+                "6_\"be yourself\" proves the obvious takeaway from these exploits, this being a children's movie.",
+                0.5560834580141034
+            ],
+            [
+                "11_hotel transylvania 2 is better than the original.",
+                0.649669326688937
+            ],
+            [
+                "16_ \"hotel transylvania 2\" just digs up a few corny gags.",
+                -0.6364466807638367
+            ],
+            [
+                "17_whereas the jokes in the grown ups series feel reactionary and bullying, the family-friendly hotel transylvania gags instead come off as clever and humane,",
+                -0.5251534296052935
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Genndy Tartakovsky": {
+                "args": [
+                    [
+                        "8_genndy tartakovsky is a talented director who knows how to telegraph what an animated character is thinking and doing and how to move a character in ways that suggest personality.",
+                        0.7757788634669738
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

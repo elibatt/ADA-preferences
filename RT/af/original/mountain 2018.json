@@ -1,0 +1,75 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Jennifer Peedom": {
+                "args": [
+                    [
+                        "14_one of the most visceral essay films ever made, with peedom and her sherpa altitude",
+                        0.7934542336237674
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Willem Dafoe": {
+                "args": [
+                    [
+                        "7_ only if dafoe keeps still.",
+                        -0.6709900790759868
+                    ],
+                    [
+                        "9_the mountains are alive with the sound of chamber music, as well as willem dafoe's distinctive vocal intonations as a narrator, in the essay-style documentary mountain.",
+                        0.8381674471600499
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Robert Macfarlane (IV) ": {
+                "args": []
+            },
+            "Jennifer Peedom": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie is rich with ideas as it fixates on characters roaming empty worlds, searching for impossible ideals.",
+                0.5103390241538595
+            ],
+            [
+                "3_for those of us who would never in our wildest imaginings ride a bike off a sky-high mountain peak and then parachute to earth, i can heartily recommend the documentary mountain, where such feats are standard.",
+                0.6189652007915206
+            ],
+            [
+                "4_\"mountain\" is a lush treat for the senses, scaling great heights, literally, both visually and with its sound.",
+                0.7833387488621467
+            ],
+            [
+                "6_\"mountain,\"... reminds us that mountains \"restore our wonder",
+                0.6893662103803727
+            ],
+            [
+                "10_ mountain let me hear the music.",
+                -0.5201403955755844
+            ],
+            [
+                "11_for those terrified of heights, \"mountain\" will be a nonstop nightmare.",
+                -0.5192317211085318
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

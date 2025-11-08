@@ -1,0 +1,257 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_lazer team may not be a necessarily fresh story, ",
+                0.6932519493096245
+            ],
+            [
+                "0_ an energetic cast and some unique sci-fi ideas make it a fun little movie to check out for fans of the genre.",
+                0.8308736592555321
+            ],
+            [
+                "5_\"lazer team\" ends by setting itself up for a sequel, ",
+                0.5189249612378415
+            ],
+            [
+                "6_i think you already know by now whether you feel solidarity with the spirit of \"lazer team,\" or whether you are simply no fun at all.",
+                0.6374337499326183
+            ],
+            [
+                "7_\"lazer team\" is a sci-fi comedy that is somehow getting released into theaters, which is good for everyone connected with it, except audiences.",
+                0.6681251556264813
+            ],
+            [
+                "9_begun as an indiegogo campaign and now a full-fledged feature film, the austin-shot lazer team is never hysterically funny ",
+                0.6867789742229836
+            ],
+            [
+                "10_because it's made by people who understand the importance of a clever script and want their audience to have fun, lazer team may just prove to be 2016's most entertaining superhero movie.",
+                0.8321504648041702
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Matt Hullum": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Gregory R. Kelly": {
+                "args": []
+            },
+            "Chris Demarais": {
+                "args": []
+            },
+            "Josh Flanagan": {
+                "args": []
+            },
+            "Sean Duggan": {
+                "args": []
+            },
+            "Jon Risinger": {
+                "args": []
+            },
+            "Dr. Neil deGrasse Tyson": {
+                "args": []
+            },
+            "Gus Sorola": {
+                "args": []
+            },
+            "Michaela Jean Burton": {
+                "args": []
+            },
+            "Alexandria Deberry": {
+                "args": []
+            },
+            "Kira Pozehl": {
+                "args": []
+            },
+            "Anthony Abron": {
+                "args": []
+            },
+            "Benjamin Scott": {
+                "args": []
+            },
+            "Kirk C. Johnson": {
+                "args": []
+            },
+            "Yvonne Secretan": {
+                "args": []
+            },
+            "Alan Ritchson": {
+                "args": []
+            },
+            "Patrick Rodriguez": {
+                "args": []
+            },
+            "Anna Hullum": {
+                "args": []
+            },
+            "Liz Beckham": {
+                "args": []
+            },
+            "Shota Nakama": {
+                "args": []
+            },
+            "Dalton Gray": {
+                "args": []
+            },
+            "Subhash Dutta": {
+                "args": []
+            },
+            "Travis Martin": {
+                "args": []
+            },
+            "Carmichael \"Kid\" Simon": {
+                "args": []
+            },
+            "Irina Voronina": {
+                "args": []
+            },
+            "Tom Booker": {
+                "args": []
+            },
+            "Michael Jones": {
+                "args": []
+            },
+            "Patrick Grover": {
+                "args": []
+            },
+            "Colton Dunn": {
+                "args": []
+            },
+            "JD Burns": {
+                "args": []
+            },
+            "Steve Shearer": {
+                "args": []
+            },
+            "Blaine Gibson": {
+                "args": []
+            },
+            "Brandon Farmahini": {
+                "args": []
+            },
+            "Yomary Cruz": {
+                "args": []
+            },
+            "Jeremy St. James": {
+                "args": []
+            },
+            "Teddy Burns": {
+                "args": []
+            },
+            "Alan Abdine": {
+                "args": []
+            },
+            "Bobby Hernandez": {
+                "args": []
+            },
+            "Mike Dell": {
+                "args": []
+            },
+            "Gavin Free": {
+                "args": [
+                    [
+                        "5_there's not a big demand for laugh-free comedies.",
+                        0.5266799077139491
+                    ]
+                ]
+            },
+            "Ed Robertson": {
+                "args": []
+            },
+            "Burnie Burns": {
+                "args": []
+            },
+            "Mills Hullum": {
+                "args": []
+            },
+            "Shannon McCormick": {
+                "args": []
+            },
+            "Dale Watson": {
+                "args": []
+            },
+            "Ron Oliveira": {
+                "args": []
+            },
+            "Johnny Walter": {
+                "args": []
+            },
+            "Lindsay Jones": {
+                "args": []
+            },
+            "Bill Wise": {
+                "args": []
+            },
+            "Matt Hullum": {
+                "args": []
+            },
+            "Patrick Salazar": {
+                "args": []
+            },
+            "Korey Coleman": {
+                "args": []
+            },
+            "Thomas Eilers Copeland": {
+                "args": []
+            },
+            "Gray Haddock": {
+                "args": []
+            },
+            "Webb Hullum": {
+                "args": []
+            },
+            "Justine Ezarik": {
+                "args": []
+            },
+            "Joel Heyman": {
+                "args": []
+            },
+            "Arthur Bryan": {
+                "args": []
+            },
+            "Alexis Magee": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ an energetic cast and some unique sci-fi ideas make it a fun little movie to check out for fans of the genre.",
+                0.8308736592555321
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Chris Demarais": {
+                "args": []
+            },
+            "Josh Flanagan": {
+                "args": []
+            },
+            "Matt Hullum": {
+                "args": []
+            },
+            "Burnie Burns": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_because it's made by people who understand the importance of a clever script and want their audience to have fun, lazer team may just prove to be 2016's most entertaining superhero movie.",
+                0.8321504648041702
+            ]
+        ]
+    }
+}

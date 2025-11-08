@@ -1,0 +1,102 @@
+{
+    "acting": {
+        "entities": {
+            "Josh Hamilton": {
+                "args": []
+            },
+            "Benjamin Dickey": {
+                "args": []
+            },
+            "Charlie Sexton": {
+                "args": []
+            },
+            "David Kallaway": {
+                "args": []
+            },
+            "Alia Shawkat": {
+                "args": []
+            },
+            "Sam Rockwell": {
+                "args": []
+            },
+            "Wyatt Russell": {
+                "args": []
+            },
+            "Kris Kristofferson": {
+                "args": []
+            },
+            "Alynda Mariposa Segarra": {
+                "args": []
+            },
+            "Steve Zahn": {
+                "args": []
+            },
+            "Jenn Lyon": {
+                "args": []
+            },
+            "Richard Linklater": {
+                "args": []
+            },
+            "Ritchie Montgomery": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sybil Rosen": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_at its best, blaze feels like a cinematic translation of not just blaze foley's life ",
+                -0.5061854949904536
+            ],
+            [
+                "3_the film isn't a jigsaw puzzle, where every piece neatly fits into a greater whole",
+                0.5185290093634173
+            ],
+            [
+                "4_hands down the best movie of its kind since inside llewyn davis.",
+                0.7985219507585268
+            ],
+            [
+                "5_blaze is more affecting than most other live-hard/die-ugly music biopics.",
+                0.5799329182280549
+            ],
+            [
+                "6_ as randomly observed slivers of life that amble and glide along to blaze's dawdling spirit.",
+                0.6907173099408987
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ethan Hawke": {
+                "args": [
+                    [
+                        "0_what hawke has provided here, with plenty of grace and a minimum of fuss, is an elegy for a life that went missing, more smolder than blaze, and a chance to hear the songs of the unsung.",
+                        0.7367564625870329
+                    ],
+                    [
+                        "6_the daring of ethan hawke as a filmmaker is that he shapes his scenes not in a conventional way ",
+                        0.5613051063047458
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

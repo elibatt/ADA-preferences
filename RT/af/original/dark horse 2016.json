@@ -1,0 +1,84 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jan Vokes": {
+                "args": []
+            },
+            "Angela Davies": {
+                "args": []
+            },
+            "Brian Vokes": {
+                "args": []
+            },
+            "Howard Davies (IX)": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Louise Osmond": {
+                "args": [
+                    [
+                        "6_a remarkable tale about ordinary people, and osmond keeps it simple with her conventional style and good-natured manipulation.",
+                        0.7317346149667981
+                    ],
+                    [
+                        "12_louise osmond's \"dark horse\" is a slight ",
+                        -0.580498567462729
+                    ],
+                    [
+                        "13_it would be hard for any fictional treatment to beat the pleasures of osmond's genial, enthralling documentary.",
+                        0.7182680750494337
+                    ],
+                    [
+                        "15_unfolding with a sincerity that dares you to roll your eyes, this warmhearted documentary by louise osmond wallows in its working-class roots like a horse in clover.",
+                        0.6875155576971489
+                    ],
+                    [
+                        "18_for the many, many viewers who've never heard of dream alliance, osmond's documentary is edge-of-the-seat stuff.",
+                        0.7859773590097776
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Louise Osmond": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_i think that's one reason the inspiring and joyful dark horse is such an appealing film.",
+                0.5728102657815468
+            ],
+            [
+                "14_it's true that dark horse relies a bit too heavily on commercial race footage.",
+                -0.5570666204266341
+            ],
+            [
+                "14_yet the movie grows into uplift of a whole other kind.",
+                -0.5374195010210039
+            ],
+            [
+                "16_the special appeal of \"dark horse\" is that it's about many more things, all of them fascinating, than its starting point would suggest.",
+                0.5114967757878826
+            ],
+            [
+                "20_just as dream alliance never quite escapes his lowly background, so 'dark horse' sometimes feels like a small-screen runner trying to jump big-screen fence.",
+                -0.6980162952595517
+            ]
+        ]
+    }
+}

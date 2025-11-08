@@ -1,0 +1,69 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_this is a movie about gauguin that, in the end, is less about his artistry than his ravenous sensibility, his desire to break through to a new way of seeing.",
+                -0.5569288556523699
+            ],
+            [
+                "2_the film has beautiful cinematography and occasional peaks of high drama, ",
+                0.7486952338370634
+            ],
+            [
+                "6_content to be yet another great-man biopic, the movie would rather sanitize than probe.",
+                -0.5392834844641667
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Edouard Deluc": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Malik Zidi": {
+                "args": []
+            },
+            "Vincent Cassel": {
+                "args": [
+                    [
+                        "4_the film is beautiful in spots, and features a believably tormented performance by vincent cassel as gauguin, ",
+                        0.8657165036926895
+                    ]
+                ]
+            },
+            "Pua-Taï Hikutini": {
+                "args": []
+            },
+            "Tuhei Adams": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Thomas Lilti": {
+                "args": []
+            },
+            "Etienne Comar": {
+                "args": []
+            },
+            "Sarah Kaminsky": {
+                "args": []
+            },
+            "Edouard Deluc": {
+                "args": []
+            }
+        }
+    }
+}

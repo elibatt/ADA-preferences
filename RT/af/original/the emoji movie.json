@@ -1,0 +1,116 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sofía Vergara": {
+                "args": []
+            },
+            "Christina Aguilera": {
+                "args": []
+            },
+            "Patrick Stewart": {
+                "args": []
+            },
+            "Jake T. Austin": {
+                "args": []
+            },
+            "T.J. Miller": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "James Corden": {
+                "args": []
+            },
+            "Jennifer Coolidge": {
+                "args": []
+            },
+            "Steven Wright": {
+                "args": []
+            },
+            "Anna Faris": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Anthony Leondis": {
+                "args": [
+                    [
+                        "5_disregard that pg rating and keep your children far away from director tony leondis' vile animated faux-comedy.",
+                        0.6783542043572723
+                    ],
+                    [
+                        "10_the good news is the emoji movie, co-written and directed by tony leondis, is not evil.",
+                        -0.5599193467705968
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Mike White": {
+                "args": []
+            },
+            "Anthony Leondis": {
+                "args": []
+            },
+            "Eric Siegel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the emoji movie is not just a critical flop, ",
+                -0.6882169211023517
+            ],
+            [
+                "1_it would be hard to forgive the emoji movie its \"meh\" plotline and the fact that it is literally one giant ad for apps, ",
+                -0.8076811021876336
+            ],
+            [
+                "3_the film is boldly bad, yes, ",
+                -0.5983983247316826
+            ],
+            [
+                "4_there's a justifiable self-loathing running through the emoji movie, a fragile attempt to (sigh) deconstruct the meaning of emojis while also (sigh) demonstrating the profound possibility that emojis are the language of the future.",
+                0.6903039263675464
+            ],
+            [
+                "8_because the emoji movie could not be more meh.",
+                -0.623966975490297
+            ],
+            [
+                "9_this movie's \"believe in yourself\" message is borne out, in a perverse way, by the very fact that it even exists.",
+                0.5260834731651278
+            ],
+            [
+                "11_the emoji movie shows how low hollywood will sink for easy 💰.",
+                -0.553318440556998
+            ],
+            [
+                "12_as far as expanding on smartphone-related ip, this is an even weaker starting point than sony animation's recent the angry birds movie.",
+                0.5483555866067669
+            ],
+            [
+                "14_ in this case the execution isn't good enough to bring the notion of an emoji movie to funky, surprising life.",
+                -0.5793450461676356
+            ],
+            [
+                "16_the emoji movie is almost as bad and brutally depressing as everything else in 2017.",
+                -0.8553714868208643
+            ]
+        ]
+    }
+}

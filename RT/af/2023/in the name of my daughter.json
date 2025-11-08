@@ -1,0 +1,96 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "6_\"in the name of my daughter\" has good intentions of taking a sensationalistic riddle and turning it into a human story.",
+                0.6223391591598328
+            ],
+            [
+                "8_a missing-person movie becomes just a missing movie.",
+                -0.6819371140460755
+            ],
+            [
+                "10_ the characters' passions drive the action, director andre techine lends the film an appealing illusion of calm.",
+                0.757074420312428
+            ],
+            [
+                "19_a mobster movie without whackings, a thriller without suspense and a courtroom drama without resolution, this turgid retelling of an unsolved missing-persons case functions mostly as a portrait of a young woman who loved too passionately.",
+                0.7588852183628916
+            ],
+            [
+                "11",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "10_ the characters' passions drive the action, director andre techine lends the film an appealing illusion of calm.",
+                0.757074420312428
+            ]
+        ],
+        "entities": {
+            "André Téchiné": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "11_lacking action to the point of seeming immobile, mr. tchin nevertheless amasses a catalogue of anger, desire and sex, enhanced by stunning landscapes of villas and a parade of the rich and glamorous haut monde at play.",
+                0.7340920602039203
+            ]
+        ],
+        "entities": {
+            "André Téchiné": {
+                "unique_args": []
+            },
+            "Jean-Charles Le Roux": {
+                "unique_args": []
+            },
+            "Cédric Anger": {
+                "unique_args": [
+                    [
+                        "11_lacking action to the point of seeming immobile, mr. tchin nevertheless amasses a catalogue of anger, desire and sex, enhanced by stunning landscapes of villas and a parade of the rich and glamorous haut monde at play.",
+                        0.7340920602039203
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Guillaume Canet": {
+                "unique_args": []
+            },
+            "Catherine Deneuve": {
+                "unique_args": []
+            },
+            "Adèle Haenel": {
+                "unique_args": []
+            },
+            "Judith Chemla": {
+                "unique_args": []
+            },
+            "Mauro Conte": {
+                "unique_args": []
+            },
+            "Jean Corso": {
+                "unique_args": []
+            },
+            "Hugo Sablic": {
+                "unique_args": []
+            },
+            "Jean-Pierre Getti": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

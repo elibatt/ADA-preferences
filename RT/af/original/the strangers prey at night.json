@@ -1,0 +1,66 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ben Ketai": {
+                "args": []
+            },
+            "Bryan Bertino": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "6_the movie's biggest mistake is indulging conventional horror-movie reality, where characters live or die according to their fortitude and our sense of the world's rightness is conservatively reaffirmed.",
+                0.5409937590872751
+            ],
+            [
+                "7_it's never a good sign when a movie racks up its first ironic music cue before there is anything to be ironic about.",
+                -0.5884145994987551
+            ],
+            [
+                "8_when, for the love of god, are these horror movie families going to learn?",
+                0.5475349076442041
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Martin Henderson": {
+                "args": []
+            },
+            "Bailee Madison": {
+                "args": []
+            },
+            "Christina Hendricks": {
+                "args": []
+            },
+            "Lewis Pullman": {
+                "args": []
+            },
+            "Emma Bellomy": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Johannes Roberts": {
+                "args": [
+                    [
+                        "16_the last third plays so much better than the first half that it suggests that roberts should have abandoned all caution and really gone for a more consistently over-the-top film based in the emotion that he clearly wants to foster.",
+                        -0.5075586103372136
+                    ]
+                ]
+            }
+        }
+    }
+}

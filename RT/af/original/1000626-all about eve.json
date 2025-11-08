@@ -1,0 +1,142 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_all about eve is not only a brilliant and clever portrait of an actress, it is a downright funny film, from its opening scene to the final fadeout.",
+                0.7115147095822927
+            ],
+            [
+                "6_[features] more quotable dialogue in one movie than most screenwriters manage in a lifetime.",
+                0.522149777708291
+            ],
+            [
+                "7_ the film's tinny brilliance still pleases.",
+                0.5510837096844783
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Joseph L. Mankiewicz": {
+                "args": [
+                    [
+                        "1_joseph l mankiewicz's film dissects the narcissism and hypocrisy of the spotlight as sharply as [billy wilder's sunset blvd], ",
+                        0.5693525280151421
+                    ],
+                    [
+                        "2_joseph mankiewicz was hollywood's midcentury master of comic drama, and",
+                        0.5907669244936998
+                    ],
+                    [
+                        "7_the hoped-for tone of restoration comedy never quite materializes, perhaps because mankiewicz's cynicism is only skin-deep, ",
+                        0.5109863625979193
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "10_a motion picture that, because of its priceless dialogue and unforgettable lead performance, will never lose its luster.",
+                0.7084673434853206
+            ]
+        ],
+        "entities": {
+            "Randy Stuart": {
+                "args": []
+            },
+            "Ed Fisher": {
+                "args": []
+            },
+            "George Sanders": {
+                "args": []
+            },
+            "Helen Mowery": {
+                "args": []
+            },
+            "Eugene Borden": {
+                "args": []
+            },
+            "Walter Hampden": {
+                "args": []
+            },
+            "Gregory Ratoff": {
+                "args": []
+            },
+            "Gary Merrill": {
+                "args": []
+            },
+            "Barbara White": {
+                "args": []
+            },
+            "Bette Davis": {
+                "args": [
+                    [
+                        "3_what makes the picture seem so good (what makes it eminently worth seeing) is the satirical touches in its detail and the performance of bette davis.",
+                        0.8879740737097213
+                    ],
+                    [
+                        "13_[bette davis'] veteran actress margo channing in \"all about eve\" (1950) was her greatest role.",
+                        0.6914416028188999
+                    ]
+                ]
+            },
+            "Eddie Fisher": {
+                "args": []
+            },
+            "Bess Flowers": {
+                "args": []
+            },
+            "Claude Stroud": {
+                "args": []
+            },
+            "Leland Harris": {
+                "args": []
+            },
+            "Barbara Bates": {
+                "args": []
+            },
+            "Marilyn Monroe": {
+                "args": []
+            },
+            "Steve Geray": {
+                "args": []
+            },
+            "Anne Baxter": {
+                "args": []
+            },
+            "Thelma Ritter": {
+                "args": []
+            },
+            "Celeste Holm": {
+                "args": []
+            },
+            "Steven Geray": {
+                "args": []
+            },
+            "Hugh Marlowe": {
+                "args": []
+            },
+            "Craig Hill": {
+                "args": []
+            },
+            "William Pullen": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joseph L. Mankiewicz": {
+                "args": []
+            }
+        }
+    }
+}

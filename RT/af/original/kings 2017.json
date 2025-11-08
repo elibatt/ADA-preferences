@@ -1,0 +1,75 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it's possible to appreciate the film for recognizing both the horror and the absurdity in its subjects...and for playing exclusively in those extreme registers, yet still come to the conclusion that it's is all bark, no bite.",
+                0.7863230945916683
+            ],
+            [
+                "2_kings is clueless about its subject matter.",
+                -0.5037295082383106
+            ],
+            [
+                "4_ from the brilliant talent behind best foreign film picture nominee mustang is a terribly uneven, borderline absurdist jumble that undercuts its own message again and again.",
+                0.6203247527994553
+            ],
+            [
+                "5_in tying its story to this particular moment in american history, the movie bites off more than it can coherently chew.",
+                0.5058425467309158
+            ],
+            [
+                "6_eschewing poeticism for an empty sense of prefab empathy, \"kings\" is so determined to be hopeful that it forgets to be honest.",
+                -0.5951008961389801
+            ],
+            [
+                "7_for all its honorable intentions to address sensitive issues that still sting, kings is an unconvincing tonal patchwork.",
+                0.5342839935469534
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Deniz Gamze Ergüven": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Daniel Craig": {
+                "args": []
+            },
+            "Lamar Johnson": {
+                "args": []
+            },
+            "Rachel Hilson": {
+                "args": []
+            },
+            "Halle Berry": {
+                "args": [
+                    [
+                        "0_this dud recreation of the 1992 l.a. riots traps halle berry and daniel craig and a piece of momentous, civil-rights history in a crazyquilt of random action, absurdist humor, bogus romance and questionable purpose.",
+                        -0.5087940460062652
+                    ]
+                ]
+            },
+            "Kaalan \"KR\" Walker": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Deniz Gamze Ergüven": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

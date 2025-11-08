@@ -1,0 +1,87 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Garrett Batty": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert Conder": {
+                "args": []
+            },
+            "Ted Johnson": {
+                "args": []
+            },
+            "Bright Dodoo": {
+                "args": []
+            },
+            "Bill Myers": {
+                "args": []
+            },
+            "Stacy Mawuse Afful": {
+                "args": []
+            },
+            "Godwin Namboh": {
+                "args": []
+            },
+            "Clement Amegayie": {
+                "args": []
+            },
+            "Nuong Faalong": {
+                "args": []
+            },
+            "Phillip Michael": {
+                "args": []
+            },
+            "William Addo": {
+                "args": []
+            },
+            "Faustina Kumesi": {
+                "args": []
+            },
+            "Mirabel Norbert": {
+                "args": []
+            },
+            "Maame Dokunu": {
+                "args": []
+            },
+            "Henry Adofo": {
+                "args": []
+            },
+            "Alphonse Menyo": {
+                "args": []
+            },
+            "Great Ejiro": {
+                "args": []
+            },
+            "Dzifa Glikpoe": {
+                "args": []
+            },
+            "Michael Attram": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Garrett Batty": {
+                "args": []
+            },
+            "Melissa Leilani Larson": {
+                "args": []
+            }
+        }
+    }
+}

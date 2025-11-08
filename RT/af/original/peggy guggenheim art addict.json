@@ -1,0 +1,55 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_as this film's engrossing character study makes clear, this woman of extraordinary tastes and appetites was ahead of her time, in more ways than one.",
+                0.7959873139649778
+            ],
+            [
+                "9_guggenheim is such a fascinating figure that few will snipe at a character analysis that rarely gets below the surface.",
+                0.513431530328022
+            ]
+        ],
+        "entities": {
+            "Lisa Immordino Vreeland": {
+                "args": []
+            },
+            "Bernadine Colish": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_as this film's engrossing character study makes clear, this woman of extraordinary tastes and appetites was ahead of her time, in more ways than one.",
+                0.7959873139649778
+            ],
+            [
+                "5_this ambitious film touches on so many lives and controversies that it gradually becomes a minihistory of 20th-century art.",
+                0.7513526748527234
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lisa Immordino Vreeland": {
+                "args": [
+                    [
+                        "10_a doc by lisa immordino vreeland so stuffed with connections and allusions to fabled eras",
+                        -0.5134422051016575
+                    ]
+                ]
+            }
+        }
+    }
+}

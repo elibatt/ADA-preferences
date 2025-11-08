@@ -1,0 +1,97 @@
+{
+    "acting": {
+        "args": [
+            [
+                "7_even a cast with this many award wins and nominations can't salvage a script that will have viewers audibly sighing, rather than laughing.",
+                -0.5172260803194106
+            ]
+        ],
+        "entities": {
+            "Glenne Headly": {
+                "args": []
+            },
+            "Joe Pantoliano": {
+                "args": []
+            },
+            "George Wallace (II)": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": []
+            },
+            "Rene Russo": {
+                "args": []
+            },
+            "Tommy Lee Jones": {
+                "args": []
+            },
+            "Sheryl Lee Ralph": {
+                "args": []
+            },
+            "Elizabeth Ashley": {
+                "args": []
+            },
+            "Graham Beckel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_just getting started simply never does get started.",
+                -0.6700682490081413
+            ],
+            [
+                "6_the film is ingratiating enough, ",
+                0.5412191385477421
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ron Shelton": {
+                "args": [
+                    [
+                        "0_the climactic 20 minutes of just getting started are so lazily directed that i wondered why shelton bothered trying to put action into the movie at all.",
+                        -0.7603525626444808
+                    ],
+                    [
+                        "2_this wheezy romantic caper ... inspires little more than melancholy reminiscences of mr. shelton's earlier work.",
+                        0.6793316720591338
+                    ],
+                    [
+                        "3_a rather lazy boondoggle by shelton, who waited 14 years to direct again and didn't bother to make it worthwhile.",
+                        -0.7300733286535885
+                    ],
+                    [
+                        "5_ron shelton's lame comedy is an utterly useless misfire that brings out the worst in all parties involved.",
+                        -0.8565475957666523
+                    ],
+                    [
+                        "6_ its main value is to make us eager for another, more substantial shelton movie long before another decade has slipped by.",
+                        -0.7438198408203152
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_even a cast with this many award wins and nominations can't salvage a script that will have viewers audibly sighing, rather than laughing.",
+                -0.5172260803194106
+            ]
+        ],
+        "entities": {
+            "Ron Shelton": {
+                "args": []
+            }
+        }
+    }
+}

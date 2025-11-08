@@ -1,0 +1,83 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the perfect shot might not be the perfect movie, ",
+                0.6601707350121275
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sebastian Dehnhardt": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Finley": {
+                "args": []
+            },
+            "Kobe Bryant": {
+                "args": []
+            },
+            "Jessica Nowitzki": {
+                "args": []
+            },
+            "Holger Geschwindner": {
+                "args": []
+            },
+            "Silke Nowitzki": {
+                "args": []
+            },
+            "Vince Carter": {
+                "args": []
+            },
+            "Helga Nowitzki": {
+                "args": []
+            },
+            "Jorg Nowitzki": {
+                "args": []
+            },
+            "Don Nelson": {
+                "args": []
+            },
+            "Jason Kidd": {
+                "args": []
+            },
+            "Rick Carlisle": {
+                "args": []
+            },
+            "Helmut Schmidt": {
+                "args": []
+            },
+            "Steve Nash": {
+                "args": []
+            },
+            "Mark Cuban": {
+                "args": []
+            },
+            "David Stern": {
+                "args": []
+            },
+            "Yao Ming": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Sebastian Dehnhardt": {
+                "args": []
+            }
+        }
+    }
+}

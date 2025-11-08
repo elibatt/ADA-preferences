@@ -1,0 +1,106 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_it says, yes, a movie can help us make small steps against our imperfections.",
+                0.5747359574854356
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Yasujiro Ozu": {
+                "args": [
+                    [
+                        "2_the way ozu builds up emotional empathy for a sense of disappointment in its various characters is where his mastery lies.",
+                        -0.5604079942246435
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Kôgo Noda": {
+                "args": []
+            },
+            "Yasujiro Ozu": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Sô Yamamura": {
+                "args": []
+            },
+            "Hisao Toake": {
+                "args": []
+            },
+            "Yoshiko Togawa": {
+                "args": []
+            },
+            "Shiro Osaka": {
+                "args": []
+            },
+            "Junko Anan": {
+                "args": []
+            },
+            "Nobuo Nakamura": {
+                "args": []
+            },
+            "Toru Abe": {
+                "args": []
+            },
+            "Haruko Sugimura": {
+                "args": []
+            },
+            "Ryoko Mizuki": {
+                "args": []
+            },
+            "Kyoko Kagawa": {
+                "args": []
+            },
+            "Mitsuhiro Mori": {
+                "args": []
+            },
+            "Zen Murase": {
+                "args": []
+            },
+            "Toyoko Takahashi": {
+                "args": []
+            },
+            "Mutsuko Sakura": {
+                "args": []
+            },
+            "Chishu Ryu": {
+                "args": []
+            },
+            "Chieko Higashiyama": {
+                "args": []
+            },
+            "Sachiko Mitani": {
+                "args": []
+            },
+            "Eijirô Tono": {
+                "args": []
+            },
+            "Setsuko Hara": {
+                "args": []
+            },
+            "Teruko Nagaoka": {
+                "args": []
+            },
+            "Kuniko Miyake": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

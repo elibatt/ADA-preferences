@@ -1,0 +1,139 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "20_\"a bad moms christmas\" is pretty typical of hollywood seasonal fare: a fine cast and a few passable moments, ",
+                -0.7371688403634094
+            ],
+            [
+                "26_it's painful to watch a talented cast grimace their way through this stuff.",
+                -0.575250527151195
+            ]
+        ],
+        "entities": {
+            "Cheryl Hines": {
+                "args": [
+                    [
+                        "2_\"i have heart cancer,\" ms. hines's character says at one point in a vain attempt to halt her daughter's complaints.",
+                        -0.5977524035855677
+                    ]
+                ]
+            },
+            "Justin Hartley": {
+                "args": []
+            },
+            "Mila Kunis": {
+                "args": []
+            },
+            "Susan Sarandon": {
+                "args": []
+            },
+            "Christine Baranski": {
+                "args": []
+            },
+            "Jay Hernandez": {
+                "args": []
+            },
+            "Kristen Bell": {
+                "args": []
+            },
+            "Peter Gallagher": {
+                "args": []
+            },
+            "Kathryn Hahn": {
+                "args": []
+            },
+            "David Walton": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Scott Moore": {
+                "args": []
+            },
+            "Jon Lucas": {
+                "args": [
+                    [
+                        "3_apparently, jon lucas and scott moore, working the distaff side of their hangover sensibility once again, have no better idea for a plot than a visit from grandma, so they simply repeat it three times.",
+                        -0.6166059021284181
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_\"i have heart cancer,\" ms. hines's character says at one point in a vain attempt to halt her daughter's complaints.",
+                -0.5977524035855677
+            ]
+        ],
+        "entities": {
+            "Scott Moore": {
+                "args": []
+            },
+            "Jon Lucas": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_for festive fun, a bad moms christmas is right up there with coal in your stocking.",
+                0.6052928672731164
+            ],
+            [
+                "5_maybe they should take a lesson from the movie itself:",
+                -0.5546198818642772
+            ],
+            [
+                "6_i found myself fixated on the lack of apostrophe in the title a bad moms christmas.",
+                -0.8979277247320598
+            ],
+            [
+                "8_fans can best enjoy the movie the way the bad moms make the best of the holiday: lots of alcohol, lots of forgiveness.",
+                0.7086570652792401
+            ],
+            [
+                "9_what does it say about \"a bad moms christmas\" that the funniest line in it is uttered by kenny g?",
+                -0.6266349289438276
+            ],
+            [
+                "12_\"a bad moms christmas\" is predictable and ridiculous and lame, ",
+                -0.8299329668166555
+            ],
+            [
+                "13_ \"a bad moms christmas\" uses it as a crutch, piling on expletives and out-there situations without considering the toll they take on the film's emotion.",
+                -0.5745266078032703
+            ],
+            [
+                "18_ it also passes the bechdel test maybe better than any other film this year, and its older generation of stars are too smart not to go to town on their stock roles.",
+                0.6850992186339369
+            ],
+            [
+                "20_\"a bad moms christmas\" is pretty typical of hollywood seasonal fare: a fine cast and a few passable moments, ",
+                -0.7371688403634094
+            ],
+            [
+                "21_a movie can be unreasonably formulaic and still be reasonably diverting, and \"a bad moms christmas\" is the proof.",
+                -0.8067196340371248
+            ],
+            [
+                "23_a bad moms christmas is louder, busier and more pandering than the original - an exhausting spectacle of skilled performers gamely mugging their way through a cash grab.",
+                -0.5602280519044859
+            ],
+            [
+                "24_the new film, while just okay enough to get by, takes a step back from the audacity of \"bad moms\" to something more cautiously conventional.",
+                0.5115345870431139
+            ]
+        ]
+    }
+}

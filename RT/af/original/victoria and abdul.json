@@ -1,0 +1,175 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the film's attempt to portray the queen as more politically enlightened than her courtiers is kindly ",
+                0.6027659645365372
+            ],
+            [
+                "4_it's up to historians to assess how accurate this funny, charming film is to the details of queen victoria's last years, ",
+                0.8133388526536411
+            ],
+            [
+                "7_ he has made a movie containing a message with universal implications for all places and times when racism rears its head.",
+                0.6428209219937239
+            ],
+            [
+                "9_\"victoria and abdul\" is hampered by the restrictions of a hollywood period piece:",
+                0.518544542151708
+            ],
+            [
+                "11_the tale of queen victoria and abdul karim ... is one that's good and true and worth telling.",
+                0.8608852380982203
+            ],
+            [
+                "11_ the way that \"victoria and abdul\" slops it around is - mostly - hogwash.",
+                0.644769468566095
+            ],
+            [
+                "21_even taking acknowledged liberties with what's billed as a \"mostly\" a true story, \"victoria & abdul\" is such a fascinating, relevant slice of history it's a shame that the movie isn't a bit less superficial.",
+                0.6991063080726732
+            ],
+            [
+                "24_ the film-a shallow look at queen victoria's friendship with an indian muslim clerk- fails to examine complicated cultural, historical questions.",
+                0.6427898852468594
+            ],
+            [
+                "26_but this genteel, self-satisfied movie doesn't begin to share her curiosity,",
+                -0.6795137793521557
+            ],
+            [
+                "27_in the shift from comedy to drama the movie goes wobbly.",
+                -0.6219151584604609
+            ],
+            [
+                "28_victoria and abdul fails to make much of a case for its characters' friendship apart from the fact that it seems pretty nice.",
+                -0.7299260265252032
+            ],
+            [
+                "29_the film is called \"victoria & abdul\" ",
+                0.5589440979072362
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stephen Frears": {
+                "args": [
+                    [
+                        "2_victoria & abdul is worth seeing for dench's magisterial performance and for frears's light ",
+                        0.8348122309183619
+                    ],
+                    [
+                        "8_alas, for director stephen frears, the answer is \"not much\" (",
+                        -0.7826096000016891
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "15_it's a great performance.",
+                0.8238936697548543
+            ]
+        ],
+        "entities": {
+            "Julian Wadham": {
+                "args": []
+            },
+            "Olivia Williams": {
+                "args": []
+            },
+            "Adeel Akhtar": {
+                "args": []
+            },
+            "Eddie Izzard": {
+                "args": []
+            },
+            "Judi Dench": {
+                "args": [
+                    [
+                        "2_victoria & abdul is worth seeing for dench's magisterial performance and for frears's light ",
+                        0.8348122309183619
+                    ],
+                    [
+                        "6_ dench, as always, is the real deal.",
+                        0.6467531070630803
+                    ],
+                    [
+                        "10_a film of solid craftsmanship led by another royally magnificent performance by judi dench.",
+                        0.8089949644129336
+                    ],
+                    [
+                        "12_frears rightfully showcases dench, and she is, simply, great.",
+                        0.7483529388037328
+                    ],
+                    [
+                        "13_is there a more monarchial actress alive than dench?",
+                        0.6622130583593622
+                    ],
+                    [
+                        "15_the movie ultimately all comes down to dench, and the film becomes a frame of her performance.",
+                        -0.5250523127538553
+                    ],
+                    [
+                        "16_victoria & abdul is dench's show.",
+                        0.5736755600168041
+                    ],
+                    [
+                        "18_judi dench can do no wrong, and playing queen victoria for the second time in the richly satisfying victoria and abdul is an acting lesson par excellence that proves how rapturous it is to watch this great artist do everything right.",
+                        0.7778446545489993
+                    ],
+                    [
+                        "24_judi dench is a royal pleasure, ",
+                        0.6812275934698065
+                    ],
+                    [
+                        "33_ as a delivery system for judi dench, it serves its purpose.",
+                        0.5890823309769612
+                    ]
+                ]
+            },
+            "Michael Gambon": {
+                "args": []
+            },
+            "Fenella Woolgar": {
+                "args": []
+            },
+            "Tim Pigott-Smith": {
+                "args": []
+            },
+            "Ali Fazal": {
+                "args": []
+            },
+            "Paul Higgins": {
+                "args": []
+            },
+            "Simon Callow": {
+                "args": []
+            },
+            "Robin Soans": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "12_ but more an outline of a character.",
+                -0.5235839514662052
+            ]
+        ],
+        "entities": {
+            "Lee Hall": {
+                "args": []
+            }
+        }
+    }
+}

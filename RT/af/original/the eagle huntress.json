@@ -1,0 +1,104 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_the film's feminist message is hardly subtle, ",
+                0.5015291725394867
+            ],
+            [
+                "3_what's surprising is how fresh and charming the movie manages to be.",
+                0.828397437277781
+            ],
+            [
+                "4_this is a wonderfully realistic film.",
+                0.7469210566163316
+            ],
+            [
+                "8_\"the eagle huntress\" invites, it offers inspiration in equal measure, taking the audience on a beautiful, thrilling journey to a part of the world that isstill largely inaccessible.",
+                0.8554088002339569
+            ],
+            [
+                "10_the film lends itself to grand pronouncements about feminism or animal rights or some combination of the two, ",
+                0.6655429116005172
+            ],
+            [
+                "16_as a movie, \"the eagle huntress\" would have made a great national geographic article.",
+                0.6452390577730985
+            ],
+            [
+                "20_ make \"the eagle huntress\" any less wonderful.",
+                0.6519620887472534
+            ],
+            [
+                "21_as unlikely as it is enchanting, \"the eagle huntress\" tells its documentary story with such sureness that falling under its sway is all ",
+                0.7766408878481206
+            ],
+            [
+                "22_\"the eagle huntress\" is all at once an inspiring story for children of all ages to believe that they can do anything, a reflection of the unfairness of gender roles and a rare and unique look at a remote part of the world.",
+                0.8229055694637308
+            ],
+            [
+                "23_the film, some of which looks staged, is too slick, and its feminist emphasis, complete with australian performer sia singing \"you can do anything\" on the soundtrack, grates.",
+                -0.5428503468706056
+            ],
+            [
+                "24_the movie's restrained second half stuns, ranking as one of the most magical stretches of nonfiction filmmaking in recent years.",
+                0.7646190914486045
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kuksyegyen Almagul": {
+                "args": []
+            },
+            "Aisholpan Nurgaiv": {
+                "args": []
+            },
+            "Daisy Ridley": {
+                "args": [
+                    [
+                        "9_with the exception of light narration by daisy ridley - a nice detail, casting the female jedi in a film very much about girl power - bell",
+                        0.7710789404974469
+                    ]
+                ]
+            },
+            "Boshai Dalaikhan": {
+                "args": []
+            },
+            "Rhys Nurgaiv": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Otto Bell": {
+                "args": [
+                    [
+                        "5_factor in the feel-good story, bell's bracing cinematography, and his meticulous observance of the villagers' customs and environments, and the film becomes a multilayered exploration of dignity, perseverance, and progress.",
+                        0.7557468327659104
+                    ],
+                    [
+                        "9_with the exception of light narration by daisy ridley - a nice detail, casting the female jedi in a film very much about girl power - bell",
+                        0.7710789404974469
+                    ],
+                    [
+                        "13_otto bell's the eagle huntress is everything you could ask for in a documentary, and more.",
+                        0.621868182128684
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jean-Claude La Marre": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Carmen Electra": {
+                "args": []
+            },
+            "Darrin Dewitt Henson": {
+                "args": []
+            },
+            "Robert Ri'chard": {
+                "args": []
+            },
+            "Amy Tardugno": {
+                "args": []
+            },
+            "Imani Hakim": {
+                "args": []
+            },
+            "Ginuwine": {
+                "args": []
+            },
+            "Vivica A. Fox": {
+                "args": []
+            },
+            "Tyson Beckford": {
+                "args": []
+            },
+            "Michael Jai White": {
+                "args": []
+            },
+            "Jean-Claude La Marre": {
+                "args": [
+                    [
+                        "0_the make-it-rain clichés are abundant and jean-claude la marre's direction is pedestrian ...",
+                        0.6115560478909476
+                    ]
+                ]
+            },
+            "Carlito Olivero": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean-Claude La Marre": {
+                "args": [
+                    [
+                        "0_the make-it-rain clichés are abundant and jean-claude la marre's direction is pedestrian ...",
+                        0.6115560478909476
+                    ]
+                ]
+            }
+        }
+    }
+}

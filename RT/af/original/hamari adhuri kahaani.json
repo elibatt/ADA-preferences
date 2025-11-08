@@ -1,0 +1,51 @@
+{
+    "writer": {
+        "entities": {
+            "Mahesh Bhatt": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Vidya Balan": {
+                "args": []
+            },
+            "Emraan Hashmi": {
+                "args": []
+            },
+            "Shraddha Kapoor": {
+                "args": []
+            },
+            "Rajkummar Rao": {
+                "args": []
+            },
+            "Aditya Roy Kapoor": {
+                "args": []
+            },
+            "Sara Khan (V)": {
+                "args": []
+            },
+            "Madhurima Tuli": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mohit Suri": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

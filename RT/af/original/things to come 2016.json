@@ -1,0 +1,134 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sarah Le Picard": {
+                "args": []
+            },
+            "André Marcon": {
+                "args": []
+            },
+            "Isabelle Huppert": {
+                "args": [
+                    [
+                        "1_following her triumph in elle, french screen legend isabelle huppert scores another bullseye with this delicate tale of philosophy professor starting over",
+                        0.6585880378719342
+                    ],
+                    [
+                        "2_ok, now isabelle huppert is just showing off.",
+                        -0.6320201715579836
+                    ],
+                    [
+                        "3_this french drama gives huppert a brilliant, rousseau-quoting character to play around with, and she saunters through the role, finding fresh moments in every scene.",
+                        0.8585000152810425
+                    ],
+                    [
+                        "4_ it has a cumulative effect, thanks equally to hansen-love and huppert.",
+                        0.753614373306017
+                    ],
+                    [
+                        "6_perhaps the most fascinating thing about watching philosophy professor nathalie chazeaux's (isabelle huppert) life crumble is the utter lack of drama accorded to various disasters by both the film and its characters.",
+                        0.5202469849254728
+                    ],
+                    [
+                        "8_, huppert transforms what might have been an unsympathetic role into a character who embodies universal anxieties, desires, weaknesses, and virtues.",
+                        0.5105319064470377
+                    ],
+                    [
+                        "9_suffused with wry humor, vulnerability and radiant warmth, huppert's performance captures that delicate period in life during which resignation morphs into graceful, even grateful, acceptance.",
+                        0.7731379466937711
+                    ],
+                    [
+                        "24_mia hansen-love and isabelle huppert prove a dream partnership in the director's gorgeous, heart-cradling post-divorce drama.",
+                        0.863492597370424
+                    ]
+                ]
+            },
+            "Edith Scob": {
+                "args": []
+            },
+            "Roman Kolinka": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "11_this is an intelligently made film about an intelligent woman, ",
+                0.8442149547885465
+            ],
+            [
+                "13_ the delicacy and intelligence that the film brings to nathalie's situation is always admirable.",
+                0.6918657774588627
+            ],
+            [
+                "18_a film whose subtle satisfactions very much sneak up on you.",
+                0.7476111713393236
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "24_mia hansen-love and isabelle huppert prove a dream partnership in the director's gorgeous, heart-cradling post-divorce drama.",
+                0.863492597370424
+            ]
+        ],
+        "entities": {
+            "Mia Hansen-Løve": {
+                "args": [
+                    [
+                        "5_huppert is extraordinary-she reveals everything even when you think she's showing nothing-and she's the perfect actress, right now, for hansen-løve's fine-grained perceptiveness.",
+                        0.764062777164672
+                    ],
+                    [
+                        "19_one can place hansen-løve's films within a tradition of sporadic and inconvenient character-centric narratives, which can create a vivid sense of life by sidestepping causality",
+                        0.756457359353288
+                    ],
+                    [
+                        "21_it echoes hansen-løve's previous films in her delicate approach to the passing of time and her sensitivity toward life's expectations and disappointments.",
+                        0.7390304353578596
+                    ],
+                    [
+                        "23_convincing proof that mia hansen-løve is one of the best filmmakers on the planet.",
+                        0.8482236880981442
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_this french drama gives huppert a brilliant, rousseau-quoting character to play around with, and she saunters through the role, finding fresh moments in every scene.",
+                0.8585000152810425
+            ],
+            [
+                "8_complementing hansen-love's deft writing and direction",
+                0.7508829783919027
+            ],
+            [
+                "8_, huppert transforms what might have been an unsympathetic role into a character who embodies universal anxieties, desires, weaknesses, and virtues.",
+                0.5105319064470377
+            ],
+            [
+                "19_one can place hansen-løve's films within a tradition of sporadic and inconvenient character-centric narratives, which can create a vivid sense of life by sidestepping causality",
+                0.756457359353288
+            ],
+            [
+                "25_an emotionally observant character study.",
+                0.5729287457708078
+            ]
+        ],
+        "entities": {
+            "Mia Hansen-Løve": {
+                "args": []
+            }
+        }
+    }
+}

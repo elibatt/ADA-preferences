@@ -1,0 +1,196 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Cate Blanchett": {
+                "args": []
+            },
+            "Ryan Gosling": {
+                "args": [
+                    [
+                        "2_this is the one with ryan gosling, and like terrence malick's two previous dramas it's a gauzy, improvised affair that looks like a photo essay out of architectural digest and regards its gorgeous, murmuring actors as if they were statuary.",
+                        0.603902892370324
+                    ]
+                ]
+            },
+            "Linda Emond": {
+                "args": []
+            },
+            "Lykke Li": {
+                "args": []
+            },
+            "Bérénice Marlohe": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": []
+            },
+            "Tom Sturridge": {
+                "args": []
+            },
+            "Holly Hunter": {
+                "args": []
+            },
+            "Christin Sawyer Davis": {
+                "args": []
+            },
+            "Val Kilmer": {
+                "args": []
+            },
+            "Rooney Mara": {
+                "args": []
+            },
+            "Natalie Portman": {
+                "args": []
+            },
+            "Dana Falconberry": {
+                "args": []
+            },
+            "Louanne Stephens": {
+                "args": []
+            },
+            "Olivia Grace Applegate": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "12_another lethal boring and relentlessly inert load of self-indulgent twaddle cut from the same maddening bolt of existential cloth as the texas-based writer-director's other pseudo box-office bombs ...",
+                -0.8515880486031115
+            ],
+            [
+                "20_both fulfill and complicate one of the director's aims, which is to critique the fleeting temptations and soul-crushing consequences of fame, beauty, power and decadence.",
+                0.7223158420786044
+            ],
+            [
+                "27_ even character names seem to be superfluous, prosaic details that can only interfere with the director's lofty vision.",
+                -0.6691348198205171
+            ]
+        ],
+        "entities": {
+            "Terrence Malick": {
+                "args": [
+                    [
+                        "0_as evinced by song to song, malick is operating in top form.",
+                        0.7407517064799077
+                    ],
+                    [
+                        "1_terrence malick's latest film isn't so much a movie as it is a freeform collection of whispers and beseeching looks.",
+                        -0.560108201130772
+                    ],
+                    [
+                        "2_this is the one with ryan gosling, and like terrence malick's two previous dramas it's a gauzy, improvised affair that looks like a photo essay out of architectural digest and regards its gorgeous, murmuring actors as if they were statuary.",
+                        0.603902892370324
+                    ],
+                    [
+                        "4_\"song to song\" is terrence malick's first truly awful film.",
+                        0.521778143990572
+                    ],
+                    [
+                        "5_\"song to song\" isn't the sleepy disappointment malick's last two films were, ",
+                        -0.7057599912044905
+                    ],
+                    [
+                        "8_song to song is slightly less pretentious than malick's last film, the 2015 sigh of ennui knight of cups, ",
+                        -0.5286114061718088
+                    ],
+                    [
+                        "10_\"song to song\" reminds a viewer of what latter-day malick does best ...",
+                        0.8439542985399521
+                    ],
+                    [
+                        "11_song to song is quintessential terrence malick movie",
+                        0.5993820494987449
+                    ],
+                    [
+                        "14_even at his most indulgent, malick brings something to the movies that no one else ever has, a way of looking at the world that is easily imitated ",
+                        0.7211748243958944
+                    ],
+                    [
+                        "15_song to song seems destined to be remembered only by malick's most die-hard fans, who can pore over its semiotic details for years to come.",
+                        0.505041316354369
+                    ],
+                    [
+                        "16_legendary filmmaker terrence malick hits all the wrong notes with this rambling, incoherent love-triangle story set against the austin, texas music scene.",
+                        0.5071014043337698
+                    ],
+                    [
+                        "25_it's unfortunate that malick seems to prefer the rockier approach.",
+                        -0.5609643965358152
+                    ],
+                    [
+                        "29_ malick might want to consider another lengthy hiatus.",
+                        -0.5735476462338879
+                    ],
+                    [
+                        "30_in terms of content and meaningfulness, terrence malick's song to song is the cinematic equivalent of a trump press conference.",
+                        0.5836879981299484
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "12_another lethal boring and relentlessly inert load of self-indulgent twaddle cut from the same maddening bolt of existential cloth as the texas-based writer-director's other pseudo box-office bombs ...",
+                -0.8515880486031115
+            ],
+            [
+                "27_ even character names seem to be superfluous, prosaic details that can only interfere with the director's lofty vision.",
+                -0.6691348198205171
+            ]
+        ],
+        "entities": {
+            "Terrence Malick": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_if only we'd be bothered to do the work of making sense of it.",
+                -0.5224390151003329
+            ],
+            [
+                "3_it's a haunting, doleful meditation on sex, drugs and rock 'n' roll, the type of movie that can deeply move you and leave you wondering why.",
+                0.5725106180133759
+            ],
+            [
+                "7_ others will be exhilarated by a film that's far afield from the usual formulas.",
+                0.6398750341301214
+            ],
+            [
+                "9_\"song to song\" tests its dreamers and wanderers and leaves them a little wiser, maybe, for the experience.",
+                0.5287415183395652
+            ],
+            [
+                "10_place pretty caucasian chalk outlines within a filmic world of such paralyzing beauty that we're prompted to appreciate the reality into which we stagger once the film is over.",
+                0.8163165586246975
+            ],
+            [
+                "17_ the songs needed work.",
+                0.6150307683297491
+            ],
+            [
+                "22_as close to experimental-film parody as a major filmmaker's predilections can get -- woozy shots of slender gods and goddesses in open spaces -- without incurring open laughter.",
+                -0.5049950002502959
+            ],
+            [
+                "26_but connect with the kineticism of song to song,",
+                0.5466436621372373
+            ],
+            [
+                "27_there is only the barest frame of plot in song to song, the particulars of which are often incoherent or vague",
+                -0.5586213339136786
+            ]
+        ]
+    }
+}

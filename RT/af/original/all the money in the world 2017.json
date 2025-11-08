@@ -1,0 +1,195 @@
+{
+    "writer": {
+        "entities": {
+            "David Scarpa": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ridley Scott": {
+                "args": [
+                    [
+                        "14_all the money benefits, in much the same way that scott's similar (and underappreciated)",
+                        0.668831138066469
+                    ],
+                    [
+                        "25_at the 11th-hour, ridley scott worked magic to replace scandal-plagued kevin spacey with christopher plummer, who plays john paul getty with \"magisterial skill\" in this fact-based kidnap thriller.",
+                        0.589634626973228
+                    ],
+                    [
+                        "30_if scott was replacing stars, he might as well have yanked wahlberg while he was at it.",
+                        -0.7380113431066161
+                    ],
+                    [
+                        "32_until the breathless climactic scene, which it effectively conjures from whole cloth, the film feels a little too safe, a reminder of such by-the-numbers scott exercises as \"body of lies\" and \"matchstick men.\"",
+                        0.7570124682331728
+                    ],
+                    [
+                        "35_[ridley scott's] a master showman, and there's plenty to enjoy about the movie's twisted saga, ",
+                        0.7570895828657815
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "14_american gangster did, from the director's expertise at bringing pace and interest to stories he cares enough about to sink his teeth into.",
+                -0.5138394322683352
+            ],
+            [
+                "36_ a tenacious mother (or director) is what ultimately makes the difference.",
+                0.660812447000884
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_this movie may be about the soul-corroding nature of money, and it illustrates that well, ",
+                0.6455990989399547
+            ],
+            [
+                "2_all the money in the world ultimately ends up feeling like a curio, albeit one with hints of something much grander hiding behind those getty estate walls.",
+                -0.617994885522744
+            ],
+            [
+                "4_for a time this movie will probably be best known for the behind-the-scenes drama.",
+                0.7219559089585532
+            ],
+            [
+                "4_ the work itself deserves to endure as one of the better films of 2017.",
+                0.6736494709002638
+            ],
+            [
+                "5_[a] valid, fact-filled and invigorating movie ...",
+                0.62231729493829
+            ],
+            [
+                "6_with the pulsing rhythm of an action thriller and the dank core of a classic film noir, all the money in the world is terrific entertainment that packs a philosophical punch.",
+                0.8286115142480835
+            ],
+            [
+                "17_for a project that aims to hook mature and discerning adult moviegoers that other studios have left behind, all the money in the world is, frankly, so very stupid.",
+                -0.6030669382809148
+            ],
+            [
+                "20_plummer elevates the film in his last-minute ",
+                0.5784500838838526
+            ],
+            [
+                "26_getty's complicated personality is the meat of the matter, and where the movie really does a good job is digging into themes of greed, family and those so rich they think of other people as things.",
+                0.6647246387433201
+            ],
+            [
+                "31_everything and everyone has a price, the film suggests, in ways that are far from subtle, ",
+                0.7466901021465964
+            ],
+            [
+                "33_the film's an impressive accomplishment, on several levels.",
+                0.820475049142682
+            ],
+            [
+                "36_the film reminds us that, onscreen and off, bumps along the road of life can often be surmounted by money carefully applied, ",
+                0.5903681936119055
+            ],
+            [
+                "38_ the rest of the film is not as worthy.",
+                -0.5021338748675767
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Andrew Buchan": {
+                "args": []
+            },
+            "Timothy Hutton": {
+                "args": []
+            },
+            "Charlie Plummer": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": [
+                    [
+                        "10_when getty isn't on-screen, the movie is a bit of a bore and it doesn't help that mark wahlberg is woefully miscast and the thriller elements are anything ",
+                        -0.7948365684821225
+                    ],
+                    [
+                        "30_if scott was replacing stars, he might as well have yanked wahlberg while he was at it.",
+                        -0.7380113431066161
+                    ]
+                ]
+            },
+            "Romain Duris": {
+                "args": [
+                    [
+                        "3_we get a thriller, of sorts, and a crime movie, of sorts (romain duris, as a kidnapper, gives the most appealing performance).",
+                        0.6909621990697393
+                    ]
+                ]
+            },
+            "Christopher Plummer": {
+                "args": [
+                    [
+                        "23_ and plummer is remarkably good in it.",
+                        0.7527261086728338
+                    ],
+                    [
+                        "25_at the 11th-hour, ridley scott worked magic to replace scandal-plagued kevin spacey with christopher plummer, who plays john paul getty with \"magisterial skill\" in this fact-based kidnap thriller.",
+                        0.589634626973228
+                    ],
+                    [
+                        "27_it's a great performance in an enjoyable movie whose inconsistencies never quite allow it to reach plummer's heights.",
+                        0.8701422909388872
+                    ],
+                    [
+                        "34_as today's tax-bill headlines deepen the sense that oblivious, wealth-obsessed old men are holding progress in captivity, the film (and its late infusion of talent capital in the form of plummer) makes a valid case to be the movie of this miserly moment.",
+                        0.7313040208385009
+                    ]
+                ]
+            },
+            "Michelle Williams": {
+                "args": [
+                    [
+                        "7_plummer delivers brilliance in what had to be record time, and every person sharing a scene with plummer - michelle williams and mark wahlberg, in particular - comes in fresh and spontaneous, responding anew to another actor's completely different energy.",
+                        0.7762668721025122
+                    ],
+                    [
+                        "13_if you're an admirer of ms. williams's work, and who isn't, you're in for a surprise as well as a treat.",
+                        0.7131482529694336
+                    ],
+                    [
+                        "19_it's williams' tightly wound, calculating performance that juices the movie's thrill ride of a last hour, and turns it into a revelation.",
+                        0.6877818795817509
+                    ],
+                    [
+                        "29_scott brings the ancient city's grandeur to bear on a story about the corrupting power of wealth, drawing fine performances from mark wahlberg and michelle williams.",
+                        0.8265300531678509
+                    ],
+                    [
+                        "38_plummer's scenes with co-star michelle williams -- delivering another strong, understated performance -- are worth the price of admission.",
+                        0.8329412772533213
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "8_the cast seems over all unguided, left to their own devices, as if each were acting alone in a booth, and the drama is similarly detached and hermetic.",
+                -0.6053642077746823
+            ],
+            [
+                "20_ fully realized performance as j. paul getty.",
+                0.6597389008239735
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

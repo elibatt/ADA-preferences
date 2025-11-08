@@ -1,0 +1,92 @@
+{
+    "writer": {
+        "entities": {
+            "Reginald Rose": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "John Fiedler": {
+                "args": []
+            },
+            "George Voskovec": {
+                "args": []
+            },
+            "Jack Warden": {
+                "args": []
+            },
+            "Joseph Sweeney": {
+                "args": []
+            },
+            "Martin Balsam": {
+                "args": []
+            },
+            "Billy Nelson": {
+                "args": []
+            },
+            "John Savoca": {
+                "args": []
+            },
+            "Robert Webber": {
+                "args": []
+            },
+            "Rudy Bond": {
+                "args": []
+            },
+            "Jack Klugman": {
+                "args": []
+            },
+            "James A. Kelly": {
+                "args": []
+            },
+            "Lee J. Cobb": {
+                "args": []
+            },
+            "Ed Begley Sr.": {
+                "args": []
+            },
+            "Edward Binns": {
+                "args": []
+            },
+            "E.G. Marshall": {
+                "args": []
+            },
+            "Henry Fonda": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the film leaves a tremendous impact.",
+                0.6573466063995718
+            ],
+            [
+                "5_this is a film where tension comes from personality conflict, dialogue and body language, not action.",
+                0.5619698808397395
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sidney Lumet": {
+                "args": [
+                    [
+                        "0_ until then, lumet's window into strained civic duty will continue to serve mightily.",
+                        -0.5673931507729285
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

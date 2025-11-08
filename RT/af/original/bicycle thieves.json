@@ -1,0 +1,142 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Memmo Carotenuto": {
+                "args": []
+            },
+            "Lianella Carell": {
+                "args": []
+            },
+            "Elena Altieri": {
+                "args": []
+            },
+            "Lamberto Maggiorani": {
+                "args": []
+            },
+            "Giulio Chiari": {
+                "args": []
+            },
+            "Nando Bruno": {
+                "args": []
+            },
+            "Vittorio Antonucci": {
+                "args": []
+            },
+            "Sergio Leone": {
+                "args": []
+            },
+            "Enzo Staiola": {
+                "args": []
+            },
+            "Fausto Guerzoni": {
+                "args": []
+            },
+            "Mario Meniconi": {
+                "args": []
+            },
+            "Gino Saltamerenda": {
+                "args": []
+            },
+            "Umberto Spadaro": {
+                "args": []
+            },
+            "Michele Sakara": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_decades later, you can see the influence of bicycle thieves everywhere, in a variety of genres and languages.",
+                0.7119567158839873
+            ],
+            [
+                "2_undeniably the most important neorealist film after rossellini's open city.",
+                0.7733540973287311
+            ],
+            [
+                "5_this film manages to appeal to the better angels of our nature in a way that only deepens as we grow older along with the film.",
+                0.8380509367761046
+            ],
+            [
+                "9_simplicity is at the heart of the bicycle thief, as it is with so many films that endure.",
+                0.8044306750556357
+            ],
+            [
+                "10_the bicycle thief is so well-entrenched as an official masterpiece that it is a little startling to visit it again after many years and realize that it is still alive and has strength and freshness.",
+                0.8271743621112193
+            ],
+            [
+                "11_the bicycle thief is one of those wonderful titles whose power does not sink in until the film is over.",
+                0.7817378376068359
+            ],
+            [
+                "12_, the bicycle thief is an allegory at once timeless and topical.",
+                0.6758136841084149
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Vittorio De Sica": {
+                "args": [
+                    [
+                        "1_the work of screenwriter cesare zavattini, director vittorio de sica, the nonprofessional actors, and many others is so charged with a common purpose that there's no point in even trying to separate their achievements.",
+                        0.5604399356389445
+                    ],
+                    [
+                        "3_de sica carefully balances a generally tragic sensibility with a quiet undercurrent of hope, all the while sucking us into the story with the sheer urgency of the search for a stolen bicycle.",
+                        0.7851764760031319
+                    ],
+                    [
+                        "6_ rather for the bombed-out buildings of postwar italy, peripheral details that director vittorio de sica insisted on.",
+                        0.5844011207228996
+                    ],
+                    [
+                        "7_de sica's neo-realist lodestone may have retained its vitality over the decades, ",
+                        0.5994857003372113
+                    ],
+                    [
+                        "8_again the italians have sent us a brilliant and devastating film in vittorio de sica's rueful drama of modern city life, the bicycle thief.",
+                        0.7634767554806402
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Oreste Biancoli": {
+                "args": []
+            },
+            "Adolfo Franci": {
+                "args": []
+            },
+            "Suso Cecchi d'Amico": {
+                "args": []
+            },
+            "Vittorio De Sica": {
+                "args": []
+            },
+            "O. Biancoli": {
+                "args": []
+            },
+            "Cesare Zavattini": {
+                "args": [
+                    [
+                        "1_the work of screenwriter cesare zavattini, director vittorio de sica, the nonprofessional actors, and many others is so charged with a common purpose that there's no point in even trying to separate their achievements.",
+                        0.5604399356389445
+                    ]
+                ]
+            }
+        }
+    }
+}

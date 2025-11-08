@@ -1,0 +1,127 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jack Creley": {
+                "args": []
+            },
+            "Laurence Herder": {
+                "args": []
+            },
+            "Shane Rimmer": {
+                "args": []
+            },
+            "Slim Pickens": {
+                "args": []
+            },
+            "Frank Berry": {
+                "args": []
+            },
+            "John McCarthy": {
+                "args": []
+            },
+            "Peter Bull": {
+                "args": []
+            },
+            "Sterling Hayden": {
+                "args": []
+            },
+            "Tracy Reed": {
+                "args": []
+            },
+            "Keenan Wynn": {
+                "args": []
+            },
+            "George C. Scott": {
+                "args": []
+            },
+            "James Earl Jones": {
+                "args": []
+            },
+            "Peter Sellers": {
+                "args": []
+            },
+            "Hal Galili": {
+                "args": []
+            },
+            "Roy Stephens": {
+                "args": []
+            },
+            "Robert Vincent O'Neil": {
+                "args": []
+            },
+            "Paul Tamarin": {
+                "args": []
+            },
+            "Glenn Beck": {
+                "args": []
+            },
+            "Gordon Tanner": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_this landmark movie's madcap humor and terrifying suspense remain undiminished by time.",
+                0.5622265907173921
+            ],
+            [
+                "7_the film is always saying something, and a viewer would have to be deaf and blind not to recognize the targets of the sarcasm.",
+                -0.5948173422590829
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stanley Kubrick": {
+                "args": [
+                    [
+                        "0_by a whopping margin, this is kubrick's most radical film and greatest dramatic gamble.",
+                        0.7870070614012092
+                    ],
+                    [
+                        "1_like most of his work, stanley kubrick's deadly black satirical comedy-thriller on cold war madness and its possible effects (1964) has aged well.",
+                        0.5159208138251181
+                    ],
+                    [
+                        "2_perhaps kubrick's most perfectly realised film, simply because his cynical vision of the progress of technology and human stupidity is wedded with comedy.",
+                        0.71429587032611
+                    ],
+                    [
+                        "4_stanley kubrick's blackest of black comedies.",
+                        0.571226079815554
+                    ],
+                    [
+                        "5_is dr. strangelove kubrick's best movie?",
+                        0.8594532745412667
+                    ],
+                    [
+                        "6_stanley kubrick's first genuinely original movie has been seen, reseen, dissected, and iconized, ",
+                        0.715984218505112
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Terry Southern": {
+                "args": []
+            },
+            "Peter George": {
+                "args": []
+            },
+            "Stanley Kubrick": {
+                "args": []
+            }
+        }
+    }
+}

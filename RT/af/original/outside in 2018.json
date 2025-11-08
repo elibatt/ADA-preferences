@@ -1,0 +1,130 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this is an conversation- and character-driven film with an occasional eye for something more ineffable, ",
+                0.7756478119127763
+            ],
+            [
+                "8_exploring big questions through small, intimate moments, \"outside in\" is a love story that prioritizes patience and pragmatism over passion.",
+                0.78863826282912
+            ],
+            [
+                "13_a love story whose resolution remains tough to predict, outside in respects all its characters by not pretending their choices are easily made.",
+                0.7200573161826925
+            ],
+            [
+                "14_a breezy, earnest film about powerful connections and lost time, ",
+                0.6145885659971981
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lynn Shelton": {
+                "args": [
+                    [
+                        "0_director lynn shelton brings a high empathic bar to outside",
+                        0.6195275988558937
+                    ],
+                    [
+                        "2_[lynn shelton's] actors are always natural and unaffected, ",
+                        0.6001638215030556
+                    ],
+                    [
+                        "5_another one of shelton's delightfully untucked meanders into the crossroads of lives, outside",
+                        0.5992202415343205
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Aaron Blakely": {
+                "args": []
+            },
+            "Ben Schwartz": {
+                "args": []
+            },
+            "Edie Falco": {
+                "args": [
+                    [
+                        "4_ falco's performance is strong enough to make the film compelling even in its softest moments.",
+                        0.6185020011901616
+                    ],
+                    [
+                        "9_what elevates this lovely film above the run of the mill is falco's heartbreaking, note-perfect performance.",
+                        0.8132255618143703
+                    ],
+                    [
+                        "10_the quiet, dark tableaux fit the subject matter well, and falco is reliably strong as a woman in the throes of a moral dilemma.",
+                        0.7529088890825022
+                    ]
+                ]
+            },
+            "Jay Duplass": {
+                "args": [
+                    [
+                        "2_ in [edie] falco and [jay] duplass, she's found interpreters who seem to breathe her characters.",
+                        -0.702803303350105
+                    ],
+                    [
+                        "3_ falco and duplass's complicated, nakedly searching performances are the main event.",
+                        0.7035769176426099
+                    ],
+                    [
+                        "12_jay duplass and edie falco anchor the movie with some of the very best performances in both of their careers.",
+                        0.9570969655998299
+                    ],
+                    [
+                        "15_shelton and duplass lend every significant character a sense of uncontrived evolution, leading to a finale that is stirring precisely for being so tentative and reserved.",
+                        0.6481443693816537
+                    ]
+                ]
+            },
+            "Kaitlyn Dever": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_this is an conversation- and character-driven film with an occasional eye for something more ineffable, ",
+                0.7756478119127763
+            ]
+        ],
+        "entities": {
+            "Lynn Shelton": {
+                "args": []
+            },
+            "Jay Duplass": {
+                "args": [
+                    [
+                        "2_ in [edie] falco and [jay] duplass, she's found interpreters who seem to breathe her characters.",
+                        -0.702803303350105
+                    ],
+                    [
+                        "3_ falco and duplass's complicated, nakedly searching performances are the main event.",
+                        0.7035769176426099
+                    ],
+                    [
+                        "12_jay duplass and edie falco anchor the movie with some of the very best performances in both of their careers.",
+                        0.9570969655998299
+                    ],
+                    [
+                        "15_shelton and duplass lend every significant character a sense of uncontrived evolution, leading to a finale that is stirring precisely for being so tentative and reserved.",
+                        0.6481443693816537
+                    ]
+                ]
+            }
+        }
+    }
+}

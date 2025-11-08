@@ -1,0 +1,104 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_this speaks to winchester's overall failure of imagination-it's the sort of forgettable movie that could have been a memorable one.",
+                0.5457333024838368
+            ],
+            [
+                "2_in \"winchester,\" the spierigs have made a blunt and pissy american political film about the national curse of firearms and the unslaked, violent, destructive anger of the defeated confederacy.",
+                0.7293323252473617
+            ],
+            [
+                "5_the winchester mystery house deserves a little better than \"winchester.\"",
+                0.6066544927329532
+            ],
+            [
+                "6_even the scares, too infrequent for this type of film, have a consistent misdirection that becomes tired and predictable.",
+                -0.7377905202642657
+            ],
+            [
+                "7_all that speculative fun has been shaped into a rather clunky, derivative bit of supernatural claptrap: a haunted house movie curiously low on mystery or honest scares.",
+                -0.5974670661483282
+            ],
+            [
+                "9_having laid out an unusually intricate and politically charged puzzle, \"winchester\" proceeds to solve it in the clunkiest, most perfunctory way imaginable.",
+                0.6014635731916791
+            ],
+            [
+                "10_what winchester lacks in originality its creators amply make up for in execution.",
+                0.6854002893749174
+            ],
+            [
+                "11_winchester draws on a fascinating true story ",
+                0.7576166534102999
+            ],
+            [
+                "12_ the film seems slightly nuts.",
+                0.5436541298807398
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Spierig": {
+                "args": []
+            },
+            "Peter Spierig": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Helen Mirren": {
+                "args": [
+                    [
+                        "1_it shouldn't happen to anyone, much less a dame - not a movie of such barreling awfulness that it strands the great helen mirren in a gothic house of cards that collapses on actors and audiences alike.",
+                        0.5188108562672722
+                    ],
+                    [
+                        "3_you watch \"winchester\" thinking about the movie that might have been, and wishing that those ghosts would transport mirren into that movie, immediately.",
+                        -0.7850005690056208
+                    ],
+                    [
+                        "8_ms. mirren and her representatives are probably hoping the movie will do likewise.",
+                        0.5375240834890881
+                    ]
+                ]
+            },
+            "Angus Sampson": {
+                "args": []
+            },
+            "Finn Scicluna-O'Prey": {
+                "args": []
+            },
+            "Jason Clarke": {
+                "args": []
+            },
+            "Sarah Snook": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tom Vaughan": {
+                "args": []
+            },
+            "Michael Spierig": {
+                "args": []
+            },
+            "Peter Spierig": {
+                "args": []
+            }
+        }
+    }
+}

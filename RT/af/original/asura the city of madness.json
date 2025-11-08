@@ -1,0 +1,46 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jung Woo-sung": {
+                "args": []
+            },
+            "Jung Man-sik": {
+                "args": []
+            },
+            "Kwak Do-won": {
+                "args": []
+            },
+            "Ju Ji-hun": {
+                "args": []
+            },
+            "Jung-min Hwang": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kim Sung-soo": {
+                "args": [
+                    [
+                        "2_splattered with korean aesthetics of troglodytic violence and blighted by irredeemable characters, kim sung-soo's asura:",
+                        0.6041012138944427
+                    ]
+                ]
+            }
+        }
+    }
+}

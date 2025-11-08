@@ -1,0 +1,168 @@
+{
+    "writer": {
+        "args": [
+            [
+                "3_murphy is fine as the title character, ",
+                0.5795899478070249
+            ],
+            [
+                "3_ then neither does the script.",
+                -0.6800642632243393
+            ],
+            [
+                "4_somehow murphy manages to lift his dignified, all-knowing servant character off the page, giving a meticulously composed performance in a vehicle that can't help ",
+                -0.5638245452299986
+            ]
+        ],
+        "entities": {
+            "Susan McMartin": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_if only the film were better.",
+                -0.548944412093777
+            ],
+            [
+                "6_maybe this guarded performance in a lousy movie is a sign of him wanting to do something better.",
+                -0.7067568967772594
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "2_ affecting performance is filled with loaded and loving glances.",
+                0.8156273647742701
+            ],
+            [
+                "3_ his performance consists mostly of suppressing all of his usual shtick.",
+                -0.5166879955380234
+            ],
+            [
+                "6_maybe this guarded performance in a lousy movie is a sign of him wanting to do something better.",
+                -0.7067568967772594
+            ]
+        ],
+        "entities": {
+            "Xavier Samuel": {
+                "args": []
+            },
+            "Sara Shearer": {
+                "args": []
+            },
+            "Tatum Abbott": {
+                "args": []
+            },
+            "Nick Austin": {
+                "args": []
+            },
+            "Natascha McElhone": {
+                "args": []
+            },
+            "Lucy Fry": {
+                "args": []
+            },
+            "Eddie Murphy": {
+                "args": [
+                    [
+                        "4_somehow murphy manages to lift his dignified, all-knowing servant character off the page, giving a meticulously composed performance in a vehicle that can't help ",
+                        -0.5638245452299986
+                    ],
+                    [
+                        "8_this mirthless eddie murphy vehicle from the director of 'driving miss daisy' is rife with hoary 'magical negro' stereotypes.",
+                        -0.5761772199186579
+                    ]
+                ]
+            },
+            "Aileen Burdock": {
+                "args": []
+            },
+            "Dora Winifred": {
+                "args": []
+            },
+            "Paul Archer": {
+                "args": []
+            },
+            "Madison Wolfe": {
+                "args": []
+            },
+            "Adriana Leonard": {
+                "args": []
+            },
+            "Michael Leone": {
+                "args": []
+            },
+            "Britt Robertson": {
+                "args": []
+            },
+            "Francisco Javier Gomez": {
+                "args": []
+            },
+            "Thom Barry": {
+                "args": []
+            },
+            "Jenica Bergere": {
+                "args": []
+            },
+            "Christian Madsen": {
+                "args": []
+            },
+            "Shawnee Witt": {
+                "args": []
+            },
+            "Kelly Lester": {
+                "args": []
+            },
+            "Kathleen McMartin": {
+                "args": []
+            },
+            "Roger E. Reid": {
+                "args": []
+            },
+            "Darius Cottrell": {
+                "args": []
+            },
+            "Dakota Lustick": {
+                "args": []
+            },
+            "Lincoln Melcher": {
+                "args": []
+            },
+            "McKenna Grace": {
+                "args": []
+            },
+            "Natalie Coughlin": {
+                "args": []
+            },
+            "Wyatt Carnel": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "8_this mirthless eddie murphy vehicle from the director of 'driving miss daisy' is rife with hoary 'magical negro' stereotypes.",
+                -0.5761772199186579
+            ]
+        ],
+        "entities": {
+            "Bruce Beresford": {
+                "args": [
+                    [
+                        "1_after helming this, an episode of roots and best picture-winner driving miss daisy, beresford should be forced to join 'subservient cinematic negroes anonymous.'",
+                        0.5025884649015376
+                    ]
+                ]
+            }
+        }
+    }
+}

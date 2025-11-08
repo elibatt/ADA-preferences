@@ -1,0 +1,144 @@
+{
+    "writer": {
+        "args": [
+            [
+                "4_ it's mostly lost in a storyline that tries way too hard to be outlandish.",
+                -0.8326560231356613
+            ],
+            [
+                "8_sam rockwell applies his usual deft touch to the title character, whose born-again ministry is founded on his dubious excavation of religious relics in israel, ",
+                0.692057639999335
+            ]
+        ],
+        "entities": {
+            "Jared Hess": {
+                "args": []
+            },
+            "Jerusha Hess": {
+                "args": [
+                    [
+                        "13_no one is spared the righteous comic wrath of the director jared hess, in this wild satire about the exploitation of christian faith by christians and others.",
+                        -0.5016300895862753
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_but when don verdean's barbs land,",
+                -0.5211160319089266
+            ],
+            [
+                "10_this may well be the year's most tepid movie, in any genre-the cinematic equivalent of flat, warm soda pop.",
+                0.6269826760978937
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Pete Rockwell": {
+                "args": []
+            },
+            "P.J. Boudousqué": {
+                "args": []
+            },
+            "Angel Martinez Cruz": {
+                "args": []
+            },
+            "Jemaine Clement": {
+                "args": []
+            },
+            "Harry Bonner": {
+                "args": []
+            },
+            "Stelios Xanthos": {
+                "args": []
+            },
+            "Will Forte": {
+                "args": []
+            },
+            "Stephen Park": {
+                "args": []
+            },
+            "Steve Park": {
+                "args": []
+            },
+            "Amy Ryan": {
+                "args": [
+                    [
+                        "2_the film employs and immediately squanders the talents of legitimate comedy all-stars amy ryan, danny mcbride, jemaine clement and will forte.",
+                        -0.5470705821609021
+                    ],
+                    [
+                        "3_even with the likes of amy ryan and will forte providing capable backup, it all grows ancient, fast.",
+                        0.7450580518047316
+                    ]
+                ]
+            },
+            "Michael Flynn": {
+                "args": []
+            },
+            "Jake Van Wagoner": {
+                "args": []
+            },
+            "Danny McBride (IV)": {
+                "args": []
+            },
+            "Sky Elobar": {
+                "args": []
+            },
+            "Nicea DeGering": {
+                "args": []
+            },
+            "Justin Chapman": {
+                "args": []
+            },
+            "Yaniv Moyal": {
+                "args": []
+            },
+            "Jared Shipley": {
+                "args": []
+            },
+            "Logan Rogan": {
+                "args": []
+            },
+            "Mitchell Hall": {
+                "args": []
+            },
+            "Brent Hunsaker": {
+                "args": []
+            },
+            "Leslie Bibb": {
+                "args": []
+            },
+            "Sam Rockwell": {
+                "args": [
+                    [
+                        "8_sam rockwell applies his usual deft touch to the title character, whose born-again ministry is founded on his dubious excavation of religious relics in israel, ",
+                        0.692057639999335
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jared Hess": {
+                "args": [
+                    [
+                        "13_no one is spared the righteous comic wrath of the director jared hess, in this wild satire about the exploitation of christian faith by christians and others.",
+                        -0.5016300895862753
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Cédric Monnet": {
+                "args": []
+            },
+            "Diane Lane": {
+                "args": [
+                    [
+                        "15_diane lane is irresistible in this delightful love-triangle that costars the french countryside, looking so delicious you want to lick the screen.",
+                        0.6621363794631063
+                    ],
+                    [
+                        "17_diane lane has plenty of both ...",
+                        0.6841466555004482
+                    ]
+                ]
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "Arnaud Viard": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Eleanor Coppola": {
+                "args": [
+                    [
+                        "3_perhaps worst of all are the limited expectations coppola has for her own heroine.",
+                        -0.5769058428776404
+                    ],
+                    [
+                        "7_eleanor coppola must have made many sacrifices for her husband's art, ",
+                        0.7530248916780492
+                    ],
+                    [
+                        "15_director eleanor coppola is 80, ",
+                        -0.5026023208880168
+                    ],
+                    [
+                        "16_if nothing else, [coppola] has proven that she can keep up with the other members of her famous clan.",
+                        -0.5722860095023854
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_the only missing ingredients are truly likable lead characters and something approaching an involving storyline.",
+                -0.6788185652983626
+            ],
+            [
+                "20_tery wonders of french cuisine and whisper-light on storyline.",
+                0.737436971632169
+            ]
+        ],
+        "entities": {
+            "Eleanor Coppola": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"paris can wait\" isn't exactly a feast, ",
+                0.5327115126252383
+            ],
+            [
+                "3_it's hard to love a movie where a woman finds herself from the passenger seat.",
+                0.6487812369290382
+            ],
+            [
+                "4_the film carries us along on a journey with people you would never want to have in your carpool.",
+                0.7059120653162033
+            ],
+            [
+                "5_it would be cheering to report that it's a great movie, ",
+                0.6866217449900521
+            ],
+            [
+                "8_paris can wait is wealthy empty nester porn ...",
+                -0.6376331597505039
+            ],
+            [
+                "9_\"paris can wait\" is a modest, genteel piece of cinematic escapism, a silky testament to sensuality as impeccably tasteful as it is utterly undemanding.",
+                0.7404248472615201
+            ],
+            [
+                "10_\"paris can wait\" feels more like a cinematic adaptation of a frommer's travel guide than an actual movie.",
+                -0.5528456247744373
+            ],
+            [
+                "17_sometimes beauty and charm are enough to turn a middling movie into pure ambrosia.",
+                0.7532681097922396
+            ]
+        ]
+    }
+}

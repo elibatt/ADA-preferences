@@ -1,0 +1,93 @@
+{
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Héctor Bonilla": {
+                "unique_args": []
+            },
+            "Zamia Fandiño": {
+                "unique_args": []
+            },
+            "Sergio Bonilla": {
+                "unique_args": []
+            },
+            "Jaime Del Aguila": {
+                "unique_args": []
+            },
+            "Camila Selser": {
+                "unique_args": []
+            },
+            "Octavio Anza": {
+                "unique_args": []
+            },
+            "Sergio Mayer Mori": {
+                "unique_args": []
+            },
+            "Eduardo Tanus": {
+                "unique_args": []
+            },
+            "Natália Subtil": {
+                "unique_args": []
+            },
+            "Benny Ibarra": {
+                "unique_args": []
+            },
+            "Tina French": {
+                "unique_args": []
+            },
+            "Raúl Adalid": {
+                "unique_args": []
+            },
+            "Jacqueline Bracamontes": {
+                "unique_args": []
+            },
+            "Arturo Barba": {
+                "unique_args": []
+            },
+            "Tim Ross": {
+                "unique_args": []
+            },
+            "Yulian Diaz": {
+                "unique_args": []
+            },
+            "Sandra Sanchez Cantu": {
+                "unique_args": []
+            },
+            "Gabriel Nuncio": {
+                "unique_args": []
+            },
+            "Ricardo González": {
+                "unique_args": []
+            },
+            "Yulian Diaz Carbonell": {
+                "unique_args": []
+            },
+            "Rafael Simón": {
+                "unique_args": []
+            }
+        }
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Raul Martinez": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    },
+    "film": {
+        "unique_args": []
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Alberto Bremer": {
+                "unique_args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_perlman seems that rare sort: a virtuoso at peace with god, neighbor, and himself, a man who suffered much in youth, and then triumphed over that suffering to make a happy, ordinary life.",
+                0.7147676833876666
+            ],
+            [
+                "1_we get to know the man: the jovial grandfather, the joke teller, the dedicated husband, the patient teacher and loyal friend...",
+                0.6573013311436995
+            ],
+            [
+                "2_little by little, a life richly lived in music unfolds.",
+                0.7430806921685579
+            ],
+            [
+                "3_music hangs in the air throughout the film.",
+                0.6111536466402169
+            ],
+            [
+                "4_ it's also persuasive enough to create new fans.",
+                0.5250146018855395
+            ],
+            [
+                "4_it's just impossible not to like this guy.",
+                -0.777876333124838
+            ],
+            [
+                "5_ she also reveals a personality as expressive as his musicianship.",
+                0.6544777812841114
+            ],
+            [
+                "7_ quite enjoyable, thanks to its subject's warmth and charm.",
+                0.8716157331095544
+            ],
+            [
+                "8_as a portrait of a marriage forged in respect, love and companionship, \"itzhak\" is in its casually wonderful way proof that life is rarely lived as a virtuosic solo.",
+                0.9279789263458254
+            ],
+            [
+                "9_a joyous film about a joyous man.",
+                0.662276654943894
+            ],
+            [
+                "11_ the filmmaker never digs deeply enough to reveal any other substantial dimension of this man, or her theories about what shaped him.",
+                0.5280287759682019
+            ],
+            [
+                "12_good music and good company make \"itzhak\" a pleasure, ",
+                0.873875441584528
+            ],
+            [
+                "12_ those seeking a methodical career overview should look elsewhere than this genial personality sketch of the world-famous violinist.",
+                0.672105970755822
+            ],
+            [
+                "13_despite its many engaging moments,",
+                0.6060557139572678
+            ],
+            [
+                "13_ itzhak will likely prove frustrating for viewers desiring more information.",
+                0.5139262847300585
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Alison Chernick": {
+                "args": [
+                    [
+                        "5_director alison chernick profiles the violin virtuoso, through his performance, of course, ",
+                        0.6712022703183986
+                    ],
+                    [
+                        "6_if alison chernick's \"itzhak,\" a documentary about the great violinist itzhak perlman, had a musical tempo designation, it would probably be \"a capriccio\" (italian for \"following one's fancy\").",
+                        0.6986051653279505
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Billy Joel": {
+                "args": []
+            },
+            "Toby Perlman": {
+                "args": []
+            },
+            "Alan Alda": {
+                "args": []
+            },
+            "Itzhak Perlman": {
+                "args": [
+                    [
+                        "4_\"itzhak\" is ideal for perlman fans, ",
+                        0.7156086245950672
+                    ],
+                    [
+                        "6_if alison chernick's \"itzhak,\" a documentary about the great violinist itzhak perlman, had a musical tempo designation, it would probably be \"a capriccio\" (italian for \"following one's fancy\").",
+                        0.6986051653279505
+                    ],
+                    [
+                        "10_think of itzhak as a revealing scrapbook of perlman's favorite stories.",
+                        0.7448338383039946
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "5_director alison chernick profiles the violin virtuoso, through his performance, of course, ",
+                0.6712022703183986
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    }
+}

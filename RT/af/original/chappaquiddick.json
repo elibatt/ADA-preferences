@@ -1,0 +1,178 @@
+{
+    "acting": {
+        "args": [
+            [
+                "16_clarke's terrific performance...embodies several aspects of the character, sometimes all at once.",
+                0.7618205164860626
+            ]
+        ],
+        "entities": {
+            "Andria Blackman": {
+                "args": []
+            },
+            "Bruce Dern": {
+                "args": []
+            },
+            "Olivia Thirlby": {
+                "args": []
+            },
+            "Clancy Brown": {
+                "args": []
+            },
+            "Taylor Nichols": {
+                "args": []
+            },
+            "Jason Clarke": {
+                "args": [
+                    [
+                        "19_rather than simply point out that the famous man did a bad thing, clarke's kennedy is something more elemental, a snapshot of a failure of all the things masculinity was and to some degree is still billed as.",
+                        -0.663079883420731
+                    ],
+                    [
+                        "24_we've been so awash in hackneyed kennedy brogues and caricatured portrayals that clarke's performance -- stout, nuanced, understated almost to a fault -- is an unexpected relief.",
+                        0.5568621834418166
+                    ],
+                    [
+                        "27_first-time screenwriters taylor allen and andrew logan's tight script sticks mostly to the well-documented facts and aftermath, and clarke lets his teddy live in the tricky place between sympathy and straight villain-hood.",
+                        0.7407020006776974
+                    ],
+                    [
+                        "29_[jason] clarke does wonders with the material, adding new dimensions and layers between what hit the screen and what lingered just out of frame.",
+                        0.63479886482898
+                    ]
+                ]
+            },
+            "Jim Gaffigan": {
+                "args": []
+            },
+            "Ed Helms": {
+                "args": []
+            },
+            "Kate Mara": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_in the end chappaquiddick will have to pass the same test as kennedy's original version of the story-whether or not anyone will buy it.",
+                -0.5232486539402776
+            ],
+            [
+                "2_if you're looking for something to make you feel good about chubby, cherubic ted, the venerable lion of the senate, this is not your movie.",
+                0.5996798395596596
+            ],
+            [
+                "3_a film of integrity and disclosure, a controversial chapter in american history that substitutes clinical accuracy for hollywood embellishment, with an impressive attention to detail and an admirable respect for suspenseful narrative.",
+                0.8815020656648842
+            ],
+            [
+                "5_chappaquiddick is heavy-handed history, a film that at times seems to owe as much to the x-files as the many cinematic dives into the target-rich territory that is the kennedy clan.",
+                -0.5262781232721824
+            ],
+            [
+                "6_for those who are drawn to re-creations of historical controversies that pack more gravitas and outright tragedy, chappaquiddick could prove satisfying enough, especially with the in-vogue-again kennedy clan at the center.",
+                0.7479681372201605
+            ],
+            [
+                "9_and, as this terrific movie suggests, the american people fall for their polished bs every time.",
+                0.7937389251440624
+            ],
+            [
+                "10_in the final analysis \"chappaquiddick\" is the story of a weak man.",
+                -0.6337537752788713
+            ],
+            [
+                "11_but small lapses, together with the confusions and glib evasions of a production that is neither fact nor fiction, raise the larger question of what the film is,",
+                -0.5727854318744747
+            ],
+            [
+                "14_it's a film looking to challenge america's gauzy perception of the country's most famous political family, loaded with all the bleakness that task requires.",
+                0.723492392091336
+            ],
+            [
+                "15_chappaquiddick\" misses that target.",
+                -0.6793960014975784
+            ],
+            [
+                "17_instead of scandal, this questing film examines the broken moral compass of a driven politician.",
+                0.6200540025574236
+            ],
+            [
+                "18_whether or not events actually unfolded this way, the story the film tells is an interesting and complicated character study, with something to say about the corrosive effects of power and privilege on both the innocent and the guilty.",
+                0.75821443987006
+            ],
+            [
+                "25_curran's film, often enthralling and upsetting, represents a welcome break in the hagiographic treatment the longtime lion of the senate enjoyed in the years leading up to his 2009 death.",
+                0.8950470144601723
+            ],
+            [
+                "26_here is a family that entrenched itself in the american imagination by campaigning on symbolism, and chappaquiddick hits its better strides when it turns the camera on the relationship between its stars and script doctors.",
+                0.7658522962342402
+            ],
+            [
+                "31_\"chappaquiddick\" is exactly what you want it to be: a tense, scrupulous, absorbingly precise and authentic piece of history - a tabloid scandal attached to a smoke-filled-room travesty.",
+                0.6172295328655627
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Curran": {
+                "args": [
+                    [
+                        "22_john curran's gripping story about a 50-year-old scandal has plenty to say about modern politics.",
+                        0.7905851015651646
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_a political biopic's most difficult target lies in the elusive circle above character assassination and below hagiography. \"",
+                0.6184043182476956
+            ],
+            [
+                "16_clarke's terrific performance...embodies several aspects of the character, sometimes all at once.",
+                0.7618205164860626
+            ],
+            [
+                "18_whether or not events actually unfolded this way, the story the film tells is an interesting and complicated character study, with something to say about the corrosive effects of power and privilege on both the innocent and the guilty.",
+                0.75821443987006
+            ],
+            [
+                "26_here is a family that entrenched itself in the american imagination by campaigning on symbolism, and chappaquiddick hits its better strides when it turns the camera on the relationship between its stars and script doctors.",
+                0.7658522962342402
+            ],
+            [
+                "28_a challenging character study, punctuated by moments of uneasy suspense and dark humor.",
+                0.7203708178864816
+            ]
+        ],
+        "entities": {
+            "Taylor Allen": {
+                "args": [
+                    [
+                        "13_the workmanlike script by andrew logan and taylor allen sticks to mostly verifiable facts, ",
+                        0.5769306466148265
+                    ],
+                    [
+                        "27_first-time screenwriters taylor allen and andrew logan's tight script sticks mostly to the well-documented facts and aftermath, and clarke lets his teddy live in the tricky place between sympathy and straight villain-hood.",
+                        0.7407020006776974
+                    ]
+                ]
+            },
+            "Andrew Logan": {
+                "args": []
+            }
+        }
+    }
+}

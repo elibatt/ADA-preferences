@@ -1,0 +1,143 @@
+{
+    "writer": {
+        "args": [
+            [
+                "9_the character work here is both intimate and nicely compressed.",
+                0.6640579774975472
+            ]
+        ],
+        "entities": {
+            "Céline Sciamma": {
+                "args": [
+                    [
+                        "18_the main reason to commit to this movie's tough story of orphan loneliness is the screenplay by céline sciamma, herself a major french talent devoted to tales of youthful resilience (girlhood).",
+                        -0.6285604705212047
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the movie can be funny and heartbreaking at once-zucchini's only keepsake of his mother is an empty beer",
+                -0.5317429574048561
+            ],
+            [
+                "3_the film is a real rarity, made even more so by the fact that what has moved us so profoundly are a bunch of pop-eyed plasticine figures.",
+                -0.5420344427875046
+            ],
+            [
+                "5_ calling this barely 70-minute swiss stop-motion film \"heavy\" - as in substantial and almost swollen with feeling - is a true compliment.",
+                -0.5852233154161379
+            ],
+            [
+                "9_the character work here is both intimate and nicely compressed.",
+                0.6640579774975472
+            ],
+            [
+                "9_ the movie really gets to its most sublime heights visually.",
+                0.641709847921425
+            ],
+            [
+                "10_as a zucchini is a deft work of empathy, and unlike a few of its fellow animation oscar contenders, it works on a more intimate scale, without a big message or master thesis to carry it to its conclusion.",
+                0.8489760022491405
+            ],
+            [
+                "12_magical is not an oversize word for this exquisite film.",
+                0.5991459553083395
+            ],
+            [
+                "14_as unexpectedly enchanting as its title is initially perplexing, \"my life as a zucchini\" is short",
+                0.530792067750485
+            ],
+            [
+                "14_ an example of the kind of movie magic that's always hard to find.",
+                0.6708624882574559
+            ],
+            [
+                "16_the movie is a pleasure to look at, and often genuinely sweet, ",
+                0.8408006391232254
+            ],
+            [
+                "17_my life as a zucchini is an unfortunate title for a movie that braves such dark emotional territory.",
+                -0.5318687944508733
+            ],
+            [
+                "19_my life as a zucchini is so warm, so alive, that we forget we're watching cartoon figures.",
+                0.6703208026260019
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "11_for the u.s. version, the french voice cast has been replaced by an english one.",
+                -0.5517422894592627
+            ]
+        ],
+        "entities": {
+            "Finn Robbins": {
+                "args": []
+            },
+            "Amy Sedaris": {
+                "args": []
+            },
+            "Romy Beckman": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Olivia Bucknor": {
+                "args": []
+            },
+            "Ness Krell": {
+                "args": []
+            },
+            "Will Forte": {
+                "args": []
+            },
+            "Erick Abbate": {
+                "args": []
+            },
+            "Clara Young": {
+                "args": []
+            },
+            "Barry Mitchell": {
+                "args": []
+            },
+            "Ellen Page": {
+                "args": []
+            },
+            "Susanne Blakeslee": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Claude Barras": {
+                "args": [
+                    [
+                        "0_watching my life as a zucchini, the altogether marvelous and oscar-nominated stop-action animated film by director claude barras, that world is one you will not soon forget.",
+                        0.8993667666450547
+                    ],
+                    [
+                        "2_along with the kids' sorrow, barras works uplift and lightness into the story, and there are moments of great joy.",
+                        0.9157935908554403
+                    ],
+                    [
+                        "4_the sins of the fathers (and mothers) are visited upon the children in claude barras's brief, stop-motion tale of little ones finding love among the ruins.",
+                        0.7685628688821771
+                    ]
+                ]
+            }
+        }
+    }
+}

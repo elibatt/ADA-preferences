@@ -1,0 +1,158 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_kazan over-emphasized the last sequence in the film, ",
+                -0.5048850617866306
+            ],
+            [
+                "2_on the waterfront has a script that is a work of love and shows it.",
+                0.8209879643438915
+            ],
+            [
+                "8_so when does it hit you that you're in the presence of movie greatness?",
+                0.5511534912918846
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Elia Kazan": {
+                "args": [
+                    [
+                        "3_under elia kazan's direction, marlon brando puts on a spectacular show, giving a fascinating, multi-faceted performance as the uneducated dock walloper and former pug, who is basically a softie with a special affection for his rooftop covey of pigeons.",
+                        0.8461357527722664
+                    ],
+                    [
+                        "12_it is still possible to feel the power of the film and of brando and kazan, who changed american movie acting forever.",
+                        0.5932420446288134
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tiger Joe Marsh": {
+                "args": []
+            },
+            "Rudy Bond": {
+                "args": []
+            },
+            "Eva Marie Saint": {
+                "args": []
+            },
+            "Leif Erickson": {
+                "args": []
+            },
+            "Abe Simon": {
+                "args": []
+            },
+            "Fred Gwynne": {
+                "args": []
+            },
+            "Pat Henning": {
+                "args": []
+            },
+            "Rod Steiger": {
+                "args": []
+            },
+            "Ann Hegira": {
+                "args": []
+            },
+            "John F. Hamilton": {
+                "args": []
+            },
+            "Jere Delaney": {
+                "args": []
+            },
+            "Anne Hegira": {
+                "args": []
+            },
+            "Thomas Handley": {
+                "args": []
+            },
+            "Barry Macollum": {
+                "args": []
+            },
+            "Karl Malden": {
+                "args": []
+            },
+            "Nehemiah Persoff": {
+                "args": []
+            },
+            "Martin Balsam": {
+                "args": []
+            },
+            "Don Blackman": {
+                "args": []
+            },
+            "James Westerfield": {
+                "args": []
+            },
+            "Lee J. Cobb": {
+                "args": []
+            },
+            "Mike O'Dowd": {
+                "args": []
+            },
+            "Arthur Keegan": {
+                "args": []
+            },
+            "Marlon Brando": {
+                "args": [
+                    [
+                        "3_under elia kazan's direction, marlon brando puts on a spectacular show, giving a fascinating, multi-faceted performance as the uneducated dock walloper and former pug, who is basically a softie with a special affection for his rooftop covey of pigeons.",
+                        0.8461357527722664
+                    ],
+                    [
+                        "4_it's hard to deny that marlon brando's performance as a dock worker and ex-fighter who finally decides to rat on his gangster brother (rod steiger) is pretty terrific.",
+                        0.703333891470314
+                    ],
+                    [
+                        "9_it is thanks to brando that this posthumous popular front classic is a heart-clutcher from beginning to end.",
+                        0.7991388759914902
+                    ],
+                    [
+                        "12_it is still possible to feel the power of the film and of brando and kazan, who changed american movie acting forever.",
+                        0.5932420446288134
+                    ]
+                ]
+            },
+            "Rebecca Sands": {
+                "args": []
+            },
+            "Tony Galento": {
+                "args": []
+            },
+            "Pat Hingle": {
+                "args": []
+            },
+            "Tami Mauriello": {
+                "args": []
+            },
+            "John Heldabrand": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_on the waterfront has a script that is a work of love and shows it.",
+                0.8209879643438915
+            ]
+        ],
+        "entities": {
+            "Budd Schulberg": {
+                "args": []
+            }
+        }
+    }
+}

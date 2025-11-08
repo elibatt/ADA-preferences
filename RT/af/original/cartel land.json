@@ -1,0 +1,95 @@
+{
+    "acting": {
+        "entities": {
+            "Tim \"Nailer\" Foley": {
+                "args": []
+            },
+            "Dr. Jose Mireles": {
+                "args": [
+                    [
+                        "24_watching grandmothers face down the military trucks, we might be tempted to hail mireles as a hero.",
+                        -0.5084942848404257
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_this raw and compelling (if necessarily incomplete) documentary focuses on the recent battles between drug cartels and vigilantes along the arizona-mexico border.",
+                0.6828098008214021
+            ],
+            [
+                "3_even if it leaves you wanting more, \"cartel land\" deserves to be seen.",
+                0.8021808006588984
+            ],
+            [
+                "7_as the film demonstrates, this is far from a black-and-white situation.",
+                0.5431704994716053
+            ],
+            [
+                "8_ the film has its shortcomings and simplifications, it's a bleakly persuasive view of a decades-long combat that respects no boundaries,",
+                0.6142332322506208
+            ],
+            [
+                "10_which is what \"cartel land\" has in compelling amounts.",
+                0.599058824143456
+            ],
+            [
+                "11_cartel land offers a chilling glimpse into a world of violence and vigilantism.",
+                0.7272109142533755
+            ],
+            [
+                "14_cartel land\" is about the hazy territory in between ...",
+                -0.5983153930753626
+            ],
+            [
+                "15_\"cartel land\" reveals a culture that spans the border, full of death and dismaying behavior on both sides, ",
+                0.6801938429645917
+            ],
+            [
+                "17_after viewing michoacan's mayhem from a more comfortable distance, cartel land viewers may feel similarly fortunate.",
+                0.7429008281283125
+            ],
+            [
+                "24_ cartel land is interested in how idealism becomes corrupt.",
+                0.5338242008917651
+            ],
+            [
+                "27_cartel land feels like breaking bad in real life, with characters even more complicated and controversial than walter white.",
+                -0.6655428080284338
+            ],
+            [
+                "29_\"cartel land\" offers up no easy answers or clear calls to action, ",
+                0.7098563293098291
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Matthew Heineman": {
+                "args": [
+                    [
+                        "6_by the end of heineman's rattling 98 minutes, the war on drugs seems more than ever like a war destined to go on forever before being lost on every side.",
+                        -0.6340532485367852
+                    ],
+                    [
+                        "28_startling access yields strong if not consistent results in \"cartel land,\" matthew heineman's parallel portrait of vigilantes policing two different fronts of the drug war.",
+                        0.7367970981897116
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

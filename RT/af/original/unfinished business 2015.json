@@ -1,0 +1,111 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dave Franco": {
+                "args": []
+            },
+            "Vince Vaughn": {
+                "args": [
+                    [
+                        "7_vince vaughn, continuing his decade-long streak of mediocre comedies plays another variation on his fast-talking, slightly oafish ",
+                        -0.5906360250272937
+                    ],
+                    [
+                        "16_the role is a departure of sorts for vaughn, his character more responsible than the goofballs he normally plays, ",
+                        0.6348811535367436
+                    ],
+                    [
+                        "19_like several of vaughn's most recent comedies, this one concerns itself with keeping its heart in the \"right\" place-i.e., a safe distance from the unsavory business of laughter.",
+                        0.8512699106799408
+                    ]
+                ]
+            },
+            "Nick Frost": {
+                "args": []
+            },
+            "Tom Wilkinson": {
+                "args": []
+            },
+            "James Marsden": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ken Scott (V)": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_that \"unfinished business\" thinks it's a really fun idea to have a leading character named mike pancake",
+                0.5530803031107909
+            ],
+            [
+                "16_the role is a departure of sorts for vaughn, his character more responsible than the goofballs he normally plays, ",
+                0.6348811535367436
+            ]
+        ],
+        "entities": {
+            "Steven Conrad": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie gets dumber and more desperate as it goes.",
+                -0.571423172190988
+            ],
+            [
+                "1_little contained in this misfire of a film works and the few successful things are dragged out to the point where they die a lingering death.",
+                -0.5761096090507274
+            ],
+            [
+                "4_not without charm, unfinished business mixes the cute with the raunchy.",
+                0.6721250049785951
+            ],
+            [
+                "5_there's plenty to like in unfinished business, even ",
+                0.5096160285089153
+            ],
+            [
+                "6_the film limps along, with no sense of comic timing, slapstick reality, or even spontaneity.",
+                -0.604000504192911
+            ],
+            [
+                "9_there's enough big laughs combined with sweet family drama to make unfinished business an eventful journey.",
+                0.7306130941315723
+            ],
+            [
+                "14_\"unfinished business\" squanders almost every opportunity provided by its potentially funny premise.",
+                -0.545017244403116
+            ],
+            [
+                "15_that \"unfinished business\" thinks it's a really fun idea to have a leading character named mike pancake",
+                0.5530803031107909
+            ],
+            [
+                "17_this film is just bad business for everyone involved.",
+                -0.7395695002905156
+            ],
+            [
+                "22_unfinished business will seem woefully familiar to most anyone who's been to a movie theater - or taken a long plane ride - over the past 10 years.",
+                -0.6085656787096021
+            ]
+        ]
+    }
+}

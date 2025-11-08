@@ -1,0 +1,241 @@
+{
+    "director": {
+        "args": [
+            [
+                "18_bayona remains a director whose work should be anticipated, and \"a monster calls\" is a solid fantasy drama.",
+                0.580903658841605
+            ]
+        ],
+        "entities": {
+            "J.A. Bayona": {
+                "args": [
+                    [
+                        "2_director j.a. bayona presents appealing worlds (real and imagined) awash in color and detail, ",
+                        0.7703944624551488
+                    ],
+                    [
+                        "9_rich in folkloric symbolism, this fantasy from director j.a. bayona starts promisingly ",
+                        -0.651082374654203
+                    ],
+                    [
+                        "25_this is mr. bayona's third feature",
+                        0.6144766809191177
+                    ],
+                    [
+                        "28_a monster calls joins a rich trove of movies in which children process real-life ordeals by escaping into elaborate fantasies, which doesn't make director j.a. bayona's film any less beautiful or haunting.",
+                        0.6240495275808848
+                    ],
+                    [
+                        "38_considering how easily the material could turn maudlin, it's especially notable that bayona avoids overstatement.",
+                        0.6192025715248838
+                    ],
+                    [
+                        "40_ bayona seems hell-bent on keeping it at bay.",
+                        -0.6257020634200967
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Liam Neeson": {
+                "args": []
+            },
+            "James Melville": {
+                "args": []
+            },
+            "Oliver Steer": {
+                "args": []
+            },
+            "Frida Palsson": {
+                "args": []
+            },
+            "Geraldine Chaplin": {
+                "args": []
+            },
+            "Jennifer Lim": {
+                "args": []
+            },
+            "Patrick Taggart": {
+                "args": []
+            },
+            "Max Golds": {
+                "args": []
+            },
+            "Max Gabbay": {
+                "args": []
+            },
+            "Dominic Boyle": {
+                "args": []
+            },
+            "Ben Moor": {
+                "args": []
+            },
+            "Toby Kebbell": {
+                "args": []
+            },
+            "Felicity Jones": {
+                "args": [
+                    [
+                        "32_evocative, mysterious and shot through with bruising humor and heartbreak, a monster calls-with a deeply-felt performance from felicity jones- gets you where you live.",
+                        0.7183896717620947
+                    ]
+                ]
+            },
+            "Sigourney Weaver": {
+                "args": [
+                    [
+                        "31_young lewis macdougall is very good as conor as is felicity jones as his mother, while sigourney weaver invests the difficult part of the grandmother with a tightly wound intensity.",
+                        0.8216121660363542
+                    ]
+                ]
+            },
+            "Morgan Symes": {
+                "args": []
+            },
+            "Lily Rose Aslandogdu": {
+                "args": []
+            },
+            "Lewis MacDougall": {
+                "args": []
+            },
+            "Wanda Opalinska": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Patrick Ness": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie delivers its meaning repeatedly to make sure that no one misses the point",
+                -0.6724934168645564
+            ],
+            [
+                "1_as the movie rumbled toward its inevitably devastating conclusion, the chief emotion i felt wasn't sadness ",
+                -0.8046197329040665
+            ],
+            [
+                "2_ while his movie and its monster are very interested in exploring and explaining humanity, they don't quite get people.",
+                -0.5094536946134985
+            ],
+            [
+                "4_this is a tough movie that takes on adult issues and doesn't shy away from the grim realities of its subject matter.",
+                0.5265532115789654
+            ],
+            [
+                "4_ that's what makes this grim children's story work.",
+                0.6666091491720441
+            ],
+            [
+                "4_it's a work of lovely darkness.",
+                0.7675203656181958
+            ],
+            [
+                "6_bayona keeps things visually interesting at all times in a monster calls.",
+                -0.5654986876368886
+            ],
+            [
+                "7_a monster calls is unconventional storytelling in the best way.",
+                0.7451663207268698
+            ],
+            [
+                "7_ parents should be aware that it's not exactly a feel-good film to share with their kids.",
+                0.8183776697013841
+            ],
+            [
+                "10_\"a monster calls\" is an involving, surprisingly mature tale of pre-adolescent loss, passing innocence and hard-won coming of age.",
+                0.6098744891578409
+            ],
+            [
+                "11_a monster calls isn't so much for kids as it is for grownups.",
+                -0.6658993931868121
+            ],
+            [
+                "13_the movie is memorable for its stunning and inventive imagery, especially when the tree-monster's tales spring to life as little works of art set in motion.",
+                0.8261156351335169
+            ],
+            [
+                "14_\"a monster calls\" is the rare film that addresses the mysteries of childhood without succumbing to schmaltz.",
+                0.6487912527359319
+            ],
+            [
+                "16_ \"a monster calls\" is more emotionally intense than the average children's movie - by a factor of maybe two or three hundred.",
+                0.6457732944871509
+            ],
+            [
+                "17_\"a monster calls\" is a portrait of coping",
+                0.584308475735285
+            ],
+            [
+                "18_bayona remains a director whose work should be anticipated, and \"a monster calls\" is a solid fantasy drama.",
+                0.580903658841605
+            ],
+            [
+                "20_a monster calls is an engrossing tragic fantasy, sustained by genuine sentiment.",
+                0.5522937388151494
+            ],
+            [
+                "22_a monster calls is an unexpectedly powerful and unsentimental exploration of surviving grief and the less-than-noble feelings it can engender.",
+                0.5975612914795738
+            ],
+            [
+                "23_a monster calls dials up a nostalgic and superb coming-of-age journey that'll have audiences grabbing all the hankies.",
+                0.7574336587452136
+            ],
+            [
+                "24_the film is a bit emotionally manipulative-it sure can wring the tears out of you-",
+                0.7146350448238826
+            ],
+            [
+                "25_ it confirms the sensitivity and impressive technique that distinguished his previous film, the impossible.",
+                0.7302212424857594
+            ],
+            [
+                "26_if you prefer to view dying as a natural part of life, a step in a cycle, this film will feel discordant and perhaps counterproductive.",
+                0.7872631701704889
+            ],
+            [
+                "29_if you're not crying by the third act of a monster calls, you may want to have your humanity checked.",
+                -0.6204230383847213
+            ],
+            [
+                "30_ there are things about this film that are hard to shake",
+                -0.6736563512739415
+            ],
+            [
+                "30_ the movie's ultimate wisdom and overarching compassion make it very likely that you won't want to shake them, after all.",
+                -0.500346410691889
+            ],
+            [
+                "33_the film is tough-minded, often grim and intense, its lessons about death and grief hard in ways you aren't conditioned to expect from pricey cgi entertainments.",
+                0.6505017586026608
+            ],
+            [
+                "34_the film belongs alongside \"pan's labyrinth\" in the realm of darkly creative kid-centric films that are, at their core, not really kids' fare at all.",
+                0.6923323058941315
+            ],
+            [
+                "36_a deeply emotional film about loss that will probably have you crying by film's end.",
+                0.5587886294879886
+            ],
+            [
+                "40_there's a truly monstrous film lurking in here somewhere, ",
+                -0.5954744657815081
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

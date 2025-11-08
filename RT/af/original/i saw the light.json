@@ -1,0 +1,465 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_i saw the light doesn't just fail to illuminate williams' complicated life and his prodigious talent",
+                0.5491987278805551
+            ],
+            [
+                "1_sadly, the movie is a snooze, ",
+                -0.6234749648454758
+            ],
+            [
+                "3_hiddleston's uncanny musical performances, all filmed live, help redeem a movie that exhibits the flawed brilliance of its subject.",
+                0.751536723703114
+            ],
+            [
+                "4_saw the light is not a movie that ever catches fire.",
+                -0.5476484075512271
+            ],
+            [
+                "9_the movie falls victim to the usual biopic malaise: it doesn't have anything interesting to say about a life that was far from ordinary.",
+                -0.7078349285250234
+            ],
+            [
+                "10_even when i saw the light is giving us standard-issue concert scenes or simple interior sequences such as young hank and his band playing live on the radio, the saturated colors and the subtle camera moves make every scene pop.",
+                0.615879159594543
+            ],
+            [
+                "11_\"i saw the light\" isn't just incohesive, ",
+                -0.6759789633228619
+            ],
+            [
+                "14_if you're interested in williams and his music, this film is better than nothing - ",
+                0.7612866964316294
+            ],
+            [
+                "16_in the end, \"i saw the light\" is an uneven experience, ",
+                0.5546757373751214
+            ],
+            [
+                "17_there's something off with the filmmaking from the beginning of \"i saw the light.\"",
+                0.6145525489909939
+            ],
+            [
+                "18_this is a movie that is easy on the ears and even easier to like.",
+                0.5690762509583899
+            ],
+            [
+                "19_i saw the light trudges through williams' life with bafflingly little sense of highs and lows.",
+                0.7220593156122064
+            ],
+            [
+                "21_the storytelling choices actively work against the telling of williams' remarkable life story, and the resulting biopic doesn't come close to the legend itself.",
+                0.6232954760632781
+            ],
+            [
+                "22_this is a movie that had too much to tell and not enough to say.",
+                -0.7495368212212884
+            ],
+            [
+                "23_in the end, \"i saw the light\" doesn't illuminate enough to show us an entirely compelling williams.",
+                -0.6116910493431879
+            ],
+            [
+                "24_\"i saw the light\" is solid ",
+                0.6444383476504767
+            ],
+            [
+                "26_i saw the light should have taken its cue from its unearthly star and pursued a more cosmic mission.",
+                -0.5075109941790511
+            ],
+            [
+                "27_hiddleston is not what's wrong with this movie.",
+                -0.7962180422140509
+            ],
+            [
+                "28_ can't quite duplicate williams' high-pitched twang any more than the movie can re-create the excitement of his career.",
+                0.5079800109429331
+            ],
+            [
+                "29_ and things you'd known all your life - the film just bogs down in period details and endless questions.",
+                0.587099905319972
+            ],
+            [
+                "30_, i saw the light is too humble about hank, about his songs, about why we remember him.",
+                -0.6436368411748836
+            ],
+            [
+                "31_perhaps inevitably, the film as a whole doesn't stack up to its superb central performances.",
+                0.5235996196940815
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Marc Abraham": {
+                "args": [
+                    [
+                        "2_\" one might say the same about director abraham.",
+                        -0.5905442364285833
+                    ],
+                    [
+                        "32_despite committed performances from tom hiddleston and elizabeth olsen, marc abraham's hank williams biopic is a dull,",
+                        0.5109314912874211
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "29_despite huddleston's game performance, and williams' great songs - tunes which both sounded like nothing else you'd heard before,",
+                0.5726903437192609
+            ]
+        ],
+        "entities": {
+            "Bradley Whitford": {
+                "args": []
+            },
+            "Crystal Cook": {
+                "args": []
+            },
+            "Donna Chamness": {
+                "args": []
+            },
+            "Michael D. Anglin": {
+                "args": []
+            },
+            "Mallorie Lindsey": {
+                "args": []
+            },
+            "John R. Bennett, II": {
+                "args": []
+            },
+            "David Maldonado": {
+                "args": []
+            },
+            "Skyler Davenport": {
+                "args": []
+            },
+            "Ransom Ashley": {
+                "args": []
+            },
+            "Vito Viscuso": {
+                "args": []
+            },
+            "Devan Gerlach": {
+                "args": []
+            },
+            "Jennifer DeLatte": {
+                "args": []
+            },
+            "Fred Parker Jr.": {
+                "args": []
+            },
+            "Lisa Ann Smith": {
+                "args": []
+            },
+            "Lauren Helling": {
+                "args": []
+            },
+            "Rebecca Chulew": {
+                "args": []
+            },
+            "Cory Hart": {
+                "args": []
+            },
+            "Elizabeth Olsen": {
+                "args": [
+                    [
+                        "28_hiddleston (who, like olsen, is best known for his \"avengers\" alter ego) does his own singing, ",
+                        0.8412247675621622
+                    ]
+                ]
+            },
+            "Charlie Talbert": {
+                "args": []
+            },
+            "Cade Weeks": {
+                "args": []
+            },
+            "Emily Marie Palmer": {
+                "args": []
+            },
+            "Forest Pruett": {
+                "args": []
+            },
+            "Erica Curtis": {
+                "args": []
+            },
+            "Rob Boltin": {
+                "args": []
+            },
+            "Candiss Nicole Gandy": {
+                "args": []
+            },
+            "David Krumholtz": {
+                "args": []
+            },
+            "Rodney Crowell": {
+                "args": []
+            },
+            "Christopher Heskey": {
+                "args": []
+            },
+            "Michael Sieve": {
+                "args": []
+            },
+            "Elise Fyke": {
+                "args": []
+            },
+            "Wrenn Schmidt": {
+                "args": []
+            },
+            "Vanessa Amaya": {
+                "args": []
+            },
+            "Rod Hermansen": {
+                "args": []
+            },
+            "Wayne Pére": {
+                "args": []
+            },
+            "Paulina Manseau": {
+                "args": []
+            },
+            "James DuMont": {
+                "args": []
+            },
+            "Denise Gossett": {
+                "args": []
+            },
+            "Jeff Caperton": {
+                "args": []
+            },
+            "Kelvin Payton": {
+                "args": []
+            },
+            "Stan Taylor": {
+                "args": []
+            },
+            "Cherry Jones": {
+                "args": []
+            },
+            "Floyd Knight": {
+                "args": []
+            },
+            "Artie Mozzone": {
+                "args": []
+            },
+            "Douglas M. Griffin": {
+                "args": []
+            },
+            "Von Lewis": {
+                "args": []
+            },
+            "Vincent Stalba": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": [
+                    [
+                        "1_ see it just for the magnificent hiddleston, who honors williams' greatness ",
+                        0.8198096086637392
+                    ],
+                    [
+                        "6_tom hiddleston puts in a performance as williams that ranks with that of joaquin phoenix as johnny cash in \"i walk the line.\"",
+                        0.7002724001182766
+                    ],
+                    [
+                        "6_and hiddleston gets to do it in a better movie.",
+                        -0.5907785067062058
+                    ],
+                    [
+                        "13_t, as i have, that tom hiddleston was such a good actor he could salvage any movie, well, welcome to \"",
+                        0.5536098155210745
+                    ],
+                    [
+                        "17_for many hiddleston will be enough",
+                        0.5523219120890215
+                    ],
+                    [
+                        "32_despite committed performances from tom hiddleston and elizabeth olsen, marc abraham's hank williams biopic is a dull,",
+                        0.5109314912874211
+                    ]
+                ]
+            },
+            "Cody Daniel": {
+                "args": []
+            },
+            "Jayson Warner Smith": {
+                "args": []
+            },
+            "Jeff Pope": {
+                "args": []
+            },
+            "Gary Teague": {
+                "args": []
+            },
+            "Nathan Tremaine": {
+                "args": []
+            },
+            "Gretchen Koerner": {
+                "args": []
+            },
+            "Diane Mozzone": {
+                "args": []
+            },
+            "Garrett Kruithof": {
+                "args": []
+            },
+            "Candice Harrison": {
+                "args": []
+            },
+            "Geraldine Singer": {
+                "args": [
+                    [
+                        "7_there's more punch in an obituary of the singer than there is here.",
+                        0.5986553853307965
+                    ]
+                ]
+            },
+            "Ashley Gilbert": {
+                "args": []
+            },
+            "Amanda Joy Erickson": {
+                "args": []
+            },
+            "Javier Andy Zavala Jr.": {
+                "args": []
+            },
+            "Elliott Grey": {
+                "args": []
+            },
+            "NM Garcia": {
+                "args": []
+            },
+            "Justin Lebrun": {
+                "args": []
+            },
+            "Ellie Foco": {
+                "args": []
+            },
+            "Jason Palombo": {
+                "args": []
+            },
+            "Christopher Gulas": {
+                "args": []
+            },
+            "Sarah Eilts": {
+                "args": []
+            },
+            "Casey Bond": {
+                "args": []
+            },
+            "Will Beinbrink": {
+                "args": []
+            },
+            "Mattie Liptak": {
+                "args": []
+            },
+            "Meredith Brumwell": {
+                "args": []
+            },
+            "Richard Jackson": {
+                "args": []
+            },
+            "Maddie Hasson": {
+                "args": []
+            },
+            "Bryan Michael Hall": {
+                "args": []
+            },
+            "Bethany Blakey": {
+                "args": []
+            },
+            "Josh Pais": {
+                "args": []
+            },
+            "Todd Barnett": {
+                "args": []
+            },
+            "Lindsey McCollough": {
+                "args": []
+            },
+            "Carter Burch": {
+                "args": []
+            },
+            "Candice Richardson": {
+                "args": []
+            },
+            "Jan Duncan Weir": {
+                "args": []
+            },
+            "Emily Lyman": {
+                "args": []
+            },
+            "Michael Haskins": {
+                "args": []
+            },
+            "Rick Vyper": {
+                "args": []
+            },
+            "Deadra Moore": {
+                "args": []
+            },
+            "Allison Claye": {
+                "args": []
+            },
+            "Joe Chrest": {
+                "args": []
+            },
+            "Rebecca Gamble": {
+                "args": []
+            },
+            "Deborah Alcorn": {
+                "args": []
+            },
+            "Troy Compas": {
+                "args": []
+            },
+            "Casey Groves": {
+                "args": []
+            },
+            "Heather D. Benoit": {
+                "args": []
+            },
+            "Jillian Batherson": {
+                "args": []
+            },
+            "Ellen Crouch": {
+                "args": []
+            },
+            "John Neisler": {
+                "args": []
+            },
+            "Jaclyn Bethany": {
+                "args": []
+            },
+            "Caroline Hebert": {
+                "args": []
+            },
+            "Joshua Brady": {
+                "args": []
+            },
+            "Michael P Gardner": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Marc Abraham": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "writer": {
+        "entities": {
+            "Neelesh Misra": {
+                "args": []
+            },
+            "Ali Abbas Zafar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Prem Khan": {
+                "args": []
+            },
+            "Katrina Kaif": {
+                "args": []
+            },
+            "Girish Karnad": {
+                "args": []
+            },
+            "Salman Khan": {
+                "args": []
+            },
+            "Ranvir Shorey": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ali Abbas Zafar": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Gary Rydstrom": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Elijah Kelley": {
+                "args": []
+            },
+            "Bob Einstein": {
+                "args": []
+            },
+            "Meredith Ann Bull": {
+                "args": []
+            },
+            "Sterling Sheehy": {
+                "args": []
+            },
+            "Llou Johnson": {
+                "args": []
+            },
+            "Kevin Scott Richardson": {
+                "args": []
+            },
+            "Peter Stormare": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Meredith Anne Bull": {
+                "args": []
+            },
+            "Tony Cox": {
+                "args": []
+            },
+            "Sam Palladio": {
+                "args": []
+            },
+            "Kristin Chenoweth": {
+                "args": []
+            },
+            "Alfred Molina": {
+                "args": []
+            },
+            "Evan Rachel Wood": {
+                "args": [
+                    [
+                        "12_the eerie wood was exquisitely designed.",
+                        -0.6301132094852815
+                    ]
+                ]
+            },
+            "Gary Rydstrom": {
+                "args": []
+            },
+            "Robbie Daymond": {
+                "args": []
+            },
+            "Alan Cumming": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_that terrible character design, combined with a painful lack of laughs and a crushing plethora of ghastly songs, makes \"strange magic\" perhaps the worst animated feature ever to come out of disney.",
+                -0.6855934627295113
+            ]
+        ],
+        "entities": {
+            "George Lucas": {
+                "args": [
+                    [
+                        "0_the best lucas film in 25 years: funny, idiosyncratic, hippy-dippy, packed with creatures and visions worth beholding.",
+                        0.8880749712505497
+                    ],
+                    [
+                        "7_\"strange magic,\" the new animated musical fairy tale from the mind and the mixtape of george lucas, is indeed strange.",
+                        0.8121470481944357
+                    ],
+                    [
+                        "8_a jaw-droppingly terrible animated musical that mismatches george lucas' inane story about a pair of fairy princesses to an oddball selection of the \"star wars'' creator's favorite pop tunes.",
+                        0.6012573737763742
+                    ]
+                ]
+            },
+            "David Berenbaum": {
+                "args": []
+            },
+            "Gary Rydstrom": {
+                "args": []
+            },
+            "Irene Mecchi": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_strange magic isn't very magical, ",
+                -0.5932194904785879
+            ],
+            [
+                "5_said to be inspired by \"a midsummer night's dream,\" the film plays more like \"avatar\" scored to a karaoke competition.",
+                0.6526232227689034
+            ],
+            [
+                "10_strange magic is strange all right, ",
+                0.5351819982179038
+            ],
+            [
+                "11_the movie maintains its own level of oddball invention that at least feels pleasantly removed from the grind of big-studio cartoon manufacturing.",
+                -0.5510558205872609
+            ],
+            [
+                "15_that terrible character design, combined with a painful lack of laughs and a crushing plethora of ghastly songs, makes \"strange magic\" perhaps the worst animated feature ever to come out of disney.",
+                -0.6855934627295113
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

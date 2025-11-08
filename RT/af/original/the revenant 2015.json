@@ -1,0 +1,376 @@
+{
+    "acting": {
+        "args": [
+            [
+                "36_dicaprio's performance is an astonishing testament to his commitment to a role.",
+                0.7477370773470942
+            ]
+        ],
+        "entities": {
+            "Kory Grim": {
+                "args": []
+            },
+            "Tom Guiry": {
+                "args": []
+            },
+            "Chris Ippolito": {
+                "args": []
+            },
+            "Forrest Goodluck": {
+                "args": []
+            },
+            "Tom Hardy": {
+                "args": []
+            },
+            "Paul Young Pine": {
+                "args": []
+            },
+            "Duane Howard": {
+                "args": []
+            },
+            "Emmanuel Bilodeau": {
+                "args": []
+            },
+            "Christopher Rosamund": {
+                "args": []
+            },
+            "Timothy Lyle": {
+                "args": []
+            },
+            "Chesley Wilson": {
+                "args": []
+            },
+            "Kristoffer Joner": {
+                "args": []
+            },
+            "Will Poulter": {
+                "args": []
+            },
+            "Kevin Corey": {
+                "args": []
+            },
+            "Veronica Marlowe": {
+                "args": []
+            },
+            "C. Adam Leigh": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Javiar Lopez": {
+                "args": []
+            },
+            "Mark Krysko": {
+                "args": []
+            },
+            "Melaw Nakehk'o": {
+                "args": []
+            },
+            "Jamie Medicine Crane": {
+                "args": []
+            },
+            "Isaiah Tootoosis": {
+                "args": []
+            },
+            "Brad Carter": {
+                "args": []
+            },
+            "Michael Fraser": {
+                "args": []
+            },
+            "Joshua Burge": {
+                "args": []
+            },
+            "Amelia Crow Shoe": {
+                "args": []
+            },
+            "Scott Duncan": {
+                "args": []
+            },
+            "Dave Burchill": {
+                "args": []
+            },
+            "Alexandre Bisping": {
+                "args": []
+            },
+            "McCaleb Burnett": {
+                "args": []
+            },
+            "Brendan Fletcher": {
+                "args": []
+            },
+            "Robert Moloney": {
+                "args": []
+            },
+            "Daniel Rampanen": {
+                "args": []
+            },
+            "Lukas Haas": {
+                "args": []
+            },
+            "Cody Big Tobacco": {
+                "args": [
+                    [
+                        "3_ on a big screen \"the revenant\" is heaven, with lubezki's camera painting the american west as a rapturous primeval proving ground.",
+                        0.6316427580950633
+                    ]
+                ]
+            },
+            "Christopher Rosamond": {
+                "args": []
+            },
+            "Paul Anderson (XVIII)": {
+                "args": []
+            },
+            "Leonardo DiCaprio": {
+                "args": [
+                    [
+                        "4_there is so much to like and admire and study closely, including dicaprio's mature, committed, ruthless and yet empathetic performance.",
+                        0.5043068538101237
+                    ],
+                    [
+                        "21_it features a battalion of very fine, hardworking actors, none more diligently committed than mr. dicaprio, and some of the most beautiful natural tableaus you're likely to see in a movie this year.",
+                        0.8622882265681288
+                    ],
+                    [
+                        "28_ as glass, dicaprio simply endures.",
+                        0.5029089641803818
+                    ],
+                    [
+                        "29_the revenant is a throwback look at a wild time in american history, and the team-up of iñárritu and dicaprio gives this era a deserving epic.",
+                        0.8132688808256231
+                    ],
+                    [
+                        "31_hang on for the power of cinema unleashed and dicaprio stretching his acting muscles, testing himself, eager for challenge.",
+                        0.5157863397761947
+                    ]
+                ]
+            },
+            "Jeffrey Olynek": {
+                "args": []
+            },
+            "Blake Wildcat": {
+                "args": []
+            },
+            "Grace Dove Syme": {
+                "args": []
+            },
+            "Tyson Wood": {
+                "args": []
+            },
+            "Vincent Leclerc": {
+                "args": []
+            },
+            "Dion Little Child": {
+                "args": [
+                    [
+                        "14_words matter little in a movie that favors seeing and feeling above all else.",
+                        0.576692767267225
+                    ],
+                    [
+                        "33_you walk out of it exhausted, impressed with the overall quality of the filmmaking and a little more grateful for the creature comforts of your life.",
+                        0.7629245688190657
+                    ],
+                    [
+                        "42_ all too little in the way of grace.",
+                        -0.5802888644910874
+                    ]
+                ]
+            },
+            "Stephane Legault": {
+                "args": []
+            },
+            "Clarence Hoof": {
+                "args": []
+            },
+            "Haysam Kadri": {
+                "args": []
+            },
+            "Anthony Starlight": {
+                "args": []
+            },
+            "Cole Vandale": {
+                "args": []
+            },
+            "Jordan Crawford": {
+                "args": []
+            },
+            "Peter Strand Rumple": {
+                "args": []
+            },
+            "Dallas Young Pine": {
+                "args": []
+            },
+            "Mariah Old Shoes": {
+                "args": []
+            },
+            "Scott Olynek": {
+                "args": []
+            },
+            "Fabrice Adde": {
+                "args": []
+            },
+            "Arthur Redcloud": {
+                "args": []
+            },
+            "Adrian McMorran": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_iñárritu has constructed an epic fable of uncommon grace and resonance--a film that, like its hero, achieves a kind of transcendence.",
+                0.8273773674896525
+            ],
+            [
+                "7_the revenant seeps into the soul, like the coldest chill ever experienced.",
+                0.6994510884840152
+            ],
+            [
+                "9_, \"the revenant\" puts everything else playing at the multiplexes in the shade.",
+                -0.5442223497178112
+            ],
+            [
+                "12_ \"the revenant\" can't escape the clutches of crippling self-regard.",
+                -0.5945591685251856
+            ],
+            [
+                "13_\"the revenant\" is a director's movie, a showcase for a filmmaker's vision and innovation.",
+                0.6545844220753123
+            ],
+            [
+                "14_it's a work of pure, furious sensation.",
+                0.7432833621738572
+            ],
+            [
+                "16_the revenant is exhilarating cinema.",
+                0.7915797453467172
+            ],
+            [
+                "18_after a while, \"the revenant\" turns into a slog.",
+                -0.5343929668198206
+            ],
+            [
+                "19_what elevates this standard, if relentless, plot line is that the revenant feels like high-wire work without a net.",
+                -0.7435045970182088
+            ],
+            [
+                "20_\"the revenant\" is both draining and rewarding, and its power lingers long after its last gasp.",
+                0.5726635587662534
+            ],
+            [
+                "22_\"the revenant\" is a classic b picture fortified with all manner of grade a resources.",
+                0.6392117333651819
+            ],
+            [
+                "23_the revenant isn't for everyone - it asks more from its audience than the average motion picture - ",
+                0.5983750269699237
+            ],
+            [
+                "24_the point of the whole thing - the reason this movie was made, and the reason we're watching it - gets drowned beneath a series of memorable ",
+                -0.60354514793976
+            ],
+            [
+                "26_the revenant was famously hard to shoot, ",
+                -0.6460179028080265
+            ],
+            [
+                "27_his bleak and beautiful movie is overwrought, ",
+                0.5907613266830322
+            ],
+            [
+                "28_iñárritu may have fashioned the revenant as the ultimate endurance test, ",
+                -0.5149156628633854
+            ],
+            [
+                "28_he gives the movie a beating heart, offering it up, figuratively speaking, alive and bloody on a platter",
+                0.6451193879554173
+            ],
+            [
+                "33_you don't just watch \"the revenant,\" you experience it.",
+                -0.5012592838452419
+            ],
+            [
+                "34_how many great scenes does it take to make a great movie?",
+                0.7477593633866296
+            ],
+            [
+                "35_the revenant is so prettily constructed that it's painful to admit how ridiculous it actually is.",
+                -0.7647522392447488
+            ],
+            [
+                "37_i think the revenant is, on the whole, pain without gain, ",
+                -0.5813677525189442
+            ],
+            [
+                "39_ giving the film a singularly strange and haunting beauty.",
+                0.7246596188865725
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "13_\"the revenant\" is a director's movie, a showcase for a filmmaker's vision and innovation.",
+                0.6545844220753123
+            ]
+        ],
+        "entities": {
+            "Alejandro González Iñárritu": {
+                "args": [
+                    [
+                        "5_the enormously talented alejandro g. iñárritu (\"amores perros,\" \"21 grams,\" \"birdman\") strikes again with this 19th century american fable, one of the most brutally beautiful movies i've ever seen.",
+                        0.8813028891929742
+                    ],
+                    [
+                        "10_director and co-writer iñárritu is aiming high with this film, based on a true story - and he never lets you forget it.",
+                        0.8198972535015896
+                    ],
+                    [
+                        "11_the ravenously beautiful revenge saga from alejandro gonzález iñárritu plays like the meanest jack london short story imaginable.",
+                        0.6039422595616797
+                    ],
+                    [
+                        "26_ the filmmaking has a rare and confident vigor - you are always aware you're seeing the real world, even as iñárritu's camera bounds through it like it's skyrim.",
+                        0.8460381794607805
+                    ],
+                    [
+                        "29_the revenant is a throwback look at a wild time in american history, and the team-up of iñárritu and dicaprio gives this era a deserving epic.",
+                        0.8132688808256231
+                    ],
+                    [
+                        "34_the revenant, a ravishingly violent western survival yarn from alejandro gonzález iñárritu, has a healthy few, scattered like acorns across its two-and-a-half-hour canvas.",
+                        -0.545751641292286
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_director and co-writer iñárritu is aiming high with this film, based on a true story - and he never lets you forget it.",
+                0.8198972535015896
+            ],
+            [
+                "40_director/co-writer alejandro g. inarritu, cinematographer emmanuel lubezki and a vast team of visual effects wizards have created a sensationally vivid and visceral portrait of human endurance under very nearly intolerable conditions.",
+                0.8085084214737255
+            ]
+        ],
+        "entities": {
+            "Mark L. Smith": {
+                "args": []
+            },
+            "Alejandro González Iñárritu": {
+                "args": []
+            }
+        }
+    }
+}

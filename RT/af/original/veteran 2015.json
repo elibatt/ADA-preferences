@@ -1,0 +1,53 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_an unremarkable crime tale, one whose plot often feels more the stuff of a brash one-hour tv procedural than a two-hour feature film.",
+                -0.5714776508718524
+            ],
+            [
+                "1_\"veteran\" is amusing throughout, even if the funny scenes are more subdued or go on a beat or two longer than american viewers are used to.",
+                0.6875771893159142
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jang Yoon-Ju": {
+                "args": []
+            },
+            "Yoo Ah-in": {
+                "args": []
+            },
+            "Jung-min Hwang": {
+                "args": []
+            },
+            "Oh Dal-su": {
+                "args": []
+            },
+            "Yoo Hae-jin": {
+                "args": []
+            },
+            "Man-sik Jeong": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Seung-wan Ryoo": {
+                "args": []
+            }
+        }
+    }
+}

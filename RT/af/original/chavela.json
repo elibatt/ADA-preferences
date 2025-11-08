@@ -1,0 +1,113 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "6_the emotion in the performance says everything we need to know.",
+                -0.5315273952701176
+            ]
+        ],
+        "entities": {
+            "Jose Alfredo Jimenez": {
+                "args": []
+            },
+            "Laura García Lorca": {
+                "args": []
+            },
+            "Alicia Elena Perez Duarte": {
+                "args": []
+            },
+            "Martirio": {
+                "args": []
+            },
+            "Tlany Ortega": {
+                "args": []
+            },
+            "Tania Libertad": {
+                "args": []
+            },
+            "Mariana Gyalui": {
+                "args": []
+            },
+            "Betty-Carol Sellen": {
+                "args": []
+            },
+            "Miguel Bosé": {
+                "args": []
+            },
+            "Pedro Almodóvar": {
+                "args": [
+                    [
+                        "9_mesmerizes with its impressionistic blend of archival photos, musical performances, concert footage and candid interviews with the legendary singer herself, as well with her ardent friends like pedro almodóvar and former lovers.",
+                        0.8466829546017942
+                    ]
+                ]
+            },
+            "Eugenia León": {
+                "args": []
+            },
+            "Diana Ortega": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Catherine Gund": {
+                "args": [
+                    [
+                        "12_loaded with concert footage, interviews with friends, and terrific photos, this well-balanced documentary directed by gund and daresha kyi celebrates the woman and the legend, and if the stock archival material doesn't always fit, few will mind.",
+                        0.6486067460571816
+                    ]
+                ]
+            },
+            "Daresha Kyi": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_the late chavela vargas, a sad and fiery legend of latin american song, is the subject of an adoring portrait as straightforward as its title, chavela.",
+                0.6274871842706213
+            ],
+            [
+                "1_e to a woman who led such a fascinating life.",
+                0.7157308423946982
+            ],
+            [
+                "5_ doesn't have much of an answer.",
+                -0.7595073472310964
+            ],
+            [
+                "6_throughout chavela, onscreen translations of lyrics accompany concert clips.",
+                -0.531272044355018
+            ],
+            [
+                "7_chavela is presented as a grandiose enigma, the kind that inspires more research afterward and seeking out her music, ",
+                0.7172208048033225
+            ],
+            [
+                "7_ the film is too ordinary to feel like it does her legacy complete artistic justice.",
+                -0.650137278809676
+            ],
+            [
+                "10_this tuneful portrait of chavela vargas, \"born singing\" in 1919 costa rica, admiringly explores her impact on the world of mexican music as an out lesbian ... a charismatic figure and a great artist.",
+                0.879482619964669
+            ],
+            [
+                "11_the core material is augmented with a wealth of archive footage and photographs, as well as extensive interviews with music aficionados, associates, friends, lovers and admirers.",
+                0.7775781510207305
+            ]
+        ]
+    }
+}

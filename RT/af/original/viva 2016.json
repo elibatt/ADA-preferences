@@ -1,0 +1,168 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "0_had the filmmakers slathered as much mascara on their characters' eyelids as they did stoking the plot with sentiment, the cast would have spent the last third of the picture bumping into things.",
+                -0.6465974701528395
+            ]
+        ],
+        "entities": {
+            "Jorge Martínez Castillo": {
+                "args": []
+            },
+            "Yudisvany Rabu": {
+                "args": []
+            },
+            "Luis Alberto García": {
+                "args": []
+            },
+            "Luis Daniel Ventura Garbendia": {
+                "args": []
+            },
+            "Paula Andrea Ali Rivera": {
+                "args": []
+            },
+            "Mark O'Halloran": {
+                "args": [
+                    [
+                        "18_ breathnach and o'halloran show a real affinity for life in cuba.",
+                        0.64919545078965
+                    ]
+                ]
+            },
+            "Maikol Villa Puey": {
+                "args": []
+            },
+            "Maikel Machin Blanco": {
+                "args": []
+            },
+            "Jorge Perugorría": {
+                "args": [
+                    [
+                        "15_despite its gorgeous views and a pair of strong turns from veteran cuban actors perugorría and garcía,",
+                        0.7866772221751208
+                    ]
+                ]
+            },
+            "Laura Alemán": {
+                "args": []
+            },
+            "Héctor Medina": {
+                "args": [
+                    [
+                        "13_ it's medina who provides the movie's raw, tender heart.",
+                        0.673180335885397
+                    ]
+                ]
+            },
+            "Luis Angel Batista Bruzón": {
+                "args": []
+            },
+            "Oscar Ibarra Napoles": {
+                "args": []
+            },
+            "Luis Manuel Alvarez": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Paddy Breathnach": {
+                "args": [
+                    [
+                        "3_ director paddy breathnach finds ways to make it surprisingly moving at times, in the same way that he makes the havana slums look paradoxically beautiful.",
+                        0.8501763963217331
+                    ],
+                    [
+                        "10_mr. breathnach doesn't bother with picturesque vistas of old havana, or with lurid shots of the club.",
+                        -0.7416094395425565
+                    ],
+                    [
+                        "16_director paddy breathnach reveals a sensitive touch with the material.",
+                        0.5530394966485637
+                    ],
+                    [
+                        "18_ breathnach and o'halloran show a real affinity for life in cuba.",
+                        0.64919545078965
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_ the film doesn't connect to the heart of its central character.",
+                -0.6419267981139468
+            ]
+        ],
+        "entities": {
+            "Mark O'Halloran": {
+                "args": [
+                    [
+                        "18_ breathnach and o'halloran show a real affinity for life in cuba.",
+                        0.64919545078965
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a movie that never quite comes to life, ",
+                -0.5092348028384182
+            ],
+            [
+                "2_slick and raunchy when it might have been grindingly realistic, \"viva\" is finally all heart.",
+                -0.6466468443996769
+            ],
+            [
+                "5_\"viva\" appealingly makes up for a coy approach with gutsy, grabby follow-through on the high notes.",
+                0.7686224534107864
+            ],
+            [
+                "7_no amount of vibrant scenery can distract from the tired melodrama that engulfs the rest of the film.",
+                -0.5706734661336783
+            ],
+            [
+                "8_viva offers few surprises, ",
+                0.5051168037332724
+            ],
+            [
+                "10_the beauty of \"viva\" comes from within.",
+                0.7170174957479413
+            ],
+            [
+                "12_perugorría is such a terrific, soulful actor that he makes viva's predictable dramatic trajectory ... seem a bit less moldy.",
+                0.7446978350945666
+            ],
+            [
+                "14_unlike too many films shot in cuba, viva never forsakes its characters for the sake of politics.",
+                -0.5254842467253374
+            ],
+            [
+                "15_viva doesn't perform to its fullest.",
+                -0.6456874071321592
+            ],
+            [
+                "15_ the film doesn't connect to the heart of its central character.",
+                -0.6419267981139468
+            ],
+            [
+                "17_viva features strong performances by its three leads, all of whom are fully committed to their roles.",
+                0.8230219368236026
+            ],
+            [
+                "18_sentimentality creeps into the closing scenes, undermining the film's tough-minded realism, ",
+                0.5505087111138705
+            ]
+        ]
+    }
+}

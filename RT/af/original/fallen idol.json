@@ -1,0 +1,158 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the fallen idol finds innocence and inquisitiveness at odds with corruption, violence, desire, deceit - all the stuff that grown-ups trade in.",
+                0.7344686194621771
+            ],
+            [
+                "1_the fallen idol stands as one of the great films about looking, about perspective, about the way we watch and interpret not just film plots ",
+                0.8841355908896299
+            ],
+            [
+                "3_as a portrait of the sometime destructiveness of innocence and as a sharp fresco of post-war britain, this movie is a little masterpiece, an idol that has never fallen.",
+                0.7842178051150125
+            ],
+            [
+                "9_a classically well-made film that is both unexpected and exceptionally gripping.",
+                0.8264602485927744
+            ],
+            [
+                "14_the film works beautifully and reminds us of the glories of the black-and-white cinema at its peak, shortly before the beginning of its gradual demise.",
+                0.7791218913313943
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Carol Reed": {
+                "args": [
+                    [
+                        "10_crafting plot through dynamic use of london locations and a magnificent embassy set designed by vincent korda, reed and venerable cinematographer georges périnal set a fascinating, multilayered stage for phil's dilemma.",
+                        0.7230734716530436
+                    ],
+                    [
+                        "11_this is an example of a writer and director working in perfect harness, with reed smoothly ratcheting up the story's suspense and greene speculating on his cardinal theme of moral ambiguity.",
+                        0.8399448999473342
+                    ],
+                    [
+                        "13_the fallen idol is actually a superior psychological drama [to reed's the third man..",
+                        0.6845390735405783
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_graham greene liked to say that he preferred the fallen idol (1948) to the more famous the third man (1949) because it was more a writer's film than a director's.",
+                0.729369626929194
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Graham Greene": {
+                "args": [
+                    [
+                        "11_this is an example of a writer and director working in perfect harness, with reed smoothly ratcheting up the story's suspense and greene speculating on his cardinal theme of moral ambiguity.",
+                        0.8399448999473342
+                    ],
+                    [
+                        "12_graham greene liked to say that he preferred the fallen idol (1948) to the more famous the third man (1949) because it was more a writer's film than a director's.",
+                        0.729369626929194
+                    ]
+                ]
+            },
+            "Lesley Storm": {
+                "args": []
+            },
+            "William P. Templeton": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "James Hayter": {
+                "args": []
+            },
+            "Michèle Morgan": {
+                "args": []
+            },
+            "Dora Bryan": {
+                "args": []
+            },
+            "George Woodbridge": {
+                "args": []
+            },
+            "Denis O'Dea": {
+                "args": []
+            },
+            "Joan Young": {
+                "args": []
+            },
+            "Ethel Coleridge": {
+                "args": []
+            },
+            "Bobby Henrey": {
+                "args": []
+            },
+            "Torin Thatcher": {
+                "args": []
+            },
+            "Hay Petrie": {
+                "args": []
+            },
+            "Sonia Dresdel": {
+                "args": []
+            },
+            "Gerard Heinz": {
+                "args": []
+            },
+            "Jack Hawkins": {
+                "args": []
+            },
+            "John Ruddock": {
+                "args": []
+            },
+            "Bernard Lee": {
+                "args": []
+            },
+            "Ralph Richardson": {
+                "args": [
+                    [
+                        "8_a fine sensitive story, a brilliant child star and a polished cast, headed by ralph richardson and michele morgan, combine to make the fallen idol a satisfying piece of intelligent entertainment.",
+                        0.7735862217790741
+                    ]
+                ]
+            },
+            "Nora Gordon": {
+                "args": []
+            },
+            "James Swan": {
+                "args": []
+            },
+            "Geoffrey Keen": {
+                "args": []
+            },
+            "Walter Fitzgerald": {
+                "args": []
+            },
+            "Dandy Nichols": {
+                "args": []
+            },
+            "Karel Stepanek": {
+                "args": []
+            },
+            "Ralph Norman": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

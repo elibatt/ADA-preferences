@@ -1,0 +1,128 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "3_if film fans trek to their local cinema, the meticulously staged war sequences, played like chess games, will keep them intrigued.",
+                0.718096073297149
+            ],
+            [
+                "4_the best thing about this napoleon can be found in the scenes that reproduce the intense relationship between bonaparte and his first wife, josephine.",
+                0.793619282525567
+            ],
+            [
+                "14_“napoleon” is consistently surprising partly because it doesn’t conform to the conventions of mainstream historical epics, which is especially true of its startling, adamantly unromanticized title character.",
+                0.6862987563860838
+            ],
+            [
+                "16_indeed, at times the film plays like an enormous trailer for the four-hour version rumoured to be heading towards apple tv+.",
+                -0.6035797373075298
+            ],
+            [
+                "18_those battle sequences are breathtaking – a marvel of craft and filmmaking that elevates napoleon and saves it from being relegated to the discards pile of cinema history.",
+                0.8116343355274462
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "5",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "2_ridley scott delivers a spectacular ",
+                0.7672600935927554
+            ],
+            [
+                "5_i feel like ridley scott and joaquin phoenix dislike napoleon too much to actually make a film about napoleon.",
+                -0.6805549457230111
+            ]
+        ],
+        "entities": {
+            "Ridley Scott": {
+                "unique_args": [
+                    [
+                        "2_ridley scott delivers a spectacular ",
+                        0.7672600935927554
+                    ],
+                    [
+                        "5_i feel like ridley scott and joaquin phoenix dislike napoleon too much to actually make a film about napoleon.",
+                        -0.6805549457230111
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "14_“napoleon” is consistently surprising partly because it doesn’t conform to the conventions of mainstream historical epics, which is especially true of its startling, adamantly unromanticized title character.",
+                0.6862987563860838
+            ]
+        ],
+        "entities": {
+            "David Scarpa": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "5_i feel like ridley scott and joaquin phoenix dislike napoleon too much to actually make a film about napoleon.",
+                -0.6805549457230111
+            ]
+        ],
+        "entities": {
+            "Joaquin Phoenix": {
+                "unique_args": [
+                    [
+                        "5_i feel like ridley scott and joaquin phoenix dislike napoleon too much to actually make a film about napoleon.",
+                        -0.6805549457230111
+                    ]
+                ]
+            },
+            "Vanessa Kirby": {
+                "unique_args": []
+            },
+            "Ben Miles": {
+                "unique_args": []
+            },
+            "Tahar Rahim": {
+                "unique_args": []
+            },
+            "Ludivine Sagnier": {
+                "unique_args": []
+            },
+            "Ian McNeice": {
+                "unique_args": []
+            },
+            "John Hollingworth": {
+                "unique_args": []
+            },
+            "Paul Rhys": {
+                "unique_args": []
+            },
+            "Youssef Kerkour": {
+                "unique_args": []
+            },
+            "Phil Cornwell": {
+                "unique_args": []
+            },
+            "Edouard Philipponnat": {
+                "unique_args": []
+            },
+            "Gavin Spokes": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_\"american animals\" is fascinating, funny and, in the end, deep.",
+                0.6810434535044383
+            ],
+            [
+                "6_\"american animals\" evokes the feeling of an anxiety dream, specifically the common one in which you know you've done something bad and irrevocable and now must live with the consequences.",
+                0.6252939058790749
+            ],
+            [
+                "11_how you feel about this film hinges solely on whether you think this redemption is warranted.",
+                -0.5237127192618392
+            ],
+            [
+                "12_it's a film that tosses questions at the viewer with no interest in answering them, one that can't decide if it feels for its subjects or just wants to mock their incompetence.",
+                -0.571930880194544
+            ],
+            [
+                "13_american animals is one fact-based heist frolic with a youthful slant that works in spite of itself.",
+                0.7095537612468537
+            ],
+            [
+                "15_layton's tactic of cutting to the members of the real-life robbery team, and having them weigh in on the action, short-circuits the film's electricity.",
+                -0.5585332848483365
+            ],
+            [
+                "18_while the participants in \"american animals\" only imagine they're different, the film about them is the real deal.",
+                0.5839736135338991
+            ],
+            [
+                "21_there is something soulless and mechanical about \"american animals,\" as if it had been made by a martin scorsese smartphone app and scored to a spotify classic rock playlist.",
+                -0.6007033025398106
+            ],
+            [
+                "22_the movie turned my stomach.",
+                -0.6593976679342191
+            ],
+            [
+                "25_american animals feels like a new kind of true-crime thriller: one that shamelessly rewrites its truths in real time as it goes.",
+                -0.6871898114458929
+            ],
+            [
+                "27_american animals is fiercely entertaining from start to finish, even when its characters are acting so dumb that you start to suspect they still have some more evolving to do.",
+                -0.7445231075243723
+            ],
+            [
+                "28_american animals is ultimately a fairly straightforward heist movie, albeit a stylish and engaging one.",
+                0.5763871686287172
+            ],
+            [
+                "30_a riveting college-boy crime caper that tiggers along on pure movie-movie adrenalin, before u-turning into a sobering reflection on young male privilege and entitlement.",
+                0.743170240629366
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Bart Layton": {
+                "args": [
+                    [
+                        "0_\"american animals\" is one of the year's smartest, most captivating films, and layton stages it with the precision of a perfect crime.",
+                        0.90552517220522
+                    ],
+                    [
+                        "7_thanks to layton's filmmaking choices, \"american animals\" ends up being not so much a crime movie as an examination of truth and memory, as well as blame and responsibility.",
+                        0.5495977853295997
+                    ],
+                    [
+                        "10_writer/director bart layton employs all the tricks in the docufiction playbook...",
+                        0.5071306214706993
+                    ],
+                    [
+                        "14_ filmmaker bart layton's blend of recreations and real-life participants commenting on the action gives this true-crime comedy an edge.",
+                        0.7566476322390168
+                    ],
+                    [
+                        "16_writer-director bart layton's slick, music-fueled assemblage of recreated narrative and documentary manages to be as deftly comic and suspenseful as the bank job movies from which layton, and the incident's perpetrators, took inspiration.",
+                        0.8131502162713844
+                    ],
+                    [
+                        "17_stuffed with references to classic crime flicks, american animals is british writer-director bart layton's clever and assured bid to rival stanley kubrick and quentin tarantino.",
+                        0.7543538793778406
+                    ],
+                    [
+                        "24_bart layton's movie tells a true story, more or less, with an emphasis on the stories that the characters tell themselves, and the inevitable trouble that ensues.",
+                        0.7402166769387895
+                    ],
+                    [
+                        "26_director bart layton's heist yarn is an exhilarating exercise in art imitating life (that was imitating art).",
+                        0.7185761499797404
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Bart Layton": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_the holes in the script are a pesky issue, ",
+                -0.5767112569014645
+            ],
+            [
+                "17_stuffed with references to classic crime flicks, american animals is british writer-director bart layton's clever and assured bid to rival stanley kubrick and quentin tarantino.",
+                0.7543538793778406
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Udo Kier": {
+                "args": []
+            },
+            "Barry Keoghan": {
+                "args": []
+            },
+            "Jared Abrahamson": {
+                "args": []
+            },
+            "Blake Jenner": {
+                "args": []
+            },
+            "Ann Dowd": {
+                "args": []
+            },
+            "Evan Peters": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_american animals is fiercely entertaining from start to finish, even when its characters are acting so dumb that you start to suspect they still have some more evolving to do.",
+                -0.7445231075243723
+            ]
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_this is a shameful piece of history that deserves a far better film.",
+                0.7479079356032561
+            ],
+            [
+                "3_while \"bitter harvest\" will undoubtedly serve to raise awareness, there can be no doubt that the events deserve a more compelling and responsible treatment than this.",
+                0.6302263612048388
+            ],
+            [
+                "6_even accounting for the difficulty, \"bitter harvest\" is a weak effort, with nothing to redeem it save for a certain base level of competence.",
+                -0.7822030784354569
+            ],
+            [
+                "8_, \"bitter harvest\" is guilty of overkill.",
+                -0.7666842281395276
+            ],
+            [
+                "9_bitter harvest\" could have borne substantial fruit ",
+                -0.6584560569527018
+            ],
+            [
+                "14_ a subject like the holodomor demands something more than a tv-movie aesthetic and pitched battle scenes featuring a couple dozen combatants ...",
+                -0.571357170533021
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "George Mendeluk": {
+                "args": [
+                    [
+                        "5_given the scope of the early-1930s atrocity, the most shocking thing about director george mendeluk's new dramatization is how utterly devoid of emotional impact it is.",
+                        0.6332865379347624
+                    ],
+                    [
+                        "10_the romance turns it into a soap-opera treatment, undercut by iffy acting and a story that never captures what mendeluk is striving for.",
+                        -0.6435706422256252
+                    ],
+                    [
+                        "11_perhaps not the best backdrop for a trite love story, nor does mendeluk have quite the epic vision of david lean in \"doctor zhivago.\"",
+                        0.7987636926144294
+                    ],
+                    [
+                        "12_it looks and feels like a harmless television movie from 30 years ago - perhaps because its director, george mendeluk, has been churning out tv content (\"riddles of the sphinx\") at a brisk clip since 1977.",
+                        -0.6036202764457492
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Nastya Kotash": {
+                "args": []
+            },
+            "Igor Gnezdilov": {
+                "args": []
+            },
+            "Bondareva Lena B. Vysotskogo": {
+                "args": []
+            },
+            "Tom Austen": {
+                "args": []
+            },
+            "William Key": {
+                "args": []
+            },
+            "Vladimir Miroshnichenko": {
+                "args": []
+            },
+            "Valentina Zubchenko": {
+                "args": []
+            },
+            "Barry Pepper": {
+                "args": []
+            },
+            "Olena Chernova": {
+                "args": []
+            },
+            "Veronika Bratusina": {
+                "args": []
+            },
+            "Oles Katsion": {
+                "args": []
+            },
+            "Tamer Hassan": {
+                "args": []
+            },
+            "Michael Jenn": {
+                "args": []
+            },
+            "Malcolm Freeman": {
+                "args": []
+            },
+            "Arina Kotash": {
+                "args": []
+            },
+            "Rob Mitchell-James": {
+                "args": []
+            },
+            "Richard Ashton": {
+                "args": []
+            },
+            "Terry Victor": {
+                "args": []
+            },
+            "Alex Pecherytsia": {
+                "args": []
+            },
+            "Rod Hunt": {
+                "args": []
+            },
+            "Evgeniy Papernyy": {
+                "args": []
+            },
+            "Denis Tarasov": {
+                "args": []
+            },
+            "Lucy Brown": {
+                "args": []
+            },
+            "Dylan Williams": {
+                "args": []
+            },
+            "Joey Price": {
+                "args": []
+            },
+            "Paul Hickey": {
+                "args": []
+            },
+            "Vitaliy Saliy": {
+                "args": []
+            },
+            "Kathy Kiera Clarke": {
+                "args": []
+            },
+            "Aneurin Barnard": {
+                "args": []
+            },
+            "Vladimir Gordeev": {
+                "args": []
+            },
+            "Ostap Stupka": {
+                "args": []
+            },
+            "Gurov Danil": {
+                "args": []
+            },
+            "Alexandr Tarasevich": {
+                "args": []
+            },
+            "Max Irons": {
+                "args": []
+            },
+            "Adam McNamara": {
+                "args": []
+            },
+            "Igor Miroshnichenko": {
+                "args": []
+            },
+            "Valeria Hodos": {
+                "args": []
+            },
+            "Samantha Barks": {
+                "args": []
+            },
+            "Svetlana Orlichenko": {
+                "args": []
+            },
+            "Valentin Semko": {
+                "args": []
+            },
+            "William Beck": {
+                "args": []
+            },
+            "Edward Akrout": {
+                "args": []
+            },
+            "Vita Smachelyuk": {
+                "args": []
+            },
+            "Jane Thorne": {
+                "args": []
+            },
+            "Richard Brake": {
+                "args": []
+            },
+            "Terence Stamp": {
+                "args": []
+            },
+            "Gary Oliver": {
+                "args": []
+            },
+            "Jack Hollington": {
+                "args": []
+            },
+            "Anastasia Karpenko": {
+                "args": []
+            },
+            "Timothy Charles": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_the romance turns it into a soap-opera treatment, undercut by iffy acting and a story that never captures what mendeluk is striving for.",
+                -0.6435706422256252
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Richard Bachynsky Hoover": {
+                "args": []
+            },
+            "George Mendeluk": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

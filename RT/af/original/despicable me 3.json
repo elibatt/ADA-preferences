@@ -1,0 +1,175 @@
+{
+    "acting": {
+        "entities": {
+            "Jenny Slate": {
+                "args": []
+            },
+            "Nev Scharrel": {
+                "args": []
+            },
+            "Trey Parker": {
+                "args": [
+                    [
+                        "10_(trey parker) aren't at the center of the action.",
+                        -0.6759259907794515
+                    ],
+                    [
+                        "25_this rather clever, breakneck-paced cartoon gives fans exactly what they want: like the new nemesis voiced by trey parker, it shoots mulitple machine-gun bursts of bubblegum at the audience, asking them to chew and enjoy.",
+                        0.6848020527861584
+                    ]
+                ]
+            },
+            "Steve Coogan": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": []
+            },
+            "Andy Nyman": {
+                "args": []
+            },
+            "Russell Brand": {
+                "args": []
+            },
+            "Steve Carell": {
+                "args": [
+                    [
+                        "0_steve carell doubles your fun in despicable me 3 - voicing feuding twin bros.",
+                        0.6776131937157605
+                    ],
+                    [
+                        "11_what shines through is the visual wit and innate sweetness of the storytelling, and carell's cackling, cueball-skulled misanthrope ...",
+                        0.6887106163514641
+                    ]
+                ]
+            },
+            "Julie Andrews": {
+                "args": []
+            },
+            "Miranda Cosgrove": {
+                "args": []
+            },
+            "Dana Gaier": {
+                "args": []
+            },
+            "Michael Beattie": {
+                "args": []
+            },
+            "Pierre Coffin": {
+                "args": [
+                    [
+                        "2_by the midpoint, the movie, which is directed by three different people - franchise regular pierre coffin gets help from éric guillon and kyle balda - is dragging badly.",
+                        -0.7203655527256838
+                    ],
+                    [
+                        "26_ it mostly works, as co-directors pierre coffin (who also voices the minions) and kyle balda never lose sight of the film's emotional center, packing the rest with as much humor as they can manage.",
+                        0.643402771981776
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ken Daurio": {
+                "args": []
+            },
+            "Cinco Paul": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_it's a perfectly reasonable option for a family movie outing and isn't so bad that adults will cringe.",
+                -0.8016793358559617
+            ],
+            [
+                "3_\"despicable me 3\" has some laughs, ",
+                -0.5149631697723194
+            ],
+            [
+                "5_while the first movie was, as noted, at its core rather charming, for despicable me, the third time definitely isn't the charm.",
+                -0.555019542564561
+            ],
+            [
+                "6_here's some despicable me math: third movie plus gru times two plus one new supervillain = not much of anything.",
+                -0.7139831473255576
+            ],
+            [
+                "9_whatever the mood, you'll find yourself in a better one after watching despicable me 3.",
+                0.6493745167109259
+            ],
+            [
+                "12_\"despicable me 3\" disappoints, if only mildly, not because it's bad, ",
+                -0.760909243687334
+            ],
+            [
+                "13_the minions have proved they can't headline a movie, yet they pretty much carry this one.",
+                -0.7639525801677566
+            ],
+            [
+                "15_when despicable me 4 arrives a few years hence, let's hope it's regained a bit of that unicorn magic.",
+                0.6248158796650829
+            ],
+            [
+                "18_the latest animated \"despicable me\" outing shows signs of wear even as its energy level escalates.",
+                0.6544920760776475
+            ],
+            [
+                "19_in the end ... the movie's superior craftsmanship can't overcome its aura of joylessness.",
+                -0.5058548609711316
+            ],
+            [
+                "19_it feels like a set-up to yet another sequel - which is no doubt on the drawing board - not a film that stands confidently on its own.",
+                -0.5680502366445682
+            ],
+            [
+                "20_it's the minions to the rescue in \"despicable me 3.\"",
+                0.5091590772340272
+            ],
+            [
+                "23_the whiz-bang joy of the first film is wholly absent, and \"despicable me 3\" limps along for nearly an hour before finding its footing (and, also, maybe an actual unicorn).",
+                0.5365390374098504
+            ],
+            [
+                "24_\"despicable me 3\" feels a bit like a rebuilding episode, introducing new characters and clearly setting us up for the inevitable \"despicable me 4.\"",
+                0.6072666305551832
+            ],
+            [
+                "26_\"despicable me 3\" is unwieldy, ",
+                -0.5412766228342794
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Kyle Balda": {
+                "args": [
+                    [
+                        "2_by the midpoint, the movie, which is directed by three different people - franchise regular pierre coffin gets help from éric guillon and kyle balda - is dragging badly.",
+                        -0.7203655527256838
+                    ],
+                    [
+                        "26_ it mostly works, as co-directors pierre coffin (who also voices the minions) and kyle balda never lose sight of the film's emotional center, packing the rest with as much humor as they can manage.",
+                        0.643402771981776
+                    ]
+                ]
+            },
+            "Pierre Coffin": {
+                "args": []
+            },
+            "Eric Guillon": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

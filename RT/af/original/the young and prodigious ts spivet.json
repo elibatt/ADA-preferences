@@ -1,0 +1,125 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Harry Standjofski": {
+                "args": []
+            },
+            "Amy Sobol": {
+                "args": []
+            },
+            "Pauline Little": {
+                "args": []
+            },
+            "Jakob Davies": {
+                "args": []
+            },
+            "Mairtin O'Carrigan": {
+                "args": []
+            },
+            "Dominique Pinon": {
+                "args": []
+            },
+            "Julian Richings": {
+                "args": []
+            },
+            "Pierre Yves Leblanc": {
+                "args": []
+            },
+            "Michel Perron": {
+                "args": []
+            },
+            "Lisa Bronwyn Moore": {
+                "args": []
+            },
+            "Dawn Ford": {
+                "args": []
+            },
+            "Gordon Masten": {
+                "args": []
+            },
+            "Helena Bonham Carter": {
+                "args": []
+            },
+            "Judy Davis": {
+                "args": []
+            },
+            "Rick Mercer": {
+                "args": []
+            },
+            "Brent Skagford": {
+                "args": []
+            },
+            "Felicia Shulman": {
+                "args": []
+            },
+            "Kyle Catlett": {
+                "args": []
+            },
+            "Callum Keith Rennie": {
+                "args": []
+            },
+            "Leni Parker": {
+                "args": []
+            },
+            "Susan Glover": {
+                "args": []
+            },
+            "Kyle Gatehouse": {
+                "args": []
+            },
+            "Niamh Wilson": {
+                "args": []
+            },
+            "James Bradford": {
+                "args": []
+            },
+            "Richard Jutras": {
+                "args": []
+            },
+            "Dylan Kingwell": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean-Pierre Jeunet": {
+                "args": [
+                    [
+                        "0_the young and prodigious t.s. spivet is the perfect 3d vehicle and jeunet takes full advantage, offering a feast of amusing visual flourishes suited to the book's playfulness.",
+                        0.7734469836427846
+                    ],
+                    [
+                        "1_the quirky charm, visual wit and melancholy undertow of reif larsen's the selected works of t.s. spivet translate joyously to the screen in jean-pierre jeunet's the young and prodigious t.s. spite.",
+                        0.6676359152320828
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jean-Pierre Jeunet": {
+                "args": []
+            },
+            "Guillaume Laurant": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_a challenging film that adults might enjoy ",
+                0.679425073719633
+            ]
+        ]
+    }
+}

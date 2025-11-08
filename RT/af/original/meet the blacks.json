@@ -1,0 +1,97 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_a tortured use of another movie's absurd mythology to help make muddled quasi-satirical points, while indulging the apparently fail-safe punchline of saying the word \"purge\" about once a minute.",
+                -0.7332829581770053
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Andrew Bachelor": {
+                "args": []
+            },
+            "Zulay Henao": {
+                "args": []
+            },
+            "Jeffrey T Ferguson": {
+                "args": [
+                    [
+                        "0_the movie as a whole is such an incompetent train wreck, you can't look away, just to see how much worse it can get.",
+                        -0.6765442036209296
+                    ]
+                ]
+            },
+            "Michael Caradonna": {
+                "args": []
+            },
+            "Michael Blackson": {
+                "args": []
+            },
+            "Phil Austin": {
+                "args": []
+            },
+            "Kate Enggren": {
+                "args": []
+            },
+            "Charlie Murphy": {
+                "args": []
+            },
+            "Alex Henderson": {
+                "args": []
+            },
+            "Kathrien Ahn": {
+                "args": []
+            },
+            "Mike Tyson": {
+                "args": []
+            },
+            "George Lopez": {
+                "args": []
+            },
+            "Perez Hilton": {
+                "args": []
+            },
+            "Mike Epps": {
+                "args": []
+            },
+            "Lil Duval": {
+                "args": []
+            },
+            "Bresha Webb": {
+                "args": []
+            },
+            "DeRay Davis": {
+                "args": []
+            },
+            "Gary Owen": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Nicole DeMasi": {
+                "args": []
+            },
+            "Deon Taylor": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Deon Taylor": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rob Lowe": {
+                "args": []
+            },
+            "Rob Riggle": {
+                "args": []
+            },
+            "Kristen Bell": {
+                "args": []
+            },
+            "Rob Corddry": {
+                "args": []
+            },
+            "Raquel Welch": {
+                "args": []
+            },
+            "Salma Hayek": {
+                "args": []
+            },
+            "Eugenio Derbez": {
+                "args": [
+                    [
+                        "1_the best moments are between him and co-stars salma hayek and young raphael alejandro, who both have an easy chemistry with derbez.",
+                        0.837079137912738
+                    ],
+                    [
+                        "2_surprisingly deft in mixing mr. derbez's broad ",
+                        0.7362610028116195
+                    ],
+                    [
+                        "6_ amusing farce that serves as another hand-tooled vehicle for 'instructions not included' star eugenio derbez.",
+                        0.545720763887859
+                    ]
+                ]
+            },
+            "Michael Cera": {
+                "args": []
+            },
+            "Raphael Alejandro": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the feel-good satire how to be a latin lover",
+                -0.5357761490545379
+            ],
+            [
+                "3_ most of the jokes work for the intended audience - with a few even breaking through to more resistant viewers.",
+                -0.5602005398221909
+            ],
+            [
+                "4_how to be a latin lover doesn't know how to be a comedy-at least not a 21st century one that can get away with dopey double entendres while promoting the importance of family ties over money.",
+                -0.6476593631207543
+            ],
+            [
+                "5_how to be a latin lover is basically an adam sandler movie without the happy madison shingle.",
+                -0.6552535454592785
+            ],
+            [
+                "7_\"how to be a latin lover\" is a lot like the title character: soft and flabby around the middle, ",
+                -0.6828135127423348
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ken Marino": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_\"how to be a latin lover\" is a lot like the title character: soft and flabby around the middle, ",
+                -0.6828135127423348
+            ]
+        ],
+        "entities": {
+            "Chris Spain": {
+                "args": []
+            },
+            "Jon Zack": {
+                "args": []
+            }
+        }
+    }
+}

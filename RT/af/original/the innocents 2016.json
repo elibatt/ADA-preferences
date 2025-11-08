@@ -1,0 +1,193 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_director and co-writer anne fontaine makes every shot and every exchange count in her tender ",
+                0.6361350086570933
+            ]
+        ],
+        "entities": {
+            "Anne Fontaine": {
+                "args": []
+            },
+            "Philippe Maynial": {
+                "args": []
+            },
+            "Pascal Bonitzer": {
+                "args": []
+            },
+            "Sabrina B. Karine": {
+                "args": []
+            },
+            "Alice Vial": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_an emotionally involving rather than harrowing film, with scenes as beautiful as oil paintings.",
+                0.8646335620986894
+            ],
+            [
+                "3_, \"the innocents\" is beautifully performed by its nearly all-female cast",
+                0.6069579942472358
+            ],
+            [
+                "5_the innocents is a powerful, brave film that will stay with you for days.",
+                0.869860022140302
+            ],
+            [
+                "10_through the example of friendship and cooperation, \"the innocents\" shines a glimmer of hope on a period of great doubt.",
+                0.723719887288773
+            ],
+            [
+                "11_we should have our own movies like \"the innocents.\"",
+                0.5551301766676622
+            ],
+            [
+                "13_a complex social allegory, delivered in a film of masterful restraint and great compassion.",
+                0.8509291307417912
+            ],
+            [
+                "15_\"the innocents\" weaves several narrative strands into a complex of themes that sometimes pull against one another.",
+                0.597919644011679
+            ],
+            [
+                "17_\"the innocents\" soars above its seeming contradictions.",
+                0.6454578391510724
+            ],
+            [
+                "21_if there's a war movie we haven't seen enough of yet, it's one told from the female perspective, one that further obscures who the good guys and bad guys really are.",
+                0.5469765757714102
+            ],
+            [
+                "22_hope and horror are commingled to quietly moving effect in [the innocents], a restrained ",
+                0.6555637583317523
+            ],
+            [
+                "23_what thus remains is a film that looks painterly and features solid performances ",
+                0.7610042177016546
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "3_, \"the innocents\" is beautifully performed by its nearly all-female cast",
+                0.6069579942472358
+            ]
+        ],
+        "entities": {
+            "Vincent Macaigne": {
+                "args": []
+            },
+            "Helena Sujecka": {
+                "args": []
+            },
+            "Mariusz Jakus": {
+                "args": []
+            },
+            "Otar Saralidze": {
+                "args": []
+            },
+            "Dorota Kuduk": {
+                "args": []
+            },
+            "Thomas Coumans": {
+                "args": []
+            },
+            "Agata Kulesza": {
+                "args": []
+            },
+            "Pascal Elso": {
+                "args": []
+            },
+            "Eliza Rycembel": {
+                "args": []
+            },
+            "Joanna Kulig": {
+                "args": []
+            },
+            "Joanna Fertacz": {
+                "args": []
+            },
+            "Denys Ivenov": {
+                "args": []
+            },
+            "Mira Maluszinska": {
+                "args": []
+            },
+            "Klara Bielawka": {
+                "args": []
+            },
+            "Sasza Reznikow": {
+                "args": []
+            },
+            "Agata Buzek": {
+                "args": []
+            },
+            "Lou de Laâge": {
+                "args": []
+            },
+            "Anna Próchniak": {
+                "args": []
+            },
+            "Aliaksandr Malchanau": {
+                "args": []
+            },
+            "Leon Latan": {
+                "args": []
+            },
+            "Tomasz Sobczak": {
+                "args": []
+            },
+            "Artur Janusiak": {
+                "args": []
+            },
+            "Zacharjasz Muszynski": {
+                "args": []
+            },
+            "Pawel Janyst": {
+                "args": []
+            },
+            "Katarzyna Dabrowska": {
+                "args": []
+            },
+            "Helena Norowicz": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "16_both grimmer and meatier than the director's previous efforts.",
+                0.6378823471621405
+            ]
+        ],
+        "entities": {
+            "Anne Fontaine": {
+                "args": [
+                    [
+                        "1_director and co-writer anne fontaine makes every shot and every exchange count in her tender ",
+                        0.6361350086570933
+                    ],
+                    [
+                        "4_ director anne fontaine keeps everything on an even keel -- too even.",
+                        -0.5837246229011719
+                    ],
+                    [
+                        "14_veteran french director anne fontaine approaches a spiritually and emotionally complex real-life slice of history with deftness and understated drama in \"the innocents.\"",
+                        0.7187936076408804
+                    ]
+                ]
+            }
+        }
+    }
+}

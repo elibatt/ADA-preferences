@@ -1,0 +1,168 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"aquarius\" is about a half-hour too long for the story it tells, yet it feels like a privilege to be in the presence of such a powerful character and such a quietly commanding performance.",
+                -0.642296408046799
+            ],
+            [
+                "1_this isn't a movie about a situation",
+                -0.688426275753166
+            ],
+            [
+                "1_ it's a movie about a fully formed, red-blooded character dealing with a situation while also dealing with everything else.",
+                0.5510091663355018
+            ],
+            [
+                "3_this is a film more about the sacredness of our memories than the evil ways of gentrification, ",
+                0.7198516608228673
+            ],
+            [
+                "5_\"aquarius\" makes a compelling case for looking up from our ubiquitous distractions to take in the world around us - the one that we live in and, whether we're aware of it or not, lives in us.",
+                0.8698438409785374
+            ],
+            [
+                "6_filho is a born filmmaker whose storytelling rarely follows expected narrative pathways, and \"aquarius\" takes its sweet time, focusing on what appear to be inconsequential details and gradually building force by accretion.",
+                0.7727550547478297
+            ],
+            [
+                "8_ aquarius has so many individual moments of grace that it rewards you for sticking around.",
+                0.6599108986197026
+            ],
+            [
+                "9_\"aquarius\" is a marvelous and surprising act of portraiture, a long, unhurried encounter with a single, complicated person.",
+                0.7107783748856886
+            ],
+            [
+                "10_a film with an almost proustian understanding of how a favorite song - or, for that matter, a sacred space or a cherished piece of furniture - can become a repository of personal meaning.",
+                0.7012772572034517
+            ],
+            [
+                "11_aquarius is something special.",
+                0.5674626670458305
+            ],
+            [
+                "14_in a long film of many turns, her performance - weathered, proud, sensuous, fragile - captivates and brings us into her world.",
+                0.7569509883577066
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kleber Mendonça Filho": {
+                "args": [
+                    [
+                        "3_ skilled director kleber mendonca filho is clearly interested in both.",
+                        0.6386959134052561
+                    ],
+                    [
+                        "4_ this drama by the brazilian director kleber mendonça filho quickly lapses into sentimental attitudinizing.",
+                        -0.7138748477854868
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Kleber Mendonça Filho": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_\"aquarius\" is about a half-hour too long for the story it tells, yet it feels like a privilege to be in the presence of such a powerful character and such a quietly commanding performance.",
+                -0.642296408046799
+            ],
+            [
+                "1_ it's a movie about a fully formed, red-blooded character dealing with a situation while also dealing with everything else.",
+                0.5510091663355018
+            ],
+            [
+                "16_a character study as well as a shrewd meditation on the needless transience of place and the way physical space elides with our identity.",
+                0.7925179346583927
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Buda Lira": {
+                "args": []
+            },
+            "Fernando Teixeira": {
+                "args": []
+            },
+            "Paula De Renor": {
+                "args": []
+            },
+            "Pedro Queiroz": {
+                "args": []
+            },
+            "Rubens Santos": {
+                "args": []
+            },
+            "Daniel Porpino": {
+                "args": []
+            },
+            "Humberto Carrão": {
+                "args": []
+            },
+            "Maeve Jinkings": {
+                "args": []
+            },
+            "Barbara Colen": {
+                "args": []
+            },
+            "Sonia Braga": {
+                "args": [
+                    [
+                        "4_despite sonia braga's fierce performance as a woman of unbreakable determination and proud refinement,",
+                        0.8286429870389388
+                    ],
+                    [
+                        "7_but braga is working on another level,",
+                        -0.5736488266908502
+                    ],
+                    [
+                        "13_sonia braga gives the performance of her long, storied career in aquarius.",
+                        0.6235252414494953
+                    ],
+                    [
+                        "15_sonia braga shines in this rather classic portrait of a woman who won't let go.",
+                        0.5759867260455894
+                    ]
+                ]
+            },
+            "Irandhir Santos": {
+                "args": []
+            },
+            "Fábio Leal": {
+                "args": []
+            },
+            "Julia Bernat": {
+                "args": []
+            },
+            "Thaia Perez": {
+                "args": []
+            },
+            "Carla Ribas": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_\"aquarius\" is about a half-hour too long for the story it tells, yet it feels like a privilege to be in the presence of such a powerful character and such a quietly commanding performance.",
+                -0.642296408046799
+            ],
+            [
+                "14_in a long film of many turns, her performance - weathered, proud, sensuous, fragile - captivates and brings us into her world.",
+                0.7569509883577066
+            ]
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "writer": {
+        "entities": {
+            "Daniel Scheinert": {
+                "args": []
+            },
+            "Daniel Kwan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "30_pair these nutty directors with a screenwriter who actually understands storytelling and structure, and you get something interesting.",
+                0.5587292927994721
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Marika Casteel": {
+                "args": []
+            },
+            "Paul Dano": {
+                "args": []
+            },
+            "Daniel Radcliffe": {
+                "args": [
+                    [
+                        "20_dano, as a dude who washes up on a desert island, and radcliffe, as a farting corpse, go their own nutter way.",
+                        0.672754477951194
+                    ]
+                ]
+            },
+            "Richard Gross": {
+                "args": []
+            },
+            "Aaron Marshall": {
+                "args": []
+            },
+            "Andy Hull": {
+                "args": []
+            },
+            "Antonia Ribero": {
+                "args": []
+            },
+            "Shane Carruth": {
+                "args": []
+            },
+            "Timothy Eulich": {
+                "args": []
+            },
+            "Mary Elizabeth Winstead": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_if you've been looking for a film that puts a daringly surreal spin on \"cast away,\" you'll be in paradise.",
+                0.5784807731205189
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_this movie is every bit as whimsical as [jonze and gondry's] work ",
+                0.5008476166510306
+            ],
+            [
+                "1_by the end, having failed in its attempt at cleverness, the movie veers into sentiment, the inevitable last resort.",
+                -0.749759084874023
+            ],
+            [
+                "1_the movie fails at that, too.",
+                -0.7196757434766652
+            ],
+            [
+                "2_if you stick with it, there's a chance it'll grow on you as it grew on me - and you'll be rewarded with maybe the best ending of any movie so far this year.",
+                0.8765520423273352
+            ],
+            [
+                "5_a movie about the safe haven of imagination, about loneliness and despair and resilience, about obsession and, um, stalking.",
+                0.7642018607905972
+            ],
+            [
+                "7_swiss army man is rude, crude, bizarre and oddly touching.",
+                0.536455076888691
+            ],
+            [
+                "8_for all its body-centric gags, the movie sneaks up on you, offering the chance to examine the way we live instead of wandering around on autopilot.",
+                0.630750768243562
+            ],
+            [
+                "9_if you can't remember the title for this film at the box office, ask for \"the farting corpse movie.\"",
+                -0.6918389086408787
+            ],
+            [
+                "10_this is frustrating: \"swiss army man\" de",
+                -0.6281165609967632
+            ],
+            [
+                "11_if you've been looking for a film that puts a daringly surreal spin on \"cast away,\" you'll be in paradise.",
+                0.5784807731205189
+            ],
+            [
+                "12_\"swiss army man\" is crazy, magical, absurd, funny, sad, creepy - all that and probably more.",
+                0.5875502326955271
+            ],
+            [
+                "13_sometimes hilarious, ultimately poignant, \"swiss army man\" is a picture like no other.",
+                0.6837739192686302
+            ],
+            [
+                "14_back on planet earth, we're still talking about a ridiculously infantile film, one that flatters itself by intimating a deeper comment about suppressed masculinity and romantic passivity.",
+                0.6526880190668539
+            ],
+            [
+                "15_swiss army man opens as a desert-island fantasy and morphs into a disturbingly intimate buddy movie-hilarious, deranged, and always alive with possibility.",
+                0.8315585361705065
+            ],
+            [
+                "19_swiss army man hints at something deeper that it doesn't quite reach.",
+                -0.6050743239468118
+            ],
+            [
+                "20_this is such a baller of a movie that you keep wishing it would be better than it is.",
+                -0.5630868430463458
+            ],
+            [
+                "21_even with all the design-rich invention and admirably committed weirdness on display in \"swiss army man,\" we're still in the land of immature males, poor-me feelings and superpowers.",
+                -0.5564577618102136
+            ],
+            [
+                "22_\"swiss army man\" nearly makes up with juvenile glee what it lacks in plot and coherence.",
+                0.576495062568983
+            ],
+            [
+                "26_the story is one-note and the movie is about 75 minutes too long.",
+                -0.6529952595389139
+            ],
+            [
+                "27_this excruciatingly cute fantasy, identified since its sundance première as the \"farting corpse movie,\" lives up to that epithet.",
+                -0.5117910246818795
+            ],
+            [
+                "29_the film's contrived quirkiness grows wearisome, and essentially the movie is really just two guys talking in the wilderness for 90 minutes.",
+                -0.699915461397298
+            ],
+            [
+                "32_this movie wears its weirdness as a badge of honor - as well it should.",
+                0.672654949153758
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Daniel Scheinert": {
+                "args": []
+            },
+            "Daniel Kwan": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

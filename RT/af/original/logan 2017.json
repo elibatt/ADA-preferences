@@ -1,0 +1,480 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_make no mistake, logan earns its tears.",
+                -0.5869834438573747
+            ],
+            [
+                "3_strips away the spandex, the posse and the chaos, distilling the story down to the essence of the man, logan.",
+                0.5309597809149813
+            ],
+            [
+                "4_jackman gives logan a withering rage that seems heartfelt, not hammy",
+                0.5383393812944038
+            ],
+            [
+                "9_the only problem with calling it the boldest and most affecting superhero flick in many years is that it's barely a superhero movie at all.",
+                -0.5992654119819745
+            ],
+            [
+                "10_the film celebrates the medium by taking itself seriously, with an added hint of apology for the genre's earlier sins.",
+                0.6996731049882877
+            ],
+            [
+                "11_logan is a family drama, an action thriller and an epic superhero story.",
+                0.6662491842392713
+            ],
+            [
+                "13_on its own terms, logan is a crackerjack piece of work:",
+                0.6867929879524106
+            ],
+            [
+                "17_logan offers an element of completion, and an intriguingly different take on the material.",
+                0.6900577530227208
+            ],
+            [
+                "21_\"logan\" is good enough that you might forget it's a comic-book movie.",
+                0.6213532376986259
+            ],
+            [
+                "23_ logan will likely find a spot among the best comic book adaptations to grace a movie theater.",
+                0.8170243847698625
+            ],
+            [
+                "24_\"logan\" is a serious take on the comic-book genre, the marvel cinematic universe in particular, and it's a good one.",
+                0.7726347914477046
+            ],
+            [
+                "27_logan provides a fitting finale to the wolverine franchise.",
+                0.5964474008819083
+            ],
+            [
+                "28_logan is deadly serious, and while its gamer-style killing sprees are meant to be excitingly brutal, i found them numbing and, in the climax, borderline offensive.",
+                -0.8460577576682005
+            ],
+            [
+                "30_ \"logan\" suggests an escape from escapism, a restoration of the human element in blockbusters, a stripped-down return to the feel of 1970s clint eastwood pictures.",
+                0.518001150440288
+            ],
+            [
+                "31_what's special about logan is that it manages to deliver the visceral goods, all the hardcore wolverine action its fans could desire, while still functioning as a surprisingly ",
+                0.7373713148353532
+            ],
+            [
+                "31_tful, even poignant drama-a terrific movie ...",
+                0.7325461687122334
+            ],
+            [
+                "32_just because a comic book flick takes the dirt road less traveled doesn't mean it's a cinematic work of art.",
+                -0.6342299575794375
+            ],
+            [
+                "34_logan\" - the final chapter in the saga of the x-men's wolverine - is the best superhero-related movie since \"the dark knight\" nearly a decade ago.",
+                0.6734438347018098
+            ],
+            [
+                "36_logan is the rare blockbuster that could be a game-changer.",
+                0.5520987351270392
+            ],
+            [
+                "37_when logan and laura unleash their furious scythes nothing feels settled or satisfied.",
+                -0.509271570981183
+            ],
+            [
+                "39_logan is a punch in the gut in all the right ways.",
+                0.7357258200975965
+            ],
+            [
+                "40_ that doesn't necessarily make it a good movie.",
+                -0.5225277710550198
+            ],
+            [
+                "41_ it could just be the definitive comic book movie.",
+                0.5531348170285644
+            ],
+            [
+                "42_easily the best wolverine outing, logan is the dark knight of the mutant-filled x-franchise, a gripping film that transcends the comic-book genre by saying something important ...",
+                0.8932516171950916
+            ],
+            [
+                "45_it's both the most violent film in the series and the most sentimental one.",
+                0.6907351276330806
+            ],
+            [
+                "46_the analog pace and elemental story work for it.",
+                0.5603557361369232
+            ],
+            [
+                "47_the violence in \"logan\" isn't played for kicks, like it was in \"deadpool.",
+                -0.7536298243569661
+            ],
+            [
+                "47_\" it's grave and serious and sometimes hard to watch, which fits in with the overall tone of this grim, surprisingly downbeat movie.",
+                0.5450714852904157
+            ],
+            [
+                "50_better as an agitated western than as a fading superhero movie (or a listless cross-country chase), the most cantankerous x-man's final outing is a scaled-back affair that nevertheless knows how to swing for the fences.",
+                0.5505996000102219
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Mangold": {
+                "args": [
+                    [
+                        "5_[director] mangold drags [wolverine] - much older, if not much wiser - into a western, and ends up with the best superhero movie in recent memory.",
+                        0.5497249754638116
+                    ],
+                    [
+                        "8_logan was written by scott frank, mr. mangold and michael green.",
+                        -0.569658075461291
+                    ],
+                    [
+                        "8_their script is the crucial ingredient of this impressive production, a model of ambition, complexity and old-fashioned showmanship that's matched by mr. mangold's direction.",
+                        0.7992653687324559
+                    ],
+                    [
+                        "18_director james mangold, returning after the second installment, the wolverine, orchestrates several jaw-dropping action sequences, heightened by jackman's and keen's intense performances and by marco beltrami's taut and plunky score.",
+                        0.6119064746416606
+                    ],
+                    [
+                        "26_with his glimpse into what superhero movies can be, james mangold has given us something sadly lacking in recent genre entries: hope.",
+                        -0.6373451700830435
+                    ],
+                    [
+                        "35_instead of putting the emphasis on superhero superpowers, mangold delves deeply into these characters' human-scale vulnerabilities.",
+                        -0.56696340012487
+                    ],
+                    [
+                        "40_the grim side of human nature is all over james mangold's logan.",
+                        0.53348821099434
+                    ],
+                    [
+                        "44_seamlessly melding marvel mythology with western mythology, james mangold has crafted an affectingly stripped-down standalone feature, one that draws its strength from hugh jackman's nuanced turn as a reluctant, all ",
+                        0.7953860360102619
+                    ],
+                    [
+                        "46_each time the violence explodes, it's slashingly satisfying, because it's earned, and also because mangold knows just how to stage it.",
+                        0.822043245480328
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Chase Cubia": {
+                "args": []
+            },
+            "Dave Davis": {
+                "args": []
+            },
+            "Katie Anne Mitchell": {
+                "args": []
+            },
+            "Michael Lehr": {
+                "args": []
+            },
+            "Parker Lovein": {
+                "args": []
+            },
+            "Krzysztof Soszynski": {
+                "args": []
+            },
+            "Rey Gallegos": {
+                "args": []
+            },
+            "Damon Carney": {
+                "args": []
+            },
+            "Anthony Escobar": {
+                "args": []
+            },
+            "Aidan Kennedy": {
+                "args": []
+            },
+            "Elizabeth Rodriguez": {
+                "args": []
+            },
+            "Jeremy Fitzgerald": {
+                "args": []
+            },
+            "Frank Gallegos": {
+                "args": []
+            },
+            "Lauren Gros": {
+                "args": []
+            },
+            "Luke Hawx": {
+                "args": []
+            },
+            "Emma Teo": {
+                "args": []
+            },
+            "Stephen Merchant": {
+                "args": []
+            },
+            "Vincenzo Lucatorto": {
+                "args": []
+            },
+            "James Handy": {
+                "args": []
+            },
+            "Mali O'Connor": {
+                "args": []
+            },
+            "Toby Holguin": {
+                "args": []
+            },
+            "Baxter Humby": {
+                "args": []
+            },
+            "Bryce Romero": {
+                "args": []
+            },
+            "David E. Simpson": {
+                "args": []
+            },
+            "Rissa Kilar": {
+                "args": []
+            },
+            "Dafne Keen": {
+                "args": [
+                    [
+                        "4_ and keen, who resembles here what katie holmes might look like if she were carrie, has a feral intensity.",
+                        -0.5531224958229799
+                    ]
+                ]
+            },
+            "Al Coronel": {
+                "args": []
+            },
+            "Daniel Hernández": {
+                "args": []
+            },
+            "Elise Neal": {
+                "args": []
+            },
+            "John Bernecker": {
+                "args": []
+            },
+            "Phi Vu": {
+                "args": []
+            },
+            "James Moses Black": {
+                "args": []
+            },
+            "Hugh Jackman": {
+                "args": [
+                    [
+                        "0_if jackman and stewart are serious about this being their mutual x-men swan song, they could not have crafted a more heartfelt valedictory.",
+                        0.5729262537307717
+                    ],
+                    [
+                        "7_jackman's performance is clint eastwood-esque, and the lines in jackman's face tell the story of his worn character",
+                        0.5649669246779757
+                    ],
+                    [
+                        "11_if this is indeed jackman's last wolverine film, he's going out in heartfelt, high-class style.",
+                        -0.5306290222508541
+                    ],
+                    [
+                        "12_logan is kind of a special superhero movie, in a good way, and if jackman holds to his stated intention to make it his wolverine swan song, he's going out not with a whimper ",
+                        0.6356536836437183
+                    ],
+                    [
+                        "14_hugh jackman sharpens his claws in every sense of the word and delivers killer work.",
+                        0.6688291983082266
+                    ],
+                    [
+                        "18_director james mangold, returning after the second installment, the wolverine, orchestrates several jaw-dropping action sequences, heightened by jackman's and keen's intense performances and by marco beltrami's taut and plunky score.",
+                        0.6119064746416606
+                    ],
+                    [
+                        "19_if this is indeed jackman's final appearance as logan, he's going out in style.",
+                        -0.610104426455792
+                    ],
+                    [
+                        "41_star hugh jackman isn't just giving us the definitive x-men movie",
+                        -0.7361813247198971
+                    ],
+                    [
+                        "43_well done, mr. jackman, and godspeed wolverine.",
+                        -0.5002492187545655
+                    ],
+                    [
+                        "44_seamlessly melding marvel mythology with western mythology, james mangold has crafted an affectingly stripped-down standalone feature, one that draws its strength from hugh jackman's nuanced turn as a reluctant, all ",
+                        0.7953860360102619
+                    ],
+                    [
+                        "49_hugh jackman is all growl and gristle, logan's lovable grouchiness turned to outright rage.",
+                        0.6396606130986671
+                    ]
+                ]
+            },
+            "Salef Celiz": {
+                "args": []
+            },
+            "Patrick Stewart": {
+                "args": [
+                    [
+                        "1_jackman and stewart are why logan works-why the film doesn't feel like a cheap exercise in bloody violence, and its subversion of typical superhero-movie tropes feels organic.",
+                        -0.8012331664648138
+                    ],
+                    [
+                        "4_ stewart is touching in his enraged befuddlement",
+                        0.6841901906693106
+                    ],
+                    [
+                        "22_jackman and stewart's fond, easy dynamic helps to balance some very provocative brutality, as the movie pushes wolverine's berserk nature to graphic new extremes.",
+                        0.7688985417924445
+                    ]
+                ]
+            },
+            "David Paris": {
+                "args": []
+            },
+            "Eriq La Salle": {
+                "args": []
+            },
+            "Bryant Tardy": {
+                "args": []
+            },
+            "Noell Jellison": {
+                "args": []
+            },
+            "Doris Morgado": {
+                "args": []
+            },
+            "Maureen Brennan": {
+                "args": []
+            },
+            "Ashlyn Casalegno": {
+                "args": []
+            },
+            "Richard E. Grant": {
+                "args": []
+            },
+            "Jimmy Gonzales": {
+                "args": []
+            },
+            "Robert Vargas": {
+                "args": []
+            },
+            "John Raymond": {
+                "args": []
+            },
+            "Han Soto": {
+                "args": []
+            },
+            "Hannah Westerfield": {
+                "args": []
+            },
+            "Quincy Fouse": {
+                "args": []
+            },
+            "Lennie Loftin": {
+                "args": []
+            },
+            "Robert Wu": {
+                "args": []
+            },
+            "Bryan Sloyer": {
+                "args": []
+            },
+            "Vanessa Cloke": {
+                "args": []
+            },
+            "Daniel Bernhardt": {
+                "args": []
+            },
+            "Alison Fernandez": {
+                "args": []
+            },
+            "Joe Nin Williams": {
+                "args": []
+            },
+            "Kelton DuMont": {
+                "args": []
+            },
+            "Evan D. Taylor": {
+                "args": []
+            },
+            "Mark Ashworth": {
+                "args": []
+            },
+            "Chris Palermo": {
+                "args": []
+            },
+            "Lara Grice": {
+                "args": []
+            },
+            "Chester Rushing": {
+                "args": []
+            },
+            "Jayson Genao": {
+                "args": []
+            },
+            "Ryan Sturz": {
+                "args": []
+            },
+            "Steve Dunlevy": {
+                "args": []
+            },
+            "Cynthia Woods": {
+                "args": []
+            },
+            "Boyd Holbrook": {
+                "args": []
+            },
+            "Ned Yousef": {
+                "args": []
+            },
+            "Paul Andrew O'Connor": {
+                "args": []
+            },
+            "Brandon Melendy": {
+                "args": []
+            },
+            "Nayah Murphy": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_jackman's performance is clint eastwood-esque, and the lines in jackman's face tell the story of his worn character",
+                0.5649669246779757
+            ],
+            [
+                "8_their script is the crucial ingredient of this impressive production, a model of ambition, complexity and old-fashioned showmanship that's matched by mr. mangold's direction.",
+                0.7992653687324559
+            ]
+        ],
+        "entities": {
+            "Scott Frank": {
+                "args": [
+                    [
+                        "8_logan was written by scott frank, mr. mangold and michael green.",
+                        -0.569658075461291
+                    ]
+                ]
+            },
+            "Michael Green": {
+                "args": []
+            },
+            "James Mangold": {
+                "args": []
+            }
+        }
+    }
+}

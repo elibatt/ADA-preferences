@@ -1,0 +1,122 @@
+{
+    "writer": {
+        "entities": {
+            "Makoto Shinkai": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Catie Harvey": {
+                "args": []
+            },
+            "Glyins Ellis": {
+                "args": []
+            },
+            "Ryûnosuke Kamiki": {
+                "args": []
+            },
+            "Masami Nagasawa": {
+                "args": []
+            },
+            "Etsuko Ichihara": {
+                "args": []
+            },
+            "Laura Post": {
+                "args": []
+            },
+            "Stephanie Sheh": {
+                "args": []
+            },
+            "Michael Sinterniklaas": {
+                "args": []
+            },
+            "Kanon Tani": {
+                "args": []
+            },
+            "Mone Kamishiraishi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_you may have to fortify your illogicality tolerance when viewing the anime adventure \"your name.\"",
+                0.6491490749600933
+            ],
+            [
+                "7_\"your name\" is still highly watchable, even when this mystical young adult love story cloys - or confounds.",
+                0.7977601291040317
+            ],
+            [
+                "8_the movie's spirit is by turns energetic and serene, impetuous and wise, its wild shifts from comedy to tragedy to romance revealing themselves not as tonal swings so much as variations in a larger cosmic pattern.",
+                0.6996092487485087
+            ],
+            [
+                "10_a beautiful, captivating piece of work that gets off to kind of a rocky start ",
+                0.6694723397879561
+            ],
+            [
+                "14_your name is the most beautiful anime since patema inverted, with which it shares themes about the difficulties of personal connections as represented by inexplicable cosmic phenomena.",
+                0.7828815422602858
+            ],
+            [
+                "16_what a thing of beauty this film is.",
+                0.6248849671671275
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Makoto Shinkai": {
+                "args": [
+                    [
+                        "2_but this body-swap romance by the exciting and talented filmmaker makoto shinkai is nonetheless exquisite,",
+                        0.8331447631910609
+                    ],
+                    [
+                        "3_with its balance of grounded emotion and wondrous escapism, your name should firmly establish shinkai as an auteur to follow for many years to come.",
+                        0.818026974138169
+                    ],
+                    [
+                        "4_ shinkai unleashes a twist early on so clever and cerebral that j.j. abrams and christopher nolan will kick themselves for not thinking of it first.",
+                        0.6393646143060421
+                    ],
+                    [
+                        "5_it's thoroughly charming and gently comic and, if mr. shinkai finally plays it safe about what it means for an adolescent boy and girl to trade bodies and lightly toy with gender, he complicates the story in other ways.",
+                        0.8566919359768971
+                    ],
+                    [
+                        "12_as pleasing as some aspects of \"your name\" can be, there's no question shinkai's overstuffed movie often trips over itself.",
+                        0.5496199719818766
+                    ],
+                    [
+                        "13_ shinkai also goes off into his own, weird direction.",
+                        -0.5514286404283599
+                    ],
+                    [
+                        "15_makoto shinkai's anime stunner deserves its unexpected oscar buzz.",
+                        0.7100324028449254
+                    ],
+                    [
+                        "17_first-rate japanese anime is a taste that anyone can acquire in the time it takes to watch a film like this, and it should confirm shinkai's reputation to genre-lovers around the world, who know his poetry-inspired the garden of words.",
+                        0.7511051394836226
+                    ],
+                    [
+                        "18_this vividly realized and emotionally satisfying feature ought to make shinkai a household name - certainly in japan, and with any luck, in other countries as well.",
+                        0.6214148288333224
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

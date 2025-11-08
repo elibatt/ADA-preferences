@@ -1,0 +1,126 @@
+{
+    "acting": {
+        "args": [
+            [
+                "10_e to the actor - and to the process of acting itself.",
+                0.6431355843196428
+            ],
+            [
+                "15_blanchett has no fear as a performer, and she has such enormous appetite for acting that she rips into each of the characters she is playing as if she were hungrily stripping meat off of chicken legs and then hurling the bones over her shoulder.",
+                -0.7212001006331228
+            ],
+            [
+                "16_the closest a film performance may ever come to capturing the spirit of live theater.",
+                0.7403446695495814
+            ]
+        ],
+        "entities": {
+            "Carl Dietrich": {
+                "args": []
+            },
+            "Erika Bauer": {
+                "args": []
+            },
+            "Cate Blanchett": {
+                "args": [
+                    [
+                        "1_ you'll know what you like with cate blanchett's stunning turn as 13 wildly diverse characters who explore them in manifesto.",
+                        0.8702119185439434
+                    ]
+                ]
+            },
+            "Ea-Ja Kim": {
+                "args": []
+            },
+            "Marie Borkowski Foedrowitz": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_you may not know much about 20th-century art manifestos, ",
+                0.679687805976011
+            ],
+            [
+                "3_\"manifesto\" isn't for everybody.",
+                -0.6835701607602213
+            ],
+            [
+                "6_despite the hit-and-miss nature of this highfalutin concept-art, \"manifesto\" comes across as successfully,",
+                -0.5808402928894634
+            ],
+            [
+                "10_manifesto becomes a tri",
+                -0.5743327966059179
+            ],
+            [
+                "13_manifesto works best as a ",
+                0.8557427955655327
+            ],
+            [
+                "14_as an installation, \"manifesto\" may have seemed like a sensory onslaught.",
+                0.5035372857800415
+            ],
+            [
+                "14_as a movie, it's a very elaborate intellectual exercise, immaculate in every technical detail.",
+                0.5754936219060679
+            ],
+            [
+                "16_the closest a film performance may ever come to capturing the spirit of live theater.",
+                0.7403446695495814
+            ],
+            [
+                "17_the film's necessary linearity destroys that aspect of the installation, cutting back and forth between the various characters and feeling far more like a lecture than an experience.",
+                0.684954859072847
+            ],
+            [
+                "18_\"manifesto\" may not adhere to any conventional narrative structure, ",
+                -0.5131933938941114
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Julian Rosefeldt": {
+                "args": [
+                    [
+                        "0_there's something increasingly mesmerising about julian rosefeldt's translation of his own 13-screen gallery piece to cinema.",
+                        0.7232792097073972
+                    ],
+                    [
+                        "4_ few last long enough to wear out their welcome, thanks to writer-director julian rosefeldt's clever, complementary visuals and to his affectionate, interested approach - even when he's poking fun.",
+                        0.7906313237742101
+                    ],
+                    [
+                        "5_whatever rosefeldt intended, \"manifesto\" doesn't quite set forth a manifesto of its own.",
+                        0.5979399236083467
+                    ],
+                    [
+                        "12_even as rosefeldt mines intellectual elitism, he reveals a disdain for pretension in the film's centerpiece monologue.",
+                        0.675938510816693
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_ few last long enough to wear out their welcome, thanks to writer-director julian rosefeldt's clever, complementary visuals and to his affectionate, interested approach - even when he's poking fun.",
+                0.7906313237742101
+            ]
+        ],
+        "entities": {
+            "Julian Rosefeldt": {
+                "args": []
+            }
+        }
+    }
+}

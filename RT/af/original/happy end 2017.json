@@ -1,0 +1,130 @@
+{
+    "writer": {
+        "args": [
+            [
+                "9_austrian writer-director michael haneke has made many a masterpiece.",
+                0.8035741103134636
+            ]
+        ],
+        "entities": {
+            "Michael Haneke": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film remains interesting, if not particularly eye-opening, until it reveals how the characters are related.",
+                0.6901482059847949
+            ],
+            [
+                "2_\"happy end\" is an art film in the classic sense - ambitious, provocative and hard to shake off.",
+                0.7190543903099346
+            ],
+            [
+                "3_happy end will likely go down as a minor film from a major filmmaker, which is enough to make it worth your while if you can take the emotional hit.",
+                0.7540350574639726
+            ],
+            [
+                "7_haneke's work here, as always, is unfailingly morose, haunting and impossible to resist.",
+                0.506507338456638
+            ],
+            [
+                "12_can't we have a little more life in a movie about death?",
+                -0.5343779330472086
+            ],
+            [
+                "14_if \"happy end\" is something of a bad-seed nightmare, it turns out to be an unpredictable one, marked by unexpected flashes of warmth, sympathy and blistering humor.",
+                0.6314852772080476
+            ],
+            [
+                "16_the film proceeds like a melodrama, ",
+                0.502028661283964
+            ],
+            [
+                "17_it too often feels like happy end is a bunch of ideas in search of a movie.",
+                -0.5010300278123547
+            ],
+            [
+                "19_the film both demands and rewards our close attention, ",
+                0.6460386834744116
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jean-Louis Trintignant": {
+                "args": [
+                    [
+                        "15_the movie belongs to mr. trintignant. ...",
+                        0.5625917050371441
+                    ]
+                ]
+            },
+            "Fantine Harduin": {
+                "args": []
+            },
+            "Isabelle Huppert": {
+                "args": []
+            },
+            "Mathieu Kassovitz": {
+                "args": []
+            },
+            "Franz Rogowski": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "23_without a fresh master thesis, all we're basically watching here is the director go back to the well of bourgeois critique, rehashing ideas",
+                -0.6080053405413557
+            ],
+            [
+                "24_it's as if the director has tied up loose ends from his earlier films, while forcing us to re-examine issues that have only grown more dire since he first brought them to our attention.",
+                0.7284858073749187
+            ]
+        ],
+        "entities": {
+            "Michael Haneke": {
+                "args": [
+                    [
+                        "4_there's an implicit social critique here, as there often is in haneke's work.",
+                        0.7066840662338576
+                    ],
+                    [
+                        "6_ a grim joke, you don't know haneke.",
+                        -0.6346770970719597
+                    ],
+                    [
+                        "8_the result lacks the tenacious bite of [haneke's] finest work, and one can think of more difficult targets for his unerring aim than the moral indifference of the rich.",
+                        0.7543555520479939
+                    ],
+                    [
+                        "9_austrian writer-director michael haneke has made many a masterpiece.",
+                        0.8035741103134636
+                    ],
+                    [
+                        "13_if we're to read anything into the diseased privilege on display, we should assume haneke is talking about much more than just one family.",
+                        -0.5172244468349885
+                    ],
+                    [
+                        "19_ haneke is such a master -- his framing so precise, his form so rigorous -- that it sucks you in by default.",
+                        -0.5330148429156422
+                    ],
+                    [
+                        "20_haneke has delivered the haneke film that haneke-haters see in their heads when they think of a haneke film: a series of disjointed, narratively oblique episodes showing people being inhumane to each other.",
+                        0.5404881800290053
+                    ]
+                ]
+            }
+        }
+    }
+}

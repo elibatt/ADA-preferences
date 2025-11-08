@@ -1,0 +1,153 @@
+{
+    "acting": {
+        "entities": {
+            "Chyna Layne": {
+                "args": []
+            },
+            "Steve Harris": {
+                "args": []
+            },
+            "Y'lan Noel": {
+                "args": [
+                    [
+                        "22_[y'lan] noel has the makings of a genuine blockbuster star - if the studios will have him.",
+                        0.6620368975917594
+                    ]
+                ]
+            },
+            "Patch Darragh": {
+                "args": []
+            },
+            "Aaron V. Williamson": {
+                "args": []
+            },
+            "Luna Lauren Velez": {
+                "args": []
+            },
+            "Joivan Wade": {
+                "args": []
+            },
+            "Lex Scott Davis": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "Melonie Diaz": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "James DeMonaco": {
+                "args": [
+                    [
+                        "10_ demonaco's signature hammy scriptwriting also rears its head.",
+                        0.5269120248682052
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ a strong start and some action-movie pleasures throughout, \"the first purge\" is a little too heavy handed, routine and ridden with logic problems to make its points stick.",
+                -0.5503302645059558
+            ],
+            [
+                "3_an unabashedly violent b-movie throwback, the sort director john carpenter used to make, with moments that resonate with real life.",
+                -0.5852440775714387
+            ],
+            [
+                "4_for the first two-thirds or so of the movie, the scares are lacking.",
+                0.562834575828501
+            ],
+            [
+                "5_t is that in both this fictional movie franchise and in real life, the worst is yet to come.",
+                -0.7761616779038814
+            ],
+            [
+                "7_\"the first purge\" follows the franchise tradition of taking what could have been an intriguing idea, stays with it for about the amount of time it takes to eat a small popcorn, then slices and dices it and guns it down in an orgy of over-the-top violence.",
+                -0.5599360972429436
+            ],
+            [
+                "8_the social commentary portions of the movie are simplistic even by the low standards generally set by genre films.",
+                0.5590470955555763
+            ],
+            [
+                "9_the first purge largely succeeds in capturing the bewilderment many of us are feeling about america these days...",
+                0.764281812167817
+            ],
+            [
+                "9_i'd be hard-pressed to think of another movie this year that better conveys the disbelief that this what america has come to.",
+                0.5391055017061301
+            ],
+            [
+                "11_without ideologies at play, how is this \"purge\" film different from the others?",
+                0.7105563226051366
+            ],
+            [
+                "13_by delivering the story within the framework of genre cinema at its most trashy and garish, the filmmakers convey any message as a bit of rough pleasure amid the kicks and thrills of a movie.",
+                0.7973277686418804
+            ],
+            [
+                "16_unless the next film in the franchise outdoes it,",
+                -0.5555840534698959
+            ],
+            [
+                "16_ \"the first purge\" will be the gold standard by which horror movies that were really bad ideas are judged.",
+                -0.5604793733630594
+            ],
+            [
+                "20_the first purge never tries to hide its political message, repeatedly demonstrating how the country's rich, white leadership systematically oppresses the minority underclass while also blaming them for society's problems.",
+                0.5878096357401796
+            ],
+            [
+                "21_the first purge is a slipshod b-movie comic book rooted in gangbanger clichés.",
+                0.6861861274043722
+            ],
+            [
+                "22_in the meantime, \"the first purge\" gives him just enough material to flex his muscles.",
+                0.530308587341003
+            ],
+            [
+                "23_the first purge may have toned down the insanity, ",
+                0.5797273884575322
+            ],
+            [
+                "24_the first purge really wants to get credit for being on the right side of the class war",
+                -0.5236772925073909
+            ],
+            [
+                "26_\"the first purge\" provides a few decent jolts and passable action sequences, ",
+                0.5766850347695568
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gerard McMurray": {
+                "args": [
+                    [
+                        "19_director gerard mcmurray stages an effective game of cat and mouse and ramps up to an effective climax.",
+                        0.6116878154472267
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_an unabashedly violent b-movie throwback, the sort director john carpenter used to make, with moments that resonate with real life.",
+                -0.5852440775714387
+            ]
+        ]
+    }
+}

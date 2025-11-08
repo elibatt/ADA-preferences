@@ -1,0 +1,231 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ben Mendelsohn": {
+                "args": []
+            },
+            "Hannah John-Kamen": {
+                "args": []
+            },
+            "Lena Waithe": {
+                "args": []
+            },
+            "Mark Rylance": {
+                "args": []
+            },
+            "T.J. Miller": {
+                "args": []
+            },
+            "Tye Sheridan": {
+                "args": [
+                    [
+                        "8_amid this special-effects maelstrom, wade watts never emerges as a character, and the taciturn sheridan is in constant danger of being out-acted by his own avatar.",
+                        0.5418170589485841
+                    ]
+                ]
+            },
+            "Simon Pegg": {
+                "args": []
+            },
+            "Olivia Cooke": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "44_when you're watching ready player one, you can almost feel the legendary director sitting next to you, laughing at the references, thrilled with the action, and eating his popcorn.",
+                0.5486017439761061
+            ]
+        ],
+        "entities": {
+            "Steven Spielberg": {
+                "args": [
+                    [
+                        "0_ spielberg's claims, neither a purehearted popcorn flick nor a paul verhoevenesque subversion, ",
+                        -0.5509525399129174
+                    ],
+                    [
+                        "7_many of the book's references to spielberg's cultural artifacts have been stripped away, ",
+                        0.6740476914656595
+                    ],
+                    [
+                        "9_just as ready player one moves back and forth between fantasy and reality, it's difficult not to admire the facility with which spielberg oscillates between this sort of sprawling, popcorn-munching exercise and a character-driven historical drama.",
+                        0.757784161591508
+                    ],
+                    [
+                        "13_ spielberg crams the screen with visuals eye-popping enough to make viewers not care .",
+                        -0.5817540373422054
+                    ],
+                    [
+                        "21_mr. spielberg navigates this warehouse with his usual dexterity, loading every frame with information without losing the clarity and momentum of the story.",
+                        0.7042366653183261
+                    ],
+                    [
+                        "27_by a whisker, spielberg wins the race against his own material.",
+                        0.6543385635330335
+                    ],
+                    [
+                        "29_again and again, the movie's setting - and spielberg's practiced craftsmanship - help turn some of its manifold potential bugs into features.",
+                        0.5792692573024347
+                    ],
+                    [
+                        "31_it's good to see spielberg, at 71, still finding new forms of cinematic language with which to express his humanism.",
+                        0.8114362209605648
+                    ],
+                    [
+                        "38_steven spielberg's sci-fi popcorn fantasia",
+                        0.7137666762465743
+                    ],
+                    [
+                        "42_ there's no denying steven spielberg is a master at crafting mind-blowing action sequences.",
+                        0.7263801036034359
+                    ],
+                    [
+                        "47_, steven spielberg's ready player one makes big changes to the specifics and structure of ernest cline's best-selling novel ",
+                        0.7379178316758528
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_amid this special-effects maelstrom, wade watts never emerges as a character, and the taciturn sheridan is in constant danger of being out-acted by his own avatar.",
+                0.5418170589485841
+            ],
+            [
+                "9_just as ready player one moves back and forth between fantasy and reality, it's difficult not to admire the facility with which spielberg oscillates between this sort of sprawling, popcorn-munching exercise and a character-driven historical drama.",
+                0.757784161591508
+            ]
+        ],
+        "entities": {
+            "Ernest Cline": {
+                "args": [
+                    [
+                        "47_, steven spielberg's ready player one makes big changes to the specifics and structure of ernest cline's best-selling novel ",
+                        0.7379178316758528
+                    ]
+                ]
+            },
+            "Zak Penn": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_i saw the film in imax, and a week later i'm still waiting for the safe return of my optic nerves, ",
+                0.6000951535173384
+            ],
+            [
+                "2_he's the ultimate fanboy making a movie about the need to move beyond being a fan.",
+                0.5257071814840465
+            ],
+            [
+                "3_so much of ready player one is assembled from the detritus of our past that it is less a film and more an overstuffed cultural recycling bin.",
+                0.5323569249617959
+            ],
+            [
+                "5_ it doesn't mean much without some real-world stakes, and that's where the film stumbles, badly.",
+                -0.7544760331732225
+            ],
+            [
+                "6_ready player one\" aims for the adrenal gland.",
+                -0.5753437900601382
+            ],
+            [
+                "7_ he imbibes the movie with flashes of colour and heart that rekindle a sense of wonderment that will transport many viewers back to their childhoods.",
+                0.8123517038320883
+            ],
+            [
+                "10_a lively and agreeable work of fanboy art - a first-rate film fashioned from secondhand materials.",
+                0.7310864910596117
+            ],
+            [
+                "11_for all its faults, the movie has a sense of fun that is hard to ignore, and it's clear that it comes from a place of genuine affection for the referenced material.",
+                0.8415527835003103
+            ],
+            [
+                "12_that's what ready player one ends up feeling like: a decent meal with tantalizing hints of something more complex, a big mac with roquefort sprinkled on top.",
+                0.5148005697589438
+            ],
+            [
+                "14_for those looking for ready player one to condemn the digi-verse as a destructive force against human connection, find another movie.",
+                -0.5958421144421497
+            ],
+            [
+                "15_if you are too young to be insatiable for this era-specific nostalgia bait, a lot of the movie is hitting points you won't follow.",
+                0.5498672366148988
+            ],
+            [
+                "17_what the film lacks in substance, it makes up for in style.",
+                0.7684100804864978
+            ],
+            [
+                "18_ready player one has no obligation to be a rigorous intellectual exercise, even if it amounts to a wasted opportunity...it doesn't have to be so facile, either.",
+                -0.8491050437815761
+            ],
+            [
+                "23_ready player one is entertaining enough, and it's certainly well-made, ",
+                0.7637782040886122
+            ],
+            [
+                "25_he's made a good movie.",
+                0.6404997497361233
+            ],
+            [
+                "26_if \"ready player one\" is tedious at times, it's also oodles of fun at others ...",
+                0.6900984705943619
+            ],
+            [
+                "28_i've seen \"ready player one,\" and now my eyeballs need a vacation.",
+                -0.6246370487262066
+            ],
+            [
+                "34_at its best, ready player one unfolds like unstructured free time for hollywood's biggest kid, unleashed in a playground he helped construct, one amblin entertainment at a time.",
+                0.6755275540071888
+            ],
+            [
+                "36_if ready player one had been directed by a 26-year-old, the movie world would be flipping out over the new visionary on the map.",
+                -0.550174312840214
+            ],
+            [
+                "37_for those who get their fix through pop nostalgia, \"ready player one\" is - for better or worse - an indulgent, dizzying overdose.",
+                -0.6246440346267234
+            ],
+            [
+                "38_ready player one feels like a movie made by someone in his 20s rather than his 70s.",
+                -0.7481065353416054
+            ],
+            [
+                "39_the movie is crammed with excitement and good humor, from a rampaging king kong to an orc with an attitude to an elaborate dip into \"the shining.\"",
+                0.6233133507546417
+            ],
+            [
+                "40_ready player one's an entertaining nostalgia trip that wears its influences proudly ",
+                0.7949591516603132
+            ],
+            [
+                "44_when you're watching ready player one, you can almost feel the legendary director sitting next to you, laughing at the references, thrilled with the action, and eating his popcorn.",
+                0.5486017439761061
+            ],
+            [
+                "45_eventually, \"ready player one\" becomes the very thing its characters admire, a preponderance of commercial entertainment smashed together into a singularity of blockbuster chaos.",
+                0.5583981280185222
+            ],
+            [
+                "46_it's an accomplished and intermittently hypnotic movie.",
+                0.7307097827568341
+            ]
+        ]
+    }
+}

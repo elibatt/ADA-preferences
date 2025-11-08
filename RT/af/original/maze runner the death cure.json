@@ -1,0 +1,132 @@
+{
+    "writer": {
+        "entities": {
+            "T.S. Nowlin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_as easy as it is to criticize the script's broad strokes and improbable getaway schemes, it's hard to argue with the lessons it imparts:",
+                0.6181534800466235
+            ],
+            [
+                "16_if only the story line and setting were equal to the more compelling bits of character interplay.",
+                0.6161607205807007
+            ],
+            [
+                "23_ act like you've seen it before,\" one character says to gawking young hero thomas (dylan o'brien) on arrival.",
+                0.5261522276417432
+            ],
+            [
+                "25_the script is just so-so, ",
+                -0.6452443117822398
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Walton Goggins": {
+                "args": []
+            },
+            "Thomas Sangster": {
+                "args": []
+            },
+            "Barry Pepper": {
+                "args": []
+            },
+            "Kaya Scodelario": {
+                "args": []
+            },
+            "Rosa Salazar": {
+                "args": []
+            },
+            "Aidan Gillen": {
+                "args": []
+            },
+            "Patricia Clarkson": {
+                "args": []
+            },
+            "Dexter Darden": {
+                "args": []
+            },
+            "Giancarlo Esposito": {
+                "args": []
+            },
+            "Dylan O'Brien (II)": {
+                "args": [
+                    [
+                        "4_cheers to star dylan o'brien for returning to complete his starring role after his serious stunt injury in maze 2, ",
+                        -0.7341669249726814
+                    ],
+                    [
+                        "23_ act like you've seen it before,\" one character says to gawking young hero thomas (dylan o'brien) on arrival.",
+                        0.5261522276417432
+                    ]
+                ]
+            },
+            "Ki Hong Lee": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the maze runner is the rare series that has improved with each installment, expanding beyond the organic pen of the first film into a bigger and more thrillingly realized science fiction sandbox.",
+                0.7554264244259358
+            ],
+            [
+                "7_rarely can i remember a movie filled with so many miraculous rescues and associated contrivances.",
+                0.5013812276348332
+            ],
+            [
+                "12_the overlong movie lurches from chase to battle to soul-searching quietude - and then back again - in frustratingly generic action-movie style.",
+                -0.6057557551400635
+            ],
+            [
+                "20_t in this movie than the filmmakers, is there?",
+                -0.5572187956858707
+            ],
+            [
+                "26_this is the sort of action film where the bad guys often hold their fire for no discernible reason, and are terrible at dodging things, ",
+                -0.807823020867003
+            ],
+            [
+                "26_ if one suspends one's disbelief long enough, they're rewarded with a rollicking, highly competent popcorn movie.",
+                0.6769062657233531
+            ],
+            [
+                "27_just when you think things are being wrapped up, they come unwrapped, and the picture goes on for another 40 minutes, prolonging your pain with a sadism that would make even the movie's sneering villain feel a bit guilty.",
+                -0.7192136222849258
+            ],
+            [
+                "30_ there's just not much of a movie to go with them.",
+                -0.7571672927490376
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Wes Ball": {
+                "args": [
+                    [
+                        "25_ ball's directorial eye, clear in the first \"maze runner\" film ",
+                        0.6454469981847772
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "28_ its director grows up right before our eyes.",
+                0.5595082733702542
+            ]
+        ]
+    }
+}

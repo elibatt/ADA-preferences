@@ -1,0 +1,108 @@
+{
+    "acting": {
+        "entities": {
+            "David Harbour": {
+                "args": []
+            },
+            "Octavius J. Johnson": {
+                "args": []
+            },
+            "Jamie Foxx": {
+                "args": [
+                    [
+                        "0_monaghan and foxx, for all their gifts, can't transcend the material, ",
+                        -0.5127302330823615
+                    ],
+                    [
+                        "2_alas, andrea berloff's screenplay has more holes than a trawlerman's net, none bigger than a gut-cut foxx nursing a gaping wound for two-thirds of the picture while still managing to dodge bullets and roll with the punches.",
+                        0.5520039034251629
+                    ],
+                    [
+                        "3_we get muttering and glowering from mr. foxx, a story that can't manage enough twists to tie a shoelace, and set pieces that have been done better in other movies.",
+                        0.5038455828174179
+                    ],
+                    [
+                        "7_ tedious, the kind of january movie that jamie foxx should have permanently graduated from.",
+                        -0.7014799091546114
+                    ]
+                ]
+            },
+            "T.I.": {
+                "args": [
+                    [
+                        "7_\"sleepless\" is a propulsive thin exercise, \"energetic\" ",
+                        -0.5953301391165338
+                    ]
+                ]
+            },
+            "Scoot McNairy": {
+                "args": []
+            },
+            "Gabrielle Union": {
+                "args": []
+            },
+            "Michelle Monaghan": {
+                "args": []
+            },
+            "Dermot Mulroney": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_ it does its thing: meaningless, nonstop violence and movement, enacted by a large cast of characters who are only looking out to survive into the next scene.",
+                -0.5341895471286248
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Andrea Berloff": {
+                "args": [
+                    [
+                        "2_alas, andrea berloff's screenplay has more holes than a trawlerman's net, none bigger than a gut-cut foxx nursing a gaping wound for two-thirds of the picture while still managing to dodge bullets and roll with the punches.",
+                        0.5520039034251629
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_the listless, shoddy sort of remake where it feels like all of the characters have already seen the movie they're in",
+                -0.6215516646178205
+            ],
+            [
+                "4_, sleepless reduces one of the best action films of the 21st century into one of the most benign.",
+                0.8332646222917857
+            ],
+            [
+                "6_never rising above the level of generic b-movie, sleepless represents the sort of disposable fare typically dropped into theaters in january.",
+                -0.574688761594385
+            ],
+            [
+                "9_you could pretty much play american police movie bingo, checking off squares like \"undercover badass,\" \"tough-as-nails internal affairs lady,\" \"bug-eyed drug kingpin,\" and \"hero kos guy twice his size and then magically fits into his jumpsuit.\"",
+                -0.5597818683886588
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Baran bo Odar": {
+                "args": [
+                    [
+                        "8_at a certain point, odar's intense atmospherics - amplified by the throbbing bass notes of michael kamm's heavy, percussive score - start to feel like the work of a filmmaker on genre autopilot.",
+                        0.6255092316461739
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

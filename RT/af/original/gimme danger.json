@@ -1,0 +1,142 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_those who know every shred of the band's story will find the film a cool reminder of what the stooges meant to rock 'n' roll.",
+                0.7916124720625399
+            ],
+            [
+                "5_gimme danger is more than carried by the colourfulness of its story and characters, and by the bold essay-like thesis that the stooges -- now firmly ensconced in the rock and roll hall of fame -- were the greatest rock band of all time.",
+                0.6383328153105003
+            ],
+            [
+                "8_ suffuse a film animated by so many anarchic spirits who have since left the planet, ",
+                0.6351458681942038
+            ],
+            [
+                "9_if you're looking for a rock star to carry a movie mostly by himself ...",
+                -0.5491386558525677
+            ],
+            [
+                "10_\"gimme danger\" is essentially a family album assembled by an enamored outsider.",
+                -0.5119290157846352
+            ],
+            [
+                "11_diehard stooges fans likely won't come away from gimme danger having learned anything particularly revelatory...",
+                -0.7320847123707299
+            ],
+            [
+                "16_the detroit rockers may not have been \"the greatest rock and roll band ever,\" as the movie declares in its thesis statement, ",
+                0.6074297724382592
+            ],
+            [
+                "19_\"gimme danger\" is ... plenty entertaining and includes many moments of foaming-at-the-mouth musical fury.",
+                0.7976160527173303
+            ],
+            [
+                "20_gimme danger preserves their legacy better than any fan might have dared hope ...",
+                0.6227306568296098
+            ],
+            [
+                "22_\"gimme danger\" is a compelling and detailed diary of everything that made the stooges what they were.",
+                0.7981949350239033
+            ],
+            [
+                "23_two seminal stooges album titles - 'fun house' and 'raw power' - give a solid indication of this film's appeal.",
+                0.7835460802736671
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jim Jarmusch": {
+                "args": [
+                    [
+                        "2_a brainy and funny look at the creation and still-evolving legacy of a rock 'n' roll band jarmusch considers the greatest of all time, even if rollingstone and snobby critics won't admit it.",
+                        0.8228888579471845
+                    ],
+                    [
+                        "11_ as a celebration of artistic tenacity, jarmusch's appreciation for the band and its music serves as a handsomely made valentine.",
+                        0.8259763941239805
+                    ],
+                    [
+                        "14_jim jarmusch to his favorite band.",
+                        0.6820415817210385
+                    ],
+                    [
+                        "16_ jarmusch treats the group as such, which is what you want from a celebration of a band.",
+                        0.7821362907369169
+                    ],
+                    [
+                        "17_hanging back and being cooler than cool has long been a jarmusch trademark, ",
+                        0.5160993288017646
+                    ],
+                    [
+                        "18_ jarmusch does an excellent job at steering the narrative as objectively as possible.",
+                        0.8168775219002089
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jim Osterberg": {
+                "args": [
+                    [
+                        "9_iggy (aka james osterberg), now 69, is a good candidate.",
+                        0.7003098560940162
+                    ]
+                ]
+            },
+            "Danny Fields": {
+                "args": []
+            },
+            "Scott Asheton": {
+                "args": []
+            },
+            "Ron Asheton": {
+                "args": []
+            },
+            "Kathy Asheton": {
+                "args": []
+            },
+            "Iggy Pop": {
+                "args": [
+                    [
+                        "3_those who know little of their music will find pop an interesting and forthcoming individual.",
+                        0.7220066272892359
+                    ],
+                    [
+                        "4_iggy pop, the band's front man and the only member to graduate to a solo career, is a source of endless hilarity as he recalls the band's grungy beginnings and lurching journey through the music business.",
+                        0.6142330945472178
+                    ],
+                    [
+                        "22_the best reason to see the film is simply the chance it offers to wallow in the grungy glory of iggy pop ...",
+                        0.5711168772940259
+                    ]
+                ]
+            },
+            "James Williamson": {
+                "args": []
+            },
+            "Mike Watt": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jim Jarmusch": {
+                "args": []
+            }
+        }
+    }
+}

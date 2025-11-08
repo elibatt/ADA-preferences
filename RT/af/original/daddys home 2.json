@@ -1,0 +1,104 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Lithgow": {
+                "args": []
+            },
+            "Will Ferrell": {
+                "args": []
+            },
+            "Owen Vaccaro": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": []
+            },
+            "Linda Cardellini": {
+                "args": []
+            },
+            "John Cena": {
+                "args": []
+            },
+            "Alessandra Ambrosio": {
+                "args": []
+            },
+            "Didi Costine": {
+                "args": []
+            },
+            "Scarlett Estevez": {
+                "args": []
+            },
+            "Mel Gibson": {
+                "args": [
+                    [
+                        "11_, never mind the fatherly foursome's chemistry, or the tobacco-stained guffaws gibson keeps busting out to sell these bits.",
+                        -0.7508057874824936
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "13_like the passable original, this formulaic comedy can't stop teasing the possibility of a funnier, smarter movie being made with the exact premise, central conflicts, and stars.",
+                -0.6026724390689503
+            ],
+            [
+                "15_this is a toxic, not at all benign film made for the enjoyment of everyone still oblivious to the fact that this kind of worldview is crashing down in flames even as we speak.",
+                -0.5476342369016058
+            ],
+            [
+                "17_however mediocre the first film was,",
+                -0.6505214069212691
+            ],
+            [
+                "17_ gives viewers the dubious gift of a full-on sappy christmas movie two weeks before thanksgiving.",
+                -0.5490947666757408
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sean Anders": {
+                "args": [
+                    [
+                        "8_sean anders, the returning director and co-writer (with brian burns and john morris), runs out of gas at the halfway mark.",
+                        -0.7147882063901343
+                    ],
+                    [
+                        "18_if daddy's home (2015) played like a distant, wayward cousin of step brothers, daddy's home 2, again directed by sean anders, is the sort of relative you might disown.",
+                        0.5108979456296412
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_i found the sequel better than the original-the writing sharper, the jokes fresher and smarter, the comic interaction between the lead characters consistently engaging.",
+                0.5251796206973358
+            ]
+        ],
+        "entities": {
+            "Sean Anders": {
+                "args": []
+            },
+            "John Morris (XIX)": {
+                "args": [
+                    [
+                        "8_sean anders, the returning director and co-writer (with brian burns and john morris), runs out of gas at the halfway mark.",
+                        -0.7147882063901343
+                    ]
+                ]
+            }
+        }
+    }
+}

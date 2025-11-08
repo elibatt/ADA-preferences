@@ -1,0 +1,104 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the result is a film more educational than engrossing",
+                0.7737376113951928
+            ],
+            [
+                "5_the film is worthy, obviously, and it forces us to think about the prices paid by our unexpected heroes.",
+                0.7213792402844251
+            ],
+            [
+                "9_ the film is nevertheless moving without resorting to saccharine overtures.",
+                0.6800086959184324
+            ],
+            [
+                "11_by the end of \"he named me malala,\" you may be, too.",
+                -0.5577623091669826
+            ],
+            [
+                "12_\"he named me malala\" gets good marks as a laudatory piece about a genuinely valiant young woman, ",
+                0.6946956242308038
+            ],
+            [
+                "13_he named me malala suffers from a lack of dramatic tension throughout.",
+                -0.7851379948898418
+            ],
+            [
+                "15_while the film itself is plagued with structural storytelling issues that are at best emotionally numbing, at worst confounding, malala's inspirational spirit is undeniable, and the documentary allows that to shine through.",
+                0.7094102061229369
+            ],
+            [
+                "19_so much in this movie sounds as if it's well rehearsed that you're not really sure what to take at face value.",
+                0.5289513719131799
+            ],
+            [
+                "23_the slick, shallow result [movie] better suited for schools than the cineplex:",
+                -0.5288504288318423
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Davis Guggenheim": {
+                "args": [
+                    [
+                        "0_it's a shame that guggenheim's slickly produced documentary examines such an important and fascinating story with such underwhelming results.",
+                        0.7458896166433705
+                    ],
+                    [
+                        "6_it's quite a story, and if guggenheim goes overboard in the telling of it, that's perfectly understandable.",
+                        0.7294531212711219
+                    ],
+                    [
+                        "14_ guggenheim's attempts to make her more accessible to her peers (malala struggles with math!",
+                        0.5775623842892169
+                    ],
+                    [
+                        "26_director davis guggenheim, who made the oscar-winning an inconvenient truth and the controversial waiting for superman, does some of his most heartfelt work in this tri",
+                        0.6144463839038412
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Khushal Yousafzai": {
+                "args": []
+            },
+            "Atal Yousafzai": {
+                "args": []
+            },
+            "Malala Yousafzai": {
+                "args": [
+                    [
+                        "24_malala functions less as a movie than as an audiovisual package-just another method of delivery for yousafzai's biography and cause, innocuous, information-packed, and utterly inessential.",
+                        -0.5435376767786892
+                    ],
+                    [
+                        "25_the story of malala yousafzai is so inspirational, you couldn't make it up.",
+                        -0.5008510086409198
+                    ]
+                ]
+            },
+            "Ziauddin Yousafzai": {
+                "args": []
+            },
+            "ToorPekai Yousafzai": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

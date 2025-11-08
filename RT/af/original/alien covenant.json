@@ -1,0 +1,194 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this may not be a movie that reinvents the wheel.",
+                0.5656061777190695
+            ],
+            [
+                "4_it's an alien movie for our times, one in which mankind isn't just under the thumb of an oppressive corporation ",
+                0.5366044357577996
+            ],
+            [
+                "5_there are plenty of reasons to shut your eyes and cross your legs while watching this film, ",
+                0.7274013446157879
+            ],
+            [
+                "7_if this is your idea of a good time, you can tick away the film's two-plus hours guessing which crew members will get offed, and in what order.",
+                0.7533695816119113
+            ],
+            [
+                "8_peel away the big budget genre film's veneer of western civ for dummies (michelangelo, wagner, byron and shelley) and what you have is rather conventional lego blocks of sci-fi horror.",
+                0.53819564278847
+            ],
+            [
+                "9_the new film is intended to act as several things, none of them particularly admirable.",
+                0.5137951648087872
+            ],
+            [
+                "12_despite a few remnants of the earlier film's obscure genesis story,",
+                -0.5498360745915498
+            ],
+            [
+                "15_covenant combines high-minded sci-fi ideas with the visceral horror-inspired shock aspects of a slasher movie.",
+                0.6602078123877687
+            ],
+            [
+                "20_a stylish, oddly bookish monster movie told in the form of a macabre theological revenge story.",
+                0.6046629042547877
+            ],
+            [
+                "25_as an a-level horror movie, \"alien: covenant\" is satisfying enough to arguably stand as the third-best entry in the series, after \"alien\" and james cameron's majestic \"aliens\" (1986).",
+                0.7139782858651098
+            ],
+            [
+                "27_a film that mostly delivers the goods, even if it doesn't quite possess the nerve-racking suspense of the first film nor the electric earth mom-vs.-alien mom catharsis of james cameron's \"aliens.\"",
+                0.6390688537997214
+            ],
+            [
+                "36_this is the third best alien movie after the first two, ",
+                0.629105564365564
+            ],
+            [
+                "37_by the standards of contemporary blockbusters, it's a very deliberate film.",
+                0.7402712357221499
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ridley Scott": {
+                "args": [
+                    [
+                        "6_this desire for procreation and preservation of the self - human, alien or artificial - is what motivates every being in the alien universe, and in covenant, scott sets up a thrilling thunderdome in which we can watch this bloody battle unfold.",
+                        -0.5193880472084116
+                    ],
+                    [
+                        "11_yet director ridley scott -- who birthed the original nearly 40 years ago as well as that last film -- plunges back into the latter's mythology, with equally uninspired and perhaps more blatantly derivative results.",
+                        -0.5090270776011188
+                    ],
+                    [
+                        "13_ it's a bloody, scary, energetic two hours at the movies -- proof positive that when the words alien and ridley scott appear in the same sentence, it's cause for excitement.",
+                        -0.5350047530014407
+                    ],
+                    [
+                        "17_clearly, the elder scott's aim is on the scares - and oh, what satisfying, terrifying, screams-echoing-down-a-ship's-corridor scares they are.",
+                        -0.5355892799281367
+                    ],
+                    [
+                        "23_\" the most elegantly wrought sequences make up for the monster stuff plainly less interesting to scott.",
+                        0.5141313947714756
+                    ],
+                    [
+                        "26_this movie may be a convulsively entertaining throwback to scott's glory days, ",
+                        0.6341730574925486
+                    ],
+                    [
+                        "29_i'd rank ridley scott's alien: covenant with the best of the series, right after the initial one-two punch.",
+                        0.8301435858892864
+                    ],
+                    [
+                        "30_mr. scott is, in any case, a nearly spoiler-proof filmmaker.",
+                        0.6001132848195415
+                    ],
+                    [
+                        "37_there are long sections of alien: covenant that amount to the best filmmaking scott has produced in decades.",
+                        0.7166302317684833
+                    ],
+                    [
+                        "40_it's a tall order of thrills and theology that the ever gung-ho scott, working from a script by john logan and dante harper, comes close to pulling off.",
+                        -0.6236978145387333
+                    ],
+                    [
+                        "44_ at least scott seems to understand that these movies thrive on ambition.",
+                        -0.6654681049031063
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Dante Harper": {
+                "args": []
+            },
+            "Jack Paglen": {
+                "args": []
+            },
+            "Michael Green": {
+                "args": []
+            },
+            "John Logan": {
+                "args": [
+                    [
+                        "40_it's a tall order of thrills and theology that the ever gung-ho scott, working from a script by john logan and dante harper, comes close to pulling off.",
+                        -0.6236978145387333
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Callie Hernandez": {
+                "args": []
+            },
+            "Katherine Waterston": {
+                "args": []
+            },
+            "Jussie Smollett": {
+                "args": []
+            },
+            "Carmen Ejogo": {
+                "args": []
+            },
+            "Billy Crudup": {
+                "args": []
+            },
+            "Amy Seimetz": {
+                "args": []
+            },
+            "Benjamin Rigby": {
+                "args": []
+            },
+            "Nathaniel Dean": {
+                "args": []
+            },
+            "Alexander England": {
+                "args": []
+            },
+            "Demian Bichir": {
+                "args": []
+            },
+            "Guy Pearce": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": [
+                    [
+                        "18_the good news is that david is back, in a way that doubles down... on his potential and gives mr. fassbender lots to do.",
+                        0.6928126108417033
+                    ],
+                    [
+                        "26_ to look upon fassbender, with his icy and seductive post-human gaze, is to behold this franchise's future.",
+                        0.7363705496037033
+                    ],
+                    [
+                        "47_for reasons too spoilery to give away, fassbender is electric, giving a spectacularly skin-crawling performance.",
+                        0.5165841753321064
+                    ]
+                ]
+            },
+            "Danny McBride (IV)": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

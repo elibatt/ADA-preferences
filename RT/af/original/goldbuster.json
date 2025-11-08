@@ -1,0 +1,55 @@
+{
+    "acting": {
+        "entities": {
+            "Jiao Junyan": {
+                "args": []
+            },
+            "Yi Zhang": {
+                "args": []
+            },
+            "Alex Fong": {
+                "args": []
+            },
+            "Pan Binlong": {
+                "args": []
+            },
+            "Sandra Ng Kwan Yue": {
+                "args": []
+            },
+            "Yunpeng Yue": {
+                "args": []
+            },
+            "Francis Ng": {
+                "args": []
+            },
+            "Teng Shen": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the gags and performances in \"goldbuster\" will win over audiences that like slapstick and silliness.",
+                0.609939017565781
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sandra Ng Kwan Yue": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

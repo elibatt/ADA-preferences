@@ -1,0 +1,184 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Patricia Hitchcock": {
+                "args": [
+                    [
+                        "5_director hitchcock bears down too heavily in this one, and the delicate illusion of reality necessary for a creak-and-shriek movie becomes, instead, a spectacle of stomach-churning horror.",
+                        -0.719402971472527
+                    ],
+                    [
+                        "6_an unusual, good entertainment, indelibly hitchcock, and on the right kind of boxoffice beam.",
+                        0.7689364932284375
+                    ],
+                    [
+                        "7_alfred hitchcock's 1960 masterpiece blends a brutal manipulation of audience identification and an incredibly dense, allusive visual style to create the most morally unsettling film ever made.",
+                        0.7616118106039687
+                    ],
+                    [
+                        "9_[hitchcock] has very shrewdly interwoven crime, sex and suspense, blended the real and the unreal in fascinating proportions and punctuated his film with several quick, grisly and unnerving surprises.",
+                        0.8252533955953377
+                    ],
+                    [
+                        "11_[hitchcock's] denouement falls quite flat for us.",
+                        -0.6838765850868298
+                    ]
+                ]
+            },
+            "Anthony Perkins": {
+                "args": []
+            },
+            "Virginia Gregg": {
+                "args": []
+            },
+            "Mort Mills": {
+                "args": []
+            },
+            "Alfred Hitchcock": {
+                "args": []
+            },
+            "Frank Albertson": {
+                "args": []
+            },
+            "John Gavin": {
+                "args": []
+            },
+            "George Eldredge": {
+                "args": []
+            },
+            "Lurene Tuttle": {
+                "args": []
+            },
+            "Jeanette Nolan": {
+                "args": []
+            },
+            "Simon Oakland": {
+                "args": []
+            },
+            "Martin Balsam": {
+                "args": []
+            },
+            "Ted Knight": {
+                "args": []
+            },
+            "Vaughan Taylor": {
+                "args": []
+            },
+            "Helen Wallace": {
+                "args": []
+            },
+            "Vera Miles": {
+                "args": []
+            },
+            "Sam Flint": {
+                "args": []
+            },
+            "Francis De Sales": {
+                "args": []
+            },
+            "Frank Killmond": {
+                "args": []
+            },
+            "Marli Renfro": {
+                "args": []
+            },
+            "Janet Leigh": {
+                "args": []
+            },
+            "Anne Dore": {
+                "args": []
+            },
+            "Marion Crane": {
+                "args": []
+            },
+            "John McIntire": {
+                "args": []
+            },
+            "John Anderson": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "5_director hitchcock bears down too heavily in this one, and the delicate illusion of reality necessary for a creak-and-shriek movie becomes, instead, a spectacle of stomach-churning horror.",
+                        -0.719402971472527
+                    ],
+                    [
+                        "6_an unusual, good entertainment, indelibly hitchcock, and on the right kind of boxoffice beam.",
+                        0.7689364932284375
+                    ],
+                    [
+                        "7_alfred hitchcock's 1960 masterpiece blends a brutal manipulation of audience identification and an incredibly dense, allusive visual style to create the most morally unsettling film ever made.",
+                        0.7616118106039687
+                    ],
+                    [
+                        "9_[hitchcock] has very shrewdly interwoven crime, sex and suspense, blended the real and the unreal in fascinating proportions and punctuated his film with several quick, grisly and unnerving surprises.",
+                        0.8252533955953377
+                    ],
+                    [
+                        "11_[hitchcock's] denouement falls quite flat for us.",
+                        -0.6838765850868298
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joseph Stefano": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_paramount won't let anyone enter theatres where psycho is playing after the picture starts.",
+                -0.657911615464666
+            ],
+            [
+                "1_ that the suspense of his picture builds up slowly ",
+                0.53163470399434
+            ],
+            [
+                "1_ surely to an almost unbearable pitch of excitement.",
+                -0.6452232033708891
+            ],
+            [
+                "2_hitchcock is the most-daring avant-garde film-maker in america today.",
+                0.6830553689792758
+            ],
+            [
+                "3_the best that can be said is there are bats in the belfry and a well-preserved corpse in the basement.",
+                0.5288165882155802
+            ],
+            [
+                "4_ it also assured us that a b-movie could be a-grade in quality and innovation.",
+                -0.5456133448511737
+            ],
+            [
+                "8_what makes psycho immortal, when so many films are already half-forgotten as we leave the theater, is that it connects directly with our fears.",
+                -0.5772008658246235
+            ],
+            [
+                "10_with the exception of halloween, no latter-day horror/thriller has been capable of generating as many goosebumps.",
+                -0.5362843046729138
+            ],
+            [
+                "12_that, you see, is the power of psycho.",
+                0.6112273950656428
+            ]
+        ]
+    }
+}

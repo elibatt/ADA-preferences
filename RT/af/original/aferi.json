@@ -1,0 +1,177 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Florin Lazarescu": {
+                "args": []
+            },
+            "Radu Jude": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the tone is rabelaisian and earthily comic in the minimalist, picturesque squalor of the settings.",
+                0.6138024388480919
+            ],
+            [
+                "1_with a title that translates roughly as attaboy!, this engaging and percipient period comedy focuses on the enslavement of the roma people in 19th-century romania.",
+                0.7834349940508092
+            ],
+            [
+                "2_it's as if the film is some ancient newsreel.",
+                0.6506014158860871
+            ],
+            [
+                "3_shot in stark black and white, the picture's sense of place and time is strong - pungently so.",
+                0.7215885898800959
+            ],
+            [
+                "4_it's a tough world out there, and costandin has found a way to survive in it.",
+                0.6372529242691312
+            ],
+            [
+                "4_it's not always pretty, ",
+                0.5291955216336202
+            ],
+            [
+                "4_it's never less than interesting.",
+                -0.5654805372627141
+            ],
+            [
+                "5_shot in black and white with fade-out transitions, the movie harks back to classic westerns.",
+                -0.5228336814168861
+            ],
+            [
+                "5_ it's also distinctly modern.",
+                0.5003774773631168
+            ],
+            [
+                "6_seems to hate and demean everyone else.",
+                -0.7998112575937413
+            ],
+            [
+                "6_and yet, they all seem like parts of the same blend of cultures - not a melting pot, ",
+                -0.5437294697422288
+            ],
+            [
+                "6_ sort of a stew - that reasserts itself throughout the film.",
+                0.6339424031147135
+            ],
+            [
+                "7_jude gets strong performances from his three leads and, with the help of cinematographer marius panduru, has created an uncommonly beautiful film ... that at times evokes the simple beauties of classic westerns.",
+                0.8858928424777514
+            ],
+            [
+                "8_ the period story is evidence of the same keen eye for class hierarchy, codified cruelty and the limits of self-deception.",
+                0.5220651727861741
+            ],
+            [
+                "9_like many films set in contemporary bucharest, this is a story of self-styled potentates, small-time graft, and inevitable disappointment.",
+                0.6598176650509645
+            ],
+            [
+                "10_a funny and brutal costume drama with a potent contemporary kick.",
+                0.7845731570248514
+            ],
+            [
+                "11_shot in widescreen black-and-white on 35mm, the film combines the structure of a classic western with the look of eastern european films from the 1960s, to reasonably absorbing effect.",
+                0.7978305160891017
+            ],
+            [
+                "12_the laughs come from our disorientation at witnessing a world that is insanely peculiar, so different from ours in its understanding of right and wrong that we sit in amazement.",
+                0.7409049740243561
+            ],
+            [
+                "13_plays like a sleight of hand, amusing us at a distance with vulgarisms and entrancing us with countryside while the bloody work of civilization grinds on out of the corner of our eye.",
+                0.5149582724912873
+            ],
+            [
+                "14_the crisp black-and-white photography and brisk panning shots across alluring landscapes capture the cruelty of the times and the pitiless course of history with a bitter majesty.",
+                0.7582923726380031
+            ],
+            [
+                "16_a harsh history lesson leavened by bawdy humor and classic western elements.",
+                0.7462833717030645
+            ],
+            [
+                "17_the movie foregrounds the ugly sentiments of the feudal era that define its quest-driven characters while steadily humanizing them.",
+                0.5269929557013651
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gabriel Spahiu": {
+                "args": []
+            },
+            "Luminita Gheorghiu": {
+                "args": []
+            },
+            "Teo Corban": {
+                "args": []
+            },
+            "Adina Cristescu": {
+                "args": []
+            },
+            "Alexandru Bindea": {
+                "args": []
+            },
+            "Toma Cuzin": {
+                "args": []
+            },
+            "Victor Rebengiuc": {
+                "args": []
+            },
+            "Alexandru Dabija": {
+                "args": []
+            },
+            "Liviu Ornea": {
+                "args": []
+            },
+            "Mihai Comanoiu": {
+                "args": []
+            },
+            "Serban Pavlu": {
+                "args": []
+            },
+            "Dan Nicolaescu": {
+                "args": []
+            },
+            "Mihaela Sîrbu": {
+                "args": []
+            },
+            "Alberto Dinache": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Radu Jude": {
+                "args": [
+                    [
+                        "2_somehow director radu jude's decision to film in black-and-white only heightens that sense of reality:",
+                        0.6091835056093157
+                    ],
+                    [
+                        "8_in subject and style, it's a departure from [jude's] contemporary satires, ",
+                        0.732564063892846
+                    ],
+                    [
+                        "15_radu jude's most accomplished and original feature yet.",
+                        0.8029039055340406
+                    ]
+                ]
+            }
+        }
+    }
+}

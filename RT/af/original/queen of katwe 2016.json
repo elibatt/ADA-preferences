@@ -1,0 +1,198 @@
+{
+    "director": {
+        "args": [
+            [
+                "28_ in this director's hands, the results are mostly enchanting.",
+                -0.6351255206251385
+            ]
+        ],
+        "entities": {
+            "Mira Nair": {
+                "args": [
+                    [
+                        "2_director mira nair knows just how to deploy her excellent cast, giving weight to the drama of both mom and coach without ever forgetting her sweet young queen.",
+                        0.8333275620193549
+                    ],
+                    [
+                        "5_directed by the great mira nair, the film hits you like a shot in the heart.",
+                        0.8964049200950202
+                    ],
+                    [
+                        "6_[nair] manages to do justice to these people's lives, and when, at the end, the real-life characters show up on-screen and stand smiling beside their actor counterparts, the screen lights up along with the audience.",
+                        0.5863217078286767
+                    ],
+                    [
+                        "7_ in its setting, explored by nair with her usual skill at establishing a sense of place.",
+                        0.6580502874983827
+                    ],
+                    [
+                        "10_ nair delivers something a little better than one expects of the genre.",
+                        0.7536635359412541
+                    ],
+                    [
+                        "13_an uplifting and emotional story rendered with a lively vibrancy by nair and her stars",
+                        0.7053443093990654
+                    ],
+                    [
+                        "23_just try to resist the charms of mira nair's \"queen of katwe,\" a triumph-of-the-human-spirit movie that's ultimately, well, triumphant.",
+                        0.7986862192341115
+                    ],
+                    [
+                        "25_director mira nair has a proven ability to find beauty in the most desperate of circumstances, and queen of katwe is no different.",
+                        0.5813304090059169
+                    ],
+                    [
+                        "26_ nair makes these competitions come alive.",
+                        0.5887325579988261
+                    ],
+                    [
+                        "27_ the script is a little flat - just because the story is true doesn't mean it should feel so predictable - nair gives the film tons of energy and joy.",
+                        0.5015700896922441
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_director mira nair knows just how to deploy her excellent cast, giving weight to the drama of both mom and coach without ever forgetting her sweet young queen.",
+                0.8333275620193549
+            ],
+            [
+                "19_there's much to cheer about a movie with such a diverse cast of talent both familiar and new, set in a land that all too often is depicted on screen as a place of war and hopelessness.",
+                0.7838244507655676
+            ]
+        ],
+        "entities": {
+            "Ethan Nazario Lubega": {
+                "args": []
+            },
+            "Madina Nalwanga": {
+                "args": []
+            },
+            "Lupita Nyong'o": {
+                "args": []
+            },
+            "Martin Kabanza": {
+                "args": []
+            },
+            "David Oyelowo": {
+                "args": [
+                    [
+                        "5_nyong'o and oyelowo are both extraordinary, giving newcomer nalwanga a chance to shine as phiona grows into her own woman.",
+                        0.7924459204056358
+                    ],
+                    [
+                        "16_david oyelowo and lupita nyong'o are reliably superb in the critical supporting roles of mutesi's chess coach and young mother, respectively.",
+                        0.7026560463355971
+                    ],
+                    [
+                        "22_what redeems \"queen of katwe\" is the performance of oyelowo, who imbues katende with an exhilarating blend of humor and humanity.",
+                        0.8861430951298176
+                    ],
+                    [
+                        "26_she also gets the most out of her mostly nonprofessional african cast, not to mention her two stars, oyelowo and nyong'o.",
+                        0.6130726964728626
+                    ]
+                ]
+            },
+            "Nikita Waligwa": {
+                "args": []
+            },
+            "Nicolas Levesque": {
+                "args": []
+            },
+            "Ivan Jacobo": {
+                "args": []
+            },
+            "Taryn \"Kay\" Kyaze": {
+                "args": []
+            },
+            "Ronald Ssemaganda": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "27_ the script is a little flat - just because the story is true doesn't mean it should feel so predictable - nair gives the film tons of energy and joy.",
+                0.5015700896922441
+            ],
+            [
+                "29_nyong'o's gravitas is undercut by a script teeming with wooden platitudes, special lessons learned, and the overbaked dialogue of a joan crawford melodrama.",
+                -0.6047786951906675
+            ]
+        ],
+        "entities": {
+            "William Wheeler": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the colors and rhythms of life in the slums of uganda are what set queen of katwe apart from other underdog chess movies.",
+                0.7169549973593684
+            ],
+            [
+                "1_in some ways, the film's streaks of realism-not fantasy-are what make it such a genuine pleasure to watch.",
+                0.7811908134451451
+            ],
+            [
+                "7_queen of katwe's originality comes not in its story ",
+                0.5467254904121326
+            ],
+            [
+                "8_in the movie, phiona can see eight moves ahead, and \"queen of katwe\" often feels the same: you know what's coming, ",
+                0.5651115057429233
+            ],
+            [
+                "9_ultimately, queen of katwe fosters a belief in the triumph of merit and talent.",
+                0.5108718438403654
+            ],
+            [
+                "11_the film as a whole conveys a strong sense of discovery, and humanity.",
+                0.8065556258784066
+            ],
+            [
+                "12_what sets queen of katwe apart from other inspirational stories of its kind is that phiona's dreams are a double-edged sword.",
+                0.6814412725070176
+            ],
+            [
+                "14_sometimes, it's enough to walk out of a film with your heart warmed - even if your brain's still craving a little something more.",
+                0.77517241493406
+            ],
+            [
+                "17_subtlety isn't the strong suit of \"queen of katwe.\"",
+                -0.649665116208965
+            ],
+            [
+                "19_there's much to cheer about a movie with such a diverse cast of talent both familiar and new, set in a land that all too often is depicted on screen as a place of war and hopelessness.",
+                0.7838244507655676
+            ],
+            [
+                "20_ queen of katwe is just as uplifting and feel-good a sports drama as any rocky movie.",
+                0.600716246042326
+            ],
+            [
+                "21_nair's film, her best in a long time, is hardly the first to use a chessboard as a symbol of one life's struggles.",
+                0.8448201338677677
+            ],
+            [
+                "28_queen of katwe is a true-life tale transformed into an inspirational fable.",
+                0.8430275700319646
+            ],
+            [
+                "31_by treating its outcome like a foregone conclusion, queen of katwe underserves the built-in power of its exultant tale.",
+                0.5514538299389544
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

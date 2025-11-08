@@ -1,0 +1,237 @@
+{
+    "writer": {
+        "entities": {
+            "Mike Binder": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_the loony wrongheadedness of the screenplay!",
+                -0.5290933417068622
+            ],
+            [
+                "9_ writer-director mike binder, who worked beautifully with costner on 2005's the upside of anger, finds himself on the downside of juggling stereotypes.",
+                0.5383031517366889
+            ],
+            [
+                "24_\"if i were as unfair as director mike binder is to his african-american characters, i'd say this project is a white filmmaker's rationalization to have a white character occasionally say (and certainly think) the n-word while raising a black child.\"",
+                -0.5953409193820383
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mike Binder": {
+                "args": [
+                    [
+                        "9_ writer-director mike binder, who worked beautifully with costner on 2005's the upside of anger, finds himself on the downside of juggling stereotypes.",
+                        0.5383031517366889
+                    ],
+                    [
+                        "19_ he's undercut at almost every point here by director mike binder ...",
+                        -0.6403631049204437
+                    ],
+                    [
+                        "21_ a better director than mike binder would have made a better film.",
+                        0.5329193013638812
+                    ],
+                    [
+                        "22_ mike binder's racially tinged custody battle drama \"black or white\" never achieves much in the way of dramatic credibility.",
+                        -0.5004935882528108
+                    ],
+                    [
+                        "24_\"if i were as unfair as director mike binder is to his african-american characters, i'd say this project is a white filmmaker's rationalization to have a white character occasionally say (and certainly think) the n-word while raising a black child.\"",
+                        -0.5953409193820383
+                    ],
+                    [
+                        "27_kevin costner shines in mike binder's disappointingly dull and safe-playing race relations drama.",
+                        -0.5388274454580746
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_black or white isn't so much an offensive movie as it is a pointless one.",
+                -0.7690641208004296
+            ],
+            [
+                "2_ \"black or white\" succumbs to some of the same stereotypes it tries to dispel.",
+                -0.6620833615338995
+            ],
+            [
+                "3_it may be helpful - or vexing - to think of \"black or white\" as the great grandchild of \"guess who's coming to dinner?\"",
+                0.6205730365217867
+            ],
+            [
+                "5_\"black or white\" stumbles even as it tries to move forward.",
+                -0.5823535588166124
+            ],
+            [
+                "8_the film is by no means perfect and its goals are undermined by a sloppy climax and conclusion ",
+                0.6611437580185884
+            ],
+            [
+                "12_the movie is appealing enough to make you want to believe it, even when you don't.",
+                -0.5299663809751088
+            ],
+            [
+                "13_black or white\" comes off as the product of clouded eyes, sour stomachs and addled brains.",
+                -0.7625838587028457
+            ],
+            [
+                "14_a well-intentioned, white-perspective drama like \"black or white\" isn't going to change the world, ",
+                -0.6361490734537567
+            ],
+            [
+                "15_a movie that's every bit as oversimplified and obvious as its title.",
+                -0.5999788353799942
+            ],
+            [
+                "17_if only black or white spent more time in the gray zone.",
+                -0.7094467014019231
+            ],
+            [
+                "18_ the racial issue is so poorly presented that the film feels unintentionally offensive.",
+                -0.7909887576270879
+            ],
+            [
+                "20_\"black or white\"... is notable for what it doesn't try to do.",
+                -0.534998713546702
+            ],
+            [
+                "23_not since the last dinesh d'souza flick has a movie seemed so eager to tell us who are the good black people and who the bad ones.",
+                -0.7056232653016163
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Janeline Condez Hayes": {
+                "args": []
+            },
+            "Kevin Costner": {
+                "args": [
+                    [
+                        "2_despite the best of intentions, a career-best performance from kevin costner, and outstanding work by octavia spencer and child actor jillian estell,",
+                        0.8061216192755967
+                    ],
+                    [
+                        "9_ writer-director mike binder, who worked beautifully with costner on 2005's the upside of anger, finds himself on the downside of juggling stereotypes.",
+                        0.5383031517366889
+                    ],
+                    [
+                        "22_despite excellent performances by kevin costner, octavia spencer and other cast members,",
+                        0.753197795279509
+                    ],
+                    [
+                        "27_kevin costner shines in mike binder's disappointingly dull and safe-playing race relations drama.",
+                        -0.5388274454580746
+                    ]
+                ]
+            },
+            "Joe Chrest": {
+                "args": []
+            },
+            "André Holland": {
+                "args": []
+            },
+            "Ireyon Johnson": {
+                "args": []
+            },
+            "Lily Costner": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": []
+            },
+            "Lloyd Dillon": {
+                "args": []
+            },
+            "Indigo": {
+                "args": []
+            },
+            "Robert Larriviere": {
+                "args": []
+            },
+            "Ernest Wells": {
+                "args": []
+            },
+            "Gillian Jacobs": {
+                "args": []
+            },
+            "Mark Kroner II": {
+                "args": []
+            },
+            "DA": {
+                "args": []
+            },
+            "Bill Burr": {
+                "args": []
+            },
+            "Efuntola Akinlana": {
+                "args": []
+            },
+            "Dave Jensen": {
+                "args": []
+            },
+            "Jonah Gropper": {
+                "args": []
+            },
+            "Dylon Duplessis": {
+                "args": []
+            },
+            "Kyle Roussel": {
+                "args": []
+            },
+            "Jillian Estell": {
+                "args": []
+            },
+            "Octavia Spencer": {
+                "args": []
+            },
+            "John McConnell": {
+                "args": []
+            },
+            "Lindsey G Smith": {
+                "args": []
+            },
+            "Desmond Francois": {
+                "args": []
+            },
+            "Angela Jones Landry": {
+                "args": []
+            },
+            "Bertha Bindewald": {
+                "args": []
+            },
+            "Paula Newsome": {
+                "args": []
+            },
+            "Jennifer Ehle": {
+                "args": []
+            },
+            "Ariyan Brister": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_costner's performance really is powerful.",
+                0.6282539793234725
+            ],
+            [
+                "21_good acting and plenty to think about, ",
+                -0.5208869522421297
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

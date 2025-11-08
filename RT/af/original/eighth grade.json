@@ -1,0 +1,194 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_in addition to its queasy verisimilitude, \"eighth grade\" offers acute observations on how social media and the language of self-care have warped teen life.",
+                0.6973562292532656
+            ],
+            [
+                "2_\"eighth grade\" aces the test.",
+                -0.677049938758755
+            ],
+            [
+                "4_it's rare to see a movie about middle school years that looks and sounds as right as eighth grade, a modest charmer...",
+                0.7088743015471333
+            ],
+            [
+                "5_an achingly honest film about some of the ghastliest years of adolescence.",
+                0.7592407219773973
+            ],
+            [
+                "6_eighth grade is a harrowing portrait of anxiety and acceptance in a post-social-media landscape, showing how all of us cope with an ever-changing, constantly refreshing world.",
+                0.8889645938723988
+            ],
+            [
+                "8_eighth grade is a revelation of both a remarkably natural young performer and a clever, sensitive young filmmaker.",
+                0.7070389119550089
+            ],
+            [
+                "11_ effective style of this film.",
+                0.7165596278462016
+            ],
+            [
+                "12_what most stunned me about 'eighth grade' was how well directed it is.",
+                0.5360328008333843
+            ],
+            [
+                "13_\"eighth grade\" turns out to be an appealingly generous portrait of adolescent awkwardness, also of parental awkwardness, ",
+                0.5111684060799887
+            ],
+            [
+                "14_everybody who has been through eighth grade needs to see eighth grade.",
+                -0.6666252679291241
+            ],
+            [
+                "16_\"eighth grade\" is a beautiful and uncompromising piece of art, from a distinctive new talent.",
+                0.8375408212007199
+            ],
+            [
+                "18_in the film, you're so immersed in the awkwardness of kayla's life, that her long, timid walk from the guest bathroom in her lime green one-piece to the pool almost makes you sweat with anxiety.",
+                0.5637276778678281
+            ],
+            [
+                "21_eighth grade is so grounded in the reality of middle school it almost operates like a horrible collective flashback.",
+                -0.7486298791079032
+            ],
+            [
+                "22_poignantly funny, wrenchingly wise and meltingly beautiful, \"eighth grade\" is a not-so-small miracle of independent filmmaking.",
+                0.7422245159762274
+            ],
+            [
+                "25_ never-punishing movie feels like the work of someone who kept his eyes and ears wide open.",
+                -0.5444243392632526
+            ],
+            [
+                "26_\"eighth grade\" is a simple story of an unremarkable girl, tenderly and movingly told.",
+                0.6227118637913925
+            ],
+            [
+                "29_a deeply kind movie, curious and nonjudgmental even about the characters who in most coming-of-age films would be hissable villains.",
+                0.7679773337431233
+            ],
+            [
+                "33_there's a lived-in wisdom in the film.",
+                0.5014173799959388
+            ],
+            [
+                "34_eighth grade is lovely work, lifted up by a timeless piece of indie wisdom:",
+                0.5757995984324562
+            ],
+            [
+                "36_\"eighth grade\" isn't a documentary, ",
+                -0.7265292228609008
+            ],
+            [
+                "39_\"eighth grade\" shines as, like, a totally spot-on, you know, portrait of millennial angst and stuff.",
+                0.7633212485234776
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bo Burnham": {
+                "args": [
+                    [
+                        "7_as much as burnham can be applauded, it's impossible not to clap even harder for the pitch-perfect acting of newcomer elsie fisher, a marvel in the lead role of an apparently unremarkable 13-year-old.",
+                        -0.5105323939942941
+                    ],
+                    [
+                        "10_here's a comedy about the trials, tribulations and compulsive worries of youth told with empathy that does credit to first-time writer/director bo burnham.",
+                        0.7764115646789761
+                    ],
+                    [
+                        "12_it's rare that teen movies have the kind of visual acuity and verve that burnham achieves here.",
+                        0.6993167572847945
+                    ],
+                    [
+                        "17_the transition between junior high and high school is exhilarating, traumatic, funny and horrifying, and bo burnham's \"eighth grade\" captures the whole experience perfectly.",
+                        0.818006044306707
+                    ],
+                    [
+                        "20_writer-director bo burnham, in his feature de",
+                        0.6842576972625218
+                    ],
+                    [
+                        "24_bo burnham's tender take on teen angst, starring an incandescent elsie fisher, is a flat-out triumph-a film that is both indelibly of the moment and achingly timeless.",
+                        0.7587872831570671
+                    ],
+                    [
+                        "30_[burnham] smothers the story in sentiment, stereotypes, and good intentions.",
+                        0.5841471845657986
+                    ],
+                    [
+                        "33_ pulls back, as burnham opts instead for something more human and realistic.",
+                        0.7841691316321195
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jake Ryan": {
+                "args": []
+            },
+            "Emily Robinson": {
+                "args": []
+            },
+            "Daniel Zolghadri": {
+                "args": []
+            },
+            "Missy Yager": {
+                "args": []
+            },
+            "Josh Hamilton": {
+                "args": [
+                    [
+                        "3_still, the real delight is hamilton's equally ungainly dad, who grows up faster than any of the kids in the picture.",
+                        0.50770886558602
+                    ]
+                ]
+            },
+            "Elsie Fisher": {
+                "args": [
+                    [
+                        "7_as much as burnham can be applauded, it's impossible not to clap even harder for the pitch-perfect acting of newcomer elsie fisher, a marvel in the lead role of an apparently unremarkable 13-year-old.",
+                        -0.5105323939942941
+                    ],
+                    [
+                        "15_t through, so fisher's seemingly artless performance is actually a pretty brilliant piece of acting.",
+                        0.7388556978283201
+                    ],
+                    [
+                        "24_bo burnham's tender take on teen angst, starring an incandescent elsie fisher, is a flat-out triumph-a film that is both indelibly of the moment and achingly timeless.",
+                        0.7587872831570671
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_fisher's performance is nothing short of cringeworthy (high praise in this case).",
+                0.6768352661611272
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Bo Burnham": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_here's a comedy about the trials, tribulations and compulsive worries of youth told with empathy that does credit to first-time writer/director bo burnham.",
+                0.7764115646789761
+            ]
+        ]
+    }
+}

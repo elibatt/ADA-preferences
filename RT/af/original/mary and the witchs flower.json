@@ -1,0 +1,79 @@
+{
+    "writer": {
+        "entities": {
+            "Hiromasa Yonebayashi": {
+                "args": []
+            },
+            "Riko Sakaguchi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_ the flaws in its writing are harder to overlook.",
+                -0.6806839105379126
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Eri Watanabe": {
+                "args": []
+            },
+            "Jiro Sato": {
+                "args": []
+            },
+            "Ryûnosuke Kamiki": {
+                "args": []
+            },
+            "Shinobu Ohtake": {
+                "args": []
+            },
+            "Hikari Mitsushima": {
+                "args": []
+            },
+            "Hana Sugisaki": {
+                "args": []
+            },
+            "Yuki Amami": {
+                "args": []
+            },
+            "Fumiyo Kohinata": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Hiromasa Yonebayashi": {
+                "args": [
+                    [
+                        "2_it shows tremendous promise, even if the movie exists so obviously at the mercy of its influences, and yonebayashi at his.",
+                        0.6070872970973583
+                    ],
+                    [
+                        "5_the spell mr. yonebayashi casts is effective, ",
+                        0.7661478071353427
+                    ],
+                    [
+                        "10_director yonebayashi clearly fetishizes the romantic countryside setting of such european stories for mary's time with her family, the school itself is quite unlike anything we've seen, making it easy to understand why mary might think she's dreaming.",
+                        0.548975424718869
+                    ],
+                    [
+                        "11_magic flows freely if not infinitely in \"mary and the witch's flower,\" an effortless animated charmer from the gifted japanese director and studio ghibli veteran hiromasa yonebayashi.",
+                        0.76565220820949
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

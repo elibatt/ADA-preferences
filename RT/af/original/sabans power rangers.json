@@ -1,0 +1,110 @@
+{
+    "acting": {
+        "entities": {
+            "Becky G": {
+                "args": []
+            },
+            "Bill Hader": {
+                "args": []
+            },
+            "Elizabeth Banks": {
+                "args": [
+                    [
+                        "5_ultimately, this is a kids'-property superhero movie about teens getting power from ancient aliens and battling someone named rita repulsa (elizabeth banks, taking large bites of the scenery).",
+                        -0.6474280421896903
+                    ]
+                ]
+            },
+            "R.J. Cyler": {
+                "args": []
+            },
+            "Dacre Montgomery": {
+                "args": []
+            },
+            "Naomi Scott": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": []
+            },
+            "Ludi Lin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Matt Sazama": {
+                "args": []
+            },
+            "Burk Sharpless": {
+                "args": []
+            },
+            "Kieran Mulroney": {
+                "args": []
+            },
+            "John Gatins": {
+                "args": []
+            },
+            "Michele Mulroney": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_the plot and character developments never reach marvel-levels of script writing, ",
+                -0.6034763149021205
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_ flawed movie full of the action that most people who want to see movies like this crave.",
+                0.5809911307400146
+            ],
+            [
+                "4_a work of soulless indifference.",
+                -0.5157072973673246
+            ],
+            [
+                "6_the movie is three quarters over before you see any zords, megazords or monsters.",
+                -0.6324915689268737
+            ],
+            [
+                "12_ they're above average for the b- or c-tier stuff you might expect from this movie.",
+                0.570092971220498
+            ],
+            [
+                "14_at over two hours... the movie simply takes too long building up toward the inevitable showdown, which pretty quickly devolves into a lot of cgi-enhanced mayhem that has its moments ",
+                -0.7824440559275514
+            ],
+            [
+                "19_much like the teens at the center, power rangers goes through some awkward growing pains in real time trying to figure out what movie it wants to be or even should be.",
+                -0.8543238819777403
+            ],
+            [
+                "25_(whatever krispy kreme paid to be a plot point in this movie, they got their money's worth.)",
+                -0.5582524341356911
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dean Israelite": {
+                "args": [
+                    [
+                        "7_ bland, as if skimmed from a cw casting call, and israelite stages the action sequences in a chaotic mass of swish-pans and rapid-fire edits, perhaps to hide the daytime special effects.",
+                        -0.5945767548486534
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

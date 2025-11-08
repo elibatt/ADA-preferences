@@ -1,0 +1,148 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_with rebel in the rye, we get a solid, well-acted and basically standard biopic.",
+                0.622066315491221
+            ],
+            [
+                "4_if jones doesn't quite pull it off, it is at least a film of many pleasures and a ",
+                0.6200698758154553
+            ],
+            [
+                "6_the film offers little more depth about the writer than his wikipedia article and considerably less than one would get from reading the semi-autobiographical the catcher in the rye.",
+                -0.5669012471494282
+            ],
+            [
+                "7_fatally, the movie fails to convey the sympathy and imagination of salinger's prose-instead characters simply state over and over again how brilliant he is.",
+                -0.5749911723076676
+            ],
+            [
+                "8_this is a movie that holden would have skipped.",
+                -0.5120366155960722
+            ],
+            [
+                "9_it's hard to imagine a film more inaptly named.",
+                0.5048414230580917
+            ],
+            [
+                "9_as a movie, this \"rebel\" is, as it turns out, terribly by the book.",
+                0.5173424437714533
+            ],
+            [
+                "11_a collective of narrative and stylistic cliches, \"rebel in the rye\" is lousy with hagiography, stripping salinger of any danger, allure or mystery, and making him instead just another insufferable poet-philosopher in your mfa class.",
+                -0.6268576147953082
+            ],
+            [
+                "13_holden would certainly not approve of this film, one that crams an author's mysterious and fascinating legacy into the most basic of biopic formulas.",
+                0.7779271590558324
+            ],
+            [
+                "15_ refused to have his books sold to hollywood, should now be the subject of a movie he would in all likelihood disdain.",
+                -0.5886710108033065
+            ],
+            [
+                "19_while \"rebel in the rye\" isn't quite as bad as its pile-of-bricks-clunky title suggests, it's both simple- and literal-minded ...",
+                -0.7840795370273146
+            ],
+            [
+                "20_there's a special cruelty ... in consigning salinger-an author whose most famous character incessantly rails against phoniness-to the superficial cliché factory that is rebel in the rye.",
+                0.7600909427393681
+            ],
+            [
+                "21_this thanklessly watchable film ... may not warrant holden caulfield's trademark judgment of phoniness - ",
+                0.5465586588387144
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Danny Strong": {
+                "args": [
+                    [
+                        "16_it's tempting to wonder how strong - who, as a screenwriter, so expertly distilled a pair of wild and woolly presidential campaigns into \"recount\" and \"game change\" - honestly ",
+                        0.6388926652829953
+                    ],
+                    [
+                        "18_you won't find much new light shed on the reclusive author of the catcher in the rye in writer-director danny strong's polished ",
+                        0.5775704406838031
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kevin Spacey": {
+                "args": []
+            },
+            "Victor Garber": {
+                "args": []
+            },
+            "Sarah Paulson": {
+                "args": []
+            },
+            "Nicholas Hoult": {
+                "args": [
+                    [
+                        "1_a faithful and often moving look in the life of j.d. salinger, a warts-and-all portrayal that succeeds in large part because of a dynamically persuasive performance by nicholas hoult.",
+                        0.892875288575339
+                    ]
+                ]
+            },
+            "Zoey Deutch": {
+                "args": []
+            },
+            "Hope Davis": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Danny Strong": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_ts and actions were reflected in the character of holden.",
+                -0.5495652411293541
+            ],
+            [
+                "6_the film offers little more depth about the writer than his wikipedia article and considerably less than one would get from reading the semi-autobiographical the catcher in the rye.",
+                -0.5669012471494282
+            ],
+            [
+                "16_it's tempting to wonder how strong - who, as a screenwriter, so expertly distilled a pair of wild and woolly presidential campaigns into \"recount\" and \"game change\" - honestly ",
+                0.6388926652829953
+            ],
+            [
+                "18_you won't find much new light shed on the reclusive author of the catcher in the rye in writer-director danny strong's polished ",
+                0.5775704406838031
+            ],
+            [
+                "20_there's a special cruelty ... in consigning salinger-an author whose most famous character incessantly rails against phoniness-to the superficial cliché factory that is rebel in the rye.",
+                0.7600909427393681
+            ],
+            [
+                "21_, like any clichéd writing, deserves rejection.",
+                -0.6145388956356759
+            ],
+            [
+                "24_diverting, mildly informative and - to borrow caulfield's adjective of choice - somewhat phony, heavy as it is on tortured-writer clichés and contrived art-imitates-life parallels.",
+                0.6038122039830824
+            ],
+            [
+                "25_ finds it hard to conjure his subject's passion for writing.",
+                -0.5519607052632228
+            ]
+        ]
+    }
+}

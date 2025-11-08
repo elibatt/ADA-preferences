@@ -1,0 +1,77 @@
+{
+    "acting": {
+        "entities": {
+            "Bruce Davison": {
+                "args": []
+            },
+            "Olga Fonda": {
+                "args": []
+            },
+            "Ian Fisher (II)": {
+                "args": []
+            },
+            "Gina Gershon": {
+                "args": []
+            },
+            "Charlie Sheen": {
+                "args": []
+            },
+            "Luis Guzman": {
+                "args": []
+            },
+            "Wood Harris": {
+                "args": []
+            },
+            "Jacqueline Bisset": {
+                "args": []
+            },
+            "Whoopi Goldberg": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Steven James Golebiowski": {
+                "args": []
+            },
+            "Martin Guigui": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_now comes a new movie that uses the tragedy as heartracing backdrop, ",
+                0.6836928919366265
+            ],
+            [
+                "1_even if the film relies too much on the real-life horror of the actual event to loan it some gravitas, the performances touch the emotions honestly and deservedly.",
+                0.583273085722065
+            ],
+            [
+                "3_by invoking september 11th, this movie is announcing that it has something to say...",
+                -0.5952096425754828
+            ],
+            [
+                "3_it's the film equivalent of a guy loudly demanding the attention of everyone in a subway car, then refusing to even issue a compellingly strange rant.",
+                -0.7012911104564288
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Martin Guigui": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

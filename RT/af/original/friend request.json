@@ -1,0 +1,82 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's a film devoid of subtext, which is especially disappointing given that the subtext would have been so easy to incorporate.",
+                -0.6919556849859341
+            ],
+            [
+                "3_while friend request dives deep into the darker side to social addiction, and how it transforms us as a society and as individuals, it's too shallow of a film to have any true impact.",
+                0.7915533279346415
+            ],
+            [
+                "5_when dealing with something as stale and formulaic as friend request, you have to take what you can get.",
+                -0.5947807811088064
+            ],
+            [
+                "7_\"friend request\" is less insightful than a tossed off status update.",
+                -0.5503808416695501
+            ],
+            [
+                "10_ \"friend request\" never really builds much tension.",
+                -0.5648152864780953
+            ],
+            [
+                "11_the kind of horror movie you probably watched at a sleepover as a teenager.",
+                0.647279230378757
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Simon Verhoeven": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Brooke Markham": {
+                "args": []
+            },
+            "Alycia Debnam-Carey": {
+                "args": []
+            },
+            "Liesl Ahlers": {
+                "args": []
+            },
+            "Sean Marquette": {
+                "args": []
+            },
+            "William Moseley": {
+                "args": []
+            },
+            "Brit Morgan": {
+                "args": []
+            },
+            "Connor Paolo": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Simon Verhoeven": {
+                "args": []
+            },
+            "Matthew Ballen": {
+                "args": []
+            },
+            "Philip Koch": {
+                "args": []
+            }
+        }
+    }
+}

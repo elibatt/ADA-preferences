@@ -1,0 +1,154 @@
+{
+    "writer": {
+        "args": [
+            [
+                "17_a brilliant piece of filmic writing, one that bursts with fierce urgency, not just for the long-unresolved history it seeks to confront, ",
+                0.7199743066088795
+            ]
+        ],
+        "entities": {
+            "Raoul Peck": {
+                "args": []
+            },
+            "James Baldwin": {
+                "args": [
+                    [
+                        "0_it's an astonishing, often challenging and sharp examination of race in the united states, confronting how the country's history repeats and how baldwin insisted we must remember, relentlessly question, remain conscientious and resist.",
+                        0.8306120271766234
+                    ],
+                    [
+                        "4_an enormously resonant work of cultural history that should do much to renew attention to the lonely, prophetic voice of james baldwin.",
+                        0.7077243256427375
+                    ],
+                    [
+                        "5_this is baldwin at his most polemical, ",
+                        0.6006944180460478
+                    ],
+                    [
+                        "12_it's an evocation of a passionate soul in a tumultuous era, a film that uses baldwin's spoken words, and his notes for an unfinished book, to illuminate the struggle for civil rights.",
+                        0.8039958131980356
+                    ],
+                    [
+                        "13_peck may not be able to get inside the spiritual struggle that made baldwin such a complex figure, ",
+                        0.6144683368897015
+                    ],
+                    [
+                        "13_ i am not your negro, with its frequent reminders that there are still two americas, proves that baldwin's writing has lost none of its currency.",
+                        -0.638005158005316
+                    ],
+                    [
+                        "14_gives us a fresh new view on baldwin's words, while also reminding us that the same american soul he struggled so hard to convince us was worth saving remains on life support today.",
+                        0.7208211218411569
+                    ],
+                    [
+                        "16_ much work remains to be done - and baldwin's voice remains as relevant as ever.",
+                        0.6250562047780206
+                    ],
+                    [
+                        "18_this oscar-nominated portrait of james baldwin uses the author's words to bridge the civil-rights past with our racially incendiary present.",
+                        0.7484647216985556
+                    ],
+                    [
+                        "20_it's a warning bell regarding leaders who, in baldwin's words, care only about \"their safety and their profits.\"",
+                        -0.527446253642771
+                    ],
+                    [
+                        "22_if it revives interest in baldwin and demonstrates to the public that his work is still vital, 30 years after his death, that would be a service, indeed.",
+                        0.5621218473519519
+                    ],
+                    [
+                        "23_ no-less rigorous look at baldwin's prophetic analysis of racial discord in america.",
+                        -0.5019150555721847
+                    ],
+                    [
+                        "25_peck's references to current events reveal baldwin's view of history and his prophetic visions to be painfully accurate.",
+                        0.7372434406799523
+                    ],
+                    [
+                        "28_by weaving in old speeches, pieces from other books, and even some visual juxtapositions that maybe only he fully understands, the director makes a persuasive, intuitive case for baldwin as a poet and a prophet.",
+                        0.5944886151038574
+                    ],
+                    [
+                        "30_if you watch \"i am not your negro,\" you'll spend a kaleidoscopic and transporting 90 minutes living inside james baldwin's mind, coming thrillingly close to his existential perception of the hidden meaning of race in america.",
+                        0.7076192628433543
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "8_but this is not the fault of the film,",
+                -0.6734483545392504
+            ],
+            [
+                "11_it is an urgent, gut-wrenching film that doesn't sugarcoat the truth.",
+                0.6051526636798715
+            ],
+            [
+                "15_you would be hard-pressed to find a movie that speaks to the present moment with greater clarity and force, insisting on uncomfortable truths and drawing stark lessons from the shadows of history.",
+                0.7271962940200714
+            ],
+            [
+                "16_despite considerable progress, the film suggests,",
+                0.6173328110662736
+            ],
+            [
+                "20_this movie isn't just a tri",
+                -0.7713105009507185
+            ],
+            [
+                "26_a film essay that's powerfully and painfully relevant today even ",
+                0.6331311076845849
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "3_baldwin's words, jackson's reading and peck's elegant and scorching composition will resonate for years to come.",
+                        0.8075829482246183
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_ so too, observes [director]",
+                -0.5989705038817638
+            ],
+            [
+                "28_by weaving in old speeches, pieces from other books, and even some visual juxtapositions that maybe only he fully understands, the director makes a persuasive, intuitive case for baldwin as a poet and a prophet.",
+                0.5944886151038574
+            ]
+        ],
+        "entities": {
+            "Raoul Peck": {
+                "args": [
+                    [
+                        "3_baldwin's words, jackson's reading and peck's elegant and scorching composition will resonate for years to come.",
+                        0.8075829482246183
+                    ],
+                    [
+                        "7_while peck's work brims over with anger and horror, it is also a work of sweeping poetry.",
+                        0.6587747690384119
+                    ],
+                    [
+                        "24_as peck cuts from archival scenes of police brutality in the south in the '60s to recent footage from ferguson, mo., it's impossible not to think: the more things change, the more they stay the same.",
+                        -0.527414390168488
+                    ]
+                ]
+            }
+        }
+    }
+}

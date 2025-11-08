@@ -1,0 +1,92 @@
+{
+    "acting": {
+        "args": [
+            [
+                "9_ he owes much to his cast.",
+                0.5327015856772248
+            ]
+        ],
+        "entities": {
+            "Jean Daste": {
+                "args": []
+            },
+            "Georges Péclet": {
+                "args": []
+            },
+            "Jean Gabin": {
+                "args": []
+            },
+            "Marcel Dalio": {
+                "args": []
+            },
+            "Gaston Modot": {
+                "args": []
+            },
+            "Sylvain Itkine": {
+                "args": []
+            },
+            "Pierre Fresnay": {
+                "args": []
+            },
+            "Julien Carette": {
+                "args": []
+            },
+            "Dita Parlo": {
+                "args": []
+            },
+            "Erich von Stroheim": {
+                "args": []
+            },
+            "Claude Sainval": {
+                "args": []
+            },
+            "Jacques Becker": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_a model of simplicity and grace, with emotional effects that move you when you least expect it, the kind of great film that only a master can pull off.",
+                0.797940978481411
+            ],
+            [
+                "9_renoir has created a strange and interesting film, ",
+                0.7598538224949405
+            ],
+            [
+                "10_i can't comment yet again on this magnificent work except to say that its account of french prisoners in german hands during world war",
+                0.6540624408578166
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean Renoir": {
+                "args": [
+                    [
+                        "6_it's an excellent film, with renoir's usual looping line and deft shifts of tone, ",
+                        0.8721828014527995
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Charles Spaak": {
+                "args": []
+            },
+            "Jean Renoir": {
+                "args": []
+            }
+        }
+    }
+}

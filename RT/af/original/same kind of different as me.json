@@ -1,0 +1,84 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"same kind of different as me\" is a strange, sincere and sometimes clumsy plea for old-fashioned christian empathy.",
+                0.6480421680116801
+            ],
+            [
+                "2_a film with a lovely, life-affirming, uplifting message - unfortunately delivered in such a heavy-handed, gooey-sweet manner that audiences will exit the theater in a near-diabetic coma.",
+                0.6683744642892478
+            ],
+            [
+                "3_the very horrible complexities of racism and intolerance are simplified in ways inherent to many a hollywood and faith-based film, all in the aim of glib uplift that may salve the individual spirit ",
+                0.6938221861550671
+            ],
+            [
+                "4_a blandly good looking, no frills, reasonably competent and occasionally emotional message movie, one whose message favors a color-blind approach to race relations, one designed to work entirely in favor of the desires of white people.",
+                0.5765648939164325
+            ],
+            [
+                "5_it can be hard to disagree with the heart and events of this true tale, except for when the movie reveals itself to be mighty self-congratulatory.",
+                -0.5510790742891759
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Carney (XII) ": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Djimon Hounsou": {
+                "args": []
+            },
+            "Dana Gourrier": {
+                "args": []
+            },
+            "Austin Filson": {
+                "args": []
+            },
+            "Ann Mahoney": {
+                "args": []
+            },
+            "Renée Zellweger": {
+                "args": []
+            },
+            "Jon Voight": {
+                "args": []
+            },
+            "Geraldine Singer": {
+                "args": []
+            },
+            "Greg Kinnear": {
+                "args": []
+            },
+            "Olivia Holt": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Michael Carney (XII) ": {
+                "args": []
+            },
+            "Alexander Foard": {
+                "args": []
+            },
+            "Ron Hall": {
+                "args": []
+            }
+        }
+    }
+}

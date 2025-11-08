@@ -1,0 +1,200 @@
+{
+    "writer": {
+        "entities": {
+            "Michael H. Weber": {
+                "args": [
+                    [
+                        "12_neustadter and weber, who also adapted \"a fault in our stars\" for director josh boone, have a feel for the mundane moments of teen life that carry an emotional punch.",
+                        0.7370856933646409
+                    ]
+                ]
+            },
+            "Scott Neustadter": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Cara Delevingne": {
+                "args": []
+            },
+            "Tom Hillmann": {
+                "args": []
+            },
+            "Meg Crosbie": {
+                "args": []
+            },
+            "Austin Abrams": {
+                "args": []
+            },
+            "Nat Wolff": {
+                "args": [
+                    [
+                        "24_ nat wolff and cara delevingne are irresistible so we're never sorry.",
+                        -0.6238748032625265
+                    ]
+                ]
+            },
+            "Drew Matthews": {
+                "args": []
+            },
+            "Robert Crayton": {
+                "args": []
+            },
+            "Graham Hunt": {
+                "args": []
+            },
+            "Ansel Elgort": {
+                "args": []
+            },
+            "Susan Macke Miller": {
+                "args": []
+            },
+            "Cara Buono": {
+                "args": []
+            },
+            "Jim R. Coleman": {
+                "args": []
+            },
+            "Halston Sage": {
+                "args": []
+            },
+            "Josiah Cerio": {
+                "args": []
+            },
+            "Caitlin Carver": {
+                "args": []
+            },
+            "Griffin Freeman": {
+                "args": []
+            },
+            "Mehmet Korhan": {
+                "args": []
+            },
+            "Jaz Sinclair": {
+                "args": []
+            },
+            "Cameron Mills": {
+                "args": []
+            },
+            "Justice Smith": {
+                "args": []
+            },
+            "Jay Duplass": {
+                "args": []
+            },
+            "RJ Shearer": {
+                "args": []
+            },
+            "Stephen Mackenzie Brown": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ the charming young cast helps compensate.",
+                0.766290798582117
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_paper towns is particularly good at pinpointing that certain point in teenage male friendships where the guys are getting older, ",
+                0.5311993652002223
+            ],
+            [
+                "1_paper towns is too nice.",
+                0.565366280914251
+            ],
+            [
+                "3_paper towns is an exercise in artifice.",
+                0.5481547208659903
+            ],
+            [
+                "4_paper towns is a movie that i really liked, ",
+                0.6820142494630186
+            ],
+            [
+                "5_it's the rare movie that can sacrifice the clean lines of fantasy and melodrama for the messiness of ordinary life - that neither burnishes nor condemns the up-down turmoil of the teenage soul, ",
+                0.5103550190211396
+            ],
+            [
+                "7_fans expecting more than a routine coming-of-age story had better prepare for a paper movie.",
+                -0.6062434846148063
+            ],
+            [
+                "8_\"paper towns\" might be the only movie to ever pay tri",
+                -0.7078968607556834
+            ],
+            [
+                "10_sure, it's a movie aimed at teenagers in which an unpopular guy wants to get a popular girl, ",
+                -0.6206235017730601
+            ],
+            [
+                "11_if you're searching for smart, soulful teen entertainment, you can start looking inside \"paper towns.\"",
+                0.7329479805528669
+            ],
+            [
+                "13_we've seen the elements that make up \"paper towns\" before, ",
+                0.5424071388715427
+            ],
+            [
+                "17_the movie name-drops the cool stuff, the rebels of word and song, ",
+                0.7166852044724157
+            ],
+            [
+                "18_ paper towns works neither as a teen romance nor as a subversion of the same.",
+                -0.5837285801264915
+            ],
+            [
+                "19_unlike in its predecessor, the fault in our stars, the path to pubescent enlightenment in paper towns is more literal than existential, giving your tear ducts the night off at the cost of something a little deeper.",
+                0.6820278295480792
+            ],
+            [
+                "20_at last, a movie about teens on the cusp of adulthood that has heart, wit and soul.",
+                0.5819191755753225
+            ],
+            [
+                "22_fantasy is the currency in which adolescent movies deal (why else, in teen movies, would everyone's hair always be perfect?), and \"paper towns\" putters along agreeably enough.",
+                0.5592056481170106
+            ],
+            [
+                "24_ok, paper towns plays it safe, ",
+                0.5688132034170097
+            ],
+            [
+                "26_in its considered, neatly packaged way, the film occupies a safe and solid middle-class middle ground in teen storyland, between crass gross-out comedies and mawkish romance on one side and edgy, exploratory indie fare on the other.",
+                0.5346643896793222
+            ],
+            [
+                "28_even if the smarmily sanctified and beautifully doomed male lead of the fault in our stars made you want to run screaming from the theater, you may find yourself on board with this movie's road trip.",
+                0.5086967415273482
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jake Schreier": {
+                "args": [
+                    [
+                        "27_ director jake schreier's coming-of-age dramedy nonetheless pulses with moving and melancholy moments ...",
+                        0.7931669684442838
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_neustadter and weber, who also adapted \"a fault in our stars\" for director josh boone, have a feel for the mundane moments of teen life that carry an emotional punch.",
+                0.7370856933646409
+            ]
+        ]
+    }
+}

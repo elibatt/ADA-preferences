@@ -1,0 +1,79 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_for the tots, the film is blandly inoffensive enough to offer some saturday afternoon entertainment, ",
+                -0.5783368406224414
+            ],
+            [
+                "1_ norm of the north, especially in its early section set in the arctic, has its appealing moments.",
+                0.5314750169751308
+            ],
+            [
+                "3_think of every trope associated with animated family movies and you'll find them all in norm of the north, a thoroughly uninspired story of a polar bear attempting to save his habitat from a hypocritical hippie seeking to develop condos in the arctic.",
+                0.5231077738630467
+            ],
+            [
+                "5_a bland, nearly incompetent animated movie that assumes kids can only be entertained by the sights of a dancing polar bear, of \"cute and marketable\" lemmings (the movie's own description) urinating in an aquarium, and of a bird defecating on people.",
+                -0.5454350275390001
+            ],
+            [
+                "6_norm of the north is more ursa minor than ursa major.",
+                0.6820809572296757
+            ],
+            [
+                "9_\"norm of the north\" feels as if it intended to be a better movie, ",
+                -0.5418866623578187
+            ],
+            [
+                "10_while the film, with its preponderance of potty jokes, might placate the very young already primed by boisterous singing chipmunks, older viewers will likely find it all harder to, uh, bear.",
+                -0.6084301025288168
+            ],
+            [
+                "12_if i wasn't already convinced of this movie's obnoxiousness, its rendering of graham's character sealed the deal.",
+                -0.6815260398924242
+            ],
+            [
+                "14_the animation and character work is tv-level: so frenetic so that no real artistry is needed, ",
+                -0.6417895258331388
+            ],
+            [
+                "15_[wall's] visually unimaginative style ... may work, barely, in increments of fifteen minutes or less, ",
+                -0.7255521748436049
+            ],
+            [
+                "17_norm of the north seeks to blend a little happy feet with a side of the penguins of madagascar and a slice of minions, ",
+                0.7998340249644373
+            ]
+        ]
+    },
+    "director": {
+        "entities": {},
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "12_if i wasn't already convinced of this movie's obnoxiousness, its rendering of graham's character sealed the deal.",
+                -0.6815260398924242
+            ],
+            [
+                "14_the animation and character work is tv-level: so frenetic so that no real artistry is needed, ",
+                -0.6417895258331388
+            ],
+            [
+                "16_not since bratz has this writer seen a screenplay so carelessly written, a sort of \"dear john\" letter to hollywood that goes out of its way to paint actors and directors as megalomaniacal idiots.",
+                -0.7785029843458178
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "acting": {
+        "args": [
+            [
+                "0_ the scenery is delicious, the dialogue refreshingly tart and the keen supporting cast frisky or affecting, as the occasion demands.",
+                0.845038991197284
+            ]
+        ],
+        "entities": {
+            "Karla Souza": {
+                "args": [
+                    [
+                        "3_ mastretta's affecting script and realistic performances from souza and tiaré scanda offer enough motivation for us to stay engaged.",
+                        0.766855303732449
+                    ]
+                ]
+            },
+            "Tiare Scanda": {
+                "args": []
+            },
+            "K.C. Clyde": {
+                "args": []
+            },
+            "Jose María Yazpik": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"everybody loves somebody\" doesn't reinvent the rom-com, ",
+                -0.7245563596049218
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Catalina Aguilar Mastretta": {
+                "args": [
+                    [
+                        "3_ mastretta's affecting script and realistic performances from souza and tiaré scanda offer enough motivation for us to stay engaged.",
+                        0.766855303732449
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_ mastretta's affecting script and realistic performances from souza and tiaré scanda offer enough motivation for us to stay engaged.",
+                0.766855303732449
+            ]
+        ],
+        "entities": {
+            "Catalina Aguilar Mastretta": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Spencer Rocco Lofranco": {
+                "args": []
+            },
+            "Chris Mulkey": {
+                "args": []
+            },
+            "Pruitt Taylor Vince": {
+                "args": []
+            },
+            "Kelly Preston": {
+                "args": []
+            },
+            "John Travolta": {
+                "args": [
+                    [
+                        "0_you never forget that you are watching john travolta playing john gotti every time.",
+                        0.5997359826666885
+                    ],
+                    [
+                        "4_starring in this mobster biopic that deserves to get whacked is an offer travolta should have refused.",
+                        0.5457918332641188
+                    ],
+                    [
+                        "10_admittedly, travolta, who produced, is sure having fun.",
+                        0.6985128098081901
+                    ]
+                ]
+            },
+            "Chris Kerson": {
+                "args": []
+            },
+            "William DeMeo": {
+                "args": []
+            },
+            "Stacy Keach": {
+                "args": []
+            },
+            "Ella Bleu Travolta": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kevin Connolly": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Lem Dobbs": {
+                "args": []
+            },
+            "Leo Rossi": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_gotti tries too hard to cram too much information into a small space, and you come away learning almost nothing about the man, other than the filmmakers feel he was a pretty stand-up guy.",
+                -0.6457204491563231
+            ],
+            [
+                "3_i'd rather wake up next to a severed horse head than ever watch \"gotti\" again.",
+                -0.5673114702545303
+            ],
+            [
+                "4_insane testimonials from gotti supporters at the end are as close as this s---show will ever get to good reviews.",
+                0.5582142357197031
+            ],
+            [
+                "5_gotti is a connect-the-dots disaster -- the don's greatest hits, so to speak -- without discernible theme or cohesive narrative.",
+                0.6696344779750312
+            ],
+            [
+                "6_when gotti tells viewers, speaking directly to the camera at film's end, that they'll never see another man like him, an attorney should really spring up and object that the statement assumes facts not in evidence.",
+                -0.6723900424672187
+            ],
+            [
+                "7_closing reportage of everyday new yorkers brashly extolling gotti's virtues upon his death, painting him, without any irony, as some kind of local hero, pretty much tells you where this picture's coming from.",
+                0.6519572776634999
+            ],
+            [
+                "8_that the long-gestating crime drama gotti is a dismal mess comes as no surprise.",
+                -0.6031491449019635
+            ],
+            [
+                "9_ even gotti deserved better than this.",
+                0.5407286614543775
+            ],
+            [
+                "11_aside from the wardrobe and the makeup, \"gotti\" falls far short of capturing period-piece details and never immerses us in the era.",
+                0.5027754762226131
+            ],
+            [
+                "12_it's almost laughable to see this iconic star trying so hard on behalf of a movie that is so clearly compromised in its intentions.",
+                -0.7409144226388902
+            ],
+            [
+                "13_ john gotti deserved better.",
+                0.6264345937189236
+            ],
+            [
+                "14_the film is pretty terrible: poorly written, devoid of tension, ridiculous in spots and just plain dull in others.",
+                -0.8617568058797171
+            ]
+        ]
+    }
+}

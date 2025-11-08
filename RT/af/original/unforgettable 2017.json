@@ -1,0 +1,146 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Denise Di Novi": {
+                "args": [
+                    [
+                        "8_it's a uniquely feminine kind of villainy, and di novi and heigl understand it implicitly in order to execute it perfectly.",
+                        0.7317084921675385
+                    ],
+                    [
+                        "21_di novi steadily turns up the heat on a lethal bouillabaisse of sex, domesticity and juicy archetypes - a recipe that's equal parts fatal attraction, charles perrault and nancy meyers.",
+                        -0.529013364210629
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "15_\"-style fun while it lasts, boasting a better cast and splashier production values than the next closest lifetime movie, while being so ridiculous at times that audiences can't help ",
+                -0.5265900001252988
+            ]
+        ],
+        "entities": {
+            "Whitney Cummings": {
+                "args": []
+            },
+            "Isabella Kai Rice": {
+                "args": []
+            },
+            "Cheryl Ladd": {
+                "args": []
+            },
+            "Rosario Dawson": {
+                "args": [
+                    [
+                        "2_the shame is that rosario dawson gives an earnest, sympathetic, even moving performance as the victimized character.",
+                        0.6745709734132812
+                    ]
+                ]
+            },
+            "Katherine Heigl": {
+                "args": [
+                    [
+                        "8_it's a uniquely feminine kind of villainy, and di novi and heigl understand it implicitly in order to execute it perfectly.",
+                        0.7317084921675385
+                    ],
+                    [
+                        "16_if only for one particular equestrian center face-off, heigl and dawson are reason enough to stick this one out.",
+                        -0.7453794772480541
+                    ],
+                    [
+                        "18_framed like a phantom in black shadow and silvery silhouette by caleb deschanel, heigl slices through this silly little universe.",
+                        -0.6625789305988321
+                    ]
+                ]
+            },
+            "Geoff Stults": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_the shame is that rosario dawson gives an earnest, sympathetic, even moving performance as the victimized character.",
+                0.6745709734132812
+            ],
+            [
+                "18_heigl takes her icy character's suitcase full of damaged personality clichés and runs like an olympian.",
+                -0.5485757344259827
+            ]
+        ],
+        "entities": {
+            "Christina Hodson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_among the less-noted cardinal rules of cinema is that any movie that takes the title",
+                -0.5661493915954139
+            ],
+            [
+                "0_unforgettable will prove to be anything ",
+                0.5019061025330074
+            ],
+            [
+                "1_unforgettable simply fails to deliver in terms of atmosphere and, moreover, the filmmakers fail to develop any sort of subtext from the material that might give weight to the story.",
+                -0.7146611402796229
+            ],
+            [
+                "4_slick, glossy and radiating juicy villainy, it knows exactly what kind of movie it is and goes for it with giddy abandon.",
+                0.6258308918178401
+            ],
+            [
+                "5_unforgettable is definitely the wrong title for a movie you want to erase from your memory the second it ends.",
+                -0.5828829497031363
+            ],
+            [
+                "7_the erotic thriller canon is littered with similar stories, and \"unforgettable\" doesn't attempt to reinvent the wheel.",
+                -0.5542070671298743
+            ],
+            [
+                "11_unforgettable doesn't have quite enough story to go around.",
+                -0.7342635942363555
+            ],
+            [
+                "12_despite its usefulness as a 21st century public service announcement, what unforgettable can't really do is scare, educate or entertain anybody,",
+                -0.5407298366544047
+            ],
+            [
+                "14_for a bad movie, this one is an awful lot of fun.",
+                -0.7745278804268079
+            ],
+            [
+                "15_\"-style fun while it lasts, boasting a better cast and splashier production values than the next closest lifetime movie, while being so ridiculous at times that audiences can't help ",
+                -0.5265900001252988
+            ],
+            [
+                "17_what the film offers is guilty pleasure familiarity - it's the kind of loopy audience-participation movie that's made to be both laughed at and with.",
+                0.696572460794652
+            ],
+            [
+                "22_nicely photographed, speedily paced, \"unforgettable\" is a completely average movie.",
+                0.573163099819801
+            ],
+            [
+                "22_but there's a wonderful bad movie inside it,",
+                0.5169717821609334
+            ],
+            [
+                "23_that \"unforgettable\" is watchable, at least before it disintegrates into generic violence near the end, is due to the touches of wit in the directing, and to the two lead performances.",
+                -0.5299732444183423
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

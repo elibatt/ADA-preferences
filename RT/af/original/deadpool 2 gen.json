@@ -1,0 +1,183 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "11_nearly everything about the original deadpool was fresh and funny, from the opening credits to the parody of marvel movie finales.",
+                0.7383813578992005
+            ],
+            [
+                "16_ the nonstop unseriousness of deadpool 2 can wear you down, too.",
+                -0.6847537140262066
+            ],
+            [
+                "2_i don't think the second film is terrible, i did find it quite dull.",
+                -0.8611714276190616
+            ],
+            [
+                "6_i loved this movie, i think it's funnier and more intelligent than its predecessor, ",
+                0.7193608161336633
+            ],
+            [
+                "8_deadpool 2 is an r-rated, potty-mouthed splatterfest and a funny one.",
+                0.6215026712229653
+            ],
+            [
+                "14_for all the impulsive flamboyance of deadpool's patter, the liberating power of personal virtue, and the disinhibiting promise of second chances, \"deadpool 2\" feels narrowly impersonal and oppressively unfree.",
+                0.6141783061821156
+            ],
+            [
+                "15_it's the role he was born to play and whenever he's on screen, the movie's inner classic shines forth.",
+                0.6442003666031948
+            ],
+            [
+                "19_a little of deadpool's incessant winkiness goes a long way, and by the time the movie was over, all i felt was sore.",
+                -0.7357714685605565
+            ],
+            [
+                "9",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "David Leitch": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "9_another wild, hilarious ride for the character with just enough honesty and heart.",
+                0.8250039835857017
+            ]
+        ],
+        "entities": {
+            "Ryan Reynolds": {
+                "unique_args": []
+            },
+            "Rhett Reese": {
+                "unique_args": []
+            },
+            "Paul Wernick": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Ryan Reynolds": {
+                "unique_args": []
+            },
+            "Josh Brolin": {
+                "unique_args": []
+            },
+            "Morena Baccarin": {
+                "unique_args": []
+            },
+            "Zazie Beetz": {
+                "unique_args": []
+            },
+            "Brianna Hildebrand": {
+                "unique_args": []
+            },
+            "Julian Dennison": {
+                "unique_args": []
+            },
+            "Stefan Kapicic": {
+                "unique_args": []
+            },
+            "T.J. Miller": {
+                "unique_args": []
+            },
+            "Terry Crews": {
+                "unique_args": []
+            },
+            "Bill Skarsgård": {
+                "unique_args": []
+            },
+            "Rob Delaney": {
+                "unique_args": []
+            },
+            "Shiori Kutsuna": {
+                "unique_args": []
+            },
+            "Leslie Uggams": {
+                "unique_args": []
+            },
+            "Karan Soni": {
+                "unique_args": []
+            },
+            "Jack Kesy": {
+                "unique_args": []
+            },
+            "Lewis Tan": {
+                "unique_args": []
+            },
+            "Eddie Marsan": {
+                "unique_args": []
+            },
+            "Matt Damon": {
+                "unique_args": []
+            },
+            "David Leitch": {
+                "unique_args": []
+            },
+            "Rhett Reese": {
+                "unique_args": []
+            },
+            "Paul Wernick": {
+                "unique_args": []
+            },
+            "Simon Kinberg": {
+                "unique_args": []
+            },
+            "Lauren Shuler Donner": {
+                "unique_args": []
+            },
+            "Stan Lee": {
+                "unique_args": []
+            },
+            "Jonathon Komack Martin": {
+                "unique_args": []
+            },
+            "Kelly McCormick": {
+                "unique_args": []
+            },
+            "Ethan Smith": {
+                "unique_args": []
+            },
+            "Aditya Sood": {
+                "unique_args": []
+            },
+            "Jonathan Sela": {
+                "unique_args": []
+            },
+            "Craig Alpert": {
+                "unique_args": []
+            },
+            "Elísabet Ronaldsdóttir": {
+                "unique_args": []
+            },
+            "Dirk Westervelt": {
+                "unique_args": []
+            },
+            "Tyler Bates": {
+                "unique_args": []
+            },
+            "David Scheunemann": {
+                "unique_args": []
+            },
+            "Kurt & Bart": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

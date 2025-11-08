@@ -1,0 +1,71 @@
+{
+    "writer": {
+        "entities": {
+            "Richard Kelly": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Beth Grant": {
+                "args": []
+            },
+            "Katharine Ross": {
+                "args": []
+            },
+            "Jake Gyllenhaal": {
+                "args": []
+            },
+            "Patrick Swayze": {
+                "args": []
+            },
+            "Noah Wyle": {
+                "args": []
+            },
+            "Mary McDonnell": {
+                "args": []
+            },
+            "Drew Barrymore": {
+                "args": []
+            },
+            "Jena Malone": {
+                "args": []
+            },
+            "Daveigh Chase": {
+                "args": []
+            },
+            "Holmes Osborne": {
+                "args": []
+            },
+            "James Duval": {
+                "args": []
+            },
+            "Maggie Gyllenhaal": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie feels perfectly timed to coincide with our nation's latest flirtation with the apocalypse.",
+                0.6997965243739986
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Richard Kelly": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

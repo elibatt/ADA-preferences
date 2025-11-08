@@ -1,0 +1,48 @@
+{
+    "acting": {
+        "entities": {},
+        "args": [
+            [
+                "0_ cast a light on an entire secret chronology of food, immigrant culture, and the way the two amplify each other.",
+                0.8198439113225158
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Ian Cheney": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "5_you may well emerge from \"the search for general tso\" with a hankering for the titular spicy dish.",
+                0.7154058353063951
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ian Cheney": {
+                "args": [
+                    [
+                        "4_mr. cheney's movie, while teasing at times, does its celebrating and debunking in mild-mannered fashion, making points without seeming to try to score them.",
+                        0.5690380672191934
+                    ],
+                    [
+                        "8_ian cheney's the search for general tso is as much an immigration history as a culinary one, observing how a people who were demonized as low-wage laborers found entrepreneurial success in small and large towns across the country.",
+                        0.7035238495770192
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

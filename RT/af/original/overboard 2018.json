@@ -1,0 +1,114 @@
+{
+    "writer": {
+        "entities": {
+            "Bob Fisher": {
+                "args": [
+                    [
+                        "12_writers and directors bob fisher and rob greenberg don't do anything particularly clever or inspired, ",
+                        -0.5518332193145004
+                    ]
+                ]
+            },
+            "Rob Greenberg": {
+                "args": []
+            },
+            "Leslie Dixon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rob Greenberg": {
+                "args": [
+                    [
+                        "12_writers and directors bob fisher and rob greenberg don't do anything particularly clever or inspired, ",
+                        -0.5518332193145004
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_overboard demonstrates that not every idea deserves an encore.",
+                -0.542364734265707
+            ],
+            [
+                "10_as more ethical lines are crossed, and the felonies being committed during the ruse multiply, \"overboard\" seems more twisted than funny.",
+                -0.6256880999728742
+            ],
+            [
+                "12_ they display a knack for snappy dialogue and draw solid work from the cast.",
+                0.6974487165219464
+            ],
+            [
+                "16_overboard lists and wanders through the shoals of secondhand comedy and eventually, just drifts away.",
+                -0.6333006499167902
+            ],
+            [
+                "17_overboard is a decent-to-great model for a rom-com renaissance, the kind of film that sends one out on a high note great enough to blur many of the blemishes that have come before.",
+                0.6926524184512882
+            ],
+            [
+                "18_out of these conceptual lemons, the new overboard makes an improbably decent batch of lemonade, albeit one with an extra scoop of sugar.",
+                0.677615823876053
+            ],
+            [
+                "20_ultimately pointless, overboard makes you wonder why it exists at all when it offers neither a fresh angle into modern-day relationships nor an improvement upon its predecessor.",
+                -0.5169656312229324
+            ],
+            [
+                "22_at its very occasional best, \"overboard\" rises to the level of a decent telenovela parody.",
+                0.5956649330878998
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Eugenio Derbez": {
+                "args": [
+                    [
+                        "5_a wholly adequate spin on the dying romantic-comedy genre, and both faris and derbez come out looking like champs.",
+                        0.6251825487841514
+                    ],
+                    [
+                        "8_\"overboard\" is strictly derbez' show, and he's as subtle as a cartoon.",
+                        -0.6379840530281202
+                    ]
+                ]
+            },
+            "Eva Longoria": {
+                "args": []
+            },
+            "Josh Segarra": {
+                "args": []
+            },
+            "Mel Rodriguez": {
+                "args": []
+            },
+            "John Hannah": {
+                "args": []
+            },
+            "Swoosie Kurtz": {
+                "args": []
+            },
+            "Anna Faris": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_ they display a knack for snappy dialogue and draw solid work from the cast.",
+                0.6974487165219464
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Hark Tsui": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mark Chao": {
+                "args": []
+            },
+            "Ethan Juan": {
+                "args": []
+            },
+            "Sichun Ma": {
+                "args": []
+            },
+            "Carina Lau": {
+                "args": []
+            },
+            "William Feng (VI)": {
+                "args": []
+            },
+            "Kenny Lin": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's the movie that never takes flight.",
+                -0.5451477796234899
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

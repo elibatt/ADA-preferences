@@ -1,0 +1,104 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Susan Rice": {
+                "args": []
+            },
+            "Samantha Power": {
+                "args": []
+            },
+            "John Kerry": {
+                "args": []
+            },
+            "Ben Rhodes": {
+                "args": []
+            },
+            "Barack Obama": {
+                "args": [
+                    [
+                        "6_gradually documentarian greg barker's look at barack obama's foreign policy team comes into focus, thanks in large part to the counterpoint played by the trump campaign.",
+                        0.7122302335003405
+                    ],
+                    [
+                        "7_what chills most about this doc is how unprepared team obama was for the victory of team trump and the ease with which many of its hard-won policies could be unraveled.",
+                        0.5543791402485969
+                    ],
+                    [
+                        "12_it is, like obama himself, optimistic about the state of the world.",
+                        0.6447412588300667
+                    ],
+                    [
+                        "20_\"the final year\" clings to a precooked thesis about the obama doctrine that misses the behind-the-scenes drama and candor of superior political documentaries like \"the war room\" or \"weiner.\"",
+                        0.6268057995201222
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Greg Barker": {
+                "args": [
+                    [
+                        "6_gradually documentarian greg barker's look at barack obama's foreign policy team comes into focus, thanks in large part to the counterpoint played by the trump campaign.",
+                        0.7122302335003405
+                    ],
+                    [
+                        "22_under the current circumstances, barker has given us a film with much broader appeal, one that's not only absorbing ",
+                        0.6674231018598346
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"the final year\" is stirring and saddening, ",
+                -0.5425922823184064
+            ],
+            [
+                "2_as an evocation of on-the-ground political reality, \"the final year\" is a a solid and often entertaining work in much the same wheelhouse as the durable political documentary",
+                0.6342576975040539
+            ],
+            [
+                "5_every big issue covered in the film can't possibly be done justice in 90 minutes, ",
+                -0.7606918197082299
+            ],
+            [
+                "9_for its target audience, the final year can't help ",
+                -0.7142711532153899
+            ],
+            [
+                "13_for much of its first hour, this movie is tepid and self-congratulatory, a quick-cutting advertisement for itself.",
+                -0.7133952735755786
+            ],
+            [
+                "14_\"the final year\" teeters toward insight, only to turn its attention to personalities.",
+                -0.6302598147844393
+            ],
+            [
+                "15_\"the final year\" isn't just a memorial for the way things were.",
+                -0.708800851837994
+            ],
+            [
+                "18_in the end, \"the final year\" can offer only the perspective of time and history as a consolation.",
+                0.563227873025374
+            ],
+            [
+                "21_for most viewers inclined to check out a film about the subject, it will be hard not to cry.",
+                -0.5789194913394503
+            ]
+        ]
+    }
+}

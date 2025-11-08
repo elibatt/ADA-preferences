@@ -1,0 +1,208 @@
+{
+    "film": {
+        "args": [
+            [
+                "8_the mechanical feeding sequence in modern times is probably the funniest routine in cinema history.",
+                0.6517863340450376
+            ],
+            [
+                "9_modern times is an ungainly masterpiece, ",
+                0.5812217600327653
+            ],
+            [
+                "10_chaplin's sentimental politics and peerless comic invention dovetailed more perfectly in this film than in any other he made.",
+                0.6957504876138871
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Charles Chaplin": {
+                "args": [
+                    [
+                        "0_it is a gay, impudent and sentimental pantomimic comedy in which even the anachronisms are often as becoming as charlie chaplin's cane.",
+                        0.6105813928734849
+                    ],
+                    [
+                        "1_one of the many remarkable things about charlie chaplin is that his films continue to hold up, to attract and delight audiences.",
+                        0.7373159373170843
+                    ],
+                    [
+                        "2_it's the old chaplin at his best, looking at his best -- young, pathetic and a very funny guy.",
+                        0.7028070510234653
+                    ],
+                    [
+                        "3_it's the coldest of [chaplin's] major features, ",
+                        0.5649656461747234
+                    ],
+                    [
+                        "4_the opening sequence in chaplin's second depression masterpiece, of the tramp on the assembly line, is possibly his greatest slapstick encounter with the 20th century.",
+                        0.7775743527194727
+                    ],
+                    [
+                        "6_do you have to be reminded that chaplin is a master of pantomime?",
+                        0.6902945373447286
+                    ],
+                    [
+                        "7_good physical comedy will always be funny, and chaplin was a master.",
+                        0.7549577025744535
+                    ],
+                    [
+                        "9_ chaplin's ungainliness is something one can grow fond of.",
+                        0.5375373761823373
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Chuck Hamilton": {
+                "args": []
+            },
+            "James C. Morton": {
+                "args": []
+            },
+            "Chester Conklin": {
+                "args": []
+            },
+            "Harry Wilson": {
+                "args": []
+            },
+            "Allan Garcia": {
+                "args": []
+            },
+            "Wilfred Lucas": {
+                "args": []
+            },
+            "Louis Natheaux": {
+                "args": []
+            },
+            "Gloria de Haven": {
+                "args": []
+            },
+            "Sammy Stein": {
+                "args": []
+            },
+            "Hank Mann": {
+                "args": []
+            },
+            "Edward M. Kimball": {
+                "args": []
+            },
+            "Stanley Blystone": {
+                "args": []
+            },
+            "Richard Alexander": {
+                "args": []
+            },
+            "Heinie Conklin": {
+                "args": []
+            },
+            "Juana Sutton": {
+                "args": []
+            },
+            "Henry Bergman": {
+                "args": []
+            },
+            "Edward J. Le Saint": {
+                "args": []
+            },
+            "Jack Low": {
+                "args": []
+            },
+            "Ted Oliver": {
+                "args": []
+            },
+            "Stanley \"Tiny\" Sandford": {
+                "args": []
+            },
+            "Bobby Barber": {
+                "args": []
+            },
+            "Walter James": {
+                "args": []
+            },
+            "Charles Chaplin": {
+                "args": [
+                    [
+                        "0_it is a gay, impudent and sentimental pantomimic comedy in which even the anachronisms are often as becoming as charlie chaplin's cane.",
+                        0.6105813928734849
+                    ],
+                    [
+                        "1_one of the many remarkable things about charlie chaplin is that his films continue to hold up, to attract and delight audiences.",
+                        0.7373159373170843
+                    ],
+                    [
+                        "2_it's the old chaplin at his best, looking at his best -- young, pathetic and a very funny guy.",
+                        0.7028070510234653
+                    ],
+                    [
+                        "3_it's the coldest of [chaplin's] major features, ",
+                        0.5649656461747234
+                    ],
+                    [
+                        "4_the opening sequence in chaplin's second depression masterpiece, of the tramp on the assembly line, is possibly his greatest slapstick encounter with the 20th century.",
+                        0.7775743527194727
+                    ],
+                    [
+                        "6_do you have to be reminded that chaplin is a master of pantomime?",
+                        0.6902945373447286
+                    ],
+                    [
+                        "7_good physical comedy will always be funny, and chaplin was a master.",
+                        0.7549577025744535
+                    ],
+                    [
+                        "9_ chaplin's ungainliness is something one can grow fond of.",
+                        0.5375373761823373
+                    ]
+                ]
+            },
+            "Lloyd Ingraham": {
+                "args": []
+            },
+            "Mira McKinney": {
+                "args": []
+            },
+            "Frank S. Hagney": {
+                "args": []
+            },
+            "Dr. Cecil Reynolds": {
+                "args": []
+            },
+            "Norman Ainsley": {
+                "args": []
+            },
+            "Frank Moran": {
+                "args": []
+            },
+            "John Rand": {
+                "args": []
+            },
+            "Murdock MacQuarrie": {
+                "args": []
+            },
+            "Paulette Goddard": {
+                "args": []
+            },
+            "Fred Malatesta": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Charles Chaplin": {
+                "args": []
+            }
+        }
+    }
+}

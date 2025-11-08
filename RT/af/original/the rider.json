@@ -1,0 +1,165 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lane Scott": {
+                "args": []
+            },
+            "Cat Clifford": {
+                "args": []
+            },
+            "Lilly Jandreau": {
+                "args": []
+            },
+            "Tim Jandreau": {
+                "args": []
+            },
+            "Brady Jandreau": {
+                "args": [
+                    [
+                        "13_filmmaker chloé zhao turns the story of real-life bronc rider brady jandreau into a gritty, graceful character study.",
+                        0.7205216613085339
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_ \"the rider\" deserves to be seen.",
+                0.5691009346468894
+            ],
+            [
+                "3_ sometimes it's good to see a movie about a cowboy who's a full-fledged human and not a type.",
+                0.6658414445951962
+            ],
+            [
+                "8_zhao turns material that might have been treacly and simple-minded into an allegory of male identity...with the quality of myth.",
+                -0.5664872879624859
+            ],
+            [
+                "10_\"the rider\" reinvigorates tropes from the western genre of men, horses, honor codes and vast expanses of nature with a refreshing lack of sentimentality, without sacrificing their inherent lyricism and poetry.",
+                0.8102308684051558
+            ],
+            [
+                "11_but as wrenching as the rider can be at times,",
+                0.5641428171641724
+            ],
+            [
+                "12_zhao seems to have filmed with her head down, focussed on her screenplay, rather than up, focussed on the richness of what was taking place around her.",
+                -0.6324937250085391
+            ],
+            [
+                "13_once the rider hooks you - and believe me, it will - there's no way you will ever forget it.",
+                0.5523244877324497
+            ],
+            [
+                "15_it's a rare treat to be so affected by-and connected to-a movie hero of so few words, and such vivid ones.",
+                0.678965866571462
+            ],
+            [
+                "18_the rider is the best film i've seen so far in 2018.",
+                0.8469844861258424
+            ],
+            [
+                "19_a vista-worshipping, socially observant, and altogether moving exploration of how difficult it is to be wise even when the alternative is statistically guaranteed death.",
+                0.5690931925089875
+            ],
+            [
+                "22_\"the rider\" comes as close to a spiritual experience as anything i've encountered in a movie theater this year.",
+                0.5267738015570608
+            ],
+            [
+                "23_zhao's film derives its power from the truth that both drives it and inspires it, and the final result is a wholly unique slice-of-life drama.",
+                0.737292257828222
+            ],
+            [
+                "24_it's difficult to describe the immense weight that descends upon you when you realize you're seeing real indian reservation cowboys moving through a lightly fictionalized version of their lives.",
+                0.6747705402269246
+            ],
+            [
+                "25_clearly this isn't her first time at the rodeo.",
+                -0.5680558443882486
+            ],
+            [
+                "28_movies that blend real life and fiction usually foreground the docu-style realism, using the poetry as grace notes or punctuation.",
+                0.7564573546518354
+            ],
+            [
+                "28_zhao privileges both, and in so doing creates a work of heartbreaking beauty.",
+                0.7243141282524558
+            ],
+            [
+                "30_beautifully captures the way a handful of people stoically deal with the meager hands life has dealt them.",
+                0.5761170665946573
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chloé Zhao": {
+                "args": [
+                    [
+                        "5_you can almost feel the wind and smell the dust of the south dakota plains, so deeply is chloé zhao's new film steeped in the reality of its environment.",
+                        0.6926678428132826
+                    ],
+                    [
+                        "13_filmmaker chloé zhao turns the story of real-life bronc rider brady jandreau into a gritty, graceful character study.",
+                        0.7205216613085339
+                    ],
+                    [
+                        "16_what really distinguishes [zhao's] work here is something beyond great filmmaking chops: a vision that is deeply humanistic, founded on a compassionate realism that honors the heartfelt struggles of all the creatures it encounters.",
+                        0.7520214471032293
+                    ],
+                    [
+                        "18_it also feels like the announcement of a major artistic talent in zhao.",
+                        -0.660595566035749
+                    ],
+                    [
+                        "21_[chloe] zhao and \"the rider\" are the real deal.",
+                        0.5844233626631403
+                    ],
+                    [
+                        "25_[chloé] zhao's artful look into the american west is a lightly brooding winner.",
+                        0.738925493066423
+                    ],
+                    [
+                        "26_in telling the story of a disappearing slice of america, zhao has created a portrait of resilience, and the bonds that last even after the rodeo's over.",
+                        0.7659337826108469
+                    ],
+                    [
+                        "29_gains artful integrity from zhao's favored docu-fiction technique - roughly tracing a script around the experiences of her non-professional actors - and dusty-dreamy visual style.",
+                        0.7995607915541758
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "12_zhao seems to have filmed with her head down, focussed on her screenplay, rather than up, focussed on the richness of what was taking place around her.",
+                -0.6324937250085391
+            ],
+            [
+                "13_filmmaker chloé zhao turns the story of real-life bronc rider brady jandreau into a gritty, graceful character study.",
+                0.7205216613085339
+            ],
+            [
+                "29_gains artful integrity from zhao's favored docu-fiction technique - roughly tracing a script around the experiences of her non-professional actors - and dusty-dreamy visual style.",
+                0.7995607915541758
+            ]
+        ],
+        "entities": {
+            "Chloé Zhao": {
+                "args": []
+            }
+        }
+    }
+}

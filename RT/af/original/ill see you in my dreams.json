@@ -1,0 +1,217 @@
+{
+    "acting": {
+        "entities": {
+            "Shoniqua Shandai": {
+                "args": []
+            },
+            "Caroline Lagerfelt": {
+                "args": []
+            },
+            "Reid Scott": {
+                "args": []
+            },
+            "Blythe Danner": {
+                "args": [
+                    [
+                        "1_[danner is] clearly having a ball with this character.",
+                        -0.5193607125184678
+                    ],
+                    [
+                        "6_haley allows danner to be exquisite as carol, never rushing while allowing the actress to explore every nuance of her character.",
+                        0.8447726610688862
+                    ],
+                    [
+                        "9_a nuanced lead performance by blythe danner anchors this better-than-average entry in the growing subgenre of light dramas about baby boomers learning to enjoy retirement.",
+                        0.7345603652678796
+                    ],
+                    [
+                        "10_\"i'll see you in my dreams\" may be the first movie since 1974's \"lovin' molly\" to put danner at its center",
+                        0.7812504065672226
+                    ],
+                    [
+                        "15_blythe danner is reason no. 1.",
+                        -0.6767409161426092
+                    ],
+                    [
+                        "17_the tender magnetism of blythe danner turns an intelligent, sensitive story of love among the not so young into a work of art.",
+                        0.7720723941500852
+                    ],
+                    [
+                        "18_the breezy, tender moments between blythe danner and sam elliott, two great unsung troupers of american acting for 40 years, would make for a blissful short film.",
+                        0.7979837907854012
+                    ],
+                    [
+                        "21_a modest, quietly touching portrait of an older woman radiantly embodied by blythe danner.",
+                        0.7678963517287863
+                    ],
+                    [
+                        "22_ ms. danner makes her loneliness palpable.",
+                        0.594934476632693
+                    ],
+                    [
+                        "23_ is a poignant if slight drama elevated by its impressive candor and by blythe danner's radiant performance.",
+                        0.7514656407244289
+                    ],
+                    [
+                        "24_elliott and danner fare best together, mainly because of their swoon-worthy chemistry",
+                        0.8383145089592472
+                    ],
+                    [
+                        "29_it's hopeful and realistic in equal measure, and it's anchored by a quietly resplendent performance from danner, who brings a featherduster touch to everything she does.",
+                        0.7725313008293954
+                    ],
+                    [
+                        "32_blythe danner gives a deeply felt performance as a widow slowly embracing the challenges of old age in this pleasant romantic dramedy.",
+                        0.7463561942771062
+                    ]
+                ]
+            },
+            "Aarti Mann": {
+                "args": []
+            },
+            "Vic Polizos": {
+                "args": []
+            },
+            "June Squibb": {
+                "args": []
+            },
+            "Malin Akerman": {
+                "args": []
+            },
+            "Harold Cannon-Lopez": {
+                "args": []
+            },
+            "Martin Starr": {
+                "args": []
+            },
+            "Patricia Belcher": {
+                "args": []
+            },
+            "Mark Adair-Rios": {
+                "args": []
+            },
+            "Rhea Perlman": {
+                "args": []
+            },
+            "Kevin Wheatley": {
+                "args": []
+            },
+            "Linda Lee McBride": {
+                "args": []
+            },
+            "Mary Kay Place": {
+                "args": []
+            },
+            "Sam Elliott": {
+                "args": []
+            },
+            "Max Gail": {
+                "args": []
+            },
+            "Jocelyn Ayanna": {
+                "args": []
+            },
+            "Michael Yama": {
+                "args": []
+            },
+            "Arthur Roberts": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_ the results are a minor revelation and a reminder of where the real acting talent in this family lies.",
+                0.7207136702230011
+            ],
+            [
+                "26_there's something for everyone, with the possible exception of cretins who don't appreciate great writing, casting, directing and especially acting.",
+                0.7473839824373961
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Brett Haley": {
+                "args": []
+            },
+            "Marc Basch": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_[danner is] clearly having a ball with this character.",
+                -0.5193607125184678
+            ],
+            [
+                "3_is delicate and nuanced, with writing that rejects, or at least reshapes, the cliches of movies about people facing the glare of their sunset years.",
+                -0.5880086733958219
+            ],
+            [
+                "6_haley allows danner to be exquisite as carol, never rushing while allowing the actress to explore every nuance of her character.",
+                0.8447726610688862
+            ],
+            [
+                "14_, that co-writer, editor and director brett haley settles for so little.",
+                0.5305836795213802
+            ],
+            [
+                "26_there's something for everyone, with the possible exception of cretins who don't appreciate great writing, casting, directing and especially acting.",
+                0.7473839824373961
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_tful film that trades in honesty rather than artifice.",
+                0.5545025232427663
+            ],
+            [
+                "4_the film cleverly uses the conventions more typical of romantic comedies several decades its junior ...",
+                0.7340116191771419
+            ],
+            [
+                "5_danner is probably the main reason to see the movie, and her screen presence is impressive",
+                0.5025654766735286
+            ],
+            [
+                "5_ she's an actor who manages to bring gravitas to any role, and that includes her work in goofy things like ben stiller's meet the parents series.",
+                0.7150396614998584
+            ],
+            [
+                "11_the film has a fresh tone and free-floating original storytelling.",
+                0.7944312854100974
+            ],
+            [
+                "26_the movie is by turns a romance, a chick flick, a coming-of-age film and even a stoner movie.",
+                0.6609481126930556
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Brett Haley": {
+                "args": [
+                    [
+                        "14_, that co-writer, editor and director brett haley settles for so little.",
+                        0.5305836795213802
+                    ],
+                    [
+                        "23_a far cry from the nancy meyers rom-com promised by its trailer, brett haley's directorial de",
+                        0.5531736827269026
+                    ],
+                    [
+                        "27_writer-director brett haley hasn't done anything revolutionary with this refined, sweet film, ",
+                        0.5925605530197733
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

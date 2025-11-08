@@ -1,0 +1,291 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_oddly, what hurts is the clunky, overripe script.",
+                -0.6496343806938588
+            ],
+            [
+                "6_petitclerc's screenplay dramatizes his relationship with hemingway from his own not-very-interesting point-of-view.",
+                0.6663068171330573
+            ],
+            [
+                "12_the story of the great writer and man's man in decline could have been fascinating, ",
+                0.8177558612731317
+            ]
+        ],
+        "entities": {
+            "Denne Bart Petitclerc": {
+                "args": [
+                    [
+                        "17_the script is based on screenwriter denne bart petitclerc's actual experience befriending the author, ",
+                        0.526631277549876
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a film that is beautiful to look at ",
+                0.8486139642681023
+            ],
+            [
+                "2_as the first u.s. film shot in cuba since castro came to power in 1959, papa gives us sights to revel in.",
+                0.6262774414439779
+            ],
+            [
+                "14_it's the sort of film that's destined to be the answer to a trivia question, and not much more.",
+                0.5334631657258707
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jake Elliott": {
+                "args": []
+            },
+            "Eduardo Almirante": {
+                "args": []
+            },
+            "Carlos Francisco Diaz": {
+                "args": []
+            },
+            "Giovanni Ribisi": {
+                "args": []
+            },
+            "Hairo Herrera Martinez": {
+                "args": []
+            },
+            "Karen Beyer": {
+                "args": []
+            },
+            "Shaun Toub": {
+                "args": []
+            },
+            "Minka Kelly": {
+                "args": []
+            },
+            "Ramón Arístides": {
+                "args": []
+            },
+            "Roque Moreno": {
+                "args": []
+            },
+            "Innis Casey": {
+                "args": []
+            },
+            "Mariel Hemingway": {
+                "args": [
+                    [
+                        "1_in the end, it's a museum piece: even the drunken screaming matches between hemingway and his wife feel staged.",
+                        0.5406112913372154
+                    ],
+                    [
+                        "6_petitclerc's screenplay dramatizes his relationship with hemingway from his own not-very-interesting point-of-view.",
+                        0.6663068171330573
+                    ],
+                    [
+                        "9_for those with an interest in ernest hemingway, papa hemingway in cuba is a remarkable treat.",
+                        0.8886973743513218
+                    ],
+                    [
+                        "11_the director should have listened to the advice hemingway himself gives the kid: \"it's the power of less.\"",
+                        -0.5977675582432672
+                    ],
+                    [
+                        "16_ plodding biopic lacks a sense of sweep and truth, trading tropical landscapes for narrative depth in a way that diminishes the power of the hemingway mystique.",
+                        0.6635358220900671
+                    ]
+                ]
+            },
+            "Ranulfo Quiala": {
+                "args": []
+            },
+            "Robert Bjorklund": {
+                "args": []
+            },
+            "Phil Melancon": {
+                "args": []
+            },
+            "Roberto Vina": {
+                "args": []
+            },
+            "Guillermo Figueroa": {
+                "args": []
+            },
+            "Ayamey DeLaCaridad Fellove": {
+                "args": []
+            },
+            "Roger Zamudio": {
+                "args": []
+            },
+            "Guillermo Perez": {
+                "args": []
+            },
+            "Kelly Beatriz": {
+                "args": []
+            },
+            "Orian Suarez": {
+                "args": []
+            },
+            "Bill Immerman": {
+                "args": []
+            },
+            "Joe Newberry": {
+                "args": []
+            },
+            "Osvaldo Rivero": {
+                "args": []
+            },
+            "Chad Roberts": {
+                "args": []
+            },
+            "Lorena Toub": {
+                "args": []
+            },
+            "Adrian Sparks": {
+                "args": [
+                    [
+                        "5_ she and mr. sparks play past each other instead of engaging.",
+                        0.5324239605853236
+                    ]
+                ]
+            },
+            "Anthony Molinari": {
+                "args": []
+            },
+            "Andrew Neal": {
+                "args": []
+            },
+            "Jesus Hernandez Maria Chucho": {
+                "args": []
+            },
+            "Frank Licari": {
+                "args": []
+            },
+            "Shelly Neal": {
+                "args": []
+            },
+            "Bobby Williams": {
+                "args": []
+            },
+            "David DiGregorio": {
+                "args": []
+            },
+            "Henri Collazo": {
+                "args": []
+            },
+            "Marcial Reyes": {
+                "args": []
+            },
+            "Faith Busby": {
+                "args": []
+            },
+            "Juan Felix Rondon": {
+                "args": []
+            },
+            "Joely Richardson": {
+                "args": [
+                    [
+                        "5_ms. richardson comforts and coaxes and exasperatedly, bitingly demeans, ",
+                        0.5695514398794882
+                    ]
+                ]
+            },
+            "Alexis Diaz de Villegas": {
+                "args": []
+            },
+            "Alejandro Halley": {
+                "args": []
+            },
+            "Enrique Nunez": {
+                "args": []
+            },
+            "Clemente Echavarria": {
+                "args": []
+            },
+            "Ernesto delCanal": {
+                "args": []
+            },
+            "Rodrigo Obregon": {
+                "args": []
+            },
+            "Eduardo Granadillo": {
+                "args": []
+            },
+            "Jeff Jonas": {
+                "args": []
+            },
+            "Hunter Goodgion": {
+                "args": []
+            },
+            "Ernesto Vidal": {
+                "args": []
+            },
+            "Joseph Bertot": {
+                "args": []
+            },
+            "Kim Evans": {
+                "args": []
+            },
+            "Jorge Luis Lopez": {
+                "args": []
+            },
+            "Raul Bravo": {
+                "args": []
+            },
+            "James Remar": {
+                "args": []
+            },
+            "Gregg Hirsch": {
+                "args": []
+            },
+            "Lorenzo Castillo": {
+                "args": []
+            },
+            "Alexis Ramirez Mena": {
+                "args": []
+            },
+            "Nico Ciccone-Scott": {
+                "args": []
+            },
+            "Angel Luis Fernandez": {
+                "args": []
+            },
+            "Jose Leopoldo Alvarez": {
+                "args": []
+            },
+            "Carlos E. Almirante": {
+                "args": []
+            },
+            "Julio Luis Sersa": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "11_the director should have listened to the advice hemingway himself gives the kid: \"it's the power of less.\"",
+                -0.5977675582432672
+            ]
+        ],
+        "entities": {
+            "Bob Yari": {
+                "args": [
+                    [
+                        "12_ director bob yari's film is not.",
+                        0.5216583314812351
+                    ]
+                ]
+            }
+        }
+    }
+}

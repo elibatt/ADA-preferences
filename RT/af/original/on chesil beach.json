@@ -1,0 +1,175 @@
+{
+    "acting": {
+        "entities": {
+            "Billy Howle": {
+                "args": []
+            },
+            "Adrian Scarborough": {
+                "args": []
+            },
+            "Jonjo O'Neill": {
+                "args": []
+            },
+            "Emily Watson": {
+                "args": []
+            },
+            "Saoirse Ronan": {
+                "args": [
+                    [
+                        "18_together, howle and ronan...make a bumpy contour map of the way society's mores, plus basic personal fears, can really do a number on a human's expectations of romantic partnership.",
+                        0.6938435633851712
+                    ],
+                    [
+                        "21_even saoirse ronan, in all her shining glory, can't save this stuffy adaptation of ian mcewan's novel of carnally cursed newlyweds.",
+                        -0.7730920130170533
+                    ],
+                    [
+                        "22_the great saoirse ronan, whose delicate voice here contains a universe of pain, turns in another heartbreaker of a performance in dominic cooke's quiet british drama, set in 1962 and based on ian mcewan's novel.",
+                        0.6997098630471054
+                    ]
+                ]
+            },
+            "Anne-Marie Duff": {
+                "args": []
+            },
+            "Philip Labey": {
+                "args": []
+            },
+            "Bebe Cave": {
+                "args": []
+            },
+            "Samuel West": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_there's splendid acting across the board and assured direction by cooke, a stage veteran making his feature de",
+                0.8102876248498533
+            ],
+            [
+                "17_a completely heartbreaking story brought to exquisite life via immaculate writing, directing and acting...",
+                0.643003746310918
+            ],
+            [
+                "26_yet the film's most impressive performance might come from director dominic cooke, who has delivered an assured, wistful de",
+                0.8461586880675429
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Ian McEwan": {
+                "args": [
+                    [
+                        "20_ that's ian mcewan's fault.",
+                        -0.5348191178029614
+                    ],
+                    [
+                        "21_even saoirse ronan, in all her shining glory, can't save this stuffy adaptation of ian mcewan's novel of carnally cursed newlyweds.",
+                        -0.7730920130170533
+                    ],
+                    [
+                        "22_the great saoirse ronan, whose delicate voice here contains a universe of pain, turns in another heartbreaker of a performance in dominic cooke's quiet british drama, set in 1962 and based on ian mcewan's novel.",
+                        0.6997098630471054
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_a completely heartbreaking story brought to exquisite life via immaculate writing, directing and acting...",
+                0.643003746310918
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"on chesil beach\" is pbs-tasteful in its approach, ",
+                -0.6204151393666519
+            ],
+            [
+                "2_\"on chesil beach\" clumsily deals with the issues it addresses.",
+                0.518897641135113
+            ],
+            [
+                "10_i half expect that \"on chesil beach\" may, in fact, be the driest, subtlest british comedy ever made, and that, if you were to see this in london, the audience would be falling into the aisles laughing.",
+                0.565645119014864
+            ],
+            [
+                "11_you watch the movie like you read a book, which leads to eventual tedium.",
+                -0.5177248906441703
+            ],
+            [
+                "11_you can't put a bookmark in a movie, come back later, and pick up where you left off.",
+                -0.7130292739713616
+            ],
+            [
+                "14_ the film fully comes into its own on the beach.",
+                0.6743001052971136
+            ],
+            [
+                "15_the movie is fairly faithful to the book (except for a couple of awful invented scenes at the end), and yet so much is lost in the transfer.",
+                -0.7994538926391309
+            ],
+            [
+                "16_the kind of movie whose quiet power you can't help ",
+                0.561233678599861
+            ],
+            [
+                "19_it's not a bad movie by any stretch, ",
+                -0.9027923272354491
+            ],
+            [
+                "21_ not in this shallow film.",
+                -0.7301886521666194
+            ],
+            [
+                "24_on chesil beach is a minor story by design, one that uses a lovers' quarrel to interrogate evolving social values, ",
+                0.7592978023389576
+            ],
+            [
+                "28_away from the beach and away from the raw honesty it forces out of its stars, on chesil beach heads towards shallow, cold waters.",
+                -0.5975747610015858
+            ],
+            [
+                "29_it's a lyrical and rapturous film - a repressed passion play, funny, delicate and heartbreaking.",
+                0.7757829235405154
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dominic Cooke": {
+                "args": [
+                    [
+                        "4_there's splendid acting across the board and assured direction by cooke, a stage veteran making his feature de",
+                        0.8102876248498533
+                    ],
+                    [
+                        "12_while dominic cooke's film succeeds at much of what it attempts, i can't shake the feeling that there's a dimension missing.",
+                        -0.6751044993270269
+                    ],
+                    [
+                        "20_with such confident performers and such a strong interest in their characters' personalities, dominic cooke has made surprisingly good work of on chesil beach.",
+                        0.8405891191713806
+                    ],
+                    [
+                        "22_the great saoirse ronan, whose delicate voice here contains a universe of pain, turns in another heartbreaker of a performance in dominic cooke's quiet british drama, set in 1962 and based on ian mcewan's novel.",
+                        0.6997098630471054
+                    ],
+                    [
+                        "26_yet the film's most impressive performance might come from director dominic cooke, who has delivered an assured, wistful de",
+                        0.8461586880675429
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

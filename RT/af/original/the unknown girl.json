@@ -1,0 +1,122 @@
+{
+    "acting": {
+        "args": [
+            [
+                "2_haenel's deadpan performance makes this a tough sell, leaving only the common mechanisms of a suspense plot to move the drama forward.",
+                0.5369472864079632
+            ]
+        ],
+        "entities": {
+            "Yves Larec": {
+                "args": []
+            },
+            "Jérémie Renier": {
+                "args": []
+            },
+            "Christelle Cornil": {
+                "args": []
+            },
+            "Adèle Haenel": {
+                "args": [
+                    [
+                        "5_ a strong performance from adele haenel at its center.",
+                        0.6615277685198422
+                    ],
+                    [
+                        "9_as we watch haenel ... stride through these overdetermined scenes, clutching a medical bag to her side, we are reminded that even the most timeworn of conventions can be made electric and alive.",
+                        0.5989159247125201
+                    ]
+                ]
+            },
+            "Louka Minnella": {
+                "args": []
+            },
+            "Olivier Gourmet": {
+                "args": []
+            },
+            "Olivier Bonnaud": {
+                "args": []
+            },
+            "Nadège Ouedraogo": {
+                "args": []
+            },
+            "Ben Hamidou": {
+                "args": []
+            },
+            "Pierre Sumkay": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"the unknown girl\" is an imperfect ",
+                0.5485381789297235
+            ],
+            [
+                "3_ absorbing addition to the canon, a carefully plotted thriller of conscience in which jenny spends most of the movie patiently and persistently atoning for her mistake.",
+                0.6797918044143527
+            ],
+            [
+                "4_every dardennes movie is worth seeing, and the unknown girl has all kinds of gripping undercurrents.",
+                0.7340051072104342
+            ],
+            [
+                "5_an odd fusion of an earnest socially conscious drama and a b-movie mystery programmer that never quite comes together ",
+                0.5704475362625696
+            ],
+            [
+                "8_in the unknown girl, the brothers' durably direct technique shines, even when their storytelling doesn't.",
+                0.5327966359960652
+            ],
+            [
+                "10_one of the strangest aspects of [the dardennes'] work is their combination of sweeping plot twists and endings that leave the door open to both hopeful and hopeless futures.",
+                0.5910077261654108
+            ],
+            [
+                "11_you think afresh of the film's title and wonder,",
+                -0.5377349343598985
+            ],
+            [
+                "14_not an outstanding entry in the dardennes' body of work, ",
+                0.6748310495342149
+            ],
+            [
+                "15_it's a film that skilfully makes us feel precisely what we expect to feel from moment to moment, up to and including the long-forestalled waterworks.",
+                0.6728208879640474
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean-Pierre Dardenne": {
+                "args": [
+                    [
+                        "0_the last thing one expected was for the belgian dardenne brothers to dote on a murder mystery, particularly one involving a medico turned amateur sleuth that's fraught with coincidence like so much of what's already out there.",
+                        -0.5780730472498757
+                    ]
+                ]
+            },
+            "Luc Dardenne": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jean-Pierre Dardenne": {
+                "args": []
+            },
+            "Luc Dardenne": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "writer": {
+        "entities": {
+            "Hideo Oguni": {
+                "args": []
+            },
+            "Akira Kurosawa": {
+                "args": []
+            },
+            "Shinobu Hashimoto": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jiro Kumagai": {
+                "args": []
+            },
+            "Kichijiro Ueda": {
+                "args": []
+            },
+            "Haruko Toyama": {
+                "args": []
+            },
+            "Sojin Jr.": {
+                "args": []
+            },
+            "Ko Kimura": {
+                "args": []
+            },
+            "Yoshio Kosugi": {
+                "args": []
+            },
+            "K.O.": {
+                "args": []
+            },
+            "Seiji Miyaguchi": {
+                "args": []
+            },
+            "Takashi Shimura": {
+                "args": []
+            },
+            "Noriko Sengoku": {
+                "args": []
+            },
+            "Isao Yamagata": {
+                "args": []
+            },
+            "Toshiro Mifune": {
+                "args": []
+            },
+            "Keiko Tsushima": {
+                "args": []
+            },
+            "Gen Shimizu": {
+                "args": []
+            },
+            "Daisuke Katô": {
+                "args": []
+            },
+            "Haruo Nakajima": {
+                "args": []
+            },
+            "Kamatari Fujiwara": {
+                "args": []
+            },
+            "Kuninori Kodo": {
+                "args": []
+            },
+            "Akira Tani": {
+                "args": []
+            },
+            "Yoshio Inaba": {
+                "args": []
+            },
+            "Bokuzen Hidari": {
+                "args": []
+            },
+            "Toranosuke Ogawa": {
+                "args": []
+            },
+            "Fumiko Homma": {
+                "args": []
+            },
+            "Senkichi Omura": {
+                "args": []
+            },
+            "Ichiro Chiba": {
+                "args": []
+            },
+            "Keiji Sakakida": {
+                "args": []
+            },
+            "Atsushi Watanabe": {
+                "args": []
+            },
+            "Minoru Chiaki": {
+                "args": []
+            },
+            "Eijirô Tono": {
+                "args": []
+            },
+            "Yoshio Tsuchiya": {
+                "args": []
+            },
+            "Yukiko Shimazaki": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the greatest movie ever made about warriors and battle.",
+                0.6817571580588063
+            ],
+            [
+                "2_kurosawa's film is a model of long-form construction, ably fitting its asides and anecdotes into a powerful suspense structure that endures for all of the film's 208 minutes.",
+                0.8173187913373487
+            ],
+            [
+                "5_seven samurai is an unforgettable masterpiece -- the work of one of the world's greatest filmmakers at the height of his powers.",
+                0.9276841253683834
+            ],
+            [
+                "8_the greatest action movie ever made.",
+                0.5856081330242952
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Akira Kurosawa": {
+                "args": [
+                    [
+                        "1_again and again, kurosawa sends a dark thrill through his audience with a touch of sensuous physical reality.",
+                        0.5435716584163925
+                    ],
+                    [
+                        "6_[kurosawa] has loaded his film with unusual and exciting physical incidents and made the whole thing graphic in a hard, realistic western style.",
+                        0.6736097890467792
+                    ],
+                    [
+                        "11_akira kurosawa's the seven samurai (1954) is not only a great film in its own right, ",
+                        0.7019059034309973
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

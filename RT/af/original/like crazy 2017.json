@@ -1,0 +1,137 @@
+{
+    "writer": {
+        "entities": {
+            "Francesca Archibugi": {
+                "args": []
+            },
+            "Paolo Virzì": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Lucio Tirinnanzi": {
+                "args": []
+            },
+            "Michele Crestacci": {
+                "args": []
+            },
+            "Vladimiro Cecconi": {
+                "args": []
+            },
+            "Claudio Marmugi": {
+                "args": []
+            },
+            "Francesca Flora": {
+                "args": []
+            },
+            "Alice Terranova": {
+                "args": []
+            },
+            "Micaela Ramazzotti": {
+                "args": []
+            },
+            "Giada Parlanti": {
+                "args": []
+            },
+            "Carlotta Brentan": {
+                "args": []
+            },
+            "Anna Galiena": {
+                "args": []
+            },
+            "Paolo Vivaldi": {
+                "args": []
+            },
+            "Francesco Lagi": {
+                "args": []
+            },
+            "Beatrice Schiros": {
+                "args": []
+            },
+            "Enrico Nigiotti": {
+                "args": []
+            },
+            "Bob Messini": {
+                "args": []
+            },
+            "Fabrizio Brandi": {
+                "args": []
+            },
+            "Tommaso Ragno": {
+                "args": []
+            },
+            "Giorgio Algranti": {
+                "args": []
+            },
+            "Chiari Arrighi": {
+                "args": []
+            },
+            "Marco Conte": {
+                "args": []
+            },
+            "Mimma Pirrè": {
+                "args": []
+            },
+            "Emanuele Barresi": {
+                "args": []
+            },
+            "Maria Grazia Bon": {
+                "args": []
+            },
+            "Marysa Borini": {
+                "args": []
+            },
+            "Luisanna Messeri": {
+                "args": []
+            },
+            "Emanuele Galleri": {
+                "args": []
+            },
+            "Valentina Carnelutti": {
+                "args": []
+            },
+            "Isabella Dei": {
+                "args": []
+            },
+            "Sergio Albelli": {
+                "args": []
+            },
+            "Valeria Bruni Tedeschi": {
+                "args": [
+                    [
+                        "1_sexy and grand, tedeschi shines in the cuckoo's nest comedy of the early scenes, ",
+                        0.6162029669047477
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the movie's anarchic spirit is sapped by the steadily mounting melodrama.",
+                0.553817816807413
+            ],
+            [
+                "5_virzì's film ultimately adds up to little more than the tale of two mentally unstable people finally coming to accept their insanity - an awfully thin arc on which to build an overextended road-trip movie.",
+                0.5322408076132161
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Paolo Virzì": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "acting": {
+        "entities": {
+            "Varun Dhawan": {
+                "args": []
+            },
+            "Adam St": {
+                "args": []
+            },
+            "Jacqueline Fernandez": {
+                "args": []
+            },
+            "Akshay Kumar": {
+                "args": []
+            },
+            "Mir Sarwar": {
+                "args": []
+            },
+            "Akshaye Khanna": {
+                "args": []
+            },
+            "Erand Hoxha": {
+                "args": []
+            },
+            "Saqib Saleem": {
+                "args": []
+            },
+            "Nargis Fakhri": {
+                "args": []
+            },
+            "John Abraham": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rohit Dhawan": {
+                "args": []
+            },
+            "Tushar Hiranandani": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

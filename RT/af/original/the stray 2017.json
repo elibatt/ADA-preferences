@@ -1,0 +1,48 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Mitch Davis": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Cassidy": {
+                "args": []
+            },
+            "Scott Christopher": {
+                "args": []
+            },
+            "Sarah Lancaster": {
+                "args": []
+            },
+            "Eliza de Azevedo Brown": {
+                "args": []
+            },
+            "Connor Corum": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Mitch Davis": {
+                "args": []
+            },
+            "Parker Davis": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

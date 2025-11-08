@@ -1,0 +1,127 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_hardcore henry is nauseating, twice over.",
+                0.543524205337734
+            ],
+            [
+                "3_if action movies are meant to be stunning, hardcore henry can proudly take its place among the giants.",
+                0.5146223255574418
+            ],
+            [
+                "4_a great movie fools you into thinking it's really happening.",
+                0.5832131578205955
+            ],
+            [
+                "4_by trying to make us a part of the film itself, hardcore henry just keeps reminding us it's not.",
+                -0.5105794053645081
+            ],
+            [
+                "5_hardcore henry doesn't just get under your skin, it gets behind your eyeballs and uses your head as its own cockpit.",
+                -0.5772569771015119
+            ],
+            [
+                "5_for hardcore thrills, henry is your guy.",
+                0.628721260374264
+            ],
+            [
+                "8_the relentless action flick hardcore henry is totally nuts and a lot of fun for freaks.",
+                0.7735690252525468
+            ],
+            [
+                "11_i'm sure a lot of people will call hardcore henry \"innovative\" and \"groundbreaking.\"",
+                0.6768142434707398
+            ],
+            [
+                "11_ it also feels more like a cool gimmick than a movie-and that gimmick gets old pretty fast.",
+                0.507419716250062
+            ],
+            [
+                "16_for the first time ever, a movie has actually done it. \"",
+                0.5081029992512652
+            ],
+            [
+                "16_hardcore henry\" has precisely replicated the experience of watching someone else play a video game.",
+                -0.6650135620993931
+            ],
+            [
+                "19_its dour eccentricity gives hardcore henry a potency above and beyond that of standard-issue show-off action fare.",
+                0.5643208169482133
+            ],
+            [
+                "22_the story exists mainly to provide reason and shape for the frenzy of carnage: constant, numbing, and in the film's view at least, occasionally funny.",
+                -0.5187418129762958
+            ],
+            [
+                "23_while its audacity is laudable, the film ultimately has all the thrill of watching someone else play a first-person-shooter video game.",
+                -0.7914684529001885
+            ],
+            [
+                "24_\"hardcore henry\" is like a good roller-coaster in that it does not require a complex reason to be: it's there, it's fun, you ride it, and that's about it.",
+                0.7009763874101657
+            ],
+            [
+                "25_hardcore henry never aspires to rise above its one gimmick.",
+                0.520216006857315
+            ],
+            [
+                "26_you could go see \"hardcore henry\" -",
+                0.5816463209458141
+            ],
+            [
+                "27_billed as the first-ever action movie filmed entirely from the hero's first-person viewpoint, hardcore blasts along like a supercharged computer-game shoot-em-up, bursting with sick humor and splatterpunk violence.",
+                -0.5489644429360628
+            ],
+            [
+                "28_only the tiniest, most basic elements of character, backstory and even narrative are offered on the run in a movie whose 95% frantic-action composition has no need or breathing space for more.",
+                0.5248556972797963
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ilya Naishuller": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ilya Naishuller": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "28_only the tiniest, most basic elements of character, backstory and even narrative are offered on the run in a movie whose 95% frantic-action composition has no need or breathing space for more.",
+                0.5248556972797963
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Andrei Dementiev": {
+                "args": []
+            },
+            "Dasha Charusha": {
+                "args": []
+            },
+            "Danila Kozlovsky": {
+                "args": []
+            },
+            "Sharlto Copley": {
+                "args": []
+            },
+            "Haley Bennett": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

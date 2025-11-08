@@ -1,0 +1,172 @@
+{
+    "acting": {
+        "entities": {
+            "Josep Naufahu": {
+                "args": []
+            },
+            "Christopher Obi": {
+                "args": []
+            },
+            "Michael Pitt": {
+                "args": []
+            },
+            "Philippe Joly": {
+                "args": []
+            },
+            "Pilou Asbæk": {
+                "args": []
+            },
+            "Takeshi Kitano": {
+                "args": [
+                    [
+                        "19_when stone-faced japanese actor \"beat\" takeshi kitano is the most human element in your movie, something's wildly wrong.",
+                        0.5743893450911081
+                    ]
+                ]
+            },
+            "Scarlett Johansson": {
+                "args": [
+                    [
+                        "21_it's somehow only fitting that with scarlett johansson in the lead role, \"ghost in the shell\" leaves you with the feeling that something has been lost in translation.",
+                        -0.5103913340766811
+                    ],
+                    [
+                        "40_led by a resolute scarlett johansson, rupert sanders' pulse-quickening, formally stunning live-action take on the manga classic both honors and streamlines its source.",
+                        0.7846158373520334
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "15_johansson's kubrickian performance and the technical precision of the camera make its artifice seem almost haunting.",
+                0.7028157855635468
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Jamie Moss": {
+                "args": []
+            },
+            "Jonathan Herman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_the deep-dive mythologies and intriguing moral quandaries raised by the script aren't so much explored as exploded in a flurry of high-gloss action sequences and vaguely deep koan-of-the-day dialogue.",
+                0.5232856938048831
+            ],
+            [
+                "30_attempting to be complex and morally serious while presenting shallow characters in a familiar artificial universe, \"ghost in the shell\" is as mopey as its haunted central character.",
+                -0.5620760136832977
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_this ghost in the shell is going to invite confused feelings.",
+                -0.6081338289709899
+            ],
+            [
+                "5_ghost in the shell is visually compelling ",
+                0.6825468856057791
+            ],
+            [
+                "8_what's missing, besides narrative drive, is the existential angst at the anime's heart: the titular ghost in the shell is the soul, the humanity, resident in the surviving human brain planted in an electric barbie doll.",
+                0.6584401269255383
+            ],
+            [
+                "11_at times, ghost in the shell is beautiful, even stunning.",
+                0.8065803053783718
+            ],
+            [
+                "14_the genius of ghost in the shell is that you don't have to care about cyborg-anything to enjoy it.",
+                0.5870875302255514
+            ],
+            [
+                "16_just about every scene in ghost in the shell is a visual wonder to behold -- and you'll have ample to time to soak in all that background eye candy, because the plot machinations and the action in the foreground are largely of the ho-hum retread variety.",
+                0.5213199010655291
+            ],
+            [
+                "17_[a] visually cluttered yet often disappointingly drab movie.",
+                0.5603028007253182
+            ],
+            [
+                "18_ big on shell -- ghost in the shell is eminently forgettable ",
+                -0.5133596588723216
+            ],
+            [
+                "20_if these questions interest you, do yourself a favor and watch the 1995 original movie.",
+                0.6202095002695426
+            ],
+            [
+                "24_casting saves the movie, notwithstanding the thorny issue of cultural appropriation.",
+                0.5364160721523514
+            ],
+            [
+                "26_\"ghost in the shell\" sidesteps questions of humanity and the effect of technology on the human spirit and opts instead for boilerplate sci-fi spectacle, eschewing existentialism for predictable plot and the glittery trappings of its 21st-century carapace.",
+                0.5556492893223629
+            ],
+            [
+                "28_tful movie that's interesting now and will probably still be interesting in 100 years, whichever way things go.",
+                0.5916061321753472
+            ],
+            [
+                "29_\"ghost in the shell\" owes a great deal to previous incarnations of the material, including the 1995 animated feature.",
+                0.8355394174811653
+            ],
+            [
+                "29_ which is an odd thing to say about a movie about robots and humans with robotic upgrades.",
+                0.5100411877157135
+            ],
+            [
+                "30_attempting to be complex and morally serious while presenting shallow characters in a familiar artificial universe, \"ghost in the shell\" is as mopey as its haunted central character.",
+                -0.5620760136832977
+            ],
+            [
+                "31_despite the beautiful eye-popping world it creates, the sci-fi film ghost in the shell is a defective mess with lifeless characters,",
+                0.6490011956607238
+            ],
+            [
+                "34_often visually stunning and with intriguing questions about where humanity ends and robotics begins at its heart, it nevertheless devolves into a generic action movie.",
+                0.5824391391724231
+            ],
+            [
+                "35_it's a very pretty movie that pulls you into this futuristic world.",
+                0.8221248326333735
+            ],
+            [
+                "39_a heavily computer-generated enterprise with more body than brains, more visuals than ideas, as if the original movie's hard drive had been wiped clean of all that was dark, poetic and mystifying.",
+                -0.6804666399307044
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rupert Sanders": {
+                "args": [
+                    [
+                        "1_sadly, as the plot proceeds, sanders begins to duck ... bothersome concepts.",
+                        0.5348936763115074
+                    ],
+                    [
+                        "25_ the considerable cyberpunk splendor of sanders' eye-popping visual feast.",
+                        0.7230403176641529
+                    ],
+                    [
+                        "40_led by a resolute scarlett johansson, rupert sanders' pulse-quickening, formally stunning live-action take on the manga classic both honors and streamlines its source.",
+                        0.7846158373520334
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

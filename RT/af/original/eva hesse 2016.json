@@ -1,0 +1,115 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dan Graham": {
+                "args": []
+            },
+            "Rosie Goldman": {
+                "args": []
+            },
+            "Lucy Lippard": {
+                "args": []
+            },
+            "Richard Serra": {
+                "args": []
+            },
+            "Carl Andre": {
+                "args": []
+            },
+            "Gioia Timpanelli": {
+                "args": []
+            },
+            "Tom Doyle": {
+                "args": []
+            },
+            "Ethelyn Honig": {
+                "args": []
+            },
+            "Patrick Kennedy": {
+                "args": []
+            },
+            "Mike Todd": {
+                "args": []
+            },
+            "Robert Mangold": {
+                "args": []
+            },
+            "Sylvia Plimack Mangold": {
+                "args": []
+            },
+            "Barbara Brown": {
+                "args": []
+            },
+            "Bob Balaban": {
+                "args": []
+            },
+            "Sol Lewitt": {
+                "args": []
+            },
+            "Selma Blair": {
+                "args": []
+            },
+            "Grace Wapner": {
+                "args": []
+            },
+            "Helen Hesse Charash": {
+                "args": [
+                    [
+                        "1_\"eva hesse\" is a remarkable film about an even more remarkable artist, a woman who playfully and resolutely turned the world of sculpture inside out.",
+                        0.855200770413685
+                    ],
+                    [
+                        "4_a vibrant, affecting piece of filmmaking that's sure to widen hesse's following.",
+                        0.8210928126027164
+                    ],
+                    [
+                        "6_the film really comes into its own, reverberantly depicting how hesse went from the side room and the supportive role to being the one who was in the spotlight, ",
+                        0.5645564448438065
+                    ],
+                    [
+                        "8_marcie begleiter's intimate documentary....serves as a valuable primer about [hesse's] life and artistic legacy.",
+                        0.7658385498164341
+                    ],
+                    [
+                        "10_eva hesse relies too heavily on ventriloquism to recapitulate the high and low points of the artist ...",
+                        0.5193588464971732
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Marcie Begleiter": {
+                "args": [
+                    [
+                        "3_marcie begleiter directed this warm documentary about the short, extraordinary life of the title artist, who died at age 34 of a brain tumor.",
+                        0.7164345832269335
+                    ],
+                    [
+                        "8_marcie begleiter's intimate documentary....serves as a valuable primer about [hesse's] life and artistic legacy.",
+                        0.7658385498164341
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "5_hesse's work has taken its place as a seminal part of 20th-century art, and this indispensable film will be shining a light on it, and her, for a long time to come.",
+                0.8193349693318066
+            ]
+        ]
+    }
+}

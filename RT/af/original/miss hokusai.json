@@ -1,0 +1,102 @@
+{
+    "writer": {
+        "entities": {
+            "Miho Maruo": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_they cohere into a portrait of a young woman as complex as any big screen character can be.",
+                0.5839218264710269
+            ],
+            [
+                "7_it feels much longer than its 90 minutes, and i left it feeling like i didn't really learn much about its title character or her father.",
+                -0.8175262248761381
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Keiichi Hara": {
+                "args": [
+                    [
+                        "1_the animation is superb, with fine attention to period detail, and director keiichi hara's use of modern music - some of it rock-infused - is apt accompaniment to a story of a young woman who lives life boldly by refusing to bend to cultural norms.",
+                        0.8675442194700248
+                    ],
+                    [
+                        "6_director keiichi hara achieves a balance between earthiness and aestheticism, suggesting a japan on the cusp of modernity.",
+                        0.633803231286833
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_ it's lovely to look at, the movie is disjointed and is told through a seemingly random collection of vignettes,",
+                0.5225268733290094
+            ],
+            [
+                "4_miss hokusai\" casts is a powerful one that lingers long after the lights go up in the theater.",
+                0.6380487895323129
+            ],
+            [
+                "5_there are meditations on mortality, art, relationships, love, fear, sexuality and spirituality in this sumptuous-looking film.",
+                0.7923586174160553
+            ],
+            [
+                "9_miss hokusai demonstrates that simply, with its extraordinary simulation of sunlight streaming through o'ei's spread fingers.",
+                0.6324783757445731
+            ],
+            [
+                "11_miss hokusai is a lovely biopic, even if it never quite picks up and focuses on a single thread.",
+                0.5423509365389307
+            ],
+            [
+                "12_the \"roaming hands\" dream is one of miss hokusai's most memorable set pieces, ",
+                0.8017781281247985
+            ],
+            [
+                "13_that an anime film can explore such complex subjects so beautifully in what's nominally an artist's biopic is a blessing in itself.",
+                0.7676463268349588
+            ],
+            [
+                "14_the annals of western art are woefully sparse when it comes to female painters, which is just one of perhaps a dozen reasons that miss hokusai comes as such a refreshing anomaly among anime exports.",
+                0.6636845975095376
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Shion Shimizu": {
+                "args": []
+            },
+            "Anne Watanabe": {
+                "args": []
+            },
+            "Yutaka Matsushige": {
+                "args": []
+            },
+            "Gaku Hamada": {
+                "args": []
+            },
+            "Michitaka Tsutsui": {
+                "args": []
+            },
+            "Kengo Kora": {
+                "args": []
+            },
+            "Kumiko Aso": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

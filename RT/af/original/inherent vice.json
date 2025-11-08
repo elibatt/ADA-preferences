@@ -1,0 +1,364 @@
+{
+    "writer": {
+        "entities": {
+            "Paul Thomas Anderson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_despite the film's frustrations, it must be acknowledged that anderson -- a master of the multi-strand, multi-character, multi-meaning plot -- is the perfect director to adapt pynchon,",
+                0.8993737108208355
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Paul Thomas Anderson": {
+                "args": [
+                    [
+                        "11_paul thomas anderson's hippie noir seems completely stoned: inarticulate, confused and prone to giggling at unknown jokes.",
+                        -0.553905821409512
+                    ],
+                    [
+                        "14_despite the film's frustrations, it must be acknowledged that anderson -- a master of the multi-strand, multi-character, multi-meaning plot -- is the perfect director to adapt pynchon,",
+                        0.8993737108208355
+                    ],
+                    [
+                        "15_more than just an adaptation of thomas pynchon's 2009 novel, the film engages with the author's literature on the whole, attempting a filmic analogue to his virtuosic prose.",
+                        0.5043187005880715
+                    ],
+                    [
+                        "21_, and it becomes clear that this is paul thomas anderson's idea of a comedy.",
+                        -0.6146440269223961
+                    ],
+                    [
+                        "23_[p.t. anderson] is a terrific stylist ... and the scattershot pleasures he's peddling in 'inherent vice'",
+                        0.6350610729906981
+                    ],
+                    [
+                        "24_[paul thomas anderson's new movie] is a kind of companion piece to altman's the long goodbye, and it's the sort of failure that only a director of his talents could make.",
+                        0.7001680160959526
+                    ],
+                    [
+                        "26_i love anderson's ambition, ",
+                        0.5863869910026995
+                    ],
+                    [
+                        "29_inherent vice, brilliantly scored by jonny greenwood, is an anderson head trip, impure jazz with a reverb that can leave you dazed, confused and even annoyed.",
+                        0.6542809039454756
+                    ],
+                    [
+                        "30_since most of paul thomas anderson's inherent vice was meant to be impenetrable, the best approach, as you watch it drift by, is to savor the dreamy images and druggy jokes and forget about penetrating the plot.",
+                        0.7292641169226847
+                    ],
+                    [
+                        "32_mr. anderson has condensed the book with surgical precision, ditching certain subplots, characters and locales while retaining the novel's sociopolitical tug, barbed asides and chokingly funny details.",
+                        0.7235767406122915
+                    ],
+                    [
+                        "33_the fact that perhaps 90 percent of the dialogue comes from pynchon poses an authorship question that doesn't exist with anderson's other movies.",
+                        -0.6448033903000072
+                    ],
+                    [
+                        "36_\"inherent vice,\" meandering even by anderson's standards, is easily the worst of his movies, a soporific 2 /₂- hour endurance test.",
+                        -0.9509977130481508
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "42_as with magnolia and punch-drunk love, the director has created another vivid los angeles, one that doesn't lean too hard on its pop-culture references to tv's adam-12 or neil young's gentle harvest album.",
+                0.6046337413644887
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_in the case of inherent vice, he'll make you feel so high that you have no choice ",
+                -0.544454669286771
+            ],
+            [
+                "2_anderson moves further from conventional storytelling with each new film, and closer to something more intuitive, more damning, more true.",
+                0.7929347044232524
+            ],
+            [
+                "3_ the film's main crime is this: it's boring.",
+                -0.757504479882513
+            ],
+            [
+                "5_ inherent vice still comes off as a giant inside joke to anyone who hasn't read pynchon's novel.",
+                -0.7246517479134107
+            ],
+            [
+                "6_inherent vice is a sun-glared, neon-limned muddle of noir plotline and potheaded jokery that not only doesn't make sense, ",
+                -0.75154500840676
+            ],
+            [
+                "7_i truly wanted to like the film.",
+                -0.5669015020680868
+            ],
+            [
+                "10_\"inherent vice\" is an aggressively weird movie, which you should take not as a warning ",
+                -0.6385403738511319
+            ],
+            [
+                "12_both times i saw \"inherent vice,\" i experienced roughly the same contradictory responses: delight undercut by puzzlement, followed by a happier sort of puzzlement.",
+                -0.5277458272696398
+            ],
+            [
+                "17_inherent vice lives happily on the outer limits, where the noir form and its history are at least as important as the content.",
+                0.735045999818849
+            ],
+            [
+                "19_too often, the film gets distracted with things to giggle at, and breaks the spell.",
+                -0.5128723389282072
+            ],
+            [
+                "21_at first glance, inherent vice might seem to be a detective story.",
+                0.5466801177749876
+            ],
+            [
+                "22_there are, of course, two ways to experience inherent vice: with the brain on or the brain off.",
+                0.5622371175825511
+            ],
+            [
+                "25_\"inherent vice\" is a film about a stoner which itself seems stoned.",
+                0.5162975000613523
+            ],
+            [
+                "26_ it is awfully hard to make a movie about a culture adrift that doesn't make its audience feel the same.",
+                -0.6438297105334831
+            ],
+            [
+                "26_inherent vice runs a punishing 148 minutes, not enough of which are funny or sad enough to hold us.",
+                -0.7072342884281957
+            ],
+            [
+                "27_think of it as a film that's meant to be experienced, more than fully understood.",
+                0.6127551085326322
+            ],
+            [
+                "34_phoenix's extraordinary performance pulls the movie's infinite strands together.",
+                0.7944524733249525
+            ],
+            [
+                "35_inherent vice is half-baked raymond chandler.",
+                -0.6359704199188717
+            ],
+            [
+                "38_\"inherent vice\" is not only the first pynchon movie",
+                -0.6313987804995735
+            ],
+            [
+                "45_anderson's seventh feature film is a groovy, richly funny stoner romp.",
+                0.769052911707365
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sam Jaeger": {
+                "args": []
+            },
+            "Emma Dumont": {
+                "args": []
+            },
+            "Vivienne Khaledi": {
+                "args": []
+            },
+            "Christian Williams": {
+                "args": []
+            },
+            "Amy Ferguson": {
+                "args": []
+            },
+            "Charley Morgan": {
+                "args": []
+            },
+            "Josh Brolin": {
+                "args": []
+            },
+            "Katherine Waterston": {
+                "args": []
+            },
+            "Yvette Yates": {
+                "args": []
+            },
+            "Taylor Bonin": {
+                "args": []
+            },
+            "Martin D. Dew": {
+                "args": []
+            },
+            "Michelle Sinclair": {
+                "args": []
+            },
+            "Jefferson Mays": {
+                "args": []
+            },
+            "David Prak": {
+                "args": []
+            },
+            "Elaine Tan": {
+                "args": []
+            },
+            "Jackie Michele Johnson": {
+                "args": []
+            },
+            "Alina Gatti": {
+                "args": []
+            },
+            "Owen Wilson": {
+                "args": []
+            },
+            "Emmet Unverzagt": {
+                "args": []
+            },
+            "Joe Dioletto": {
+                "args": []
+            },
+            "Hong Chau": {
+                "args": []
+            },
+            "Christopher Allen Nelson": {
+                "args": []
+            },
+            "Samantha Lemole": {
+                "args": []
+            },
+            "Joaquin Phoenix": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Reese Witherspoon": {
+                "args": []
+            },
+            "Eric Roberts": {
+                "args": []
+            },
+            "Joanna Newsom": {
+                "args": []
+            },
+            "Wilson Bethel": {
+                "args": []
+            },
+            "Jeannie Berlin": {
+                "args": []
+            },
+            "Sasha Pieterse": {
+                "args": []
+            },
+            "Anders Holm": {
+                "args": []
+            },
+            "Jena Malone": {
+                "args": []
+            },
+            "Ralph Wagner": {
+                "args": []
+            },
+            "Robert Ziegler": {
+                "args": []
+            },
+            "Keith Jardine": {
+                "args": []
+            },
+            "Catherine Haena Kim": {
+                "args": []
+            },
+            "Peter McRobbie": {
+                "args": []
+            },
+            "Benicio Del Toro": {
+                "args": []
+            },
+            "Liam VanJoosten": {
+                "args": []
+            },
+            "Osamu Saito": {
+                "args": []
+            },
+            "Shannon Collis": {
+                "args": []
+            },
+            "Serena Scott Thomas": {
+                "args": [
+                    [
+                        "11_paul thomas anderson's hippie noir seems completely stoned: inarticulate, confused and prone to giggling at unknown jokes.",
+                        -0.553905821409512
+                    ],
+                    [
+                        "15_more than just an adaptation of thomas pynchon's 2009 novel, the film engages with the author's literature on the whole, attempting a filmic analogue to his virtuosic prose.",
+                        0.5043187005880715
+                    ],
+                    [
+                        "21_, and it becomes clear that this is paul thomas anderson's idea of a comedy.",
+                        -0.6146440269223961
+                    ],
+                    [
+                        "24_[paul thomas anderson's new movie] is a kind of companion piece to altman's the long goodbye, and it's the sort of failure that only a director of his talents could make.",
+                        0.7001680160959526
+                    ],
+                    [
+                        "30_since most of paul thomas anderson's inherent vice was meant to be impenetrable, the best approach, as you watch it drift by, is to savor the dreamy images and druggy jokes and forget about penetrating the plot.",
+                        0.7292641169226847
+                    ]
+                ]
+            },
+            "Martin Donovan": {
+                "args": []
+            },
+            "Martin Short": {
+                "args": []
+            },
+            "Jack Kelly": {
+                "args": []
+            },
+            "The Growlers": {
+                "args": []
+            },
+            "Shannon C. Sullivan": {
+                "args": []
+            },
+            "Jordan Christian Hearn": {
+                "args": []
+            },
+            "Delaina Mitchell": {
+                "args": []
+            },
+            "Andrew Simpson": {
+                "args": []
+            },
+            "Jillian Bell": {
+                "args": []
+            },
+            "Michael Cotter": {
+                "args": []
+            },
+            "Madison Leisle": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "Timothy C. Simons": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "34_phoenix's extraordinary performance pulls the movie's infinite strands together.",
+                0.7944524733249525
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

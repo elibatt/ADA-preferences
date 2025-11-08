@@ -1,0 +1,204 @@
+{
+    "writer": {
+        "entities": {
+            "Kenneth Lonergan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_unforced acting couples with a nuanced, insightful script to tell a story that, ",
+                0.727221310015627
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kenneth Lonergan": {
+                "args": [
+                    [
+                        "9_there's a funny sequence when lonergan surprise-reveals that lee fathered one, then two, then three children, who tumble out from the corners of the screen like squashed clowns.",
+                        0.6934131508435577
+                    ],
+                    [
+                        "19_if you open yourself to the experience, lonergan's movies allow you to live with characters until they feel like people you know.",
+                        0.7470322607222201
+                    ],
+                    [
+                        "21_it's hard to overstate the magnificence of kenneth lonergan's manchester by the sea.",
+                        -0.5954778472966114
+                    ],
+                    [
+                        "22_because lonergan is so true to the intricacies and rhythms of family strife, we trust his vision.",
+                        0.7581913321739127
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the sadness of \"manchester by the sea\" is the kind of sadness that makes you feel more alive, rather than less, to the preciousness of things.",
+                0.5586592608097161
+            ],
+            [
+                "2_ the movie is something less than that, because it can't completely overcome some built-in challenges.",
+                -0.7476995094737899
+            ],
+            [
+                "2_even so, manchester by the sea deserves honors for being so different, and for working on the mind in a particular way",
+                0.8052650390800427
+            ],
+            [
+                "3_ yet, once deciphered, the film does not falter ",
+                0.5088120182398672
+            ],
+            [
+                "6_ astonishing dialogue toward the end of the film.",
+                0.5369964306576587
+            ],
+            [
+                "7_not everything broken, this wise movie reminds us, can be mended.",
+                0.5318314314291385
+            ],
+            [
+                "8_\"manchester by the sea\" is one of the best films of the year.",
+                0.9434198218910936
+            ],
+            [
+                "10_\"manchester by the sea\" is the latest installment in a body of work from an artist fascinated by how life marches on, with or without us, and how we scramble to keep up.",
+                0.7372145608066544
+            ],
+            [
+                "13_it's less a movie of aesthetics than of synesthesia, transmitting an unbearable burden of inner coldness and emptiness by means of warmhearted wonder.",
+                0.5655117474951737
+            ],
+            [
+                "15_\"manchester by the sea\" is a masterpiece in a minor key, an exploration of grief that never lets its characters - or its audience - off the hook.",
+                0.7706569866303097
+            ],
+            [
+                "17_ isn't that a characteristic of a great movie?",
+                0.6037593957498346
+            ],
+            [
+                "18_\"manchester by the sea\" is a film of surpassing beauty and heart.",
+                0.7591405466400603
+            ],
+            [
+                "23_the funniest movie about grief ever made -- ",
+                0.5864084700732539
+            ],
+            [
+                "26_manchester by the sea is formula-free and one of a kind, with only as much resolution as the steely grip of the past will allow.",
+                0.7052818854313757
+            ],
+            [
+                "27_no film this year has moved me more with its humor, heart and humanity.",
+                0.6840181208813017
+            ],
+            [
+                "28_lonergan's film reveals itself as a wellspring of urgently needed compassion and grace.",
+                0.7129300310369624
+            ],
+            [
+                "30_\"manchester by the sea\" is a finely shaded portrait, a study in individual misery set in a place that is observed with care and affection.",
+                0.8174633701058336
+            ],
+            [
+                "31_an exemplary film of such exceptional wisdom, beauty, clarity, sensitivity and emotional depth that i had to rub my eyes to believe it.",
+                0.6305523224973124
+            ],
+            [
+                "33_\"manchester by the sea\" is heartbreaking yet somehow heartening, a film that just wallops you with its honesty, its authenticity and its access to despair.",
+                0.7522376749138461
+            ],
+            [
+                "35_the result is a movie that, if never exactly a cathartic experience, carries you along in its clenched grip with an undeniable power.",
+                0.7451958641733318
+            ],
+            [
+                "37_manchester by the sea is a deeply affecting and wickedly funny masterpiece showcasing the maturation of men, from the broken man and his nephew at its heart to the drama's phenomenal filmmaker.",
+                0.7754313013826268
+            ],
+            [
+                "39_full of loss and grief and the grey skies of a wintry massachusetts, \"manchester by the sea\" can sound like a pretty dreary two hours at the movies.",
+                0.508060706582787
+            ],
+            [
+                "42_a wrenching family tragedy is dramatized with the depth of a high-quality american stage piece in manchester by the sea.",
+                0.8017187592339013
+            ],
+            [
+                "44_\"manchester by the sea\" is precise in its vision, universal in its application.",
+                0.6403748215149473
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Lucas Hedges": {
+                "args": []
+            },
+            "C.J. Wilson": {
+                "args": []
+            },
+            "Matthew Broderick": {
+                "args": []
+            },
+            "Casey Affleck": {
+                "args": [
+                    [
+                        "5_it's affleck's movie to quietly own as layer upon layer of irish impassivity is stripped away from his visage until the unspeakable can be spoken.",
+                        0.6128746489773688
+                    ],
+                    [
+                        "6_lonergan found the right man in affleck, standing stony-faced while others weep, his performance a master class in submerged feeling...",
+                        0.7459071810026231
+                    ],
+                    [
+                        "11_a heart-wrenching drama anchored by affleck, who notches up yet another subtle, stunning performance.",
+                        0.619762288993315
+                    ],
+                    [
+                        "25_featuring casey affleck in an oscar-caliber performance, it's a deeply affecting little gem of a film, which should gently sweep filmgoers up in its melancholy tides.",
+                        0.6812215628537429
+                    ],
+                    [
+                        "27_engrave the name casey affleck on the oscar for best actor right now, so extraordinary and engulfing is his performance.",
+                        0.6927372816421657
+                    ]
+                ]
+            },
+            "Michelle Williams": {
+                "args": [
+                    [
+                        "6_but it's williams who stuns, in the course of a single,",
+                        -0.5625078816500931
+                    ]
+                ]
+            },
+            "Gretchen Mol": {
+                "args": []
+            },
+            "Kara Hayward": {
+                "args": []
+            },
+            "Kyle Chandler": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_unforced acting couples with a nuanced, insightful script to tell a story that, ",
+                0.727221310015627
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

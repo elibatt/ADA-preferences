@@ -1,0 +1,108 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_expect this film to be followed by \"blumhouse's spin the bottle\" and \"blumhouse's boggle.\"",
+                -0.5226493281011825
+            ],
+            [
+                "7_the truth is the latest horror film from blumhouse productions isn't all that daring, ",
+                -0.6173270367819262
+            ],
+            [
+                "10_it's a lame, scare-free film that wants really badly to work in the vein of \"it follows,\" ",
+                -0.8319378131491975
+            ],
+            [
+                "11_as a scary movie, truth or dare is about as frightening as a slip on a banana peel.",
+                -0.7621871333398387
+            ],
+            [
+                "14_generally, the movie's as scare-free and slow-witted as it is senseless, enough that you want to challenge blum to a round.",
+                0.5353221576974591
+            ],
+            [
+                "17_watch this movie and you might die, of boredom.",
+                -0.5604975973981585
+            ],
+            [
+                "21_the movie not only fails to represent the peak of the young blumhouse shingle's output, ",
+                -0.5965029659353142
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jeff Wadlow": {
+                "args": [
+                    [
+                        "12_it does nothing to cleanse mr. wadlow of the lingering stench of his 2013 effort, \"kick-ass 2.",
+                        0.5218225892213767
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Brady Smith": {
+                "args": []
+            },
+            "Nolan Gerard Funk": {
+                "args": []
+            },
+            "Sam Lerner": {
+                "args": []
+            },
+            "Sophia Ali": {
+                "args": []
+            },
+            "Aurora Perrineau": {
+                "args": []
+            },
+            "Violett Beane": {
+                "args": []
+            },
+            "Lucy Hale": {
+                "args": []
+            },
+            "Tyler Posey": {
+                "args": []
+            },
+            "Hayden Szeto": {
+                "args": []
+            },
+            "Landon Liboiron": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_a godawful teen-magnet utterly devoid of entertainment value beyond the lure of its popular, photogenic cast and the dubious attraction of playing the \"guess who gets it next\" game.",
+                -0.5889289148191466
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Michael Reisz": {
+                "args": []
+            },
+            "Jeff Wadlow": {
+                "args": []
+            },
+            "Christopher Roach": {
+                "args": []
+            },
+            "Jillian Jacobs": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

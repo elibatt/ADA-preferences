@@ -1,0 +1,111 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Louis Hofmann": {
+                "args": []
+            },
+            "Joel Basman": {
+                "args": []
+            },
+            "Mikkel Boe Følsgaard": {
+                "args": []
+            },
+            "Roland Møller": {
+                "args": []
+            },
+            "Osakar Belton": {
+                "args": []
+            },
+            "Emil Belton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_most of the film's power and interest comes from the ethical discussion it inspires.",
+                0.7951392038168169
+            ],
+            [
+                "3_ it's an after-the-war movie.",
+                0.5442019102325584
+            ],
+            [
+                "3_ and every ragged breath the film takes braces for an explosion.",
+                0.5004781450331516
+            ],
+            [
+                "5_\"land of mine\" maintains a resonant level of anxiety throughout.",
+                0.6419488671578314
+            ],
+            [
+                "6_tfully composed, \"land of mine\" is epic ",
+                0.5823581000554152
+            ],
+            [
+                "7_gaining in intensity as it moves along, \"land of mine\" combines the suspense of henri-georges clouzot's \"wages of fear\" (1953) with the psychological complexity of david lean's \"the bridge on the river kwai\" (1957) ...",
+                0.7971509122754268
+            ],
+            [
+                "9_zandvliet has crafted a handsome, affecting and questioning film about post-war revenge and forgiveness.",
+                0.7919389690211491
+            ],
+            [
+                "11_with its muted colors and naturalistic lighting, the film aptly captures the beauty of seaside locales that frame the human struggle at the story's heart.",
+                0.8079480772347857
+            ],
+            [
+                "13_land of mine is essentially bomb porn.",
+                -0.6794427480139174
+            ],
+            [
+                "14_a tight and suspenseful film ...",
+                0.6539437174579621
+            ],
+            [
+                "16_land of mine is tough and admirably grim, turning a harrowing history lesson into a study in how the battles of wartime don't always cease with the ceasefire.",
+                0.50684655772112
+            ],
+            [
+                "17_the film is sometimes too sentimental, too predictable in its drift, ",
+                -0.6214810498346717
+            ],
+            [
+                "19_it's to the film's credit that he does so in ways that are eminently believable.",
+                0.8416988306078462
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Martin Zandvliet": {
+                "args": [
+                    [
+                        "19_it's clear from the way writer-director martin zandvliet sets up the story that the fiery rasmussen... will eventually soften.",
+                        0.7219668066560547
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "19_it's clear from the way writer-director martin zandvliet sets up the story that the fiery rasmussen... will eventually soften.",
+                0.7219668066560547
+            ]
+        ],
+        "entities": {
+            "Martin Zandvliet": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,377 @@
+{
+    "writer": {
+        "args": [
+            [
+                "0_we are left with the painful irony that a film about a screenwriter so good that kirk douglas and otto preminger couldn't live without him suffers from a dull and slow-moving script.",
+                -0.6542728873560626
+            ],
+            [
+                "1_trumbo is ... a blast, even if the screenplay perversely lacks the energy of its title character, who is played with great wit and brio by breaking bad's bryan cranston.",
+                0.6982758932586246
+            ],
+            [
+                "14_how could a movie about a great screenwriter have such a terrible screenplay?",
+                -0.6475034845226819
+            ],
+            [
+                "23_a patchwork film that dives into whatever character is in focus at any given moment.",
+                -0.5876031768069816
+            ],
+            [
+                "24_a young girl on a pony asks her famous screenwriter father.",
+                0.6397451542468618
+            ],
+            [
+                "32_ it's an important reminder of how democracy can fail ... and the strength of character it takes to fight the system.",
+                0.6779232476227529
+            ]
+        ],
+        "entities": {
+            "John McNamara": {
+                "args": [
+                    [
+                        "30_roach and screenwriter john mcnamara's approach is leaden, thumping and pushing viewers to its themes instead of letting them come organically.",
+                        -0.7397431742466298
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_we are left with the painful irony that a film about a screenwriter so good that kirk douglas and otto preminger couldn't live without him suffers from a dull and slow-moving script.",
+                -0.6542728873560626
+            ],
+            [
+                "2_it's a period piece full of colorful characters, natty costumes, jaunty music.",
+                0.7215756579285748
+            ],
+            [
+                "3_the movie's main idea seems to be that, in the end, people prefer movies to ideas.",
+                0.5392269522303118
+            ],
+            [
+                "4_a fun, highly watchable film.",
+                0.7090096341088352
+            ],
+            [
+                "5_roach's direction is pedestrian.",
+                0.5461314522224859
+            ],
+            [
+                "5_he turns the picture into an earnest primer of the issues of the era and a road map of how trumbo slowly resuscitates his career ...",
+                -0.5407647227072504
+            ],
+            [
+                "6_cranston's performance is the motor that runs \"trumbo,\" and that motor never idles, never flags in momentum or magnetism or idealistic scorn.",
+                0.623152382033106
+            ],
+            [
+                "7_cranston shows trumbo's public and private sides - giving full measure to his eccentricities without devolving into caricature.",
+                0.5735204554814138
+            ],
+            [
+                "9_it's a history lesson told in breezy fashion, ",
+                0.6440533178131761
+            ],
+            [
+                "9_ that doesn't make it any less important.",
+                -0.6009574434425209
+            ],
+            [
+                "10_the logistics of how trumbo survived, fronting a stable of other blacklisted writers and churning out his own work under various aliases, make for a great yarn.",
+                0.5153006796967072
+            ],
+            [
+                "11_cranston's connection with trumbo's struggle and frustration, and with his streak of canny practicality, couldn't be stronger.",
+                0.5483145313030257
+            ],
+            [
+                "14_how could a movie about a great screenwriter have such a terrible screenplay?",
+                -0.6475034845226819
+            ],
+            [
+                "15_screenwriters are so rarely taken seriously by the film industry that it's a nice switch to watch them be the heroes.",
+                0.5122422803809373
+            ],
+            [
+                "16_it's another of those simplistic, made-to-order films about the hollywood blacklist in which the blacklisted movie folks are all innocent, in every conceivable way.",
+                -0.5410156477027231
+            ],
+            [
+                "17_\"trumbo\" is timely in its portrayal of a moment when political speech is dangerously charged, yet unabashedly old-fashioned in the sincerity of its storytelling.",
+                0.6332434996877192
+            ],
+            [
+                "18_part biopic, part historical gloss, \"trumbo\" tells a great-man story with a patchwork of fact and fiction, mixing in the odd bit of newsreel with a great many dull, visually flat and poorly lighted dramatic scenes.",
+                -0.5148745522026145
+            ],
+            [
+                "19_trumbo is solid and satisfying, if far from revelatory.",
+                0.6967175569602796
+            ],
+            [
+                "21_how do you fail to find the drama in that?",
+                -0.6092610451530408
+            ],
+            [
+                "22_a clean and agreeable biopic that restores some vitality to a fascinating episode in 20th-century cultural and political history.",
+                0.666091083945985
+            ],
+            [
+                "23_a patchwork film that dives into whatever character is in focus at any given moment.",
+                -0.5876031768069816
+            ],
+            [
+                "24_\"daddy, what's a communist?\"",
+                -0.5422906053291523
+            ],
+            [
+                "24_a young girl on a pony asks her famous screenwriter father.",
+                0.6397451542468618
+            ],
+            [
+                "25_sounds like a biopic slog, and sometimes it is.",
+                0.5427897648767342
+            ],
+            [
+                "26_you don't have to know a thing about trumbo, hollywood or communism to enjoy watching trumbo.",
+                -0.6107856728351782
+            ],
+            [
+                "27_the film fails as a portrait, and it's not much better at drama.",
+                -0.5861432330240306
+            ],
+            [
+                "28_we are left with a near-heretical irony:",
+                -0.5853716431769771
+            ],
+            [
+                "28_thanks to this admiring tri",
+                -0.5209272954449238
+            ],
+            [
+                "28_e, our hero gets top billing at last, ",
+                0.630053908007822
+            ],
+            [
+                "28_ was he not more beguiling, somehow, as a legendary figure in the shadows?",
+                0.5822734108291217
+            ],
+            [
+                "32_\"trumbo\" may be clumsy and overly simplistic at times, ",
+                -0.7061822569592495
+            ],
+            [
+                "32_ it's an important reminder of how democracy can fail ... and the strength of character it takes to fight the system.",
+                0.6779232476227529
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "6_cranston's performance is the motor that runs \"trumbo,\" and that motor never idles, never flags in momentum or magnetism or idealistic scorn.",
+                0.623152382033106
+            ],
+            [
+                "17_\"trumbo\" is timely in its portrayal of a moment when political speech is dangerously charged, yet unabashedly old-fashioned in the sincerity of its storytelling.",
+                0.6332434996877192
+            ]
+        ],
+        "entities": {
+            "Michael Stuhlbarg": {
+                "args": [
+                    [
+                        "13_michael stuhlbarg steals the movie as a beleagured edward g. robinson (who named names before the committee, including trumbo's)",
+                        0.538280056808967
+                    ]
+                ]
+            },
+            "John Goodman": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": [
+                    [
+                        "1_trumbo is ... a blast, even if the screenplay perversely lacks the energy of its title character, who is played with great wit and brio by breaking bad's bryan cranston.",
+                        0.6982758932586246
+                    ],
+                    [
+                        "12_bryan cranston brings the complex personality of trumbo to life with substance and humor.",
+                        0.7032810119168382
+                    ],
+                    [
+                        "29_it's a cracking good story, and cranston does a great job portraying a man who made great sacrifices for his principles.",
+                        0.9005119390129388
+                    ],
+                    [
+                        "31_what makes the movie work are the lively performances, both from the supporting cast and from cranston ...",
+                        0.7894447589338206
+                    ]
+                ]
+            },
+            "John Mark Skinner": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": []
+            },
+            "Laura Flannery": {
+                "args": []
+            },
+            "Garrett Hines": {
+                "args": []
+            },
+            "Mark Harelik": {
+                "args": []
+            },
+            "Johnny Sneed": {
+                "args": []
+            },
+            "Sean Bridgers": {
+                "args": []
+            },
+            "Dave Maldonado": {
+                "args": []
+            },
+            "Christian LeBlanc": {
+                "args": []
+            },
+            "Tobias McDowell Nichols": {
+                "args": []
+            },
+            "Dan Bakkedahl": {
+                "args": []
+            },
+            "Rio Hackford": {
+                "args": []
+            },
+            "Richard Portnow": {
+                "args": []
+            },
+            "Roger Bart": {
+                "args": []
+            },
+            "Adewale Akinnuoye-Agbaje": {
+                "args": []
+            },
+            "Billy Slaughter": {
+                "args": []
+            },
+            "Becca Nicole Preston": {
+                "args": []
+            },
+            "Stephen Root": {
+                "args": []
+            },
+            "Mattie Liptak": {
+                "args": []
+            },
+            "Jim Gleason": {
+                "args": []
+            },
+            "John Getz": {
+                "args": []
+            },
+            "James DuMont": {
+                "args": []
+            },
+            "Ron Fassler": {
+                "args": []
+            },
+            "Griff Furst": {
+                "args": []
+            },
+            "Rick Kelly": {
+                "args": []
+            },
+            "Pete Anthony": {
+                "args": []
+            },
+            "Dean O'Gorman": {
+                "args": []
+            },
+            "Meghan Wolfe": {
+                "args": []
+            },
+            "Louis C.K.": {
+                "args": []
+            },
+            "Herbert P.J. Marshall": {
+                "args": []
+            },
+            "Helen Mirren": {
+                "args": [
+                    [
+                        "13_ and helen mirren is nicely acidic as the red-baiting gossip columnist hedda hopper.",
+                        0.5488723767115319
+                    ]
+                ]
+            },
+            "Peter Mackenzie": {
+                "args": []
+            },
+            "Madison Wolfe": {
+                "args": []
+            },
+            "John E. Moore": {
+                "args": []
+            },
+            "Christian Berkel": {
+                "args": []
+            },
+            "Alan Tudyk": {
+                "args": []
+            },
+            "A.J. Allegra": {
+                "args": []
+            },
+            "Mitchell Zakocs": {
+                "args": []
+            },
+            "Jason Kirkpatrick": {
+                "args": []
+            },
+            "David James Elliott": {
+                "args": []
+            },
+            "Dane Rhodes": {
+                "args": []
+            },
+            "John Neisler": {
+                "args": []
+            },
+            "Jason Bayle": {
+                "args": []
+            },
+            "Diane Lane": {
+                "args": []
+            },
+            "Joseph S. Martino": {
+                "args": []
+            },
+            "Wayne Pére": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jay Roach": {
+                "args": [
+                    [
+                        "24_you should brace yourself for this kind of exchange in jay roach's earnest if too-soft biopic.",
+                        0.5048295046641822
+                    ]
+                ]
+            }
+        }
+    }
+}

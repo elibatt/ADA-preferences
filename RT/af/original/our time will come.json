@@ -1,0 +1,125 @@
+{
+    "writer": {
+        "entities": {
+            "He Jiping": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ann Hui": {
+                "args": [
+                    [
+                        "1_like most of hui's films, our time's subtlety is entrancing, withholding big dramatic moments to consider everyday behavior.",
+                        0.7178992209550724
+                    ],
+                    [
+                        "1_this strategy speaks to hui's tremendous gifts of directing actors and establishing a sense of place.",
+                        0.8018411492113281
+                    ],
+                    [
+                        "3_a little-known chapter in hong kong's wartime history has been vividly re-created in \"our time will come,\" a female-driven drama poignantly directed by ann hui.",
+                        0.6707168388243401
+                    ],
+                    [
+                        "4_as usual in hui's films, the personal and the political are stitched tightly together.",
+                        0.7424154944301313
+                    ],
+                    [
+                        "5_it's fang's transformation, embodied by ms. zhou's lean, cool authority, that carries the most weight, lending the proceedings an unforced feminist dimension, and reaffirming ms. hui's status as one of china's cinematic treasures.",
+                        0.8539094150763958
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "0_an important figure in the hong kong film renaissance of the 1980s, [director ann]",
+                0.6950158497894061
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_an important figure in the hong kong film renaissance of the 1980s, [director ann]",
+                0.6950158497894061
+            ],
+            [
+                "0_like many of her films, our time will come requires and rewards patience.",
+                0.7716845920439923
+            ],
+            [
+                "6_beyond the handful of obligatory escapades, gunfights and images of martyrdom, the film reveals itself as less a drama about extraordinary heroes than an illustration of life in a fallen city.",
+                0.7804496798992145
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jiang Wenli": {
+                "args": []
+            },
+            "Leung Man Tao": {
+                "args": []
+            },
+            "Deanie Ip": {
+                "args": []
+            },
+            "Eddie Cheung": {
+                "args": []
+            },
+            "Guo Tao": {
+                "args": []
+            },
+            "Ray Lui": {
+                "args": []
+            },
+            "Xun Zhou": {
+                "args": [
+                    [
+                        "5_it's fang's transformation, embodied by ms. zhou's lean, cool authority, that carries the most weight, lending the proceedings an unforced feminist dimension, and reaffirming ms. hui's status as one of china's cinematic treasures.",
+                        0.8539094150763958
+                    ]
+                ]
+            },
+            "Nina Paw": {
+                "args": []
+            },
+            "Eddie Peng": {
+                "args": []
+            },
+            "Sam Lee": {
+                "args": []
+            },
+            "Kingdom Yuen": {
+                "args": []
+            },
+            "Tony Leung": {
+                "args": []
+            },
+            "Wallace Huo": {
+                "args": []
+            },
+            "Stanley Fung": {
+                "args": []
+            },
+            "Ivana Wong": {
+                "args": []
+            },
+            "Jessie Li": {
+                "args": []
+            },
+            "Huang Zhizhong": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

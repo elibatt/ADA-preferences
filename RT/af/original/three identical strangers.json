@@ -1,0 +1,116 @@
+{
+    "writer": {
+        "args": [
+            [
+                "3_a documentary with a story so outlandish it might well have been rejected by a hollywood studio had a screenwriter pitched it as the basis of a fictional movie.",
+                0.5042273425010123
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_blending excellent reporting and strong storytelling, this is a disturbing film truly stranger than fiction.",
+                0.8160396540736711
+            ],
+            [
+                "3_a documentary with a story so outlandish it might well have been rejected by a hollywood studio had a screenwriter pitched it as the basis of a fictional movie.",
+                0.5042273425010123
+            ],
+            [
+                "4_the less you know about three identical strangers going in",
+                -0.5539261342869481
+            ],
+            [
+                "4_, the better, so don't read this part until after you've seen the movie.",
+                0.5911364052566159
+            ],
+            [
+                "6_three identical strangers strikes at the heart of jewish identity.",
+                0.6422843103337206
+            ],
+            [
+                "10_well after the astonishment of its narrative fades, \"three identical strangers\" is a movie to make you think twice about your own siblings - and maybe take a long look in the mirror at yourself.",
+                -0.5036749737013955
+            ],
+            [
+                "11_wardle makes \"three identical strangers\" as spellbinding as a great psychological thriller.",
+                0.7782044919903119
+            ],
+            [
+                "13_three identical strangers reminds us that even the most galvanizing visual evidence can be deceiving.",
+                0.5829794674946365
+            ],
+            [
+                "16_this is a movie that begins like a news of the weird anecdote and turns increasingly dark.",
+                -0.5920688478589374
+            ],
+            [
+                "18_the film is an artfully constructed investigative narrative structured to give us the sense of discovering, along with the boys and their families, several layers of buried secrets and lies that blighted their adult lives.",
+                0.8206271218689288
+            ],
+            [
+                "20_three identical strangers, is stranger (and wilder and weirder) than most.",
+                0.5096563058479551
+            ],
+            [
+                "20_you really need to see this film to believe it actually happened.",
+                0.5050112472891275
+            ],
+            [
+                "24_even when three identical strangers falters, it fascinates, and that's a claim very few documentaries can make.",
+                0.5465877916732632
+            ],
+            [
+                "27_a gripping, stranger-than-fiction account of a real-world medical conspiracy, the film begins as a human-interest story and builds to an impressive work of investigative journalism into how and why they were placed with the families who raised them.",
+                0.8523635141644741
+            ],
+            [
+                "30_three identical strangers may be",
+                0.5426507962177443
+            ],
+            [
+                "32_three identical strangers does a solid job laying out a story that's both remarkable and repulsive in equal measures, a window into the peculiar bonding of twins that holds appeal for the same reasons that inspired the medical research in the first place",
+                0.8528878153892273
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Tim Wardle": {
+                "args": [
+                    [
+                        "8_tim wardle's documentary contains as many twists as a great thriller.",
+                        0.8290177740337499
+                    ],
+                    [
+                        "12_so bizarre is the tale that tim wardle tells, in his new documentary, and so unnervingly mixed the emotions that it provokes, that the less you know about it beforehand the better.",
+                        0.6729447647212601
+                    ],
+                    [
+                        "14_the best way to experience tim wardle's documentary three identical strangers is to do so without knowing a single thing about it.",
+                        0.5099510189289026
+                    ],
+                    [
+                        "25_tim wardle has shaped the film as a detective story in which the more pieces of the puzzle are filled in, the more disgusted and infuriated we become.",
+                        0.7978959530054115
+                    ],
+                    [
+                        "31_this is a strange, ultimately quite distressing story touched by tragedy, told by wardle with great skill and compassion in a brisk, consistently absorbing package.",
+                        0.8540580154910685
+                    ]
+                ]
+            }
+        }
+    }
+}

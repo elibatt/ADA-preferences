@@ -1,0 +1,92 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rebecca Larsen": {
+                "args": []
+            },
+            "Jessica Brown": {
+                "args": []
+            },
+            "Hallie Foote": {
+                "args": []
+            },
+            "Chloe Csengery": {
+                "args": []
+            },
+            "Ivy George": {
+                "args": []
+            },
+            "Mark Steger": {
+                "args": []
+            },
+            "Aiden Lovekamp": {
+                "args": []
+            },
+            "Dan Gill": {
+                "args": []
+            },
+            "Jessica Tyler Brown": {
+                "args": []
+            },
+            "Brit Shaw": {
+                "args": []
+            },
+            "Olivia Taylor Dudley": {
+                "args": []
+            },
+            "Cara Pifko": {
+                "args": []
+            },
+            "Don R. McManus": {
+                "args": []
+            },
+            "Michael Krawic": {
+                "args": []
+            },
+            "Chris Murray": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "8_one would have to trawl through the deepest recesses of romanian art cinema to find a film with as many static, silent shots of empty rooms and unfurnished hallways.",
+                0.6439492126935868
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Gregory Plotkin": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andrew Stark": {
+                "args": []
+            },
+            "Oren Peli": {
+                "args": []
+            },
+            "Jason Pagan": {
+                "args": []
+            },
+            "Adam Robitel": {
+                "args": []
+            },
+            "Gavin Heffernan": {
+                "args": []
+            }
+        }
+    }
+}

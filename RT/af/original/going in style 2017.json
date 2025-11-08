@@ -1,0 +1,163 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_ this broken-down jalopy of a movie is not, to put it charitably, an ideal vehicle.",
+                -0.5670198902100645
+            ],
+            [
+                "7_the movie will probably find a modest audience for a weekend or two, ",
+                -0.5720534384818052
+            ],
+            [
+                "9_ not much of one) to call going in style \"wholesome\" ",
+                -0.6577146379608818
+            ],
+            [
+                "13_braff races through the planning and execution of the robbery, probably because the original film's premise seems even more far-fetched in our modern security state.",
+                -0.5140381176794316
+            ],
+            [
+                "15_\"going in style\" never gets beyond mildly amusing.",
+                -0.5010678486009683
+            ],
+            [
+                "16_an \"a\" cast takes on a \"b\" production in going in style, and pulls off the real heist of this unnecessary ",
+                -0.5195019783695238
+            ],
+            [
+                "17_while this charming movie will be targeted to senior audiences, i hope younger generations check it out - as the humor and underlying messages are truly universal.",
+                0.7075982094000578
+            ],
+            [
+                "18_for a movie ostensibly about flipping the script on what old age means, the uninspired obviousness on display is dispiritingly ironic.",
+                -0.6267617038206013
+            ],
+            [
+                "19_ the real crime in going in style is its waste of acting talent.",
+                -0.6453316821701408
+            ],
+            [
+                "20_i didn't double over with laughter watching \"going in style,\" or laugh out loud that much at all.",
+                -0.6066958685589756
+            ],
+            [
+                "20_ i realized my face physically hurt from grinning throughout the movie.",
+                -0.614522570681253
+            ],
+            [
+                "21_this a movie that can think of nothing funnier than arranging three oscar winners in front of a tv to make catty remarks about the bachelorette.",
+                -0.7664837219327593
+            ],
+            [
+                "23_after a solid beginning, the movie begins to droop, filled with characters - sassy waitress, sour cop, distant dad - who feel more like placeholders than people.",
+                0.6221490861170278
+            ],
+            [
+                "24_it's the chemistry among these three fine actors that keeps \"going in style\" afloat, lifting it from the formulaic and forgettable - which, essentially, it is - and making it genuinely, if modestly, enjoyable.",
+                0.6078576638947267
+            ],
+            [
+                "26_generally, the film is more forgettable and pleasant than anything else, and it doesn't seem to aim for more than that.",
+                -0.5551442284458665
+            ],
+            [
+                "28_in the meantime, it's a low-key pleasure to hang out with these guys, even in a movie that's only just good enough.",
+                0.7124441283674618
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Zach Braff": {
+                "args": [
+                    [
+                        "8_, it really doesn't matter that the heist movie, directed by zach braff is nothing more than a pleasant stroll.",
+                        -0.5562429818477101
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ted Melfi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_for a movie ostensibly about flipping the script on what old age means, the uninspired obviousness on display is dispiritingly ironic.",
+                -0.6267617038206013
+            ],
+            [
+                "25_collectively these performers have learned more about what works with an audience, and how to serve a character, than can be measured.",
+                0.7290464382868637
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Peter Serafinowicz": {
+                "args": []
+            },
+            "Christopher Lloyd": {
+                "args": []
+            },
+            "Joey King": {
+                "args": []
+            },
+            "Michael Caine": {
+                "args": []
+            },
+            "Alan Arkin": {
+                "args": [
+                    [
+                        "22_and arkin, as usual, is the ultimate curmudgeon.",
+                        0.6044186746606846
+                    ]
+                ]
+            },
+            "Ann-Margret": {
+                "args": []
+            },
+            "Matt Dillon": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": [
+                    [
+                        "5_ it does let you hang with the a-list senior cast of morgan freeman, 79, alan arkin, 83, and michael caine, 84.",
+                        0.6772808552007422
+                    ],
+                    [
+                        "27_on the other hand, who among us is not happy to see michael caine, morgan freeman, and alan arkin get a chance to strut their stuff?",
+                        0.6629454664249554
+                    ],
+                    [
+                        "28_i'm hoping that freeman, caine and arkin all have plenty of movies - and meatier roles - in their futures.",
+                        0.7324744376152919
+                    ]
+                ]
+            },
+            "John Ortiz": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "16_an \"a\" cast takes on a \"b\" production in going in style, and pulls off the real heist of this unnecessary ",
+                -0.5195019783695238
+            ],
+            [
+                "19_ the real crime in going in style is its waste of acting talent.",
+                -0.6453316821701408
+            ]
+        ]
+    }
+}

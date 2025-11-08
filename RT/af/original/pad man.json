@@ -1,0 +1,53 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_proves quite the entertaining, daresay absorbing, movie.",
+                0.769968372353061
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "R. Balki": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Amitabh Bachchan": {
+                "args": []
+            },
+            "Radhika Apte": {
+                "args": []
+            },
+            "Akshay Kumar": {
+                "args": []
+            },
+            "Sudhir Pandey": {
+                "args": []
+            },
+            "Sonam Kapoor": {
+                "args": []
+            },
+            "Biju Menon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "R. Balki": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

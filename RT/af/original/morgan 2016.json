@@ -1,0 +1,183 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Vinette Robinson": {
+                "args": []
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "Jonathan Aris": {
+                "args": []
+            },
+            "Crispian Belfrage": {
+                "args": []
+            },
+            "Anya Taylor-Joy": {
+                "args": [
+                    [
+                        "6_anya taylor-joy ... plays the title character with a mixture of vulnerability and detached humanity that makes her like the world's most frightening teenager.",
+                        0.8248405749109661
+                    ]
+                ]
+            },
+            "Boyd Holbrook": {
+                "args": []
+            },
+            "Chris Sullivan (XII)": {
+                "args": []
+            },
+            "Paul Giamatti": {
+                "args": []
+            },
+            "Michelle Yeoh": {
+                "args": []
+            },
+            "Charlotte Asprey": {
+                "args": []
+            },
+            "Kate Mara": {
+                "args": [
+                    [
+                        "30_whatever its flaws, this is a rare genre movie that allows two women - both mara and taylor-joy are coolly riveting, particularly when they're playing off each other - to take center stage in both the drama and the action.",
+                        0.8454432265437372
+                    ]
+                ]
+            },
+            "AmyBeth McNulty": {
+                "args": []
+            },
+            "Jennifer Jason Leigh": {
+                "args": []
+            },
+            "Brian Cox": {
+                "args": []
+            },
+            "Rose Leslie": {
+                "args": []
+            },
+            "Michael Yare": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Luke Scott": {
+                "args": [
+                    [
+                        "8_luke scott is the son of alien director ridley scott and shares with his dad a gift for staging scenarios in which institutional calm erupts into savage and exhilarating violence.",
+                        0.7991425313096314
+                    ],
+                    [
+                        "11_the film, directed by luke scott and laden with high-tech eye candy, should have been a lot more complex and psychologically interesting than it is.",
+                        -0.5693910696746202
+                    ],
+                    [
+                        "13_mr. scott creates a disappointingly skeletal frankenstein story that entertains efficiently ",
+                        0.6700480706200553
+                    ],
+                    [
+                        "14_ for director luke scott.",
+                        0.5923911232222435
+                    ],
+                    [
+                        "18_\"morgan\" works as a reasonably effective sci-fi thriller - perhaps even more so if you've never seen a movie by ridley scott.",
+                        0.8525449698900832
+                    ],
+                    [
+                        "19_it's mostly when the younger scott mines other influences and trends that his work falters, ultimately turning more predictable than he realizes.",
+                        -0.6009206625507667
+                    ],
+                    [
+                        "26_even if his film's plot is predictable, the younger scott is returning the ensemble thriller to its roots with something far more important than an airtight story: compelling, well-drawn characters and the talented actors to play them.",
+                        0.6229022226544808
+                    ],
+                    [
+                        "28_nicely done, mr. scott, nicely done.",
+                        0.6625344081316782
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_anya taylor-joy ... plays the title character with a mixture of vulnerability and detached humanity that makes her like the world's most frightening teenager.",
+                0.8248405749109661
+            ],
+            [
+                "22_you may start to wonder when the last time an ensemble this good was placed in service of a script this thin.",
+                -0.5732736648431656
+            ],
+            [
+                "24_scott's pacing, building an early foundation of uneasiness, starts to collapse as the script resorts to illogical actions in service of the plot.",
+                -0.624099733731782
+            ]
+        ],
+        "entities": {
+            "Seth W. Owen": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film's marketing campaign has been asking for weeks.",
+                0.7077308843501873
+            ],
+            [
+                "0_turns out, morgan is just another sci-fi film that's only engineered to disappoint.",
+                -0.6243107394775169
+            ],
+            [
+                "1_morgan is an unassuming little thriller, nicely put together and engaging enough while you're watching, ",
+                0.7067851075342937
+            ],
+            [
+                "4_the predictable twist hampers the story's suspense, and the film doesn't dip beyond the superficial.",
+                -0.7012880317736836
+            ],
+            [
+                "5_even i, a self-prescribed horror movie skeptic, found myself wrapped up in morgan - i was invested in the characters, i (mostly) bought into the plot and even found myself embracing some of the gore by the end.",
+                -0.5577864905309642
+            ],
+            [
+                "9_ a lack of ambiguity means \"morgan\" strays into a run-of-the-mill genre territory, ",
+                -0.6243943565005929
+            ],
+            [
+                "14_it's not a terrible movie, ",
+                -0.9253002017733305
+            ],
+            [
+                "16_pared-down, efficient, and easy to follow, morgan dispenses with the long, complicated pseudoscientific explanations that bog down so many sci-fi movies.",
+                0.6870887373843365
+            ],
+            [
+                "21_\"morgan\" ... is creepy, and sometimes pretty smart.",
+                0.6614668062257497
+            ],
+            [
+                "23_it would be a stretch to call the movie any kind of feminist statement, ",
+                -0.5147627353455371
+            ],
+            [
+                "25_is \"morgan\" really the best you can do?",
+                0.6329383967632183
+            ],
+            [
+                "27_until its letdown of a final stretch, morgan is a gripping group portrait of menace and vulnerability, each punch to the solar plexus a burning question, timeless and of the moment.",
+                0.7501043061112544
+            ]
+        ]
+    }
+}

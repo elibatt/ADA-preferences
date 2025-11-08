@@ -1,0 +1,370 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "4_the acting is unarguably, uniformly strong.",
+                0.5171997496702313
+            ],
+            [
+                "10_the acting is superb, no easy feat when trying to recite sorkin's words while walking down seemingly endless hallways.",
+                -0.551787273682165
+            ],
+            [
+                "40_it is a formally audacious, intellectually energized entertainment, a powerful challenge to the lazy conventions of hollywood storytelling and a feast for connoisseurs of contemporary screen acting.",
+                0.6269747434327493
+            ]
+        ],
+        "entities": {
+            "Adam Shapiro": {
+                "args": []
+            },
+            "Makenzie Moss": {
+                "args": []
+            },
+            "Damara Reilly": {
+                "args": []
+            },
+            "Dylan Freitas-D'Louhy": {
+                "args": []
+            },
+            "Vanessa Ross": {
+                "args": []
+            },
+            "Kate Winslet": {
+                "args": [
+                    [
+                        "22_capably shot, well acted (notwithstanding kate winslet's shape-shifting accent), its score propulsive, if a little too insistent, it's a finely crafted piece of work.",
+                        0.6751157395087791
+                    ]
+                ]
+            },
+            "Michael Stuhlbarg": {
+                "args": []
+            },
+            "Derrin Horton": {
+                "args": []
+            },
+            "John Ortiz": {
+                "args": []
+            },
+            "Mihran Shlougian": {
+                "args": []
+            },
+            "Ripley Sobo": {
+                "args": []
+            },
+            "Rachel Caproni": {
+                "args": []
+            },
+            "John Steen": {
+                "args": []
+            },
+            "Marika Casteel": {
+                "args": []
+            },
+            "Marc Istook": {
+                "args": []
+            },
+            "Jeff Daniels": {
+                "args": []
+            },
+            "Daniel Liddle": {
+                "args": []
+            },
+            "Melissa Etezadi": {
+                "args": []
+            },
+            "Sarah Snook": {
+                "args": []
+            },
+            "Steven Wiig": {
+                "args": []
+            },
+            "Chris Tomasso": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": [
+                    [
+                        "2_thanks to fassbender's revelatory performance, jobs comes across as a captivating monster, a dictator in a black turtleneck who is impossible to ignore.",
+                        -0.613277760175648
+                    ],
+                    [
+                        "5_by matching sorkin's words with boyle's style and fassbender's talent, steve jobs has hit the trifecta.",
+                        0.6779282576722104
+                    ],
+                    [
+                        "8_what raises steve jobs way above the level of most biopics is the totality of fassbender's immersion into the character.",
+                        0.6948107965794288
+                    ],
+                    [
+                        "12_as the title character, michael fassbender gets the sob part down just fine, ",
+                        -0.5315882225098383
+                    ],
+                    [
+                        "17_michael fassbender will be in every best actor conversation from now until oscar night (and deservedly so) for his mesmerizing turn as the legendary and legendarily difficult visionary jobs.",
+                        0.7467290873124355
+                    ],
+                    [
+                        "48_an enthralling performance by michael fassbender fuels this brilliant, infuriating and richly unconventional take on the life of an american visionary.",
+                        0.8599618579122389
+                    ]
+                ]
+            },
+            "Perla Haney-Jardine": {
+                "args": []
+            },
+            "Robert Anthony Peters": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": []
+            },
+            "Greg Mills": {
+                "args": []
+            },
+            "Sara Welch": {
+                "args": []
+            },
+            "Stan Roth": {
+                "args": []
+            },
+            "Noreen Lee": {
+                "args": []
+            },
+            "Carlo Cecchetto": {
+                "args": []
+            },
+            "Mark Mester": {
+                "args": []
+            },
+            "Katherine Waterston": {
+                "args": []
+            },
+            "Bill Seward": {
+                "args": []
+            },
+            "Rick Chambers": {
+                "args": []
+            },
+            "Anita Bennett": {
+                "args": []
+            },
+            "Karen Kahn": {
+                "args": []
+            },
+            "Emmett Miller": {
+                "args": []
+            },
+            "Gail Fenton": {
+                "args": []
+            },
+            "Kristina Guerrero": {
+                "args": []
+            },
+            "Lora Oliver": {
+                "args": []
+            },
+            "Lily Tung Crystal": {
+                "args": []
+            },
+            "John Chovanec": {
+                "args": []
+            },
+            "Colm O'Riain": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Danny Boyle": {
+                "args": [
+                    [
+                        "5_by matching sorkin's words with boyle's style and fassbender's talent, steve jobs has hit the trifecta.",
+                        0.6779282576722104
+                    ],
+                    [
+                        "6_sorkin and his word-winging are the point here: the walk-and-talks and occasional flashbacks aside, director danny boyle has a highly structured backstage play on his hands, and it doesn't give him much room to move.",
+                        -0.5006668366559316
+                    ],
+                    [
+                        "21_what sorkin and boyle have to offer is not a warts-and-all portrait ",
+                        0.5038562974564317
+                    ],
+                    [
+                        "32_this is simultaneously sorkin's most satisfying movie script and boyle's most graceful work as a director.",
+                        0.7702925999553835
+                    ],
+                    [
+                        "33_the tension between boyle's restless energy and sorkin's tendency to run in place drives the movie.",
+                        0.5891596228849252
+                    ],
+                    [
+                        "46_, boyle pulls it off not by backing off the speechifying ",
+                        0.5031401160163497
+                    ],
+                    [
+                        "47_racing in high gear from start to finish, danny boyle's electric direction temperamentally complements sorkin's highly theatrical three-act study, which might one day be fascinating to experience in a staged setting.",
+                        0.7802878465507264
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_what raises steve jobs way above the level of most biopics is the totality of fassbender's immersion into the character.",
+                0.6948107965794288
+            ],
+            [
+                "12_as the title character, michael fassbender gets the sob part down just fine, ",
+                -0.5315882225098383
+            ],
+            [
+                "25_fassbender looks enough like jobs that it's not distracting, and he finds a voice for the character.",
+                0.5000794564784649
+            ]
+        ],
+        "entities": {
+            "Aaron Sorkin": {
+                "args": [
+                    [
+                        "5_by matching sorkin's words with boyle's style and fassbender's talent, steve jobs has hit the trifecta.",
+                        0.6779282576722104
+                    ],
+                    [
+                        "7_the full sorkin treatment has electrified a well-trod subject.",
+                        0.5514540542184284
+                    ],
+                    [
+                        "10_the acting is superb, no easy feat when trying to recite sorkin's words while walking down seemingly endless hallways.",
+                        -0.551787273682165
+                    ],
+                    [
+                        "18_he takes sorkin's script and pumps it with amphetamines.",
+                        0.5849689273958387
+                    ],
+                    [
+                        "21_what sorkin and boyle have to offer is not a warts-and-all portrait ",
+                        0.5038562974564317
+                    ],
+                    [
+                        "30_what's most difficult about sorkin's intricate fantasy is not acknowledging jobs' darkness, ",
+                        0.5311758589941616
+                    ],
+                    [
+                        "32_this is simultaneously sorkin's most satisfying movie script and boyle's most graceful work as a director.",
+                        0.7702925999553835
+                    ],
+                    [
+                        "33_the tension between boyle's restless energy and sorkin's tendency to run in place drives the movie.",
+                        0.5891596228849252
+                    ],
+                    [
+                        "38_the energy is relentless and the actors all more than meet the challenge of not only keeping up with sorkin's trademark, rat-a-tat patter ",
+                        0.5969122882444101
+                    ],
+                    [
+                        "43_aaron sorkin thinks different.",
+                        0.5257602206221401
+                    ],
+                    [
+                        "47_racing in high gear from start to finish, danny boyle's electric direction temperamentally complements sorkin's highly theatrical three-act study, which might one day be fascinating to experience in a staged setting.",
+                        0.7802878465507264
+                    ],
+                    [
+                        "49_screenwriter aaron sorkin, who's written about america's great flawed men with such fire and hyperarticulate pathos that he's threatened to become one himself, outdoes his work on the social network with an even sharper and more savage script.",
+                        0.768842606713068
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_as original and risk-taking as its subject, \"steve jobs\" will make you think differently about an american icon.",
+                0.8165384545453015
+            ],
+            [
+                "1_ the movie denies itself the opportunity for nuance and puts a ceiling on its own ambition.",
+                0.7296842758083015
+            ],
+            [
+                "11_like jobs' own legendary \"reality distortion field,\" his near-mystical ability to convince anyone of almost anything, the film lifts us past sheer realism to higher truth.",
+                0.6975762547191423
+            ],
+            [
+                "13_steve jobs the man was complicated - and often infuriating to family, friends and colleagues at apple inc., the computer company he co-founded.",
+                0.6251282632100204
+            ],
+            [
+                "13_steve jobs the film is also complicated -- and consistently thrilling.",
+                0.594548722414141
+            ],
+            [
+                "14_with such a tetchy, self-absorbed control freak at its center, it's difficult to explain just why \"steve jobs\" is as entertaining, even pleasurable, as it is.",
+                -0.5421014588101905
+            ],
+            [
+                "15_the movie, a formidable technical and design achievement, has everything going for it except a sense of jobs' inner life.",
+                0.5562348356544323
+            ],
+            [
+                "16_still, steve jobs doesn't dig much beyond the surface of the man in the title.",
+                -0.673587850489777
+            ],
+            [
+                "18_the proceedings on a slightly grainy stock that gives the movie just the hint of a documentary.",
+                0.5006670882279898
+            ],
+            [
+                "19_is \"steve jobs\" the final say on steve jobs?",
+                -0.627885922202956
+            ],
+            [
+                "20_steve jobs feels artificial and conceptualized when it should be building to a crescendo.",
+                -0.7241041751592113
+            ],
+            [
+                "23_the film feels so electric while you're watching, it's hard to believe that after two hours, it doesn't even get to the ipod, let alone the iphone.",
+                -0.7826899114447851
+            ],
+            [
+                "27_steve jobs is a fascinating study of a man, explaining who he was ",
+                0.6633303215105053
+            ],
+            [
+                "27_the movie lets audiences compute that for themselves.",
+                0.6446930176120633
+            ],
+            [
+                "29_in many ways the film reflects its hero's brilliance.",
+                0.7666428040497675
+            ],
+            [
+                "35_steve jobs and all of the characters around him fail to come to life in any absorbing fashion.",
+                0.7041588067163911
+            ],
+            [
+                "37_a smart, hugely entertaining film that all ",
+                0.812017810567045
+            ],
+            [
+                "41_steve jobs\" is robust and entertaining, ",
+                0.7157771533834358
+            ],
+            [
+                "42_as sharp and slick as steve jobs is, it ends up feeling more interested in entertainment than enlightenment.",
+                -0.5526751753852881
+            ]
+        ]
+    }
+}

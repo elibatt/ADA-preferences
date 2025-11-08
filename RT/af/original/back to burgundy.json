@@ -1,0 +1,104 @@
+{
+    "writer": {
+        "entities": {
+            "Santiago Amigorena": {
+                "args": []
+            },
+            "Cédric Klapisch": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Cédric Klapisch": {
+                "args": [
+                    [
+                        "3_for most of the movie, klapisch deftly choreographs the human drama.",
+                        0.7672264668654296
+                    ],
+                    [
+                        "7_mr. klapisch lingers his camera lovingly over shots of grapes being harvested and stomped, all the while employing story mechanics and flashbacks indelicate enough to suggest the churn of a factory juicer.",
+                        0.5208011322605323
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ not to a fault, \"back to burgundy\" is satisfying rather than earth-shaking.",
+                -0.6085663637111833
+            ],
+            [
+                "2_as far as winemaking is concerned, back to burgundy is rich in vistas of the fabled côtes",
+                0.6494133780612309
+            ],
+            [
+                "5_a film so rich and pleasurable you'd be forgiven if you ",
+                0.6632401269187365
+            ],
+            [
+                "6_when the film focuses on the wine-making process, in the progression from vine to bottle, it's a fascinating and detailed look at a very specific subculture.",
+                0.8596342000691133
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Yamée Couture": {
+                "args": []
+            },
+            "Jean-Marc Roulot": {
+                "args": []
+            },
+            "Tewfic Jallab": {
+                "args": []
+            },
+            "Ana Girardot": {
+                "args": []
+            },
+            "Eric Caravaca": {
+                "args": []
+            },
+            "François Civil": {
+                "args": []
+            },
+            "Pio Marmaï": {
+                "args": []
+            },
+            "María Valverde": {
+                "args": []
+            },
+            "Florence Pernel": {
+                "args": []
+            },
+            "Jean-Marie Winling": {
+                "args": []
+            },
+            "Karidja Touré": {
+                "args": []
+            },
+            "Cédric Klapisch": {
+                "args": [
+                    [
+                        "3_for most of the movie, klapisch deftly choreographs the human drama.",
+                        0.7672264668654296
+                    ],
+                    [
+                        "7_mr. klapisch lingers his camera lovingly over shots of grapes being harvested and stomped, all the while employing story mechanics and flashbacks indelicate enough to suggest the churn of a factory juicer.",
+                        0.5208011322605323
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

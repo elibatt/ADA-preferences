@@ -1,0 +1,89 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andy Bichlbaum": {
+                "args": []
+            },
+            "Mike Bonanno": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_who said that a political film can't be sweet, too?",
+                -0.522095351704156
+            ],
+            [
+                "5_laughing at the apocalypse is hard work.",
+                -0.5146277364106807
+            ],
+            [
+                "6_a film that sometimes feels shapeless and self-involved ",
+                -0.5198515187916448
+            ],
+            [
+                "10_as it progresses, watching mike raise children, move off to scotland, and grow less involved in planning satirical performance art, the film presupposes a bit more interest in the pair's friendship and personal lives than many viewers will have.",
+                0.7564193818724323
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "10_as it progresses, watching mike raise children, move off to scotland, and grow less involved in planning satirical performance art, the film presupposes a bit more interest in the pair's friendship and personal lives than many viewers will have.",
+                0.7564193818724323
+            ]
+        ],
+        "entities": {
+            "Andy Bichlbaum": {
+                "args": []
+            },
+            "Gitz 'Crazyboy' Deranger": {
+                "args": []
+            },
+            "Mike Bonanno": {
+                "args": []
+            },
+            "Chandia Kodili": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andy Bichlbaum": {
+                "args": []
+            },
+            "Mike Bonanno": {
+                "args": []
+            },
+            "Laura Nix": {
+                "args": []
+            },
+            "The Yes Men": {
+                "args": [
+                    [
+                        "3_in its grandest triumph, \"the yes men are revolting\" is an activist doc inspired by more than just its topical issues.",
+                        0.6333500416739308
+                    ],
+                    [
+                        "6_ in its best moments tries to engage the yes men's fans in a new and more reflective mode.",
+                        0.7136089907694118
+                    ],
+                    [
+                        "7_the yes men are revolting becomes the rare film to tackle how exhausting and dispiriting activism can be, no matter how fervently one believes in the causes one supports.",
+                        0.5088779614362139
+                    ]
+                ]
+            }
+        }
+    }
+}

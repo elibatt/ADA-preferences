@@ -1,0 +1,68 @@
+{
+    "acting": {
+        "entities": {
+            "Anuradha Chandan": {
+                "args": []
+            },
+            "Alia Bhatt": {
+                "args": []
+            },
+            "Ratna Pathak": {
+                "args": []
+            },
+            "Rajat Kapoor": {
+                "args": []
+            },
+            "Vikram Kapadia": {
+                "args": []
+            },
+            "Anahita Oberoi": {
+                "args": []
+            },
+            "Sanjay Dutt": {
+                "args": []
+            },
+            "Fawad Khan": {
+                "args": []
+            },
+            "Sidharth Malhotra": {
+                "args": []
+            },
+            "Rishi Kapoor": {
+                "args": [
+                    [
+                        "0_ \"kapoor & sons\" goes from lightly comic to more darkly dramatic to pretty overtly melodramatic, it never loses its lived-in quality or plunges into the absurd.",
+                        -0.5839634781422467
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Shakun Batra": {
+                "args": []
+            },
+            "Ayesha Devitre Dhillon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Shakun Batra": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

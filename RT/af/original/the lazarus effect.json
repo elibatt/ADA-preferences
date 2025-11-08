@@ -1,0 +1,141 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_given the low-budget film's bottle-episode feel, horror fans could've gotten extra mileage out of a disorienting and original psychological treatment.",
+                -0.5243225952325067
+            ],
+            [
+                "4_death may not be the end in the lazarus effect, ",
+                0.5504578229824164
+            ],
+            [
+                "5_\"the lazarus effect\" boasts nothing special.",
+                -0.5958259782587891
+            ],
+            [
+                "6_\"the lazarus effect\" is nothing ",
+                -0.5721453215665293
+            ],
+            [
+                "6_ a cheap horror film cloaked in scientific mumbo-jumbo.",
+                -0.5417040566778712
+            ],
+            [
+                "8_this isn't a real horror movie-this is the kind of horror movie that the characters in a real horror movie watch in order to comment on the lameness of the genre before their authentic terrors begin.",
+                -0.591206349753993
+            ],
+            [
+                "11_the lazarus effect begins with an intriguing premise then proceeds to squander all the early goodwill through a slow, inexorable descent into cheap horror gimmicks.",
+                0.5345523176114584
+            ],
+            [
+                "13_while the lazarus effect isn't the worst scary movie film you'll see this year, it is probably one of the most predictable and lazily plotted.",
+                -0.831144717148883
+            ],
+            [
+                "20_the film intends to explore the nature and mystery of death, ",
+                0.6265647450924507
+            ],
+            [
+                "23_this is an 83-minute movie that feels a half hour longer and, if it weren't for the loud crescendos, it would put people to sleep.",
+                -0.8066967611607311
+            ],
+            [
+                "26_the lazarus effect doesn't exactly break new ground, ",
+                -0.627131985119914
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David Gelb": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Scott L. Treger": {
+                "args": []
+            },
+            "Donald Glover": {
+                "args": []
+            },
+            "Ray Wise": {
+                "args": []
+            },
+            "Emily Kelavos": {
+                "args": []
+            },
+            "Scott Sheldon": {
+                "args": []
+            },
+            "Evan Peters": {
+                "args": []
+            },
+            "Amy Aquino": {
+                "args": []
+            },
+            "Ator Tamras": {
+                "args": []
+            },
+            "Sarah Bolger": {
+                "args": []
+            },
+            "James Earl": {
+                "args": []
+            },
+            "Liisa Cohen": {
+                "args": []
+            },
+            "Bruno Gunn": {
+                "args": []
+            },
+            "Sean T. Krishnan": {
+                "args": []
+            },
+            "Olivia Wilde": {
+                "args": []
+            },
+            "Mark Duplass": {
+                "args": [
+                    [
+                        "25_mark duplass and olivia wilde struggle to breathe life into a recycled thriller about the horrors of reanimation.",
+                        0.6385287926675239
+                    ],
+                    [
+                        "27_the film squanders whatever potential it had, not to mention the talents of such performers as duplass and wilde who clearly deserve better.",
+                        -0.6255651351181302
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_a grimy, dopey, confused thriller that wastes a very likable cast.",
+                -0.5958207657667587
+            ],
+            [
+                "22_absorbing, well-crafted and appropriately tense, with a smart cast that raises it a notch above average.",
+                0.8274343376925115
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Luke Dawson": {
+                "args": []
+            },
+            "Jeremy Slater": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

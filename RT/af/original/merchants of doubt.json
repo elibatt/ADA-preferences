@@ -1,0 +1,139 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_a movie about manufactured consensus would be a vital public service.",
+                -0.6623110202767586
+            ],
+            [
+                "0_ \"merchants of doubt\" isn't quite that movie.",
+                -0.7317270355776678
+            ],
+            [
+                "2_ the movie itself is not agenda-free.",
+                -0.729161685422599
+            ],
+            [
+                "3_you leave \"merchants of doubt,\" as you do any good muckraking documentary, both fascinated and enraged ...",
+                0.6181035600992207
+            ],
+            [
+                "4_merchants of doubt shouldn't be a hard sell.",
+                -0.7475083015481809
+            ],
+            [
+                "6_his film demonstrates that professional cons are much, much bigger.",
+                0.5968701456140887
+            ],
+            [
+                "7_when \"merchants of doubt\" isn't making you mad, it makes you very simply, and overwhelmingly, sad.",
+                -0.6707886343820635
+            ],
+            [
+                "9_to quote one damning corporate memo seen in the film: \"doubt is our product.\"",
+                0.5881115635964772
+            ],
+            [
+                "11_what merchants of doubt makes clearest is that these issues shouldn't be political.",
+                0.5178973480604042
+            ],
+            [
+                "21_there are times when it feels as if the film's selected anecdotes are only scratching the surface of a greater evil, ",
+                -0.5039921369122091
+            ],
+            [
+                "25_this is a movie so intrigued by its designated villains that it almost conveys a perverse form of admiration, and the fascination proves contagious.",
+                0.5840434530345422
+            ],
+            [
+                "26_by the film's own implicit admission, those who most need to see 'merchants of doubt' are also the least likely to be swayed by its argument.",
+                0.6433962667060619
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stanton Glantz": {
+                "args": []
+            },
+            "Fred Singer": {
+                "args": []
+            },
+            "Matthew Crawford": {
+                "args": []
+            },
+            "Sam Roe": {
+                "args": []
+            },
+            "Michael Shermer": {
+                "args": []
+            },
+            "Naomi Oreskes": {
+                "args": []
+            },
+            "James Taylor": {
+                "args": []
+            },
+            "Katherine Heyhoe": {
+                "args": []
+            },
+            "Bob Inglis": {
+                "args": []
+            },
+            "Sam Roemer": {
+                "args": []
+            },
+            "Patricia Callahan": {
+                "args": []
+            },
+            "James Hansen": {
+                "args": []
+            },
+            "Tim Phillips": {
+                "args": []
+            },
+            "Marc Morano": {
+                "args": []
+            },
+            "John Passacantando": {
+                "args": []
+            },
+            "Jamy Ian Swiss": {
+                "args": []
+            },
+            "William O'Keefe": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Robert Kenner": {
+                "args": [
+                    [
+                        "17_in this glossy informational mode of filmmaking, organization is everything, and director robert kenner (food, inc.) isn't much of a storyteller.",
+                        -0.5869714728593501
+                    ],
+                    [
+                        "20_the slickness of kenner's presentation ironically distracts from the meat of his exposé.",
+                        -0.5099209920383603
+                    ],
+                    [
+                        "22_ kenner's telling of the stories proves independently dramatic ...",
+                        0.6559875126692271
+                    ]
+                ]
+            }
+        }
+    }
+}

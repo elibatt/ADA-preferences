@@ -1,0 +1,473 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_suburbicon gives away the game on its mystery a bit too soon, ",
+                -0.5174542845835446
+            ],
+            [
+                "6_suburbicon goes immediately to the front of the line of contenders for the most disappointing film of 2017.",
+                -0.7010096546370264
+            ],
+            [
+                "7_ he could have made a great one -- if he'd been willing to settle for one movie.",
+                0.6152517822980936
+            ],
+            [
+                "9_\"suburbicon\" wants to say something about us, today, ",
+                -0.5774019890135516
+            ],
+            [
+                "12_i'm inclined to give suburbicon a mild thumbs up.",
+                0.554857954222129
+            ],
+            [
+                "13_suburbicon might be the biggest embarrassment to pious hollywood liberalism since crash won best picture in 2006.",
+                -0.6093765249860288
+            ],
+            [
+                "18_it's strikingly bad, too somber to be a comedy and too dizzy to work as drama.",
+                -0.8177712009202547
+            ],
+            [
+                "19_if you're merely out for a good time at the movies, you can safely skip \"suburbicon.\"",
+                0.8523167385663815
+            ],
+            [
+                "20_the movie does get some fun gory mileage out of its cracked-pleasantville premise",
+                0.5611480165609497
+            ],
+            [
+                "21_as the film unfolds, things increasingly become further and further unbelievable, and lead to moments of would-be horror that instead made me laugh out loud, thanks to the incredulity of the situation at hand.",
+                0.6449616654846351
+            ],
+            [
+                "23_the pleasures of \"suburbicon\" are in the moment, and the moments fade before the next moment.",
+                0.6780707613850253
+            ],
+            [
+                "24_what's the point of \"suburbicon\"?",
+                -0.5124718477309831
+            ],
+            [
+                "25_in filtering a ripped-from-the-headlines story through the prism of satire, \"suburbicon\" winds up squandering much of its power.",
+                -0.6696408253969468
+            ],
+            [
+                "25_for all that the movie borrows from history, it conveys little in the way of truth.",
+                0.6123340637434321
+            ],
+            [
+                "30_suburbicon is so inoffensive in its competently mounted quirk that you won't mourn the film that might have been.",
+                -0.7504385724719058
+            ],
+            [
+                "31_i frankly don't know why suburbicon happened.",
+                -0.7945903512002612
+            ],
+            [
+                "32_\"suburbicon\" is a surprisingly tone-deaf combination of two wildly different stories that simply don't work in concert.",
+                -0.5694548767018391
+            ],
+            [
+                "35_an undeniably entertaining watch, \"suburbicon\" stumbles when it tries to recycle effective old ingredients into something new.",
+                0.5405073453132769
+            ],
+            [
+                "39_a lightly sneaky and entertaining movie.",
+                0.7391973975096456
+            ],
+            [
+                "40_a garish and overblown crime melodrama that combines clumsy noir with lame jabs at 1950s suburban conformity and racism, two subjects whose satirical sell-by date are now decades past.",
+                0.5936286236991031
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "George Clooney": {
+                "args": [
+                    [
+                        "2_it's a high-wire storytelling act that's difficult to imagine any director executing appropriately, and clooney doesn't come remotely close to nailing it.",
+                        -0.790452399590077
+                    ],
+                    [
+                        "4_only occasionally does an image strike a lyrical blow and yield the creepy effect that clooney is aiming for ...",
+                        0.6934409309249134
+                    ],
+                    [
+                        "7_really, all in all, clooney's made a good movie.",
+                        0.7346661077310948
+                    ],
+                    [
+                        "19_ true film buffs will want to peek behind the blinds of clooney's latest directorial endeavor.",
+                        0.7606740331753221
+                    ],
+                    [
+                        "33_ clooney had somehow digitally inserted an earnest social-issues drama into a zany mishap noir.",
+                        0.6167974482810787
+                    ],
+                    [
+                        "34_whatever stabs at dark comedy, social satire and noir-esque murder mystery the coens may have once been mulling with suburbicon are only superficial wounds in [george] clooney's hands.",
+                        0.5564150401521044
+                    ],
+                    [
+                        "37_there's a lot of entertainment value in the movie's bits, because clooney is not only an excellent director of actors, he's got a great eye for shots and a good head for individual scenes.",
+                        0.7955116227703232
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jack Conley": {
+                "args": []
+            },
+            "Robert Pierce": {
+                "args": []
+            },
+            "Tomas Johansson": {
+                "args": []
+            },
+            "Andrew Boyle": {
+                "args": []
+            },
+            "Brey Chanadet": {
+                "args": []
+            },
+            "Becca Beton": {
+                "args": []
+            },
+            "Nichole Eberle": {
+                "args": []
+            },
+            "Paul Black": {
+                "args": [
+                    [
+                        "0_the black characters are barely characters at all, and the murder mystery is a hollywood hand-me-down.",
+                        -0.7925172148616934
+                    ],
+                    [
+                        "11_suburbicon is not only unfunny, a bad sign for a black comedy, ",
+                        -0.8792699903577589
+                    ],
+                    [
+                        "31_i do know that pulpy black comedy combined with a straight-ahead story of racism translates into sanctimonious pulp.",
+                        0.7003971520863438
+                    ]
+                ]
+            },
+            "Emmie Ray": {
+                "args": []
+            },
+            "Gary Basaraba": {
+                "args": []
+            },
+            "Karimah Westbrook": {
+                "args": []
+            },
+            "Frank Ferruccio": {
+                "args": []
+            },
+            "Riley Warmoth": {
+                "args": []
+            },
+            "Ellen Crawford": {
+                "args": []
+            },
+            "Noah Jupe": {
+                "args": []
+            },
+            "Jule Johnson": {
+                "args": []
+            },
+            "Megan Ferguson": {
+                "args": []
+            },
+            "Michael D. Cohen": {
+                "args": []
+            },
+            "Jessee Foudray": {
+                "args": []
+            },
+            "Pamela Dunlap": {
+                "args": []
+            },
+            "Benjamin Franczuszki": {
+                "args": []
+            },
+            "Paul Pikus": {
+                "args": []
+            },
+            "Cooper Harman": {
+                "args": []
+            },
+            "Mark Leslie Ford": {
+                "args": []
+            },
+            "Glenn Fleshler": {
+                "args": []
+            },
+            "Andrew Sykes": {
+                "args": []
+            },
+            "Katie Michels": {
+                "args": []
+            },
+            "Sean Ormond": {
+                "args": []
+            },
+            "Leith M. Burke": {
+                "args": []
+            },
+            "Douglas Rouillard": {
+                "args": []
+            },
+            "Corey Allen Kotler": {
+                "args": []
+            },
+            "Logan Swearingen": {
+                "args": []
+            },
+            "Marah Fairclough": {
+                "args": []
+            },
+            "Emily Merlin": {
+                "args": []
+            },
+            "Jamie Love": {
+                "args": []
+            },
+            "Josh Meyer": {
+                "args": []
+            },
+            "Matt Damon": {
+                "args": []
+            },
+            "Jack Fisher": {
+                "args": []
+            },
+            "Eric Hinwood": {
+                "args": []
+            },
+            "Paul Riley Fox": {
+                "args": []
+            },
+            "Jeffrey Scott Basham": {
+                "args": []
+            },
+            "Tim Hooper": {
+                "args": []
+            },
+            "Dean England": {
+                "args": []
+            },
+            "Sonia Gascon": {
+                "args": []
+            },
+            "Alessandro Delpiano": {
+                "args": []
+            },
+            "Andrew Stiko": {
+                "args": []
+            },
+            "Nathan D. Snyder": {
+                "args": []
+            },
+            "Landon Gordon": {
+                "args": []
+            },
+            "Alex Hassell": {
+                "args": []
+            },
+            "Tony Espinosa": {
+                "args": []
+            },
+            "Kristi Lynn Grace": {
+                "args": []
+            },
+            "Steven M. Porter": {
+                "args": []
+            },
+            "Julianne Moore": {
+                "args": []
+            },
+            "Steve Shaw": {
+                "args": []
+            },
+            "Josh Opper": {
+                "args": []
+            },
+            "Taylor Ragan": {
+                "args": []
+            },
+            "Megan Moran": {
+                "args": []
+            },
+            "Nancy Daly": {
+                "args": []
+            },
+            "Hope Banks": {
+                "args": []
+            },
+            "Brady Allen": {
+                "args": []
+            },
+            "Lauren Burns": {
+                "args": []
+            },
+            "Joseph Sanfelippo": {
+                "args": []
+            },
+            "Dash Williams": {
+                "args": []
+            },
+            "Inbal Amirav": {
+                "args": []
+            },
+            "Nick Bishop": {
+                "args": []
+            },
+            "Shannen Elise Wilson": {
+                "args": []
+            },
+            "Weston Mueller": {
+                "args": []
+            },
+            "Steve Monroe": {
+                "args": []
+            },
+            "Carter Hastings": {
+                "args": []
+            },
+            "Erik Aude": {
+                "args": []
+            },
+            "Jonathan Matthew Wilson": {
+                "args": []
+            },
+            "Ethan Crenshaw": {
+                "args": []
+            },
+            "Emily Goss": {
+                "args": []
+            },
+            "Don Michael Perez": {
+                "args": []
+            },
+            "Lauren Mendoza": {
+                "args": []
+            },
+            "Max Hoffmann": {
+                "args": []
+            },
+            "Laura Kranz": {
+                "args": []
+            },
+            "Matthew Broadley": {
+                "args": []
+            },
+            "Jack Buckley": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": [
+                    [
+                        "15_by the time oscar isaac swoops in with a fedora and a wolfish grin, the movie has become a bludgeoning pastiche.",
+                        0.6700968349806629
+                    ]
+                ]
+            },
+            "Dana Rosendorff": {
+                "args": []
+            },
+            "Valeriya Matveeva": {
+                "args": []
+            },
+            "Tim Beaufoy": {
+                "args": []
+            },
+            "Mikey Effie": {
+                "args": []
+            },
+            "Slim Khezri": {
+                "args": []
+            },
+            "Tim Neff": {
+                "args": []
+            },
+            "Jon Eiswerth": {
+                "args": []
+            },
+            "Matt Laydon": {
+                "args": []
+            },
+            "Jean Nasser": {
+                "args": []
+            },
+            "Don Baldaramos": {
+                "args": []
+            },
+            "Samuel Marcus": {
+                "args": []
+            },
+            "Diane Dehn": {
+                "args": []
+            },
+            "Stephen Brown": {
+                "args": []
+            },
+            "Brian Gilbert": {
+                "args": []
+            },
+            "Brett Newton": {
+                "args": []
+            },
+            "Laura Penn": {
+                "args": []
+            },
+            "George Todd McLachlan": {
+                "args": []
+            },
+            "Jade Willey": {
+                "args": []
+            },
+            "Alexandra Goodman": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ethan Coen": {
+                "args": [
+                    [
+                        "5_ this alternately comic and deadly earnest satire of the dark underbelly of 1950s suburbia -the coen brothers had a hand in the script-is a movie that feels tonally at war with itself.",
+                        0.5010558308540243
+                    ],
+                    [
+                        "28_in the grand scheme of coen brothers' scripts with nimwits making hugely bad decisions, fargo exists on one brilliant end while suburbicon lands with a hearty thud somewhere on the other side.",
+                        0.5444630511765005
+                    ]
+                ]
+            },
+            "Grant Heslov": {
+                "args": []
+            },
+            "Joel Coen": {
+                "args": []
+            },
+            "George Clooney": {
+                "args": []
+            }
+        }
+    }
+}

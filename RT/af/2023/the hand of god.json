@@ -1,0 +1,129 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "2_the film has the vividness of memory, ",
+                0.6366419021180194
+            ],
+            [
+                "0_the hand of godis filled with the kind of detail that could only have come from observation-and memory.",
+                0.7175981148806215
+            ],
+            [
+                "1_this is a deeply affecting coming-of-age story that doubles as a movie about the movies themselves.",
+                0.7547181755451204
+            ],
+            [
+                "3_the hand of god  remains a more intimate, scaled-down picture than most of the filmmaker's oeuvre - while simultaneously elevating it to one of his best.",
+                0.7411164663997319
+            ],
+            [
+                "4_when the film takes a shift... and it becomes more of a standard coming of age film, it gets a lot duller.",
+                0.6420896926372184
+            ],
+            [
+                "5_the hand of god is a lovely film, occasionally oddball in the best way, and astute in the way it handles tragedy and loss.",
+                0.9084682446476533
+            ],
+            [
+                "10_it's a beautiful tautology: a true-to-life movie about a life made for movies.",
+                0.9008283553520551
+            ],
+            [
+                "13_it's a personal, aching, and romantic film that's swimming in the complicated trials of youth.",
+                0.6516991540441572
+            ],
+            [
+                "15_e to the city of rome, the film is bawdy and wistful, with a rich vein of melancholy running through it.",
+                0.7238935142142641
+            ],
+            [
+                "17_sure, the gaudy pyrotechnics of the early part of the film are fun, ",
+                0.690399311132397
+            ],
+            [
+                "6",
+                1
+            ],
+            [
+                "12",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "6_paolo sorrentino has made more luscious films, ",
+                0.6091820458377895
+            ],
+            [
+                "12_ the crucial role that beauty plays in saving our broken lives, that sorrentino captures in his captivating film.",
+                0.7809813301934246
+            ],
+            [
+                "13_the hand of god is as beautiful as youth, the great beauty, or any one of sorrentino's earlier films.",
+                0.8158892539611844
+            ]
+        ],
+        "entities": {
+            "Paolo Sorrentino": {
+                "unique_args": [
+                    [
+                        "6_paolo sorrentino has made more luscious films, ",
+                        0.6091820458377895
+                    ],
+                    [
+                        "12_ the crucial role that beauty plays in saving our broken lives, that sorrentino captures in his captivating film.",
+                        0.7809813301934246
+                    ],
+                    [
+                        "13_the hand of god is as beautiful as youth, the great beauty, or any one of sorrentino's earlier films.",
+                        0.8158892539611844
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Paolo Sorrentino": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Filippo Scotti": {
+                "unique_args": []
+            },
+            "Toni Servillo": {
+                "unique_args": []
+            },
+            "Teresa Saponangelo": {
+                "unique_args": []
+            },
+            "Marlon Joubert": {
+                "unique_args": []
+            },
+            "Luisa Ranieri": {
+                "unique_args": []
+            },
+            "Renato Carpentieri": {
+                "unique_args": []
+            },
+            "Massimiliano Gallo": {
+                "unique_args": []
+            },
+            "Betty Pedrazzi": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

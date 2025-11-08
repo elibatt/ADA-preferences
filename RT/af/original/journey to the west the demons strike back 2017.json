@@ -1,0 +1,92 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Hark Tsui": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Mengke Bateer": {
+                "args": []
+            },
+            "Wang Duo": {
+                "args": []
+            },
+            "Lin Gengxin": {
+                "args": []
+            },
+            "Yang Yiwei": {
+                "args": []
+            },
+            "Duo Wang": {
+                "args": []
+            },
+            "Lin Yun": {
+                "args": []
+            },
+            "Claudia Wang": {
+                "args": []
+            },
+            "Yun Lin": {
+                "args": []
+            },
+            "Bao Bei Er": {
+                "args": []
+            },
+            "Jelly Lin": {
+                "args": []
+            },
+            "Kris Wu": {
+                "args": []
+            },
+            "Da Peng": {
+                "args": []
+            },
+            "Yao Chen": {
+                "args": []
+            },
+            "Wang Chao": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Stephen Chow": {
+                "args": [
+                    [
+                        "0_if anything, demons strike back is an even zanier and more kid-friendly affair than the chow original.",
+                        0.5839756491467627
+                    ],
+                    [
+                        "0_yet without chow's unique strain of silliness, it also feels louder and more antic while covering less ground.",
+                        0.569628728325055
+                    ]
+                ]
+            },
+            "Lee Si Zhen Kelvin": {
+                "args": []
+            },
+            "Hark Tsui": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_a rare character-driven big-budget action-adventure - the kind of thing americans might love if they knew it existed.",
+                0.7489041599533213
+            ]
+        ]
+    }
+}

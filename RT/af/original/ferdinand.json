@@ -1,0 +1,143 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Carlos Saldanha": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kate McKinnon": {
+                "args": []
+            },
+            "Karla Martínez (III)": {
+                "args": []
+            },
+            "Flula Borg": {
+                "args": []
+            },
+            "Jerrod Carmichael": {
+                "args": []
+            },
+            "Boris Kodjoe": {
+                "args": []
+            },
+            "David Tennant": {
+                "args": []
+            },
+            "Raul Esparza": {
+                "args": []
+            },
+            "Gabriel Iglesias": {
+                "args": []
+            },
+            "Daveed Diggs": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "John Cena": {
+                "args": [
+                    [
+                        "0_with a lovely voice performance from cena, the spirit of ferdinand does shine through.",
+                        0.8360655074437979
+                    ],
+                    [
+                        "5_in the title role, wrestler-turned-actor john cena gives ferdinand just the right balance of sweetness and strength.",
+                        0.7534415342860287
+                    ]
+                ]
+            },
+            "Sally Phillips": {
+                "args": []
+            },
+            "Anthony Anderson": {
+                "args": []
+            },
+            "Gina Rodriguez": {
+                "args": []
+            },
+            "Miguel Ángel Silvestre": {
+                "args": []
+            },
+            "Peyton Manning": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_ ferdinand... manages to squeak by with enough charming set-pieces and amusing sight gags to compensate for a stalling storyline.",
+                0.6549710955661519
+            ]
+        ],
+        "entities": {
+            "Brad Copeland": {
+                "args": []
+            },
+            "Tim Federle": {
+                "args": []
+            },
+            "Robert L. Baird": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ferdinand is not going to be the next frozen or lion king or even the fourth or fifth ice age movie, ",
+                -0.7379280733781302
+            ],
+            [
+                "2_the lurching rhythms of ferdinand make a clean story feel ungainly and episodic ...",
+                -0.5097811309879691
+            ],
+            [
+                "4_the movie is bright and peppy enough to hold young viewers' attention, ",
+                0.6035233873071127
+            ],
+            [
+                "6_ferdinand buries the original story's message under frenetic action scenes and grating sidekicks, turning a classic tale into just another flat animated comedy.",
+                0.5360522235271861
+            ],
+            [
+                "7_the good news is that while the movie is susceptible to some pandering, it also takes the story's charming core elements and gives them a contemporary luster.",
+                0.8039069266811701
+            ],
+            [
+                "8_ ferdinand does hit the sweet spot as far as its target audience is concerned.",
+                0.584255654680031
+            ],
+            [
+                "10_ferdinand does not back down to his bullies and stands firm in his beliefs.",
+                -0.5863400894219705
+            ],
+            [
+                "11_still, for all its problems, this is a film with world-class animation, revealing everything from astonishingly rich crowd scenes to rusty details on an old pail.",
+                0.8177759650043454
+            ],
+            [
+                "12_most important, \"ferdinand's\" anti-bullying message is an important lesson kids of all ages need to see - again, and again.",
+                0.7293258126982367
+            ],
+            [
+                "13_t jokes, car chase and tween pop songs, the film does keep both the physical and the verbal comedy coming at a steady pace.",
+                0.7291222453656694
+            ],
+            [
+                "15_ ferdinand... manages to squeak by with enough charming set-pieces and amusing sight gags to compensate for a stalling storyline.",
+                0.6549710955661519
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

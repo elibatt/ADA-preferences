@@ -1,0 +1,136 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ryan Simpkins": {
+                "args": []
+            },
+            "Greg Kinnear": {
+                "args": []
+            },
+            "Michaela Watkins": {
+                "args": []
+            },
+            "Andy Samberg": {
+                "args": []
+            },
+            "Jorge Lendeborg Jr.": {
+                "args": []
+            },
+            "Matt Walsh": {
+                "args": []
+            },
+            "Beck Bennett": {
+                "args": []
+            },
+            "Kate Lyn Sheil": {
+                "args": []
+            },
+            "Claire Danes": {
+                "args": [
+                    [
+                        "4_despite its lofty aim and a cast including greg kinnear, claire danes and mark hamill,",
+                        0.6733027198847678
+                    ]
+                ]
+            },
+            "Mark Hamill": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"brigsby bear\" is a funny, oddly touching look at the pros and cons of millennials' tendency to obsess over pop culture.",
+                0.8066315435688622
+            ],
+            [
+                "2_\"brigsby bear\" is the kind of movie kyle mooney would make fun of on \"saturday night live.\"",
+                -0.6295229369310417
+            ],
+            [
+                "3_a movie about storytelling that succeeds by keeping its focus on the storyteller.",
+                0.6518120638572247
+            ],
+            [
+                "4_ sugary-sweet \"brigsby bear\" feels as if it was made by and for well-meaning lightweights.",
+                -0.5935978047884958
+            ],
+            [
+                "6_\"brigsby bear\" is charming, sweet, creative, different and disturbing.",
+                0.7705443272479934
+            ],
+            [
+                "7_brigsby bear can be accused of a lot of things, ",
+                -0.6945128152431016
+            ],
+            [
+                "8_what a strange and lovely road we travel with brigsby bear.",
+                0.7037822855047329
+            ],
+            [
+                "12_brigsby bear is really just a story about how people relate to the entertainment that helped raised them-and how simultaneously pure and destructive that relationship can be.",
+                0.5411433483545987
+            ],
+            [
+                "14_mooney is the main reason to see brigsby bear, the sort of indie dramedy that wears its on-the-spectrum quirk on its sleeve.",
+                -0.5091734509540208
+            ],
+            [
+                "15_it often feels as if brigsby bear has such an 'unusual' concept that the creators were then scared to lean into it, making everything about its delivery feel like it's designed to soften the sharp edges and lighten its darker tones.",
+                -0.6273273708157686
+            ],
+            [
+                "16_the film does have jokes, ",
+                -0.5145664354744941
+            ],
+            [
+                "18_ [the] movie may be, it all coheres beautifully, and with a sweetness that never feels faked.",
+                0.7432123699866293
+            ],
+            [
+                "21_brigsby bear offers a glimpse on what makes mooney and his man-child persona work.",
+                0.6934536217731129
+            ],
+            [
+                "23_brigsby bear will inevitably be sold as an oh-so-random stoner cult movie, ",
+                -0.6057386650769425
+            ],
+            [
+                "24_spunky yet maudlin, grim yet heartwarming, the movie ... is mainly a batch of hollow gestures.",
+                -0.6360654190757538
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dave McCary": {
+                "args": [
+                    [
+                        "23_ what mooney and mccary are getting at, with this nothing-if-not-original story of how mythologies shape us, is something uncomfortably real and of the moment.",
+                        0.6113246054490802
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kevin Costello": {
+                "args": [
+                    [
+                        "22_mccary, mooney and costello are friends who like weird stuff, who made a movie about weird stuff, within which is the making of a movie about weird stuff, and how it can bring people together.",
+                        0.5808172229072446
+                    ]
+                ]
+            }
+        }
+    }
+}

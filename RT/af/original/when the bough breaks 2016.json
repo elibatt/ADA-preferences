@@ -1,0 +1,124 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jack Olsen": {
+                "args": [
+                    [
+                        "2_writer jack olsen's glossy script goes light on logic, credibility and mining some of the story's deeper ramifications, as it works its way toward the inevitable, largely predictable final showdown.",
+                        0.6445188733008239
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_when the bough breaks,\" about a surrogate pregnancy gone horribly wrong, has a definitive answer: no, it isn't.",
+                -0.8408105843733763
+            ],
+            [
+                "4_when the bough breaks, there is nothing good in its place.",
+                0.5087692019223639
+            ],
+            [
+                "5_\"when the bough breaks\" comes across as a lifetime cable movie that got lucky and won a lottery offering theatrical release as first prize.",
+                -0.5721638461080428
+            ],
+            [
+                "6_a very conservative film that ducks any issues that might be dramatically interesting in order to work up lame suspense sequences.",
+                -0.6899286760521193
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tom Nowicki": {
+                "args": []
+            },
+            "John Folse": {
+                "args": []
+            },
+            "Jonathan Arthur": {
+                "args": []
+            },
+            "Regina Hall": {
+                "args": []
+            },
+            "Theo Rossi": {
+                "args": []
+            },
+            "Brett Baker": {
+                "args": []
+            },
+            "Greg Rementer": {
+                "args": []
+            },
+            "Matt Mitchell": {
+                "args": []
+            },
+            "Jaz Sinclair": {
+                "args": []
+            },
+            "GiGi Erneta": {
+                "args": []
+            },
+            "John Boutte": {
+                "args": []
+            },
+            "Maurice Johnson": {
+                "args": []
+            },
+            "Janee Michelle": {
+                "args": []
+            },
+            "Chef John Folse": {
+                "args": []
+            },
+            "Ted Ferguson": {
+                "args": []
+            },
+            "Morris Chestnut": {
+                "args": []
+            },
+            "Carrie Lazar": {
+                "args": []
+            },
+            "Glenn Morshower": {
+                "args": []
+            },
+            "Edwin Compass": {
+                "args": []
+            },
+            "Steve Terada": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "Denise Gossett": {
+                "args": []
+            },
+            "Ariadne Joseph": {
+                "args": []
+            },
+            "Romany Malco": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jon Cassar": {
+                "args": []
+            }
+        }
+    }
+}

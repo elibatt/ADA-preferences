@@ -1,0 +1,157 @@
+{
+    "acting": {
+        "args": [
+            [
+                "1_ grounded performances from the whole cast.",
+                0.6396263989620845
+            ],
+            [
+                "2_however hard the talented cast may try,",
+                0.5317275845988115
+            ]
+        ],
+        "entities": {
+            "Geraldine Hughes": {
+                "args": []
+            },
+            "Sarah Silverman": {
+                "args": []
+            },
+            "Maxwell Simkins": {
+                "args": []
+            },
+            "Jacob Tremblay": {
+                "args": []
+            },
+            "Maddie Ziegler": {
+                "args": []
+            },
+            "Lee Pace": {
+                "args": []
+            },
+            "Jaeden Lieberher": {
+                "args": []
+            },
+            "Bobby Moynihan": {
+                "args": []
+            },
+            "Wass Stevens": {
+                "args": []
+            },
+            "Dean Norris": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": []
+            },
+            "Marjan Neshat": {
+                "args": []
+            },
+            "Jackson Nicoll": {
+                "args": []
+            },
+            "Tonya Pinkins": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "10_ it's fascinating to watch the movie go there.",
+                0.7595028043833018
+            ],
+            [
+                "12_a weepie, a thriller, a tragedy, a sub-spielbergian pastiche, \"the book of henry\" is mostly a tedious mess.",
+                -0.6134400686247476
+            ],
+            [
+                "15_in the end, \"the book of henry\" falls apart in a heap of loose pages, each one taken from a different script.",
+                0.5460288179392031
+            ],
+            [
+                "16_a movie i found irresistible precisely because it is so confounding.",
+                0.5648505165417902
+            ],
+            [
+                "17_it does not suffice to call the book of henry bad",
+                -0.6586044112706075
+            ],
+            [
+                "17_ it's nonfunctional, so poorly conceived from the ground up as to slip out of the grasp of the usual standards one applies to narrative film.",
+                -0.5738112323341961
+            ],
+            [
+                "18_sometimes a movie comes along to remind us that hollywood hasn't run out of ideas - even if they're crass, baffling, and ludicrous ones.",
+                -0.8059313379183839
+            ],
+            [
+                "19_the movie dances along the edge of incredulity and bad taste before pulling back from the abyss in a way that feels even more mawkish and calculated.",
+                -0.5320857507578944
+            ],
+            [
+                "21_this movie will stop at nothing to play on your heartstrings.",
+                -0.5453320717190845
+            ],
+            [
+                "22_the film's muted yet still rather flamboyant terribleness derives from the fact that it seems to be juggling three or four borderline schlock genres at once.",
+                -0.7141967390936016
+            ],
+            [
+                "23_the really sad thing is that this is a movie with some intriguing characters that has some real comic and dramatic potential, ",
+                -0.5700958044792159
+            ],
+            [
+                "24_the movie takes a giant step back from plausibility, and i'm afraid some viewers will be unwilling to go along.",
+                -0.6995099384537382
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Colin Trevorrow": {
+                "args": [
+                    [
+                        "6_i began to wonder if hurwitz and trevorrow had ever met any children.",
+                        -0.56200383781454
+                    ],
+                    [
+                        "9_what trevorrow and screenwriter gregg hurwitz have created is just a feature-length put-on that flirts queasily with fascism.",
+                        -0.5644980483502537
+                    ],
+                    [
+                        "20_those of us who've allowed ourselves to care about the latest star wars trilogy may be made fearful about the prospect of an episode ix directed by trevorrow.",
+                        -0.5461665150305504
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_in the end, \"the book of henry\" falls apart in a heap of loose pages, each one taken from a different script.",
+                0.5460288179392031
+            ]
+        ],
+        "entities": {
+            "Gregg Hurwitz": {
+                "args": [
+                    [
+                        "6_i began to wonder if hurwitz and trevorrow had ever met any children.",
+                        -0.56200383781454
+                    ],
+                    [
+                        "9_what trevorrow and screenwriter gregg hurwitz have created is just a feature-length put-on that flirts queasily with fascism.",
+                        -0.5644980483502537
+                    ]
+                ]
+            }
+        }
+    }
+}

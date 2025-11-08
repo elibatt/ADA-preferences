@@ -1,0 +1,199 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the failure of \"collateral beauty\" is all the more grievous for the waste of its superb actors.",
+                -0.6360832477409182
+            ],
+            [
+                "2_if there's one constant about collateral beauty, it's how consistently it disappoints.",
+                0.6092466957062015
+            ],
+            [
+                "5_a holiday movie with hallmark channel dna that should star jaleel white and judith light ",
+                0.5950384557778083
+            ],
+            [
+                "7_most of \"collateral beauty\" is spent rooting for it to be better.",
+                -0.5667261622858263
+            ],
+            [
+                "8_the five stages of grief sometimes seem applicable to movie reviewing, except that i usually skip denial, rarely get around to acceptance and generally just settle into anger, which is where i am with \"collateral beauty.\"",
+                0.5783383020950619
+            ],
+            [
+                "9_it's quite possible \"collateral beauty\" will move you to tears.",
+                0.6923408473040771
+            ],
+            [
+                "10_the year's worst movie.",
+                -0.8493681364937671
+            ],
+            [
+                "11_i don't think i've witnessed a film this year that managed to so completely and utterly collapse into crass garbage in its last few minutes while abusing what little goodwill it has.",
+                -0.7792925776915627
+            ],
+            [
+                "12_, have something to say about what passes for \"serious\" in a studio film in 2016.",
+                0.5546070537110604
+            ],
+            [
+                "13_\"collateral beauty\" couldn't be more calculated and manipulative if it slapped you on the back, shoved a giant lollipop into your mouth and immediately tried to sell you a time share in tampa.",
+                -0.6910176314487585
+            ],
+            [
+                "14_what boggles the mind...is the movie's enchantment with its hapless self.",
+                0.5360999192061302
+            ],
+            [
+                "14_in the realm of entertainment, \"collateral beauty\" is death warmed over.",
+                -0.579792441303256
+            ],
+            [
+                "15_it's near impossible to make a movie with no redeeming features - ",
+                -0.7571637907813736
+            ],
+            [
+                "16_collateral beauty is lacking in any real highs or lows and there's no energy to the proceedings.",
+                -0.6527046912373795
+            ],
+            [
+                "18_the movie manages to be simultaneously superficial and heartbreaking.",
+                0.5895664114457607
+            ],
+            [
+                "19_every so often there comes a movie so tasteless, so nakedly pandering,",
+                -0.5968612840655902
+            ],
+            [
+                "19_this year, that movie is collateral beauty.",
+                -0.5621990573697131
+            ],
+            [
+                "21_\"collateral beauty\" is based on a premise so preposterous that the film shouldn't work.",
+                -0.789044311196873
+            ],
+            [
+                "25_collateral beauty is one of those cloying movies about learning to take the good with the bad that feels like it was made by aliens with little grasp of human life.",
+                -0.610704881956132
+            ],
+            [
+                "26_this movie doesn't rise to the level of so-bad-it's-good.",
+                -0.7942604226048281
+            ],
+            [
+                "28_with its cast of oscar-caliber actors and pervasive theme of loss, collateral beauty should have been a deeply moving tear-jerker.",
+                0.545892352860585
+            ],
+            [
+                "29_\"collateral beauty,\" a movie so earnest it almost has tom cruise in it, misses its mark by a mile, stranding an impressive cast whom you'd think would have better things to do.",
+                0.5025294398020276
+            ],
+            [
+                "31_santa has brought you an early christmas present in the form of \"collateral beauty.\"",
+                0.6592192028335074
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Frankel": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_the cast feels checked out:",
+                -0.6774633525142688
+            ],
+            [
+                "15_ this tearjerker hits the zero-stars jackpot, taking an all-star cast on a journey from absurd to zombified with frequent stops at pretentious.",
+                0.5453544977245672
+            ],
+            [
+                "23_an excellent cast, immersed in a hot tub of self-pity and false sentiment.",
+                0.6546395795426956
+            ],
+            [
+                "24_it's frustrating that the impressive cast is instead squandered on far-fetched story developments and telegraphed pathos.",
+                -0.649322417552162
+            ],
+            [
+                "28_with its cast of oscar-caliber actors and pervasive theme of loss, collateral beauty should have been a deeply moving tear-jerker.",
+                0.545892352860585
+            ],
+            [
+                "29_\"collateral beauty,\" a movie so earnest it almost has tom cruise in it, misses its mark by a mile, stranding an impressive cast whom you'd think would have better things to do.",
+                0.5025294398020276
+            ]
+        ],
+        "entities": {
+            "Kate Winslet": {
+                "args": []
+            },
+            "Naomie Harris": {
+                "args": []
+            },
+            "Will Smith": {
+                "args": [
+                    [
+                        "5_ somehow snagged a top-line cast that includes will smith, helen mirren, kate winslet, keira knightley and edward norton.",
+                        0.7633130054107744
+                    ],
+                    [
+                        "24_seeing smith go deep opposite kate winslet, helen mirren, and edward norton should be cause for excitement.",
+                        0.6819021130823935
+                    ],
+                    [
+                        "30_these actors are too good to be entirely sunk by the sheer silliness of the material (with the exception of smith, who seems fully committed to playing the role of a human frown-face emoji).",
+                        0.5507331802973788
+                    ],
+                    [
+                        "32_to paraphrase groucho marx, this is a movie where we watch will smith, edward norton, kate winslet, helen mirren, naomie harris, keira knightley and several other fine players bore holes in themselves so that we can watch the sap run out.",
+                        0.5864327399709736
+                    ],
+                    [
+                        "33_will smith should be looking for better movies.",
+                        0.5579143464150651
+                    ],
+                    [
+                        "34_the finished movie plays ... concertedly like a serious acting vehicle for smith, who's the least interesting component in a madly over-qualified cast.",
+                        -0.5416150780334156
+                    ]
+                ]
+            },
+            "Keira Knightley": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Helen Mirren": {
+                "args": []
+            },
+            "Edward Norton": {
+                "args": [
+                    [
+                        "3_winslet and norton, two attractive and charismatic performers, have never looked more painted and tired.",
+                        -0.6078724571789571
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Allan Loeb": {
+                "args": []
+            }
+        }
+    }
+}

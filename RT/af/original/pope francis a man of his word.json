@@ -1,0 +1,75 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Pope Francis": {
+                "args": [
+                    [
+                        "1_a non-denominational sermon, under the cinematic care of an artist first, pope francis fanboy second.",
+                        0.7074709569199887
+                    ],
+                    [
+                        "5_whether he's washing the feet of prisoners in america, visiting sick children in africa, or praying with hurricane victims in asia, pope francis doesn't merely preach empathy, responsibility, and accountability, he lives it.",
+                        -0.5854125393192404
+                    ],
+                    [
+                        "6_ its central subject, pope francis, is nonetheless a personable and persuasive presence.",
+                        0.57073958605747
+                    ],
+                    [
+                        "7_\"pope francis: a man of his word\" offers audiences a thoroughly engrossing portrait of one of the most beloved and galvanizing figures of the 21st century...",
+                        0.8247643770929096
+                    ],
+                    [
+                        "12_no warts-and-all look at francis' papacy, ",
+                        0.7071053001904368
+                    ],
+                    [
+                        "14_one of pope francis' closing messages rings out, undiluted by a muddled conclusion: \"we have so much to do, and we must do it together.\"",
+                        -0.6310165977474747
+                    ],
+                    [
+                        "15_it's difficult not to be charmed by francis' plainspoken demeanor, and his ability to retain the folksy conversational style of a simple parish priest even when speaking from the impossibly elevated confines of the holy see.",
+                        0.5759650669514366
+                    ],
+                    [
+                        "16_it is a pleasure to watch the present-day francis interact with people all over the world and articulate his hopes for improving the lot of the poor.",
+                        0.6586747527655815
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_while the film is best for fans of the cloth, non-catholics, too, will gain insight into one of the most prominent leaders in the world.",
+                0.8449662502049757
+            ],
+            [
+                "6_this film may not bring in many converts ",
+                0.7188449522311811
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Wim Wenders": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Wim Wenders": {
+                "args": []
+            }
+        }
+    }
+}

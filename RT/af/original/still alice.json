@@ -1,0 +1,272 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "11_there's a difference between a great performance and a great performance.",
+                0.852644132326004
+            ],
+            [
+                "27_ the splendid acting in \"still alice\" makes it worth the pain.",
+                0.6930441519534023
+            ],
+            [
+                "29_moore's portrayal of 50-year-old alice howland, adapted from lisa genova's 2007 novel, is one of the best of her career.",
+                0.9482776881917462
+            ]
+        ],
+        "entities": {
+            "Erin Darke": {
+                "args": []
+            },
+            "Caleb Freundlich": {
+                "args": []
+            },
+            "Quincy Tyler Bernstine": {
+                "args": []
+            },
+            "Stephen Kunken": {
+                "args": []
+            },
+            "Hunter Parrish": {
+                "args": []
+            },
+            "Rosa Arredondo": {
+                "args": []
+            },
+            "Seth Gilliam": {
+                "args": []
+            },
+            "Zillah Glory": {
+                "args": []
+            },
+            "Julianne Moore": {
+                "args": [
+                    [
+                        "0_while it's no surprise that moore is so good, \"still alice\" has an unexpected trick up its sleeve: the sweetly gentle performance of kristen stewart, as alice's actress daughter lydia.",
+                        0.8457755137324592
+                    ],
+                    [
+                        "1_ moore's heart-wrenching and oscar-nominated performance makes this a must-see.",
+                        0.7020115098761723
+                    ],
+                    [
+                        "2_ moore gives it an extra layer of gravity and heartbreaking inevitability.",
+                        0.716138905581754
+                    ],
+                    [
+                        "7_it's moore who really brings the film home.",
+                        0.6345931510397078
+                    ],
+                    [
+                        "9_if it didn't star julianne moore, it would be well worth skipping.",
+                        0.6369666780966069
+                    ],
+                    [
+                        "9_but the exceptional way moore plays alice, a renowned columbia university linguistics professor with early-onset alzheimer's,",
+                        0.8176676272569903
+                    ],
+                    [
+                        "10_ultimately this is a movie built around moore's performance, and she doesn't disappoint.",
+                        -0.546669442403684
+                    ],
+                    [
+                        "11_julianne moore's turn as a professor afflicted with early onset alzheimer's easily qualifies as the latter.",
+                        0.6164033944103892
+                    ],
+                    [
+                        "13_ it's also sensitive material bolstered and braced by moore's stunning performance.",
+                        0.6449240143399612
+                    ],
+                    [
+                        "15_the movie's most expressive element is moore's face, slowly moving from engagement, flecked with worry, to disconnection and blankness.",
+                        0.7455499324525094
+                    ],
+                    [
+                        "16_a film that benefits from ms. moore's lovely performance, yet suffers from glib contrivance and predictable writing.",
+                        0.5879595103690306
+                    ],
+                    [
+                        "17_you bet your ass that julianne moore is overdue for academy love.",
+                        0.6873729048359196
+                    ],
+                    [
+                        "21_in the absence of the anger and the wildness that are crouched and caged within this most terrible of themes, \"still alice\" is worth watching, for the sake of julianne moore.",
+                        0.7407126290241226
+                    ],
+                    [
+                        "22_if only the movie were as good as [moore] and stewart are.",
+                        0.6628437695594843
+                    ],
+                    [
+                        "25_they just leave the camera on moore's beautiful ",
+                        0.7173672245052645
+                    ],
+                    [
+                        "26_with a combination of power and grace, julianne moore elevates \"still alice\" above its made-for-cable-television trappings, and delivers one of the more memorable performances of her career.",
+                        0.8614914536145986
+                    ],
+                    [
+                        "32_julianne moore is extraordinary at revealing the gradual loss of memory and confidence, and at showing the hulk of physical persistence that remains after intellect and reference have gone.",
+                        0.6945979815126425
+                    ],
+                    [
+                        "36_the toll the disease takes on the life of a brilliant linguistics professor is superbly detailed by julianne moore in a career-high performance, driving straight to the terror of the disease and its power to wipe out personal certainties and identity.",
+                        0.8416795032226226
+                    ],
+                    [
+                        "37_julianne moore guides us through the tragic arc of how it must feel to disappear before one's own eyes, accomplishing one of her most powerful performances by underplaying the scenario ...",
+                        0.6801280741134605
+                    ]
+                ]
+            },
+            "Daniel Gerroll": {
+                "args": []
+            },
+            "Kate Bosworth": {
+                "args": []
+            },
+            "Kristen Stewart": {
+                "args": []
+            },
+            "Maxine Prescott": {
+                "args": []
+            },
+            "Caridad Martinez": {
+                "args": []
+            },
+            "Charlotte Robson": {
+                "args": []
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "Orlagh Cassidy": {
+                "args": []
+            },
+            "Shane McRae": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richard Glatzer": {
+                "args": [
+                    [
+                        "18_perhaps directors richard glatzer and wash westmoreland made a calculation as to how much an audience can take.",
+                        0.6444668633248678
+                    ],
+                    [
+                        "19_ glatzer and westmoreland's film occasionally flirts with three-hankie, disease-of-the-week lifetime-network clichés, it mostly rises above them thanks to a pair of stunning performances.",
+                        0.7663692846324647
+                    ]
+                ]
+            },
+            "Wash Westmoreland": {
+                "args": [
+                    [
+                        "25_glatzer and westmoreland don't need to stack the emotional deck on alice's behalf ...",
+                        0.568670019162538
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "16_a film that benefits from ms. moore's lovely performance, yet suffers from glib contrivance and predictable writing.",
+                0.5879595103690306
+            ],
+            [
+                "33_\"still alice\" is hampered by both an unimaginative script and ordinary direction, ",
+                -0.5133380020999989
+            ]
+        ],
+        "entities": {
+            "Wash Westmoreland": {
+                "args": []
+            },
+            "Richard Glatzer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the movie is harrowing, as any story about alzheimer's should be, ",
+                0.56106283996299
+            ],
+            [
+                "3_sorrow-laden and moving, still alice isn't gratuitously grim nor is it easily sentimental.",
+                0.5138341483000411
+            ],
+            [
+                "4_the great strength of the film is that it never resorts to cheap sentimentality.",
+                0.8000053153242004
+            ],
+            [
+                "5_still alice is accurate and compassionate, and anyone who has known someone with alzheimer's will appreciate the film's sincere intentions.",
+                0.84358798368398
+            ],
+            [
+                "8_\"still alice\" is much too clear-eyed to hold out false hope, ",
+                -0.5083933891858241
+            ],
+            [
+                "9_ lifts the film above its morose potential.",
+                0.6161786689283641
+            ],
+            [
+                "12_still alice is heartbreaking ",
+                0.6953244195650696
+            ],
+            [
+                "13_\"still alice\"might sound maudlin, or more on the frequency of a made-for-tv movie than what it is.",
+                -0.506182602185918
+            ],
+            [
+                "18_for all the movie's honesty, the reality of alzheimer's disease is a lot worse than what you see in \"still alice.\"",
+                0.5273090769215646
+            ],
+            [
+                "20_the triumph of still alice is that it's not about an illness",
+                0.663684210610344
+            ],
+            [
+                "24_it's a way better movie than it ought to be, ",
+                0.5019654492837047
+            ],
+            [
+                "27_ the splendid acting in \"still alice\" makes it worth the pain.",
+                0.6930441519534023
+            ],
+            [
+                "28_still alice is a movie that addresses a nightmarish circumstance with calm, compassionate sensitivity.",
+                0.7682524642407791
+            ],
+            [
+                "30_moore has been a fine actress for a long time and \"still alice\" gives her a remarkable role, and the space to truly live it.",
+                0.8192157212445602
+            ],
+            [
+                "31_still alice is rarely anything short of compelling, in part because its sense of progression and scale offers such a distinctively unsentimental take on the terminal-countdown tearjerker.",
+                0.7578949284975545
+            ],
+            [
+                "33_\"still alice\" is hampered by both an unimaginative script and ordinary direction, ",
+                -0.5133380020999989
+            ],
+            [
+                "34_the rare film possessed with the courage required to shine a light into that abyss knowing full well that down is the only way out.",
+                0.606438094904928
+            ]
+        ]
+    }
+}

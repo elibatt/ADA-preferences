@@ -1,0 +1,71 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_\"generation wealth\" feels like it's all over the place, and that, if most of its subjects are lacking in depth, the movie itself is open to the same criticism.",
+                -0.5237061523102866
+            ],
+            [
+                "5_if \"generation wealth\" has a message that empty acquisitiveness is bad, it delivers it, like the rest of her work, by showing, not telling.",
+                -0.6582083662141626
+            ],
+            [
+                "7_greenfield wraps up this compulsively watchable movie with observations of family love and some of its characters striving for redemption and/or an honest living.",
+                0.8784899258223975
+            ],
+            [
+                "10_\"generation wealth\" is indeed an achievement - a messy, conspicuous and sporadically absorbing one.",
+                0.6013623288951502
+            ],
+            [
+                "13_the conclusions that generation wealth draws are shallow-part mass-culture doomsaying and part paean to simplistic picket-fence values.",
+                0.5563012181760627
+            ],
+            [
+                "17_greenfield makes a compelling argument for a society on the brink of precipitous decline, choosing to interpret the runaway vanity and rampant materialism observed in her own work as harbingers of our imminent destruction.",
+                0.8269839533277158
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lauren Greenfield": {
+                "args": [
+                    [
+                        "2_ greenfield here seems to have lost her focus.",
+                        -0.6624994915609801
+                    ],
+                    [
+                        "9_ ultimately confusing greenfield's narrative.",
+                        -0.6202848814936188
+                    ],
+                    [
+                        "12_the only meaningful takeaway from greenfield's documentary is that happiness is something we all have to define for ourselves.",
+                        0.6403910240028493
+                    ],
+                    [
+                        "16_through her dedication to other people's lives, and with such open-book storytelling of her own, greenfield is able to make a stunningly deeply resonant documentary about notions as seemingly obvious as the value of love over wealth itself.",
+                        0.8133213185449718
+                    ],
+                    [
+                        "18_easily the most ambitious film of greenfield's career, ",
+                        0.7087732268064824
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

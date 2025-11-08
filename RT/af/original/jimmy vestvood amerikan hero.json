@@ -1,0 +1,75 @@
+{
+    "acting": {
+        "entities": {
+            "Vida Ghahremani": {
+                "args": []
+            },
+            "Navid Negahban": {
+                "args": []
+            },
+            "Sheila Vand": {
+                "args": []
+            },
+            "John Heard": {
+                "args": []
+            },
+            "Matthew Glave": {
+                "args": []
+            },
+            "Maz Jobrani": {
+                "args": [
+                    [
+                        "0_in the style of borat, director jonathan kesselman and cowriters jobrani and amir ohebsion use raunchy, puerile humor to jab at american prejudices toward the middle east.",
+                        -0.5021932038962242
+                    ]
+                ]
+            },
+            "Matt Ballard": {
+                "args": []
+            },
+            "Sam Golzari": {
+                "args": []
+            },
+            "Deanna Russo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jonathan Kesselman": {
+                "args": []
+            },
+            "Maz Jobrani": {
+                "args": [
+                    [
+                        "0_in the style of borat, director jonathan kesselman and cowriters jobrani and amir ohebsion use raunchy, puerile humor to jab at american prejudices toward the middle east.",
+                        -0.5021932038962242
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jonathan Kesselman": {
+                "args": [
+                    [
+                        "0_in the style of borat, director jonathan kesselman and cowriters jobrani and amir ohebsion use raunchy, puerile humor to jab at american prejudices toward the middle east.",
+                        -0.5021932038962242
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

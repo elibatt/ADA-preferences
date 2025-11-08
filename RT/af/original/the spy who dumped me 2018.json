@@ -1,0 +1,219 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_ it takes a deft hand and a well-honed script to successfully merge the two and the spy",
+                0.8196613176627381
+            ],
+            [
+                "13_director and co-writer susanna fogel has trouble achieving a tonal balance between the comedy and the action, which only grows increasingly glaring over the course of the film's overlong running time.",
+                -0.5139000968909153
+            ]
+        ],
+        "entities": {
+            "Susanna Fogel": {
+                "args": []
+            },
+            "David Iserson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_the movie runs out of plot and jokes well before the end of a two-hour running time, long for a light comedy.",
+                -0.6327448840468703
+            ],
+            [
+                "8_ we're left hoping she'll be matched up with a better film role sometime soon.",
+                0.5492177461328865
+            ],
+            [
+                "9_the movie runs down at the two-thirds mark. ...",
+                0.5211296901832576
+            ],
+            [
+                "10_there's nothing wrong with trying to be a hard-knuckle action film and a goofy comedy all at once.",
+                -0.7502731992048375
+            ],
+            [
+                "18_a movie that feels cheerful and yet misguided and even slightly ugly",
+                -0.7314366817946168
+            ],
+            [
+                "18_ an exercise in genre without conviction, a title in search of a movie.",
+                -0.5151728789213286
+            ],
+            [
+                "19_ nimble rhythm that keeps the movie going...",
+                0.6103338225387085
+            ],
+            [
+                "20_the movie is the cinematic equivalent of the cheesecake factory.",
+                -0.6355807778129008
+            ],
+            [
+                "29_no matter its shortcomings, the spy who dumped me leaves you hoping that they'll keep at it.",
+                -0.520287046489714
+            ],
+            [
+                "31_ \"the spy who dumped me\" isn't that vehicle.",
+                -0.7151568834078219
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "8_it's an uneven performance with mixed results - ",
+                0.5037075758654896
+            ]
+        ],
+        "entities": {
+            "Mila Kunis": {
+                "args": [
+                    [
+                        "6_ she and kunis just don't have enough chemistry to push this grisly tale of friendship-conquers-all over the hump.",
+                        -0.5634189063826097
+                    ],
+                    [
+                        "12_[kunis] and mckinnon make a great pair, ",
+                        0.7922584092138957
+                    ],
+                    [
+                        "19_at times, ms. kunis seems stranded in zeppo territory while ms. mckinnon channels the other three marx brothers at the same time.",
+                        -0.5632878737844449
+                    ],
+                    [
+                        "21_the talented kunis and mckinnon are just funny, period.",
+                        0.7104975593578502
+                    ],
+                    [
+                        "23_it doesn't help that kunis and mckinnon share zero chemistry, thus sucking the air out of each scene in which they're supposed to be bonding.",
+                        -0.784792771264856
+                    ],
+                    [
+                        "26_mila kunis and kate mckinnon riff gleefully in the ample and precise framework of susanna fogel's effervescent action comedy.",
+                        0.5077134479449681
+                    ],
+                    [
+                        "27_the world as it exists definitely needs more movies with engaging women like kunis and mckinnon showing the boys a thing or two about pals-in-peril laughs and thrills.",
+                        0.6341815068109615
+                    ]
+                ]
+            },
+            "Dustin Demri-Burns": {
+                "args": []
+            },
+            "Olafur Darri Olafsson": {
+                "args": []
+            },
+            "Hasan Minhaj": {
+                "args": []
+            },
+            "Kate McKinnon": {
+                "args": [
+                    [
+                        "0_the bourne identity becomes somewhat essential late summer viewing for one reason and one reason alone: kate mckinnon.",
+                        0.6470108597627341
+                    ],
+                    [
+                        "1_thank goodness for mckinnon, who launches this middling material to greater heights through her own sheer will.",
+                        0.6937854050516725
+                    ],
+                    [
+                        "11_the best part of \"the spy who dumped me\" is that it gives mckinnon her first full co-starring role.",
+                        0.70151079940308
+                    ],
+                    [
+                        "14_\"the spy who dumped me\" gets by, barely, thanks mainly to kate mckinnon.",
+                        -0.5044601295906462
+                    ],
+                    [
+                        "15_\"the spy who dumped me\" feels destined to join \"rough night,\" 2016's \"ghostbusters\" and other movies that didn't know what to do with mckinnon.",
+                        -0.7107594600807454
+                    ],
+                    [
+                        "16_a forced mckinnon is a diminished mckinnon.",
+                        -0.6006333893065621
+                    ],
+                    [
+                        "22_the dead weight that kate mckinnon has to lift in this lumbering spy farce would sink a lesser talent.",
+                        -0.6624867176054652
+                    ],
+                    [
+                        "24_hollywood doesn't know what to do with kate mckinnon, so the spy",
+                        -0.7374154766333141
+                    ],
+                    [
+                        "25_again and again, mckinnon rises above the hoopla with moments of sheer near genius.",
+                        0.608949133461173
+                    ],
+                    [
+                        "31_with the right vehicle, kate mckinnon could rule in the movies.",
+                        -0.5210274958610037
+                    ]
+                ]
+            },
+            "Kev Adams": {
+                "args": []
+            },
+            "Ivanna Sakhno": {
+                "args": []
+            },
+            "Fred Melamed": {
+                "args": []
+            },
+            "Gillian Anderson": {
+                "args": [
+                    [
+                        "28_it's criminal to cast this many talented people - gillian anderson!",
+                        0.56090620406289
+                    ]
+                ]
+            },
+            "Sam Heughan": {
+                "args": []
+            },
+            "Justine Wachsberger": {
+                "args": []
+            },
+            "Justin Theroux": {
+                "args": []
+            },
+            "Nicholas Wittman": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Susanna Fogel": {
+                "args": [
+                    [
+                        "5_the lack of chemistry between the leads and the weakness of the comedy hurts fogel's cause.",
+                        -0.634684422520741
+                    ],
+                    [
+                        "7_\"the spy who dumped me\" wears its gender politics and its paean to female friendship with gratifying lightness, and fogel keeps the action moving too briskly for even the missteps to leave skid marks.",
+                        0.5313331682777231
+                    ],
+                    [
+                        "13_director and co-writer susanna fogel has trouble achieving a tonal balance between the comedy and the action, which only grows increasingly glaring over the course of the film's overlong running time.",
+                        -0.5139000968909153
+                    ],
+                    [
+                        "26_mila kunis and kate mckinnon riff gleefully in the ample and precise framework of susanna fogel's effervescent action comedy.",
+                        0.5077134479449681
+                    ]
+                ]
+            }
+        }
+    }
+}

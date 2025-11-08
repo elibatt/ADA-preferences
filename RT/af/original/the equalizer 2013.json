@@ -1,0 +1,268 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anastasia Mousis": {
+                "args": []
+            },
+            "Tait Fletcher": {
+                "args": []
+            },
+            "Alex Veadov": {
+                "args": []
+            },
+            "William Xifaras": {
+                "args": []
+            },
+            "Mike Morrell": {
+                "args": []
+            },
+            "Denzel Washington": {
+                "args": [
+                    [
+                        "5_but i couldn't have done without washington, who, like liam neeson,",
+                        -0.6623456432883232
+                    ],
+                    [
+                        "7_as for washington, no doubt he now has his very own franchise.",
+                        0.5352950670742821
+                    ],
+                    [
+                        "18_ denzel washington, as ever, is the essence of cool.",
+                        0.7891416165604481
+                    ],
+                    [
+                        "19_just having washington in the title role elevates the film from a tired rerun - complete with (yawn) brutal russian mobsters - to a rousing, crowd-pleasing take on a movie formula, like a forgettable pop song turned into a dizzying jazz solo.",
+                        0.5320798440398133
+                    ],
+                    [
+                        "21_a guilty-pleasure platform for washington's slow-cooked, kick-",
+                        0.650845131327829
+                    ],
+                    [
+                        "22_this one's strictly for those who enjoyed \"man on fire,\" the other prominent kid-protection fable, slick and bloodthirsty, in the washington oeuvre.",
+                        0.6050178180864194
+                    ],
+                    [
+                        "24_ screenwriter david wenk shoehorns in a needless subplot in which the hero mentors a young loser... and washington grandstands his way through several heated soliloquys.",
+                        0.5094245627583134
+                    ],
+                    [
+                        "25_ you'd be hard-pressed to find anyone better than washington for the task.",
+                        0.5473009060249272
+                    ],
+                    [
+                        "31_the equalizer is a stone-dumb movie, unwilling to allow washington even a hint of uniqueness (apart from the usual silverware straightening and public book reading, shorthand clichés for \"smart\").",
+                        0.6079739746115587
+                    ],
+                    [
+                        "32_ is this the best use our culture has for a talent like denzel washington?",
+                        0.9096342346619152
+                    ],
+                    [
+                        "37_ wildly entertaining, \"the equalizer\" stands out from its peers like a wolf among lapdogs, as fuqua and washington bring out the best in each other for the benefit of the audience.",
+                        0.8852334853412666
+                    ]
+                ]
+            },
+            "Matt Lasky": {
+                "args": []
+            },
+            "Patrick Coppola": {
+                "args": []
+            },
+            "Jenny Johnson": {
+                "args": []
+            },
+            "Matthew Leonard": {
+                "args": []
+            },
+            "John Romauldi": {
+                "args": []
+            },
+            "Elisala Baker": {
+                "args": []
+            },
+            "Johnny Messner": {
+                "args": []
+            },
+            "David Meunier": {
+                "args": []
+            },
+            "Timothy John Smith": {
+                "args": []
+            },
+            "Mike P. O'Dea": {
+                "args": []
+            },
+            "Marton Csokas": {
+                "args": []
+            },
+            "Chloë Grace Moretz": {
+                "args": []
+            },
+            "David Harbour": {
+                "args": []
+            },
+            "Robert Wahlberg": {
+                "args": []
+            },
+            "Mark Stefanich": {
+                "args": []
+            },
+            "Johnny Skourtis": {
+                "args": []
+            },
+            "Bill Pullman": {
+                "args": []
+            },
+            "Timothy Smith": {
+                "args": []
+            },
+            "Melissa Leo": {
+                "args": []
+            },
+            "Luz Sanchez": {
+                "args": []
+            },
+            "Steve Sweeney": {
+                "args": []
+            },
+            "E. Roger Mitchell": {
+                "args": []
+            },
+            "Peter Haydu": {
+                "args": []
+            },
+            "James Wilcox": {
+                "args": []
+            },
+            "Dan Bilzerian": {
+                "args": []
+            },
+            "Haley Bennett": {
+                "args": []
+            },
+            "Vitaliy Shtabnoy": {
+                "args": []
+            },
+            "Shawn Fitzgibbon": {
+                "args": []
+            },
+            "Owen Burke": {
+                "args": []
+            },
+            "Yan Dron": {
+                "args": []
+            },
+            "Chris Lemieux": {
+                "args": []
+            },
+            "Allen Maldonado": {
+                "args": []
+            },
+            "Vladimir Kulich": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Antoine Fuqua": {
+                "args": [
+                    [
+                        "1_the director, antoine fuqua, relies on small details, which anchor the vigilante-as-saint myth in at least a minimal degree of reality.",
+                        0.5665766233089082
+                    ],
+                    [
+                        "13_mr. fuqua, while not the world's most subtle filmmaker, directs the action sequences with bluntness and clarity and effectively uses his star as an oasis of calm in a jumpy, nasty universe.",
+                        0.7992055891687639
+                    ],
+                    [
+                        "37_ wildly entertaining, \"the equalizer\" stands out from its peers like a wolf among lapdogs, as fuqua and washington bring out the best in each other for the benefit of the audience.",
+                        0.8852334853412666
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_if audiences and star are so inclined, it's easy to see this premise and this character - a tough, taciturn gent burdened with regret and a very special skill set - going into roman numerals.",
+                0.6147310882222297
+            ]
+        ],
+        "entities": {
+            "Richard Wenk": {
+                "args": [
+                    [
+                        "16_we're given precious little story (or back story) from screenwriter richard wenk (the expendables 2), ",
+                        -0.5649397373740355
+                    ],
+                    [
+                        "24_ screenwriter david wenk shoehorns in a needless subplot in which the hero mentors a young loser... and washington grandstands his way through several heated soliloquys.",
+                        0.5094245627583134
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie's all about reading, especially with a critical eye, ",
+                0.6140522382560814
+            ],
+            [
+                "2_fuqua infuses the equalizer with a low-key energy and is in no hurry to rush into things.",
+                0.5229449707004268
+            ],
+            [
+                "6_if the equalizer is the hit it should be, it will give this veteran action star his very first movie franchise.",
+                0.5061590145075039
+            ],
+            [
+                "15_fuqua's movie is just as dopey and creaky as the series.",
+                -0.5326215567084437
+            ],
+            [
+                "17_the whole movie turns into a slaughterhouse.",
+                -0.6171314976190504
+            ],
+            [
+                "18_the film runs long, at 131 minutes, ",
+                -0.6165148557987145
+            ],
+            [
+                "23_\"the equalizer\" fulfills the first demand of a movie of this kind.",
+                0.5654994007131335
+            ],
+            [
+                "28_one long and loathsome bore of a movie.",
+                -0.6993144737117849
+            ],
+            [
+                "30_the movie is what it is: good guy vs. bad guy, let's see who wins.",
+                -0.5497266323846546
+            ],
+            [
+                "33_\"the equalizer\" grows tiresome and formulaic.",
+                -0.7056412740077973
+            ],
+            [
+                "34_as entertainment, the equalizer rarely delivers: it's like a superhero origin story invested with half-assed gravitas.",
+                0.5520073021746713
+            ],
+            [
+                "36_the most exciting, violent and stylish film of its type in a very long while.",
+                0.7064106787409661
+            ]
+        ]
+    }
+}

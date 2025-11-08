@@ -1,0 +1,90 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this is not a movie about coming out and the collateral damage that ensues.",
+                -0.7582284399994743
+            ],
+            [
+                "4_combining gritty realism with poignancy, the result is a film that is exceptionally moving.",
+                0.7464715403007851
+            ],
+            [
+                "5_this enigmatic little film says it all in razor-sharp closeups and minimal words",
+                0.6634355314586403
+            ],
+            [
+                "15_tful, hopeful film instead advances a pro-immigration subtext that couldn't be more timely ...",
+                0.5337746489898942
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Francis Lee": {
+                "args": [
+                    [
+                        "0_director/writer francis lee's electrifying feature de",
+                        0.7058837873994982
+                    ],
+                    [
+                        "2_the film by writer-director francis lee, who grew up on a yorkshire farm before turning to acting - and, later, filmmaking - is sweet, even if johnny is not.",
+                        0.5455277615701766
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Francis Lee": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_director/writer francis lee's electrifying feature de",
+                0.7058837873994982
+            ],
+            [
+                "2_the film by writer-director francis lee, who grew up on a yorkshire farm before turning to acting - and, later, filmmaking - is sweet, even if johnny is not.",
+                0.5455277615701766
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Alec Secareanu": {
+                "args": []
+            },
+            "Gemma Jones": {
+                "args": []
+            },
+            "Josh O'Connor": {
+                "args": [
+                    [
+                        "1_ o'connor and secareanu give such aching performances that their romance feels real.",
+                        0.5405543737094644
+                    ]
+                ]
+            },
+            "Harry Lister Smith": {
+                "args": []
+            },
+            "Ian Hart": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the film by writer-director francis lee, who grew up on a yorkshire farm before turning to acting - and, later, filmmaking - is sweet, even if johnny is not.",
+                0.5455277615701766
+            ]
+        ]
+    }
+}

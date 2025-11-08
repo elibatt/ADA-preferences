@@ -1,0 +1,218 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_the film is saved from mere competence by that herzogian feeling, at once grandiose and self-deprecating.",
+                0.5731683800219449
+            ],
+            [
+                "10_[a] captivating, uneven film ...",
+                0.683746786338373
+            ],
+            [
+                "24_the film explores the horrors and the wonders of our current way of life.",
+                0.7437601533088759
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "19_lo and behold approaches the internet with the same mixture of wonder and dread that the director previously applied to pitiless nature, ",
+                0.6546805162124898
+            ],
+            [
+                "20_ the director holds off from making the kind of visionary statement that would burn through the epical thickness of techno-chaff and touch the old questions.",
+                0.5867784645441898
+            ]
+        ],
+        "entities": {
+            "Werner Herzog": {
+                "args": [
+                    [
+                        "0_as long as herzog continues to mouth his mysterioso epiphanies, it can't be all bad.",
+                        -0.7877521173977474
+                    ],
+                    [
+                        "3_it's increasingly possible that the meme of werner herzog is surpassing the man.",
+                        0.6340074747469736
+                    ],
+                    [
+                        "3_i found myself spending much of lo and behold hoping herzog would get out of the way.",
+                        0.5404944270923271
+                    ],
+                    [
+                        "4_the shape of things to come is a subject very dear to the hearts of the high-tech evangelists herzog talks to, and it accounts for the pulse of freakish comedy that beats through \"lo and behold.\"",
+                        0.6158640764675021
+                    ],
+                    [
+                        "9_we want the rambling werner herzog to follow his muse into strange corners -- let lesser documentary filmmakers stick to virtues like coherence.",
+                        0.7090072843337909
+                    ],
+                    [
+                        "11_mr. herzog's film may not be a model of organization, ",
+                        0.6074454056022934
+                    ],
+                    [
+                        "13_this is a bigger mouthful than even a master like herzog can digest.",
+                        0.6009473995794236
+                    ],
+                    [
+                        "14_if it had half the segments, and they were twice as long, the movie might be able to get beneath the surface and find the monomaniacal characters herzog is often so great at exploring.",
+                        -0.6256469380930547
+                    ],
+                    [
+                        "15_it appears never to have entered herzog's vocabulary.",
+                        -0.5826365492666177
+                    ],
+                    [
+                        "16_\"lo and behold\" may not be herzog's most artistically ambitious film, ",
+                        0.7566269581576093
+                    ],
+                    [
+                        "18_whatever the outcome, herzog argues that mass connectivity marks a beginning of a shift in our morals, and indeed, in what it means to be human.",
+                        0.7706877817720803
+                    ],
+                    [
+                        "20_if only herzog could give this idea of full embeddedness the attention it very badly needs.",
+                        -0.7257328602430552
+                    ],
+                    [
+                        "26_these discrete \"reveries of the connected world\" represent the latest of herzog's heady explorations of what it means to be human (and even post-human), rendered in his characteristically personal, decidedly analog style.",
+                        0.771473603548209
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Werner Herzog": {
+                "args": [
+                    [
+                        "0_as long as herzog continues to mouth his mysterioso epiphanies, it can't be all bad.",
+                        -0.7877521173977474
+                    ],
+                    [
+                        "3_it's increasingly possible that the meme of werner herzog is surpassing the man.",
+                        0.6340074747469736
+                    ],
+                    [
+                        "3_i found myself spending much of lo and behold hoping herzog would get out of the way.",
+                        0.5404944270923271
+                    ],
+                    [
+                        "4_the shape of things to come is a subject very dear to the hearts of the high-tech evangelists herzog talks to, and it accounts for the pulse of freakish comedy that beats through \"lo and behold.\"",
+                        0.6158640764675021
+                    ],
+                    [
+                        "9_we want the rambling werner herzog to follow his muse into strange corners -- let lesser documentary filmmakers stick to virtues like coherence.",
+                        0.7090072843337909
+                    ],
+                    [
+                        "11_mr. herzog's film may not be a model of organization, ",
+                        0.6074454056022934
+                    ],
+                    [
+                        "13_this is a bigger mouthful than even a master like herzog can digest.",
+                        0.6009473995794236
+                    ],
+                    [
+                        "14_if it had half the segments, and they were twice as long, the movie might be able to get beneath the surface and find the monomaniacal characters herzog is often so great at exploring.",
+                        -0.6256469380930547
+                    ],
+                    [
+                        "15_it appears never to have entered herzog's vocabulary.",
+                        -0.5826365492666177
+                    ],
+                    [
+                        "16_\"lo and behold\" may not be herzog's most artistically ambitious film, ",
+                        0.7566269581576093
+                    ],
+                    [
+                        "18_whatever the outcome, herzog argues that mass connectivity marks a beginning of a shift in our morals, and indeed, in what it means to be human.",
+                        0.7706877817720803
+                    ],
+                    [
+                        "20_if only herzog could give this idea of full embeddedness the attention it very badly needs.",
+                        -0.7257328602430552
+                    ],
+                    [
+                        "26_these discrete \"reveries of the connected world\" represent the latest of herzog's heady explorations of what it means to be human (and even post-human), rendered in his characteristically personal, decidedly analog style.",
+                        0.771473603548209
+                    ]
+                ]
+            },
+            "Kevin Mitnick": {
+                "args": []
+            },
+            "Christina Catsouras": {
+                "args": []
+            },
+            "Sam Curry": {
+                "args": []
+            },
+            "Danielle Catsouras": {
+                "args": []
+            },
+            "Hilarie Cash": {
+                "args": []
+            },
+            "Christos Catsouras": {
+                "args": []
+            },
+            "Elon Musk": {
+                "args": []
+            },
+            "Kira Catsouras": {
+                "args": []
+            },
+            "Lawrence Krauss": {
+                "args": []
+            },
+            "Leonard Kleinrock": {
+                "args": []
+            },
+            "Joydeep Biswas": {
+                "args": []
+            },
+            "Lucianne Walkowicz": {
+                "args": []
+            },
+            "Shawn Carpenter": {
+                "args": []
+            },
+            "Tom Mitchell": {
+                "args": []
+            },
+            "Lesli Catsouras": {
+                "args": []
+            },
+            "Theodor Holm Nelson": {
+                "args": []
+            },
+            "Robert Kahn": {
+                "args": []
+            },
+            "Felix Jay Lockman": {
+                "args": []
+            },
+            "Danny Hillis": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Werner Herzog": {
+                "args": []
+            }
+        }
+    }
+}

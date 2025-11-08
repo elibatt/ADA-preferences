@@ -1,0 +1,203 @@
+{
+    "writer": {
+        "entities": {
+            "John Aboud": {
+                "args": []
+            },
+            "Michael Colton": {
+                "args": []
+            },
+            "Brandon Sawyer": {
+                "args": []
+            },
+            "Alan Schoolcraft": {
+                "args": []
+            },
+            "Brent Simons": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "29_ a sassy script and good-natured voice work from benedict cumberbatch and john malkovich should keep kids and grownups entertained over the holidays.",
+                0.5921139616384176
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Simon J. Smith": {
+                "args": []
+            },
+            "J.P. Simon": {
+                "args": [
+                    [
+                        "4_directors eric darnell and simon j. smith keep up a headlong pace -- if one joke or sight gag misfires, there'll be another one soon.",
+                        0.5229790691628445
+                    ]
+                ]
+            },
+            "Eric Darnell": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_these penguins really are cute, the animation is consistently appealing, and the movie is obviously bound for megamoolah at the box office.",
+                -0.5137710566959636
+            ],
+            [
+                "2_thanksgiving is a time for family and for shirking work, and out of respect for both traditions-and in recognition that i am surely not in the movie's demographic sweet spot-i'm handing the heavy lifting over to my kids, tom (11) and alexandra (9).",
+                0.592322202558387
+            ],
+            [
+                "3_\"penguins of madagascar\" is a passible, inoffensive addition to dreamworks animation's canon, even if there's a faint whiff of a north wind spin-off sullying the contained story.",
+                -0.5390022899602882
+            ],
+            [
+                "5_leaving the cute to the bigger kids on the block, with this movie, dreamworks is opting for pure crazy.",
+                0.5902284280274153
+            ],
+            [
+                "6_penguins of madagascar aims primarily for the kiddies, racing from one frenetic action sequence to another like some haywire walter lantz cartoon.",
+                -0.5894183160123825
+            ],
+            [
+                "11_it may be a case of damning with faint praise to say that penguins of madagascar never really gets a chance to bore, since it never slows down.",
+                -0.647727793833337
+            ],
+            [
+                "16_the film is fun, light-hearted fare that could be watched in the comfort of a long car ride to grandma's house.",
+                0.7764039661640383
+            ],
+            [
+                "19_the film throws jokes out like a tennis-ball machine on the fritz: gross humor, slapstick pratfalls, bizarre non sequiturs.",
+                -0.5272166772833533
+            ],
+            [
+                "25_\" the word fits the movie.",
+                0.5653827070712937
+            ],
+            [
+                "26_this is a joyless, frenetic film that is very rarely funny.",
+                -0.5255479775921378
+            ],
+            [
+                "27_frenetic and frequently funny, penguins of madagascar represents the dreamworks animation franchise style -- which boils down to self-aware, ",
+                0.6688783062664401
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Ken Jeong": {
+                "args": []
+            },
+            "Stephen Kearin": {
+                "args": []
+            },
+            "Walt Dohrn": {
+                "args": []
+            },
+            "Werner Herzog": {
+                "args": [
+                    [
+                        "7_you have to respect a kids' cartoon that kicks off with a werner herzog joke - even one so willfully, wondrously stupid and lighthearted as penguins of madagascar.",
+                        -0.8473783443333442
+                    ]
+                ]
+            },
+            "Jim Pirri": {
+                "args": []
+            },
+            "Hope Levy": {
+                "args": []
+            },
+            "Andy Richter": {
+                "args": []
+            },
+            "Sean Charmatz": {
+                "args": []
+            },
+            "Emily Nordwind": {
+                "args": []
+            },
+            "Al Rodrigo": {
+                "args": []
+            },
+            "Mike Mitchell": {
+                "args": []
+            },
+            "Christopher Knights": {
+                "args": []
+            },
+            "Chris Miller": {
+                "args": []
+            },
+            "Jeff Fischer": {
+                "args": []
+            },
+            "Susan Fitzer": {
+                "args": []
+            },
+            "Tom McGrath": {
+                "args": []
+            },
+            "Peter Stormare": {
+                "args": []
+            },
+            "Ava Acres": {
+                "args": []
+            },
+            "Danny Jacobs": {
+                "args": []
+            },
+            "Cullen McCarthy": {
+                "args": []
+            },
+            "Benedict Cumberbatch": {
+                "args": []
+            },
+            "Kelly Cooney": {
+                "args": []
+            },
+            "Annet Mahendru": {
+                "args": []
+            },
+            "Steve Alterman": {
+                "args": []
+            },
+            "Chris Sanders": {
+                "args": []
+            },
+            "Elizabeth Pan": {
+                "args": []
+            },
+            "John Malkovich": {
+                "args": [
+                    [
+                        "29_ a sassy script and good-natured voice work from benedict cumberbatch and john malkovich should keep kids and grownups entertained over the holidays.",
+                        0.5921139616384176
+                    ]
+                ]
+            },
+            "Nicholas Guest": {
+                "args": []
+            },
+            "Steve Apostolina": {
+                "args": []
+            },
+            "Conrad Vernon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

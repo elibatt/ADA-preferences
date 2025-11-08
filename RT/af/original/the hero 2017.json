@@ -1,0 +1,186 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_elliott does some of his finest work in one of the best movies in his career, a drama that feels like a biography.",
+                0.8469183899278381
+            ],
+            [
+                "6_i don't even know who makes that barbecue sauce lee is touting at the beginning of the film or whether it's really good or just mass-produced glop, ",
+                0.6040007026318404
+            ],
+            [
+                "7_this is a real movie about real people doing real things and facing real problems.",
+                0.5224971221737228
+            ],
+            [
+                "8_even at its most contrived, \"the hero\" exerts a soothing attraction not unlike the man at its center.",
+                0.6058926404431126
+            ],
+            [
+                "9_elliott invests his character with such authority that the movie resounds like a pair of bootheels.",
+                0.7261579995617803
+            ],
+            [
+                "11_\"the hero\" may not be a great movie",
+                0.8277282787010359
+            ],
+            [
+                "12_\"the hero\" is a film about renewal, about an unexpected rebirth that doesn't come easy and can never be complete ",
+                0.6600738711167896
+            ],
+            [
+                "17_ \"the hero\" leaves you wondering if maybe he should have.",
+                -0.5690749439485988
+            ],
+            [
+                "21_ the actors deserve more to work with.",
+                -0.6780431902432464
+            ],
+            [
+                "22_haley's movie is marred by a clear limit to its poetry, and the way it has little tact with references to the title star.",
+                0.5099258343684813
+            ],
+            [
+                "25_\"the hero\" is a resonant depiction of a man fearlessly reckoning with his life, his image and most importantly, his heart.",
+                0.8542959974376887
+            ],
+            [
+                "26_instead of the usual page-per-minute of screen time, this film feels like a 30-page script stretched to 90-odd minutes.",
+                -0.7347407279534146
+            ],
+            [
+                "27_the hero, cutting clean through the film's pile of clichés with its gruff feeling and wry, weary wit.",
+                -0.5861912609468061
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Brett Haley": {
+                "args": [
+                    [
+                        "5_ director brett haley has assembled a strong cast and a generous spirit, and elliott has a way of finding poetry in silent gaze, speaking his lines as if written on velvet.",
+                        0.7556413373293557
+                    ],
+                    [
+                        "16_without lee's complicity in the triteness of his story - and mr. elliott's ability to sell it as a melancholy burden - this low-key feature by brett haley wouldn't be half as pleasurable.",
+                        0.7275394278577364
+                    ],
+                    [
+                        "27_it pretty much rescues brett haley's...",
+                        0.6103321573274705
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Sam Elliott": {
+                "args": [
+                    [
+                        "0_unfortunately, the script fails to rise to the level of elliott's artistry.",
+                        -0.6715934676821163
+                    ],
+                    [
+                        "2_the script around him doesn't do elliott or the character justice, and is a missed opportunity at a late-in-life comeback role for the one-time western star.",
+                        -0.6810587553755043
+                    ],
+                    [
+                        "3_is there an american actor of more meaningful solitude than sam elliott?",
+                        0.7552091115892011
+                    ],
+                    [
+                        "5_ director brett haley has assembled a strong cast and a generous spirit, and elliott has a way of finding poetry in silent gaze, speaking his lines as if written on velvet.",
+                        0.7556413373293557
+                    ],
+                    [
+                        "14_you will almost assuredly leave the hero knowing that [sam elliott] is a bona fide national treasure.",
+                        0.6801093560392686
+                    ],
+                    [
+                        "16_without lee's complicity in the triteness of his story - and mr. elliott's ability to sell it as a melancholy burden - this low-key feature by brett haley wouldn't be half as pleasurable.",
+                        0.7275394278577364
+                    ],
+                    [
+                        "20_a film that generously gives elliott one of the few lead roles of his lengthy career, ",
+                        0.5835574141084764
+                    ],
+                    [
+                        "21_[elliott] remains genuine and absorbing throughout.",
+                        0.6155315027446212
+                    ],
+                    [
+                        "24_with elliott front and center of every scene, \"the hero\" pulls off the kind of acting showcase that its fictional star can never achieve.",
+                        0.6656403513309177
+                    ],
+                    [
+                        "25_sam elliott could not be more compelling.",
+                        0.5550032203640021
+                    ],
+                    [
+                        "27_sam elliott's smoky, whiskey-soaked baritone is one of american cinema's undervalued treasures...",
+                        0.7832122222286182
+                    ]
+                ]
+            },
+            "Krysten Ritter": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Katharine Ross": {
+                "args": []
+            },
+            "Laura Prepon": {
+                "args": [
+                    [
+                        "13_ that voice, does most of his acting here with his eyes, is quietly effective, and so, in what could have been a queasy role, is prepon.",
+                        0.5945848071968627
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Marc Basch": {
+                "args": [
+                    [
+                        "19_haley, who co-wrote the script with marc basch, brings enough understated sympathy to lee's character to make the picture work--it throws off a gentle, sweet-spirited energy.",
+                        0.6344533740354126
+                    ]
+                ]
+            },
+            "Brett Haley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_unfortunately, the script fails to rise to the level of elliott's artistry.",
+                -0.6715934676821163
+            ],
+            [
+                "2_the script around him doesn't do elliott or the character justice, and is a missed opportunity at a late-in-life comeback role for the one-time western star.",
+                -0.6810587553755043
+            ],
+            [
+                "9_elliott invests his character with such authority that the movie resounds like a pair of bootheels.",
+                0.7261579995617803
+            ],
+            [
+                "26_instead of the usual page-per-minute of screen time, this film feels like a 30-page script stretched to 90-odd minutes.",
+                -0.7347407279534146
+            ]
+        ]
+    }
+}

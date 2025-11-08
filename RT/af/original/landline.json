@@ -1,0 +1,187 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Turturro": {
+                "args": []
+            },
+            "Jay Duplass": {
+                "args": []
+            },
+            "Abby Quinn": {
+                "args": [
+                    [
+                        "3_ it's quinn as the feisty kid sister who shines.",
+                        0.6779159784094368
+                    ],
+                    [
+                        "7_ her daffy, unpredictable presence keeps it fizzing while her co-stars, especially quinn, deliver brave, nervy performances.",
+                        0.7091166659143348
+                    ],
+                    [
+                        "18_the actors are all terrific: as ali, quinn has a radiant wildcat sweetness--there's fragility behind all that hissing.",
+                        0.6247101185174352
+                    ],
+                    [
+                        "23_falco makes every minute of her small screen time sizzle and quinn has great skill as a preternaturally mature teen.",
+                        0.5654990344040625
+                    ]
+                ]
+            },
+            "Edie Falco": {
+                "args": [
+                    [
+                        "3_you can't go wrong with fine actors like turturro and edie falco as the unappreciated mom.",
+                        -0.6488441131420368
+                    ]
+                ]
+            },
+            "Jenny Slate": {
+                "args": [
+                    [
+                        "6_like [obvious child], this one benefits from slate's ample charm and comic timing, ",
+                        0.7378558276271309
+                    ],
+                    [
+                        "13_i've argued before that slate should be the queen of modern-day rom-coms, if such a position was open.",
+                        0.5307846159716952
+                    ],
+                    [
+                        "18_and slate, with her marvelous, helium-tinged voice, is a pure pleasure to watch.",
+                        0.8456098070085198
+                    ],
+                    [
+                        "21_jenny slate and filmmaker gillian robespierre are sublime talents, ",
+                        0.5868104477947556
+                    ],
+                    [
+                        "24_a uniformly excellent cast and some genuinely moving moments make it easy to fall for, especially if you're a fan of obvious child's returning star, jenny slate.",
+                        0.8403101274643173
+                    ]
+                ]
+            },
+            "Amy Carlson": {
+                "args": []
+            },
+            "Finn Wittrock": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"landline,\" at times, feels a bit inert, that it's coasting on the novelty of '90s nostalgia without justifying that choice, and allowing those references to stand in for actual propulsive storytelling and jokes.",
+                0.5537997035445072
+            ],
+            [
+                "4_landline ultimately succumbs to a trope it eagerly tries to avoid-",
+                -0.6184988464450072
+            ],
+            [
+                "5_landline is a very funny film about people dealing with very serious situations.",
+                0.7435411823116418
+            ],
+            [
+                "7_slate isn't the star of \"landline,\" ",
+                -0.6947722114808568
+            ],
+            [
+                "9_\"landline\" is a very nice movie about the ways people can be not nice to each other at all, and it never quite overcomes its innate passive aggressiveness.",
+                0.6559961974631068
+            ],
+            [
+                "10_the characters and the actors playing them are appealing, and somehow the movie all adds up to a better than break-even proposition.",
+                0.5438314712175347
+            ],
+            [
+                "12_landline doesn't exploit the retro setting for gimmicky punchlines.",
+                -0.6202266038491051
+            ],
+            [
+                "13_add landline to the evidence pile.",
+                -0.6070924479640922
+            ],
+            [
+                "17_landline finds the analog joy it's reaching for.",
+                0.7135798484520866
+            ],
+            [
+                "21_ landline drifts into sitcom clichés, when there's tons of talk about pain ",
+                -0.6724497786824994
+            ],
+            [
+                "22_[a] richly detailed, often moving film",
+                0.7954739224652416
+            ],
+            [
+                "25_crumbling nuclear families are a well-worn movie genre",
+                0.5786442515556323
+            ],
+            [
+                "25_landline is simply another one, not appreciably worse than the average, ",
+                -0.7887586610693424
+            ],
+            [
+                "29_on a whole, this is an agreeable sophomore effort from the filmmaker-a sundance movie in one of the better senses.",
+                0.7441187995108844
+            ],
+            [
+                "30_great movie bickering becomes a kind of music, ",
+                0.7574829249789645
+            ],
+            [
+                "30_ well before the end of \"landline,\" i just wanted the characters to cease their ranting and storming, or at least lower the volume.",
+                -0.7891737267138579
+            ],
+            [
+                "31_a smart and tender movie that was swept a bit under the rug by its misguided designation as \"the abortion comedy.\"",
+                0.691532864802706
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Gillian Robespierre": {
+                "args": [
+                    [
+                        "11_the actors fling themselves with forced charm into their narrowly defined roles, and robespierre juggles the story lines with a bland vigor that lacks any observational, analytical, or symbolic dimension.",
+                        -0.5666851237385715
+                    ],
+                    [
+                        "14_i found myself wishing that robespierre had uncovered something more interesting for her characters to do than act out plotlines from other movies i had already seen.",
+                        -0.5672010660557909
+                    ],
+                    [
+                        "19_ here they're simply awkward, and robespierre's efforts to meld sentiment and laughs grow increasingly strained.",
+                        -0.6764839482249212
+                    ],
+                    [
+                        "20_the humor works because robespierre parcels it out sparingly, at all the right (and wrong) moments, and because all the actors have serious chops.",
+                        0.6059081124796171
+                    ],
+                    [
+                        "21_jenny slate and filmmaker gillian robespierre are sublime talents, ",
+                        0.5868104477947556
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Elisabeth Holm": {
+                "args": []
+            },
+            "Gillian Robespierre": {
+                "args": []
+            }
+        }
+    }
+}

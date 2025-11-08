@@ -1,0 +1,197 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_if you are college-bound, go and see goat first, ",
+                0.5665351378220579
+            ],
+            [
+                "1_any discussion of toxic masculinity, or the ways in which brotherhood in all its forms can get twisted, is likely to be muted by second-guessing of the movie's methods.",
+                0.5787943126879218
+            ],
+            [
+                "2_though the movie aims for the gravity and psychological horror of stanley kubrick's full metal jacket,",
+                0.5419921623655326
+            ],
+            [
+                "2_ the film is essentially the dark flip side of a seth rogen comedy ...",
+                -0.5364890008203242
+            ],
+            [
+                "3_a fact-based fratboy movie it might be helpful to think of as animal house minus the laughs.",
+                -0.76604553978761
+            ],
+            [
+                "7_there's a numbing aspect to \"goat.\"",
+                -0.5811503784721701
+            ],
+            [
+                "8_this isn't an easy film to watch.",
+                -0.5145361162043534
+            ],
+            [
+                "10_ it's the familial variety with which \"goat\" explores something ultimately more compelling.",
+                0.6858173208409455
+            ],
+            [
+                "15_as a vision of toxic masculinity and the insecurities that inform it, goat is shrewdly perceptive.",
+                0.6236652324900596
+            ],
+            [
+                "16_few films take a look at the american male college tradition through such a dark, dramatic lens as \"goat.\"",
+                0.7630674256767012
+            ],
+            [
+                "18_the film's one fresh angle - the relationship between brad and brett - is relegated to the b-side during the debauchery.",
+                0.7535045004155597
+            ],
+            [
+                "19_when the film feels like it's reaching outside of its world to comment on masculinity as a whole, it falters a bit.",
+                -0.6339790447394993
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Andrew Neel": {
+                "args": [
+                    [
+                        "5_with the masterful final shot, neel wisely leaves the character in a fragile place, uncertain of his next steps.",
+                        0.6171519375085606
+                    ],
+                    [
+                        "7_ at the film's midpoint, the hazing rituals of hell week begin in earnest, and neel doesn't elide much.",
+                        -0.6989946839926895
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Andrew Neel": {
+                "args": []
+            },
+            "Mike Roberts (XXXVI) ": {
+                "args": []
+            },
+            "David Gordon Green": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_with the masterful final shot, neel wisely leaves the character in a fragile place, uncertain of his next steps.",
+                0.6171519375085606
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Eric Staves": {
+                "args": []
+            },
+            "Jon Osbeck": {
+                "args": []
+            },
+            "Danny Flaherty": {
+                "args": []
+            },
+            "Denise Dal Vera": {
+                "args": []
+            },
+            "Ben Schnetzer": {
+                "args": [
+                    [
+                        "6_goat wouldn't be as strong as it is without the strength of schnetzer's lead performance, which provides the emotional anchor around which the rest of the film orbits.",
+                        0.7066580531630943
+                    ],
+                    [
+                        "20_ also for the memorable performances by ben schnetzer and nick jonas.",
+                        0.7803412092408163
+                    ]
+                ]
+            },
+            "Broch Yurich": {
+                "args": []
+            },
+            "Clare Combest": {
+                "args": []
+            },
+            "Kevin Crowley": {
+                "args": []
+            },
+            "James Franco": {
+                "args": []
+            },
+            "Brennan Horine": {
+                "args": []
+            },
+            "Virginia Gardner": {
+                "args": []
+            },
+            "Daniel Grey": {
+                "args": []
+            },
+            "Nick Rose": {
+                "args": []
+            },
+            "Will Pullen": {
+                "args": []
+            },
+            "Gus Halper": {
+                "args": []
+            },
+            "Trever Turner": {
+                "args": []
+            },
+            "Caleb Farley": {
+                "args": []
+            },
+            "Denise DelVera": {
+                "args": []
+            },
+            "Cody Roberts": {
+                "args": []
+            },
+            "Nick Jonas": {
+                "args": [
+                    [
+                        "4_ mr. jonas has not much to do ",
+                        -0.7409605002798644
+                    ]
+                ]
+            },
+            "Annie Grove": {
+                "args": []
+            },
+            "Austin Lyon": {
+                "args": []
+            },
+            "Pepper Sweeney": {
+                "args": []
+            },
+            "Brock Yurich": {
+                "args": []
+            },
+            "Jake Picking": {
+                "args": []
+            },
+            "Claire Combest": {
+                "args": []
+            },
+            "Jamar Jackson": {
+                "args": []
+            },
+            "Lauren Knutson": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

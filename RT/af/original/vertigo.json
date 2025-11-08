@@ -1,0 +1,189 @@
+{
+    "director": {
+        "args": [
+            [
+                "1_it's as much a wonder of suspense as it is a catalogue of the director's themes and an allegory for his own art of enticement-and for the erotic pitfalls of his métier.",
+                0.8539074702056648
+            ],
+            [
+                "8_there is a glumness to the film that is notably missing from the director's other films of the period.",
+                0.5983610797336368
+            ],
+            [
+                "12_from a craft standpoint, vertigo represents the director in peak form.",
+                0.5572087418306156
+            ]
+        ],
+        "entities": {
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "0_alfred hitchcock's \"vertigo\" is an artistic triumph for the master of mystery.",
+                        0.6510121712195237
+                    ],
+                    [
+                        "5_why is this movie hitchcock's masterpiece?",
+                        0.5719573435881249
+                    ],
+                    [
+                        "13_the lure of death, the power of the past, the guilty complicity of a clean-cut hero, the near-fetishistic use of symbol and color: these hitchcock hallmarks are all mesmerizingly on view.",
+                        0.5301111991077113
+                    ],
+                    [
+                        "15_well, nothing, except that vertigo is performed in the manner expected of all performers in hitchcock films.",
+                        -0.5862030811531469
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Don Giovanni": {
+                "args": []
+            },
+            "Miliza Milo": {
+                "args": []
+            },
+            "Tom Helmore": {
+                "args": []
+            },
+            "June Jocelyn": {
+                "args": []
+            },
+            "Dori Simmons": {
+                "args": []
+            },
+            "Julian Petruzzi": {
+                "args": []
+            },
+            "John Benson": {
+                "args": []
+            },
+            "Fred Graham": {
+                "args": []
+            },
+            "Kim Novak": {
+                "args": []
+            },
+            "James Stewart": {
+                "args": [
+                    [
+                        "7_james stewart, on camera almost constantly, comes through with a startlingly fine performance as the lawyer-cop who suffers from acrophobia.",
+                        0.6304908716501084
+                    ],
+                    [
+                        "10_you watch this guy going slowly over the brink and realize, good grief, this is jimmy stewart.",
+                        0.5148368175868092
+                    ]
+                ]
+            },
+            "William Remick": {
+                "args": []
+            },
+            "Carlo Dotto": {
+                "args": []
+            },
+            "Buck Harrington": {
+                "args": []
+            },
+            "Barbara Bel Geddes": {
+                "args": []
+            },
+            "Ed Stevlingson": {
+                "args": []
+            },
+            "Margaret Brayton": {
+                "args": []
+            },
+            "Ellen Corby": {
+                "args": []
+            },
+            "Henry Jones": {
+                "args": []
+            },
+            "Roxann Delman": {
+                "args": []
+            },
+            "Roland Got": {
+                "args": []
+            },
+            "Lee Patrick": {
+                "args": []
+            },
+            "Jack Ano": {
+                "args": []
+            },
+            "Bruno Della Santina": {
+                "args": []
+            },
+            "Jack Richardson": {
+                "args": []
+            },
+            "Paul Bryar": {
+                "args": []
+            },
+            "Mollie Dodd": {
+                "args": []
+            },
+            "Konstantin Shayne": {
+                "args": []
+            },
+            "Joanne Genthon": {
+                "args": []
+            },
+            "Nina Shipman": {
+                "args": []
+            },
+            "Raymond Bailey": {
+                "args": []
+            },
+            "Sara Taft": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Samuel W. Taylor": {
+                "args": []
+            },
+            "Alec Coppel": {
+                "args": []
+            },
+            "Samuel A. Taylor": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_because no movie plunges us more deeply into the dizzying heart of erotic obsession.",
+                -0.5123391748423596
+            ],
+            [
+                "8_there is a glumness to the film that is notably missing from the director's other films of the period.",
+                0.5983610797336368
+            ],
+            [
+                "9_one of the things that still amazes me about this movie is the way its study of obsession is so single-minded.",
+                -0.5482138727647815
+            ],
+            [
+                "12_from a craft standpoint, vertigo represents the director in peak form.",
+                0.5572087418306156
+            ],
+            [
+                "16_in its dark heart, the film is a sorrowful contemplation of love and the veils that manipulate sexual passions.",
+                0.7947700526298522
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

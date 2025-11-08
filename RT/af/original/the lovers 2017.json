@@ -1,0 +1,166 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Debra Winger": {
+                "args": [
+                    [
+                        "8_ it's winger who really brings the color to this movie, creating a woman filled with disappointment and passion and wit, taking a small-scale comedy of manners to a darker, richer place.",
+                        0.7744796204069108
+                    ],
+                    [
+                        "25_letts and winger ... embody the aimlessness of their characters with pointed restraint as michael and mary.",
+                        0.7330503921242034
+                    ]
+                ]
+            },
+            "Jessica Sula": {
+                "args": []
+            },
+            "Melora Walters": {
+                "args": []
+            },
+            "Eric Satterberg": {
+                "args": []
+            },
+            "Tyler Ross": {
+                "args": []
+            },
+            "Tracy Letts": {
+                "args": [
+                    [
+                        "17_we can read the character's history in letts' face before we know the details.",
+                        0.7801978028135181
+                    ]
+                ]
+            },
+            "Lesley Fera": {
+                "args": []
+            },
+            "Aidan Gillen": {
+                "args": []
+            },
+            "Janine Mitchell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the lovers sustains a poignant tone that makes me choke up every time i watch it.",
+                0.5445355701182697
+            ],
+            [
+                "1_a delicate, deadpan comic fable, as if someone gave boccaccio a camera and an indie film budget.",
+                0.567863829861511
+            ],
+            [
+                "2_\"the lovers\" keeps folding, changing and evolving, ",
+                -0.5490026383684531
+            ],
+            [
+                "7_not as long as the genre can accommodate a film as uniquely wonderful as \"the lovers.\"",
+                0.868816795600388
+            ],
+            [
+                "9_the lovers is buoyant and cheerfully flirty, ",
+                0.6052375461419703
+            ],
+            [
+                "13_ the two gifted leads play it so gracefully that it sustains the entire movie.",
+                0.5390268245706801
+            ],
+            [
+                "15_flustered, flirty and filled to the brim with compassion, \"the lovers\" is charming, even when it's proving how hollow charm can be.",
+                0.6532101891578139
+            ],
+            [
+                "18_the movie exhausts itself in its conception and sits inert on the screen like an undigested mass of script pages.",
+                -0.6358292515790127
+            ],
+            [
+                "19_with its waltz-like score and farcical symmetry, the lovers is about as full as a movie can be with a premise so thin.",
+                -0.7733975919504152
+            ],
+            [
+                "21_ her intensity is too much for this goofy grab bag of a movie.",
+                -0.7297063241220262
+            ],
+            [
+                "27_much of what makes the lovers so compelling is the way it observes the differences between mary and michael, two people who are escaping the same marriage in the same way for different reasons.",
+                0.8433811335971295
+            ],
+            [
+                "28_there are no grand pronouncements in the lovers, which smartly communicates its ideas about relationships during its long stretches of silence.",
+                0.571864202707381
+            ],
+            [
+                "29_while the lovers unfolds in quiet, gentle terms for large stretches of time, it arrives at a remarkable payoff in the closing moments that deconstructs the very idea of a happy ending.",
+                0.8456909211429205
+            ],
+            [
+                "30_\"the lovers\" is a comedy of middle american doldrums that leaves you rooting for its characters instead of smirking at them.",
+                -0.6622222425900903
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Azazel Jacobs": {
+                "args": [
+                    [
+                        "9_ jacobs never loses sight of the fact that loneliness that can strike both inside a marriage and outside it, and no human being is ever fully protected from suffering.",
+                        -0.5738801620209666
+                    ],
+                    [
+                        "10_the lovers, written and directed by azazel jacobs, is a strangely gripping movie mostly because of its aversion to over-explaining.",
+                        0.6356999955088957
+                    ],
+                    [
+                        "14_with luck, by the end, you may hear what jacobs does: the aching romantic movie imprisoned in each of us, desperate for release.",
+                        0.7200186426348825
+                    ],
+                    [
+                        "22_writer-director azazel jacobs finds buoyant comedy and touching gravity in the ashes of a relationship.",
+                        0.7583642595343356
+                    ],
+                    [
+                        "23_ it's one that writer-director jacobs invests with real flesh, blood and feeling ...",
+                        0.7428634293473835
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_jacobs has delivered a two-handed character study and, in this mission, he is handily assisted by his two powerful leads.",
+                0.6534195405569639
+            ],
+            [
+                "17_we can read the character's history in letts' face before we know the details.",
+                0.7801978028135181
+            ],
+            [
+                "18_the movie exhausts itself in its conception and sits inert on the screen like an undigested mass of script pages.",
+                -0.6358292515790127
+            ],
+            [
+                "23_ it's one that writer-director jacobs invests with real flesh, blood and feeling ...",
+                0.7428634293473835
+            ]
+        ],
+        "entities": {
+            "Azazel Jacobs": {
+                "args": []
+            }
+        }
+    }
+}

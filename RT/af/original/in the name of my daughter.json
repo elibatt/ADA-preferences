@@ -1,0 +1,153 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_more disappointing than the film's inertia and amorphousness is its sacrifice of the real-world themes of class, money, corruption, and power.",
+                0.5139198500262387
+            ],
+            [
+                "2_'in the name of my daughter\" is one of those french films that leave you going \"huh?\"",
+                0.5758795659077922
+            ],
+            [
+                "6_the ongoing trend of real-life french wrongdoings inspiring lengthy film dramas reaches a wearisome peak here.",
+                0.6118636184389263
+            ],
+            [
+                "7_\"in the name of my daughter\" has good intentions of taking a sensationalistic riddle and turning it into a human story.",
+                0.5608180133102972
+            ],
+            [
+                "10_ the characters' passions drive the action, director andre techine lends the film an appealing illusion of calm.",
+                0.757074420312428
+            ],
+            [
+                "18_can such a film be anything other than exciting?",
+                -0.5376071979765851
+            ],
+            [
+                "19_a mobster movie without whackings, a thriller without suspense and a courtroom drama without resolution, this turgid retelling of an unsolved missing-persons case functions mostly as a portrait of a young woman who loved too passionately.",
+                0.7588852183628916
+            ],
+            [
+                "20_while the film has infinite problems, casting is key among them.",
+                0.6845127317023203
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "André Téchiné": {
+                "args": [
+                    [
+                        "9_or that téchiné doesn't seem to have much of a feel for the material.",
+                        -0.7518215459525102
+                    ],
+                    [
+                        "11_lacking action to the point of seeming immobile, mr. téchiné nevertheless amasses a catalogue of anger, desire and sex, enhanced by stunning landscapes of villas and a parade of the rich and glamorous haut monde at play.",
+                        0.7340920602039203
+                    ],
+                    [
+                        "15_while by no means misfiring, mr. téchiné is definitely capable of finer orchestrations.",
+                        0.6491241989418981
+                    ],
+                    [
+                        "16_like any good prosecutor, téchiné gives us enough information to render a verdict without bullying us into agreement.",
+                        0.6773156034683498
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "10_ the characters' passions drive the action, director andre techine lends the film an appealing illusion of calm.",
+                0.757074420312428
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "André Téchiné": {
+                "args": []
+            },
+            "Jean-Charles Le Roux": {
+                "args": []
+            },
+            "Cédric Anger": {
+                "args": [
+                    [
+                        "11_lacking action to the point of seeming immobile, mr. téchiné nevertheless amasses a catalogue of anger, desire and sex, enhanced by stunning landscapes of villas and a parade of the rich and glamorous haut monde at play.",
+                        0.7340920602039203
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jean-Pierre Getti": {
+                "args": []
+            },
+            "Pascal Mercier": {
+                "args": []
+            },
+            "Christian Bianchi": {
+                "args": []
+            },
+            "Catherine Deneuve": {
+                "args": []
+            },
+            "Mauro Conte": {
+                "args": []
+            },
+            "Hubert Rollet": {
+                "args": []
+            },
+            "Jean-Paul Sourty": {
+                "args": []
+            },
+            "Jean Corso": {
+                "args": []
+            },
+            "Judith Chemla": {
+                "args": []
+            },
+            "Ali Af Shari": {
+                "args": []
+            },
+            "Noel Simsolo": {
+                "args": []
+            },
+            "Jean Vincentelli": {
+                "args": []
+            },
+            "Guillaume Canet": {
+                "args": []
+            },
+            "Laetitia Rosier": {
+                "args": []
+            },
+            "Jean-Marie Tiercelin": {
+                "args": []
+            },
+            "Peter Bonke": {
+                "args": []
+            },
+            "Tamara De Leener": {
+                "args": []
+            },
+            "Jean-Claude Bernardet": {
+                "args": []
+            },
+            "Adèle Haenel": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

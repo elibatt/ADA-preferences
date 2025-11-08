@@ -1,0 +1,106 @@
+{
+    "film": {
+        "args": [
+            [
+                "10_the movie is at times deliberately off-putting.",
+                -0.6654993373633473
+            ],
+            [
+                "18_ the film's slipstream of emotion is powerful and inescapable.",
+                0.7284016398076976
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Josephine Decker": {
+                "args": [
+                    [
+                        "2_letting the audience determine the meaning of her aesthetic choices, decker shows little interest in creating meaning herself.",
+                        0.6300412306594603
+                    ],
+                    [
+                        "3_if you do it for 90 minutes, as decker does, the audience isn't stirred.",
+                        -0.7610187311797152
+                    ],
+                    [
+                        "8_by pushing to the edges of her own iconoclastic vision, director josephine decker touches on universal truths rarely found inside a multiplex.",
+                        0.631806683945856
+                    ],
+                    [
+                        "9_writer-director josephine decker more than earns the label \"auteur,\" and all the connotations that come with it.",
+                        0.8102284602253573
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Julee Cerda": {
+                "args": []
+            },
+            "Molly Parker": {
+                "args": []
+            },
+            "Okwui Okpokwasili": {
+                "args": []
+            },
+            "Miranda July": {
+                "args": [
+                    [
+                        "5_ as madeline caught between molly parker's manipulative acting teacher and miranda july's differently manipulative mom.",
+                        -0.507332652290759
+                    ]
+                ]
+            },
+            "Helena Howard": {
+                "args": [
+                    [
+                        "0_watching a once-in-a-generation talent like howard work at this early point feels like entering a tall building on the ground floor.",
+                        -0.7481052872416031
+                    ],
+                    [
+                        "5_helena howard makes a heart-stopping professional de",
+                        0.7046269602192154
+                    ],
+                    [
+                        "10_but it's anchored by a star-making turn from helena howard, who plays the fascinating,",
+                        0.8510426445764668
+                    ],
+                    [
+                        "13_the film is anchored at every turn by newcomer helena howard's big, brash and brilliant lead performance.",
+                        0.7677570740883158
+                    ],
+                    [
+                        "17_[helena howard] is the center spectacle, and the movie plays like a fever dream inside her new, fascinating mind.",
+                        0.632664465687488
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "11_it's a superb piece of acting about acting, and a harbinger of great things to come in this young actor's future.",
+                0.7458539501884447
+            ],
+            [
+                "16_anyone who has ever taken an acting class and witnessed the psychodramas brewed there will relate to this bubbling kettle of raw, unleashed emotions stirred up in shifting power grabs.",
+                0.55515089836803
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Josephine Decker": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

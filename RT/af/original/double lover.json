@@ -1,0 +1,103 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_for a film about identical-twin gynecologists who share a woman, david cronenberg's dead ringers was awfully psychological.",
+                0.6636565118641722
+            ],
+            [
+                "3_dark, kinky and twisty with a modernist sheen, \"double lover\" delivers a delightfully messed up cavalcade of erotic hijinks.",
+                0.5935335243829386
+            ],
+            [
+                "6_double with a kinky, winking full-frontal gallic twist.",
+                -0.5107644578612169
+            ],
+            [
+                "10_nothing about this film feels remotely safe.",
+                -0.5179883449940139
+            ],
+            [
+                "11_\"double lover\" ... spins its influences into a frenzy that ultimately reveals the story to be very much its own thing.",
+                0.5734479186884448
+            ],
+            [
+                "14_l'amant double steadily disappears down a whirlpool of kinky sex, melodramatic mystery, and thriller bombast.",
+                0.5394311259489212
+            ],
+            [
+                "16_what's liberating here is the film's lack of inhibitions, which absolves the guilt without compromising the pleasure.",
+                0.53305902879447
+            ],
+            [
+                "17_a film that's made with serious craftsmanship ",
+                0.5589472186515348
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "François Ozon": {
+                "args": [
+                    [
+                        "0_what gives the film its surprising coherence is not only the fluidity of ozon's technique ",
+                        0.6241298723632633
+                    ],
+                    [
+                        "1_conversely, for a film about identical-twin psychologists who share a woman, françois ozon's latest is awfully gynecological.",
+                        0.7967375172554347
+                    ],
+                    [
+                        "4_francois ozon's good twin/bad twin thriller puts dull hollywood twaddle like fifty shades freed to shame with its wild, wanton ride into the subconscious.",
+                        -0.5081159271898383
+                    ],
+                    [
+                        "7_ if you're willing to go on ozon's ride, it's an unpredictable journey.",
+                        0.8078869157730145
+                    ],
+                    [
+                        "12_and in the meantime, we have ozon doing his ozon thing, and that's not bad.",
+                        -0.6709218710653043
+                    ],
+                    [
+                        "13_double lover may not represent ozon in peak form ",
+                        0.598783605962126
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dominique Reymond": {
+                "args": []
+            },
+            "Jacqueline Bisset": {
+                "args": []
+            },
+            "Jérémie Renier": {
+                "args": []
+            },
+            "Myriam Boyer": {
+                "args": []
+            },
+            "Marine Vacth": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "François Ozon": {
+                "args": []
+            }
+        }
+    }
+}

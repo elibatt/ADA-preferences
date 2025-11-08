@@ -1,0 +1,68 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "7_it doesn't matter if you've never seen a chinese movie in your life.",
+                0.5889997231820381
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "3_chow and his army of writers (seriously, it took nine people to write this) get terrific support from a strong cast of regulars and newcomers who really sell the story, cheesy special effects aside.",
+                -0.5913498190618781
+            ]
+        ],
+        "entities": {
+            "Show Lo": {
+                "args": []
+            },
+            "Pierre Bourdaud": {
+                "args": []
+            },
+            "Yun-Lin Jhuang": {
+                "args": []
+            },
+            "Yuqi Zhang": {
+                "args": []
+            },
+            "Chao Deng": {
+                "args": []
+            },
+            "Yun Lin": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "7_it doesn't matter if you've never heard of the director.",
+                -0.5274034303511252
+            ]
+        ],
+        "entities": {
+            "Stephen Chow": {
+                "args": [
+                    [
+                        "0_you've already seen most of what chow and his seven(!) co-screenwriters have crafted, and you've usually seen it with greater coherence and more impressive cgi.",
+                        0.8060515659078674
+                    ],
+                    [
+                        "1_in the mermaid, chow never forgets that the camera is the funniest tool at his disposal, and the only one that speaks in a language that everyone can understand.",
+                        0.6689584370116815
+                    ]
+                ]
+            }
+        }
+    }
+}

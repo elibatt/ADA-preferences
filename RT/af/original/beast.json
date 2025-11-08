@@ -1,0 +1,188 @@
+{
+    "director": {
+        "args": [
+            [
+                "20_the charming johnny flynn ultimately struggles to find the right tone for the boyfriend, not helped by a director who hasn't quite mastered the rhythm required for his surprise ending.",
+                0.5385466580253618
+            ]
+        ],
+        "entities": {
+            "Michael Pearce": {
+                "args": [
+                    [
+                        "4_ by writer-director michael pearce emanates a chill that will have you hugging your sides.",
+                        0.7525410307896322
+                    ],
+                    [
+                        "9_an extremely strong first feature from pearce, and buckley is riveting.",
+                        0.7684524725732571
+                    ],
+                    [
+                        "14_with the assured script and deft direction from pearce, along with buckley's complex and nuanced performance, we never know what's actually going on in her head.",
+                        0.7749996782114337
+                    ],
+                    [
+                        "15_aided and abetted by benjamin kracun's alluringly sensual cinematography, mr. pearce has created a feverish fairy tale riven with dark horrors and forbidden desires.",
+                        0.7528470677348236
+                    ],
+                    [
+                        "16_, pearce is nowhere near that level yet.",
+                        -0.606190476472422
+                    ],
+                    [
+                        "17_writer-director pearce, making his feature de",
+                        0.6781312298496279
+                    ],
+                    [
+                        "19_features a truly breakthrough performance (maybe two) and announces writer/director michael pearce as a talent to watch.",
+                        0.6128180444453646
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "19_features a truly breakthrough performance (maybe two) and announces writer/director michael pearce as a talent to watch.",
+                0.6128180444453646
+            ]
+        ],
+        "entities": {
+            "Charley Palmer Rothwell": {
+                "args": []
+            },
+            "Hattie Gotobed": {
+                "args": []
+            },
+            "Johnny Flynn": {
+                "args": [
+                    [
+                        "20_the charming johnny flynn ultimately struggles to find the right tone for the boyfriend, not helped by a director who hasn't quite mastered the rhythm required for his surprise ending.",
+                        0.5385466580253618
+                    ]
+                ]
+            },
+            "Jessie Buckley": {
+                "args": [
+                    [
+                        "1_not since sissy spacek fell in with martin sheen in badlands has an actress taken us through the process of swapping home and hearth for a homicidal maniac with the manic intensity buckley displays here.",
+                        -0.5601851929939929
+                    ],
+                    [
+                        "2_\"beast\" is a pitch black ride into the recesses of the human soul, and buckley is the film's cold, dark heart.",
+                        0.5567970997063494
+                    ],
+                    [
+                        "9_an extremely strong first feature from pearce, and buckley is riveting.",
+                        0.7684524725732571
+                    ],
+                    [
+                        "14_with the assured script and deft direction from pearce, along with buckley's complex and nuanced performance, we never know what's actually going on in her head.",
+                        0.7749996782114337
+                    ],
+                    [
+                        "18_beast is at its best when buckley is at her most undaunted, showing us moll at her most extreme.",
+                        0.6388000279600259
+                    ],
+                    [
+                        "21_upgrading a sleeping-with-the-enemy premise familiar from countless b-thrillers with a faintly mythic aura and cool psychosexual shading, \"beast\" also sustains a fresh, frank feminine perspective through jessie buckley's remarkable lead performance.",
+                        0.8596263479252348
+                    ]
+                ]
+            },
+            "Geraldine James": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_ by writer-director michael pearce emanates a chill that will have you hugging your sides.",
+                0.7525410307896322
+            ],
+            [
+                "14_with the assured script and deft direction from pearce, along with buckley's complex and nuanced performance, we never know what's actually going on in her head.",
+                0.7749996782114337
+            ],
+            [
+                "19_features a truly breakthrough performance (maybe two) and announces writer/director michael pearce as a talent to watch.",
+                0.6128180444453646
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_ memorable feature... that slowly yields its truths.",
+                0.6866708592510051
+            ],
+            [
+                "3_there is nothing more enjoyable than a film that shatters your expectations, turning a confident hunch about what's coming next into smithereens of doubt.",
+                0.5742374034609391
+            ],
+            [
+                "3_the british thriller \"beast\" does it strikingly well.",
+                0.5344625316613874
+            ],
+            [
+                "4_immaculately composed yet skittish, edgy and surprising, this impressive de",
+                0.7085534029118723
+            ],
+            [
+                "5_the dark nail-biter eschews the obvious at every turn and is less a whodunit than a twisted moral meditation grounded by its mesmerizing leading lady.",
+                -0.5284218622640895
+            ],
+            [
+                "6_the film's refusal to obey genre rules can be as disorienting as it is refreshing.",
+                0.7952591647494284
+            ],
+            [
+                "7_even if it has b-movie trappings and the tension wanes in the second half, it's a stylish psychodrama.",
+                -0.5272543044119742
+            ],
+            [
+                "8_beast walks the line between taut psychological thriller and doomed genre romance.",
+                0.7146955210762966
+            ],
+            [
+                "10_ his stinginess with plot lends the film an vice-tightening air of mystery that suits it.",
+                0.6278615131582506
+            ],
+            [
+                "11_beast plays with its lovers deftly, then pitilessly.",
+                0.6996442302296143
+            ],
+            [
+                "12_pearce has some mildly wicked fun with his scenario, winking as he stages such routine thriller-flick maneuvers as having the lights suddenly cut out.",
+                -0.5801697777159802
+            ],
+            [
+                "13_pearce, in his feature directing de",
+                0.6587502371781767
+            ],
+            [
+                "13_, proves himself a solid craftsman, with a gift for giving even derivative story elements a nerve-jangling tweak.",
+                0.8043302128205134
+            ],
+            [
+                "16_the concept needed polanski circa knife",
+                0.530012662520859
+            ],
+            [
+                "16_in the water and repulsion, and while this is a promising de",
+                0.5400624947554572
+            ],
+            [
+                "17_, proves dedicated to a psychological naturalism.",
+                0.7116531445647967
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

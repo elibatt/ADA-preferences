@@ -1,0 +1,133 @@
+{
+    "film": {
+        "args": [
+            [
+                "8_if you don't care about fashion there is another issue that unfolds fascinatingly over the course of the film: whether the theme of \"the impact of chinese aesthetics on western fashion\" is actually a celebration of orientalism.",
+                0.7457854911182272
+            ],
+            [
+                "15_the movie has been smartly built to satisfy hardcore fashionistas and red-carpet gawkers in equal measure.",
+                0.7037003279782452
+            ],
+            [
+                "18_the whole film is a delicious excuse to gawk - at the magnificent costumes, at the diplomatic dance of museum personnel and party planners, and at the sumptuous squish of so many egos sharing space.",
+                0.8544819310088261
+            ],
+            [
+                "19_it's a film that effectively combines two distinct - and very different - pleasures.",
+                0.8093487101542827
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "16",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Rossi": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "5_it will appeal to fans of wintour's brand and style devotees, ",
+                0.6488873120323823
+            ],
+            [
+                "16_debates about how best to represent both fashion and china - with the likes of baz luhrmann and wong kar-wai weighing in - are provocative and useful.",
+                0.8728215126017318
+            ]
+        ],
+        "entities": {
+            "Anna Wintour": {
+                "args": [
+                    [
+                        "5_it will appeal to fans of wintour's brand and style devotees, ",
+                        0.6488873120323823
+                    ]
+                ]
+            },
+            "Andrew Bolton": {
+                "args": []
+            },
+            "John Galliano": {
+                "args": []
+            },
+            "Karl Lagerfeld": {
+                "args": []
+            },
+            "Jean-Paul Gaultier": {
+                "args": []
+            },
+            "Baz Luhrmann": {
+                "args": [
+                    [
+                        "16_debates about how best to represent both fashion and china - with the likes of baz luhrmann and wong kar-wai weighing in - are provocative and useful.",
+                        0.8728215126017318
+                    ]
+                ]
+            },
+            "Andrew Rossi": {
+                "args": []
+            },
+            "Fabiola Beracasa": {
+                "args": []
+            },
+            "Skot Bright": {
+                "args": []
+            },
+            "Sylvana Ward Durrett": {
+                "args": []
+            },
+            "Matt Weaver": {
+                "args": []
+            },
+            "Sarah Arison": {
+                "args": []
+            },
+            "Jason Beckman": {
+                "args": []
+            },
+            "Josh Braun": {
+                "args": []
+            },
+            "Nancy Chilton": {
+                "args": []
+            },
+            "Ryan Kavanaugh": {
+                "args": []
+            },
+            "Tucker Tooley": {
+                "args": []
+            },
+            "Chad Beck": {
+                "args": []
+            },
+            "Andrew Coffman": {
+                "args": []
+            },
+            "Sofia Hultquist": {
+                "args": []
+            },
+            "Ian Hultquist": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

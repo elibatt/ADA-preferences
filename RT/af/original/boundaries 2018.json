@@ -1,0 +1,178 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Kristen Schaal": {
+                "args": []
+            },
+            "Yahya Abdul-Mateen II": {
+                "args": []
+            },
+            "Vera Farmiga": {
+                "args": [
+                    [
+                        "1_ interesting cast, led by christopher plummer and vera farmiga.",
+                        0.6331393321426434
+                    ],
+                    [
+                        "3_plummer and farmiga are great together.",
+                        0.7976176688588559
+                    ],
+                    [
+                        "6_there's real love in that routine, and that's where farmiga and feste shine.",
+                        0.5910260309616565
+                    ],
+                    [
+                        "11_a road movie starring christopher plummer and vera farmiga, two actors i am willing to see in just about anything.",
+                        0.6365499774515435
+                    ]
+                ]
+            },
+            "Lewis MacDougall": {
+                "args": []
+            },
+            "Peter Fonda": {
+                "args": []
+            },
+            "Dolly Wells": {
+                "args": []
+            },
+            "Christopher Lloyd": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": [
+                    [
+                        "4_[plummer] is incapable of mediocrity, ",
+                        -0.5783598739983153
+                    ],
+                    [
+                        "8_farmiga is too imaginative and keen for the material, and watching the elegant plummer prattle away about his adult diapers grows wincingly weary too fast for comfort.",
+                        0.5713523174589061
+                    ],
+                    [
+                        "9_there's an unpredictability in plummer's performance that keeps this dramedy on its toes even as its inevitably gets more and more predictable.",
+                        0.617698646393301
+                    ],
+                    [
+                        "10_being in the presence of plummer these days is always time well spent.",
+                        0.6483842781263335
+                    ],
+                    [
+                        "20_a fantastic cast doing fine work can't make this feel-good hokum believable, and most viewers who walk away satisfied are those who'd happily watch any new plummer vehicle, just to celebrate the actor's enduring vitality and charm.",
+                        0.8003468200559403
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Shana Feste": {
+                "args": [
+                    [
+                        "6_there's real love in that routine, and that's where farmiga and feste shine.",
+                        0.5910260309616565
+                    ],
+                    [
+                        "7_every so often, writer-director shana feste will drop in a line or a situation that doesn't feel like something she picked up from indie screenwriting tropes 101, and you feel yourself being drawn into the story.",
+                        -0.588809581920378
+                    ],
+                    [
+                        "15_ feste's story never really gets the rhythms right.",
+                        -0.5441191348282904
+                    ],
+                    [
+                        "16_one wishes feste had checked to see if there was any gas left in the tank of the road-trip genre before committing to its well-worn byways.",
+                        -0.6828326774068731
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_ damn if the script doesn't draw him close to the edge.",
+                -0.776410409894772
+            ],
+            [
+                "7_every so often, writer-director shana feste will drop in a line or a situation that doesn't feel like something she picked up from indie screenwriting tropes 101, and you feel yourself being drawn into the story.",
+                -0.588809581920378
+            ],
+            [
+                "11_because of them, boundaries, which might have been cooked up by a screenwriting program called roadmovie, is halfway tolerable.",
+                -0.7894491932636231
+            ]
+        ],
+        "entities": {
+            "Shana Feste": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a movie with no reason to exist apart from setting into motion an ",
+                -0.6817878313332728
+            ],
+            [
+                "2_the film... crosses a line - between engaging idiosyncrasy and floundering improbability, amusing and cringeworthy.",
+                0.7519082728604459
+            ],
+            [
+                "5_that's the easy, low-grade charm of \"boundaries.\"",
+                0.6980146988924578
+            ],
+            [
+                "11_because of them, boundaries, which might have been cooked up by a screenwriting program called roadmovie, is halfway tolerable.",
+                -0.7894491932636231
+            ],
+            [
+                "12_boundaries is earnest in way that partly makes up for the overbroad characters and stale setup.",
+                0.6208625473345398
+            ],
+            [
+                "13_it's hard to recall a recent movie with more exclamatory dialogue than \"boundaries\" -",
+                0.5567383685047297
+            ],
+            [
+                "14_, \"boundaries\" projects a sheen of artifice that deflects any genuine engagement with the story.",
+                0.7810726705751792
+            ],
+            [
+                "17_\"boundaries\" fails to draw a boundary with itself - going on too long, adding too many over-the-top characters and shying away from the real issue at hand:",
+                -0.6226405879025224
+            ],
+            [
+                "18_boundaries clearly wants to approximate the messy rhythms of real life.",
+                -0.5440839221431003
+            ],
+            [
+                "19_the road trip movie may be a film festival staple, ",
+                -0.508777954716694
+            ],
+            [
+                "19_ boundaries could be proof that this subgenre has run out of gas.",
+                -0.6821985676466041
+            ],
+            [
+                "21_boundaries breaks no fresh ground and sags into conventional story beats on autopilot, ",
+                -0.535625652967047
+            ],
+            [
+                "22_a touching yet wised-up father-daughter road movie that's the best version of this sort of film you could imagine ...",
+                0.8467565745453456
+            ]
+        ]
+    }
+}

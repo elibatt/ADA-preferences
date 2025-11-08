@@ -1,0 +1,55 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kim Moo-yeol": {
+                "args": []
+            },
+            "Lee Hyun Woo": {
+                "args": []
+            },
+            "Lee Chung-Ah": {
+                "args": []
+            },
+            "Lee Wan": {
+                "args": []
+            },
+            "Jin Goo": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this jingoistic war-at-sea movie, redeemed by neither narrative momentum nor fully formed characters, will test the patience of the most ardent military fanatic.",
+                -0.6155032314271719
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kim Hak-soon": {
+                "args": [
+                    [
+                        "1_for american viewers unfamiliar with the incident, watching the film by kim hak-soon is like being an uninvited guest at a national memorial service.",
+                        0.5801173844824129
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kim Hak-soon": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Doze Green": {
+                "args": []
+            },
+            "Blek Le Rat": {
+                "args": []
+            },
+            "Anthony Lister": {
+                "args": []
+            },
+            "Ben Eine": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Colin M. Day": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "3_characters ranging from the benighted to the unsavory to the perfectly slimy populate the film, alongside the only figures who really have anything of substance to say: the artists themselves.",
+                -0.5230665752981203
+            ],
+            [
+                "4_inadvertently demonstrates that nearly every response to banksy's work is wrong.",
+                -0.704239396766391
+            ]
+        ]
+    }
+}

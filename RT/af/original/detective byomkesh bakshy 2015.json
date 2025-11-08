@@ -1,0 +1,84 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dibakar Banerjee": {
+                "args": []
+            },
+            "Saradindu Bandopaddhyay": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anindya Banerjee": {
+                "args": []
+            },
+            "Takanori Kikuchi": {
+                "args": []
+            },
+            "Neeraj Kabi": {
+                "args": []
+            },
+            "Mark Bennington": {
+                "args": []
+            },
+            "Piyali Ray": {
+                "args": []
+            },
+            "Moumita Chakraborty": {
+                "args": []
+            },
+            "Tirtha Mallick": {
+                "args": []
+            },
+            "Meiyang Chang": {
+                "args": []
+            },
+            "Arindol Bagchi": {
+                "args": []
+            },
+            "Manoshi Nath": {
+                "args": []
+            },
+            "Sushant Singh Rajput": {
+                "args": []
+            },
+            "Shaktipada Dey": {
+                "args": []
+            },
+            "Swastika Mukherjee": {
+                "args": []
+            },
+            "Anand Tiwari": {
+                "args": []
+            },
+            "Kaushik Ghosh": {
+                "args": []
+            },
+            "Divya Menon": {
+                "args": []
+            },
+            "Pradipto Kumar Chakraborty": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dibakar Banerjee": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_if the film accomplishes its goal, it's a win-win-lose proposition for everyone concerned.",
+                0.7632919952204843
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jed Rothstein": {
+                "args": [
+                    [
+                        "1_but as rothstein reveals the full shape and size of an ogre that has slipped into our financial markets,",
+                        0.732934246647167
+                    ],
+                    [
+                        "3_at a time when financial regulations have been gutted, stock market indexes reel, and trade wars threaten, jed rothstein's slick and revealing documentary \"the china hustle\" should only add to the anxiety and gloom.",
+                        0.5019886600345355
+                    ],
+                    [
+                        "4_ rothstein does an even better job of explaining investment jargon than adam mckay did in the big short, and he doesn't require gimmicks like putting margot robbie into a bathtub to do so.",
+                        -0.779317363535518
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

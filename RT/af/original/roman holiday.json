@@ -1,0 +1,181 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_for lovers of romantic comedies through the ages, roman holiday remains a favorite.",
+                0.6496985148588137
+            ],
+            [
+                "4_the movie remains a great tonic.",
+                0.8015401084104208
+            ],
+            [
+                "6_the film itself is a classic of romantic wish fulfillment, exactly the sort of beautiful lie that hollywood specialized in.",
+                0.6754471676166902
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "William Wyler": {
+                "args": [
+                    [
+                        "2_[wyler] times the chuckles with a never-flagging pace, puts heart into the laughs, endows the footage with some boff bits of business and points up some tender, poignant scenes in using the smart script and the cast to the utmost advantage.",
+                        0.7842671886840171
+                    ],
+                    [
+                        "5_mr. wyler and his associates have fashioned a natural, tender, and amusing yarn about the heiress to the throne of a mythical kingdom who is sick unto death of an unending schedule of speeches, greetings, and interviews attendant on her goodwill tour...",
+                        0.5488128191506976
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_[wyler] times the chuckles with a never-flagging pace, puts heart into the laughs, endows the footage with some boff bits of business and points up some tender, poignant scenes in using the smart script and the cast to the utmost advantage.",
+                0.7842671886840171
+            ]
+        ],
+        "entities": {
+            "Alfredo Rizzo": {
+                "args": []
+            },
+            "Giuliano Raffaelli": {
+                "args": []
+            },
+            "Gianna Segale": {
+                "args": []
+            },
+            "Rapindranath Mitter": {
+                "args": []
+            },
+            "Paola Borboni": {
+                "args": []
+            },
+            "Princess Alma Cattaneo": {
+                "args": []
+            },
+            "Tullio Carminatti": {
+                "args": []
+            },
+            "Andre Esterhazy": {
+                "args": []
+            },
+            "Audrey Hepburn": {
+                "args": [
+                    [
+                        "0_the newcomer named audrey hepburn gives the popular old romantic nonsense a reality it has seldom had before.",
+                        0.6882138044095082
+                    ]
+                ]
+            },
+            "Claudio Ermelli": {
+                "args": []
+            },
+            "Richard McNamara": {
+                "args": []
+            },
+            "Hartley Power": {
+                "args": []
+            },
+            "Tullio Carminati": {
+                "args": []
+            },
+            "Giacomo Penza": {
+                "args": []
+            },
+            "Harcourt Williams": {
+                "args": []
+            },
+            "George Higgins": {
+                "args": []
+            },
+            "John Horne": {
+                "args": []
+            },
+            "Eric Oulton": {
+                "args": []
+            },
+            "Margaret Rawlings": {
+                "args": []
+            },
+            "Princess Lilamani": {
+                "args": []
+            },
+            "John Cortay": {
+                "args": []
+            },
+            "Eddie Albert": {
+                "args": []
+            },
+            "Ugo Ballerini": {
+                "args": []
+            },
+            "Edward Hitchcock": {
+                "args": []
+            },
+            "Marco Tulli": {
+                "args": []
+            },
+            "Andre Eszterhazy": {
+                "args": []
+            },
+            "Tania Weber": {
+                "args": []
+            },
+            "Bruno Baschiera": {
+                "args": []
+            },
+            "Mimmo Poli": {
+                "args": []
+            },
+            "Paolo Carlini": {
+                "args": []
+            },
+            "Cesare Viori": {
+                "args": []
+            },
+            "Laura Solari": {
+                "args": []
+            },
+            "Ugo De Pascale": {
+                "args": []
+            },
+            "Gregory Peck": {
+                "args": []
+            },
+            "Gorella Gori": {
+                "args": []
+            },
+            "Heinz Hindrich": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_[wyler] times the chuckles with a never-flagging pace, puts heart into the laughs, endows the footage with some boff bits of business and points up some tender, poignant scenes in using the smart script and the cast to the utmost advantage.",
+                0.7842671886840171
+            ]
+        ],
+        "entities": {
+            "Dalton Trumbo": {
+                "args": []
+            },
+            "Ian McLellan Hunter": {
+                "args": []
+            },
+            "John Dighton": {
+                "args": []
+            }
+        }
+    }
+}

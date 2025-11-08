@@ -1,0 +1,241 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the sense of standing in a maze, with every exit being closed off, permeates the film.",
+                0.5487460047175519
+            ],
+            [
+                "5_\"christine\" is based on true events, and i suspect it's all the more powerful if you don't know what happens at the end.",
+                0.5654532831110848
+            ],
+            [
+                "5_ the film still gripped me.",
+                0.5234790374556046
+            ],
+            [
+                "6_rich in dramatic detail and psychological insight, the film approaches its protagonist with genuine concern.",
+                0.7770571157227298
+            ],
+            [
+                "9_a great performance does not necessarily make for great tragedy, and \"christine\" remains mired in the minutiae of its portrait of a doomed, bitter young woman.",
+                0.6249865149677516
+            ],
+            [
+                "12_christine has every chance of going wrong-of courting, wittingly or not, the interest of gruesome curiosity seekers.",
+                -0.8679101525687947
+            ],
+            [
+                "19_as much as it signals the dawn of a more exploitative brand of journalism, the film also sees christine as the victim of a sexist newsroom culture that punished women of substance.",
+                0.7398331563970841
+            ],
+            [
+                "23_both painfully intimate and strangely opaque on the subject of mental illness, taking us deep inside christine's disintegration even as it never quite figures out what it wants to say about it.",
+                -0.601690178210854
+            ],
+            [
+                "25_christine, like most films in its genre, relies on excess: acting as extreme sport, period fetishism, signpost dialogue.",
+                0.6234992932522359
+            ],
+            [
+                "28_ while christine the movie may leave you in a coldly analytical space about sad people -- even its dollops of humor have a chilliness --",
+                0.6167007774689728
+            ],
+            [
+                "31_christine is excruciating, by design and in its very concept.",
+                -0.6043603333922555
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Antonio Campos": {
+                "args": [
+                    [
+                        "3_you'll need a shield to help deflect all the irony director antonio campos and screenwriter craig shilowich throw before the camera.",
+                        -0.5325158450295365
+                    ],
+                    [
+                        "7_the narrow scope and narrow determinism of the action in \"christine\" is unfortunately matched by the narrow-albeit immensely skillful and committed-acting that campos elicits from hall.",
+                        0.6538224177528514
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "J. Smith-Cameron": {
+                "args": []
+            },
+            "Susie Spear Purcell": {
+                "args": []
+            },
+            "Tracy Letts": {
+                "args": []
+            },
+            "Alec Cabacungan": {
+                "args": []
+            },
+            "Susan Pourfar": {
+                "args": []
+            },
+            "Kimberley Drummond": {
+                "args": []
+            },
+            "John Cullum": {
+                "args": []
+            },
+            "Rebecca Koon": {
+                "args": []
+            },
+            "Ian Covell": {
+                "args": []
+            },
+            "Sherry Davis": {
+                "args": []
+            },
+            "John Newberg": {
+                "args": []
+            },
+            "Theresa O'Shea": {
+                "args": []
+            },
+            "Wayne Hughes": {
+                "args": []
+            },
+            "Lane Morris": {
+                "args": []
+            },
+            "Jayson Warner Smith": {
+                "args": []
+            },
+            "Morgan Spector": {
+                "args": []
+            },
+            "Lindsay Ayliffe": {
+                "args": []
+            },
+            "Maria Dizzia": {
+                "args": []
+            },
+            "David Foster": {
+                "args": []
+            },
+            "Rachel Hendrix": {
+                "args": []
+            },
+            "Rebecca Hall": {
+                "args": [
+                    [
+                        "1_rebecca hall gives one of the great performances of the year as the title character in christine, an intense, stomach-churning, unblinking drama.",
+                        0.8172304320032158
+                    ],
+                    [
+                        "2_something of a tour de force for star rebecca hall who, in keeping with the film's approach, does so much while seeming to do so little.",
+                        0.7078201195369829
+                    ],
+                    [
+                        "4_a gripping, often agonizing character study with a tour de force performance by rebecca hall.",
+                        0.7612238291105528
+                    ],
+                    [
+                        "7_the narrow scope and narrow determinism of the action in \"christine\" is unfortunately matched by the narrow-albeit immensely skillful and committed-acting that campos elicits from hall.",
+                        0.6538224177528514
+                    ],
+                    [
+                        "8_by turns coolly observed and disquietingly compassionate - qualities that also describe rebecca hall's brilliant central performance - the movie drifts alongside its subject, charon-like, through the hell of her last weeks.",
+                        0.6440024644157425
+                    ],
+                    [
+                        "12_ this is a case where one performance can make all the difference-and rebecca hall's does.",
+                        -0.5027165922370436
+                    ],
+                    [
+                        "14_striding through this, and commanding almost every scene, is rebecca hall, who earns our sympathy, as the best actors do, by steeling herself not to plead for it.",
+                        0.6431867768046401
+                    ],
+                    [
+                        "18_ms. hall's performance makes you believe that something profound is at stake, the movie noncommittally nibbles at the edge of larger meaning, nodding at current events.",
+                        0.8310142357744361
+                    ],
+                    [
+                        "26_rebecca hall makes \"christine\" can't-look-away captivating.",
+                        0.5758759984905417
+                    ],
+                    [
+                        "28_christine the woman stays with you, thanks to a career-best performance from hall.",
+                        0.8506375694608331
+                    ]
+                ]
+            },
+            "Carl Palmer": {
+                "args": []
+            },
+            "Timothy C. Simons": {
+                "args": []
+            },
+            "Kim Shaw": {
+                "args": []
+            },
+            "Ritchie Montgomery": {
+                "args": []
+            },
+            "Michael C. Hall": {
+                "args": []
+            },
+            "Wayne Reynolds": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_a great performance does not necessarily make for great tragedy, and \"christine\" remains mired in the minutiae of its portrait of a doomed, bitter young woman.",
+                0.6249865149677516
+            ],
+            [
+                "21_it's an endearing and haunting performance ...",
+                0.8323631041381335
+            ],
+            [
+                "25_christine, like most films in its genre, relies on excess: acting as extreme sport, period fetishism, signpost dialogue.",
+                0.6234992932522359
+            ],
+            [
+                "27_she gives an almost comic performance, alternating between twitchy kristen wiig-like dismissals and a furious thousand-yard stare that burns a hole through the lens.",
+                -0.5713795191311961
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Craig Shilowich": {
+                "args": [
+                    [
+                        "3_you'll need a shield to help deflect all the irony director antonio campos and screenwriter craig shilowich throw before the camera.",
+                        -0.5325158450295365
+                    ],
+                    [
+                        "24_tackling this life with honesty and respect demands a tricky balancing act between context and character, which first-time screenwriter craig shilowich performs remarkably well.",
+                        0.8002911321811713
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "1_rebecca hall gives one of the great performances of the year as the title character in christine, an intense, stomach-churning, unblinking drama.",
+                0.8172304320032158
+            ],
+            [
+                "4_a gripping, often agonizing character study with a tour de force performance by rebecca hall.",
+                0.7612238291105528
+            ]
+        ]
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "writer": {
+        "entities": {
+            "Douglas S. Cook": {
+                "args": [
+                    [
+                        "4_neither scriptwriters douglas cook and david weisberg nor vromen in the director's chair are subtle enough to figure out how to do both action and character.",
+                        -0.7798526920130625
+                    ]
+                ]
+            },
+            "David Weisberg": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ariel Vromen": {
+                "args": [
+                    [
+                        "4_neither scriptwriters douglas cook and david weisberg nor vromen in the director's chair are subtle enough to figure out how to do both action and character.",
+                        -0.7798526920130625
+                    ],
+                    [
+                        "23_even if you've allowed yourself to hope that the redoubtable actors might tilt the proceedings in a positive direction, almost every choice made by director ariel vromen... sends criminal spiraling toward overwrought silliness.",
+                        0.5396754101590148
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_costner, in full badass mode, makes this crackpot premise work.",
+                -0.565658826320574
+            ],
+            [
+                "3_criminal is an action-thriller with a science fiction twist.",
+                0.5797068910216653
+            ],
+            [
+                "6_downright criminal, it is.",
+                -0.5178184003496644
+            ],
+            [
+                "9_criminal is a screwed-up mess as a story and as an action movie with a so-called moral lesson in it.",
+                -0.5150807409677607
+            ],
+            [
+                "10_with its european locations, electro-thump score, and near-ceaseless violence, the movie plays like something tooled in french producer-scripter luc besson's factory for international action mashups.",
+                -0.5531528672918378
+            ],
+            [
+                "14_criminal's story moves like a fat cow.",
+                -0.5436363862324249
+            ],
+            [
+                "15_like its brain-damaged protagonist, \"criminal\" just shouts and shoots its way into, not out of, an oblivion of illogic, plot holes and emotionally unengaging scenery-chewing.",
+                -0.7289770764704898
+            ],
+            [
+                "16_you may never believe one minute of \"criminal,\" ",
+                -0.5663948447381705
+            ],
+            [
+                "17_perhaps it's almost too perfect that the movie should suffer from a personality conflict of its own",
+                0.5785767909236075
+            ],
+            [
+                "18_\"criminal\" depicts a compelling situation, made rich and entertaining through its extreme characters.",
+                0.674708595895977
+            ],
+            [
+                "19_\"criminal\" is as by-the-numbers as thrillers come.",
+                -0.5209662949115208
+            ],
+            [
+                "20_\"criminal\" is the kind of dunderheaded enterprise that leaves viewers reeling from the idiocies they have just endured, wondering how something like that could possibly get made in the first place.",
+                -0.6368278116513377
+            ],
+            [
+                "22_it's like the movie was written in crayon, in the margins of a comic book.",
+                0.5036852531732015
+            ],
+            [
+                "25_struggling to generate much tension, the film opts for sensory battery in the action scenes, rendering gunshots as loud as cannon fire and splashing blood every which way.",
+                -0.7229978141459923
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Katharine Gwen": {
+                "args": []
+            },
+            "Diana Dimitrovici": {
+                "args": []
+            },
+            "Joe Fidler": {
+                "args": []
+            },
+            "Nathan Osgood": {
+                "args": []
+            },
+            "Amina Zia": {
+                "args": []
+            },
+            "Michael Pitt": {
+                "args": []
+            },
+            "Natalie Marie Ames": {
+                "args": []
+            },
+            "Tamer Dogem": {
+                "args": []
+            },
+            "Antje Traue": {
+                "args": []
+            },
+            "Tim Woodward": {
+                "args": []
+            },
+            "Sope Dirisu": {
+                "args": []
+            },
+            "Michael Webber": {
+                "args": []
+            },
+            "Scott Adkins": {
+                "args": []
+            },
+            "Mark Underwood": {
+                "args": []
+            },
+            "Steven Brand": {
+                "args": []
+            },
+            "Joshua James": {
+                "args": []
+            },
+            "Elizabeth Ross": {
+                "args": []
+            },
+            "James Richard Marshall": {
+                "args": []
+            },
+            "Michael Bodie": {
+                "args": []
+            },
+            "Danny Webb": {
+                "args": []
+            },
+            "Gary Oldman": {
+                "args": [
+                    [
+                        "1_the movie is a little more fun than it has any right to be, thanks to its super-serious cast (including tommy lee jones, ryan reynolds, gary oldman, and gal gadot) and the straight-faced approach to its ridiculous shenanigans.",
+                        0.651956045950594
+                    ]
+                ]
+            },
+            "Matthew Steer": {
+                "args": []
+            },
+            "Colin Salmon": {
+                "args": []
+            },
+            "Piers Morgan": {
+                "args": []
+            },
+            "Gisella Marengo": {
+                "args": []
+            },
+            "Amaury Nolasco": {
+                "args": []
+            },
+            "Kevin Costner": {
+                "args": [
+                    [
+                        "8_just ride it to its even more preposterous climax, enjoying mr. costner and a steady supporting cast (gary oldman as the c.i.a. honcho",
+                        0.7575111428107864
+                    ],
+                    [
+                        "12_given the lurid, stupid, loony and unintentionally laughable nature of this espionage thriller, i found some measure of entertainment studying the vastly different approaches taken by costner, jones and oldman.",
+                        -0.8005794582131016
+                    ],
+                    [
+                        "21_so-so pulp, elevated by costner as a feral felon.",
+                        0.6065278693063195
+                    ]
+                ]
+            },
+            "David Avery": {
+                "args": []
+            },
+            "Freddy Bosche": {
+                "args": []
+            },
+            "Kelly Clare": {
+                "args": []
+            },
+            "Richard Reid": {
+                "args": []
+            },
+            "Robert Davi": {
+                "args": []
+            },
+            "Doug Cockle": {
+                "args": []
+            },
+            "Andrew Byron": {
+                "args": []
+            },
+            "Sarah Middleton": {
+                "args": []
+            },
+            "Louis Tamone": {
+                "args": []
+            },
+            "Henry Garrett": {
+                "args": []
+            },
+            "Samantha Coughlan": {
+                "args": []
+            },
+            "Lotte Rice": {
+                "args": []
+            },
+            "Lara Decaro": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": []
+            },
+            "Joanna Brookes": {
+                "args": []
+            },
+            "Dragos Savulescu": {
+                "args": []
+            },
+            "Mark Kempner": {
+                "args": []
+            },
+            "Jordi Molla": {
+                "args": []
+            },
+            "Mark Smith": {
+                "args": []
+            },
+            "Priyanga Burford": {
+                "args": []
+            },
+            "Tommy Lee Jones": {
+                "args": []
+            },
+            "Gal Gadot": {
+                "args": []
+            },
+            "Luca Giorgio Maggiora": {
+                "args": []
+            },
+            "Emmanuel Imani": {
+                "args": []
+            },
+            "Alice Eve": {
+                "args": []
+            },
+            "Samuel Turner O'Toole": {
+                "args": []
+            },
+            "Ian Burfield": {
+                "args": []
+            },
+            "Steve Nicolson": {
+                "args": []
+            },
+            "Rio Fredrika Debolla": {
+                "args": []
+            },
+            "Harry Hepple": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tenae Downing": {
+                "args": []
+            },
+            "T.C. Stallings": {
+                "args": []
+            },
+            "Alena Pitts": {
+                "args": []
+            },
+            "Karen Abercrombie": {
+                "args": []
+            },
+            "Kathleen Dellinger": {
+                "args": []
+            },
+            "Jadin Harris": {
+                "args": []
+            },
+            "Beth Moore": {
+                "args": []
+            },
+            "Meg Crosbie": {
+                "args": []
+            },
+            "Michael Jr.": {
+                "args": []
+            },
+            "Danielle Jordan": {
+                "args": []
+            },
+            "Alex Kendrick": {
+                "args": [
+                    [
+                        "5_by far the most slickly produced and insistently evangelical movie yet from the sibling team of alex and stephen kendrick.",
+                        0.7146948785368434
+                    ]
+                ]
+            },
+            "Priscilla C. Shirer": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alex Kendrick": {
+                "args": [
+                    [
+                        "5_by far the most slickly produced and insistently evangelical movie yet from the sibling team of alex and stephen kendrick.",
+                        0.7146948785368434
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stephen Kendrick": {
+                "args": [
+                    [
+                        "5_by far the most slickly produced and insistently evangelical movie yet from the sibling team of alex and stephen kendrick.",
+                        0.7146948785368434
+                    ]
+                ]
+            },
+            "Alex Kendrick": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_war room is the most slickly made faith-based film i've seen yet in terms of production values, ",
+                0.747924764763908
+            ],
+            [
+                "3_it's clear that the film, ",
+                0.6223073209967669
+            ],
+            [
+                "4_ \"war room\" has no interest in engaging its audience on a personal level.",
+                -0.5480403151544403
+            ],
+            [
+                "7_it's not so much the plot or themes of the film that's the problem as the ham-fisted execution.",
+                -0.5431304767476364
+            ],
+            [
+                "8_war room\" is an engaging film that derails itself only when the story occasionally stops for protracted preaching.",
+                0.6152287055716086
+            ],
+            [
+                "9_[a] bible study class of a feature film ...",
+                0.6305233717954632
+            ],
+            [
+                "10_the first couple of acts of the kendricks' latest, \"war room,\" are so heavy on broad pulpit pounding that it's challenging to get swept along by the story's message.",
+                0.5427817299359614
+            ]
+        ]
+    }
+}

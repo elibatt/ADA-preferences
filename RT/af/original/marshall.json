@@ -1,0 +1,265 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Chris Pera": {
+                "args": []
+            },
+            "Jeremy Bobb": {
+                "args": []
+            },
+            "Andra Day": {
+                "args": []
+            },
+            "Michael Dugan": {
+                "args": []
+            },
+            "Daniel Stewart Sherman": {
+                "args": []
+            },
+            "Kate Hudson": {
+                "args": []
+            },
+            "Barrett Doss": {
+                "args": []
+            },
+            "Jussie Smollett": {
+                "args": []
+            },
+            "Roger Guenveur Smith": {
+                "args": []
+            },
+            "Rozonda 'Chilli' Thomas": {
+                "args": []
+            },
+            "Chadwick Boseman": {
+                "args": [
+                    [
+                        "7_charged by boseman's dramatic lightning, marshall gives us an electrifying glimpse of a great man in the making.",
+                        0.7730579231907575
+                    ],
+                    [
+                        "14_like his character, mr. boseman is the star of this show, while mr. gad is the second banana and often comic relief.",
+                        0.7559069710660682
+                    ],
+                    [
+                        "16_anchored by topnotch performances by chadwick boseman in the title role and josh gad, it's a 75-year-old story imbued with modern-day resonance.",
+                        0.7627306658935795
+                    ],
+                    [
+                        "18_i don't know if chadwick boseman can leap tall buildings in a single bound, ",
+                        -0.7369160544576064
+                    ]
+                ]
+            },
+            "Benjamin Sheeler": {
+                "args": []
+            },
+            "Josie DiVincenzo": {
+                "args": []
+            },
+            "Jeffrey DeMunn": {
+                "args": []
+            },
+            "Benjamin Crump": {
+                "args": []
+            },
+            "Keesha Sharp": {
+                "args": []
+            },
+            "Peter Johnson": {
+                "args": []
+            },
+            "Brendan Burke": {
+                "args": []
+            },
+            "Sterling K. Brown": {
+                "args": [
+                    [
+                        "26_it's a superhero-style origin story: thurgood, pre-\"brown v. board of education,\" pre-black robe.",
+                        0.573888629806326
+                    ]
+                ]
+            },
+            "Ed Jewett": {
+                "args": []
+            },
+            "Tracy Martin": {
+                "args": []
+            },
+            "Marina Squerciati": {
+                "args": []
+            },
+            "Ahna O'Reilly": {
+                "args": []
+            },
+            "Alexander S. McBryde": {
+                "args": []
+            },
+            "Michael Bernardi": {
+                "args": []
+            },
+            "Dan Bittner": {
+                "args": []
+            },
+            "Christopher Mele": {
+                "args": []
+            },
+            "John Magaro": {
+                "args": []
+            },
+            "Dan Stevens (IV)": {
+                "args": []
+            },
+            "Derrick Baskin": {
+                "args": []
+            },
+            "James Cromwell": {
+                "args": []
+            },
+            "Sophia Bush": {
+                "args": []
+            },
+            "Edwin Lee Gibson": {
+                "args": []
+            },
+            "Josh Gad": {
+                "args": [
+                    [
+                        "21_boseman and gad are both good.",
+                        0.7517330197769256
+                    ]
+                ]
+            },
+            "Lauren Friedman": {
+                "args": []
+            },
+            "Zanete Shadwick": {
+                "args": []
+            },
+            "Sybrina Fulton": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Reginald Hudlin": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_a distinct snapshot not only of the main character ",
+                0.6373535612920874
+            ],
+            [
+                "9_ those details are left to post-script notes.",
+                -0.5179959015059732
+            ],
+            [
+                "14_like his character, mr. boseman is the star of this show, while mr. gad is the second banana and often comic relief.",
+                0.7559069710660682
+            ]
+        ],
+        "entities": {
+            "Michael Koskoff": {
+                "args": []
+            },
+            "Jacob Koskoff": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this real-life case makes for an entertaining courtroom drama that nonetheless reduces marshall to the level of perry mason and consigns to the end credits his greater triumphs.",
+                0.8649469524384382
+            ],
+            [
+                "1_in ignoring the lived reality of colorism, marshall creates a circumscribed version of blackness that's easy for white audiences to consume, lacks any sort of challenging narrative, and bypasses the more fascinating wrinkles in its characters' lives.",
+                0.8347142538764671
+            ],
+            [
+                "2_the tight focus helps make marshall more courtroom drama than biopic.",
+                0.701818574863754
+            ],
+            [
+                "6_marshall reminds us that before the legend, there was the badass young warrior.",
+                0.6165601817987545
+            ],
+            [
+                "8_...balances clichés against the far-more interesting subject of unlikely camaraderie that blooms out of mutual persecution.",
+                0.5440829474681226
+            ],
+            [
+                "10_for a film simply called \"marshall,\" you do expect to get a wider slice of his life, which is relegated to onscreen text.",
+                0.5811569527684513
+            ],
+            [
+                "10_in fact, he ultimately becomes an ensemble player in his own eponymous film.",
+                0.6461558059983474
+            ],
+            [
+                "11_while the film is constructed from top to bottom for maximum popular entertainment, it is unwilling to let us leave the theater without reminding us that these battles are far from over.",
+                0.7352466333404137
+            ],
+            [
+                "12_here's something refreshing-a great-man biopic, simply titled marshall",
+                0.7669754190741419
+            ],
+            [
+                "13_while not the most artful of biographical dramas, when it comes to bringing to life a young, rising attorney deploying the kind of legal acumen that would later make him a boundary-bursting giant, marshall keeps its eyes on the prize.",
+                0.6909508468888902
+            ],
+            [
+                "15_by avoiding his most famous case, while at the same time preserving history - and adding pulpy thrills - \"marshall\" is more involving than any textbook or documentary could be.",
+                0.6772045651605474
+            ],
+            [
+                "17_marshall\" is not an eat-your-spinach civics lesson.",
+                -0.5235687048408022
+            ],
+            [
+                "19_\"marshall\" is one of the freshest and most entertaining films of the year.",
+                0.8343005581132811
+            ],
+            [
+                "20_there's enough in thurgood marshall's story for another two or three movies, ",
+                0.5078447463104359
+            ],
+            [
+                "22_it draws an impressive portrait of thurgood marshall as a strong and towering figure.",
+                0.8312446954908219
+            ],
+            [
+                "24_\"marshall\" revisits such serious history that it feels almost disrespectful to talk about it as a fun movie, ",
+                0.7014633638650264
+            ],
+            [
+                "26_a sometimes slight, sometimes serious courtroom drama, shot through with bright certainty in the coming triumphs for marshall and the civil rights movement.",
+                0.7457083022033215
+            ],
+            [
+                "28_it pays attention to issues of racial, religious and gender discrimination without wavering from its main objective: giving us an entertaining film about a couple of guys who are in way over their heads.",
+                0.8027695858716021
+            ],
+            [
+                "29_the movie urgently dramatizes the threat of racist violence that poisons personal relationships and judicial proceedings alike.",
+                0.6022024716000806
+            ],
+            [
+                "31_by approaching marshall as just another idealistic young trial lawyer, the film stands on its own as a compelling courtroom drama, complete with surprising revelations ...",
+                0.8182599938344987
+            ]
+        ]
+    }
+}

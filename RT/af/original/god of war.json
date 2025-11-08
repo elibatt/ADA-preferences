@@ -1,0 +1,56 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sammo Hung Kam-Bo": {
+                "args": []
+            },
+            "Keisuke Koide": {
+                "args": []
+            },
+            "Vincent Zhao": {
+                "args": []
+            },
+            "Yasuaki Kurata": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Gordon Chan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_a character-driven battle epic that plays more like a brightly rendered action-adventure than a starchy history lesson.",
+                0.6385423078514546
+            ]
+        ],
+        "entities": {
+            "Xiong Zhaozheng": {
+                "args": []
+            },
+            "Wu Mengzhang": {
+                "args": []
+            },
+            "Frankie Tam": {
+                "args": []
+            },
+            "Maria Wong": {
+                "args": []
+            }
+        }
+    }
+}

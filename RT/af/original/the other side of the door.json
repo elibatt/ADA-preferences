@@ -1,0 +1,115 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_like all the best horror, the other side of the door is concerned not just with what freaks us out on a gut level, ",
+                0.6576840099773023
+            ],
+            [
+                "4_the type of sporadically silly and patently predictable horror pic that would look like filler on syfy's weekend lineup, \"the other side of the door\" brings virtually nothing new to the supernatural genre.",
+                -0.7524576583233731
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Johannes Roberts": {
+                "args": [
+                    [
+                        "3_along with writing partner ernest riera, roberts pilfers odds and ends of hindu religious practices and folklore to construct a middling ghost story that traces a vaguely gothic outline, only to follow a wearyingly derivative trajectory.",
+                        0.5678270268190371
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jeremy Sisto": {
+                "args": []
+            },
+            "Suchitra Pillai": {
+                "args": []
+            },
+            "Ashok Choudhary": {
+                "args": []
+            },
+            "Javier Botet": {
+                "args": []
+            },
+            "Tulasi Prajapati": {
+                "args": []
+            },
+            "Shoa Hussain": {
+                "args": []
+            },
+            "Manoj Prajapati": {
+                "args": []
+            },
+            "Logan Creran": {
+                "args": []
+            },
+            "Amarjeet Singh": {
+                "args": []
+            },
+            "Vijay Saini": {
+                "args": []
+            },
+            "Mishti Bangera": {
+                "args": []
+            },
+            "R.N. Shukla": {
+                "args": []
+            },
+            "Rahil Gilani": {
+                "args": []
+            },
+            "Avinaash Razdan": {
+                "args": []
+            },
+            "Sarah Wayne Callies": {
+                "args": []
+            },
+            "Binod Kumar Saha": {
+                "args": []
+            },
+            "Vijay Jadhav": {
+                "args": []
+            },
+            "Manoj": {
+                "args": []
+            },
+            "Vijay Gupta": {
+                "args": []
+            },
+            "Sofia Rosinsky": {
+                "args": []
+            },
+            "Anup Kumar Sharma": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Johannes Roberts": {
+                "args": []
+            },
+            "Ernest Riera": {
+                "args": [
+                    [
+                        "3_along with writing partner ernest riera, roberts pilfers odds and ends of hindu religious practices and folklore to construct a middling ghost story that traces a vaguely gothic outline, only to follow a wearyingly derivative trajectory.",
+                        0.5678270268190371
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_repulsion is a frightening, fiercely entertaining experience that holds up to time.",
+                0.6524208574456419
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Roman Polanski": {
+                "args": [
+                    [
+                        "0_roman polanski's first english-language film is still a creepy little horror masterpiece.",
+                        0.7246186921349731
+                    ],
+                    [
+                        "2_roman polanski's first film in english is still his scariest and most disturbing.",
+                        0.7345240749786865
+                    ],
+                    [
+                        "4_the ordeal we and polanski craved for deneuve turned out to be just a sport, and we were the ball -- just as we'd hoped.",
+                        -0.5197671122461888
+                    ],
+                    [
+                        "5_still perhaps polanski's most perfectly realised film, a stunning portrait of the disintegration, mental and emotional, of a shy young belgian girl (deneuve) living in london.",
+                        0.8409055738727923
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Roman Polanski": {
+                "args": [
+                    [
+                        "0_roman polanski's first english-language film is still a creepy little horror masterpiece.",
+                        0.7246186921349731
+                    ],
+                    [
+                        "2_roman polanski's first film in english is still his scariest and most disturbing.",
+                        0.7345240749786865
+                    ]
+                ]
+            },
+            "Mike Pratt": {
+                "args": []
+            },
+            "Catherine Deneuve": {
+                "args": [
+                    [
+                        "4_the ordeal we and polanski craved for deneuve turned out to be just a sport, and we were the ball -- just as we'd hoped.",
+                        -0.5197671122461888
+                    ],
+                    [
+                        "5_still perhaps polanski's most perfectly realised film, a stunning portrait of the disintegration, mental and emotional, of a shy young belgian girl (deneuve) living in london.",
+                        0.8409055738727923
+                    ]
+                ]
+            },
+            "Renee Houston": {
+                "args": []
+            },
+            "Patrick Wymark": {
+                "args": []
+            },
+            "Imogen Graham": {
+                "args": []
+            },
+            "Monica Merlin": {
+                "args": []
+            },
+            "John Fraser": {
+                "args": []
+            },
+            "Ian Hendry": {
+                "args": []
+            },
+            "James Villiers": {
+                "args": []
+            },
+            "Hugh Futcher": {
+                "args": []
+            },
+            "Yvonne Furneaux": {
+                "args": []
+            },
+            "Helen Fraser": {
+                "args": []
+            },
+            "Valerie Taylor": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Roman Polanski": {
+                "args": []
+            },
+            "Gérard Brach": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "writer": {
+        "entities": {
+            "Anna Muylaert": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_but \"the second mother,\" brazilian writer and director anna muylaert's outstanding film,",
+                0.7492449204282149
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Anna Muylaert": {
+                "args": [
+                    [
+                        "4_but \"the second mother,\" brazilian writer and director anna muylaert's outstanding film,",
+                        0.7492449204282149
+                    ],
+                    [
+                        "5_the characters' pigeonholed social roles display muylaert's intentions from the start and render the drama superfluous.",
+                        0.6473742522927485
+                    ],
+                    [
+                        "8_anna muylaert's observations on family relations and invisible-",
+                        0.6590927660119199
+                    ],
+                    [
+                        "16_ms. muylaert's guiding principle seems to have been fearlessness, and her film, which was shot by barbara alvarez, is superb on all counts.",
+                        0.674970450670442
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_the second mother is an interesting look at generational and class divides in brazil, without the feel of a lecture or lesson.",
+                0.6143304353507919
+            ],
+            [
+                "13_muylaert's film is an effervescent comic drama that delights in the disruption of traditional upstairs/downstairs dynamics.",
+                0.7756933619762789
+            ],
+            [
+                "14_\"the second mother\" is a satisfying contradiction.",
+                0.6615711400039828
+            ],
+            [
+                "17_\"the second mother\" goes soft toward the end, defusing its conflicts too easily and inconsequentially.",
+                -0.59850499349081
+            ],
+            [
+                "20_ the film's real climax comes when she simply wades into a nearly empty swimming pool.",
+                -0.7267859070671114
+            ],
+            [
+                "21_[the film] dissects with both chilling precision and humor such matters as class differences, real mothers vs. caretakers and whether privilege and one's own station are things that can be questioned or changed.",
+                0.7765824099522757
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michel Joelsas": {
+                "args": []
+            },
+            "Helena Albergaria": {
+                "args": []
+            },
+            "Luis Miranda": {
+                "args": []
+            },
+            "Regina Casé": {
+                "args": [
+                    [
+                        "7_this brazilian drama offers a nuanced, often funny look at family and social status, and casé's performance is both heartbreaking and hilarious.",
+                        0.8656110516123928
+                    ],
+                    [
+                        "10_the second mother isn't just a backdrop for casé's bravura acting, nor for the equally well-observed performances of the whole ensemble cast.",
+                        0.565711607574545
+                    ]
+                ]
+            },
+            "Theo Werneck": {
+                "args": []
+            },
+            "Camila Márdila": {
+                "args": []
+            },
+            "Lourenço Mutarelli": {
+                "args": []
+            },
+            "Karine Teles": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

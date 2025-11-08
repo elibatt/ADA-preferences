@@ -1,0 +1,52 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kent Cheng": {
+                "args": []
+            },
+            "Donnie Yen": {
+                "args": []
+            },
+            "Andy Lau": {
+                "args": []
+            },
+            "Philippe Joly": {
+                "args": []
+            },
+            "Wilfred Lau": {
+                "args": []
+            },
+            "Philip Keung": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jason Kwan": {
+                "args": []
+            },
+            "Jing Wong": {
+                "args": [
+                    [
+                        "0_a pale reboot of the mobster-biopic genre wong helped make a cornerstone of hong kong cinema in the 1990s.",
+                        0.7270795365168373
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

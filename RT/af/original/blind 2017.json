@@ -1,0 +1,107 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Eden Epstein": {
+                "args": []
+            },
+            "Jabari Gray": {
+                "args": []
+            },
+            "Viva Bianca": {
+                "args": []
+            },
+            "James McCaffrey": {
+                "args": []
+            },
+            "Valence Thomas": {
+                "args": []
+            },
+            "Ski Carr": {
+                "args": []
+            },
+            "John Buffalo Mailer": {
+                "args": [
+                    [
+                        "5_the film, directed by michael mailer, wanted to be a steamy romance, ",
+                        -0.5115589124512006
+                    ]
+                ]
+            },
+            "Demi Moore": {
+                "args": [
+                    [
+                        "1_baldwin and moore generate genuine heat and chemistry together, even in some ridiculous moments.",
+                        0.5779477809418261
+                    ]
+                ]
+            },
+            "Renee Willett": {
+                "args": []
+            },
+            "Dylan McDermott": {
+                "args": []
+            },
+            "Alec Baldwin": {
+                "args": [
+                    [
+                        "3_moore's and baldwin's forceful personalities power their performances, and these evenly matched partners have now invigorated both a convoluted thriller (the juror) and a predictable romance (blind).",
+                        0.6147651722865113
+                    ],
+                    [
+                        "6_the chemistry between baldwin and moore is strangely disconnected.",
+                        0.5122982214493179
+                    ]
+                ]
+            },
+            "Drew Moerlein": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Mailer": {
+                "args": [
+                    [
+                        "5_the film, directed by michael mailer, wanted to be a steamy romance, ",
+                        -0.5115589124512006
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Diane Fisher (V) ": {
+                "args": []
+            },
+            "John Buffalo Mailer": {
+                "args": [
+                    [
+                        "5_the film, directed by michael mailer, wanted to be a steamy romance, ",
+                        -0.5115589124512006
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_a watchable, albeit unsatisfying, vehicle for two stars who've now made a pair of movies together in which their skills constitute the main attraction, yet who aren't particularly well-served by either film.",
+                0.5062889760183594
+            ],
+            [
+                "7_\"blind\" stumbles with unlikable characters and a lack of depth, leaving audiences simply wishing for its ending, happy or not.",
+                -0.677955928072654
+            ]
+        ]
+    }
+}

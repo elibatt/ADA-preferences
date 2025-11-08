@@ -1,0 +1,152 @@
+{
+    "acting": {
+        "args": [
+            [
+                "11_dujardin's bull-necked, hard-charging performance makes pierre a worthy adversary.",
+                0.6848976792786029
+            ]
+        ],
+        "entities": {
+            "Jean Dujardin": {
+                "args": [
+                    [
+                        "14_ dujardin and lellouche are magnetic performers who slip easily into their antagonistic roles.",
+                        0.7320631979443031
+                    ]
+                ]
+            },
+            "Benoît Magimel": {
+                "args": []
+            },
+            "Guillaume Gouix": {
+                "args": []
+            },
+            "Georges Neri": {
+                "args": []
+            },
+            "Feodor Atkine": {
+                "args": []
+            },
+            "Bernard Blancan": {
+                "args": []
+            },
+            "Gerard Meylan": {
+                "args": []
+            },
+            "Céline Sallette": {
+                "args": []
+            },
+            "Moussa Maaskri": {
+                "args": []
+            },
+            "Pauline Burlet": {
+                "args": []
+            },
+            "Pierre Lopez": {
+                "args": []
+            },
+            "Martial Bezot": {
+                "args": []
+            },
+            "Jean-Pierre Sanchez": {
+                "args": []
+            },
+            "Mélanie Doutey": {
+                "args": []
+            },
+            "Eric Collado": {
+                "args": []
+            },
+            "Eric Fraticelli": {
+                "args": []
+            },
+            "Gilles Lellouche": {
+                "args": []
+            },
+            "Cyril Lecomte": {
+                "args": []
+            },
+            "Bruno Todeschini": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ you wouldn't know it from watching the connection.",
+                -0.702468638240146
+            ],
+            [
+                "4_it starts with gunshots - a mercedes and its driver are riddled by motorcycle-riding assassins in broad daylight - and the pace of \"the connection\" is bang-bang brisk most of the rest of the way.",
+                -0.5168812520563107
+            ],
+            [
+                "5_while the story lacks focus here and there, the film never feels overplayed.",
+                -0.5930667547887896
+            ],
+            [
+                "5_it's a work of bloody style and solid substance.",
+                0.6410033628669173
+            ],
+            [
+                "6_\"the connection\" isn't all that different from a lot of police procedurals that have come before, ",
+                -0.5861022360610065
+            ],
+            [
+                "8_riveting from its first moments, \"the connection\" is fascinating in its presentation of character, as well as for its glimpse into the workings of an international drug empire and into the ways an imaginative cop found to chip at its power.",
+                0.7596189376732267
+            ],
+            [
+                "13_while the results inevitably pale in comparison to \"the french connection\"-which could be said about virtually every other film currently in release-they do make for an above-average work that offers viewers a new perspective on a familiar story.",
+                0.5195802799326481
+            ],
+            [
+                "15_how can you dislike a film that signals a killing with \"bang bang\" and a villain with \"the snake\"?",
+                -0.5072259054511529
+            ],
+            [
+                "17_the film is engaging, propulsive, cut with rare brio, chockablock with consummate tough-guy business.",
+                0.7514843696163779
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Cédric Jimenez": {
+                "args": [
+                    [
+                        "14_despite the pedestrian screenplay (by jimenez and audrey diwan),",
+                        -0.6036484211724382
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_riveting from its first moments, \"the connection\" is fascinating in its presentation of character, as well as for its glimpse into the workings of an international drug empire and into the ways an imaginative cop found to chip at its power.",
+                0.7596189376732267
+            ]
+        ],
+        "entities": {
+            "Cédric Jimenez": {
+                "args": []
+            },
+            "Audrey Diwan": {
+                "args": [
+                    [
+                        "14_despite the pedestrian screenplay (by jimenez and audrey diwan),",
+                        -0.6036484211724382
+                    ]
+                ]
+            }
+        }
+    }
+}

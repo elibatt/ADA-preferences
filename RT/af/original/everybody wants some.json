@@ -1,0 +1,456 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_imagine \"porky's\" as an intelligent character study and you're on the right path.",
+                0.8688233649482558
+            ]
+        ],
+        "entities": {
+            "Richard Linklater": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the film's direction is never lackadaisical.",
+                0.5447054776354064
+            ],
+            [
+                "13_linklater barely puts a foot wrong, and he shows that a movie about happiness can be cogent and robust, rather than sappy or wispy",
+                -0.6408767243580467
+            ],
+            [
+                "13_ and yet, for all its gambolling mischief, \"everybody wants some!!",
+                -0.505199608844381
+            ],
+            [
+                "20_ concluding soon enough that bull was all the movie had to offer.",
+                -0.721953815053267
+            ],
+            [
+                "24_as small and specific as it is, \"everybody wants some!!",
+                0.5174495032185542
+            ],
+            [
+                "32_in its funky, aimless, winningly juvenile way, everybody wants some is about as inclusively celebratory as any college comedy in memory:",
+                -0.621462199477225
+            ],
+            [
+                "35_finally, an \"animal house\" movie for the generation that can remember seeing \"animal house.\"",
+                -0.5835886158229968
+            ],
+            [
+                "36_for all its ease, the film has a constant undercurrent of emotional truth.",
+                0.646448489019168
+            ],
+            [
+                "39_the experience of watching this film is one of reflective exuberance.",
+                0.6928054956843951
+            ],
+            [
+                "39_it's a movie about people who arrive sure of themselves and depart in the quiet confidence that all they know is that they know nothing.",
+                0.597627779692059
+            ],
+            [
+                "40_the film itself has an ease that's addictively cozy, whether its characters feel familiar or far removed.",
+                -0.5250746726272473
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Deborah Alcorn": {
+                "args": []
+            },
+            "Sarah Nouri": {
+                "args": []
+            },
+            "Bonnie Gayle": {
+                "args": []
+            },
+            "Rene Rhi": {
+                "args": []
+            },
+            "Ryan Pearsall": {
+                "args": []
+            },
+            "Zach Denny": {
+                "args": []
+            },
+            "Shailaun Manning": {
+                "args": []
+            },
+            "Emily Mason": {
+                "args": []
+            },
+            "Tess Cline": {
+                "args": []
+            },
+            "Glen Powell": {
+                "args": []
+            },
+            "Sarah Jacober": {
+                "args": []
+            },
+            "Valeria Dominguez": {
+                "args": []
+            },
+            "Jessi Mechler": {
+                "args": []
+            },
+            "Michael Monsour": {
+                "args": []
+            },
+            "Laura Ritz": {
+                "args": []
+            },
+            "Stan Taylor": {
+                "args": []
+            },
+            "Julie Cude-Eaton": {
+                "args": []
+            },
+            "Michael Koester": {
+                "args": []
+            },
+            "Dennis Alcorn": {
+                "args": []
+            },
+            "Beau Smith": {
+                "args": []
+            },
+            "Sophia Ali": {
+                "args": []
+            },
+            "Rebekah Herzberg": {
+                "args": []
+            },
+            "Amanda Hunt": {
+                "args": []
+            },
+            "Will Brittain": {
+                "args": []
+            },
+            "Tanner Kalina": {
+                "args": []
+            },
+            "Celina Chapin": {
+                "args": []
+            },
+            "Ally Gutierrez": {
+                "args": []
+            },
+            "Taylor Ashley Murphy": {
+                "args": []
+            },
+            "Juston Street": {
+                "args": []
+            },
+            "Elise Raney": {
+                "args": []
+            },
+            "Liza Wilk": {
+                "args": []
+            },
+            "Chelsey Gentry": {
+                "args": []
+            },
+            "Carley Deardorff": {
+                "args": []
+            },
+            "Zoey Deutch": {
+                "args": []
+            },
+            "Austin Amelio": {
+                "args": []
+            },
+            "Sara Jane Ragnarok": {
+                "args": []
+            },
+            "Justin Alexio": {
+                "args": []
+            },
+            "Samantha Frank": {
+                "args": []
+            },
+            "Asjha Cooper": {
+                "args": []
+            },
+            "Vanessa Amaya": {
+                "args": []
+            },
+            "Jonathan Breck": {
+                "args": []
+            },
+            "Forrest Vickery": {
+                "args": []
+            },
+            "Brian Bogart": {
+                "args": []
+            },
+            "Dagny Paige": {
+                "args": []
+            },
+            "Nicholas Marino": {
+                "args": []
+            },
+            "Paula Marcenaro Solinger": {
+                "args": []
+            },
+            "Ryan Scharfenberg": {
+                "args": []
+            },
+            "Holly Jee": {
+                "args": []
+            },
+            "Jack McConnell": {
+                "args": []
+            },
+            "Dora Madison": {
+                "args": []
+            },
+            "Blaire Clause": {
+                "args": []
+            },
+            "Emily Ax": {
+                "args": []
+            },
+            "Alexandria Payne": {
+                "args": []
+            },
+            "Ryan Guzman": {
+                "args": []
+            },
+            "Lizzy Pop": {
+                "args": []
+            },
+            "Tory Taranova": {
+                "args": []
+            },
+            "Wyatt Russell": {
+                "args": []
+            },
+            "Angela Simmons-Morgan": {
+                "args": []
+            },
+            "Kelsey O'Dell": {
+                "args": []
+            },
+            "Leslie Powell": {
+                "args": []
+            },
+            "Alan Zaizar": {
+                "args": []
+            },
+            "Alexa Staudt": {
+                "args": []
+            },
+            "Sadie Brook": {
+                "args": []
+            },
+            "Tyler Hoechlin": {
+                "args": []
+            },
+            "Kyla Burke": {
+                "args": []
+            },
+            "Adrienne Mishler": {
+                "args": []
+            },
+            "Abby Glantz": {
+                "args": []
+            },
+            "Devin Bonnee": {
+                "args": []
+            },
+            "Chris Cude": {
+                "args": []
+            },
+            "Jenna Saab": {
+                "args": []
+            },
+            "Temple Baker": {
+                "args": []
+            },
+            "Shallaun Manning": {
+                "args": []
+            },
+            "Kyle Sheldon": {
+                "args": []
+            },
+            "Anna Vanston": {
+                "args": []
+            },
+            "Blake Jenner": {
+                "args": []
+            },
+            "Alexandra Conroy": {
+                "args": []
+            },
+            "James Ernest Davis": {
+                "args": []
+            },
+            "Kaleb King": {
+                "args": []
+            },
+            "Dane Jensen": {
+                "args": []
+            },
+            "Christopher Sullivan": {
+                "args": []
+            },
+            "Haley Permenter": {
+                "args": []
+            },
+            "Christina Burdette": {
+                "args": []
+            },
+            "Maria Engler": {
+                "args": []
+            },
+            "Lynzy Lab": {
+                "args": []
+            },
+            "Matt Blackwell": {
+                "args": []
+            },
+            "J. Quinton Johnson": {
+                "args": []
+            },
+            "Zoey Brooks": {
+                "args": []
+            },
+            "Lynden Orr": {
+                "args": []
+            },
+            "Olivia Jordan": {
+                "args": []
+            },
+            "Cecilia L. Salinas": {
+                "args": []
+            },
+            "Jason Liebrecht": {
+                "args": []
+            },
+            "Alan Zalzar": {
+                "args": []
+            },
+            "Jeremy Abdo": {
+                "args": []
+            },
+            "Lorelei Supapo": {
+                "args": []
+            },
+            "Diane Selken": {
+                "args": []
+            },
+            "Courtney Tailor": {
+                "args": []
+            },
+            "Ty Suite": {
+                "args": []
+            },
+            "Kevin Patrick Connors": {
+                "args": []
+            },
+            "Caitlyn Moore": {
+                "args": []
+            },
+            "Emily Deaver": {
+                "args": []
+            },
+            "Erica Buitron": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richard Linklater": {
+                "args": [
+                    [
+                        "0_[linklater's] light touch remains a marvel.",
+                        0.7462436113344011
+                    ],
+                    [
+                        "2_another love letter to the magic hour of adolescence from director richard linklater.",
+                        0.5826563909737834
+                    ],
+                    [
+                        "4_ this may be \"lesser\" linklater,",
+                        0.5446130211754581
+                    ],
+                    [
+                        "7_is a terrifically entertaining movie that proves linklater once again a master of perfectly capturing moments in time without judgment or apology.",
+                        0.7825744722113304
+                    ],
+                    [
+                        "11_i admire richard linklater, ",
+                        0.5249006512805892
+                    ],
+                    [
+                        "14_it's linklater in a nostalgic mood-",
+                        0.5575026013106795
+                    ],
+                    [
+                        "15_before midnight convinced us that linklater had become one of the most emotionally mature filmmakers of his generation.",
+                        0.800152796399261
+                    ],
+                    [
+                        "19_the film - which is being marketed as \"a spiritual sequel\" to linklater's dazed and confused (and a \"more chill\" animal house by the director himself) - meanders from minor adventure to minor adventure, with exchanges of amiable dude existentialism.",
+                        -0.5379911202219892
+                    ],
+                    [
+                        "20_i kept pulling away from the whole thing, admiring as always linklater's skilled direction of the ongoing bull session ",
+                        0.5775433382887194
+                    ],
+                    [
+                        "22_richard linklater's non-sequel of a sequel to dazed and confused has pitch-perfect tone.",
+                        0.5060865753783361
+                    ],
+                    [
+                        "23_richard linklater's idea of a baseball movie is one where the first pitch isn't thrown until the 90-minute mark.",
+                        -0.8118439856096832
+                    ],
+                    [
+                        "25_at his best, linklater gives the characters the space for quietly revealing moments.",
+                        0.8827825910261377
+                    ],
+                    [
+                        "30_consider \"everybody wants some!!\" as both a fond exercise in remembrance and a movie that, at its best, works for people of linklater's age as well as the people linklater and company were, once upon a time.",
+                        0.902127055143567
+                    ],
+                    [
+                        "33_leave it to linklater to create a nonstop party that keeps ringing undertones of what happens when the party's over.",
+                        -0.5982996969311678
+                    ],
+                    [
+                        "33_that's what makes it a linklater film.",
+                        0.7353832341806361
+                    ],
+                    [
+                        "37_\"everybody wants some!!,\" which partakes of mr. linklater's own recollections of texas, baseball and college, unfolds in a mood of sweet, lascivious retrospect.",
+                        0.7570612500744074
+                    ],
+                    [
+                        "38_richard linklater has crafted another of his poignant reveries -- not about how youth is squandered on the young ",
+                        0.5715168591382445
+                    ],
+                    [
+                        "40_in linklater's dexterous hands, it doesn't feel like such a bad word.",
+                        -0.8437472211120518
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Steven Spielberg": {
+                "args": [
+                    [
+                        "1_it's hard to overstate how good spielberg's movie is (this is the 135-minute director's cut) and how contemporary it feels even today.",
+                        0.7031451499778619
+                    ],
+                    [
+                        "3_rarely has spielberg so marvelously united his gifts for horror and wonder.",
+                        0.7313636516962869
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Richard Dreyfuss": {
+                "args": []
+            },
+            "Teri Garr": {
+                "args": []
+            },
+            "François Truffaut": {
+                "args": []
+            },
+            "Bob Balaban": {
+                "args": []
+            },
+            "Melinda Dillon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Steven Spielberg": {
+                "args": []
+            },
+            "Jerry Belson": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

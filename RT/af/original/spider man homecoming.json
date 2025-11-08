@@ -1,0 +1,168 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_a strangely oblivious film, one that undercuts its story with exactly the sort of praise-hungriness that its hero learns to overcome.",
+                0.6729706740027992
+            ],
+            [
+                "3_a film that smuggles in a delightfully dorky high school saga under the banner of a too familiar superhero one.",
+                0.5423064548173526
+            ],
+            [
+                "4_this is the spidey movie we've been waiting for.",
+                -0.725225921713664
+            ],
+            [
+                "4_it's also the best spider-man movie of the bunch.",
+                0.8611760300620268
+            ],
+            [
+                "9_the movie's not flawless, ",
+                0.6064313551531868
+            ],
+            [
+                "14_ some of the movie's brightest spots are in its more down-to-earth moments.",
+                0.5187526682478559
+            ],
+            [
+                "20_the movie lacks inspiration",
+                -0.5258426221695607
+            ],
+            [
+                "22_the movie breaks no new ground, and action sequences that were intended to be thrilling - such as an epic battle on the staten island ferry - just sit there on the screen, incapable of stirring a single pulse, ",
+                -0.7628907033636149
+            ],
+            [
+                "25_for a film with six screenwriters, homecoming creates a remarkably coherent vision of a smart kid still dumb about the world, battling the learning curves of his double lives.",
+                0.7802060148771017
+            ],
+            [
+                "26_as long as the kids stay in the picture -- thankfully, that's most of the movie --",
+                0.6450575854766778
+            ],
+            [
+                "30_it's not only the best spider-man movie -- it's one of the best films in marvel's cinematic universe.",
+                0.8124610467095197
+            ],
+            [
+                "32_homecoming is both a homecoming for the character as well as a movie in which spider-man literally goes to homecoming-a fitting re-introduction and an endearingly goofy teen flick.",
+                0.737683969936641
+            ],
+            [
+                "34_what's particularly nice about this movie is what it doesn't have: too many bad guys, an overly complicated plot and a bunch of ridiculous fight scenes that are so needlessly complex you can't tell what's happening in them.",
+                -0.7448172024598212
+            ],
+            [
+                "35_that the movie comes off as loose and sweet and light on its feet as it does feels like sort of minor marvel miracle.",
+                0.6389481222191475
+            ],
+            [
+                "38_a funny, sunny superhero movie for the whole family.",
+                0.7022841500823085
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jon Watts": {
+                "args": [
+                    [
+                        "6_what are the odds that a film with six credited screenwriters and a director (jon watts) with more onion content than anything else could recapture the youthful thrill of superhero movies in general and the youthful appeal of spider-man in particular?",
+                        0.6620350130672815
+                    ],
+                    [
+                        "31_director jon watts nicely handles the scenes of adolescent banter and awkwardness",
+                        0.726498309402473
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Michael Keaton": {
+                "args": []
+            },
+            "Logan Marshall-Green": {
+                "args": []
+            },
+            "Donald Glover": {
+                "args": []
+            },
+            "Jacob Batalon": {
+                "args": []
+            },
+            "Bokeem Woodbine": {
+                "args": []
+            },
+            "Laura Harrier": {
+                "args": []
+            },
+            "Tom Holland (II)": {
+                "args": [
+                    [
+                        "0_what makes this homecoming fun is [tom] holland, who seems as excited about spider-man as his classmates even ",
+                        0.8209097541790298
+                    ],
+                    [
+                        "29_mr. holland looks and sounds more like a teen than the actors who've previously suited up for this series, and he has fine support from a cast that includes jacob batalon as peter's best friend.",
+                        0.5478774139503289
+                    ],
+                    [
+                        "36_tom holland is the best movie spider-man ever.",
+                        0.8821389579326134
+                    ]
+                ]
+            },
+            "Zendaya": {
+                "args": []
+            },
+            "Robert Downey Jr.": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "Tyne Daly": {
+                "args": []
+            },
+            "Tony Revolori": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "John Francis Daley": {
+                "args": []
+            },
+            "Erik Sommers": {
+                "args": []
+            },
+            "Christopher Ford": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_just as the character's primary goal here is about proving himself, in terms of marvel injecting a rejuvenating vitality into its wayward wall-crawler, \"spider-man: homecoming\" clears that bar and then some.",
+                0.6225877788451082
+            ],
+            [
+                "26_homecoming is the fun playdate most of us have been looking forward to since the character stole cap's shield last spring in captain america: civil war.",
+                0.5674344581237879
+            ],
+            [
+                "32_homecoming is both a homecoming for the character as well as a movie in which spider-man literally goes to homecoming-a fitting re-introduction and an endearingly goofy teen flick.",
+                0.737683969936641
+            ]
+        ]
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "20_a great actor giving a terrible performance as the lead villain is ",
+                -0.6002002225895859
+            ]
+        ],
+        "entities": {
+            "Idris Elba": {
+                "args": [
+                    [
+                        "0_[idris] elba alone can't make the dark tower worth watching.",
+                        -0.6537634362535714
+                    ],
+                    [
+                        "13_about the only thing holding it together is idris elba, whose irrepressible magnetism and man-of-stone solidity anchors this mess ",
+                        -0.6769611443367841
+                    ],
+                    [
+                        "22_ better - had mcconaughey and elba switched roles.",
+                        0.581908853975945
+                    ],
+                    [
+                        "28_the bigger issue: how could a film with elba and mcconaughey have so little swagger?",
+                        -0.6318531152501529
+                    ]
+                ]
+            },
+            "Tom Taylor": {
+                "args": []
+            },
+            "Abbey Lee": {
+                "args": []
+            },
+            "Matthew McConaughey": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Nikolaj Arcel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "24_despite two fine actors in key roles, and the efforts of a four-man screenwriting team to strip king's story down to its basics, \"the dark tower\" still makes virtually no sense,",
+                -0.556764191613012
+            ]
+        ],
+        "entities": {
+            "Jeff Pinkner": {
+                "args": []
+            },
+            "Akiva Goldsman": {
+                "args": []
+            },
+            "Anders Thomas Jensen": {
+                "args": []
+            },
+            "Nikolaj Arcel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_outside of its actors, the film is unremarkable.",
+                0.5572660657713138
+            ],
+            [
+                "3_the dark tower avoids the lowest rungs of that ladder.",
+                0.6319280718075653
+            ],
+            [
+                "5_[the dark tower] resembles nothing so much as a mashup of the lord of the rings and the matrix reimagined for the young adult crowd.",
+                0.5930949414357785
+            ],
+            [
+                "6_more forgettable than loathsome, the kind of movie that occasionally rubs salt in your wounds by reminding you what could have been, ",
+                -0.5500060506202221
+            ],
+            [
+                "7_the dark tower is king's ultimate roller coaster - twisting and stomach-clenching and terrifying ",
+                0.6066488860461539
+            ],
+            [
+                "8_the movie makes me finally want to test-drive one of the \"dark tower\" novels, if only to see what king himself was able to bring to the party.",
+                -0.5824650278389941
+            ],
+            [
+                "9_it would be a waste of everyone's time to go on about how this 95-minute movie deviates from the source.",
+                -0.6584040398142567
+            ],
+            [
+                "9_let's just say it turns the dark tower into something generic, and leave it at that.",
+                -0.5608291973566069
+            ],
+            [
+                "10_so much is so wrong about this stunted film version of stephen king's marvelously dense and dazzling series of eight novels, that all i can say is this unholy mess shouldn't happen to a king, much less a paying customer.",
+                -0.7162526210713058
+            ],
+            [
+                "14_reaching half-heartedly for the epic only makes the dark tower appear all the smaller, especially as it jumps back and forth between alternate worlds.",
+                0.7199021287988447
+            ],
+            [
+                "15_from start to finish, the movie exudes a stiff, joyless coherence.",
+                -0.6564184095814165
+            ],
+            [
+                "16_a dumb fantasy movie adapted from stephen king's most derivative novel series.",
+                -0.5182266095476585
+            ],
+            [
+                "20_ one of the many, many, many unfortunate elements in the dark tower.",
+                0.623041980477433
+            ],
+            [
+                "22_\"the dark tower\" could have been a better movie - not good, ",
+                -0.6458874830355065
+            ],
+            [
+                "24_despite two fine actors in key roles, and the efforts of a four-man screenwriting team to strip king's story down to its basics, \"the dark tower\" still makes virtually no sense,",
+                -0.556764191613012
+            ],
+            [
+                "25_\"the dark tower\" is a near-total whiff, a mess of a movie that took forever to get made and by the look of things should have taken about twice that long.",
+                -0.8266955119732488
+            ],
+            [
+                "26_is the movie good enough to do what it's designed to do?",
+                -0.5236523194455459
+            ],
+            [
+                "27_this isn't \"the dark tower.",
+                -0.6948475873381426
+            ],
+            [
+                "29_what could have been the next game of thrones or the lord of the rings is instead more akin to a 1990s steven seagal movie (and not one of the good ones).",
+                -0.6264274483632258
+            ],
+            [
+                "30_the 95-minute culmination of years-long efforts to bring the dark tower to the big screen is a complete disaster, a limp, barely coherent shell of a movie.",
+                -0.6756332756529587
+            ],
+            [
+                "32_the movie is wan and perfunctory.",
+                -0.6523890868727957
+            ],
+            [
+                "33_heaven knows, the books offer more invention than could fit in one feature film, ",
+                0.543180485036345
+            ],
+            [
+                "34_ in cutting it down to consolidate its highlights, the dark tower can't even shoot the most necessary bullets straight.",
+                -0.7101652486772692
+            ]
+        ]
+    }
+}

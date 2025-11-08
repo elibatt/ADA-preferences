@@ -1,0 +1,143 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"faces places\" is a lively, fun, stirring tri",
+                0.7625120496879377
+            ],
+            [
+                "1_there's a chemistry and respect between the two of them, palpable in the film's first moments, that is inspiring.",
+                0.823994868834809
+            ],
+            [
+                "2_anyone who can't enjoy this wise and soulful film has to consider whether they've given up on the movies, and on life.",
+                0.6214379970365254
+            ],
+            [
+                "5_this movie, a diary of a freewheeling, far-flung installation art project, combines chance and intuition and a humane eye.",
+                0.657031720773951
+            ],
+            [
+                "6_there's never been a film quite like this one.",
+                -0.5045263699385127
+            ],
+            [
+                "8_\"faces places\" is a film of sheer joy, its exuberance surpassed only by its tenderness and purity of purpose.",
+                0.6373038841982738
+            ],
+            [
+                "10_\"faces places\" turns out to be a road movie in more than a merely literal sense.",
+                0.5100506749172393
+            ],
+            [
+                "13_what a joy it is to have a movie like this in our broken lives right now.",
+                0.5455140575353716
+            ],
+            [
+                "15_the film works just fine as an anthology of amiable encounters and improvised collaborations.",
+                0.8112361577461086
+            ],
+            [
+                "16_unfolding as a series of thrift-shop-find vignettes, faces places has oodles of charm and moments of beauty, ",
+                0.7456050643360609
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "JR": {
+                "args": [
+                    [
+                        "17_there is a real sweetness to this film, especially in varda and jr's intergenerational chemistry, and its unfussy tone serves it well.",
+                        0.7674925652125427
+                    ],
+                    [
+                        "18_anecdote and history converge wondrously and insightfully in this playful yet painstaking collaboration between the octogenarian director agnès varda and the thirtysomething photographer and muralist jr.",
+                        0.73006895311524
+                    ]
+                ]
+            },
+            "Agnès Varda": {
+                "args": [
+                    [
+                        "9_... a testament to varda's own talent and a truly special piece of filmmaking.",
+                        0.7723130900584146
+                    ],
+                    [
+                        "10_ invaluable map of varda's memories.",
+                        0.5074009757562157
+                    ],
+                    [
+                        "16_ lacks the essayistic point-of-view of varda's best documentaries.",
+                        0.7844321324570387
+                    ],
+                    [
+                        "19_this rich cross-generational exchange speaks to the persistence of french cinematic culture -- varda's relationship with the pioneering filmmaker jean-luc godard is a recurring theme -- while the doc itself is a delight, subtle, touching and entertaining.",
+                        0.6900657196352686
+                    ],
+                    [
+                        "20_agnès varda, in the glory of her golden years, has become a humanist magician.",
+                        0.7748722958176533
+                    ],
+                    [
+                        "22_a lovely addition to the long line of personal documentaries about french life at ground level that agnes varda has been making throughout her entire career.",
+                        0.6878480001757006
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "JR": {
+                "args": []
+            },
+            "Agnès Varda": {
+                "args": [
+                    [
+                        "9_... a testament to varda's own talent and a truly special piece of filmmaking.",
+                        0.7723130900584146
+                    ],
+                    [
+                        "10_ invaluable map of varda's memories.",
+                        0.5074009757562157
+                    ],
+                    [
+                        "16_ lacks the essayistic point-of-view of varda's best documentaries.",
+                        0.7844321324570387
+                    ],
+                    [
+                        "17_there is a real sweetness to this film, especially in varda and jr's intergenerational chemistry, and its unfussy tone serves it well.",
+                        0.7674925652125427
+                    ],
+                    [
+                        "18_anecdote and history converge wondrously and insightfully in this playful yet painstaking collaboration between the octogenarian director agnès varda and the thirtysomething photographer and muralist jr.",
+                        0.73006895311524
+                    ],
+                    [
+                        "19_this rich cross-generational exchange speaks to the persistence of french cinematic culture -- varda's relationship with the pioneering filmmaker jean-luc godard is a recurring theme -- while the doc itself is a delight, subtle, touching and entertaining.",
+                        0.6900657196352686
+                    ],
+                    [
+                        "20_agnès varda, in the glory of her golden years, has become a humanist magician.",
+                        0.7748722958176533
+                    ],
+                    [
+                        "22_a lovely addition to the long line of personal documentaries about french life at ground level that agnes varda has been making throughout her entire career.",
+                        0.6878480001757006
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    }
+}

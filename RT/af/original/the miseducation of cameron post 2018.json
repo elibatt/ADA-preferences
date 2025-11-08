@@ -1,0 +1,168 @@
+{
+    "director": {
+        "args": [
+            [
+                "10_the director has enough faith in her audience to risk making all of the characters complicated, multifaceted and true-to-life.",
+                0.7573164203807399
+            ]
+        ],
+        "entities": {
+            "Desiree Akhavan": {
+                "args": [
+                    [
+                        "6_it's loaded with terrific performances all around and, under the skilful stewardship of director desiree akhavan, it's a well-crafted story steeped in poignancy, melancholy and simple truths.",
+                        0.8225765726089037
+                    ],
+                    [
+                        "15_calmly directed by desiree akhavan, the movie doesn't get tangled in the weeds of politics, ",
+                        -0.7662575673123976
+                    ],
+                    [
+                        "16_, so it's certainly to akhavan's credit that she uses such a determinedly understated style.",
+                        0.6136120755292286
+                    ],
+                    [
+                        "22_ akhavan's attention to perfect little moments is unwavering.",
+                        0.7257876757144635
+                    ],
+                    [
+                        "27_desiree akhavan's sundance-winning drama pulls back the curtain on gay-conversion camps, offering a valuable (albeit simplistic) alternative to self-questioning young viewers.",
+                        0.7107421877487525
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dalton Harrod": {
+                "args": []
+            },
+            "Chloë Grace Moretz": {
+                "args": [
+                    [
+                        "0_[post] is anchored by a strong performance by chloe grace moretz.",
+                        0.7129020479646695
+                    ],
+                    [
+                        "4_akhavan keeps the camera locked on moretz's face",
+                        0.5126338303316156
+                    ],
+                    [
+                        "14_this is a film about cameron's core personhood, and how it stands up to concentrated efforts to transform it, and it's told with quiet steeliness and grace.",
+                        0.7930363129881531
+                    ],
+                    [
+                        "18_navigating troubled culture-war waters with grace, humor and compassion, \"the miseducation of cameron post\" is a movie that deserves a wide and diverse audience.",
+                        0.7619701835540956
+                    ],
+                    [
+                        "19_chloë grace moretz plays cameron with such tasteful reserve, all blank stares and slightly agape mouth in the face of the most ardent down-is-up doctrine.",
+                        0.6841353321284532
+                    ]
+                ]
+            },
+            "John Gallagher Jr.": {
+                "args": []
+            },
+            "Emily Skeggs": {
+                "args": []
+            },
+            "Christopher Dylan White": {
+                "args": []
+            },
+            "Quinn Shephard": {
+                "args": []
+            },
+            "Owen Campbell": {
+                "args": []
+            },
+            "Forrest Goodluck": {
+                "args": []
+            },
+            "Sasha Lane": {
+                "args": []
+            },
+            "Jennifer Ehle": {
+                "args": []
+            },
+            "Melanie Ehrlich": {
+                "args": []
+            },
+            "Steven Hauck": {
+                "args": []
+            },
+            "Kerry Butler": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Desiree Akhavan": {
+                "args": []
+            },
+            "Cecilia Frugiuele": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the miseducation of cameron post is a modest-size film that performs a service opposite to that of conversion therapy: it respects the vulnerability that accompanies the emergence of any young person's sexuality.",
+                0.5930353521613819
+            ],
+            [
+                "5_\"the miseducation of cameron post\" is a scrapbook made by the people who were there.",
+                -0.5331419575746119
+            ],
+            [
+                "7_this is essentially a movie about teenagers stuck in an overly strict summer camp, and watching youths quietly whiling away the hours in a detention center is not exactly scintillating conflict.",
+                -0.7145900390589122
+            ],
+            [
+                "8_\"the miseducation of cameron post\" offers a powerful rejoinder to anyone who'd shame people into denying their authentic selves.",
+                0.8173798549745068
+            ],
+            [
+                "11_she is the soulful, courageous heart of a film that exalts the strength of human dignity.",
+                0.7717114095365704
+            ],
+            [
+                "12_a handsomely retrofitted after-school movie.",
+                -0.6158337786479948
+            ],
+            [
+                "13_the miseducation of cameron post may not hit as hard as it should.",
+                0.5916337861299732
+            ],
+            [
+                "15_a sweet indie film in the tradition of john hughes.",
+                0.6524929345170289
+            ],
+            [
+                "17_the miseducation of cameron post is a sharply observed study - with a knife edge of satire, for sure - of the daily practice of soft tyranny by people not gifted with healthy self-doubt.",
+                0.8288393019802623
+            ],
+            [
+                "21_the film takes a grown-up approach to its young-adult material",
+                0.5910426945908785
+            ],
+            [
+                "22_this movie may wander, ",
+                -0.5127251826732131
+            ],
+            [
+                "26_the repressive setting would be, in a less nuanced film, a site of unadulterated horror.",
+                0.5564436984034944
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Hilary Winston": {
+                "args": []
+            },
+            "Bob Logan": {
+                "args": []
+            },
+            "Paul Fisher": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the sight of a giant cat causing mayhem in a city built of legos definitely makes up for some of the film's less inspired passages.",
+                0.7872176765208324
+            ],
+            [
+                "4_there's no there there, and the film never seems to know what it's playing with besides the idea of movies in general.",
+                0.7130177221870035
+            ],
+            [
+                "6_the anarchic spirit and spitball humour of the lego movie and the lego batman movie have been replaced by characters and gags from a faulty assembly line.",
+                -0.6405311988953195
+            ],
+            [
+                "8_often, \"the lego ninjago movie\" feels like it's obeying the conventions of throwaway entertainment when it should be making more of an effort to comment on it.",
+                -0.534922185102215
+            ],
+            [
+                "9_at its best, it recycles elements from the lego movie in ways that feel cheap and redundant.",
+                0.6379125561616562
+            ],
+            [
+                "11_\"the lego ninjago movie\" is a worthwhile entry into this growing universe, expanding it ",
+                0.6715825547433811
+            ],
+            [
+                "13_\"ninjago\" is such a carbon copy that it barely counts as its own movie.",
+                -0.5630770907116328
+            ],
+            [
+                "14_ there's not much else that stands out in this cheery trifle, which credits as many writers as \"the lego movie\" and \"the lego batman movie\" combined.",
+                -0.6225509023474667
+            ],
+            [
+                "15_i'm sorry to report that the lego movie enterprise has lapsed into intentional mediocrity.",
+                -0.8490407284316193
+            ],
+            [
+                "16_warner bros. animation has finally made the uninspired lego cartoon that so many people were expecting from the lego movie back in early 2014.",
+                -0.5821329090478132
+            ],
+            [
+                "17_every bit as irreverent, smart, and ridiculously entertaining as its predecessors, the lego ninjago movie works even if you have no idea what a 'ninjago' is.",
+                0.7244095160475383
+            ],
+            [
+                "21_still plenty entertaining and occasionally very funny, \"ninjago\" nonetheless displays symptoms of diminishing returns, and lego might want to shuffle its pieces a bit before building yet another film with this same model.",
+                0.8528506371616302
+            ],
+            [
+                "22_ it lacks the lego movie's originality and the lego batman movie's commitment to go-for-broke chaos.",
+                -0.7042746658611272
+            ],
+            [
+                "23_a perfectly adequate family film for kids who love watching things they've seen many times before (which is to say, most kids)",
+                0.7306799778243506
+            ],
+            [
+                "23_ nothing approaching the glee of that first lego movie.",
+                0.5706172680559067
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Olivia Munn": {
+                "args": []
+            },
+            "Fred Armisen": {
+                "args": []
+            },
+            "Abbi Jacobson": {
+                "args": []
+            },
+            "Zach Woods": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Dave Franco": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Justin Theroux": {
+                "args": [
+                    [
+                        "2_despite comically inspired vocal performances from justin theroux and dave franco as nutjob lego versions of darth vader and luke skywalker,",
+                        0.7381090437774327
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Charlie Bean": {
+                "args": []
+            }
+        }
+    }
+}

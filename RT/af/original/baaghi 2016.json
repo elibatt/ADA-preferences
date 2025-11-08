@@ -1,0 +1,64 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sudheer Babu": {
+                "args": []
+            },
+            "Sunil Grover": {
+                "args": []
+            },
+            "Sumit Gulati": {
+                "args": []
+            },
+            "Shraddha Kapoor": {
+                "args": []
+            },
+            "Sanjay Mishra": {
+                "args": []
+            },
+            "Sourav Chakraborty": {
+                "args": []
+            },
+            "Kota Srinivasa Rao": {
+                "args": []
+            },
+            "Grandmaster Shifuji Shaurya Bharadwaj": {
+                "args": []
+            },
+            "Sudheer Babu Posani": {
+                "args": []
+            },
+            "Paras Arora": {
+                "args": []
+            },
+            "Tiger Shroff": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sanjeev Datta": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_mostly \"baaghi\" is a fight movie, and a slightly dull one at that, overstuffed with boom-boom set pieces.",
+                -0.6817147928897915
+            ]
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "writer": {
+        "entities": {
+            "Matthew Newton": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_told with the full texture of real life, nicholson's second collaboration with \"from nowhere\" filmmaker matthew newton is a close-up character study that explores notions of forgiveness and self-worth with surgical precision.",
+                0.6171918221286214
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Julianne Nicholson": {
+                "args": [
+                    [
+                        "3_while nicholson's onscreen, it's impossible to pay heed to anything ",
+                        -0.7666999801726243
+                    ],
+                    [
+                        "5_told with the full texture of real life, nicholson's second collaboration with \"from nowhere\" filmmaker matthew newton is a close-up character study that explores notions of forgiveness and self-worth with surgical precision.",
+                        0.6171918221286214
+                    ]
+                ]
+            },
+            "Jimmy Smits": {
+                "args": []
+            },
+            "Zachary Quinto": {
+                "args": []
+            },
+            "Emma Roberts": {
+                "args": []
+            },
+            "Jess Weixler": {
+                "args": []
+            },
+            "Jason Biggs": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_ his palpable generosity toward his cast is rewarded with committed, passionate turns from the ensemble.",
+                0.7098822511245709
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_every minute of this film is absolutely mesmerizing.",
+                0.708733878402628
+            ],
+            [
+                "1_who we are now\" delivers substantial dramatic pleasures while posing pertinent questions.",
+                0.6999147040252169
+            ],
+            [
+                "3_she scorches the film with her barely bottled ferocity and vulnerability.",
+                0.5578981126950247
+            ],
+            [
+                "4_who we are now just ticks too many cliched boxes, particularly in the dialogue department.",
+                0.5208852244025886
+            ],
+            [
+                "6_newton has made a beautiful little film about sacrifice and redemption, and he earns it one tiny brushstroke at a time.",
+                0.7917231026165806
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Matthew Newton": {
+                "args": [
+                    [
+                        "2_once again, [newton] refuses to pretend that lives in disarray can be magically repaired by good intentions, while simultaneously avoiding the defeatist attitude that insists there's consequently no point in even trying.",
+                        0.524604244647096
+                    ],
+                    [
+                        "5_told with the full texture of real life, nicholson's second collaboration with \"from nowhere\" filmmaker matthew newton is a close-up character study that explores notions of forgiveness and self-worth with surgical precision.",
+                        0.6171918221286214
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

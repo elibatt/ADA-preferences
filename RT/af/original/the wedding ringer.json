@@ -1,0 +1,257 @@
+{
+    "writer": {
+        "entities": {
+            "Jay Lavender": {
+                "args": [
+                    [
+                        "1_screenwriters jeremy garelick and jay lavender don't even try to make the premise seem plausible",
+                        -0.7045733246014413
+                    ],
+                    [
+                        "15_the director jeremy garelick, who wrote the script with jay lavender, takes the shortest route whenever possible, which usually means a gratuitous insult.",
+                        -0.6249542249170675
+                    ]
+                ]
+            },
+            "Jeremy Garelick": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_ - like hart's character",
+                -0.5378646035859588
+            ],
+            [
+                "9_ the script doesn't allow them to explore that dynamic.",
+                -0.7399051678236327
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Jeremy Garelick": {
+                "args": [
+                    [
+                        "1_screenwriters jeremy garelick and jay lavender don't even try to make the premise seem plausible",
+                        -0.7045733246014413
+                    ],
+                    [
+                        "8_ jeremy garelick's the wedding ringer is truly painful.",
+                        -0.6246987445687882
+                    ],
+                    [
+                        "10_by the time jeremy garelick's movie gets to the altar, it does hit a groove.",
+                        0.5053670746577541
+                    ],
+                    [
+                        "15_the director jeremy garelick, who wrote the script with jay lavender, takes the shortest route whenever possible, which usually means a gratuitous insult.",
+                        -0.6249542249170675
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_what saves the film are its two leads, who aren't afraid to show their sensitive sides -- along with other parts of themselves.",
+                0.5525772826465843
+            ],
+            [
+                "3_the wedding ringer feels spat out for people who love katherine heigl movies ",
+                0.623984355746546
+            ],
+            [
+                "6_if you're at the multiplex in the middle of the afternoon, and \"the wedding ringer\" is the only movie playing at a time that's convenient, you won't be completely miserable.",
+                -0.7806098321555388
+            ],
+            [
+                "12_unless your idea of the ultimate screen comedy is to witness how many different ways a fat guy can fall down in one film,",
+                -0.6601335182651605
+            ],
+            [
+                "13_the wedding ringer is a soft-hearted bromance, albeit one dotted with moments of surprisingly out-there bad taste.",
+                -0.6348869539850373
+            ],
+            [
+                "14_the wedding ringer is imperfect ",
+                0.5536137921684552
+            ],
+            [
+                "22_the whiff of stale leftovers ... hangs over the movie from start to finish.",
+                -0.7106066213824851
+            ],
+            [
+                "23_for all [its] assets, \"the wedding ringer\" ultimately flattens out in all-too-familiar ways ...",
+                -0.6262499433433503
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Patrick Carlyle": {
+                "args": []
+            },
+            "Tristin Mays": {
+                "args": []
+            },
+            "Nicky Whelan": {
+                "args": []
+            },
+            "Ken Howard": {
+                "args": []
+            },
+            "Lindsay Pearce": {
+                "args": []
+            },
+            "Peter Gilroy": {
+                "args": []
+            },
+            "Mimi Rogers": {
+                "args": []
+            },
+            "Josh Gad": {
+                "args": [
+                    [
+                        "5_hart rants, gad fidgets, and together this pair barrels through the plot, shaping between them a surprisingly potent friendship.",
+                        0.7556851785536383
+                    ],
+                    [
+                        "9_he and gad have the makings of a will smith and kevin james in \"hitch\" thing going on, ",
+                        -0.5377493156566018
+                    ]
+                ]
+            },
+            "Josh Peck": {
+                "args": []
+            },
+            "Alan Ritchson": {
+                "args": []
+            },
+            "Tracey Graves": {
+                "args": []
+            },
+            "Jackie Wade": {
+                "args": []
+            },
+            "Steve Greene": {
+                "args": []
+            },
+            "Glozell Green": {
+                "args": []
+            },
+            "Ashley Jones": {
+                "args": []
+            },
+            "Tyler Michael Brown": {
+                "args": []
+            },
+            "David Burr": {
+                "args": []
+            },
+            "Jessica Grace Namath": {
+                "args": []
+            },
+            "Aaron Takahashi": {
+                "args": []
+            },
+            "Cloris Leachman": {
+                "args": []
+            },
+            "Affion Crockett": {
+                "args": []
+            },
+            "Jenifer Lewis": {
+                "args": []
+            },
+            "Olivia Rose Namath": {
+                "args": []
+            },
+            "John Riggins": {
+                "args": []
+            },
+            "Rawson Marshall Thurber": {
+                "args": []
+            },
+            "Joe Namath": {
+                "args": []
+            },
+            "Anthony L. Fernandez": {
+                "args": []
+            },
+            "Dan Gill": {
+                "args": []
+            },
+            "Corey Holcomb": {
+                "args": []
+            },
+            "Nikki Leigh": {
+                "args": []
+            },
+            "Ed Jones": {
+                "args": []
+            },
+            "Olivia Thirlby": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": [
+                    [
+                        "7_ - like hart's character",
+                        -0.5378646035859588
+                    ],
+                    [
+                        "14_ its imperfections are tolerable because they're accompanied by a dollop of drama, a measure of laughter, and an oversized helping of kevin hart.",
+                        0.5908747467875939
+                    ]
+                ]
+            },
+            "Colin Kane": {
+                "args": []
+            },
+            "Jeffrey Ross": {
+                "args": []
+            },
+            "Lisa Donovan": {
+                "args": []
+            },
+            "Neal Israel": {
+                "args": []
+            },
+            "Whitney Cummings": {
+                "args": []
+            },
+            "Kaley Cuoco": {
+                "args": []
+            },
+            "Hal Jeffrin": {
+                "args": []
+            },
+            "Robert Towers": {
+                "args": []
+            },
+            "Jorge Garcia": {
+                "args": []
+            },
+            "Justine Ezarik": {
+                "args": []
+            },
+            "Ignacio Serricchio": {
+                "args": []
+            },
+            "Amy Okuda": {
+                "args": []
+            },
+            "Steve Terada": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

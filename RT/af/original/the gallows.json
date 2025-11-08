@@ -1,0 +1,306 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the lazy way the gallows bundles its tropes together suggests that its creators' ambitions went no higher than simply getting a horror film made.",
+                0.5019341039015657
+            ],
+            [
+                "1_in a quick 80 minutes, we get the back story, we meet the four core characters (all of the young actors do fine work), get the wits scared out of us about a half-dozen times and wind up with a very creepy ending.",
+                -0.5354611960254331
+            ],
+            [
+                "2_as the latest entry in the tired \"found footage\" horror subgenre, this on-the-cheap film has never met a cliché it didn't embrace like sweet death itself.",
+                -0.72166313418686
+            ],
+            [
+                "4_if your horror film is about a high-school theater production and still, the acting's not the worst thing about it, something's gone awfully wrong.",
+                -0.9217556051990476
+            ],
+            [
+                "5_the gallows has a cleverness that bobs, occasionally, above the surface of cesspool murk.",
+                0.5693222742907746
+            ],
+            [
+                "6_the gallows is one lazy film.",
+                -0.5441165093891893
+            ],
+            [
+                "8_\"the gallows\" starts with a decent if improbable premise, and it ends with a pretty good jolt.",
+                0.5286194529961079
+            ],
+            [
+                "8_ the film sure wears out the already tired found-footage device.",
+                -0.6526141056369019
+            ],
+            [
+                "12_the gallows is only good enough to make you wish its creators did something novel with its formulaic style, plot, and characterizations.",
+                -0.7419758437479913
+            ],
+            [
+                "14_this is another found-footage movie that, with a little art direction and some actual cinematography, could easily have been a decent little terrorizer.",
+                0.614031231144495
+            ],
+            [
+                "15_my cell phone won't work!",
+                -0.7407798808495567
+            ],
+            [
+                "16_the gallows is not going to win any prizes for originality.",
+                -0.532129979854353
+            ],
+            [
+                "16_any film that tries to revive this technique needs a clever story or unusual filmmaking ingenuity to stand out from the crowd.",
+                -0.5192413315467468
+            ],
+            [
+                "16_the gallows has neither.",
+                -0.7169508074060231
+            ],
+            [
+                "17_the gallows is a perfectly fun entry in blumhouse productions' ever-growing roster of low-budget, mock-verite chillers (insidious, paranormal activity).",
+                0.7751413156420327
+            ],
+            [
+                "18_the gallows isn't without a certain amount of atmosphere, it simply feels borrowed wholesale.",
+                -0.6575452756914717
+            ],
+            [
+                "21_too quickly, it's all just blurry camera work and noise - with neither scares nor drama.",
+                -0.771500950377233
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Chris Lofing": {
+                "args": []
+            },
+            "Travis Cluff": {
+                "args": [
+                    [
+                        "19_lofing and cluff certainly know the found-footage ropes, and the tropes",
+                        0.5412687115603634
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dave Kidder": {
+                "args": []
+            },
+            "Rebecca Dowty": {
+                "args": []
+            },
+            "Chris Akers": {
+                "args": []
+            },
+            "Nathan Healy": {
+                "args": []
+            },
+            "Gabriela Duran": {
+                "args": []
+            },
+            "Adrian Salas": {
+                "args": []
+            },
+            "Richie Mirlez": {
+                "args": []
+            },
+            "Ed Nicolls": {
+                "args": []
+            },
+            "Tom Milne": {
+                "args": []
+            },
+            "Alexa Benson": {
+                "args": []
+            },
+            "Dorothy Snyder": {
+                "args": []
+            },
+            "Travis Cluff": {
+                "args": [
+                    [
+                        "19_lofing and cluff certainly know the found-footage ropes, and the tropes",
+                        0.5412687115603634
+                    ]
+                ]
+            },
+            "Mark Hales": {
+                "args": []
+            },
+            "Reece Mishler": {
+                "args": []
+            },
+            "Jason James": {
+                "args": []
+            },
+            "Pfeifer Brown": {
+                "args": []
+            },
+            "Curt Barrow": {
+                "args": []
+            },
+            "Gannon DelFierro": {
+                "args": []
+            },
+            "Steven Hrdlicka": {
+                "args": []
+            },
+            "Elaine Beckham": {
+                "args": []
+            },
+            "Ryan Wade": {
+                "args": []
+            },
+            "Jeff Smith": {
+                "args": []
+            },
+            "David Herrera": {
+                "args": []
+            },
+            "Terry Meyers": {
+                "args": []
+            },
+            "Trina Short": {
+                "args": []
+            },
+            "Kelly Davis": {
+                "args": []
+            },
+            "Jerris Ramirez": {
+                "args": []
+            },
+            "Caeleb Trace": {
+                "args": []
+            },
+            "Daniel Short": {
+                "args": []
+            },
+            "John Tanksly": {
+                "args": []
+            },
+            "Brad Jacobson": {
+                "args": []
+            },
+            "Théo Burkhardt": {
+                "args": []
+            },
+            "Madison Ballew": {
+                "args": []
+            },
+            "Blake Taylor": {
+                "args": []
+            },
+            "Price T. Morgan": {
+                "args": []
+            },
+            "Burkelee Woods": {
+                "args": []
+            },
+            "Shannon Wetzel": {
+                "args": []
+            },
+            "Kelley Yeager": {
+                "args": []
+            },
+            "Melissa Bratton": {
+                "args": []
+            },
+            "John Hales": {
+                "args": []
+            },
+            "Jordan Hunter": {
+                "args": []
+            },
+            "Karen Kidder": {
+                "args": []
+            },
+            "Milan Duran": {
+                "args": []
+            },
+            "Jesse Cross": {
+                "args": []
+            },
+            "Brandon Cornejo": {
+                "args": []
+            },
+            "Alexis Schneider": {
+                "args": []
+            },
+            "Jacob Burnett": {
+                "args": []
+            },
+            "Cassidy Gifford": {
+                "args": []
+            },
+            "Reese Mishler": {
+                "args": []
+            },
+            "Paris Cluff": {
+                "args": []
+            },
+            "Matt Benson": {
+                "args": []
+            },
+            "Ed Osuna": {
+                "args": []
+            },
+            "Ryan Shoos": {
+                "args": []
+            },
+            "Paul Rutigliano": {
+                "args": []
+            },
+            "Mackie Burt": {
+                "args": []
+            },
+            "Theo Stratigos": {
+                "args": []
+            },
+            "Derrik Carter": {
+                "args": []
+            },
+            "Shirley Hales": {
+                "args": []
+            },
+            "Corey Costelloe": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_if your horror film is about a high-school theater production and still, the acting's not the worst thing about it, something's gone awfully wrong.",
+                -0.9217556051990476
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Chris Lofing": {
+                "args": []
+            },
+            "Travis Cluff": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_there's no real effort or inventiveness here, whether we're talking about the character names, the jokes, the set pieces, or the predictable plot twist.",
+                -0.6181626390333567
+            ],
+            [
+                "18_that would matter less with a better script, ",
+                -0.5329733562358435
+            ]
+        ]
+    }
+}

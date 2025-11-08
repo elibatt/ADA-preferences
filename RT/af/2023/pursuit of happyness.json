@@ -1,0 +1,169 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "13_ the movie is much less about 'getting' than it is about 'not having.'",
+                -0.7033032376604477
+            ],
+            [
+                "0_in an effort to make a crowd-pleasing film, the horrors that gardner must have experienced on the streets feel glossed over by the hollywood machine.",
+                0.6654016639396889
+            ],
+            [
+                "14_the pursuit of happyness can't imagine anything worse than being poor.",
+                -0.8566260525445386
+            ],
+            [
+                "1",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "8",
+                1
+            ],
+            [
+                "12",
+                1
+            ],
+            [
+                "15",
+                1
+            ],
+            [
+                "16",
+                1
+            ],
+            [
+                "17",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Gabriele Muccino": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "12_even the considerable charms of both smith and the personable character he plays may not be enough to keep audiences from growing impatient to get to the good stuff.",
+                0.7763027258251999
+            ]
+        ],
+        "entities": {
+            "Steve Conrad": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "8_an admirably unsentimental biopic with an excellent central performance, ",
+                0.8535056327876045
+            ],
+            [
+                "1_ smith, sublime and moving, sells it regardless.",
+                0.6755483505922013
+            ],
+            [
+                "5_that will smith is capable of this great performance should not be surprising.",
+                0.6922675404707004
+            ],
+            [
+                "12_even the considerable charms of both smith and the personable character he plays may not be enough to keep audiences from growing impatient to get to the good stuff.",
+                0.7763027258251999
+            ],
+            [
+                "15_ultimately, the real chris gardner emerges as an inspirational american success story -- and will smith emerges as a fine and nuanced actor.",
+                0.8584515089388505
+            ],
+            [
+                "16_will smith has the right quality for the role -- he's an easy man to root for -- ",
+                0.7663188312950955
+            ],
+            [
+                "17_a movie star who can slip easily into high-beam mode, smith gives a restrained and nuanced turn.",
+                0.7668888345375979
+            ]
+        ],
+        "entities": {
+            "Will Smith": {
+                "unique_args": [
+                    [
+                        "1_ smith, sublime and moving, sells it regardless.",
+                        0.6755483505922013
+                    ],
+                    [
+                        "5_that will smith is capable of this great performance should not be surprising.",
+                        0.6922675404707004
+                    ],
+                    [
+                        "12_even the considerable charms of both smith and the personable character he plays may not be enough to keep audiences from growing impatient to get to the good stuff.",
+                        0.7763027258251999
+                    ],
+                    [
+                        "15_ultimately, the real chris gardner emerges as an inspirational american success story -- and will smith emerges as a fine and nuanced actor.",
+                        0.8584515089388505
+                    ],
+                    [
+                        "16_will smith has the right quality for the role -- he's an easy man to root for -- ",
+                        0.7663188312950955
+                    ],
+                    [
+                        "17_a movie star who can slip easily into high-beam mode, smith gives a restrained and nuanced turn.",
+                        0.7668888345375979
+                    ]
+                ]
+            },
+            "Jaden Smith": {
+                "unique_args": []
+            },
+            "Thandiwe Newton": {
+                "unique_args": []
+            },
+            "Brian Howe": {
+                "unique_args": []
+            },
+            "James Karen": {
+                "unique_args": []
+            },
+            "Dan Castellaneta": {
+                "unique_args": []
+            },
+            "Kurt Fuller": {
+                "unique_args": []
+            },
+            "Takayo Fischer": {
+                "unique_args": []
+            },
+            "Kevin West": {
+                "unique_args": []
+            },
+            "Domenic Bove": {
+                "unique_args": []
+            },
+            "Scott Klace": {
+                "unique_args": []
+            },
+            "Mark Christopher Lawrence": {
+                "unique_args": []
+            },
+            "Maurice Sherbanee": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

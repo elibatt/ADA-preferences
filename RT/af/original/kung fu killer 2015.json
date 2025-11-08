@@ -1,0 +1,89 @@
+{
+    "acting": {
+        "entities": {
+            "Wang Baoqiang": {
+                "args": []
+            },
+            "Deep Ng": {
+                "args": []
+            },
+            "Kang Yu": {
+                "args": []
+            },
+            "Alex Fong": {
+                "args": []
+            },
+            "Donnie Yen": {
+                "args": [
+                    [
+                        "0_teddy chen's combination police procedural and kick-ass action film provides a sturdy vehicle for longtime hong kong star donnie yen, who at age 51 proves he's still in good enough shape to deliver all the right moves.",
+                        0.800113336906015
+                    ],
+                    [
+                        "2_kung fu killer manages to be your better-than-average chop-socky fun for a couple of reasons, starting with veteran actor donnie yen in the lead as mo hahou, who can fight and emote with equal proficiency.",
+                        0.7903930062754435
+                    ],
+                    [
+                        "3_ with yen holding down the fort in china and southeast asian fighters iko uwais and tony jaa, it's a pretty good one.",
+                        0.7863925573574081
+                    ]
+                ]
+            },
+            "Louis Fan": {
+                "args": []
+            },
+            "Shi Yanneng": {
+                "args": []
+            },
+            "Charlie Yeung": {
+                "args": []
+            },
+            "John Chiang": {
+                "args": []
+            },
+            "Bing Bai": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Tin Shu Mak": {
+                "args": []
+            },
+            "Teddy Chan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"kung fu killer\" lacks the brio and spice of its ancestors.",
+                -0.6592313993626618
+            ],
+            [
+                "4_here, in this entertaining, preposterous goof of a kung fu movie, are all those values missing from the mainstream of american action filmmaking ...",
+                -0.5586109414345313
+            ],
+            [
+                "5_an undeniably bland film in style and story, ",
+                0.6109474442942413
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Teddy Chan": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

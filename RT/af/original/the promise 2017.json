@@ -1,0 +1,194 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "0_a wonderful cast adds no-fail polish.",
+                0.6788463927502449
+            ],
+            [
+                "20_it's unfair to critique such an utterly sincere film that does contain some riveting action and acting and even might inspire some to learn more about this moment in history, ",
+                0.6674229569877819
+            ]
+        ],
+        "entities": {
+            "James Cromwell": {
+                "args": []
+            },
+            "Numan Acar": {
+                "args": []
+            },
+            "Andrew Tarbet": {
+                "args": []
+            },
+            "Roman Mitichyan": {
+                "args": []
+            },
+            "Tom Hollander": {
+                "args": []
+            },
+            "Kevork Malikyan": {
+                "args": []
+            },
+            "Armin Amiri": {
+                "args": []
+            },
+            "Christian Bale": {
+                "args": []
+            },
+            "Shohreh Aghdashloo": {
+                "args": []
+            },
+            "Angela Sarafyan": {
+                "args": []
+            },
+            "Abel Folk": {
+                "args": []
+            },
+            "Daniel Giménez Cacho": {
+                "args": []
+            },
+            "Charlotte Le Bon": {
+                "args": []
+            },
+            "Jean Reno": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": [
+                    [
+                        "1_a sprawling, '60s-style epic with just enough political intrigue to prop up the occasionally wobbly romantic triangle formed by oscar isaac, charlotte le bon, and an uncharacteristically ill-fitting christian bale.",
+                        0.640052249773791
+                    ],
+                    [
+                        "9_ it's a solid and sobering reminder of the atrocities of war, bolstered by strong performances from isaac and bale.",
+                        0.7963209994734498
+                    ]
+                ]
+            },
+            "Igal Naor": {
+                "args": []
+            },
+            "Garen Boyajian": {
+                "args": []
+            },
+            "Marwan Kenzari": {
+                "args": []
+            },
+            "Alicia Borrachero": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Terry George": {
+                "args": [
+                    [
+                        "0_terry george ... proved with hotel rwanda that he can tackle the wrenching subject of genocide with thrilling cinematic results.",
+                        0.6359240012207984
+                    ],
+                    [
+                        "5_director terry george delivers a scalding dramatization of the ottoman empire's 1915 genocidal annihilation of its armenian citizens, and then dulls it with a soapy, invented love triangle.",
+                        0.8257551402837473
+                    ],
+                    [
+                        "27_this will not enjoy the critical support given to george's hotel rwanda",
+                        0.5525524121692085
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Terry George": {
+                "args": []
+            },
+            "Robin Swicord": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_you have to swallow some inadequacies to get the most out of the promise.",
+                -0.6914547239710844
+            ],
+            [
+                "2_it is appealingly photographed and boasts some stunning location work, yet it's also saddled with the tone of a biblical epic, invisibly watermarked with the label important.",
+                0.7311516121757244
+            ],
+            [
+                "3_the promise is drenched in production value and replete with ravishing shots of sunrises and sunsets, ",
+                -0.5992752338940712
+            ],
+            [
+                "3_ it's in the scenes of fleeing, of battle, and of horrendous loss that the film is at its most effective.",
+                0.7752719876385196
+            ],
+            [
+                "7_\"the promise\" should have been priority viewing, ",
+                -0.6516133268702738
+            ],
+            [
+                "8_with seemingly all the right pieces, it's a disappointment that \"the promise\" lacks the energy and originality needed to sustain itself.",
+                -0.6758911557155957
+            ],
+            [
+                "9_yes, the promise veers into corny territory, and yes, it's derivative of better war romances - ",
+                0.5882974523304958
+            ],
+            [
+                "10_ the film as a whole is like a kick to the gut.",
+                0.6437057823024712
+            ],
+            [
+                "11_what the promise lacks in subtlety and sophistication, it makes up for in the visceral potency of its imagery.",
+                0.7074574498291281
+            ],
+            [
+                "12_a well-executed and reasonably engrossing film.",
+                0.7853747814820415
+            ],
+            [
+                "13_attempting to make an atrocity palatable to a mainstream audience, \"the promise\" delivers the history, ",
+                0.6527592780833797
+            ],
+            [
+                "14_we end up with an unimportant movie about important events.",
+                0.6473356235167221
+            ],
+            [
+                "16_weighed down by the worthiness of its intentions, \"the promise\" is a big, barren wartime romance that approaches the armenian genocide with too much calculation and not nearly enough heat.",
+                -0.6632321802428534
+            ],
+            [
+                "17_even when showing atrocity up close, \"the promise\" rarely makes us feel as if we're doing anything more than watching from a distance.",
+                -0.6046801082598514
+            ],
+            [
+                "19_george tries his best to give the film an epic sweep, ",
+                0.7067030007107977
+            ],
+            [
+                "20_it's unfair to critique such an utterly sincere film that does contain some riveting action and acting and even might inspire some to learn more about this moment in history, ",
+                0.6674229569877819
+            ],
+            [
+                "21_what does a movie that can't even mount a competent horse chase-",
+                -0.7207951471523488
+            ],
+            [
+                "25_it's a brutal war film, ",
+                0.5486305338525292
+            ]
+        ]
+    }
+}

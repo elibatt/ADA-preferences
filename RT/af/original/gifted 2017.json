@@ -1,0 +1,129 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_sure, it's a simple, straightforward film, ",
+                0.7485296024636025
+            ],
+            [
+                "3_\"gifted\" is an engaging comedy-drama that avoids becoming too much of a tearjerker.",
+                0.6233979841852434
+            ],
+            [
+                "4_the film's heroine is extraordinarily gifted.",
+                0.6792124095687503
+            ],
+            [
+                "4_the film itself, not so much.",
+                -0.6410497752453213
+            ],
+            [
+                "5_the question at the movie's heart is: what is best for mary?",
+                0.8510344464778311
+            ],
+            [
+                "5_the answer gifted chooses is predictable, ",
+                -0.6452013340665149
+            ],
+            [
+                "5_ that doesn't stop the movie from messing with your tear ducts.",
+                -0.6679628943212166
+            ],
+            [
+                "6_unfortunately, gifted's cutesy classroom scenes are not quite up to the task of digging into how mary fits in with her classmates, and the film quickly gives way to increasingly caricatured depictions ...",
+                0.6799145559266713
+            ],
+            [
+                "8_ until that happens, we'll have to make do with gifted.",
+                0.540299487787676
+            ],
+            [
+                "10_movies like gifted often drift into a quagmire of manipulation and over-the-top histrionics.",
+                0.5353624558700643
+            ],
+            [
+                "13_gifted finds a collective of competent people making a perfectly competent movie -- nothing more, nothing less.",
+                0.6216406529395829
+            ],
+            [
+                "14_gifted isn't the best or most sophisticated or most original film of the year so far - ",
+                0.7490699500665867
+            ],
+            [
+                "16_\"gifted\" is a clever, if less than brilliant film.",
+                0.7573565377510628
+            ],
+            [
+                "18_the film grabs you - you know you're being manipulated",
+                0.5183879919958108
+            ],
+            [
+                "18_ because it's fun to watch this bunch work.",
+                0.6965228491578705
+            ],
+            [
+                "20_in attempting to balance the central conflict between frank and evelyn, a nature-vs.-nurture clash with a dash of class warfare, the movie comes up disappointingly short.",
+                0.5667596864137305
+            ],
+            [
+                "23_by the time the movie is through, you end up caring about the fate of everybody in the movie.",
+                0.5526431989386803
+            ],
+            [
+                "25_ couches the rest of the film in such superfluous material that it's nearly impossible to cut through the noise.",
+                -0.701331799117336
+            ],
+            [
+                "27_the movie is a bit of a crock - a stacked-deck family drama that's all bits and pieces stuck together out of a screenwriter's handbook.",
+                -0.6409683093358763
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marc Webb": {
+                "args": [
+                    [
+                        "10_, webb avoids this path.",
+                        0.5062378124290506
+                    ],
+                    [
+                        "15_that's the crux of \"gifted,\" the director marc webb's return to small-scale features after tangling with spidey.",
+                        0.683846030770008
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "12_webb takes a well-crafted script by tom flynn and raises it up, spinning a tale so filled with wit, poignancy and authenticity that when the emotional sparks do fly, the audience is ready ...",
+                0.6860644983771844
+            ],
+            [
+                "25_tom flynn's script isn't afraid of asking tough questions when it comes to mary's fate... ",
+                -0.5851056955978985
+            ],
+            [
+                "27_the movie is a bit of a crock - a stacked-deck family drama that's all bits and pieces stuck together out of a screenwriter's handbook.",
+                -0.6409683093358763
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": [
+            [
+                "21_ and a good, mostly underutilized ensemble cast.",
+                0.6619342400982853
+            ]
+        ]
+    }
+}

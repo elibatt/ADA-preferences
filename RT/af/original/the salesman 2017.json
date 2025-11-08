@@ -1,0 +1,180 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_the gears in the salesman are not so hidden and a sense of contrived drama leads to some tedious sections.",
+                -0.5856166889224879
+            ],
+            [
+                "5_it is by any measure a great film, a quiet, yet overwhelmingly intense production that forces us to recalibrate our notion of what suspenseful cinema can mean and do.",
+                0.8008060923069307
+            ],
+            [
+                "8_\"the salesman\" isn't as impressive as \"a separation,\" ",
+                -0.535557356762708
+            ],
+            [
+                "9_\"the salesman\" warns of the dangers of plastering over fissures so deep that they will eventually - inevitably - give way.",
+                0.617710629878072
+            ],
+            [
+                "12_it is a work entirely worthy of any prize anyone chooses to bestow on it, a compassionate and intelligent thing that should linger long after the 24-hour news cycle is over or the political flavour of the month goes stale.",
+                0.5090106283685171
+            ],
+            [
+                "13_\"the salesman\" doesn't shy away from showing its male protagonist as a righteous, misguided man.",
+                -0.7274301304082156
+            ],
+            [
+                "16_in the film's stunning third act ...",
+                0.6606636999643011
+            ],
+            [
+                "23_farhadi's new film, the salesman, isn't his best, or even second best, ",
+                0.5695862688124398
+            ],
+            [
+                "24_you are in the hands of a major film artist.",
+                0.5155878760360657
+            ],
+            [
+                "28_ the salesman's plot is unbelievable, most of the movie occurs in a recognizably genuine world: dirty and battered,",
+                0.5276611965974228
+            ],
+            [
+                "35_the salesman works well on a ground level, ",
+                0.6415458091510948
+            ],
+            [
+                "37_farhadi's deliberate, dialogue-heavy drama allows for incredible work by his cast, particularly his two leads.",
+                0.8132786693996363
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "19_it's another of the director's analytical ",
+                0.5709164131533964
+            ]
+        ],
+        "entities": {
+            "Asghar Farhadi": {
+                "args": [
+                    [
+                        "6_a typically wrenching film for farhadi, one that morphs from a quiet family drama to a tale of revenge, and is all the more impressive for how seamlessly it executes that shift.",
+                        0.8088968737095711
+                    ],
+                    [
+                        "13_everyone is in this picture, and in farhadi's illusion-free worldview.",
+                        0.62719994221217
+                    ],
+                    [
+                        "15_using handheld camera and a minimum of dialogue and music, farhadi turns the mundane into the momentous.",
+                        -0.5006614770350712
+                    ],
+                    [
+                        "18_like many of farhadi's films, \"the salesman\" says something profound about politics without directly addressing the issue at all.",
+                        -0.5076053724329956
+                    ],
+                    [
+                        "24_fresh off its oscar nomination for best foreign-language film, asghar farhadi's the salesman is a dazzling, darkly funny, quietly devastating human drama from iran.",
+                        0.8395626914581534
+                    ],
+                    [
+                        "25_the film finds farhadi now inhabiting a strangely transnational place in cinema, one where bridging gholem-hossein sa'edi and arthur miller is more a playful, aspirational gesture than a purposeful strategy.",
+                        0.813787281440357
+                    ],
+                    [
+                        "26_with exquisite patience and attention to detail, asghar farhadi, the writer and director, builds a solid and suspenseful plot out of ordinary incidents, and packs it with rich and resonant ideas.",
+                        0.7441539370874579
+                    ],
+                    [
+                        "38_as in a separation, farhadi privileges a woman's viewpoint without either sharing or exploring it.",
+                        0.6299915491865253
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "37_farhadi's deliberate, dialogue-heavy drama allows for incredible work by his cast, particularly his two leads.",
+                0.8132786693996363
+            ]
+        ],
+        "entities": {
+            "Shahab Hosseini": {
+                "args": [
+                    [
+                        "1_one of the reasons the salesman crackles is because hosseini gives such a remarkable performance.",
+                        0.7204250326836394
+                    ],
+                    [
+                        "2_the film is beautifully acted by shahab hosseini, who makes emad a knight with a control freak inside, and",
+                        0.7921236191852891
+                    ]
+                ]
+            },
+            "Farid Sajjadi Hosseini": {
+                "args": []
+            },
+            "Mina Sadati": {
+                "args": []
+            },
+            "Maral Bani Adam": {
+                "args": []
+            },
+            "Shirin Aghakashi": {
+                "args": []
+            },
+            "Taraneh Alidoosti": {
+                "args": [
+                    [
+                        "7_and alidoosti persuasively embodies rana's pain.",
+                        0.5109016268884276
+                    ],
+                    [
+                        "14_hosseini and alidoosti are superb, with rich internal lives that give depth to their characters' actions - and these characters are indeed active.",
+                        0.8042587829553363
+                    ]
+                ]
+            },
+            "Babak Karimi": {
+                "args": [
+                    [
+                        "2_ the great performance here is that of babak karimi.",
+                        0.6725907694254621
+                    ]
+                ]
+            },
+            "Ehteram Boroumand": {
+                "args": []
+            },
+            "Mehdi Kooshki": {
+                "args": []
+            },
+            "Emad Emami": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "26_with exquisite patience and attention to detail, asghar farhadi, the writer and director, builds a solid and suspenseful plot out of ordinary incidents, and packs it with rich and resonant ideas.",
+                0.7441539370874579
+            ]
+        ],
+        "entities": {
+            "Asghar Farhadi": {
+                "args": []
+            }
+        }
+    }
+}

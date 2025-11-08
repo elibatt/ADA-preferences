@@ -1,0 +1,123 @@
+{
+    "acting": {
+        "args": [
+            [
+                "5_as polina, shevstova delivers a performance that feels wonderfully unforced, if that's the right word, in a role that can only be called \"driven.\"",
+                0.7277949423444252
+            ],
+            [
+                "9_ amid all the startling visuals and the splendid acting, polina rises, gloriously, to the challenge.",
+                0.6990514697017953
+            ]
+        ],
+        "entities": {
+            "Juliette Binoche": {
+                "args": []
+            },
+            "Marie Kovacs": {
+                "args": []
+            },
+            "Aleksey Guskov": {
+                "args": []
+            },
+            "Jérémie Bélingard": {
+                "args": []
+            },
+            "Niels Schneider": {
+                "args": []
+            },
+            "Miglen Mirtchev": {
+                "args": []
+            },
+            "Anastasia Shevtsova": {
+                "args": []
+            },
+            "Veronika Zhovnytska": {
+                "args": []
+            },
+            "Kseniya Kutepova": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_along comes \"polina\" to show how a feature film can depict a dancer's - a human's - journey toward authenticity with sophistication, artistry and love for the art form ...",
+                0.8571452437342446
+            ],
+            [
+                "2_[polina] is a fine example of visual storytelling.",
+                0.728642176166325
+            ],
+            [
+                "3_[polina] often seems on the verge of being interesting ",
+                0.570164398268783
+            ],
+            [
+                "5_as polina, shevstova delivers a performance that feels wonderfully unforced, if that's the right word, in a role that can only be called \"driven.\"",
+                0.7277949423444252
+            ],
+            [
+                "6_in its quiet way polina is a gender-reversed, fictional version of last year's dancer.",
+                0.6779780088355495
+            ],
+            [
+                "7_when polina stays focused on dance, it soars.",
+                0.7168610732690824
+            ],
+            [
+                "7_when it strays into the personal life of its lead, it moves almost compulsively into cliche.",
+                0.6662132682176876
+            ],
+            [
+                "8_polina springs to vivid life as a winsome hip-hop ballet.",
+                0.6598444903529564
+            ],
+            [
+                "9_the creative process is always an elusive thing for filmmakers to capture, ",
+                0.7871217507725635
+            ],
+            [
+                "9_ amid all the startling visuals and the splendid acting, polina rises, gloriously, to the challenge.",
+                0.6990514697017953
+            ],
+            [
+                "10_the film is intriguing on the surface, ",
+                0.6536662596041108
+            ],
+            [
+                "10_ the scenes have no interior hum, because they haven't been conceived psychologically.",
+                -0.792518558939258
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Valerie Muller": {
+                "args": []
+            },
+            "Angelin Preljocaj": {
+                "args": [
+                    [
+                        "11_if this film's directors, valérie müller and the french choreographer angelin preljocaj, don't offer much overt material on polina's inner life, it's because they don't have to: the point of polina, and this movie, is that her dancing is her being.",
+                        -0.6314296379808517
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Valerie Muller": {
+                "args": []
+            }
+        }
+    }
+}

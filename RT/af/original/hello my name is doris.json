@@ -1,0 +1,191 @@
+{
+    "director": {
+        "args": [
+            [
+                "4_showalter, whose 2005 romantic comedy \"the baxter\" was similarly kindhearted, handles the material with tenderness and care, and never lets it devolve into meanness the way it might in the hands of another director.",
+                0.7123269733665059
+            ],
+            [
+                "23_sometimes we're clearly meant to laugh at doris' clumsy efforts at flirtation and socialization, and at others, the director wants us to relate, or maybe even cry, ",
+                -0.5917898018524764
+            ]
+        ],
+        "entities": {
+            "Michael Showalter": {
+                "args": [
+                    [
+                        "7_after more than a decade doing tv, writer-director michael showalter returns with another of his wacky ",
+                        0.5337688483667721
+                    ],
+                    [
+                        "14_field proves more than capable of delivering showalter-level goofiness while giving the film its heart.",
+                        0.6730016643545826
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tyne Daly": {
+                "args": []
+            },
+            "Elizabeth Reaser": {
+                "args": []
+            },
+            "Sally Field": {
+                "args": [
+                    [
+                        "0_a sharp dramedy focusing on the romantic stirrings of a lonely office worker, played with considerable wit and verve by the 69-year-old sally field.",
+                        0.7834230023936538
+                    ],
+                    [
+                        "5_ watching field work her magic is so delightful.",
+                        0.589056477295079
+                    ],
+                    [
+                        "8_after mugging us for laughs with grotesque close-ups of her bewildered, disgruntled, or near-orgasmic expressions, field next tries to touch our hearts with her pitifulness.",
+                        -0.6532674489237211
+                    ],
+                    [
+                        "12_\"hello, my name is doris\" is at times self-consciously quirky and precious and implausible - and sally field is so good in it that those complaints seem pointless.",
+                        -0.5295704886954338
+                    ],
+                    [
+                        "15_watching sally field is one of the pleasures of going to the movies. '",
+                        0.6904856885801767
+                    ],
+                    [
+                        "15_ field never fails to shine.",
+                        -0.5996051602455506
+                    ],
+                    [
+                        "16_but for those of us who trust in field,",
+                        0.5843570099346493
+                    ],
+                    [
+                        "18_we feel doris' pain simply because field is one of the most gifted actors working, capable of being flighty and nervy and deeply sad all at the same moment.",
+                        0.582147291995901
+                    ],
+                    [
+                        "27_ its formulaic ingredients, the movie responds to that setback with field's exuberant, virtuoso turn providing the ultimate critical response.",
+                        0.566891454028671
+                    ]
+                ]
+            },
+            "Rich Sommer": {
+                "args": []
+            },
+            "Max Greenfield": {
+                "args": []
+            },
+            "Isabella Acres": {
+                "args": []
+            },
+            "Peter Gallagher": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Stephen Root": {
+                "args": [
+                    [
+                        "13_field, carrying the movie on her shoulders and handing it to us for our approval, makes us root for wistful doris.",
+                        0.6046294512805266
+                    ]
+                ]
+            },
+            "Rebecca Wisocky": {
+                "args": []
+            },
+            "Natasha Lyonne": {
+                "args": []
+            },
+            "Beth Behrs": {
+                "args": []
+            },
+            "Kyle Mooney": {
+                "args": []
+            },
+            "Jack Antonoff": {
+                "args": []
+            },
+            "Don Stark": {
+                "args": []
+            },
+            "Caroline Aaron": {
+                "args": []
+            },
+            "Wendi McLendon-Covey": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_after more than a decade doing tv, writer-director michael showalter returns with another of his wacky ",
+                0.5337688483667721
+            ],
+            [
+                "19_\"hello, my name is doris\" ... uses this funny, outwardly ridiculous character to tell a simple story about a love that rarely speaks its name, including in movies: that of an older woman for a much younger man.",
+                0.7808607107558269
+            ]
+        ],
+        "entities": {
+            "Laura Terruso": {
+                "args": [
+                    [
+                        "24_showalter, who wrote the screenplay with laura terruso ... puts doris in so many cringe-worthy situations you wonder if the writers even like this hapless staten island cat lady of a certain age.",
+                        -0.5473463924250617
+                    ]
+                ]
+            },
+            "Michael Showalter": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_my name is doris is that nothing gets resolved in the expected movie fashion.",
+                -0.657737905739003
+            ],
+            [
+                "5_a running joke about hipster clichés is tiresome, and the movie's plot threads are uneven.",
+                -0.7047033637347735
+            ],
+            [
+                "10_a weirdly off-plumb little movie, one that manages to be condescending and compassionate, knowing and blinkered, reassuring and unsettling all at the same time.",
+                0.5878038610074748
+            ],
+            [
+                "13_single-handedly, she makes the movie work.",
+                0.589837210033998
+            ],
+            [
+                "15_but even when the film fails her,",
+                -0.6421711832443304
+            ],
+            [
+                "16_ this film will have us at \"hello.\"",
+                0.654599477829028
+            ],
+            [
+                "17_a brave little film that shows it's never too late to come of age.",
+                0.5648134060311107
+            ],
+            [
+                "26_ the best thing about the film is that it has no answers.",
+                0.6379316356172369
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

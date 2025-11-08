@@ -1,0 +1,121 @@
+{
+    "writer": {
+        "entities": {
+            "Leigh Whannell": {
+                "args": [
+                    [
+                        "1_the fourth installment of leigh whannell's ghost-and-mediums horror series wraps up its own free-association illogic with an impenetrable tangle of woo-woo spirit-world mechanics and lingo.",
+                        0.6696561072236838
+                    ],
+                    [
+                        "5_four films into the series, the layout of the spirit realm has become too familiar, a soundstage of fog machines and grotesquerie that robitel and whannell haven't populated with any fresh shocks.",
+                        0.5937268626565502
+                    ],
+                    [
+                        "10_the execution can be a bit clumsy, especially the attempts at comic relief by elise's assistants, the swaggering tucker (angus sampson) and nerdy specks (whannell himself).",
+                        0.5000440447353239
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Leigh Whannell": {
+                "args": [
+                    [
+                        "1_the fourth installment of leigh whannell's ghost-and-mediums horror series wraps up its own free-association illogic with an impenetrable tangle of woo-woo spirit-world mechanics and lingo.",
+                        0.6696561072236838
+                    ],
+                    [
+                        "5_four films into the series, the layout of the spirit realm has become too familiar, a soundstage of fog machines and grotesquerie that robitel and whannell haven't populated with any fresh shocks.",
+                        0.5937268626565502
+                    ]
+                ]
+            },
+            "Lin Shaye": {
+                "args": [
+                    [
+                        "11_even shaye's always-welcome presence can't disguise how little meat there is left on this bone.",
+                        -0.728115128009165
+                    ],
+                    [
+                        "12_in the end, it's left to shaye to carry the film, and she does so with aplomb.",
+                        0.6316578390971893
+                    ]
+                ]
+            },
+            "Josh Stewart": {
+                "args": []
+            },
+            "Spencer Locke": {
+                "args": []
+            },
+            "Kirk Acevedo": {
+                "args": []
+            },
+            "Tessa Ferrer": {
+                "args": []
+            },
+            "Javier Botet": {
+                "args": []
+            },
+            "Bruce Davison": {
+                "args": []
+            },
+            "Caitlin Gerard": {
+                "args": []
+            },
+            "Ava Kolker": {
+                "args": []
+            },
+            "Angus Sampson": {
+                "args": [
+                    [
+                        "10_the execution can be a bit clumsy, especially the attempts at comic relief by elise's assistants, the swaggering tucker (angus sampson) and nerdy specks (whannell himself).",
+                        0.5000440447353239
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "9_while it's hardly the best film of its franchise, it will do the trick until something scarier comes along.",
+                0.8530113485616887
+            ],
+            [
+                "14_as has been the case since the first film, this one centers on shock cuts and sudden appearances of figures in the shadows.",
+                -0.517753300144616
+            ],
+            [
+                "17_you get a whiff of the film that might have been, one closer in spirit to domestic tragedy.",
+                -0.6132217300449456
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Adam Robitel": {
+                "args": [
+                    [
+                        "5_four films into the series, the layout of the spirit realm has become too familiar, a soundstage of fog machines and grotesquerie that robitel and whannell haven't populated with any fresh shocks.",
+                        0.5937268626565502
+                    ],
+                    [
+                        "16_director adam robitel and editor timothy alverson have fun with the mechanics of the pg-13 jump-scare",
+                        -0.5164181432620142
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

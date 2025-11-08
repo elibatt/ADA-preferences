@@ -1,0 +1,192 @@
+{
+    "acting": {
+        "entities": {
+            "Hugh Gallagher": {
+                "args": []
+            },
+            "Brian F. O'Byrne": {
+                "args": []
+            },
+            "John Colleary": {
+                "args": []
+            },
+            "Anna Crossley": {
+                "args": []
+            },
+            "Jim Norton": {
+                "args": []
+            },
+            "Mikel Murfi": {
+                "args": []
+            },
+            "Rebecca O'Mara": {
+                "args": []
+            },
+            "Sorcha Fox": {
+                "args": []
+            },
+            "Seamus Hughes": {
+                "args": []
+            },
+            "John McCarrick": {
+                "args": []
+            },
+            "Karl Geary": {
+                "args": []
+            },
+            "Martin Lucey": {
+                "args": []
+            },
+            "Donal O'Kelly": {
+                "args": []
+            },
+            "Stella McGirl": {
+                "args": []
+            },
+            "Diane Parkes": {
+                "args": []
+            },
+            "Joe Lafferty": {
+                "args": []
+            },
+            "Conor McDermottroe": {
+                "args": []
+            },
+            "Denise Gough": {
+                "args": []
+            },
+            "Andrew Scott": {
+                "args": []
+            },
+            "Francis Magee": {
+                "args": []
+            },
+            "Padraig Fallon": {
+                "args": []
+            },
+            "Barry Ward": {
+                "args": [
+                    [
+                        "1_norton is a formidable villain, while ward is just vulnerable enough to make the showdown dramatically persuasive.",
+                        -0.5928239046146377
+                    ]
+                ]
+            },
+            "John Cronogue": {
+                "args": []
+            },
+            "John O'Dowd": {
+                "args": []
+            },
+            "Colm Gormley": {
+                "args": []
+            },
+            "Aisling Franciosi": {
+                "args": []
+            },
+            "Tom Colsh": {
+                "args": []
+            },
+            "Michael J. Sheridan": {
+                "args": []
+            },
+            "Shane O'Brien": {
+                "args": []
+            },
+            "Shane Cullen": {
+                "args": []
+            },
+            "Sean T. O'Meallaigh": {
+                "args": []
+            },
+            "Aileen Henry": {
+                "args": []
+            },
+            "Simone Kirby": {
+                "args": []
+            },
+            "Chris MacManus": {
+                "args": []
+            },
+            "Rósín Judge": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_a great cast along with loach's trademark realism and capable storytelling deliver a tale of quiet power, with an ending that is sure to deliver of a jolt of righteous outrage.",
+                0.8422408777902625
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Paul Laverty": {
+                "args": [
+                    [
+                        "0_working from a fact-based screenplay by his longtime collaborator paul laverty, loach addresses a theme that resonates throughout his work: the effect of the political on the personal.",
+                        0.6528679023823614
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "10_this isn't a nuanced, sober work.",
+                -0.6817938513106383
+            ],
+            [
+                "10_it's a film that stacks the deck ideologically, ",
+                0.6153249959811175
+            ],
+            [
+                "15_ surprisingly soft-focus movie ...",
+                -0.5158447991658883
+            ],
+            [
+                "18_like the shot of folks on bicycles pedaling away in support of their folk hero jimmy at the film's conclusion, it's real populism at work.",
+                -0.5680681790856211
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ken Loach": {
+                "args": [
+                    [
+                        "0_working from a fact-based screenplay by his longtime collaborator paul laverty, loach addresses a theme that resonates throughout his work: the effect of the political on the personal.",
+                        0.6528679023823614
+                    ],
+                    [
+                        "6_a great cast along with loach's trademark realism and capable storytelling deliver a tale of quiet power, with an ending that is sure to deliver of a jolt of righteous outrage.",
+                        0.8422408777902625
+                    ],
+                    [
+                        "7_if this truly is the end for loach, he'll be missed.",
+                        -0.5459027887350494
+                    ],
+                    [
+                        "14_one of the pleasures of \"jimmy's hall,\" a likable period piece directed by the social-realist british filmmaker ken loach, is its unswerving belief in old-fashioned populist heroes.",
+                        0.8002707436806707
+                    ],
+                    [
+                        "16_with \"jimmy's hall,\" ken loach creates a quiet ",
+                        0.708263508254297
+                    ],
+                    [
+                        "20_ken loach has taken a despicable episode of modern irish history -- the 1933 deportation without trial of one of its own citizens, james gralton -- and made a surprisingly lovely, heartfelt film from it with jimmy's hall.",
+                        0.7796727586078418
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

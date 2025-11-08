@@ -1,0 +1,149 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Guy Pearce": {
+                "args": []
+            },
+            "Paul Giamatti": {
+                "args": []
+            },
+            "Jeff Daniels": {
+                "args": []
+            },
+            "Mark Strong (II)": {
+                "args": []
+            },
+            "Paul Rudd": {
+                "args": [
+                    [
+                        "0_in moe berg, rudd helps director ben lewin (paperback writer, the sessions) add another unforgettable passive hero to the his increasing menagerie.",
+                        0.7821447837074611
+                    ],
+                    [
+                        "21_even paul rudd, one of the most likable actors in hollywood, can't rescue it.",
+                        -0.6266160121958069
+                    ],
+                    [
+                        "23_a very enjoyable middle-of-the-road adventure, especially for moviegoers willing to see just about anything starring rudd.",
+                        0.8041555655964121
+                    ]
+                ]
+            },
+            "Sienna Miller": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ben Lewin": {
+                "args": [
+                    [
+                        "0_in moe berg, rudd helps director ben lewin (paperback writer, the sessions) add another unforgettable passive hero to the his increasing menagerie.",
+                        0.7821447837074611
+                    ],
+                    [
+                        "10_but the problem with ben lewin's film isn't the plausibility of the storyline, it's the execution of the plot,",
+                        -0.7514285383634383
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_in moe berg, rudd helps director ben lewin (paperback writer, the sessions) add another unforgettable passive hero to the his increasing menagerie.",
+                0.7821447837074611
+            ],
+            [
+                "1_it's an absorbing character study of a most intriguing man.",
+                0.7995945975622565
+            ],
+            [
+                "2_it's a less than passable espionage thriller watered down by a vague character study.",
+                -0.7510931715197684
+            ],
+            [
+                "10_but the problem with ben lewin's film isn't the plausibility of the storyline, it's the execution of the plot,",
+                -0.7514285383634383
+            ],
+            [
+                "16_ the script has neither the character shadings to be a biopic nor the pacing and twist and turns to be a spy thriller.",
+                -0.7286772931820565
+            ],
+            [
+                "22_ it never gets close to berg's own character.",
+                -0.5563737736630604
+            ]
+        ],
+        "entities": {
+            "Robert Rodat": {
+                "args": [
+                    [
+                        "22_the script, by robert rodat, skips around in time to elucidate the amped-up drama, ",
+                        -0.5664361081881824
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_ the catcher was a spy is still a movie worth seeing.",
+                0.6829932739891412
+            ],
+            [
+                "8_the movie is well-crafted, ",
+                0.597579660852656
+            ],
+            [
+                "8_ it doesn't have the fullness you'd expect in a movie with so much believe-it-or-not weirdness.",
+                -0.5170550912664083
+            ],
+            [
+                "9_ it's the only one that comes to mind after you've seen the film.",
+                0.5372010722313729
+            ],
+            [
+                "11_and there's an abundance of belly scratching going on in this film.",
+                0.5263958345681569
+            ],
+            [
+                "14_\"the catcher was a spy\" only ever penetrates the surface - of berg's psyche, of heroism in the face of evil, of america's pastime - so that historical events ostensibly thrilling are rendered rote.",
+                -0.6231541308552175
+            ],
+            [
+                "15_and the movie tantalizingly leaves open the question of whether the game ended in a mate or a resignation.",
+                0.6691887039094768
+            ],
+            [
+                "18_the film proves to be oddly uninvolving.",
+                0.5884782030236865
+            ],
+            [
+                "19_berg was an enigmatic and underappreciated renaissance man, and we leave the film not especially enlightened.",
+                0.6387385441208535
+            ],
+            [
+                "20_ \"the catcher was a spy\" ultimately loses its luster in the murk surrounding the man it calls a \"walking enigma.\"",
+                -0.6211565911809094
+            ],
+            [
+                "25_but for a movie that wants to tell you this unbelievable story about a smart guy,",
+                -0.5020084768902816
+            ],
+            [
+                "25_ \"the catcher was a spy\" shows its hand with faux-intellectualism.",
+                0.5524455293248229
+            ]
+        ]
+    }
+}

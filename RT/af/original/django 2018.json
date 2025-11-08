@@ -1,0 +1,93 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gabriel Mirété": {
+                "args": []
+            },
+            "Reda Kateb": {
+                "args": [
+                    [
+                        "0_a more honest script might've supported reda kateb's laid-back, medium-effective portrayal of reinhardt more fully.",
+                        0.7323292640200105
+                    ],
+                    [
+                        "6_this loose, intermittently compelling biopic of jazz great django reinhardt offers a much-deserved spotlight role for french actor reda kateb.",
+                        0.7784765024610922
+                    ]
+                ]
+            },
+            "Bim Bam Merstein": {
+                "args": []
+            },
+            "Beata Palya": {
+                "args": []
+            },
+            "Cécile De France": {
+                "args": [
+                    [
+                        "2_the film's story - loosely adapted from alexis salatko's novel folles de django - manages to feel at once oversimplified, underfed and overburdened.",
+                        0.5665055243646478
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"django\" will leave fans of the legend merely eager to return to their beloved recordings and let their ears take in the greatness.",
+                0.7178829587638239
+            ],
+            [
+                "3_django is for the most part everything reinhardt's music was not: listless, glum and meandering.",
+                0.5256566200393511
+            ],
+            [
+                "4_django expresses, via the language of film genre, not what reinhardt's life was ",
+                0.6635557251146362
+            ],
+            [
+                "5_ whether the film has earned a moment of uplift is unclear.",
+                -0.5724784396748263
+            ],
+            [
+                "7_despite all the narrative embellishments, the movie does maintain a sense of reinhardt's persona along with his incredible musical abilities,",
+                0.818777184685904
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Etienne Comar": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_a more honest script might've supported reda kateb's laid-back, medium-effective portrayal of reinhardt more fully.",
+                0.7323292640200105
+            ]
+        ],
+        "entities": {
+            "Etienne Comar": {
+                "args": []
+            },
+            "Alexis Salatko": {
+                "args": [
+                    [
+                        "2_the film's story - loosely adapted from alexis salatko's novel folles de django - manages to feel at once oversimplified, underfed and overburdened.",
+                        0.5665055243646478
+                    ]
+                ]
+            }
+        }
+    }
+}

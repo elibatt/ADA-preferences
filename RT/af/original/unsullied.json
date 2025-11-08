@@ -1,0 +1,98 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Erin Boyes": {
+                "args": []
+            },
+            "Cindy Karr": {
+                "args": []
+            },
+            "Gene Michael": {
+                "args": []
+            },
+            "James Gaudioso": {
+                "args": []
+            },
+            "Taylor Ann Valentine": {
+                "args": []
+            },
+            "Malone Thomas": {
+                "args": []
+            },
+            "Nicole Paris Williams": {
+                "args": []
+            },
+            "Ward G. Smith": {
+                "args": []
+            },
+            "Derek Roberts": {
+                "args": []
+            },
+            "M. Gray Murray": {
+                "args": []
+            },
+            "Rusty Joiner": {
+                "args": []
+            },
+            "Michelle Gracie": {
+                "args": []
+            },
+            "Bo Youngblood": {
+                "args": []
+            },
+            "Daniela Gomez": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "2_unsullied was made by a director with real promise.",
+                -0.594510626291135
+            ]
+        ],
+        "entities": {
+            "Simeon Rice": {
+                "args": [
+                    [
+                        "2_it's a shame rice picked this turkey to shoot as his first.",
+                        -0.7285226622919632
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "John Nodilo": {
+                "args": []
+            },
+            "Simeon Rice": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the movie flirts with 1970s exploitation revenge pictures, complete with a 1971 chevrolet chevelle super sport, ",
+                0.5132214563780136
+            ],
+            [
+                "2_unsullied was made by a director with real promise.",
+                -0.594510626291135
+            ],
+            [
+                "3_flat cinematography and clunky action give \"unsullied\" the feel of an amateur film, the sort of horror fare that regularly runs on basic cable in the wee hours.",
+                -0.7602719164238025
+            ]
+        ]
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_there is a specter of trauma that hangs over the whole movie, turning it from a good classic detective story into something more ghostly and spiritual.",
+                0.8196728949721088
+            ],
+            [
+                "8_a haunting in venice knows exactly what it’s doing.",
+                0.7465279178636529
+            ],
+            [
+                "11_a haunting in venice is cracking good fun.",
+                0.863263147118059
+            ],
+            [
+                "13_for those who enjoy their sleuthing on the big screen with impressively conceived set pieces, evocative performances, gothic twists and turns, and a drizzling of ghostly apparitions, a haunting in venice delivers.",
+                0.8500817526487021
+            ],
+            [
+                "1",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "19",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "2_a haunting in venice officially derails kenneth branagh’s rebooted agatha christie films.",
+                0.702126369037064
+            ],
+            [
+                "4_the horror-lite element gives it a boost, with branagh’s direction conjuring up a few jumps, ",
+                0.6784737850309341
+            ],
+            [
+                "5_while branagh, fey and yeoh are enjoyable to watch, this is the least impressive of branagh’s poirot films, especially when it comes to the inevitable denouement.",
+                0.6413467533819386
+            ],
+            [
+                "19_for once, branagh seems confident in how much you can please a crowd simply with committed performances and high-end smoke and mirrors: an enduring truth for both a movie and a medium.",
+                0.7900591208246138
+            ]
+        ],
+        "entities": {
+            "Kenneth Branagh": {
+                "unique_args": [
+                    [
+                        "2_a haunting in venice officially derails kenneth branagh’s rebooted agatha christie films.",
+                        0.702126369037064
+                    ],
+                    [
+                        "4_the horror-lite element gives it a boost, with branagh’s direction conjuring up a few jumps, ",
+                        0.6784737850309341
+                    ],
+                    [
+                        "5_while branagh, fey and yeoh are enjoyable to watch, this is the least impressive of branagh’s poirot films, especially when it comes to the inevitable denouement.",
+                        0.6413467533819386
+                    ],
+                    [
+                        "19_for once, branagh seems confident in how much you can please a crowd simply with committed performances and high-end smoke and mirrors: an enduring truth for both a movie and a medium.",
+                        0.7900591208246138
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Michael Green": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "2_a haunting in venice officially derails kenneth branagh’s rebooted agatha christie films.",
+                0.702126369037064
+            ],
+            [
+                "4_the horror-lite element gives it a boost, with branagh’s direction conjuring up a few jumps, ",
+                0.6784737850309341
+            ],
+            [
+                "5_while branagh, fey and yeoh are enjoyable to watch, this is the least impressive of branagh’s poirot films, especially when it comes to the inevitable denouement.",
+                0.6413467533819386
+            ],
+            [
+                "19_for once, branagh seems confident in how much you can please a crowd simply with committed performances and high-end smoke and mirrors: an enduring truth for both a movie and a medium.",
+                0.7900591208246138
+            ],
+            [
+                "1_branagh and fey make an appealing buddy couple:",
+                0.7115555044547466
+            ]
+        ],
+        "entities": {
+            "Kenneth Branagh": {
+                "unique_args": [
+                    [
+                        "2_a haunting in venice officially derails kenneth branagh’s rebooted agatha christie films.",
+                        0.702126369037064
+                    ],
+                    [
+                        "4_the horror-lite element gives it a boost, with branagh’s direction conjuring up a few jumps, ",
+                        0.6784737850309341
+                    ],
+                    [
+                        "5_while branagh, fey and yeoh are enjoyable to watch, this is the least impressive of branagh’s poirot films, especially when it comes to the inevitable denouement.",
+                        0.6413467533819386
+                    ],
+                    [
+                        "19_for once, branagh seems confident in how much you can please a crowd simply with committed performances and high-end smoke and mirrors: an enduring truth for both a movie and a medium.",
+                        0.7900591208246138
+                    ]
+                ]
+            },
+            "Tina Fey": {
+                "unique_args": [
+                    [
+                        "1_branagh and fey make an appealing buddy couple:",
+                        0.7115555044547466
+                    ]
+                ]
+            },
+            "Camille Cottin": {
+                "unique_args": []
+            },
+            "Riccardo Scamarcio": {
+                "unique_args": []
+            },
+            "Kelly Reilly": {
+                "unique_args": []
+            },
+            "Jude Hill": {
+                "unique_args": []
+            },
+            "Jamie Dornan": {
+                "unique_args": []
+            },
+            "Rowan Robinson": {
+                "unique_args": []
+            },
+            "Michelle Yeoh": {
+                "unique_args": []
+            },
+            "Emma Laird": {
+                "unique_args": []
+            },
+            "Kyle Allen": {
+                "unique_args": []
+            },
+            "Ali Khan": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Michael John Warren": {
+                "args": [
+                    [
+                        "1_though there is undeniable uplift to the performances and warren builds to a suitably inspiring crescendo,",
+                        0.8055632362720347
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the film's hybrid format may prove frustrating.",
+                0.602542357830008
+            ],
+            [
+                "3_it may even be the one christian film that properly reaches out beyond its built-in audience, accomplishing the goal of evangelicals everywhere: actual evangelism.",
+                -0.5461344305148284
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jonathon Douglass": {
+                "args": []
+            },
+            "Jad Gillies": {
+                "args": []
+            },
+            "Bobbie Houston": {
+                "args": []
+            },
+            "Jonathan \"JD\" Douglas": {
+                "args": []
+            },
+            "Joel Houston": {
+                "args": []
+            },
+            "Matt Crocker": {
+                "args": []
+            },
+            "Hillsong United": {
+                "args": []
+            },
+            "Taya Smith": {
+                "args": []
+            },
+            "Brian Houston": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

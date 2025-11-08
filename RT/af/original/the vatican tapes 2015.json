@@ -1,0 +1,144 @@
+{
+    "writer": {
+        "entities": {
+            "Chris Morgan": {
+                "args": []
+            },
+            "Christopher Borrelli": {
+                "args": []
+            },
+            "Michael C. Martin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mark Neveldine": {
+                "args": [
+                    [
+                        "0_the film from director mark neveldine is so over the top that one can't help ",
+                        -0.526071111925403
+                    ],
+                    [
+                        "2_mark neveldine's first solo directorial effort is a silly, shrieky and eminently watchable exorcism thriller.",
+                        0.5499775561453536
+                    ],
+                    [
+                        "3_the director mark neveldine deploys queasy lighting and a trembling score, ",
+                        0.650040531074302
+                    ],
+                    [
+                        "5_it's the rote b-movie that neveldine up to now has tried so hard not to make.",
+                        -0.8193848234077958
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "6_at no point does this film strive to be more than a second-rate version of what it is: a halfhearted attempt to make some scratch while pretending the devil exists.",
+                -0.7529020117692644
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Natasha Wright": {
+                "args": []
+            },
+            "John Patrick Amedori": {
+                "args": []
+            },
+            "Jarvis W. George": {
+                "args": []
+            },
+            "Scott Sheldon": {
+                "args": []
+            },
+            "Kathleen Robertson": {
+                "args": []
+            },
+            "Michael Gabriel": {
+                "args": []
+            },
+            "Chance Langton": {
+                "args": []
+            },
+            "Allegra Lucchesi": {
+                "args": []
+            },
+            "Chance Lang": {
+                "args": []
+            },
+            "Ann Reilly": {
+                "args": []
+            },
+            "Ashley Gibson": {
+                "args": []
+            },
+            "Noemi Gonzalez": {
+                "args": []
+            },
+            "Montanna Gillis": {
+                "args": []
+            },
+            "Michael Paré": {
+                "args": []
+            },
+            "Dougray Scott": {
+                "args": []
+            },
+            "Michael Halsey": {
+                "args": []
+            },
+            "Djimon Hounsou": {
+                "args": []
+            },
+            "Peter Andersson": {
+                "args": []
+            },
+            "Alison Lohman": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Amie Dellavalle": {
+                "args": []
+            },
+            "Olivia Taylor Dudley": {
+                "args": [
+                    [
+                        "3_ his best choice is to let ms. dudley stare at us.",
+                        0.6191878806917355
+                    ]
+                ]
+            },
+            "Cas Anvar": {
+                "args": []
+            },
+            "Sam Upton": {
+                "args": []
+            },
+            "Alex Corrado": {
+                "args": []
+            },
+            "Max D. Adams": {
+                "args": []
+            },
+            "Alex Sparrow": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

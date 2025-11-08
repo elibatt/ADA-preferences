@@ -1,0 +1,153 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bobby Brown": {
+                "args": [
+                    [
+                        "13_mcdonald expertly drops in snippets of sometimes extraordinarily candid interviews with brown, cissy",
+                        0.7203926554740727
+                    ]
+                ]
+            },
+            "Bobbi Kristina Brown": {
+                "args": []
+            },
+            "Cissy Houston": {
+                "args": []
+            },
+            "Gary Garland Houston": {
+                "args": []
+            },
+            "Whitney Houston": {
+                "args": [
+                    [
+                        "0_the film is a sad calamity of conflicting narratives as those closest to houston work through varying stages of honesty and denial.",
+                        0.5345192278655485
+                    ],
+                    [
+                        "1_whitney houston just wanted to dance with somebody who loved her.",
+                        0.6382453657399146
+                    ],
+                    [
+                        "4_[macdonald's] \"whitney\" is daring both emotionally and aesthetically, and gets to a kind of truth about houston the public has never known before.",
+                        0.5175451483645381
+                    ],
+                    [
+                        "5_macdonald makes artful use of jarring, subversive cuts to highlight the contradictions in houston's career.",
+                        0.6632107939247599
+                    ],
+                    [
+                        "7_kevin macdonald's electrifying and empathetic doc on whitney houston drops a shocking revelation about abuse-",
+                        -0.6826456789941246
+                    ],
+                    [
+                        "11_it's all the whitney houston documentary you'll ever need - if you need one at all.",
+                        0.644207070555469
+                    ],
+                    [
+                        "12_for all the domestic sturm und drang, it's the blossoming of houston's musical sensibilities that most engages in the film.",
+                        0.7299251502496173
+                    ],
+                    [
+                        "17_, the latest documentary overreaches to make houston's life and death about something bigger, in a way that at times feels as strained as some of the notes during that aforementioned comeback.",
+                        0.5028992636344993
+                    ],
+                    [
+                        "19_most of all, it's clear-eyed and remarkably honest, and macdonald shows a flair for illustrating how houston's life fits in the bigger picture.",
+                        0.8000783018591759
+                    ],
+                    [
+                        "23_you don't have to be a fan of whitney houston's music to love director kevin macdonald's sharp-edged, revelatory and seriously emotional documentary about her life.",
+                        -0.554071363155811
+                    ],
+                    [
+                        "26_two biographical documentaries in, and it still feels like we're in need of a houston film that digs into her music first, and the hows and whys of its enduring power.",
+                        0.6531351056360399
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "6_ it's tough-minded, unsparing and far superior to the biopic and the nonfiction film that preceded it.",
+                0.5083228288592876
+            ],
+            [
+                "13_ whitney's half-brothers michael and gary, and kevin costner.",
+                -0.6049796213417127
+            ],
+            [
+                "15_\"whitney\" is too funereal to be a party, too sad, strange and dismaying to cheer.",
+                -0.6477518469954107
+            ],
+            [
+                "15_yet, in its grim, guilt-inducing way, the film works, even on the occasions when it's working against itself.",
+                -0.5304797654076003
+            ],
+            [
+                "21_macdonald suggests that the subject of whitney was... just a human being trapped in the sort of roles we believe will ensure the happiness of the people around us and induce our own.",
+                0.813603072723194
+            ],
+            [
+                "22_\"whitney\" transcends the conventions of the form, delivering a powerful reminder of the breathtaking talent she possessed and the monumental future that was squandered on the altar of selfishness and greed.",
+                0.8388404941161682
+            ],
+            [
+                "24_it's hard to watch young whitney, knowing what lies ahead, ",
+                0.6157986040459327
+            ],
+            [
+                "24_ it seems important to do as the film does: take a moment, and just listen to her sing.",
+                0.7613561495948884
+            ],
+            [
+                "25_whitney feels like the kind of film anyone who cared at all about her should see: the fullest portrait yet -",
+                0.544960113338051
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kevin Macdonald": {
+                "args": [
+                    [
+                        "2_[kevin macdonald] knows how to tell a story about a really complicated famous person and try to provide insight into that person that we think we already know.",
+                        -0.528227522573632
+                    ],
+                    [
+                        "4_[macdonald's] \"whitney\" is daring both emotionally and aesthetically, and gets to a kind of truth about houston the public has never known before.",
+                        0.5175451483645381
+                    ],
+                    [
+                        "7_kevin macdonald's electrifying and empathetic doc on whitney houston drops a shocking revelation about abuse-",
+                        -0.6826456789941246
+                    ],
+                    [
+                        "19_most of all, it's clear-eyed and remarkably honest, and macdonald shows a flair for illustrating how houston's life fits in the bigger picture.",
+                        0.8000783018591759
+                    ],
+                    [
+                        "23_you don't have to be a fan of whitney houston's music to love director kevin macdonald's sharp-edged, revelatory and seriously emotional documentary about her life.",
+                        -0.554071363155811
+                    ],
+                    [
+                        "27_ultimately, macdonald has given audiences a potent assessment of one of the most tragic stories in pop history - one that, sadly, could have been different had whitney had the room to be whitney.",
+                        0.5624743402067528
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

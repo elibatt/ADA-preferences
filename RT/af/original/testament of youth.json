@@ -1,0 +1,144 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "James Kent": {
+                "args": [
+                    [
+                        "27_striking an elegantly sustained balance between intimacy and historical scope, director james kent's wwi-set epic testament of youth encompasses nearly all of the virtues of classical british period drama and nearly none of the vices.",
+                        0.7712723750771218
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Colin Morgan": {
+                "args": []
+            },
+            "Hayley Atwell": {
+                "args": []
+            },
+            "Alexandra Roach": {
+                "args": []
+            },
+            "Amanda Fairbank-Hynes": {
+                "args": []
+            },
+            "Miranda Richardson": {
+                "args": [
+                    [
+                        "1_though the movie at times feels oddly unfinished (you wonder what miranda richardson, in a tiny role as an oxford professor, is there for),",
+                        0.6296847650186034
+                    ]
+                ]
+            },
+            "Kit Harington": {
+                "args": [
+                    [
+                        "20_vikander and harington provide the spark this world war",
+                        0.5838439115040754
+                    ]
+                ]
+            },
+            "Joanna Scanlan": {
+                "args": []
+            },
+            "Anna Chancellor": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": [
+                    [
+                        "0_somehow, vikander sells it all, not with braying and big gestures, ",
+                        0.5449331862917304
+                    ],
+                    [
+                        "4_ fairly typical prestige period drama, it's vikander's nuanced performance as the resolute ",
+                        0.6576650037669737
+                    ],
+                    [
+                        "5_this is vikander's film and she is very good here.",
+                        0.8322556745361296
+                    ],
+                    [
+                        "11_[vikander's] performance is a subtle tour de force of feeling and restraint, made all the more remarkable by the whiplash highs and lows of this true ",
+                        0.834931240336145
+                    ],
+                    [
+                        "22_the film is elegantly done, mainly because it wisely expends most of its energy on alicia vikander's face.",
+                        0.7749246868192339
+                    ]
+                ]
+            },
+            "Dominic West": {
+                "args": []
+            },
+            "Taron Egerton": {
+                "args": []
+            },
+            "Jonathan Bailey": {
+                "args": []
+            },
+            "Emily Bevan": {
+                "args": []
+            },
+            "Emily Watson": {
+                "args": []
+            },
+            "Charlotte Hope": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Juliette Towhidi": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_testament of youth isn't a typical biopic",
+                -0.6396450308724867
+            ],
+            [
+                "4_ still-vulnerable vera who gives the film its depth.",
+                0.711903869753967
+            ],
+            [
+                "15_an intimate epic, \"testament of youth\" has great historical sweep yet remains focused on the human vicissitudes experienced by vera and her circle.",
+                0.8088506206098385
+            ],
+            [
+                "16_from first to last, \"testament of youth\" sweeps you away.",
+                0.6654571148233641
+            ],
+            [
+                "19_the movie is a proud collation of its reflected glory.",
+                0.6979266531518538
+            ],
+            [
+                "21_there's a good movie in brittain's story, ",
+                0.6616579740702908
+            ],
+            [
+                "26_the world war i-set \"testament of youth\" makes a passionate and sensible case for [pacifism] through devastating, melancholy, persevering drama.",
+                0.6331325174912034
+            ],
+            [
+                "28_unabashedly romantic the film may be, ",
+                0.6621724239400819
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

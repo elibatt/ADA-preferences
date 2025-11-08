@@ -1,0 +1,96 @@
+{
+    "writer": {
+        "entities": {
+            "Juhi Chaturvedi": {
+                "args": [
+                    [
+                        "0_bhashkor is not your typical bollywood papa, and \"piku,\" directed by shoojit sircar from a script by juhi chaturvedi, isn't a typical hindi movie.",
+                        -0.6790977263175727
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Shoojit Sircar": {
+                "args": [
+                    [
+                        "0_bhashkor is not your typical bollywood papa, and \"piku,\" directed by shoojit sircar from a script by juhi chaturvedi, isn't a typical hindi movie.",
+                        -0.6790977263175727
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_while the movie has far more toilet humor than you might expect, the locations and overall sweetness of the performances make \"piku\" a good winding-road pick.",
+                0.6220441747450529
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Akshay Oberoi": {
+                "args": []
+            },
+            "Swaroopa Ghosh": {
+                "args": []
+            },
+            "Balendra Singh": {
+                "args": []
+            },
+            "Moushumi Chatterjee": {
+                "args": []
+            },
+            "Avijit Dutt": {
+                "args": []
+            },
+            "Nutan Mathur": {
+                "args": []
+            },
+            "Sumanto Chattopadhyay": {
+                "args": []
+            },
+            "Amitabh Bachchan": {
+                "args": []
+            },
+            "Irrfan Khan": {
+                "args": []
+            },
+            "Kanupriya": {
+                "args": []
+            },
+            "Raghuvir Yadav": {
+                "args": []
+            },
+            "Jishu Sengupta": {
+                "args": []
+            },
+            "Rupsa Banerjee": {
+                "args": []
+            },
+            "Kumar Thakur": {
+                "args": []
+            },
+            "Prerna Chawla": {
+                "args": []
+            },
+            "Sajal Bhattacharya": {
+                "args": []
+            },
+            "Deepika Padukone": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

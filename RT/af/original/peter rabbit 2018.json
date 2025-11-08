@@ -1,0 +1,107 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie remains an object lesson in how not to adapt a beloved volume to the screen.",
+                0.536495930083743
+            ],
+            [
+                "3_a children's film that makes its adult audience take stock of their own actions and ways of thinking, particularly as the story ends up abandoning the concept of heroes and villains, and paints its characters with shades of grey.",
+                0.8217413991314413
+            ],
+            [
+                "8_peter rabbit is sometimes crass, ",
+                0.5363873801670977
+            ],
+            [
+                "11_for anyone familiar with the original \"peter rabbit,\" it's a little depressing to see its storybook charm reduced to slapstick.",
+                0.6511000234290748
+            ],
+            [
+                "14_when the last stick of dynamite goes off, and the last human is electrocuted, it's hard not to walk away thinking \"that movie was so much better than i expected.\"",
+                -0.771478542900624
+            ],
+            [
+                "16_it only takes a few minutes for peter rabbit to misunderstand its source material twice.",
+                -0.6902836619209498
+            ],
+            [
+                "20_beatrix potter fans will be torn between wanting to hug a photo-real peter rabbit and wanting to scream at what hollywood has done with him.",
+                -0.5923955863269583
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Will Gluck": {
+                "args": [
+                    [
+                        "18_suffering under a tirelessly \"hip\" script by gluck and rob lieber, not to mention james corden's typical desperation to please in the title role, poor peter is only slightly less appealing than the simpsons' focus-grouped pup poochie.",
+                        -0.6590148397385457
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Elizabeth Debicki": {
+                "args": []
+            },
+            "Sam Neill": {
+                "args": []
+            },
+            "Margot Robbie": {
+                "args": []
+            },
+            "Rose Byrne": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Daisy Ridley": {
+                "args": []
+            },
+            "James Corden": {
+                "args": [
+                    [
+                        "2_i'm just glad that corden didn't insist on doing rabbit burrow karaoke.",
+                        -0.5861256985323674
+                    ],
+                    [
+                        "18_suffering under a tirelessly \"hip\" script by gluck and rob lieber, not to mention james corden's typical desperation to please in the title role, poor peter is only slightly less appealing than the simpsons' focus-grouped pup poochie.",
+                        -0.6590148397385457
+                    ],
+                    [
+                        "19_awfully flimsy plotting ... fails to take full advantage of terrific production values and the work of an engaging cast led by the affably energetic james corden.",
+                        0.7073953882295745
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Will Gluck": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "17_they've managed to bring just enough anarchy and wise-assery to this beloved character to infuse him with fresh life, ",
+                0.7446396100822735
+            ],
+            [
+                "18_suffering under a tirelessly \"hip\" script by gluck and rob lieber, not to mention james corden's typical desperation to please in the title role, poor peter is only slightly less appealing than the simpsons' focus-grouped pup poochie.",
+                -0.6590148397385457
+            ]
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_lady bird combines wisdom and tenderness, humor and grace.",
+                0.7174549804625929
+            ],
+            [
+                "1_, lady bird, is the millisecond of possibility, the speck of unflinching nerve, which might only occur once in our lives.",
+                0.6132460437219004
+            ],
+            [
+                "5_one element of the film's genius is its ability to root us firmly in lady bird's perspective.",
+                0.7394210499867722
+            ],
+            [
+                "10_gerwig's deft handling of script, camera and actors is all the more impressive given that this is her first film as solo director.",
+                0.801938949941291
+            ],
+            [
+                "11_this is a coming-of-age story that's affecting without ever being sentimental, and feels absolutely true -- like remembering the teenager you once were, even if you were never a lady bird (or debee) exactly.",
+                0.8403674558665383
+            ],
+            [
+                "15_lady bird is an absolute charmer of a movie.",
+                0.6960582223948765
+            ],
+            [
+                "17_a coming-of-age story like no other, lady bird is smart, emotional, funny and completely original.",
+                0.7935180911610116
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "9",
+                1
+            ],
+            [
+                "14",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "10_gerwig's deft handling of script, camera and actors is all the more impressive given that this is her first film as solo director.",
+                0.801938949941291
+            ],
+            [
+                "3_the densely packed detail which makes this such a luminous work shows gerwig to be an uncommonly alert filmmaker.",
+                0.6521147898377353
+            ],
+            [
+                "9_like many wonderful actresses with a gift for words (think julie delpy, sarah polley and lake bell) gerwig has slipped behind the camera to create something quietly political.",
+                0.8611902269832996
+            ],
+            [
+                "14_writer-director gerwig manages brilliantly the delicate feat of portraying the vulnerabilities and eccentricities of the townsfolk without patronising them.",
+                0.674289927532547
+            ]
+        ],
+        "entities": {
+            "Greta Gerwig": {
+                "unique_args": [
+                    [
+                        "3_the densely packed detail which makes this such a luminous work shows gerwig to be an uncommonly alert filmmaker.",
+                        0.6521147898377353
+                    ],
+                    [
+                        "9_like many wonderful actresses with a gift for words (think julie delpy, sarah polley and lake bell) gerwig has slipped behind the camera to create something quietly political.",
+                        0.8611902269832996
+                    ],
+                    [
+                        "14_writer-director gerwig manages brilliantly the delicate feat of portraying the vulnerabilities and eccentricities of the townsfolk without patronising them.",
+                        0.674289927532547
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "10_gerwig's deft handling of script, camera and actors is all the more impressive given that this is her first film as solo director.",
+                0.801938949941291
+            ]
+        ],
+        "entities": {
+            "Greta Gerwig": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Saoirse Ronan": {
+                "unique_args": []
+            },
+            "Laurie Metcalf": {
+                "unique_args": []
+            },
+            "Timothée Chalamet": {
+                "unique_args": []
+            },
+            "Lucas Hedges": {
+                "unique_args": []
+            },
+            "Tracy Letts": {
+                "unique_args": []
+            },
+            "Odeya Rush": {
+                "unique_args": []
+            },
+            "Jake McDorman": {
+                "unique_args": []
+            },
+            "Beanie Feldstein": {
+                "unique_args": []
+            },
+            "Lois Smith": {
+                "unique_args": []
+            },
+            "Stephen Henderson": {
+                "unique_args": []
+            },
+            "Jordan Rodrigues": {
+                "unique_args": []
+            },
+            "Marielle Scott": {
+                "unique_args": []
+            },
+            "John Karna": {
+                "unique_args": []
+            },
+            "Bayne Gibby": {
+                "unique_args": []
+            },
+            "Laura Marano": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [
+            [
+                "2_it is a female coming-of-age story that is both nostalgic and unflinching, and it will ensnare you deeply in its grasp.",
+                0.7484293793874727
+            ],
+            [
+                "11_this is a coming-of-age story that's affecting without ever being sentimental, and feels absolutely true -- like remembering the teenager you once were, even if you were never a lady bird (or debee) exactly.",
+                0.8403674558665383
+            ],
+            [
+                "12_a gloriously funny and wistfully autobiographical coming-of-age comedy.",
+                0.7559593682093175
+            ],
+            [
+                "17_a coming-of-age story like no other, lady bird is smart, emotional, funny and completely original.",
+                0.7935180911610116
+            ]
+        ],
+        "entities": {
+            "adolescence": {
+                "unique_args": [
+                    [
+                        "2_it is a female coming-of-age story that is both nostalgic and unflinching, and it will ensnare you deeply in its grasp.",
+                        0.7484293793874727
+                    ],
+                    [
+                        "11_this is a coming-of-age story that's affecting without ever being sentimental, and feels absolutely true -- like remembering the teenager you once were, even if you were never a lady bird (or debee) exactly.",
+                        0.8403674558665383
+                    ],
+                    [
+                        "12_a gloriously funny and wistfully autobiographical coming-of-age comedy.",
+                        0.7559593682093175
+                    ],
+                    [
+                        "17_a coming-of-age story like no other, lady bird is smart, emotional, funny and completely original.",
+                        0.7935180911610116
+                    ]
+                ]
+            }
+        }
+    }
+}

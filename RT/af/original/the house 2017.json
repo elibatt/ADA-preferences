@@ -1,0 +1,111 @@
+{
+    "writer": {
+        "entities": {
+            "Brendan O'Brien": {
+                "args": []
+            },
+            "Andrew Jay Cohen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_instead of writing actual characters, they've hired a gaggle of beloved comedians to do bits based on stereotype and persona, and have concocted a cockamamie suburban crime story that manages to be both bizarre and incredibly thin.",
+                -0.6954634240493316
+            ],
+            [
+                "4_there's more character development (and more believable plot turns) in a typical \"saturday night live\" sketch.",
+                -0.5922674138361184
+            ],
+            [
+                "7_ the script loses interest in anything that starts to look like a comedic through line.",
+                -0.6313414341414341
+            ],
+            [
+                "8_you both feel bad for the actors and wonder how it is that they never banded together to mutiny on set and demand a better script - ",
+                -0.634703397129947
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Andrew Jay Cohen": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "6_and while the house isn't an absolute disaster, it's undeniable that this is one that's crapped out.",
+                -0.6894219141590703
+            ],
+            [
+                "11_the film arguably gets to its midpoint before eliciting a single laugh.",
+                -0.5192904643061889
+            ],
+            [
+                "12_\"the house,\" like too many hollywood comedies of outrage, turns the extreme into the innocuous.",
+                -0.5639850058729019
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Cedric Yarbrough": {
+                "args": []
+            },
+            "Allison Tolman": {
+                "args": []
+            },
+            "Andy Buckley (II)": {
+                "args": []
+            },
+            "Toni French": {
+                "args": []
+            },
+            "Sam Richardson": {
+                "args": []
+            },
+            "Jason Mantzoukas": {
+                "args": []
+            },
+            "Ryan Simpkins": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": []
+            },
+            "Adam Reeser": {
+                "args": []
+            },
+            "Will Ferrell": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            },
+            "Jessie Ennis": {
+                "args": []
+            },
+            "Andrea Savage": {
+                "args": []
+            },
+            "Rob Huebel": {
+                "args": []
+            },
+            "Amy Poehler": {
+                "args": []
+            },
+            "Michaela Watkins": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

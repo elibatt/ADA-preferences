@@ -1,0 +1,289 @@
+{
+    "acting": {
+        "args": [
+            [
+                "17_good thing he cast his film so well.",
+                0.5325171393369872
+            ]
+        ],
+        "entities": {
+            "Bo Stansell": {
+                "args": []
+            },
+            "Samuel Dunning": {
+                "args": []
+            },
+            "Jason Jiang": {
+                "args": []
+            },
+            "Pico Alexander": {
+                "args": []
+            },
+            "Thomas Bair": {
+                "args": []
+            },
+            "Kc Coy": {
+                "args": []
+            },
+            "David Eggers": {
+                "args": []
+            },
+            "Bryan Burton": {
+                "args": []
+            },
+            "Betsy Hogg": {
+                "args": []
+            },
+            "Sam Rohloff": {
+                "args": []
+            },
+            "Eliza Foss": {
+                "args": []
+            },
+            "Samuel H. Levine": {
+                "args": []
+            },
+            "Eli Gelb": {
+                "args": []
+            },
+            "Rebecca Watson": {
+                "args": []
+            },
+            "Tracy Letts": {
+                "args": [
+                    [
+                        "16_lerman and letts give performances that will knock the wind out of you.",
+                        0.6363252606258303
+                    ]
+                ]
+            },
+            "Andrew S. Thompson": {
+                "args": []
+            },
+            "Susan Varon": {
+                "args": []
+            },
+            "Neal Arluck": {
+                "args": []
+            },
+            "Ben Rosenfield (II)": {
+                "args": []
+            },
+            "Richard Topol": {
+                "args": []
+            },
+            "Margo Kazaryan": {
+                "args": []
+            },
+            "Logan Lerman": {
+                "args": [
+                    [
+                        "27_notably, it allows lerman to deliver an exciting, detailed performance.",
+                        0.7326394517419457
+                    ]
+                ]
+            },
+            "Philip Ettinger": {
+                "args": []
+            },
+            "Linda Emond": {
+                "args": []
+            },
+            "Ruth Flaherty": {
+                "args": []
+            },
+            "Bryan Fitzgerald": {
+                "args": []
+            },
+            "Doris McCarthy": {
+                "args": []
+            },
+            "Isabel Keating": {
+                "args": []
+            },
+            "Noah Robbins": {
+                "args": []
+            },
+            "Danny Burstein": {
+                "args": []
+            },
+            "Sarah Gadon": {
+                "args": []
+            },
+            "Jason Erik Zacek": {
+                "args": []
+            },
+            "Steven Kaplan": {
+                "args": []
+            },
+            "Joanne Baron": {
+                "args": []
+            },
+            "Melanie Blake Roth": {
+                "args": [
+                    [
+                        "3_with its mature perspective on distant formative years, the film feels true to the spirit of roth",
+                        0.7041200219945563
+                    ],
+                    [
+                        "9_a beautifully realized adaptation of philip roth's novel about minor decisions and major consequences.",
+                        0.7352297368301897
+                    ],
+                    [
+                        "10_longtime screenwriter and producer james schamus adapts longtime novelist philip roth's novel of love and death and midwestern collegiate life, and turns what might have been an exercise in mid-century nostalgia into something vital and resonant.",
+                        0.5966734902095373
+                    ],
+                    [
+                        "13_indignation is one of those films that creates the impression of little happening, when in fact schamus, and roth, are pulling levers of life-and-death importance.",
+                        0.5868095310924569
+                    ],
+                    [
+                        "14_the movie respects roth's coming-of-age reverie while ever so gently questioning it, or at least tilting it sideways.",
+                        0.7033182016042713
+                    ],
+                    [
+                        "16_schamus delivers philip roth to the screen with his claws intact.",
+                        0.5910561185263211
+                    ],
+                    [
+                        "23_though schamus is a seasoned, respectful adapter of roth's prose, it's just plain hard, if not impossible, to do full justice to the novelist's mercurial shifts between irony, knockabout farce,",
+                        -0.7480791050962994
+                    ],
+                    [
+                        "25_finally, a phillip roth book has been properly adapted into a movie!",
+                        0.5076458362091135
+                    ],
+                    [
+                        "30_yet marcus's plight is genuinely grave, and schamus sets up delicate visual rhymes that are not in roth.",
+                        0.5097605263038633
+                    ]
+                ]
+            },
+            "Will MacAdam": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ \"indignation\" often plays like a heavy handed after-school special.",
+                -0.5737591922280427
+            ],
+            [
+                "1_it's not so much indignant as it is tedious.",
+                -0.6826158986768593
+            ],
+            [
+                "2_\"indignation\" is an elegant de",
+                0.7065673518219963
+            ],
+            [
+                "7_this is one helluva compelling film that presents us with several of the very best performances of the year.",
+                0.880481868415543
+            ],
+            [
+                "11_ \"indignation\" winds up packing a wallop far greater than its modest parts might suggest.",
+                0.5143143594489024
+            ],
+            [
+                "12_it is a movie about ideas and living with them.",
+                0.6431137874562506
+            ],
+            [
+                "15_\"indignation\" has the disconcerting quality of truth and is an altogether adult piece of work.",
+                0.572813932841423
+            ],
+            [
+                "17_good thing he cast his film so well.",
+                0.5325171393369872
+            ],
+            [
+                "20_\"indignation\" might be dismissed as a small, exquisite period piece, ",
+                0.7847746368167505
+            ],
+            [
+                "21_\"indignation\" tells a very particular story, one that's bittersweet, heartbreaking and bleakly comic all at once, and it gets it right.",
+                0.8271148744098737
+            ],
+            [
+                "22_in its portrait of american youth as a high-stakes affair instead of the extended play-date it is today, \"indignation\" is devastating, haunting and important.",
+                0.7408079837896616
+            ],
+            [
+                "27_handing the movie over to the protagonist does have its benefits.",
+                0.5362183321144014
+            ],
+            [
+                "31_a warmly satisfying screen translation of a work by an author who has rarely been served well on film.",
+                0.6470733410827467
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Schamus": {
+                "args": [
+                    [
+                        "2_ for longtime producer schamus",
+                        0.5074155434909626
+                    ],
+                    [
+                        "4_writer and director james schamus turns indignation into a minor period piece, a precise ",
+                        0.7419204434647445
+                    ],
+                    [
+                        "10_longtime screenwriter and producer james schamus adapts longtime novelist philip roth's novel of love and death and midwestern collegiate life, and turns what might have been an exercise in mid-century nostalgia into something vital and resonant.",
+                        0.5966734902095373
+                    ],
+                    [
+                        "13_indignation is one of those films that creates the impression of little happening, when in fact schamus, and roth, are pulling levers of life-and-death importance.",
+                        0.5868095310924569
+                    ],
+                    [
+                        "19_drawing superb performances from each and every one of his actors, schamus meticulously makes every shot, and every gesture contained within that shot, count.",
+                        0.9092804967558527
+                    ],
+                    [
+                        "23_though schamus is a seasoned, respectful adapter of roth's prose, it's just plain hard, if not impossible, to do full justice to the novelist's mercurial shifts between irony, knockabout farce,",
+                        -0.7480791050962994
+                    ],
+                    [
+                        "24_\"indignation\" is very much the sort of venture mr. schamus has often championed as a producer-ambitious and provocative, a must-see for anyone who cares about independent film.",
+                        0.8224937872002016
+                    ],
+                    [
+                        "30_this is the first movie [schamus] has directed, and the rhythm of the storytelling feels careful and courteous to a fault.",
+                        -0.5133609451968848
+                    ],
+                    [
+                        "30_yet marcus's plight is genuinely grave, and schamus sets up delicate visual rhymes that are not in roth.",
+                        0.5097605263038633
+                    ],
+                    [
+                        "32_this may be schamus' directorial de",
+                        0.6084839004071467
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_longtime screenwriter and producer james schamus adapts longtime novelist philip roth's novel of love and death and midwestern collegiate life, and turns what might have been an exercise in mid-century nostalgia into something vital and resonant.",
+                0.5966734902095373
+            ]
+        ],
+        "entities": {
+            "James Schamus": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "writer": {
+        "entities": {
+            "Tim Lovestedt": {
+                "args": []
+            },
+            "Pamela Gray": {
+                "args": []
+            },
+            "Annie Mumolo": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_\"megan leavey\" works because it takes leavey seriously as a character, and it studies her journey through her life and through the marines before rex is even a factor in the story.",
+                0.7631681396870169
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Corey Johnson": {
+                "args": []
+            },
+            "Edie Falco": {
+                "args": []
+            },
+            "Ramon Rodríguez": {
+                "args": []
+            },
+            "Tom Felton": {
+                "args": []
+            },
+            "Kate Mara": {
+                "args": [
+                    [
+                        "0_kate mara is raw and riveting in the title role, a marine who ends up in combat in iraq with a bomb-sniffing german shepherd.",
+                        0.508873601926301
+                    ],
+                    [
+                        "5_while well intentioned, the human-and-dog interest story lacks narrative drive and star kate mara is a limp noodle.",
+                        -0.6058681134401538
+                    ],
+                    [
+                        "11_kate mara imbues the role with plenty of grit and pluck ",
+                        0.693262182799829
+                    ],
+                    [
+                        "21_kate mara delivers one of the best performances of her career in the title role.",
+                        0.9228935916305341
+                    ]
+                ]
+            },
+            "Bradley Whitford": {
+                "args": []
+            },
+            "Will Patton": {
+                "args": []
+            },
+            "Andrew Moon": {
+                "args": []
+            },
+            "Alicia Lobo": {
+                "args": []
+            },
+            "Common": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"megan leavey\" isn't a big, or particularly surprising picture",
+                -0.500163481732119
+            ],
+            [
+                "3_if you're looking for a good cry, megan leavey gets the job done, i suppose.",
+                0.5261096386754497
+            ],
+            [
+                "4_the film - the feature directorial de",
+                0.5883796309534773
+            ],
+            [
+                "5_with a female-directed, female-driven film this small, criticizing it feels like beating a baby seal.",
+                0.5340360803476585
+            ],
+            [
+                "6_the emotion in megan leavey is not forced.",
+                -0.6755082743971152
+            ],
+            [
+                "7_\"megan leavey\" works because it takes leavey seriously as a character, and it studies her journey through her life and through the marines before rex is even a factor in the story.",
+                0.7631681396870169
+            ],
+            [
+                "10_as it stands, the movie's power never pops off the screen.",
+                -0.58698299722692
+            ],
+            [
+                "12_this movie is rarely more than merely competent, ",
+                -0.5574314978152373
+            ],
+            [
+                "18_when megan leavey touches upon the treatment of post-traumatic stress disorder in both humans and animals, it looks capable of bringing something novel to the human-and-dog formula.",
+                0.7589709476465804
+            ],
+            [
+                "23_this is a two-hour movie that would probably have worked better at 90 minutes.",
+                -0.505308162897946
+            ],
+            [
+                "23_ it's a quietly competent film and a good story ...",
+                0.8231439920544278
+            ],
+            [
+                "24_it's a movie about a woman and her dog, about the love - yes, love",
+                0.6847786934309273
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gabriela Cowperthwaite": {
+                "args": [
+                    [
+                        "1_director gabriela cowperthwaite's spare handheld camera work comes into its own once the canine teams are out in the field.",
+                        0.5734747668051614
+                    ],
+                    [
+                        "4_ for gabriela cowperthwaite, whose orcas-in-peril documentary, blackfish, struck a nerve - treats the handler/dog relationship with respect, not cheap sensationalism.",
+                        0.706174268861208
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

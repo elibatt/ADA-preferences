@@ -1,0 +1,418 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_moreover, the movie keeps announcing over and over exactly how much time is left before the world gets destroyed.",
+                -0.6967247473816622
+            ],
+            [
+                "4_it's a non-movie, an insult to the blockbuster genre, and should stand only as a perfect example of hollywood's more glaring deficiencies as an industry.",
+                0.5124440632820395
+            ],
+            [
+                "20_the film is so cluttered with characters, exposition and space junk, thickly lacquered with 3d, it's like a party piñata waiting to burst open - ",
+                0.5054817092578043
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Roland Emmerich": {
+                "args": [
+                    [
+                        "18_from the metallic shell of the 1996 smash \"independence day,\" director roland emmerich has pulled a seriously lousy sequel, dripping with alien goo and incoherence.",
+                        -0.6700195622297478
+                    ],
+                    [
+                        "21_returning director roland emmerich's film checks all the appropriate boxes - wanton destruction, malevolent aliens, b-movie dialogue, rampant silliness - ",
+                        -0.5775153548447104
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jeffrey M. Williams": {
+                "args": []
+            },
+            "Morse Bicknell": {
+                "args": []
+            },
+            "Brent Spiner": {
+                "args": []
+            },
+            "John D. Grissom": {
+                "args": []
+            },
+            "Ava Del Cielo": {
+                "args": []
+            },
+            "Cory Kapahulehua": {
+                "args": []
+            },
+            "Beth Bailey": {
+                "args": []
+            },
+            "John Storey": {
+                "args": []
+            },
+            "Travis Hammer": {
+                "args": []
+            },
+            "Stephen Oyoung": {
+                "args": []
+            },
+            "Garrett Wareing": {
+                "args": []
+            },
+            "Sela Ward": {
+                "args": []
+            },
+            "Charlotte Gainsbourg": {
+                "args": []
+            },
+            "Donovan Tyee Smith": {
+                "args": []
+            },
+            "Hays Wellford": {
+                "args": []
+            },
+            "David Devereaux": {
+                "args": []
+            },
+            "Monique Candelaria": {
+                "args": []
+            },
+            "Alma Sisneros": {
+                "args": []
+            },
+            "Hans Obma": {
+                "args": []
+            },
+            "Liam Hemsworth": {
+                "args": []
+            },
+            "Jade Kammerman": {
+                "args": []
+            },
+            "McKenna Grace": {
+                "args": []
+            },
+            "Otis Winston": {
+                "args": []
+            },
+            "Sam Quinn": {
+                "args": []
+            },
+            "David Grant Wright": {
+                "args": []
+            },
+            "Grace Huang (II)": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            },
+            "Ron Yuan": {
+                "args": []
+            },
+            "Justin Arnsworth": {
+                "args": []
+            },
+            "Jessie T. Usher": {
+                "args": []
+            },
+            "Alice Rietveld": {
+                "args": []
+            },
+            "James A. Woods": {
+                "args": []
+            },
+            "Brian Barela": {
+                "args": []
+            },
+            "Lance Lim": {
+                "args": []
+            },
+            "Faber Dewar": {
+                "args": []
+            },
+            "Jerry Walker": {
+                "args": []
+            },
+            "Deobia Oparei": {
+                "args": []
+            },
+            "Joey King": {
+                "args": []
+            },
+            "Jacob Christopher Johnson": {
+                "args": []
+            },
+            "Angelababy": {
+                "args": []
+            },
+            "Grizelda Quintana": {
+                "args": []
+            },
+            "Gbenga Akinnagbe": {
+                "args": []
+            },
+            "Maika Monroe": {
+                "args": []
+            },
+            "Ryan Cartwright": {
+                "args": []
+            },
+            "Jacob Browne": {
+                "args": []
+            },
+            "Stafford Douglas": {
+                "args": []
+            },
+            "Robert Douglas": {
+                "args": []
+            },
+            "Nicolas Wright": {
+                "args": []
+            },
+            "Alexander Daniel Pimentel": {
+                "args": []
+            },
+            "Michael Love Toliver": {
+                "args": []
+            },
+            "Dave Racki": {
+                "args": []
+            },
+            "Nathaniel Augustson": {
+                "args": []
+            },
+            "Nathan Brimmer": {
+                "args": []
+            },
+            "Jason E. Hill": {
+                "args": []
+            },
+            "Richard Beal": {
+                "args": []
+            },
+            "Catharine Pilafas": {
+                "args": []
+            },
+            "Judd Hirsch": {
+                "args": []
+            },
+            "Johnny Otto": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "Diana Gaitirira": {
+                "args": []
+            },
+            "Humberto Castro": {
+                "args": []
+            },
+            "Justin Raleigh": {
+                "args": []
+            },
+            "Omar Diop": {
+                "args": []
+            },
+            "Katrina Kavanaugh": {
+                "args": []
+            },
+            "Jonathan Lane": {
+                "args": []
+            },
+            "Jetto Dorsainville": {
+                "args": []
+            },
+            "Patrick Juarez": {
+                "args": []
+            },
+            "Gabriel Schmidt": {
+                "args": []
+            },
+            "Stephen M. Hardin": {
+                "args": []
+            },
+            "David Stanford": {
+                "args": []
+            },
+            "Valerie Adams": {
+                "args": []
+            },
+            "Mark S. Allen": {
+                "args": []
+            },
+            "Chin Han": {
+                "args": []
+            },
+            "Akshay Patel": {
+                "args": []
+            },
+            "Edward A. Duran": {
+                "args": []
+            },
+            "Travis Tope": {
+                "args": []
+            },
+            "Shawn Lecrone": {
+                "args": []
+            },
+            "Mark Falvo": {
+                "args": []
+            },
+            "Nate Warren": {
+                "args": []
+            },
+            "Colt Balok": {
+                "args": []
+            },
+            "Matthew Munroe": {
+                "args": []
+            },
+            "Andrew James Bleidner": {
+                "args": []
+            },
+            "Bill Pullman": {
+                "args": []
+            },
+            "Auroroa Antonio": {
+                "args": []
+            },
+            "Andrei Lapionak": {
+                "args": []
+            },
+            "Raiden Integra": {
+                "args": []
+            },
+            "Brandon Hampton": {
+                "args": []
+            },
+            "Kenny Leu": {
+                "args": []
+            },
+            "Robert Neary": {
+                "args": []
+            },
+            "Christian Simpson": {
+                "args": []
+            },
+            "Jamie H. Jung": {
+                "args": []
+            },
+            "Danny Winn": {
+                "args": []
+            },
+            "Patrick St. Esprit": {
+                "args": []
+            },
+            "Vivica A. Fox": {
+                "args": []
+            },
+            "William Fichtner": {
+                "args": []
+            },
+            "Vaughn Odenbrett": {
+                "args": []
+            },
+            "Gregory Paul Valdez": {
+                "args": []
+            },
+            "Zeb Sanders": {
+                "args": []
+            },
+            "Marika Day": {
+                "args": [
+                    [
+                        "0_\"independence day: resurgence\" is a dull, brainless sequel, representing how sadly major studio film quality has declined in the intervening two decades.",
+                        -0.7960052580123909
+                    ],
+                    [
+                        "2_the first \"independence day\" had the gratifying slap of good pop cinema, harmless and weightless",
+                        0.6546627742570706
+                    ],
+                    [
+                        "3_the temptation is there to say that independence day: resurgence tarnishes the image of its predecessor ",
+                        0.7564385042411081
+                    ],
+                    [
+                        "3_ the original independence day wasn't all that good to begin with.",
+                        -0.5200965224364434
+                    ],
+                    [
+                        "7_you can forgive independence day:",
+                        -0.5181432291797349
+                    ],
+                    [
+                        "16_i didn't like \"independence day: resurgence.",
+                        -0.7007041159046871
+                    ],
+                    [
+                        "17_independence day: resurgence really delivers.",
+                        0.5585151620567607
+                    ],
+                    [
+                        "18_from the metallic shell of the 1996 smash \"independence day,\" director roland emmerich has pulled a seriously lousy sequel, dripping with alien goo and incoherence.",
+                        -0.6700195622297478
+                    ],
+                    [
+                        "22_the first \"independence day'' was a lot of fun, with a great lines and cutting-edge special effects.",
+                        0.8878110687404186
+                    ],
+                    [
+                        "23_i remember sitting in the theater watching the first independence day as a kid, mouth agape at what the movies could do.",
+                        -0.5678286450821942
+                    ],
+                    [
+                        "25_while it would be foolish to say independence day: resurgence lacks spectacle, scene after scene of the stuff becomes repetitive due to its victimless violence.",
+                        -0.6466802735435102
+                    ],
+                    [
+                        "26_independence day: resurgence\" delivers swiftly and generously when it comes to the goods most viewers will have come for - the time-honored joys of blowing stuff up, in set pieces that escalate dizzyingly in size and context.",
+                        0.7231494917697212
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "22_it was much imitated, so the sequel plays like a faded, eighth-generation copy with a cast that's shooting blanks when it comes to humor.",
+                -0.5406922030728116
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "James A. Woods": {
+                "args": []
+            },
+            "Dean Devlin": {
+                "args": []
+            },
+            "James Vanderbilt": {
+                "args": []
+            },
+            "Jamie Vanderbilt": {
+                "args": []
+            },
+            "Roland Emmerich": {
+                "args": []
+            },
+            "Nicolas Wright": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

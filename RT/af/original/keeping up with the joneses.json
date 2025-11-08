@@ -1,0 +1,227 @@
+{
+    "writer": {
+        "entities": {
+            "Michael LeSieur": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_the script sets up the action part of the movie with an interminably laborious and close-fitting literalness that hardly lets any of the actors breathe.",
+                0.5617127792613834
+            ],
+            [
+                "2_structured with the kind of obviousness that makes you outwit the screenwriter and then hate movies in general, greg mottola's painfully generic suburban spy comedy wastes everybody's time, onscreen and off.",
+                -0.5692324083933847
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Greg Mottola": {
+                "args": [
+                    [
+                        "2_structured with the kind of obviousness that makes you outwit the screenwriter and then hate movies in general, greg mottola's painfully generic suburban spy comedy wastes everybody's time, onscreen and off.",
+                        -0.5692324083933847
+                    ],
+                    [
+                        "24_ they all do it agreeably enough to buoy the familiar farcical intrigue being woven by director greg mottola.",
+                        0.5039079338846069
+                    ],
+                    [
+                        "28_greg mottola has made some fine contri",
+                        0.5718102271431611
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the script sets up the action part of the movie with an interminably laborious and close-fitting literalness that hardly lets any of the actors breathe.",
+                0.5617127792613834
+            ],
+            [
+                "11_one way to end the scourge of \"tv is better than film\" articles is to stop making movies like \"keeping up with the joneses,\" a pedestrian comedy that almost seems intended as evidence for the cause.",
+                -0.5376585421834305
+            ],
+            [
+                "19_date-night fare for people who don't decide what movie they're going to see before they go to the theater ...",
+                -0.5741761077655869
+            ],
+            [
+                "20_\"keeping up with the joneses\" is hardly worth the effort.",
+                0.6121233474669063
+            ],
+            [
+                "26_even those of us with a soft spot for dumb, high-concept hollywood comedies might be outraged by the limp, unfunny nothingburger that is keeping up with the joneses.",
+                -0.5207002572371235
+            ],
+            [
+                "28_ his new film, keeping up with the joneses, is decidedly not one of them.",
+                0.5371508847494857
+            ],
+            [
+                "29_this black hole of a film is a waste of this talented crew's time, yes, ",
+                -0.6307737029779134
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Matt Walsh": {
+                "args": []
+            },
+            "Rishik Patel": {
+                "args": []
+            },
+            "Kristina Case": {
+                "args": [
+                    [
+                        "12_ it mostly goes down as another case of funny people stuck in narrowly clichéd roles and an overly familiar story.",
+                        -0.6528632193910044
+                    ]
+                ]
+            },
+            "Maribeth Monroe": {
+                "args": []
+            },
+            "Ming Zhao": {
+                "args": []
+            },
+            "Lauren Revard": {
+                "args": []
+            },
+            "Jack McQuaid": {
+                "args": []
+            },
+            "Marc Grapey": {
+                "args": []
+            },
+            "Richard Regan Paul": {
+                "args": []
+            },
+            "Yi Dong Hian": {
+                "args": []
+            },
+            "Ying He": {
+                "args": []
+            },
+            "Adrienne Ballenger": {
+                "args": []
+            },
+            "Henry Boston": {
+                "args": []
+            },
+            "Isla Fisher": {
+                "args": []
+            },
+            "Amy Block": {
+                "args": []
+            },
+            "Angela Ray": {
+                "args": []
+            },
+            "Andrew Farmer": {
+                "args": []
+            },
+            "Massi Furlan": {
+                "args": []
+            },
+            "Cullen Moss": {
+                "args": []
+            },
+            "Andre Pushkin": {
+                "args": []
+            },
+            "Sharon Gee": {
+                "args": []
+            },
+            "Jon Hamm": {
+                "args": [
+                    [
+                        "8_galifianakis and hamm are better than the material here, ",
+                        0.5940280391785476
+                    ],
+                    [
+                        "27_earth to movie executives: this is not what jon hamm should be doing!",
+                        -0.6398727292756459
+                    ]
+                ]
+            },
+            "Dayo Abanikanda": {
+                "args": []
+            },
+            "Yi Dong Qian": {
+                "args": []
+            },
+            "Pamela Dumit Conover": {
+                "args": []
+            },
+            "Scott Allen Perry": {
+                "args": []
+            },
+            "Zach Galifianakis": {
+                "args": [
+                    [
+                        "0_viewers who can't get enough of galifianakis or hamm will enjoy seeing the two spar onscreen, delivering in spades the unexpected phrasing and smoldering smirks each actor does so well.",
+                        0.7566565015792319
+                    ],
+                    [
+                        "5_with the joneses is as blandly generic as its title, a comedy that telegraphs every beat with a one-sentence description of the premise and continues the cinematic squandering of zach galifianakis since the hangover.",
+                        -0.6388760889764558
+                    ],
+                    [
+                        "16_the staleness of the premise begins to overtake players as easy and confident as hamm and galifianakis.",
+                        0.6533583210326301
+                    ]
+                ]
+            },
+            "Gal Gadot": {
+                "args": []
+            },
+            "Ari Shaffir": {
+                "args": []
+            },
+            "Matt McHugh": {
+                "args": []
+            },
+            "Jona Xiao": {
+                "args": []
+            },
+            "Frank Michael Liu": {
+                "args": []
+            },
+            "Darin Cooper": {
+                "args": []
+            },
+            "Kevin Dunn": {
+                "args": []
+            },
+            "Bobby Lee": {
+                "args": []
+            },
+            "Harry Galifianakis": {
+                "args": []
+            },
+            "Patton Oswalt": {
+                "args": []
+            },
+            "Karina Bonnefil": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "24_the cast hardly stretches ...",
+                -0.5259488834789579
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

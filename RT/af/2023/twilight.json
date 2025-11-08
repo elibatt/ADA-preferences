@@ -1,0 +1,717 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ten years after its release, twilight stands as a powerful, darkly stylish depiction of teen female desire.",
+                0.2
+            ],
+            [
+                "4_i watched twilight in a cinema full of young girls who, when they weren't texting friends and guzzling soft drinks, giggled, sighed and exhaled with a passion that was not only endearing, ",
+                0.20999999999999996
+            ],
+            [
+                "6_in a film of this kind a great deal depends on the chemistry between the lead actors, and here twilight falls especially short.",
+                0.4666666666666666
+            ],
+            [
+                "13_twilight, a fantasy romance involving a self-loathing vampire and his sweet-blooded soul mate, is the kind of movie that gets pop culture addicts excited.",
+                0.4875
+            ],
+            [
+                "14_the film's main problems stem from its uneven efforts to marry purple passion with black comedy.",
+                -0.06666666666666667
+            ],
+            [
+                "17_twilight, the first movie adapted from stephenie meyer's series of best-selling teen novels, is going to be a big hit with young girls, and deservedly so -- the picture delivers.",
+                0.0875
+            ],
+            [
+                "18_twilight the movie is cautious, a sort of tiger beat-ified twin peaks.",
+                0.0
+            ],
+            [
+                "19_twilight is silly and melodramatic and hard to dislike in much the same way as its target audience, with a distinctly teenage sense of tragedy.",
+                -0.11833333333333336
+            ],
+            [
+                "20_twilight is the diet coke of vampire movies, ",
+                0.0
+            ],
+            [
+                "20_ central to the film's success is that you believe in the love between edward and bella.",
+                0.26666666666666666
+            ],
+            [
+                "21_not that twilight's fate hangs on intelligibility.",
+                0.0
+            ],
+            [
+                "22_twilight works as both love story and vampire story, thanks mainly to the performances of its principals.",
+                0.28888888888888886
+            ],
+            [
+                "23_twilight is, by its very nature, all about unfinished business, the story of a brooding, caring romantic hero and the woman who cannot -- ",
+                0.1
+            ],
+            [
+                "32_hardwicke has shrewdly made a film that will appeal to the audience that could make or break it.",
+                0.0
+            ],
+            [
+                "32_ there's little here to win over those of us without dog-eared copies of twilight under our beds.",
+                0.30625
+            ],
+            [
+                "34_as a romance, twilight is just subpar-- a more celibate, moodier take on dawson's creek or 90210.",
+                0.5
+            ],
+            [
+                "36_while the movie attempts to find a compelling middle ground between gothic supernaturalism and teenage romance, it usually winds up stumbling into the inane territory implied by both descriptions.",
+                0.012499999999999997
+            ],
+            [
+                "37_twilight is often a lot of fun to watch -- the atmosphere of wet green trees and subtle danger, the gothic breathiness of doomed romance, the way all the vampires have better hair than anyone else -- and seems to give its intended audience what it wants.",
+                0.06111111111111111
+            ],
+            [
+                "38_meyer is said to have been involved in the production of twilight, ",
+                0.0
+            ],
+            [
+                "38_ her novel was substantially more absorbing than the unintentionally funny and quickly forgettable film.",
+                0.11249999999999999
+            ],
+            [
+                "40_with its vapor-thin plot and goofy gimmicks (game of vampire baseball, anyone?), twilight seems best left to its impressionable teenage fans.",
+                0.22000000000000003
+            ],
+            [
+                "44_twilight will doubtless thrill fans of the books, who have long waited for its release.",
+                -0.05
+            ],
+            [
+                "44_and while it's not a failure, everyone else will wish that the film had, if you'll excuse the expression, a little more bite.",
+                0.10520833333333333
+            ],
+            [
+                "47_i have a feeling this film is going to be huge.",
+                0.4000000000000001
+            ],
+            [
+                "48_low-key is not the adjective you'd expect to describe a highly anticipated vampire movie, ",
+                0.16
+            ],
+            [
+                "49_twilight was a famously low-budget production compared to most traditional blockbusters, ",
+                0.3333333333333333
+            ],
+            [
+                "50_the movie version gives really good swoon.",
+                0.7
+            ]
+        ],
+        "unique_args": [
+            [
+                "32_ there's little here to win over those of us without dog-eared copies of twilight under our beds.",
+                0.30625
+            ],
+            [
+                "20_ central to the film's success is that you believe in the love between edward and bella.",
+                0.26666666666666666
+            ],
+            [
+                "38_ her novel was substantially more absorbing than the unintentionally funny and quickly forgettable film.",
+                0.11249999999999999
+            ],
+            [
+                "44_and while it's not a failure, everyone else will wish that the film had, if you'll excuse the expression, a little more bite.",
+                0.10520833333333333
+            ],
+            [
+                "0_ten years after its release, twilight stands as a powerful, darkly stylish depiction of teen female desire.",
+                0.2
+            ],
+            [
+                "4_i watched twilight in a cinema full of young girls who, when they weren't texting friends and guzzling soft drinks, giggled, sighed and exhaled with a passion that was not only endearing, ",
+                0.20999999999999996
+            ],
+            [
+                "6_in a film of this kind a great deal depends on the chemistry between the lead actors, and here twilight falls especially short.",
+                0.4666666666666666
+            ],
+            [
+                "13_twilight, a fantasy romance involving a self-loathing vampire and his sweet-blooded soul mate, is the kind of movie that gets pop culture addicts excited.",
+                0.4875
+            ],
+            [
+                "14_the film's main problems stem from its uneven efforts to marry purple passion with black comedy.",
+                -0.06666666666666667
+            ],
+            [
+                "17_twilight, the first movie adapted from stephenie meyer's series of best-selling teen novels, is going to be a big hit with young girls, and deservedly so -- the picture delivers.",
+                0.0875
+            ],
+            [
+                "18_twilight the movie is cautious, a sort of tiger beat-ified twin peaks.",
+                0.0
+            ],
+            [
+                "19_twilight is silly and melodramatic and hard to dislike in much the same way as its target audience, with a distinctly teenage sense of tragedy.",
+                -0.11833333333333336
+            ],
+            [
+                "21_not that twilight's fate hangs on intelligibility.",
+                0.0
+            ],
+            [
+                "22_twilight works as both love story and vampire story, thanks mainly to the performances of its principals.",
+                0.28888888888888886
+            ],
+            [
+                "23_twilight is, by its very nature, all about unfinished business, the story of a brooding, caring romantic hero and the woman who cannot -- ",
+                0.1
+            ],
+            [
+                "34_as a romance, twilight is just subpar-- a more celibate, moodier take on dawson's creek or 90210.",
+                0.5
+            ],
+            [
+                "36_while the movie attempts to find a compelling middle ground between gothic supernaturalism and teenage romance, it usually winds up stumbling into the inane territory implied by both descriptions.",
+                0.012499999999999997
+            ],
+            [
+                "37_twilight is often a lot of fun to watch -- the atmosphere of wet green trees and subtle danger, the gothic breathiness of doomed romance, the way all the vampires have better hair than anyone else -- and seems to give its intended audience what it wants.",
+                0.06111111111111111
+            ],
+            [
+                "40_with its vapor-thin plot and goofy gimmicks (game of vampire baseball, anyone?), twilight seems best left to its impressionable teenage fans.",
+                0.22000000000000003
+            ],
+            [
+                "47_i have a feeling this film is going to be huge.",
+                0.4000000000000001
+            ],
+            [
+                "48_low-key is not the adjective you'd expect to describe a highly anticipated vampire movie, ",
+                0.16
+            ],
+            [
+                "49_twilight was a famously low-budget production compared to most traditional blockbusters, ",
+                0.3333333333333333
+            ],
+            [
+                "50_the movie version gives really good swoon.",
+                0.7
+            ],
+            [
+                "7",
+                -1
+            ],
+            [
+                "11",
+                -1
+            ],
+            [
+                "24",
+                -1
+            ],
+            [
+                "26",
+                1
+            ],
+            [
+                "27",
+                1
+            ],
+            [
+                "30",
+                -1
+            ],
+            [
+                "35",
+                1
+            ],
+            [
+                "51",
+                -1
+            ],
+            [
+                "53",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Catherine Hardwicke": {
+                "args": [
+                    [
+                        "27_gothic wooziness stifles many of hardwicke's lighter impulses, such as her knack for jiving humor in scenes among friends and family.",
+                        0.25
+                    ],
+                    [
+                        "30_catherine hardwicke's choppy direction plays all this much too seriously.",
+                        -0.1111111111111111
+                    ],
+                    [
+                        "35_[hardwicke's] earnest, moody approach to stephenie meyer's tremendously popular novel may be just the thing for the 14-year-old girl in all of us.",
+                        0.6
+                    ],
+                    [
+                        "51_the movie was directed by catherine hardwicke.",
+                        0.0
+                    ],
+                    [
+                        "53_couldn't director catherine hardwicke, whose 'thirteen' shows that she knows something about teenage girls, have taken enough care to make a film that doesn't talk down to young people?",
+                        -0.013888888888888895
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "27_gothic wooziness stifles many of hardwicke's lighter impulses, such as her knack for jiving humor in scenes among friends and family.",
+                        0.25
+                    ],
+                    [
+                        "30_catherine hardwicke's choppy direction plays all this much too seriously.",
+                        -0.1111111111111111
+                    ],
+                    [
+                        "35_[hardwicke's] earnest, moody approach to stephenie meyer's tremendously popular novel may be just the thing for the 14-year-old girl in all of us.",
+                        0.6
+                    ],
+                    [
+                        "51_the movie was directed by catherine hardwicke.",
+                        0.0
+                    ],
+                    [
+                        "53_couldn't director catherine hardwicke, whose 'thirteen' shows that she knows something about teenage girls, have taken enough care to make a film that doesn't talk down to young people?",
+                        -0.013888888888888895
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "27_gothic wooziness stifles many of hardwicke's lighter impulses, such as her knack for jiving humor in scenes among friends and family.",
+                0.25
+            ],
+            [
+                "30_catherine hardwicke's choppy direction plays all this much too seriously.",
+                -0.1111111111111111
+            ],
+            [
+                "35_[hardwicke's] earnest, moody approach to stephenie meyer's tremendously popular novel may be just the thing for the 14-year-old girl in all of us.",
+                0.6
+            ],
+            [
+                "51_the movie was directed by catherine hardwicke.",
+                0.0
+            ],
+            [
+                "53_couldn't director catherine hardwicke, whose 'thirteen' shows that she knows something about teenage girls, have taken enough care to make a film that doesn't talk down to young people?",
+                -0.013888888888888895
+            ]
+        ]
+    },
+    "writer": {
+        "args": [
+            [
+                "7_ compared to rival blockbuster exercises in explosive cgi mayhem, its character-based index of longing and protectiveness at least provides a viable alternative moodscape.",
+                0.3
+            ],
+            [
+                "7_ compared to rival blockbuster exercises in explosive cgi mayhem, its character-based index of longing and protectiveness at least provides a viable alternative moodscape.",
+                0.3
+            ],
+            [
+                "7_ compared to rival blockbuster exercises in explosive cgi mayhem, its character-based index of longing and protectiveness at least provides a viable alternative moodscape.",
+                -0.2
+            ]
+        ],
+        "entities": {
+            "Melissa Rosenberg": {
+                "args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "7_ compared to rival blockbuster exercises in explosive cgi mayhem, its character-based index of longing and protectiveness at least provides a viable alternative moodscape.",
+                -0.3
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.10833333333333331
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                -1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                1.0
+            ],
+            [
+                "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                0.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                0.0
+            ]
+        ],
+        "entities": {
+            "Kristen Stewart": {
+                "args": [
+                    [
+                        "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                        0.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        0.0
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                        0.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        0.0
+                    ]
+                ]
+            },
+            "Robert Pattinson": {
+                "args": [
+                    [
+                        "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                        1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        -1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        1.0
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                        1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        -1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        1.0
+                    ],
+                    [
+                        "24_my advice: focus on pattinson and stewart.",
+                        1.0
+                    ]
+                ]
+            },
+            "Billy Burke": {
+                "args": [],
+                "unique_args": []
+            },
+            "Peter Facinelli": {
+                "args": [],
+                "unique_args": []
+            },
+            "Elizabeth Reaser": {
+                "args": [],
+                "unique_args": []
+            },
+            "Nikki Reed": {
+                "args": [],
+                "unique_args": []
+            },
+            "Ashley Greene": {
+                "args": [],
+                "unique_args": []
+            },
+            "Jackson Rathbone": {
+                "args": [],
+                "unique_args": []
+            },
+            "Kellan Lutz": {
+                "args": [],
+                "unique_args": []
+            },
+            "Cam Gigandet": {
+                "args": [],
+                "unique_args": []
+            },
+            "Edi Gathegi": {
+                "args": [],
+                "unique_args": []
+            },
+            "Rachelle Lefevre": {
+                "args": [],
+                "unique_args": []
+            },
+            "Anna Kendrick": {
+                "args": [],
+                "unique_args": []
+            },
+            "Taylor Lautner": {
+                "args": [],
+                "unique_args": []
+            },
+            "Michael Welch": {
+                "args": [],
+                "unique_args": []
+            },
+            "Justin Chon": {
+                "args": [],
+                "unique_args": []
+            },
+            "Christian Serratos": {
+                "args": [],
+                "unique_args": []
+            },
+            "Gil Birmingham": {
+                "args": [],
+                "unique_args": []
+            },
+            "Sarah Clarke": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                -1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                1.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                1.0
+            ],
+            [
+                "11_ stewart and pattinson are a quite mesmerising pair, and their twitchy, sidelong glances play out a duet of unspoken yearning that might just get under your skin.",
+                0.0
+            ],
+            [
+                "24_my advice: focus on pattinson and stewart.",
+                0.0
+            ]
+        ]
+    },
+    "themes": {
+        "args": [
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ]
+        ],
+        "entities": {
+            "Romance": {
+                "args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ]
+                ]
+            },
+            "Immortality": {
+                "args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.40833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.40833333333333331
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.40833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.40833333333333331
+                    ]
+                ]
+            },
+            "Sacrifice": {
+                "args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.40833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        0.40833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ],
+                    [
+                        "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                        -0.20833333333333331
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                -0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.40833333333333331
+            ],
+            [
+                "26_screenwriter melissa rosenberg does a decent job adapting the first book in meyer's series, and ",
+                0.20833333333333331
+            ]
+        ]
+    }
+}

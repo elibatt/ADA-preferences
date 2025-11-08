@@ -1,0 +1,172 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_hittman demonstrates a sure hand throughout, marking her as a filmmaker whose future work will be hotly anticipated.",
+                0.8158496847930041
+            ],
+            [
+                "1_dickinson is perfectly cast and the film's mix of skill gives it a gritty realism that heightens the emotional pitch.",
+                0.7828855576923542
+            ],
+            [
+                "4_it's not the feel-good movie of the year, ",
+                0.5719650943871964
+            ],
+            [
+                "6_beach rats [is] just plain haunting.",
+                -0.6615570112221674
+            ],
+            [
+                "15_it's hard to make a compelling movie about a character defined by indecision, hamlet notwithstanding.",
+                0.605984460847595
+            ],
+            [
+                "16_what's special about the film is how much we come to know frankie, perhaps more than he knows himself.",
+                0.653978881152371
+            ],
+            [
+                "21_beach rats could have explored that ethical quandary with more depth",
+                -0.5147065011237135
+            ],
+            [
+                "25_\"beach rats,\" a boldly irreconcilable drama, shows a character locating ugliness and horror within himself.",
+                0.6597226742974406
+            ],
+            [
+                "28_a film that has the precision of a great short story and the uneasiness of body horror.",
+                0.7424089925880695
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Eliza Hittman": {
+                "args": [
+                    [
+                        "7_[with] this second feature, writer-director eliza hittman comes across as a milder.",
+                        0.541130717639614
+                    ],
+                    [
+                        "9_ since hittman avoids such heavy-handedness throughout, the finale feels especially disappointing.",
+                        -0.7263903799845881
+                    ],
+                    [
+                        "22_riveting and deeply compelling with the one-two punch of dickinson's astonishing performance and hittman's direction.",
+                        0.8199686337212739
+                    ],
+                    [
+                        "23_despite [hittman's] evocative styling and dickinson's surprisingly assured lead performance, her sophomore feature remains confined in monotonous,",
+                        0.74975853174997
+                    ],
+                    [
+                        "24_with just two films, eliza hittman has established herself as one of the premier chroniclers of wayward youth.",
+                        0.646484307303862
+                    ],
+                    [
+                        "29_this is achingly delicate psychological territory, heavily dependent on just the right actor to make flesh its scripted subtleties - and hittman has found him in dickinson ...",
+                        0.6841445739754473
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_harris dickinson, the spellbinding british newcomer who plays frankie, rewards the director's scrutiny with piercing emotional depth and a startling lack of self-consciousness.",
+                0.6069284790352619
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Madeline Weinstein": {
+                "args": []
+            },
+            "Harris Dickinson": {
+                "args": [
+                    [
+                        "2_hittman paints with a delicate brush, and gets a strong performance out of newcomer dickinson, who gives frankie a soft soul beneath his chiseled physique.",
+                        0.6962627977624979
+                    ],
+                    [
+                        "10_british actor harris dickinson gives a smashing breakthrough performance in beach rats.",
+                        0.6419155274696302
+                    ],
+                    [
+                        "12_the saving grace-the thing that keeps you interested and caring-is dickinson, the newcomer with phenomenal potential, so honest and self-assured",
+                        0.689059651685435
+                    ],
+                    [
+                        "17_harris dickinson, the spellbinding british newcomer who plays frankie, rewards the director's scrutiny with piercing emotional depth and a startling lack of self-consciousness.",
+                        0.6069284790352619
+                    ],
+                    [
+                        "18_the back-and-forths of the character's decisions feel real, and mr. dickinson's laconic blankness (you would never guess the actor was british) helps to give the character's existential crisis a charge.",
+                        0.6673989228817514
+                    ],
+                    [
+                        "22_riveting and deeply compelling with the one-two punch of dickinson's astonishing performance and hittman's direction.",
+                        0.8199686337212739
+                    ],
+                    [
+                        "23_despite [hittman's] evocative styling and dickinson's surprisingly assured lead performance, her sophomore feature remains confined in monotonous,",
+                        0.74975853174997
+                    ],
+                    [
+                        "29_this is achingly delicate psychological territory, heavily dependent on just the right actor to make flesh its scripted subtleties - and hittman has found him in dickinson ...",
+                        0.6841445739754473
+                    ]
+                ]
+            },
+            "Erik Potempa": {
+                "args": []
+            },
+            "Kate Hodge": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_dickinson is perfectly cast and the film's mix of skill gives it a gritty realism that heightens the emotional pitch.",
+                0.7828855576923542
+            ],
+            [
+                "26_a drama with a strong lead performance and even stronger sense of place.",
+                0.8409446487565908
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Eliza Hittman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_this very thinly sliced character study of beautiful if benighted adolescence is more a pre-coming-of-age tale, one that takes us close to, ",
+                0.6695375209845026
+            ],
+            [
+                "7_[with] this second feature, writer-director eliza hittman comes across as a milder.",
+                0.541130717639614
+            ],
+            [
+                "15_it's hard to make a compelling movie about a character defined by indecision, hamlet notwithstanding.",
+                0.605984460847595
+            ],
+            [
+                "18_the back-and-forths of the character's decisions feel real, and mr. dickinson's laconic blankness (you would never guess the actor was british) helps to give the character's existential crisis a charge.",
+                0.6673989228817514
+            ],
+            [
+                "25_\"beach rats,\" a boldly irreconcilable drama, shows a character locating ugliness and horror within himself.",
+                0.6597226742974406
+            ]
+        ]
+    }
+}

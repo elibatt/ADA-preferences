@@ -1,0 +1,216 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film stubbornly refuses to connect with its deeper themes because of a vague, self-consciously arty structure and a pace so deliberate it approaches a stand-still.",
+                -0.6122426421670006
+            ],
+            [
+                "3_a ghost story\" is an oddly haunting, wholly original trip.",
+                0.762672735616528
+            ],
+            [
+                "4_you may not understand \"a ghost story.\"",
+                0.5902342879285316
+            ],
+            [
+                "5_a ghost story is the most unusual and loneliest phantasm saga ever to give you the shivers.",
+                0.7776595170484724
+            ],
+            [
+                "7_as meditations on the banality and helplessness of grieving go, the movie makes a powerful statement.",
+                0.5674145030896899
+            ],
+            [
+                "9_a wondrous, delicate shell of a movie",
+                0.5781404720970557
+            ],
+            [
+                "11_lowery pushes the tropes of the haunted house film past the breaking point, creating something that is entirely original - and oddly, if not profoundly unsettling.",
+                0.5912116434357678
+            ],
+            [
+                "12_a ghost story may be thinly plotted, ",
+                0.511688408174633
+            ],
+            [
+                "13_this film squanders nothing and rushes very little.",
+                -0.6850967450786053
+            ],
+            [
+                "15_even at its most self-conscious, there's something lovable about a ghost story.",
+                0.6505242958648333
+            ],
+            [
+                "21_there are mysteries here, not the least of them being how such a modest little movie can evoke such profound feelings.",
+                -0.6500195551004011
+            ],
+            [
+                "22_a ghost story isn't coherent or profound, ",
+                -0.6488597161972303
+            ],
+            [
+                "24_this film is just weak.",
+                -0.6161315688738895
+            ],
+            [
+                "25_in its brief sojourn on the screen, a ghost story moves through centuries of geologic time and into the deepest recesses of the human heart.",
+                0.7230172996947316
+            ],
+            [
+                "26_just when you think you've cracked the film's circumscribed logic, it opens up and goes wild in ways at once too wondrous and too preposterous to spoil.",
+                0.5730907912963705
+            ],
+            [
+                "28_beautiful and deeply affecting, a ghost story is easily the greatest movie ever made with an oscar winner standing around in a white bedsheet for most of its 87-minute runtime.",
+                0.8317229788665395
+            ],
+            [
+                "32_the collision of aesthetics -- a cartoonish, halloween-costume-grade specter haunting a quiet indie -- is the point where a ghost story asks the most of us.",
+                0.6898858118637529
+            ],
+            [
+                "33_a film that i can guarantee you people will revisit and discuss for years to come.",
+                0.6160466242183577
+            ],
+            [
+                "34_i found a ghost story mostly alienating, at times even annoying.",
+                -0.5982002657343393
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Lowery": {
+                "args": [
+                    [
+                        "20_alternately child-like and artful, a ghost story holds you in thrall - get into lowery's rhythms and the movie will touch you deeply.",
+                        0.7770529211844477
+                    ],
+                    [
+                        "27_the questions that lowery raises hang in the air, like motes of dust, long after the movie is done.",
+                        0.5532766198169982
+                    ],
+                    [
+                        "37_while lowery's actual method of delivery may not be scary, it's sure to haunt those who open themselves up to the experience.",
+                        0.7096528270631133
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rachal Ballard": {
+                "args": []
+            },
+            "Kenneisha Thompson": {
+                "args": []
+            },
+            "Grover Coulson": {
+                "args": []
+            },
+            "Sara Tomerlin": {
+                "args": []
+            },
+            "Richard Krause": {
+                "args": []
+            },
+            "Carlos Bermudez": {
+                "args": []
+            },
+            "Margot Tomerlin": {
+                "args": []
+            },
+            "Dagger Salazar": {
+                "args": []
+            },
+            "Jonny Mars": {
+                "args": []
+            },
+            "Afomia Hailemeskel": {
+                "args": []
+            },
+            "McColm Sephas, Jr.": {
+                "args": []
+            },
+            "Daniel Escudero": {
+                "args": []
+            },
+            "Bryan Pitts": {
+                "args": []
+            },
+            "Savanna Walsh": {
+                "args": []
+            },
+            "Augustine Frizzell": {
+                "args": []
+            },
+            "Jared Kopf": {
+                "args": []
+            },
+            "Brea Grant": {
+                "args": []
+            },
+            "Sylvie Tomerlin": {
+                "args": []
+            },
+            "Will Oldham": {
+                "args": []
+            },
+            "Sonia Acevedo": {
+                "args": []
+            },
+            "Rooney Mara": {
+                "args": []
+            },
+            "Barlow Jacobs": {
+                "args": []
+            },
+            "Liz Cardenas Franke": {
+                "args": []
+            },
+            "Casey Affleck": {
+                "args": [
+                    [
+                        "20_the minimalist performances of affleck and mara are mesmerizing",
+                        0.7210655943484966
+                    ],
+                    [
+                        "35_has casey affleck found a new way to make inexpressiveness expressive, to scrawl emotion across a blank slate?",
+                        0.5678011349660914
+                    ]
+                ]
+            },
+            "Kimberly Fiddes": {
+                "args": []
+            },
+            "Rachel Ballard": {
+                "args": []
+            },
+            "Kesha Sebert": {
+                "args": []
+            },
+            "Yasmina Gutierrez": {
+                "args": []
+            },
+            "Rob Zabrecky": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "David Lowery": {
+                "args": []
+            }
+        }
+    }
+}

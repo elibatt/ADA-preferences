@@ -1,0 +1,172 @@
+{
+    "acting": {
+        "args": [
+            [
+                "9_having amassed such a stellar cast, might it not have behooved its director and co-writer bill holderman to concoct a movie halfway worthy of them?",
+                -0.6382731713616809
+            ],
+            [
+                "20_it generally strives to maintain the dignity of its seasoned cast while making hay off of their collective chemistry.",
+                0.5215108416012582
+            ],
+            [
+                "30_the cast is just as game for the broad humor as it is for the emotional beats",
+                0.7204601848864242
+            ]
+        ],
+        "entities": {
+            "Mary Steenburgen": {
+                "args": [
+                    [
+                        "22_fonda and steenburgen never transcend the plastic sitcom shallowness of their roles, sad to say, and it's distressing to think that many younger viewers will be coming to all four actresses for the first time here.",
+                        0.6414321901794887
+                    ]
+                ]
+            },
+            "Ed Begley Jr.": {
+                "args": []
+            },
+            "Richard Dreyfuss": {
+                "args": []
+            },
+            "Jane Fonda": {
+                "args": [
+                    [
+                        "17_keaton and fonda, icons of american cinema, deserve much better material.",
+                        0.7192582245965667
+                    ]
+                ]
+            },
+            "Diane Keaton": {
+                "args": [
+                    [
+                        "3_ you can't argue with the fact that diane keaton, jane fonda, candice bergen and mary steenburgen have real marquee value.",
+                        -0.7512981904581083
+                    ],
+                    [
+                        "21_ keaton and company give it some oomph.",
+                        0.5289056671164793
+                    ],
+                    [
+                        "25_these women - ms. fonda, ms. keaton, ms. steenburgen and ms. bergen, that is - have nothing to prove.",
+                        0.5049940621333686
+                    ]
+                ]
+            },
+            "Andy Garcia": {
+                "args": []
+            },
+            "Craig T. Nelson": {
+                "args": []
+            },
+            "Alicia Silverstone": {
+                "args": []
+            },
+            "Candice Bergen": {
+                "args": []
+            },
+            "Don Johnson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_book club is an airy dinner conversation set before a spectacular, disposable backdrop, a sure-fire bet to be the breeziest two hours you spend in the theater this summer.",
+                0.6671231737493133
+            ],
+            [
+                "1_ it follows the map of every romcom before it, holderman's film still offers the too-rare chance to marvel at just how good these women are at their craft, how easily they inhabit the bodies and lives of other people.",
+                0.6999012181187007
+            ],
+            [
+                "2_in an industry that defines \"mature audiences\" as anyone old enough to vote, a movie centered entirely on women over 65 - a sex comedy, no less - feels like some kind of small hollywood miracle.",
+                0.5274872487462344
+            ],
+            [
+                "3_you can like book club or hate it, ",
+                -0.7308060203383205
+            ],
+            [
+                "4_everyone who goes to this movie will leave satisfied, mostly just because it exists.",
+                0.5302507399965473
+            ],
+            [
+                "5_it's sometimes hard to keep awake in book club.",
+                -0.5196412723951831
+            ],
+            [
+                "9_having amassed such a stellar cast, might it not have behooved its director and co-writer bill holderman to concoct a movie halfway worthy of them?",
+                -0.6382731713616809
+            ],
+            [
+                "23_\"book club\" isn't a serious movie and wasn't meant to be -",
+                -0.8295288579957735
+            ],
+            [
+                "24_there may be bigger wastes of talent than that gathered for \"book club,\" ",
+                -0.5268312423758961
+            ],
+            [
+                "25_each one brings enough credibility and charisma to \"book club\" to render its weaknesses largely irrelevant.",
+                -0.5301077680484021
+            ],
+            [
+                "27_\"book club\" is very silly and feather-light, ",
+                -0.5381675125381409
+            ],
+            [
+                "28_book club has a script that's often so heavy on the corn...",
+                -0.6074619454562492
+            ],
+            [
+                "31_as far as it goes, book club is a mostly painless ride, with a few laugh-out-loud moments, ",
+                0.6439297960497578
+            ],
+            [
+                "32_the kind of comfort-food movie that's been pre-masticated by committee to the consistency of pudding (with even less flavor).",
+                0.5292372554273933
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_having amassed such a stellar cast, might it not have behooved its director and co-writer bill holderman to concoct a movie halfway worthy of them?",
+                -0.6382731713616809
+            ]
+        ],
+        "entities": {
+            "Erin Simms": {
+                "args": [
+                    [
+                        "19_there's a maturity and warmth to director bill holderman and erin simms's script, which respects these ladies and understands that they've got a wealth of life experience that doesn't exactly fit into one rom-com.",
+                        0.6487751067927764
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_having amassed such a stellar cast, might it not have behooved its director and co-writer bill holderman to concoct a movie halfway worthy of them?",
+                -0.6382731713616809
+            ],
+            [
+                "19_there's a maturity and warmth to director bill holderman and erin simms's script, which respects these ladies and understands that they've got a wealth of life experience that doesn't exactly fit into one rom-com.",
+                0.6487751067927764
+            ],
+            [
+                "28_book club has a script that's often so heavy on the corn...",
+                -0.6074619454562492
+            ]
+        ],
+        "entities": {}
+    }
+}

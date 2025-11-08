@@ -1,0 +1,192 @@
+{
+    "writer": {
+        "entities": {
+            "André Téchiné": {
+                "args": []
+            },
+            "Céline Sciamma": {
+                "args": [
+                    [
+                        "1_ téchiné and sciamma have tapped into something genuine: the deep confusion at the dawn of sexuality.",
+                        0.7240766192666686
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "1_the screenplay is marred by clumsy foreshadowing and other contrivances, ",
+                -0.6066980167085949
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "André Téchiné": {
+                "args": [
+                    [
+                        "1_ téchiné and sciamma have tapped into something genuine: the deep confusion at the dawn of sexuality.",
+                        0.7240766192666686
+                    ],
+                    [
+                        "2_director téchiné, 73 years old, is wise beyond his years.",
+                        0.5570235605187173
+                    ],
+                    [
+                        "4_few filmmakers have portrayed the messy reality of human desire and sexuality as consistently, as elegantly, and as powerfully as andré téchiné.",
+                        0.6265977264441203
+                    ],
+                    [
+                        "10_a touching drama about raging hormones, bullying and sexual awakening - and the strongest film in many years by the post-new wave french director andré téchiné.",
+                        0.8421387523122875
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_age in being 17 comes in awkward bursts, and yet the film moves sublimely.",
+                0.5346793499358264
+            ],
+            [
+                "3_what elevates the film is not just its beautiful setting in the french pyrenees ",
+                0.7173673879546179
+            ],
+            [
+                "5_, it reflects well what it's like being 17.",
+                0.5818912669268292
+            ],
+            [
+                "7_if the film has a governing principle, it's that love doesn't take root in a vacuum, and its path is never perfectly straight.",
+                0.5979526668435675
+            ],
+            [
+                "8_ being 70, shows a sharp eye not just for how young people of today dress and accessorize, ",
+                0.5999711729424984
+            ],
+            [
+                "12_téchiné has made one of his simplest and most elemental films, which is both being 17's most arresting feature and its weakness.",
+                0.8368940057467312
+            ],
+            [
+                "14_calling to mind the sullen lovers of wong kar-wai's happy together, the young men of being 17 are more gestural than verbal.",
+                0.8226181404637424
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Edouard Lamoitier": {
+                "args": []
+            },
+            "André Téchiné": {
+                "args": [
+                    [
+                        "1_ téchiné and sciamma have tapped into something genuine: the deep confusion at the dawn of sexuality.",
+                        0.7240766192666686
+                    ],
+                    [
+                        "2_director téchiné, 73 years old, is wise beyond his years.",
+                        0.5570235605187173
+                    ],
+                    [
+                        "4_few filmmakers have portrayed the messy reality of human desire and sexuality as consistently, as elegantly, and as powerfully as andré téchiné.",
+                        0.6265977264441203
+                    ],
+                    [
+                        "10_a touching drama about raging hormones, bullying and sexual awakening - and the strongest film in many years by the post-new wave french director andré téchiné.",
+                        0.8421387523122875
+                    ]
+                ]
+            },
+            "Vanessa Duran": {
+                "args": []
+            },
+            "Céline Sciamma": {
+                "args": []
+            },
+            "Hubert Rollet": {
+                "args": []
+            },
+            "Morgane Sachot": {
+                "args": []
+            },
+            "Celia Paludetto": {
+                "args": []
+            },
+            "Sandrine Kiberlain": {
+                "args": []
+            },
+            "Sylvie Bachy": {
+                "args": []
+            },
+            "Remi Garcia": {
+                "args": []
+            },
+            "Corentin Fila": {
+                "args": []
+            },
+            "Tanneguy Arnaud": {
+                "args": []
+            },
+            "Mama Prassinos": {
+                "args": []
+            },
+            "Christelle Ripa": {
+                "args": []
+            },
+            "Candice Rousseau": {
+                "args": []
+            },
+            "Jean Fornerod": {
+                "args": []
+            },
+            "Alexis Loret": {
+                "args": []
+            },
+            "Elian Bannoura": {
+                "args": []
+            },
+            "Gerard Labelle": {
+                "args": []
+            },
+            "Kacey Mottet Klein": {
+                "args": [
+                    [
+                        "11_fila and klein are equally good in roles that, while more predictable in outcome, benefit from small unexpected moments.",
+                        0.7089994941028335
+                    ]
+                ]
+            },
+            "Julien Pichon": {
+                "args": []
+            },
+            "François Gaillard": {
+                "args": []
+            },
+            "Maite Arraiza": {
+                "args": []
+            },
+            "Didier Hougarou": {
+                "args": []
+            },
+            "Nicole Ellkesir": {
+                "args": []
+            },
+            "Jean Corso": {
+                "args": []
+            },
+            "Tamara De Leener": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "writer": {
+        "entities": {
+            "Bob Barlen": {
+                "args": []
+            },
+            "Scott Bindley": {
+                "args": []
+            },
+            "Cal Brunker": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_the character design is ugly, and the story is tired, with corny song cues and easy stereotypes.",
+                -0.5407500953131238
+            ],
+            [
+                "5_there's not an appealing or memorable character in the mix.",
+                0.5241655584974569
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Katherine Heigl": {
+                "args": []
+            },
+            "Gabriel Iglesias": {
+                "args": []
+            },
+            "Peter Stormare": {
+                "args": []
+            },
+            "Will Arnett": {
+                "args": [
+                    [
+                        "9_once again arnett, heigl and company simply don't come off as dimensionally warm and engaging as required.",
+                        0.5013259326546877
+                    ]
+                ]
+            },
+            "Bobby Moynihan": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": []
+            },
+            "Robert Tinkler": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Jeff Dunham": {
+                "args": []
+            },
+            "Sebastian Maniscalco": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "11_this is the film's greatest strength.",
+                0.8493806625626014
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Cal Brunker": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

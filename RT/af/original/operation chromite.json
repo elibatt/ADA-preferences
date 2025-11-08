@@ -1,0 +1,67 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Beom-su Lee": {
+                "args": []
+            },
+            "Sean Dulake": {
+                "args": []
+            },
+            "Lee Jung-jae": {
+                "args": []
+            },
+            "Lee Bum-Soo": {
+                "args": []
+            },
+            "Dawson Dean": {
+                "args": []
+            },
+            "Justin Rupple": {
+                "args": []
+            },
+            "Liam Neeson": {
+                "args": [
+                    [
+                        "0_the wooden dialogue gives liam neeson little to do beyond bite on his corncob pipe and berate subordinates who dare question him.",
+                        -0.7094675610019061
+                    ]
+                ]
+            },
+            "Lee Bum Soo": {
+                "args": []
+            },
+            "Se-yun Jin": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John H. Lee": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Man-hee Lee": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_in the movie version, you can hear everything coming from miles away.",
+                0.6176083945042216
+            ]
+        ]
+    }
+}

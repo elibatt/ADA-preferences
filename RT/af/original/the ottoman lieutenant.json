@@ -1,0 +1,85 @@
+{
+    "writer": {
+        "args": [
+            [
+                "4_there isn't much of a script here.",
+                -0.7663057373076001
+            ]
+        ],
+        "entities": {
+            "Jeff Stockwell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the ottoman lieutenant\" is all over the map in terms of tone, genre and acting styles.",
+                -0.573345710688874
+            ],
+            [
+                "5_\"the ottoman lieutenant\" is an overwrought nurse romance merged with a history lesson, a combination that is hard to take as seriously as the film wants to be taken.",
+                -0.5365876516452323
+            ],
+            [
+                "7_there's sweep and gloss to \"the ottoman lieutenant,\" ",
+                0.5032316240363328
+            ],
+            [
+                "8_it isn't so much a war movie as a melodrama that uses violence as a convenient backdrop for romantic intrigue.",
+                -0.5814048681194685
+            ],
+            [
+                "10_- this movie's got everything except gravity or a sense of emotional coherence.",
+                -0.5690117902419798
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "0_\"the ottoman lieutenant\" is all over the map in terms of tone, genre and acting styles.",
+                -0.573345710688874
+            ]
+        ],
+        "entities": {
+            "Ben Kingsley": {
+                "args": []
+            },
+            "Hera Hilmar": {
+                "args": []
+            },
+            "Paul Barrett": {
+                "args": []
+            },
+            "Josh Hartnett": {
+                "args": []
+            },
+            "Michiel Huisman": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Joseph Ruben": {
+                "args": [
+                    [
+                        "6_joseph ruben's the ottoman lieutenant tries to snatch a love triangle from out beneath the armenian genocide ",
+                        -0.5780323817311942
+                    ],
+                    [
+                        "7_ this well-intentioned, sumptuously shot tale of love and war, directed by joseph ruben, lacks the emotional depth and romantic grandeur to fulfill its epic ambitions.",
+                        0.7188671197322827
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "6_the cast is uniformly magnificent, ",
+                0.8054783716925648
+            ],
+            [
+                "27_mood and atmosphere and interesting character acting are rarely handled as well as this.",
+                0.5996916692761225
+            ]
+        ],
+        "entities": {
+            "Nathaniel Augustson": {
+                "args": []
+            },
+            "Melanie Papalia": {
+                "args": []
+            },
+            "Jackamoe Buzzell": {
+                "args": []
+            },
+            "Buck Taylor": {
+                "args": []
+            },
+            "Gregory Cruz": {
+                "args": []
+            },
+            "Marin Ireland": {
+                "args": []
+            },
+            "William Sterchi": {
+                "args": []
+            },
+            "Alma Sisneros": {
+                "args": []
+            },
+            "Arielle Holmes": {
+                "args": []
+            },
+            "Margaret Bowman": {
+                "args": []
+            },
+            "Dale Dickey": {
+                "args": []
+            },
+            "Taylor Sheridan": {
+                "args": []
+            },
+            "Jim Burleson": {
+                "args": []
+            },
+            "Amber Midthunder": {
+                "args": []
+            },
+            "Joe Berryman": {
+                "args": []
+            },
+            "Ben Foster": {
+                "args": []
+            },
+            "Keith Meriweather": {
+                "args": []
+            },
+            "Kristin Berg": {
+                "args": []
+            },
+            "Debrianna Mansini": {
+                "args": []
+            },
+            "Kevin Rankin": {
+                "args": []
+            },
+            "Marie A.K. McMaster": {
+                "args": []
+            },
+            "Ivan Brutsche": {
+                "args": []
+            },
+            "JP Howard": {
+                "args": []
+            },
+            "Jeff Bridges": {
+                "args": [
+                    [
+                        "2_ bridges demonstrates yet again that he is one of the finest actors in america.",
+                        0.6121941172695782
+                    ],
+                    [
+                        "43_sheridan's script - filled with quotable zingers, telling character details, and topical anger - comes to vivid, exciting life with that cast, in particular bridges, who seems to have finally found another gruff, down-home type worthy of his talents.",
+                        0.7528325666504758
+                    ]
+                ]
+            },
+            "Chris Pine": {
+                "args": [
+                    [
+                        "1_this neo-western works splendidly as a self-contained tale of loyalty, loss and redemption, with polished turns from a smoldering chris pine and spunky ben foster.",
+                        0.7977797569652927
+                    ],
+                    [
+                        "6_ it's pine who steals the movie.",
+                        0.6000316061447262
+                    ]
+                ]
+            },
+            "Katy Mixon": {
+                "args": []
+            },
+            "Gil Birmingham": {
+                "args": []
+            },
+            "Kim Gleason": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Mackenzie": {
+                "args": [
+                    [
+                        "25_today, everyone is gray - or, in mackenzie's color scheme, faded blue and sad beige",
+                        -0.507617415622399
+                    ],
+                    [
+                        "30_you might have to go back to 1967's bonnie and clyde to find a film about bank robbers that feels as of its time as david mackenzie's hell or high water.",
+                        -0.6561868194039475
+                    ],
+                    [
+                        "37_director david mackenzie tells a sad story about desperate characters that is somehow as thrilling as it is heartbreaking.",
+                        0.5610775904447363
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_scenic, well-paced and rich in dialogue and character, the film is coen brothers for the squares, and maybe the best middle-of-the-seat drama of the summer.",
+                0.9142769717401577
+            ],
+            [
+                "7_hell or high water is at once a tale of desperation in hard times, and a keenly observed character study - or studies.",
+                0.6016848927724386
+            ],
+            [
+                "16_when the final showdown arrives, the men are redefined by their deeds and what began as a sharp genre piece deepens into a subtle character study.",
+                0.615505897903175
+            ],
+            [
+                "27_mood and atmosphere and interesting character acting are rarely handled as well as this.",
+                0.5996916692761225
+            ],
+            [
+                "32_texas is as much a riveting character in [this] fascinating crime drama as the brothers turned bank robbers at its heart or the laconic lawman who coolly follows them across the sun-hardened landscape like a hunter on the trail of his next kill.",
+                0.6827231123501016
+            ],
+            [
+                "43_sheridan's script - filled with quotable zingers, telling character details, and topical anger - comes to vivid, exciting life with that cast, in particular bridges, who seems to have finally found another gruff, down-home type worthy of his talents.",
+                0.7528325666504758
+            ]
+        ],
+        "entities": {
+            "Taylor Sheridan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_just as it taps into a dying corner of american society, hell or high water resurrects the power of western mayhem done right.",
+                0.7688646830937937
+            ],
+            [
+                "2_all of the performers in this film, right down to the bit players, are quite good, ",
+                0.5755636340093274
+            ],
+            [
+                "4_hell or high water isn't just a great time at the movies, it's one of the year's best pictures.",
+                0.8785599776984747
+            ],
+            [
+                "5_scenic, well-paced and rich in dialogue and character, the film is coen brothers for the squares, and maybe the best middle-of-the-seat drama of the summer.",
+                0.9142769717401577
+            ],
+            [
+                "7_hell or high water is at once a tale of desperation in hard times, and a keenly observed character study - or studies.",
+                0.6016848927724386
+            ],
+            [
+                "8_a film with the sort of sweeping grandeur that today's filmmakers rarely aspire to, let alone fulfill.",
+                0.6189883974348515
+            ],
+            [
+                "9_hell or high water\" takes you places that you ",
+                0.7040700662216709
+            ],
+            [
+                "10_hell or high water is set up like a cops and robbers drama, ",
+                0.5684626714169311
+            ],
+            [
+                "12_\"hell or high water\" is a story about men, ",
+                0.6109276016045568
+            ],
+            [
+                "12_ the movie is really about a mindset, a way of life, the strength and resolution required to make a living in a world that doesn't care about you.",
+                0.7660074803753921
+            ],
+            [
+                "14_hell or high water is a genre film that transcends genre, an iconic american tale that is nonetheless firmly grounded in both place and time.",
+                0.8658859869264678
+            ],
+            [
+                "17_it's frustrating that hell or high water contains so many good things that just don't coalesce into a fully satisfying moviegoing experience.",
+                -0.5564241065543877
+            ],
+            [
+                "18_if there's such a thing as an easygoing thriller, then \"hell or high water\" is it.",
+                -0.6148992414941865
+            ],
+            [
+                "19_despite the weighty issues at play, there's much about the movie to simply enjoy -- the camaraderie of the brothers and the lawmen,",
+                0.617159997232099
+            ],
+            [
+                "23_\"hell or high water\" overcomes its vapid political leanings with loads of west texas atmosphere, smart dialogue and acutely observed relationships.",
+                0.6471162894946668
+            ],
+            [
+                "24_you could freeze nearly any frame of hell or high water and you'd be looking at a work of art.",
+                0.6330124753460751
+            ],
+            [
+                "26_in a word, \"hell or high water\" is terrific.",
+                0.6073932059171337
+            ],
+            [
+                "27_it's not every day that we see a movie that's fresh, exciting and dangerous, slapping you from explosive laughter to stunned attention.",
+                0.7082020900611873
+            ],
+            [
+                "31_hell or high water is a rare humanist western: finality is the true villain.",
+                0.8077570823484176
+            ],
+            [
+                "34_\"hell or high water\" has one foot in pulp conventions, and the other in some stimulating, morally tricky contemporary answers to those conventions.",
+                0.6266682347859879
+            ],
+            [
+                "34_what the movie has, above all, is a dramatic line, clean and straight.",
+                0.6284768118814646
+            ],
+            [
+                "36_\"hell or high water\" is a gripping heist drama keenly attuned to the outsider politics of our times.",
+                0.7250593315622293
+            ],
+            [
+                "38_let's make it easy: if you like sitting in a dark room looking at pictures that move, you should see \"hell or high water.\"",
+                0.6425451657145046
+            ],
+            [
+                "40_hell or high water's deliberate pacing gives it the feel of a heist story with its feet stuck in mud - and that's a good thing.",
+                0.6291277200231566
+            ],
+            [
+                "42_hell or high water plays out in unexpected ways, culminating in a tense final showdown that's somehow simultaneously an epilogue, the story having already concluded.",
+                0.6669852653870312
+            ],
+            [
+                "44_\"hell or high water\" is a thrillingly good movie - a crackerjack drama of crime, fear, and brotherly love set in a sun-roasted, deceptively sleepy west texas that feels completely exotic for being so authentic.",
+                0.7111391897034808
+            ]
+        ]
+    }
+}

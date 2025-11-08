@@ -1,0 +1,54 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"dark money\" exposes the dangers of unbridled, anonymous political spending so expertly that it will make you fume with anger, practically quake with distress.",
+                0.6825798735011744
+            ],
+            [
+                "2_\"dark money\" takes a detailed look at an unexpectedly complex situation that is at the heart of political action today.",
+                0.6326677868135596
+            ],
+            [
+                "7_ let's just say you should make sure you are really in the mood for a pbs doc before you check out dark money.",
+                -0.5123717065259077
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jay Arthur Sterrenberg": {
+                "args": []
+            },
+            "Kimberly Reed": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kimberly Reed": {
+                "args": [
+                    [
+                        "3_activist in tone, and paced like a thriller, reed's movie painstakingly details how an election can be brusquely seized and swayed by unseen forces.",
+                        0.5800767125068236
+                    ],
+                    [
+                        "8_there's not a dull or dry moment in reed's briskly paced film about the secret assault on the american electoral and judicial process by corporations whose agenda is nothing less than the dismantling of government itself.",
+                        0.5645221025962521
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

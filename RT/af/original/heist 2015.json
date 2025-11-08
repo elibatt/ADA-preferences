@@ -1,0 +1,201 @@
+{
+    "writer": {
+        "args": [
+            [
+                "6_the screenplay is so clunky, not a single cast member manages to sound believable.",
+                -0.7245574857272205
+            ]
+        ],
+        "entities": {
+            "Max Adams": {
+                "args": []
+            },
+            "Stephen Cyrus Sepher": {
+                "args": []
+            },
+            "Max S. Adams": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the heist in heist is pretty pedestrian, and the film turns into die hard-on-a-bus with a couple of so-so twists and serviceable spasms of action.",
+                -0.5475921586190936
+            ],
+            [
+                "4_whatever its flaws, \"heist\" is to be commended for repeatedly finding ways to distract us from them.",
+                0.6677511478798995
+            ],
+            [
+                "5_caught between genre potboiler and would-be human drama, \"heist\" doesn't have a mark to hit.",
+                -0.574930492176948
+            ],
+            [
+                "6_heist goes from lousy to even worse.",
+                -0.8693441708343489
+            ],
+            [
+                "8_the movie as a whole takes itself way too seriously, missing either the exaggerated pulpiness or kicky looseness of a good b-crime saga.",
+                -0.7296059470246474
+            ],
+            [
+                "10_ you probably haven't had this much fun with a modern b movie in a while.",
+                0.7115416379785909
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "6_the screenplay is so clunky, not a single cast member manages to sound believable.",
+                -0.7245574857272205
+            ],
+            [
+                "7_ here's where good acting builds empathy and defeats cynicism.",
+                -0.5252764949728816
+            ]
+        ],
+        "entities": {
+            "Michael Brannon": {
+                "args": []
+            },
+            "Mark-Paul Gosselaar": {
+                "args": []
+            },
+            "Ritchie Montgomery": {
+                "args": []
+            },
+            "Kate Bosworth": {
+                "args": [
+                    [
+                        "6_familiar, likable actors from kate bosworth to gina carano to morris chestnut are buried under an avalanche of awful.",
+                        -0.7317376138680205
+                    ]
+                ]
+            },
+            "Stephen Cyrus Sepher": {
+                "args": []
+            },
+            "Tyson Sullivan": {
+                "args": []
+            },
+            "Elizabeth Windley": {
+                "args": []
+            },
+            "Robert Aberdeen": {
+                "args": []
+            },
+            "Ron Goleman": {
+                "args": []
+            },
+            "Christopher Rob Bowen": {
+                "args": []
+            },
+            "Alexis Boozer": {
+                "args": []
+            },
+            "Stephanie Marrero": {
+                "args": []
+            },
+            "Gina Carano": {
+                "args": []
+            },
+            "Derek DuChesne": {
+                "args": []
+            },
+            "Renell Gibbs": {
+                "args": []
+            },
+            "Robert De Niro": {
+                "args": []
+            },
+            "Alexis Sterling": {
+                "args": []
+            },
+            "Jeffrey Dean Morgan": {
+                "args": [
+                    [
+                        "3_as vapidly generic as its title, british director scott mann's \"heist\" is a by-the-numbers crime thriller that squanders a decent cast, including robert de niro, jeffrey dean morgan and dave bautista.",
+                        -0.5860999864951812
+                    ]
+                ]
+            },
+            "Dave Bautista": {
+                "args": []
+            },
+            "Morris Chestnut": {
+                "args": []
+            },
+            "Colin Lawless": {
+                "args": []
+            },
+            "Courtney Turk": {
+                "args": []
+            },
+            "Stan Fitch": {
+                "args": []
+            },
+            "Scott": {
+                "args": []
+            },
+            "Derrek Du Chesne": {
+                "args": []
+            },
+            "Ashley Valenzuela": {
+                "args": []
+            },
+            "Han Soto": {
+                "args": []
+            },
+            "Jerry Hoven": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            },
+            "D.B. Sweeney": {
+                "args": []
+            },
+            "Christopher Bowen": {
+                "args": []
+            },
+            "Summer Altice": {
+                "args": []
+            },
+            "Rachel Kerbs": {
+                "args": []
+            },
+            "Lance E. Nichols": {
+                "args": []
+            },
+            "Alyssa Julya Smith": {
+                "args": []
+            },
+            "Rosie Fellner": {
+                "args": []
+            },
+            "Hwan Tran": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Scott Mann": {
+                "args": [
+                    [
+                        "3_as vapidly generic as its title, british director scott mann's \"heist\" is a by-the-numbers crime thriller that squanders a decent cast, including robert de niro, jeffrey dean morgan and dave bautista.",
+                        -0.5860999864951812
+                    ]
+                ]
+            }
+        }
+    }
+}

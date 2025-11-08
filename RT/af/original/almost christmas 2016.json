@@ -1,0 +1,234 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie takes a few calamitous turns at its climax, dangerously approaching broad slapstick and villainizing a character we've come to love.",
+                -0.5037368206690696
+            ],
+            [
+                "1_the committed performances by the cast of talented actors are what elevates almost christmas above complaints about its familiarity and melodrama.",
+                0.7986784817280963
+            ],
+            [
+                "2_- enough decent material that the film remains relatively lively.",
+                0.6092182386139521
+            ],
+            [
+                "6_\"almost christmas\" is an often disarmingly entertaining picture, in spite of its being a not particularly well-",
+                0.7413101911783544
+            ],
+            [
+                "7_almost christmas plays both sides of the comedy-drama equation broadly, which serves one at the expense of the other.",
+                0.6714033178400065
+            ],
+            [
+                "8_the film's energy can be relentless, ",
+                -0.5054888625788877
+            ],
+            [
+                "12_even with the revolving door of characters and plot developments, there are some laughs in \"almost christmas.\"",
+                -0.6163341555069404
+            ],
+            [
+                "14_ almost christmas probably won't be your next holiday tradition.",
+                -0.5873122516195737
+            ],
+            [
+                "18_like a self-help book for dysfunctional families facing the holidays together, \"almost christmas\" is a collection of sketches - not really a story - that explore awkward pre-yuletide social situations.",
+                0.535813181303867
+            ],
+            [
+                "19_if you love christmas movies for all the reasons that make them christmas movies, almost christmas is a christmas movie for you.",
+                0.6393203594570379
+            ],
+            [
+                "21_a bad christmas movie can give off all the warmth of a televised yule log, ",
+                -0.7562053448148057
+            ],
+            [
+                "22_talbert ... follows formula for the overcrowded and overplotted noel-season movie, ladling out too-generous portions of churchiness, multigenerational dance-off, and mars vs. venus sermonizing.",
+                -0.6556791925145787
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "David E. Talbert": {
+                "args": [
+                    [
+                        "10_give [talbert] a potful of holiday movie clichés and he's good to go.",
+                        0.597816236731816
+                    ],
+                    [
+                        "21_ david e. talbert, the writer-director of \"almost christmas,\" has assembled a gifted cast and given them a chance to stretch out and play with their roles.",
+                        0.7595210111346298
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "David E. Talbert": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_the movie takes a few calamitous turns at its climax, dangerously approaching broad slapstick and villainizing a character we've come to love.",
+                -0.5037368206690696
+            ],
+            [
+                "21_ david e. talbert, the writer-director of \"almost christmas,\" has assembled a gifted cast and given them a chance to stretch out and play with their roles.",
+                0.7595210111346298
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Monica Brown": {
+                "args": []
+            },
+            "Gladys Knight": {
+                "args": []
+            },
+            "Danny Glover": {
+                "args": []
+            },
+            "Keri Hilson": {
+                "args": []
+            },
+            "Donnie Simpson": {
+                "args": []
+            },
+            "Ric Reitz": {
+                "args": []
+            },
+            "Chloe Spencer": {
+                "args": []
+            },
+            "DC Young Fly": {
+                "args": [
+                    [
+                        "4_on a few, all-too-rare occasions, comedic sparks fly.",
+                        -0.5043505182227402
+                    ]
+                ]
+            },
+            "Nadej K. Bailey": {
+                "args": []
+            },
+            "Nicole Ari Parker": {
+                "args": []
+            },
+            "Johnny Land": {
+                "args": []
+            },
+            "Keon Mitchell": {
+                "args": []
+            },
+            "Stephen A. Smith": {
+                "args": []
+            },
+            "John Michael Higgins": {
+                "args": []
+            },
+            "Gabrielle Union": {
+                "args": []
+            },
+            "Tara Jones": {
+                "args": []
+            },
+            "Ravi Naidu": {
+                "args": []
+            },
+            "JB Smoove": {
+                "args": []
+            },
+            "David E. Talbert": {
+                "args": []
+            },
+            "A. Sabrena Farmer": {
+                "args": []
+            },
+            "Kimberly Elise": {
+                "args": []
+            },
+            "Marley Taylor": {
+                "args": []
+            },
+            "Alkoya Brunson": {
+                "args": []
+            },
+            "Rachel Kylian": {
+                "args": []
+            },
+            "Karl Bynes": {
+                "args": []
+            },
+            "Mo'Nique": {
+                "args": []
+            },
+            "Teresa Sykes": {
+                "args": []
+            },
+            "Tara Batesole": {
+                "args": []
+            },
+            "Jessie T. Usher": {
+                "args": []
+            },
+            "Gregory Alan Williams": {
+                "args": []
+            },
+            "Omar Epps": {
+                "args": [
+                    [
+                        "2_almost christmas goes light enough on the cliché and gives the stacked cast - which also includes j.b. smoove, gabrielle union, omar epps and romany malco",
+                        0.5560966060935079
+                    ]
+                ]
+            },
+            "Elias Talbert": {
+                "args": [
+                    [
+                        "10_give [talbert] a potful of holiday movie clichés and he's good to go.",
+                        0.597816236731816
+                    ],
+                    [
+                        "21_ david e. talbert, the writer-director of \"almost christmas,\" has assembled a gifted cast and given them a chance to stretch out and play with their roles.",
+                        0.7595210111346298
+                    ]
+                ]
+            },
+            "Lyn Sisson-Talbert": {
+                "args": []
+            },
+            "Jeff Rose": {
+                "args": []
+            },
+            "Romany Malco": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_the committed performances by the cast of talented actors are what elevates almost christmas above complaints about its familiarity and melodrama.",
+                0.7986784817280963
+            ],
+            [
+                "3_ the cast finds some places to open up the material.",
+                0.5299667338539678
+            ],
+            [
+                "20_the cast is first-rate, and deserves far better material.",
+                0.5135358830344082
+            ]
+        ]
+    }
+}

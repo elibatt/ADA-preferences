@@ -1,0 +1,80 @@
+{
+    "acting": {
+        "entities": {
+            "Dominic Rains": {
+                "args": []
+            },
+            "Alex Neustaedter": {
+                "args": []
+            },
+            "Becky G": {
+                "args": []
+            },
+            "Patricia De Leon": {
+                "args": []
+            },
+            "Alex MacNicoll": {
+                "args": []
+            },
+            "Thomas Jane": {
+                "args": []
+            },
+            "Dorian Kingi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Oliver Daly": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_after 2016's monster trucks laid a giant goose egg at the box office, what made the folks at global road think this similarly themed shaggy mechanical pal tale would fare any better?",
+                -0.5757466362573613
+            ],
+            [
+                "1_it's utterly forgettable.",
+                -0.624009602794499
+            ],
+            [
+                "2_it's a boy and his dog story with elements of \"pretty in pink,\" \"rad\" and \"the wraith,\" and it's those references that kinda make this movie work.",
+                0.6029364057383952
+            ],
+            [
+                "3_a.x.l. feels in desperate need of repairs.",
+                -0.7901882095767128
+            ],
+            [
+                "4_meanwhile, the scientists who lost a-x-l spend half the movie watching these events unfold on a computer screen, doing not a danged thing because they want to see how it all pans out.",
+                -0.7314524057866229
+            ],
+            [
+                "4_they are, it must be said, lousy scientists.",
+                -0.6602278915086846
+            ],
+            [
+                "5_what's missing is any genuine personality from the robot (or the human characters, for that matter).",
+                0.5058400631502017
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Oliver Daly": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

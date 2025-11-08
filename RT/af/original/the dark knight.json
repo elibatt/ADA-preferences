@@ -1,0 +1,626 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Christopher Nolan": {
+                "args": []
+            },
+            "Jonathan Nolan": {
+                "args": [
+                    [
+                        "3_christopher nolan is much, much smarter than your average filmmaker.",
+                        0.6775949175846082
+                    ],
+                    [
+                        "5_ nolan has finally topped tim burton's two twisted spectaculars.",
+                        0.6125512136498092
+                    ],
+                    [
+                        "6_christopher nolan's latest exploration of the batman mythology steeps its muddled plot in so much murk that the joker's maniacal nihilism comes to seem like a recurrent grace note.",
+                        -0.5811375788524878
+                    ],
+                    [
+                        "20_christopher nolan's second batman adventure is the rare blockbuster that left me engaged and ",
+                        0.7036905287040405
+                    ],
+                    [
+                        "24_ with ledger's last performance director nolan was blessed with the gift of light.",
+                        0.6998426581798912
+                    ],
+                    [
+                        "28_christopher nolan wanted to make an action movie that was different from other action movies -- darker, more twisted, more despairing, more bleak -- and he has mostly succeeded in this latest batman installment.",
+                        0.5352659293205688
+                    ],
+                    [
+                        "32_to see it is to understand that nolan and his co-writer brother jonathan saw a chance to go deeper into familiar characters and mythology, a chance to meditate on darker-than-usual themes that have implications for the way we live now.",
+                        0.8344926384307056
+                    ],
+                    [
+                        "34_i previously have had my own auteurist doubts about mr. nolan's work, ",
+                        0.5258832641985274
+                    ],
+                    [
+                        "34_ after the dark knight, i may have to rethink my past reservations about mr. nolan's place in the 21st-century cinema.",
+                        0.679365950802037
+                    ],
+                    [
+                        "35_but i should add that nolan also delivers the kick-ass goods,",
+                        0.709961380412692
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the dark knight is probably the smartest and most stylish action movie since the \"the matrix.",
+                0.5940663538171853
+            ],
+            [
+                "2_the dark knight is a film that's fantastic on the action front, seeds its acrobatics in its own reality, and always feels relevant even when its ideas are drowned out by clatter.",
+                0.7653232266957224
+            ],
+            [
+                "4_the symbiosis of good and evil is the film's philosophical core, and images of duality and cloaked identity are strewn through it like shards from a fun house mirror.",
+                0.8028317386804524
+            ],
+            [
+                "7_the film is so relentlessly bleak that, paradoxically, its blackness is not given its full due.",
+                -0.7420702847091374
+            ],
+            [
+                "7_but this comic-book movie is more disturbing, and has more freakish power,",
+                0.6337822827309384
+            ],
+            [
+                "8_watching the dark knight is like gazing into a mirror on a waning moon night: chilling and mesmerizing.",
+                0.6953832353040397
+            ],
+            [
+                "9_despite the tensions between its form and its function, the dark knight succeeds far more than it fails,",
+                -0.5732688261819837
+            ],
+            [
+                "11_pitched at the divide between art and industry, poetry and entertainment, the dark knight goes darker and deeper than any hollywood movie of its comic-book kind.",
+                0.6860850280298738
+            ],
+            [
+                "12_an explosively provocative [film]. ...",
+                0.5667380614897993
+            ],
+            [
+                "12_exhilaratingly straightforward action sequences matched by moral complexity of a sort not usually associated with comic-book movie franchises.",
+                0.618769114167696
+            ],
+            [
+                "14_for all the dark knight's occasionally bombastic excess, it sort of does top them all, and not only in star power and sheer number of things blown up.",
+                0.5511784700736054
+            ],
+            [
+                "16_this film is not only one of the year's best",
+                0.6256174028161751
+            ],
+            [
+                "18_the dark knight is easily the most entertaining bummer of the summer.",
+                0.6560547299388513
+            ],
+            [
+                "19_let's face it: if you're any sort of pop-culture or movie freak, you're going to see this flick.",
+                0.652625946443134
+            ],
+            [
+                "22_mixing bravura filmmaking with flat clichés in about equal amounts, the dark knight is all about dualism.",
+                -0.535471493852004
+            ],
+            [
+                "22_appropriately, the movie's half-inspired, half-frustrating.",
+                -0.5453202229878475
+            ],
+            [
+                "23_ overlong, the dark knight is two hours of heady, involving action that devolves into a mind-numbing 32-minute epilogue.",
+                -0.7040902623630181
+            ],
+            [
+                "24_it's still too long, especially for a comic-book movie.",
+                0.5812504210301209
+            ],
+            [
+                "29_this is not merely a batman movie.",
+                -0.6000989224412743
+            ],
+            [
+                "29_it is not merely a comic-book movie.",
+                0.5942106611767819
+            ],
+            [
+                "30_it's a comic-book movie, ",
+                0.6310777722266552
+            ],
+            [
+                "31_nolan hasn't simply made a popcorn movie for brainiacs.",
+                -0.6402889889769843
+            ],
+            [
+                "33_the dark knight is insurmountable fun.",
+                0.6711938142250353
+            ],
+            [
+                "35_the dark knight [sounds] like heavy stuff -- and it is.",
+                -0.5406253053870859
+            ],
+            [
+                "36_nolan paints an inky portrait of a city falling apart, and in a movie rife with two-faced masquerading freaks, the joker is merely the least conflicted of the bunch.",
+                0.7117992871096246
+            ],
+            [
+                "36_ledger's work is improbably droll, impossibly creepy, meticulously detailed.",
+                0.6459559902343641
+            ],
+            [
+                "38_even more so the dark knight move the genre into deeper waters.",
+                0.6286601042934811
+            ],
+            [
+                "41_the bar for comic-book film adaptations has been permanently raised.",
+                0.6109884492142266
+            ],
+            [
+                "42_nolan has provided movie-goers with the best superhero movie to-date, outclassing previous titles both mediocre and excellent, and giving this franchise its empire strikes back.",
+                0.7828542921857525
+            ],
+            [
+                "44_the dark knight is noisy, jumbled, and sadistic.",
+                -0.6679171882878363
+            ],
+            [
+                "46_this movie is grim and jammed together.",
+                -0.5132008789590802
+            ],
+            [
+                "46_the dark knight is constant climax",
+                0.5668641479182216
+            ],
+            [
+                "47_nolan wants to prove that a superhero movie needn't be disposable, effects-ridden junk food, and you have to admire his ambition.",
+                -0.6202399243279128
+            ],
+            [
+                "49_the dark knight is bound to haunt you long after you've told yourself, aah, it's only a comic-book movie.",
+                0.642062144353511
+            ],
+            [
+                "50_the ideas here are not new to the movie world of cops and criminal, ",
+                0.5133698693455716
+            ],
+            [
+                "50_ in the context of a comic book movie, they ring out with startling clarity.",
+                0.6859072773249595
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "17_see this one on the biggest screen you can (imax, ideally), and experience both the magic of top-notch technical filmmaking and the bittersweet pleasure of watching a young actor, gone too soon, giving a performance that won't be forgotten.",
+                0.8108825894949033
+            ]
+        ],
+        "entities": {
+            "Bill Smille": {
+                "args": []
+            },
+            "Aaron Eckhart": {
+                "args": []
+            },
+            "Joseph Luis Caballero": {
+                "args": []
+            },
+            "Lanny Lutz": {
+                "args": []
+            },
+            "Vincent Riotta": {
+                "args": []
+            },
+            "Brandon Lambdin": {
+                "args": []
+            },
+            "Doug Ballard": {
+                "args": []
+            },
+            "Nancy Crane": {
+                "args": []
+            },
+            "Chucky Venn": {
+                "args": []
+            },
+            "Grahame Edwards": {
+                "args": []
+            },
+            "Daryl Satcher": {
+                "args": []
+            },
+            "Crhis Perschler": {
+                "args": []
+            },
+            "Tristan Tait": {
+                "args": []
+            },
+            "Eric Roberts": {
+                "args": []
+            },
+            "Sophia Hinshelwood": {
+                "args": []
+            },
+            "William Fichtner": {
+                "args": []
+            },
+            "Nathan Gamble": {
+                "args": []
+            },
+            "Tommy \"Tiny\" Lister": {
+                "args": []
+            },
+            "Paul Birchard": {
+                "args": []
+            },
+            "Erik Hellman": {
+                "args": []
+            },
+            "Tom McElroy": {
+                "args": []
+            },
+            "Ian Pirie": {
+                "args": []
+            },
+            "Ronan Summers": {
+                "args": []
+            },
+            "Bronson Webb": {
+                "args": []
+            },
+            "Aidan Feore": {
+                "args": []
+            },
+            "Maggie Gyllenhaal": {
+                "args": []
+            },
+            "Lateef Lovejoy": {
+                "args": []
+            },
+            "James Fierro": {
+                "args": []
+            },
+            "William Armstrong": {
+                "args": []
+            },
+            "Hannah Gunn": {
+                "args": []
+            },
+            "Thomas Gaitsch": {
+                "args": []
+            },
+            "Richard Dillane": {
+                "args": []
+            },
+            "Michael Stoyanov": {
+                "args": []
+            },
+            "Matt Rippy": {
+                "args": []
+            },
+            "Lorna Gayle": {
+                "args": []
+            },
+            "Peter DeFaria": {
+                "args": []
+            },
+            "Nestor Carbonell": {
+                "args": []
+            },
+            "Nigel Carrington": {
+                "args": []
+            },
+            "Tommy Campbell": {
+                "args": []
+            },
+            "Colin McFarlane": {
+                "args": []
+            },
+            "Ron Dean": {
+                "args": []
+            },
+            "Nydia Rodriguez Terracina": {
+                "args": []
+            },
+            "Joshua Harto": {
+                "args": []
+            },
+            "Dale RIvera": {
+                "args": []
+            },
+            "Heath Ledger": {
+                "args": [
+                    [
+                        "15_[ledger's] performance is also the most interesting thing in the film, and when the joker is absent, the dark knight loses most of its energy and dynamism.",
+                        0.7134106480814313
+                    ],
+                    [
+                        "16_at the very least, it deserves consideration for best picture and best director, along with the expected oscar kudos for ledger.",
+                        0.8465231167059635
+                    ],
+                    [
+                        "19_and you should, just for ledger.",
+                        0.5259711885691389
+                    ],
+                    [
+                        "21_you come away impressed, oppressed, provoked, and beaten down, holding on to ledger's squirrelly incandescence as a beacon in the darkness.",
+                        0.5140288993756981
+                    ],
+                    [
+                        "24_ with ledger's last performance director nolan was blessed with the gift of light.",
+                        0.6998426581798912
+                    ],
+                    [
+                        "26_[ledger gives] a fine performance regardless, and i wish the movie around it were more deserving.",
+                        0.5072118281132311
+                    ],
+                    [
+                        "27_as much as this is ledger's movie, that should not diminish the notable accomplishments of other key cast members.",
+                        0.5394145953619873
+                    ],
+                    [
+                        "28_he can thank ledger for a lot of that.",
+                        0.6349462805217002
+                    ],
+                    [
+                        "43_in this, the last performance he completed before his death, ledger had a maniacal gusto inspired enough to suggest that he might have lived to be as audacious an actor as marlon brando, and maybe as great.",
+                        0.6141317738901524
+                    ]
+                ]
+            },
+            "Walter Lewis": {
+                "args": []
+            },
+            "Ritchie Coster": {
+                "args": []
+            },
+            "Beatrice Rosen": {
+                "args": []
+            },
+            "Edison Chen": {
+                "args": []
+            },
+            "Michael Vieau": {
+                "args": []
+            },
+            "Vincenzo Nicoli": {
+                "args": []
+            },
+            "Greg Beam": {
+                "args": []
+            },
+            "Matthew O'Neill": {
+                "args": []
+            },
+            "Andy Luther": {
+                "args": []
+            },
+            "Cillian Murphy": {
+                "args": []
+            },
+            "Gary Oldman": {
+                "args": []
+            },
+            "Sam Derence": {
+                "args": []
+            },
+            "Helene Wilson": {
+                "args": []
+            },
+            "Roger Monk": {
+                "args": []
+            },
+            "James Farruggio": {
+                "args": []
+            },
+            "Jonathan Ryland": {
+                "args": []
+            },
+            "Matt Shallenberger": {
+                "args": []
+            },
+            "Michael Corey Foster": {
+                "args": []
+            },
+            "Keith Kupferer": {
+                "args": []
+            },
+            "Monique Gabriela Curnen": {
+                "args": []
+            },
+            "Sarah Jayne Dunn": {
+                "args": []
+            },
+            "Anthony Michael Hall": {
+                "args": []
+            },
+            "Matthew Leitch": {
+                "args": []
+            },
+            "Craig Heaney": {
+                "args": []
+            },
+            "Gertrude Kyles": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": []
+            },
+            "Philip Bulcock": {
+                "args": []
+            },
+            "Andrew Bicknell": {
+                "args": []
+            },
+            "Jennifer Knox": {
+                "args": []
+            },
+            "Olumiji Olawumi": {
+                "args": []
+            },
+            "Adam Kalesperis": {
+                "args": []
+            },
+            "Michael Caine": {
+                "args": []
+            },
+            "Michael Andrew Gorman": {
+                "args": []
+            },
+            "David Dastmalchian": {
+                "args": []
+            },
+            "Michael Jai White": {
+                "args": []
+            },
+            "Will Zahrn": {
+                "args": []
+            },
+            "Patrick Clear": {
+                "args": []
+            },
+            "Melinda McGraw": {
+                "args": []
+            },
+            "Ariyon Bakare": {
+                "args": []
+            },
+            "Christian Bale": {
+                "args": []
+            },
+            "Winston Ellis": {
+                "args": []
+            },
+            "James Scales": {
+                "args": []
+            },
+            "Joshua Rollins": {
+                "args": []
+            },
+            "K. Todd Freeman": {
+                "args": []
+            },
+            "Wai Wong": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {
+            "book": {
+                "args": [
+                    [
+                        "7_but this comic-book movie is more disturbing, and has more freakish power,",
+                        0.6337822827309384
+                    ],
+                    [
+                        "11_pitched at the divide between art and industry, poetry and entertainment, the dark knight goes darker and deeper than any hollywood movie of its comic-book kind.",
+                        0.6860850280298738
+                    ],
+                    [
+                        "12_exhilaratingly straightforward action sequences matched by moral complexity of a sort not usually associated with comic-book movie franchises.",
+                        0.618769114167696
+                    ],
+                    [
+                        "24_it's still too long, especially for a comic-book movie.",
+                        0.5812504210301209
+                    ],
+                    [
+                        "29_it is not merely a comic-book movie.",
+                        0.5942106611767819
+                    ],
+                    [
+                        "30_it's a comic-book movie, ",
+                        0.6310777722266552
+                    ],
+                    [
+                        "38_they realize, as some comic-book readers instinctively do, that these stories touch on deep fears, traumas, fantasies and hopes.",
+                        0.739448867602189
+                    ],
+                    [
+                        "41_the bar for comic-book film adaptations has been permanently raised.",
+                        0.6109884492142266
+                    ],
+                    [
+                        "49_the dark knight is bound to haunt you long after you've told yourself, aah, it's only a comic-book movie.",
+                        0.642062144353511
+                    ],
+                    [
+                        "50_ in the context of a comic book movie, they ring out with startling clarity.",
+                        0.6859072773249595
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "16_at the very least, it deserves consideration for best picture and best director, along with the expected oscar kudos for ledger.",
+                0.8465231167059635
+            ],
+            [
+                "31_he's an increasingly self-assured director of action sequences.",
+                0.6532357153760169
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "args": [
+                    [
+                        "3_christopher nolan is much, much smarter than your average filmmaker.",
+                        0.6775949175846082
+                    ],
+                    [
+                        "5_ nolan has finally topped tim burton's two twisted spectaculars.",
+                        0.6125512136498092
+                    ],
+                    [
+                        "6_christopher nolan's latest exploration of the batman mythology steeps its muddled plot in so much murk that the joker's maniacal nihilism comes to seem like a recurrent grace note.",
+                        -0.5811375788524878
+                    ],
+                    [
+                        "20_christopher nolan's second batman adventure is the rare blockbuster that left me engaged and ",
+                        0.7036905287040405
+                    ],
+                    [
+                        "24_ with ledger's last performance director nolan was blessed with the gift of light.",
+                        0.6998426581798912
+                    ],
+                    [
+                        "28_christopher nolan wanted to make an action movie that was different from other action movies -- darker, more twisted, more despairing, more bleak -- and he has mostly succeeded in this latest batman installment.",
+                        0.5352659293205688
+                    ],
+                    [
+                        "32_to see it is to understand that nolan and his co-writer brother jonathan saw a chance to go deeper into familiar characters and mythology, a chance to meditate on darker-than-usual themes that have implications for the way we live now.",
+                        0.8344926384307056
+                    ],
+                    [
+                        "34_i previously have had my own auteurist doubts about mr. nolan's work, ",
+                        0.5258832641985274
+                    ],
+                    [
+                        "34_ after the dark knight, i may have to rethink my past reservations about mr. nolan's place in the 21st-century cinema.",
+                        0.679365950802037
+                    ],
+                    [
+                        "35_but i should add that nolan also delivers the kick-ass goods,",
+                        0.709961380412692
+                    ]
+                ]
+            }
+        }
+    }
+}

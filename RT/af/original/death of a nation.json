@@ -1,0 +1,47 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dinesh D'Souza": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_if ever there was a movie that looked as if it had been slapped together in a couple of weeks as part of a quid pro quo agreement involving a dubious-seeming criminal pardon, death of a nation is that film.",
+                -0.6942683252418828
+            ],
+            [
+                "3_if nothing else, death of a nation makes it clear that the lies are bigger than ever, and we can't afford to pretend they're going to stop any time soon.",
+                -0.7476767213627274
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dinesh D'Souza": {
+                "args": [
+                    [
+                        "0_\" it's a concept d'souza has taken to heart.",
+                        -0.5553826605127352
+                    ],
+                    [
+                        "2_no one expects, of course, that d'souza would make a ",
+                        0.5032522651668613
+                    ]
+                ]
+            }
+        }
+    }
+}

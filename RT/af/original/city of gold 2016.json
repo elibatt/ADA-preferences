@@ -1,0 +1,108 @@
+{
+    "writer": {
+        "entities": {
+            "Laura Gabbert": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_gold shows us that the real work of a writer happens far from the keyboard: mostly it involves being alive to the world around us.",
+                0.7744962736267611
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jonathan Gold": {
+                "args": [
+                    [
+                        "1_there's an honesty in what gold writes and the way he writes it, which is why his words have so much impact.",
+                        0.6143452608825666
+                    ],
+                    [
+                        "8_city of gold then comes off as something of a puff piece.",
+                        -0.5848719643095031
+                    ],
+                    [
+                        "12_city of gold takes something of a once-over-lightly approach to gold's life, sprinkling little bits of his biography throughout ...",
+                        0.5959252599098537
+                    ],
+                    [
+                        "13_\"city of gold\" offers no evidence of gold ever penning a negative review.",
+                        -0.5773598560229836
+                    ],
+                    [
+                        "15_what it lacks in cohesion, city of gold makes up for in its subject's wit and wisdom.",
+                        0.7706883358397469
+                    ],
+                    [
+                        "19_\"city of gold\" transcends its modest methods, largely because it connects mr. gold's appealing personality with a passionate argument about the civic culture of los angeles and the place of food within it.",
+                        0.8310751955139688
+                    ],
+                    [
+                        "20_gold is merely the conduit for the film's real focus: like his own reviews, city of gold is a love letter to l.a.",
+                        0.6458807804517575
+                    ]
+                ]
+            },
+            "Allen Salkin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_gabbert's film is part portrait, part city symphony.",
+                0.6985851355854704
+            ],
+            [
+                "1_the film has a similar impact to one of his reviews.",
+                0.5458214461236841
+            ],
+            [
+                "5_why make a film about this lucky guy?",
+                0.5556899596537419
+            ],
+            [
+                "7_while the film's formula gets repetitive, little revelations peppered throughout keep it engaging.",
+                0.5803375667137652
+            ],
+            [
+                "9_a pure and pleasant celebration of the man and his work, the latter of which achieves something approaching anthropological profundity by its humble, loving attention to culinary detail.",
+                0.7942812145326343
+            ],
+            [
+                "17_the film is up to its subject, which is saying a lot.",
+                -0.5508615926118187
+            ],
+            [
+                "18_gold shows us that the real work of a writer happens far from the keyboard: mostly it involves being alive to the world around us.",
+                0.7744962736267611
+            ],
+            [
+                "21_the film is an agreeable document of cultural processing that should especially appeal to the niche crowd at its center -",
+                0.7447765077790145
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Laura Gabbert": {
+                "args": [
+                    [
+                        "23_filmmaker laura gabbert's love letter to the pulitzer-winning food critic, and the city of los angeles, is hyper-palatable yet unconvincing.",
+                        0.611769827516336
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

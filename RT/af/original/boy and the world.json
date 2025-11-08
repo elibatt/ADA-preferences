@@ -1,0 +1,89 @@
+{
+    "writer": {
+        "entities": {
+            "Alê Abreu": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Marco Aurélio Campos": {
+                "args": []
+            },
+            "Vinícius Garcia": {
+                "args": []
+            },
+            "Lu Horta": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_abreu's visionary movie is a restless and dynamic creature that is forever reconstituting itself into complex visual and musical landscapes.",
+                0.6952012245192261
+            ],
+            [
+                "1_ the film is a bit abstract and largely free of dialogue (what little speaking there is is a whispered babble of tongues),",
+                0.6249048456424485
+            ],
+            [
+                "6_the make-believe world of \"boy and the world\" is confusing, scary and gorgeous.",
+                0.6255259774950835
+            ],
+            [
+                "8_the wonder of life's shortest season, childhood, is explored in boy and the world, a magical and often bleak parable about societal clashes.",
+                0.764352651513107
+            ],
+            [
+                "10_\"boy and the world\" is dazzlingly colorful and alive, often resembling a more elaborate version of the kind of childlike drawings you probably have stuck to your refrigerator door right now.",
+                0.6925881962242428
+            ],
+            [
+                "11_\"boy and the world\" reminds viewers that an animated feature can be more intimate and personal than the big-budget cg extravaganzas produced by hollywood studios.",
+                0.8314734797413642
+            ],
+            [
+                "18_even if the film could be accused of lacking subtlety and overloading on whimsy, it spreads a sobering message in a lucid story that remains visually alive and inventive throughout -- its aesthetic keeps constantly shifting yet remains fluid.",
+                0.6630927171361373
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Alê Abreu": {
+                "args": [
+                    [
+                        "4_this magical brazilian fantasy by alê abreu reminded me of nina paley's sita sings the blues and tomm moore's the secret of kells in its crafty combination of simply drawn characters (the boy) and ornate geometrical patterns (the world).",
+                        0.7941318857320819
+                    ],
+                    [
+                        "5_writer-director ale abreu's use (sparing ",
+                        0.6192862110598283
+                    ],
+                    [
+                        "12_it's hard to put into words the wildly imagined beauty of director ale abreu's drawing, with crayons and other tools kids might use.",
+                        0.719634656904018
+                    ],
+                    [
+                        "13_it's like some lost globally conscious colorfest from the 1970s, reinvented with mr. abreu's verve.",
+                        0.5077839361964676
+                    ],
+                    [
+                        "15_tension between the city and the country has been a fertile topic for as long as there've been cities, and alê abreu's phantasmagoric the boy and the world explores the eternal conflict in a familiar yet wholly original way.",
+                        0.80087241701549
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

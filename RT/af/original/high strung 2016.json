@@ -1,0 +1,140 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Janeen Damian": {
+                "args": []
+            },
+            "Michael Damian": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"high strung\" wears its tired let's-put-on-a-show clichés as if they were neon turquoise leg-warmers.",
+                -0.7784622810359295
+            ],
+            [
+                "3_what it loses in thematic richness, the uncynical high strung makes up for in pure joy.",
+                0.8016961237397771
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "2_the story strings pearls of performance on the flimsiest of plots.",
+                -0.5865136599501981
+            ]
+        ],
+        "entities": {
+            "David Lipper": {
+                "args": []
+            },
+            "Anabel Kutay": {
+                "args": []
+            },
+            "Ian Eastwood": {
+                "args": []
+            },
+            "Jim Townsend": {
+                "args": []
+            },
+            "Claudiu Trandafir": {
+                "args": []
+            },
+            "Keenan Kampa": {
+                "args": []
+            },
+            "Cliff Michel": {
+                "args": []
+            },
+            "Nicholas Galitzine": {
+                "args": []
+            },
+            "Marcus Emanuel Mitchell": {
+                "args": []
+            },
+            "Tomi May": {
+                "args": []
+            },
+            "Simon A. Mendoza": {
+                "args": []
+            },
+            "Toto Dumitrescu": {
+                "args": []
+            },
+            "LoDeon": {
+                "args": []
+            },
+            "Jimmy Townsend": {
+                "args": []
+            },
+            "Comfort Fedoke": {
+                "args": []
+            },
+            "Ivan \"Flipz\" Velez": {
+                "args": []
+            },
+            "Paul Freeman": {
+                "args": []
+            },
+            "Olivier Raynal": {
+                "args": []
+            },
+            "Maia Morgenstern": {
+                "args": []
+            },
+            "James Longshore": {
+                "args": []
+            },
+            "Dave Scott": {
+                "args": []
+            },
+            "Miranda Wilson": {
+                "args": []
+            },
+            "Sonoya Mizuno": {
+                "args": []
+            },
+            "Cristina Gazner": {
+                "args": []
+            },
+            "Andrew Pleavin": {
+                "args": []
+            },
+            "Dragos Savulescu": {
+                "args": []
+            },
+            "Danielle Elise Fischer": {
+                "args": []
+            },
+            "Richard Southgate": {
+                "args": []
+            },
+            "Jane Seymour": {
+                "args": []
+            },
+            "Giulia Nahmany": {
+                "args": []
+            },
+            "Nigel Barber": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Damian": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_we go into a movie knowing that the subject was as genius or a hero, a martyr or titan.",
+                -0.5410893037389919
+            ],
+            [
+                "3_this film about one of the past century's smartest humans at times treats its own audience like a classroom of remedial learners.",
+                0.7491450175890196
+            ],
+            [
+                "4_it's a film about drive, about imagination, and how brilliance thrives outside the mainstream.",
+                0.7383669342183662
+            ],
+            [
+                "4_these are common enough themes given uncommon purchase in a film about a man who likely saved millions of lives by never fitting in.",
+                0.6374736220425763
+            ],
+            [
+                "9_it would be hard to foul up the story of alan turing, and thankfully the imitation game doesn't.",
+                -0.636483173153851
+            ],
+            [
+                "13_unlike the king's speech, which won a clutch of oscars for its dull propriety and masterpiece theater vibe, the imitation game is vibrant and lively, engaging you on several levels.",
+                0.7094828561671563
+            ],
+            [
+                "16_it's easy to see the imitation game as a triumph - after all",
+                0.6931902554554652
+            ],
+            [
+                "17_as uncomplicatedly likeable and effortlessly rootable as its main character and star, the imitation game ultimately wins at any easy game, when it could have risked - and revealed - so much more.",
+                -0.6503761010585902
+            ],
+            [
+                "18_ \"the imitation game\" would rather give you a very good night at the movies.",
+                0.7988134057024868
+            ],
+            [
+                "19_a handsome and stirring film of second world war ingenuity that also succeeds as cracking good entertainment.",
+                0.8788233766853497
+            ],
+            [
+                "21_\"the imitation game\" leaves turing's essential mysteries intact, ",
+                -0.5211734275252023
+            ],
+            [
+                "24_if only the film did, too.",
+                -0.6179746932690557
+            ],
+            [
+                "25_the movie has a tiresome sense of old-fashioned propriety.",
+                0.5040253624169457
+            ],
+            [
+                "26_cumberbatch deserved a stronger movie, ",
+                0.5682410573872578
+            ],
+            [
+                "29_\"the imitation game\" is a highly conventional movie about a profoundly unusual man.",
+                0.7163783692938503
+            ],
+            [
+                "40_ the conventions in this case work handsomely.",
+                -0.5901728459916771
+            ],
+            [
+                "41_the imitation game is at its best when it focuses on the collision between cryptography and proto-programming.",
+                0.5916765160070536
+            ],
+            [
+                "41_the film's efforts to function as a character study, on the other hand, are decidedly clumsy.",
+                -0.6015475212088798
+            ],
+            [
+                "42_there's an algorithm for making an oscar-ready prestige picture - and \"the imitation game\" follows it obsessively.",
+                0.7071921718141927
+            ],
+            [
+                "43_turing will survive this film with his enigma intact, ",
+                0.6552238644345159
+            ],
+            [
+                "47_strong, stirring, triumphant and tragic, the imitation game may be about a man who changed the world, ",
+                0.5446185949493231
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Morten Tyldum": {
+                "args": [
+                    [
+                        "26_ at least tyldum had the good sense to let him loose.",
+                        -0.5235124613430624
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "7_cumberbatch is moviedom's man of the moment, and with this painfully human performance, the actor who has specialized in difficult geniuses finally cracks the code of compassion.",
+                0.5474309542514406
+            ],
+            [
+                "14_cumberbatch's finely calibrated performance helps bring to life one of history's lesser-known stories and most shameful injustices.",
+                0.8748411131287858
+            ],
+            [
+                "35_it's an explosive, emotionally complex performance.",
+                0.7025371492088376
+            ]
+        ],
+        "entities": {
+            "Andrew Havill": {
+                "args": []
+            },
+            "Alex Lawther": {
+                "args": []
+            },
+            "Rory Kinnear": {
+                "args": []
+            },
+            "Charlie Manton": {
+                "args": []
+            },
+            "Mark Strong (II)": {
+                "args": [
+                    [
+                        "49_the movie is undeniably strong in its sense of a bright light burned out too soon, and the often undignified fate of those who dare to chafe at society's established norms.",
+                        0.7746425174492306
+                    ]
+                ]
+            },
+            "Laurence Kennedy": {
+                "args": []
+            },
+            "Matthew Goode": {
+                "args": []
+            },
+            "Tim Van Eyken": {
+                "args": []
+            },
+            "Dominic Charman": {
+                "args": []
+            },
+            "Allen Leech": {
+                "args": []
+            },
+            "Benedict Cumberbatch": {
+                "args": [
+                    [
+                        "1_or simply thinking -- which, as cumberbatch portrays it, is adventure of the highest order.",
+                        0.6298541717359472
+                    ],
+                    [
+                        "5_[cumberbatch's] whose portrayal of the british mathematician and wwii code-smasher is a feat of nuanced intelligence, a portrait of anguish with hints of arid humor.",
+                        0.7899732167719735
+                    ],
+                    [
+                        "8_this film's overall success hangs on cumberbatch and what is, to date, his finest performance on the big screen.",
+                        0.7749176284212485
+                    ],
+                    [
+                        "10_while their careers include fine performances, benedict cumberbatch and keira knightley are so ambitious, so subtle and so intelligent as the protagonists of \"the imitation game\" that their earlier work feels light.",
+                        0.7803385776992274
+                    ],
+                    [
+                        "11_turing may finally be getting what he deserves as the straightforward and well-acted the imitation game, featuring a strong performance from benedict cumberbatch as turing.",
+                        0.8316347519988597
+                    ],
+                    [
+                        "12_\"the imitation game\" is both an education and a pleasure - and another chance to revel in what cumberbatch can convey in eloquent silence.",
+                        0.7808532448858416
+                    ],
+                    [
+                        "27_thanks to cumberbatch's committed performance, a lot more people will know it.",
+                        0.684933812716724
+                    ],
+                    [
+                        "31_it's a marvelous story about science and humanity, plus a great performance by benedict cumberbatch, plus first-rate filmmaking and cinematography, minus a script that muddles its source material to the point of betraying it.",
+                        0.856987582367525
+                    ],
+                    [
+                        "32_the richness and complexity of turing's character make this portrayal of an arrogant, difficult, sure-of-himself individual the role of cumberbatch's career.",
+                        0.6586421697207355
+                    ],
+                    [
+                        "33_as fine-tuned and moving a performance as cumberbatch delivers - all the more impressive for being created from scratch, since no audio or video recordings of turing exist - the film's turing suffers an acute lack of an inner life.\"",
+                        0.6163831950741363
+                    ],
+                    [
+                        "34_the film is anchored by yet another hypnotically complex cumberbatch performance.",
+                        0.5629591098555973
+                    ],
+                    [
+                        "35_the film's prime force is cumberbatch, a great actor whose talent shines here on its highest beams.",
+                        0.8649236618611232
+                    ],
+                    [
+                        "37_based on the biography by andrew hodges, imitation illuminates turing's brilliance in an engrossing and moving film that features a standout, oscar-worthy performance by benedict cumberbatch.",
+                        0.8236147071944941
+                    ],
+                    [
+                        "43_ the movie itself is the opposite of enigmatic, and cumberbatch merits more.",
+                        -0.5783177954167108
+                    ]
+                ]
+            },
+            "Victoria Wicks": {
+                "args": []
+            },
+            "Miranda Bell": {
+                "args": []
+            },
+            "James Northcote": {
+                "args": []
+            },
+            "Matthew Beard": {
+                "args": []
+            },
+            "Keira Knightley": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Tim Steed": {
+                "args": []
+            },
+            "Tuppence Middleton": {
+                "args": []
+            },
+            "Steven Waddington": {
+                "args": []
+            },
+            "Jack Bannon": {
+                "args": []
+            },
+            "Tom Goodman-Hill": {
+                "args": []
+            },
+            "Jack Tarlton": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "17_as uncomplicatedly likeable and effortlessly rootable as its main character and star, the imitation game ultimately wins at any easy game, when it could have risked - and revealed - so much more.",
+                -0.6503761010585902
+            ],
+            [
+                "31_it's a marvelous story about science and humanity, plus a great performance by benedict cumberbatch, plus first-rate filmmaking and cinematography, minus a script that muddles its source material to the point of betraying it.",
+                0.856987582367525
+            ],
+            [
+                "32_the richness and complexity of turing's character make this portrayal of an arrogant, difficult, sure-of-himself individual the role of cumberbatch's career.",
+                0.6586421697207355
+            ],
+            [
+                "41_the film's efforts to function as a character study, on the other hand, are decidedly clumsy.",
+                -0.6015475212088798
+            ]
+        ],
+        "entities": {
+            "Graham Moore": {
+                "args": [
+                    [
+                        "30_most likely, it was the intent of screenwriter graham moore to make a puzzle out a film about puzzle solving.",
+                        -0.6180837589418858
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "writer": {
+        "entities": {
+            "Timothy A. Chey": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Chris Staples": {
+                "args": []
+            },
+            "Rafal Lipinski": {
+                "args": []
+            },
+            "Ryan Gunnarson": {
+                "args": []
+            },
+            "Michael Irvin": {
+                "args": []
+            },
+            "Ray Walia": {
+                "args": []
+            },
+            "Jose Canseco": {
+                "args": []
+            },
+            "Alexia Hall": {
+                "args": []
+            },
+            "Porter Maberry": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film's hoary, melodramatic plotting and painfully awkward dialogue leave nary a cliché untouched.",
+                -0.7134651177941711
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Timothy A. Chey": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ the resulting film is simplistic, condescending, and inert.",
+                -0.6523897677494629
+            ],
+            [
+                "3_the legend of tarzan moves briskly and has the overall feel of one of burroughs' more entertaining stories come to the screen.",
+                0.579766442822734
+            ],
+            [
+                "5_the legend of tarzan plays as if a dog ate part of the script.",
+                0.5076946548311746
+            ],
+            [
+                "7_\"the legend of tarzan\" is no jungle boogie, ",
+                -0.5633278846737012
+            ],
+            [
+                "12_while the legend of tarzan is hardly going to become legendary, it is strong entertainment with an interesting socio-political background.",
+                0.8693103536207958
+            ],
+            [
+                "13_it's a tough balance to strike, and this film can't manage it.",
+                -0.5523122170890278
+            ],
+            [
+                "17_it's a good one to describe this film.",
+                0.6631539198382752
+            ],
+            [
+                "20_for the most part the movie looks great too, barring a few moments where the cgi rather literally runs wild.",
+                -0.6849984811109678
+            ],
+            [
+                "22_it's possible, even likely, that more effort was expended on sculpting alexander skarsgard's abs for the legend of tarzan than on providing good reason why the movie was made.",
+                -0.5734043970659313
+            ],
+            [
+                "23_boy, it sure describes \"the legend of tarzan.\"",
+                0.7155886905017315
+            ],
+            [
+                "25_mostly, the inherent silliness of the original material reduces \"the legend of tarzan\" to mild camp.",
+                0.53422707294174
+            ],
+            [
+                "26_ the legend of tarzan swings its way into being one of the better on-screen adaptations of the classic character.",
+                0.7057469868909999
+            ],
+            [
+                "29_in the end, what we have here is a tarzan movie made by people who don't understand the appeal of tarzan.",
+                -0.7966070712362139
+            ],
+            [
+                "30_while the talented cast and a solid director make for a serviceable and intermittently entertaining adventure, there's very little about this film that screams, you gotta",
+                0.7201232832708564
+            ],
+            [
+                "31_the legend of tarzan is the 857th movie incarnation of edgar rice burroughs' hero, ",
+                0.6069833413390947
+            ],
+            [
+                "31_ it's the first one in which the production notes state \"no real animals were used in the making of the film,\" as if that were something to brag about.",
+                -0.6556680759586148
+            ],
+            [
+                "34_the movie tees up an exciting, likable yarn ",
+                0.5999332151181829
+            ],
+            [
+                "35_, this movie packs in so much generic derring-do that there's little time to focus on what made the character so memorable in the first place.",
+                0.5807710140856391
+            ],
+            [
+                "36_this is certainly the best live-action tarzan film in many a decade (which, admittedly, isn't saying much) and offers a well-judged balance of vigorous action and engaging-enough drama.",
+                0.7994712728579921
+            ],
+            [
+                "38_\"the legend of tarzan\" is sequel, origin story and racially sensitive revisionist history lesson all in one.",
+                0.6328204623467055
+            ],
+            [
+                "39_for what it's worth, \"the legend of tarzan\" is several unpretentious cuts above the pompous, leaden \"greystoke\" of over thirty years ago.",
+                0.5671725945061143
+            ],
+            [
+                "41_you've been laughing at this movie for months, and the final product earns all of your worst preconceptions.",
+                -0.7999642787843766
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David Yates (II)": {
+                "args": [
+                    [
+                        "10_director yates has got a knack for conveying the grandeur of africa, the fierce power of the animals, the currents of straightforward emotion (love, rage, hate, grief, etc.), and the thrill of nature (human and ",
+                        0.6584043497392524
+                    ],
+                    [
+                        "11_the film, searching for a purpose and some drama, doesn't deserve the grandeur yates gives it.",
+                        -0.6376432257813506
+                    ],
+                    [
+                        "15_the tale of the man raised by apes has been told ad nauseam, yet david yates, who directed the last four harry potter movies, makes a strong case, visually and thematically, for reinvention.",
+                        0.6332724450734951
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "30_while the talented cast and a solid director make for a serviceable and intermittently entertaining adventure, there's very little about this film that screams, you gotta",
+                0.7201232832708564
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Christoph Waltz": {
+                "args": []
+            },
+            "Edward Apeagyei": {
+                "args": []
+            },
+            "Ian Mercer": {
+                "args": []
+            },
+            "Simon Russell Beale": {
+                "args": []
+            },
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "2_[jackson] seems to be in the film mostly to provide some well-needed comic relief.",
+                        0.6375329148494459
+                    ],
+                    [
+                        "4_this tarzan is a corrective, a vengeful congo unchained that reteams jackson and waltz.",
+                        0.6417470779169846
+                    ],
+                    [
+                        "4_yates mines zirconium tarantino, even letting jackson cackle while blasting a machine gun",
+                        0.5923059728319849
+                    ]
+                ]
+            },
+            "Laurence Spellman": {
+                "args": []
+            },
+            "Ben Chaplin": {
+                "args": []
+            },
+            "Christian Stevens": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Teresa Churcher": {
+                "args": []
+            },
+            "Casper Crump": {
+                "args": []
+            },
+            "Djimon Hounsou": {
+                "args": []
+            },
+            "Gary Cargill": {
+                "args": []
+            },
+            "Antony Acheampong": {
+                "args": []
+            },
+            "Mimi Ndiweni": {
+                "args": []
+            },
+            "Clive Brunt": {
+                "args": []
+            },
+            "Owen Walters": {
+                "args": []
+            },
+            "Luke Smith": {
+                "args": []
+            },
+            "Charlie Anson": {
+                "args": []
+            },
+            "Matt Cross": {
+                "args": []
+            },
+            "Orla McFarlane": {
+                "args": []
+            },
+            "Sidney Ralitsoele": {
+                "args": []
+            },
+            "Miles Jupp": {
+                "args": []
+            },
+            "Mens-Sana Tamakloe": {
+                "args": []
+            },
+            "Hadley Fraser": {
+                "args": []
+            },
+            "Rory J. Saper": {
+                "args": []
+            },
+            "Osy Ikhile": {
+                "args": []
+            },
+            "Alex Ferns": {
+                "args": []
+            },
+            "Adam Ganne": {
+                "args": []
+            },
+            "Yule Masiteng": {
+                "args": []
+            },
+            "Cedric Weber": {
+                "args": []
+            },
+            "John Harvey Wilson": {
+                "args": []
+            },
+            "Aleksandar Mikic": {
+                "args": []
+            },
+            "Madeleine Worrall": {
+                "args": []
+            },
+            "Ashley Byam": {
+                "args": []
+            },
+            "Genevieve O'Reilly": {
+                "args": []
+            },
+            "Shaun Smith": {
+                "args": []
+            },
+            "Maxim De Villiers": {
+                "args": []
+            },
+            "Augusts Dakteris": {
+                "args": []
+            },
+            "Oliver Lamb": {
+                "args": []
+            },
+            "Adam Scholes": {
+                "args": []
+            },
+            "Paul Hamilton": {
+                "args": []
+            },
+            "John Hollingworth": {
+                "args": []
+            },
+            "William Wollen": {
+                "args": []
+            },
+            "Richard James-Neale": {
+                "args": []
+            },
+            "Faith Edwards": {
+                "args": []
+            },
+            "Sophia Ramos": {
+                "args": []
+            },
+            "Caitlin McIntosh": {
+                "args": []
+            },
+            "Faisal Mohammed": {
+                "args": []
+            },
+            "Thomas Coghlan": {
+                "args": []
+            },
+            "Charles Babalola": {
+                "args": []
+            },
+            "Christopher Benjamin": {
+                "args": []
+            },
+            "Margot Robbie": {
+                "args": [
+                    [
+                        "40_ too bad his performance is just as stony, even when embracing margot robbie's jane.",
+                        -0.6999674414413117
+                    ]
+                ]
+            },
+            "Roger Evans": {
+                "args": []
+            },
+            "Amelia Mae Butler": {
+                "args": []
+            },
+            "Alexander Skarsgård": {
+                "args": []
+            },
+            "Matilda Hedley": {
+                "args": []
+            },
+            "Jack Hammond": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_are you jarred by the anachronistic acting?",
+                0.5580474147150443
+            ],
+            [
+                "30_while the talented cast and a solid director make for a serviceable and intermittently entertaining adventure, there's very little about this film that screams, you gotta",
+                0.7201232832708564
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Adam Cozad": {
+                "args": []
+            },
+            "Craig Brewer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_the legend of tarzan plays as if a dog ate part of the script.",
+                0.5076946548311746
+            ],
+            [
+                "6_ his character, or at least his creator, the turn-of-the-century american schlockmeister edgar rice burroughs, is racist and sexist by any contemporary standard.",
+                -0.5096243798655427
+            ],
+            [
+                "26_ the legend of tarzan swings its way into being one of the better on-screen adaptations of the classic character.",
+                0.7057469868909999
+            ],
+            [
+                "35_, this movie packs in so much generic derring-do that there's little time to focus on what made the character so memorable in the first place.",
+                0.5807710140856391
+            ]
+        ]
+    }
+}

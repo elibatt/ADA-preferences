@@ -1,0 +1,159 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie looks and sounds great...",
+                0.5510408873494658
+            ],
+            [
+                "7_perhaps most of the humor just doesn't translate (the film was a smash hit in sweden).",
+                0.5216481607905251
+            ],
+            [
+                "10_this movie, as it happens, is a comedy, ",
+                -0.523398862716741
+            ],
+            [
+                "11_the film genre that might be called old people",
+                0.549728453438415
+            ],
+            [
+                "11_who climbed out the window and disappeared,\" a sometimes daffy, often droll swedish movie.",
+                0.5970242138203349
+            ],
+            [
+                "14_ it's a nice change of pace to see a foreign film that isn't deadly serious.",
+                0.6289827261840396
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Felix Herngren": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Felix Herngren": {
+                "args": []
+            },
+            "Hans Ingemansson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_whatever the case, the script needed to mine more comedy from the characters, not the clownish plot machinations.",
+                -0.5597127296259525
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Guhn Andersson": {
+                "args": []
+            },
+            "Anders Sanzén": {
+                "args": []
+            },
+            "Jens Hultén": {
+                "args": []
+            },
+            "David Shackleton": {
+                "args": []
+            },
+            "Bianca Cruzeiro": {
+                "args": []
+            },
+            "Johan Rheborg": {
+                "args": []
+            },
+            "Patrik Karlson": {
+                "args": []
+            },
+            "Gunilla Jansson": {
+                "args": []
+            },
+            "David Wiberg": {
+                "args": []
+            },
+            "Alan Ford": {
+                "args": []
+            },
+            "Lateef Lovejoy": {
+                "args": []
+            },
+            "Keith Chanter": {
+                "args": []
+            },
+            "Alfred Svensson": {
+                "args": []
+            },
+            "Gustav Deinoff": {
+                "args": []
+            },
+            "Iwar Wiklander": {
+                "args": []
+            },
+            "Ralph Carlsson": {
+                "args": []
+            },
+            "Koldo Losada": {
+                "args": []
+            },
+            "Jan Berglund": {
+                "args": []
+            },
+            "Manuel Dubra": {
+                "args": []
+            },
+            "Robert Gustafsson": {
+                "args": []
+            },
+            "Viktor Friberg": {
+                "args": []
+            },
+            "Georg Nikoloff": {
+                "args": []
+            },
+            "Philip Rosch": {
+                "args": []
+            },
+            "Sigitas Rackys": {
+                "args": []
+            },
+            "Mia Skäringer": {
+                "args": []
+            },
+            "Donald Höberg": {
+                "args": []
+            },
+            "Simon Seppänen": {
+                "args": []
+            },
+            "Sven Lönn": {
+                "args": []
+            },
+            "Algirdas Romualdas": {
+                "args": []
+            },
+            "Sibylle Bernardin": {
+                "args": []
+            },
+            "Kerry Shale": {
+                "args": []
+            },
+            "Miglen Mirtchev": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

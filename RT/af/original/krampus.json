@@ -1,0 +1,194 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "11_this very capable cast has absolutely no wit to work with in a screenplay co-written by dougherty.",
+                -0.6676252651151351
+            ]
+        ],
+        "entities": {
+            "Amy Brighton": {
+                "args": []
+            },
+            "Krista Stadler": {
+                "args": []
+            },
+            "Lolo Owen": {
+                "args": []
+            },
+            "Sage Hunefeld": {
+                "args": []
+            },
+            "Gareth Ruck": {
+                "args": []
+            },
+            "Clare Odell": {
+                "args": []
+            },
+            "Skye Broberg": {
+                "args": []
+            },
+            "Ravi Narayan": {
+                "args": []
+            },
+            "Sophie Gannon": {
+                "args": []
+            },
+            "Justin Roiland": {
+                "args": []
+            },
+            "Queenie Samuel": {
+                "args": []
+            },
+            "Curtis Vowell": {
+                "args": []
+            },
+            "Breehn Burns": {
+                "args": []
+            },
+            "Trevor Bau": {
+                "args": []
+            },
+            "Allison Tolman": {
+                "args": []
+            },
+            "Felicity Hamill": {
+                "args": []
+            },
+            "Emjay Anthony": {
+                "args": []
+            },
+            "Jessie Carson": {
+                "args": []
+            },
+            "Seth Green": {
+                "args": []
+            },
+            "Conchata Ferrell": {
+                "args": []
+            },
+            "David Koechner": {
+                "args": []
+            },
+            "Collin Dean": {
+                "args": []
+            },
+            "Luke Hawker": {
+                "args": []
+            },
+            "Leith Towers": {
+                "args": []
+            },
+            "Stefania Owen": {
+                "args": []
+            },
+            "Maverick Flack": {
+                "args": []
+            },
+            "Brett Beattie": {
+                "args": []
+            },
+            "Toni Collette": {
+                "args": []
+            },
+            "Pascal Ackerman": {
+                "args": []
+            },
+            "Ivy George": {
+                "args": []
+            },
+            "Adam Scott": {
+                "args": []
+            },
+            "Kelly Lily Marie": {
+                "args": []
+            },
+            "Tess Jamieson Karaha": {
+                "args": []
+            },
+            "ark Atkin": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Dougherty": {
+                "args": [
+                    [
+                        "4_trick 'r treat showed that dougherty has a mean streak (with wit), ",
+                        0.6030460189216861
+                    ],
+                    [
+                        "11_this very capable cast has absolutely no wit to work with in a screenplay co-written by dougherty.",
+                        -0.6676252651151351
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_this very capable cast has absolutely no wit to work with in a screenplay co-written by dougherty.",
+                -0.6676252651151351
+            ]
+        ],
+        "entities": {
+            "Todd Casey": {
+                "args": []
+            },
+            "Zach Shields": {
+                "args": []
+            },
+            "Michael Dougherty": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_when krampus departs, so does disillusionment.",
+                -0.5443937672221157
+            ],
+            [
+                "0_as i watched the final few minutes of krampus, i realized that this anti-christmas movie was really just a christmas-christmas movie in disguise.",
+                -0.7371353150705071
+            ],
+            [
+                "1_ buried beneath the christmas clutter is a much better movie.",
+                -0.5297205292765772
+            ],
+            [
+                "4_the movie sends mixed messages.",
+                -0.5183197327012863
+            ],
+            [
+                "4_ with krampus, he's clearly been charged with delivering a wide-appeal pg-13 film.",
+                0.6308278132446036
+            ],
+            [
+                "7_ don't feel like rewatching gremlins, consider krampus a worthwhile diet caffeine-free alternative.",
+                -0.6003115589647403
+            ],
+            [
+                "8_ then krampus arrives and suddenly it's all straight scares about psycho elves.",
+                -0.6404085352152376
+            ],
+            [
+                "9_krampus isn't especially scary, ",
+                -0.7514899843583187
+            ],
+            [
+                "10_while the violent sequences are very effectively staged, the results are a strange hybrid that doesn't quite work.",
+                -0.654724509411803
+            ]
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_adult beginners has no agenda for subtlety.",
+                -0.602831235604832
+            ],
+            [
+                "3_\"adult beginners\" is one of those agreeable small-scale movies that doesn't seem particularly ambitious",
+                0.7020835998443085
+            ],
+            [
+                "6_in other words, we're getting a nice, well-written, solid movie about people we believe would actually exist in real life.",
+                0.8041525181696806
+            ],
+            [
+                "12_fittingly, the film has an adult beginning before slowly sinking into infantile platitudes.",
+                -0.5295234508022166
+            ],
+            [
+                "16_, this has turned into a tim allen movie.",
+                0.5195365829334757
+            ],
+            [
+                "20_neither dramatic enough to qualify as drama nor amusing enough to completely succeed as comedy, it's the kind of movie that coasts on pleasantness, content to elicit a few smiles before disappearing from memory banks.",
+                -0.5285905540146725
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ross Katz": {
+                "args": [
+                    [
+                        "10_the director ross katz, making his feature directing de",
+                        0.6600634416461488
+                    ],
+                    [
+                        "11_the relative success or failure of \"adult beginners,\" directed with a steady, nonjudgmental hand by ross katz, depends on how funny you find kroll.",
+                        0.7575424772111001
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Liz Flahive": {
+                "args": []
+            },
+            "Jeff Cox": {
+                "args": [
+                    [
+                        "7_it's a sitcom setup that husband-and-wife screenwriters jeff cox and liz flahive",
+                        -0.5214463801990958
+                    ],
+                    [
+                        "23_liz flahive and jeff cox can do poignant (not tossing family memorabilia) and clever (connecting skype, hairspray, and stepparents), ",
+                        0.7170065246939099
+                    ]
+                ]
+            },
+            "Nick Kroll": {
+                "args": [
+                    [
+                        "11_the relative success or failure of \"adult beginners,\" directed with a steady, nonjudgmental hand by ross katz, depends on how funny you find kroll.",
+                        0.7575424772111001
+                    ],
+                    [
+                        "13_ it is a pleasure watching kroll and byrne to the end.",
+                        0.7482124917546664
+                    ],
+                    [
+                        "15_the not-funny-enough dialogue can't mask writer kroll's unoriginal plot.",
+                        -0.6589611906127151
+                    ],
+                    [
+                        "24_perhaps it could have benefited from a little more of the comedic energy and subversive spirit that bryne, kroll and cannavale have all proved more than capable of in previous roles.",
+                        0.6229235941136674
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Rose Byrne": {
+                "args": [
+                    [
+                        "13_ it is a pleasure watching kroll and byrne to the end.",
+                        0.7482124917546664
+                    ],
+                    [
+                        "18_like last year's equally promising the skeleton twins, it soars whenever it sticks to persuasively lived-in sibling banter (rose byrne is sharp as ever).",
+                        0.6047991882586095
+                    ]
+                ]
+            },
+            "Jane Krakowski": {
+                "args": []
+            },
+            "Celia Weston": {
+                "args": []
+            },
+            "Jason Mantzoukas": {
+                "args": []
+            },
+            "Caleb and Matthew Paddock": {
+                "args": [
+                    [
+                        "1_adult beginners is a darkly funny indie film about family and second chances.",
+                        0.7627165747088273
+                    ],
+                    [
+                        "3_ its only goal is to charm, and it does so, irresistibly.",
+                        -0.5005599734352197
+                    ],
+                    [
+                        "4_\"adult beginners\" doesn't reinvent the comeuppance comedy, and it's a better movie because of it.",
+                        -0.6598102520606018
+                    ],
+                    [
+                        "5_\"adult beginners\" has enough going on to work as a mostly unchallenging time-passer, and nothing more.",
+                        0.5408549372286288
+                    ],
+                    [
+                        "7_it's a sitcom setup that husband-and-wife screenwriters jeff cox and liz flahive",
+                        -0.5214463801990958
+                    ],
+                    [
+                        "7_manage to (almost) cover with a fresh coat of funny and touching.",
+                        0.8375838171875705
+                    ],
+                    [
+                        "10_ for the most part he just points and shoots his performers talking, joking, whining, sharing and caring.",
+                        0.6517612667209028
+                    ],
+                    [
+                        "14_a slightly sourish cocktail of bad behavior, wry observation, and commentary on how difficult modern life can be, especially for characters who feel entitled to a better one.",
+                        -0.7039098454526027
+                    ],
+                    [
+                        "17_it's harmless and mild and likable, ",
+                        -0.525518617296932
+                    ],
+                    [
+                        "22_ forgettable \"adult beginners\" strains a bit too hard for a happy ending, and tends to lay on the schmaltz and metaphors (like the swim class that gives the film its title) with a trowel.",
+                        0.7784819462108037
+                    ],
+                    [
+                        "23_liz flahive and jeff cox can do poignant (not tossing family memorabilia) and clever (connecting skype, hairspray, and stepparents), ",
+                        0.7170065246939099
+                    ]
+                ]
+            },
+            "Joel McHale": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": [
+                    [
+                        "8_if you're a big booster of any of the lead actors (i'm something of a cannavale partisan myself), this will be worth your time.",
+                        0.5973911468831063
+                    ]
+                ]
+            },
+            "Mike Birbiglia": {
+                "args": []
+            },
+            "Josh Charles": {
+                "args": []
+            },
+            "Paula Garcés": {
+                "args": []
+            },
+            "Julie White": {
+                "args": []
+            },
+            "Caitlin FitzGerald": {
+                "args": []
+            },
+            "Jeffrey DeMunn": {
+                "args": []
+            },
+            "Bobby Moynihan": {
+                "args": []
+            },
+            "Sarah Steele": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": [
+                    [
+                        "11_the relative success or failure of \"adult beginners,\" directed with a steady, nonjudgmental hand by ross katz, depends on how funny you find kroll.",
+                        0.7575424772111001
+                    ],
+                    [
+                        "15_the not-funny-enough dialogue can't mask writer kroll's unoriginal plot.",
+                        -0.6589611906127151
+                    ],
+                    [
+                        "24_perhaps it could have benefited from a little more of the comedic energy and subversive spirit that bryne, kroll and cannavale have all proved more than capable of in previous roles.",
+                        0.6229235941136674
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

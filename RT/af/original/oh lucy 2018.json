@@ -1,0 +1,116 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_oh lucy! is quirky and offbeat and strange and sometimes quite dark - and yet oddly lovable.",
+                0.6244784024060398
+            ],
+            [
+                "2_nothing here is wrapped up with a red ribbon the way it would be in an american film, studio made or ",
+                0.6817184031380265
+            ],
+            [
+                "2_oh lucy! has the guts to leave things messy and unkempt, just like life.",
+                -0.6235344568106603
+            ],
+            [
+                "8_the film's viewpoint is unsentimental ",
+                0.5829291440015166
+            ],
+            [
+                "8_the film itself could use a blond wig - it needs to be far more expansive, antic, and disturbing than it is...",
+                -0.5631749901034666
+            ],
+            [
+                "8_ there are moments in oh lucy!",
+                -0.5438474031073705
+            ],
+            [
+                "9_the treatment of its central character veers so wildly between the sympathetic and just plain pathetic that there's a blur where the movie's heart ought to be.",
+                -0.7290101172992731
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Atsuko Hirayanagi": {
+                "args": [
+                    [
+                        "6_what makes hirayanagi's iteration of this familiar theme appealing are the quirky characters, the nuanced performances, and the curious cultural topography of tokyo.",
+                        0.7706716979761917
+                    ],
+                    [
+                        "7_that makes hirayanagi's take on the later-in-life coming-of-age story more honest than most.",
+                        0.8439115291190422
+                    ],
+                    [
+                        "10_writer-director hirayanagi runs into a few minor pacing miscalculations, ",
+                        0.5181260190853955
+                    ],
+                    [
+                        "12_within the confines of this cross-cultural shaggy-dog tale, hirayanagi locates both a sharp vein of absurdist comedy and a bitter, melancholy undertow.",
+                        0.6640810242644151
+                    ],
+                    [
+                        "15_ hirayanagi's idiosyncratic touch marks her as a talent worth tracking.",
+                        0.7473693854912237
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Shioli Kutsuna": {
+                "args": []
+            },
+            "Shinobu Terajima": {
+                "args": [
+                    [
+                        "4_it's weird, sometimes challenging and surprisingly engaging, thanks in large part to terajima, who is outstanding.",
+                        0.8326635201060131
+                    ]
+                ]
+            },
+            "Megan Mullally": {
+                "args": []
+            },
+            "Koji Yakusho": {
+                "args": []
+            },
+            "Reiko Aylesworth": {
+                "args": []
+            },
+            "Josh Hartnett": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Atsuko Hirayanagi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_an idiosyncratic character study suggesting that the road to self-knowledge is beset with obstacles and uncertainties.",
+                0.6076148823372778
+            ],
+            [
+                "9_the treatment of its central character veers so wildly between the sympathetic and just plain pathetic that there's a blur where the movie's heart ought to be.",
+                -0.7290101172992731
+            ],
+            [
+                "14_hirayanagi introduced a more broadly comic setsuko in her 2014 short of the same title, and her feature screenplay (written with boris frumin) still finds humor in the character's flailing attempts to break free from habitual loneliness and obedience.",
+                0.5973970245026374
+            ]
+        ]
+    }
+}

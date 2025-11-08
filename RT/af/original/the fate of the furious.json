@@ -1,0 +1,159 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_like a good car the series needs all of its parts to work.",
+                -0.6550722502483652
+            ],
+            [
+                "2_the fate of the furious offers everything you might want from the series, ",
+                0.5598031940690222
+            ],
+            [
+                "5_if the fate of the furious series is to grow somehow both wearier and dumber with age, then the eighth film is proof of a mission firmly accomplished.",
+                0.6502634323786209
+            ],
+            [
+                "17_at this point, shuffling alliances and adding a few big-name actors... is about all that can be done to distinguish one outing from the next, which doesn't prevent the movie from feeling mechanical, and -- at well over two hours -- a little bloated.",
+                -0.7686021347883195
+            ],
+            [
+                "18_\"fate\" gives fans of the franchise exactly what they want, provided they can ditch logic as easily as the movie does.",
+                -0.5470286361624602
+            ],
+            [
+                "19_\"the fate of the furious\" offers plenty of bang for your buck.",
+                0.6641384995454724
+            ],
+            [
+                "21_\"the fate of the furious\" is a comedown from the gas-fume highs of the last three films, easily the best in the series.",
+                0.748904217763891
+            ],
+            [
+                "22_you judge a fast and the furious movie on whether it delivers the action goods.",
+                0.6605885537289
+            ],
+            [
+                "24_even amid the nonsense, the movie capably sells its all-about-family theme, narratively and ",
+                -0.5040409923130901
+            ],
+            [
+                "29_the movie is the third cheeseburger, the fourth beer, the fifth ice-cream sandwich.",
+                -0.67599452871417
+            ],
+            [
+                "35_the fate of the furious distinctly drops the level of quality in this series for the first time this decade.",
+                0.5382146948270483
+            ],
+            [
+                "45_the worst fast and the furious movie, it betrays almost everything that fans have come to love about the series.",
+                -0.6576649582282375
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "F. Gary Gray": {
+                "args": [
+                    [
+                        "1_just when the fast-and-the-furious-on-ice finale threatens to drag on past the point of action-setpiece endurance, director f. gary gray has the grace to send a supercar from heaven as an actual answer to prayer.",
+                        -0.5151262079453423
+                    ],
+                    [
+                        "10_if anyone here is having more fun than either theron or statham, it's their italian job director, f. gary gray.",
+                        0.6752671378959463
+                    ],
+                    [
+                        "14_[gray] has the common sense to slow things down now and then, letting the charismatic players (among them vin diesel, michelle rodriguez, dwayne johnson, and kurt russell) carry the show instead of bombarding viewers with action.",
+                        0.5445050603666695
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Scott Eastwood": {
+                "args": []
+            },
+            "Kurt Russell": {
+                "args": []
+            },
+            "Nathalie Emmanuel": {
+                "args": []
+            },
+            "Helen Mirren": {
+                "args": []
+            },
+            "Michelle Rodriguez": {
+                "args": []
+            },
+            "Charlize Theron": {
+                "args": []
+            },
+            "Lucas Black": {
+                "args": []
+            },
+            "Elsa Pataky": {
+                "args": []
+            },
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "20_diesel and johnson are at their testosterone-charged best.",
+                        0.8019167728650634
+                    ],
+                    [
+                        "41_thankfully, it's frequently also much funnier and lighter on its feet than previous outings, and a lot of that credit goes to statham and johnson, whose love-hate bromance feels like the real core of the movie.",
+                        -0.613007348328463
+                    ]
+                ]
+            },
+            "Chris \"Ludacris\" Bridges": {
+                "args": []
+            },
+            "Tyrese Gibson": {
+                "args": []
+            },
+            "Jason Statham": {
+                "args": [
+                    [
+                        "10_if anyone here is having more fun than either theron or statham, it's their italian job director, f. gary gray.",
+                        0.6752671378959463
+                    ]
+                ]
+            },
+            "Vin Diesel": {
+                "args": [
+                    [
+                        "14_[gray] has the common sense to slow things down now and then, letting the charismatic players (among them vin diesel, michelle rodriguez, dwayne johnson, and kurt russell) carry the show instead of bombarding viewers with action.",
+                        0.5445050603666695
+                    ],
+                    [
+                        "38_the rock and statham steal the show from diesel, which is a good thing.",
+                        0.7231274403014707
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Chris Morgan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_he could try writing a little.",
+                -0.6421220420103602
+            ]
+        ]
+    }
+}

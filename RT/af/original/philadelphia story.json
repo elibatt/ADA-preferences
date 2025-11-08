@@ -1,0 +1,147 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Waldo Salt": {
+                "args": []
+            },
+            "Donald Ogden Stewart": {
+                "args": [
+                    [
+                        "2_every time katharine hepburn, cary grant, and jimmy stewart connect in a scene, we hear the happy ding! of quality champagne crystal.",
+                        0.6581621303716206
+                    ],
+                    [
+                        "5_cukor and donald ogden stewart's evergreen version of philip barry's romantic farce, centreing on a socialite wedding threatened by scandal, is a delight from start to finish, with everyone involved working on peak form.",
+                        0.6939400537984528
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_in short, the philadelphia story lifts the daily drudge into a charming never-never land, with complete footnotes excusing its existence.",
+                0.7230859337958999
+            ],
+            [
+                "3_the smarties are going to relish philadelphia story a lot more than the two-bit trade...",
+                0.6688236143252421
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "4_george cukor gives it the royal treatment with a splendid supporting cast...",
+                0.7737365741778157
+            ]
+        ],
+        "entities": {
+            "Roland Young": {
+                "args": []
+            },
+            "Cary Grant": {
+                "args": []
+            },
+            "Mary Nash": {
+                "args": []
+            },
+            "Hilda Plowright": {
+                "args": []
+            },
+            "Rex Evans": {
+                "args": []
+            },
+            "Virginia Weidler": {
+                "args": []
+            },
+            "Ruth Hussey": {
+                "args": []
+            },
+            "Veda Buckland": {
+                "args": []
+            },
+            "John Halliday": {
+                "args": []
+            },
+            "Henry Daniell": {
+                "args": []
+            },
+            "Hillary Brooke": {
+                "args": []
+            },
+            "Lionel Pape": {
+                "args": []
+            },
+            "Lee Phelps": {
+                "args": []
+            },
+            "Dorothy Fay": {
+                "args": []
+            },
+            "Claude King": {
+                "args": []
+            },
+            "Lita Chevret": {
+                "args": []
+            },
+            "Russ Clark": {
+                "args": []
+            },
+            "Katharine Hepburn": {
+                "args": [
+                    [
+                        "0_the film is a hepburn triumph, and moviegoers who resent the theatre's habit of requisitioning their stars may feel that miss hepburn's time on the stage has not been spent in vain and that she simply prepared herself for this achievement.",
+                        -0.5915913130239975
+                    ],
+                    [
+                        "2_every time katharine hepburn, cary grant, and jimmy stewart connect in a scene, we hear the happy ding! of quality champagne crystal.",
+                        0.6581621303716206
+                    ]
+                ]
+            },
+            "Helene Whitney": {
+                "args": []
+            },
+            "Florine McKinney": {
+                "args": []
+            },
+            "Robert de Bruce": {
+                "args": []
+            },
+            "David Clyde": {
+                "args": []
+            },
+            "James Stewart": {
+                "args": [
+                    [
+                        "5_cukor and donald ogden stewart's evergreen version of philip barry's romantic farce, centreing on a socialite wedding threatened by scandal, is a delight from start to finish, with everyone involved working on peak form.",
+                        0.6939400537984528
+                    ]
+                ]
+            },
+            "John Howard": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "George Cukor": {
+                "args": [
+                    [
+                        "4_george cukor gives it the royal treatment with a splendid supporting cast...",
+                        0.7737365741778157
+                    ]
+                ]
+            }
+        }
+    }
+}

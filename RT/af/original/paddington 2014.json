@@ -1,0 +1,220 @@
+{
+    "writer": {
+        "entities": {
+            "Hamish McColl": {
+                "args": []
+            },
+            "Paul King (VII) ": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_paddington...comes off as a charming character.",
+                0.681064971048825
+            ],
+            [
+                "2_the kind of character that children around the world have fallen in love with...",
+                0.7709814845339682
+            ],
+            [
+                "4_it remains faithful to the character's roots while also placing him firmly within a contemporary setting.",
+                0.7694957376078336
+            ],
+            [
+                "12_artfully and cleverly, the sweet spirit of that young bear from darkest peru and his many london misadventures materializes brilliantly on screen in the very good hands of writer-director-conjurer paul king.",
+                0.8765047355805042
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nicole Kidman": {
+                "args": []
+            },
+            "Matt King": {
+                "args": [
+                    [
+                        "12_artfully and cleverly, the sweet spirit of that young bear from darkest peru and his many london misadventures materializes brilliantly on screen in the very good hands of writer-director-conjurer paul king.",
+                        0.8765047355805042
+                    ]
+                ]
+            },
+            "Hugh Bonneville": {
+                "args": []
+            },
+            "Kayvan Novak": {
+                "args": []
+            },
+            "Madeleine Harris": {
+                "args": []
+            },
+            "Imelda Staunton": {
+                "args": []
+            },
+            "Peter Capaldi": {
+                "args": []
+            },
+            "Ancuta Breaban": {
+                "args": []
+            },
+            "Ben Whishaw": {
+                "args": []
+            },
+            "Michael Gambon": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Matt Lucas": {
+                "args": []
+            },
+            "Sally Hawkins": {
+                "args": []
+            },
+            "Tim Downie": {
+                "args": []
+            },
+            "Michael Bond": {
+                "args": [
+                    [
+                        "3_a respectable screen version of michael bond's classic children's books.",
+                        0.6376192939298535
+                    ],
+                    [
+                        "35_affectionately honoring the everyday quirks of bond's stories, while subtly updating their middle-class london milieu, king's film may divide loyal paddingtophiles with its high-stakes caper plot, ",
+                        0.7609677794351865
+                    ]
+                ]
+            },
+            "James Bachman": {
+                "args": []
+            },
+            "Samuel Joslin": {
+                "args": []
+            },
+            "Julie Walters": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_paddington is absolutely, positively delightful.",
+                0.8254233029394227
+            ],
+            [
+                "1_paddington is a wonder: warm, gentle, well-acted, funny without being stupid.",
+                0.7203268657281408
+            ],
+            [
+                "2_paddington...comes off as a charming character.",
+                0.681064971048825
+            ],
+            [
+                "2_ a plodding pace and a questionable plotline leave the film version less desirable to watch.",
+                -0.6777737839587841
+            ],
+            [
+                "6_this is not only a dandy, playful movie about a talking bear, ",
+                -0.5172148159757732
+            ],
+            [
+                "7_'paddington' is an absolute delight, visually inventive, thoroughly goofy and goosed by a mix of dry british wit and pratfall shenanigans.",
+                0.7686136092344628
+            ],
+            [
+                "9_for parents looking for a film that'll please them and their kids in equal measure, paddington is -- as goldilocks would say in that other bear story -- just right.",
+                0.6096687551467487
+            ],
+            [
+                "10_this is a charming film whose underlying message of tolerance and acceptance strikes a palpable chord in today's world -- both for children and adults.",
+                0.853103675877851
+            ],
+            [
+                "13_ \"paddington\" delivers a knockout blend of fluid animation and live action.",
+                0.7055470642170046
+            ],
+            [
+                "14_ with a bit of bite, much like paddington's favorite marmalade.",
+                0.6454951269813423
+            ],
+            [
+                "15_utterly beguiling and totally eccentric, paddington is the first theatrical movie to tell the story of the beloved bear from darkest peru.",
+                -0.5132057932046095
+            ],
+            [
+                "17_he's a bear you care about from the first candy-colored frames of the film, which teems with delightful images in a seamless mélange of live action and computer animation.",
+                0.8243051841933875
+            ],
+            [
+                "18_because of its adorable protagonist, laugh-out-loud gags and touching premise, \"paddington\" succeeds in a way most cgi/live-action hybrids do not.",
+                0.7899692673591482
+            ],
+            [
+                "21_such is the chipper goodwill of both paddington and \"paddington\" that you forgive the flaws.",
+                0.6886994430004962
+            ],
+            [
+                "23_\"paddington\" is a mostly smart update loaded with charm, and it preserves enough of the fuzzy feelings for purists to walk away with a smile.",
+                0.7226550182675648
+            ],
+            [
+                "24_it's a relief to say that - as films based on fictional animals go - paddington is better than merely bearable.",
+                0.6661396693805757
+            ],
+            [
+                "25_\"paddington\" is, ultimately, about how a newcomer can become part of a family, and about how good manners and marmalade can get you out of any tricky situation - delightful messages, at any age.",
+                0.9074612378304628
+            ],
+            [
+                "27_paddington's journey from south america to london is just droll enough for adults - qualifying as a gentle parable about xenophobia - and exuberant enough for the youngest viewers.",
+                0.759004230527851
+            ],
+            [
+                "28_ that's closer to the madcap spirit of the muppets and the lovingly rendered style of a wes anderson film than to standard multiplex family fodder.",
+                0.7809705486957015
+            ],
+            [
+                "30_here's a kids movie mostly stripped of manufactured, go-nowhere plot crises!",
+                -0.6999711410263059
+            ],
+            [
+                "31_if the film seems head-and-shoulders above the average effects-driven family-matinee flick, it's because it never gives the impression that it's trying to be anything more (or less) than good-natured and fun to watch.",
+                0.6816474804886514
+            ],
+            [
+                "33_it's a relief to report that the final film is actually quite charming, ",
+                0.6337882548271869
+            ],
+            [
+                "34_this first-ever movie take on peru's furriest export is a cuddly triumph.",
+                0.6619556162620717
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Paul King (VII) ": {
+                "args": [
+                    [
+                        "12_artfully and cleverly, the sweet spirit of that young bear from darkest peru and his many london misadventures materializes brilliantly on screen in the very good hands of writer-director-conjurer paul king.",
+                        0.8765047355805042
+                    ],
+                    [
+                        "35_affectionately honoring the everyday quirks of bond's stories, while subtly updating their middle-class london milieu, king's film may divide loyal paddingtophiles with its high-stakes caper plot, ",
+                        0.7609677794351865
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,388 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the gambler never pays off.",
+                -0.555872495936084
+            ],
+            [
+                "3_as the gambler becomes less about its protagonist's dashed intellectualism and more about the gathering danger of his predicament, the film gains power.",
+                0.6295463248616668
+            ],
+            [
+                "8_\"the gambler\" should have been called \"three supporting characters in search of a lead.\"",
+                -0.6448072445224411
+            ],
+            [
+                "10_what's mostly missing from \"the gambler\" is a sense of why jim is so insistent on squandering his money, privilege and patrimony.",
+                -0.7548671419085294
+            ],
+            [
+                "12_unfortunately, the film's effectiveness turns on whether we buy into his angst.",
+                0.5550759054805812
+            ],
+            [
+                "15_the gambler is a solid remake - a film that retraces the path of the original while carving out its own identity.",
+                0.8013891130281431
+            ],
+            [
+                "17_the gambler is about the torturous dissatisfaction some people feel when they've managed to do everything right ",
+                -0.676953883757189
+            ],
+            [
+                "19_the gambler is a hollow, overwrought and glibly cynical remake of a '70s drama about a self-destructive academic.",
+                -0.6646646733595682
+            ],
+            [
+                "21_the gambler is an unnecessary remake of a well-regarded 1974 film.",
+                -0.622753914544365
+            ],
+            [
+                "26_still, the movie is so quick and cool that for much of the time, we barely notice how little is actually at stake.",
+                -0.5421795405412924
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rupert Wyatt": {
+                "args": [
+                    [
+                        "31_ barely enough soul to sustain even one in rupert wyatt's \"the gambler,\" a stylish, energetic ",
+                        -0.5786318126903984
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Alvin Ing": {
+                "args": []
+            },
+            "Steven Fisher": {
+                "args": []
+            },
+            "Monda Scott": {
+                "args": []
+            },
+            "Lawannah Ann Curry": {
+                "args": []
+            },
+            "Marc Abbink": {
+                "args": []
+            },
+            "Greg Duncan": {
+                "args": []
+            },
+            "John Goodman": {
+                "args": [
+                    [
+                        "22_despite terrific, witty performances by williams and goodman,",
+                        0.7961026391481747
+                    ]
+                ]
+            },
+            "Simon Rhee": {
+                "args": []
+            },
+            "Eric Bryan Stone": {
+                "args": []
+            },
+            "Emory Cohen": {
+                "args": []
+            },
+            "Omar Leyva": {
+                "args": []
+            },
+            "James Wellington": {
+                "args": []
+            },
+            "Christian Taylor": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": [
+                    [
+                        "1_though wahlberg is a fine actor,",
+                        0.6964015937131977
+                    ],
+                    [
+                        "12_in a role that would have been ideal for tom cruise in psycho mode, wahlberg is merely ok.",
+                        0.5516847411479747
+                    ],
+                    [
+                        "14_by suppressing wahlberg's more typical sparkling unpredictability, this new reading of the character recasts him into someone more frustrating than free.",
+                        -0.5786510730178422
+                    ],
+                    [
+                        "16_a string of powerful performances, particularly wahlberg's, and a killer soundtrack - including m83, dinah washington and st. paul & the broken bones - redeem a middling entertainment gambit.",
+                        0.7468999771088465
+                    ],
+                    [
+                        "24_wyatt ... brings some bristly, swaggering energy to the thing, and that in turn may have loosened wahlberg up: he's both more intense and freer than he's been in years.",
+                        0.704361473888192
+                    ],
+                    [
+                        "26_whether wahlberg's been miscast or misdirected, we never buy him as a desperate addict.",
+                        -0.6191534162191724
+                    ],
+                    [
+                        "30_in nearly every scene, wahlberg carries off the central role with what could be called determined elan.",
+                        -0.5912561876609486
+                    ]
+                ]
+            },
+            "Christopher Brian Nicoletti": {
+                "args": []
+            },
+            "Steve Kim": {
+                "args": []
+            },
+            "Tina Wang": {
+                "args": []
+            },
+            "Domenick Lombardozzi": {
+                "args": []
+            },
+            "William Patrick Brown": {
+                "args": []
+            },
+            "Steve Park": {
+                "args": []
+            },
+            "Henry Penzi": {
+                "args": []
+            },
+            "Airrese Marie": {
+                "args": []
+            },
+            "Rio Ahn": {
+                "args": []
+            },
+            "Cham": {
+                "args": []
+            },
+            "Teebone Mitchell": {
+                "args": []
+            },
+            "Jen Yim": {
+                "args": []
+            },
+            "Anthony Kelley": {
+                "args": []
+            },
+            "Griffin Cleveland": {
+                "args": []
+            },
+            "Brie Larson": {
+                "args": []
+            },
+            "Sonya Walger": {
+                "args": []
+            },
+            "Teazz Yung": {
+                "args": []
+            },
+            "Nicki Dion": {
+                "args": []
+            },
+            "Anita Liao": {
+                "args": []
+            },
+            "Jonathan Gatz": {
+                "args": []
+            },
+            "Mattie Hawkinson": {
+                "args": []
+            },
+            "Richard Schiff": {
+                "args": []
+            },
+            "Michael Fisher": {
+                "args": []
+            },
+            "Trevor Denman": {
+                "args": []
+            },
+            "Brian Woods": {
+                "args": []
+            },
+            "Mike Rylander": {
+                "args": []
+            },
+            "Hanna Messick": {
+                "args": []
+            },
+            "Steven J. Wong": {
+                "args": []
+            },
+            "Raquel Pomplun": {
+                "args": []
+            },
+            "George Kennedy": {
+                "args": []
+            },
+            "Justin Ryan": {
+                "args": []
+            },
+            "Norman Towns": {
+                "args": []
+            },
+            "Melanie McComb": {
+                "args": []
+            },
+            "Amin Joseph": {
+                "args": []
+            },
+            "Joseph Steven": {
+                "args": []
+            },
+            "Jason Her": {
+                "args": []
+            },
+            "Cjon Saulsberry": {
+                "args": []
+            },
+            "Sarunas Jackson": {
+                "args": []
+            },
+            "TJ Nibbio": {
+                "args": []
+            },
+            "Scott Cordts": {
+                "args": []
+            },
+            "Marques Johnson": {
+                "args": []
+            },
+            "Davone McDonald": {
+                "args": []
+            },
+            "Mark Schotz": {
+                "args": []
+            },
+            "Jessika Van": {
+                "args": []
+            },
+            "Daniel Mitchell": {
+                "args": []
+            },
+            "Kent Avenido": {
+                "args": []
+            },
+            "Dawayne Jordan": {
+                "args": []
+            },
+            "Stephen Woo": {
+                "args": []
+            },
+            "Moses Yim": {
+                "args": []
+            },
+            "Rex Hindrichs": {
+                "args": []
+            },
+            "Iain Sandison": {
+                "args": []
+            },
+            "Chil Kong": {
+                "args": []
+            },
+            "Stephen Choi": {
+                "args": []
+            },
+            "Leland Orser": {
+                "args": []
+            },
+            "Todd Tetreault": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "Josiah Blount": {
+                "args": []
+            },
+            "Karen Ritchie": {
+                "args": []
+            },
+            "Kelly Bacon": {
+                "args": []
+            },
+            "Jessica Lange": {
+                "args": []
+            },
+            "Chanon Finley": {
+                "args": []
+            },
+            "Carlos L. Smith": {
+                "args": []
+            },
+            "Andre Braugher": {
+                "args": []
+            },
+            "Eddie Martinez": {
+                "args": []
+            },
+            "Lauren Weedman": {
+                "args": []
+            },
+            "Jennifer Floyd": {
+                "args": []
+            },
+            "Alex Gregory": {
+                "args": []
+            },
+            "Micah Taylor West": {
+                "args": []
+            },
+            "Shakira Ja'nai Paye": {
+                "args": []
+            },
+            "Denise J. Saucedo": {
+                "args": []
+            },
+            "Jahmilla Jackson": {
+                "args": []
+            },
+            "Case Lawyer": {
+                "args": []
+            },
+            "Rebecca Lee Robertson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "James Toback": {
+                "args": [
+                    [
+                        "18_this remake of the 1974 james caan film written by james toback ...",
+                        -0.556416180989439
+                    ]
+                ]
+            },
+            "William Monahan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_a dull, self-consciously arty wallow in the messed-up life of a character we don't care about.",
+                -0.8327163503635466
+            ],
+            [
+                "14_by suppressing wahlberg's more typical sparkling unpredictability, this new reading of the character recasts him into someone more frustrating than free.",
+                -0.5786510730178422
+            ]
+        ]
+    }
+}

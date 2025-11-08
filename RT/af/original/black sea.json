@@ -1,0 +1,176 @@
+{
+    "acting": {
+        "args": [
+            [
+                "20_ the cast operates in perfect unison.",
+                0.7925643775658816
+            ]
+        ],
+        "entities": {
+            "Tobias Menzies": {
+                "args": []
+            },
+            "Jodie Whittaker": {
+                "args": []
+            },
+            "Jude Law": {
+                "args": [
+                    [
+                        "0_black sea\" has both, with a gripping performance by jude law as their nexus.",
+                        0.8003380164367941
+                    ],
+                    [
+                        "9_screenwriter dennis kelly infuses all this with a heavy dose of proletarian rage, and law exudes enough charisma in the lead role to supply the movie with one marginally likable character.",
+                        0.5185697392844331
+                    ],
+                    [
+                        "15_ law turns in a great performance, and one walks away feeling that the characters and the scenery here are all convincing.",
+                        0.7378970365207664
+                    ],
+                    [
+                        "17_jude law makes for an effective rogue submarine captain in \"black sea,\" a fittingly immersive thriller, tautly directed by kevin macdonald.",
+                        0.5715830448367389
+                    ],
+                    [
+                        "19_what makes the old tropes new enough to be frequently exciting ... is mr. law's portrayal of a desperate man renewing his lease on life, come what may.",
+                        0.6498926406531359
+                    ]
+                ]
+            },
+            "Michael Smiley": {
+                "args": []
+            },
+            "Ben Mendelsohn": {
+                "args": []
+            },
+            "Karl Davies": {
+                "args": []
+            },
+            "Scoot McNairy": {
+                "args": []
+            },
+            "David Threlfall": {
+                "args": []
+            },
+            "Grigoriy Dobrygin": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_black sea is a submarine thriller set in the murky depths of exactly where the title says.",
+                -0.5609078139769941
+            ],
+            [
+                "3_i'm something of a sucker for submarine-movie clichés",
+                -0.5016895395207224
+            ],
+            [
+                "3_ watching this movie, i was happy the very first time i heard a disconcerting ping.",
+                0.5584295580688301
+            ],
+            [
+                "6_in the end, \"black sea\" is a taut warning about the evil allure of greed.",
+                -0.7667325533596856
+            ],
+            [
+                "7_while the film doesn't cut nearly as deep as [the director's]",
+                -0.6070302693155907
+            ],
+            [
+                "11_the cold war flavor gives black sea the feel of something that might have been made three decades ago.",
+                -0.7222394475155055
+            ],
+            [
+                "12_the film's patina of richly textured grime lends the film a gloomy, claustrophobic beauty that serves its mood, as well as its satisfyingly misanthropic message ...",
+                0.6886651234964368
+            ],
+            [
+                "14_black sea doesn't delve too far below the surface, ",
+                -0.6795553445414362
+            ],
+            [
+                "15_\"black sea\" is a good movie",
+                0.5920873203373913
+            ],
+            [
+                "18_well before it ends preposterously, \"black sea\" has taken leave of its senses.",
+                -0.7621019753849696
+            ],
+            [
+                "22_the heist movie and the submarine picture.",
+                0.5989300927161565
+            ],
+            [
+                "26_black sea is so almost-terrific that it's ultimately more disappointing than a movie that's merely badly or carelessly made.",
+                -0.7656356284729051
+            ],
+            [
+                "28_gripping, smart and genuinely thrilling, black sea elevates itself above most other thrillers by how wisely",
+                0.690910502028636
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "7_while the film doesn't cut nearly as deep as [the director's]",
+                -0.6070302693155907
+            ]
+        ],
+        "entities": {
+            "Kevin Macdonald": {
+                "args": [
+                    [
+                        "10_handled artfully by macdonald, whose earlier work includes \"the last king of scotland,\" dennis kelly's script pulls bits and pieces from \"the treasure of the sierra madre,\" \"the wages of fear\" and its remake, \"sorcerer.\"",
+                        0.6353534464027017
+                    ],
+                    [
+                        "17_jude law makes for an effective rogue submarine captain in \"black sea,\" a fittingly immersive thriller, tautly directed by kevin macdonald.",
+                        0.5715830448367389
+                    ],
+                    [
+                        "23_it's in the second hour that this boat really gets rocking: macdonald has torpedoes of conflict firing in every direction.",
+                        -0.6051104731291068
+                    ],
+                    [
+                        "24_director kevin macdonald uses the das boot-like claustrophobia for maximum tension, then deadens the thrills with flashbacks.",
+                        0.5363992224092314
+                    ],
+                    [
+                        "29_ kevin macdonald's low-key submarine thriller never quite sparks to life.",
+                        0.553784559538687
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_too often, moviegoers must choose between character-driven drama and edge-of-your-seat action. \"",
+                0.7594756103734488
+            ]
+        ],
+        "entities": {
+            "Dennis Kelly": {
+                "args": [
+                    [
+                        "9_screenwriter dennis kelly infuses all this with a heavy dose of proletarian rage, and law exudes enough charisma in the lead role to supply the movie with one marginally likable character.",
+                        0.5185697392844331
+                    ],
+                    [
+                        "10_handled artfully by macdonald, whose earlier work includes \"the last king of scotland,\" dennis kelly's script pulls bits and pieces from \"the treasure of the sierra madre,\" \"the wages of fear\" and its remake, \"sorcerer.\"",
+                        0.6353534464027017
+                    ]
+                ]
+            }
+        }
+    }
+}

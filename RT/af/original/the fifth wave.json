@@ -1,0 +1,214 @@
+{
+    "writer": {
+        "entities": {
+            "Susannah Grant": {
+                "args": []
+            },
+            "Jeff Pinkner": {
+                "args": []
+            },
+            "Akiva Goldsman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the storyline is generic apocalyptic science fiction and feels a lot like an uninspired fusion of independence day and the tv mini-series \"v\".",
+                -0.7152776980446954
+            ],
+            [
+                "25_the screenwriters so excessively telegraph each plot twist that the entire script may well have been written in morse code.",
+                -0.6879272570749392
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Adora Dei": {
+                "args": []
+            },
+            "Cade Canon Ball": {
+                "args": []
+            },
+            "Nick Robinson": {
+                "args": []
+            },
+            "Matthew Zuk": {
+                "args": []
+            },
+            "Zackary Arthur": {
+                "args": []
+            },
+            "Charmin Lee": {
+                "args": []
+            },
+            "Parker Wierling": {
+                "args": []
+            },
+            "Geoffrey Kennedy": {
+                "args": []
+            },
+            "Maria Bello": {
+                "args": []
+            },
+            "Maika Monroe": {
+                "args": [
+                    [
+                        "6_jeez, if only monroe and mortez had been allowed to take over.",
+                        -0.6721991394101066
+                    ]
+                ]
+            },
+            "Ron Livingston": {
+                "args": []
+            },
+            "Marc John Jefferies": {
+                "args": []
+            },
+            "Tony Revolori": {
+                "args": []
+            },
+            "Madison Staines": {
+                "args": []
+            },
+            "Devin McGee": {
+                "args": []
+            },
+            "Paul S. Ryden": {
+                "args": []
+            },
+            "Tara Jones": {
+                "args": []
+            },
+            "Chelsea Hayes": {
+                "args": []
+            },
+            "Nadji Jeter": {
+                "args": []
+            },
+            "Alex MacNicoll": {
+                "args": []
+            },
+            "Kendrick Cross": {
+                "args": []
+            },
+            "Michael Beasley": {
+                "args": []
+            },
+            "Hunter Denoyelles": {
+                "args": []
+            },
+            "Flynn McHugh": {
+                "args": []
+            },
+            "Chloë Grace Moretz": {
+                "args": [
+                    [
+                        "6_the only standout in the cast besides moretz is maika monroe (it follows) as a goth fighter with no patience for pussies.",
+                        -0.5192340349044878
+                    ],
+                    [
+                        "7_say this for cassie sullivan (chloë grace moretz): no matter how bad things get during the alien-wrought apocalypse, her hair looks great.",
+                        -0.7319390484612852
+                    ],
+                    [
+                        "14_it's depressing to see ms. moretz - so spirited in \"clouds of sils maria\" and the \"kick-ass\" movies - reduced to constant mooning at mr. roe.",
+                        0.6389316417452002
+                    ],
+                    [
+                        "27_the 5th wave finds a way to make the most of moretz's talents, with the emotionality she showed in if i stay and the utter physical chutzpah of her kick-ass films.",
+                        0.6936493847188507
+                    ]
+                ]
+            },
+            "Talitha Bateman": {
+                "args": []
+            },
+            "Bailey Anne Borders": {
+                "args": []
+            },
+            "Gabriela Lopez": {
+                "args": []
+            },
+            "Nick Glennie-Smith": {
+                "args": []
+            },
+            "Maggie Siff": {
+                "args": []
+            },
+            "Courtney Munch": {
+                "args": []
+            },
+            "Terry Serpico": {
+                "args": []
+            },
+            "Derek Roberts": {
+                "args": []
+            },
+            "Liev Schreiber": {
+                "args": []
+            },
+            "Justin Smith": {
+                "args": []
+            },
+            "E. Roger Mitchell": {
+                "args": []
+            },
+            "Alex Roe": {
+                "args": []
+            },
+            "Kevin L. Johnson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_seriously, it could have been called ya movie the way it wallows in all the overly familiar tropes of the genre.",
+                -0.5009545621535618
+            ],
+            [
+                "5_ once that's over, the movie must follow its predetermined formula.",
+                -0.5143893199551137
+            ],
+            [
+                "11_ a laughable romance and a ridiculous wrap-up render the film as only a staging ground for the next two parts of the trilogy to come.",
+                -0.8112523163948938
+            ],
+            [
+                "15_with two subsequent books in the series, can a movie franchise be far behind?",
+                -0.6369265175308789
+            ],
+            [
+                "16_this american movie is wretchedly written and badly directed and edited.",
+                -0.632852476863921
+            ],
+            [
+                "19_ this film is sorely lacking in irony - if there is any camp or humor to be found (and there is some)",
+                -0.6468466551079206
+            ],
+            [
+                "23_a movie with a very high bodycount ",
+                0.7138158771656573
+            ],
+            [
+                "24_unlike the movie, i have trouble believing teens can be made to do their algebra homework without whining, let alone instantly cohere into a precision army to repel an alien invasion.",
+                -0.8360556742065872
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "J Blakeson": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

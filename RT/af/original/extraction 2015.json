@@ -1,0 +1,141 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert Steinberg": {
+                "args": []
+            },
+            "Jacques L. Devore": {
+                "args": []
+            },
+            "Summer Altice": {
+                "args": []
+            },
+            "Nathan Varnson": {
+                "args": []
+            },
+            "Sierra Love": {
+                "args": []
+            },
+            "Martin Blencowe": {
+                "args": []
+            },
+            "Olga Valentina": {
+                "args": []
+            },
+            "D.B. Sweeney": {
+                "args": []
+            },
+            "Nikki BreAnne Wells": {
+                "args": []
+            },
+            "Steve Coulter": {
+                "args": []
+            },
+            "Nicole Victoria Gomez": {
+                "args": []
+            },
+            "Christopher Rob Bowen": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            },
+            "Kellan Lutz": {
+                "args": []
+            },
+            "Nick Loeb": {
+                "args": []
+            },
+            "Lydia Hull": {
+                "args": []
+            },
+            "Lindsey Pelas": {
+                "args": []
+            },
+            "David Gordon": {
+                "args": []
+            },
+            "Sydney Fine": {
+                "args": []
+            },
+            "Roman Mitichyan": {
+                "args": []
+            },
+            "John Dauer": {
+                "args": []
+            },
+            "Gina Carano": {
+                "args": []
+            },
+            "Bruce Willis": {
+                "args": [
+                    [
+                        "2_it's a rare movie that can't be saved by bruce willis single-handedly killing all the bad guys.",
+                        -0.7629373857253585
+                    ]
+                ]
+            },
+            "Linda Lind": {
+                "args": []
+            },
+            "Jenna Kelly": {
+                "args": []
+            },
+            "Jeffrey Patterson": {
+                "args": []
+            },
+            "Jillian Sheen": {
+                "args": []
+            },
+            "Richard Chance": {
+                "args": []
+            },
+            "Dan Bilzerian": {
+                "args": []
+            },
+            "Tyler Jon Olson": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Steven C. Miller": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Umair Aleem": {
+                "args": []
+            },
+            "Max Adams": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_and yet, here it is: extraction.",
+                -0.5434989467797426
+            ],
+            [
+                "3_the action-thriller \"extraction\" may not be about tooth removal, ",
+                0.5110442865204705
+            ],
+            [
+                "5_extraction constantly tries to score a flashy tko - ",
+                -0.5916407625380117
+            ]
+        ]
+    }
+}

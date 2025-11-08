@@ -1,0 +1,146 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Nobuyuki Katsube": {
+                "args": []
+            },
+            "Nathan Zellner": {
+                "args": []
+            },
+            "David Zellner": {
+                "args": [
+                    [
+                        "0_the entrancing fifth feature of the zellner brothers, kumiko the treasure hunter, is like found art in the beguiling, haunting manner it combines the seemingly ridiculous and desperate with an ineffable and quiet sadness.",
+                        0.7422391504542435
+                    ],
+                    [
+                        "13_the filmmaking team of david and nathan zellner... have channeled kumiko's visionary madness into a memorable, haunting and highly original american movie.",
+                        0.8321118854899849
+                    ],
+                    [
+                        "28_kumiko's unique vision makes for humour and pathos in david zellner's film.",
+                        0.8179923903971261
+                    ]
+                ]
+            },
+            "Shirley Venard": {
+                "args": []
+            },
+            "Rinko Kikuchi": {
+                "args": [
+                    [
+                        "4_in the title role, kikuchi is impressive, easily handling kumiko's comic and more somber sides and never allowing us to settle into a single or simple interpretation of the character.",
+                        0.7609637759201933
+                    ],
+                    [
+                        "11_at her best, kikuchi evokes the little match girl, bathing her bleak existence with too-brief warmth.",
+                        0.7276071439958358
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a great film for people who are tired of associating the color black with sadness and despair: now, both of those things are available in snowy white!",
+                0.7706472421466641
+            ],
+            [
+                "8_\"kumiko, the treasure hunter\" is a supple combination of little red riding hood adventure, ironic road film and cross-cultural confusion.",
+                0.7550237140100872
+            ],
+            [
+                "10_the film's steady accumulation of little quirks - such as the fact that kumiko has embroidered her treasure map on a piece of fabric, using a freeze-frame from \"fargo\" as a template - soon grow tedious.",
+                0.5294981947757451
+            ],
+            [
+                "14_i can't say that this austere, beautiful movie satisfied my impatient desire for answers.",
+                0.5934109457518361
+            ],
+            [
+                "15_the specifics of this movie are engaging, ",
+                0.5264741476768235
+            ],
+            [
+                "16_if the former, the movie is as sweet as a disney-inspired anime.",
+                0.6328492537443294
+            ],
+            [
+                "21_the title of the movie seems to promise adventure, and the movie does deliver that, ",
+                -0.5399322352142191
+            ],
+            [
+                "24_the film's perfect ending doesn't try to solve that riddle, ",
+                0.6051423931932203
+            ],
+            [
+                "30_a beguiling fable of buried treasure and movie-fed obsession.",
+                0.5677402409266219
+            ],
+            [
+                "31_a work of rigorously disciplined eccentricity, kumiko, the treasure hunter is at once entirely accessible and yet appealing only to a rarified crowd ready to key into its narrow-bandwidth sense of humor.",
+                0.7237582629302558
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Zellner": {
+                "args": [
+                    [
+                        "0_the entrancing fifth feature of the zellner brothers, kumiko the treasure hunter, is like found art in the beguiling, haunting manner it combines the seemingly ridiculous and desperate with an ineffable and quiet sadness.",
+                        0.7422391504542435
+                    ],
+                    [
+                        "13_the filmmaking team of david and nathan zellner... have channeled kumiko's visionary madness into a memorable, haunting and highly original american movie.",
+                        0.8321118854899849
+                    ],
+                    [
+                        "28_kumiko's unique vision makes for humour and pathos in david zellner's film.",
+                        0.8179923903971261
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_in the title role, kikuchi is impressive, easily handling kumiko's comic and more somber sides and never allowing us to settle into a single or simple interpretation of the character.",
+                0.7609637759201933
+            ],
+            [
+                "18_kikuchi brought humanity to the robots-vs.-monsters action of pacific rim in a small supporting role, and she ups that much more with the meek title character of kumiko ...",
+                0.7172566165306915
+            ]
+        ],
+        "entities": {
+            "Nathan Zellner": {
+                "args": [
+                    [
+                        "0_the entrancing fifth feature of the zellner brothers, kumiko the treasure hunter, is like found art in the beguiling, haunting manner it combines the seemingly ridiculous and desperate with an ineffable and quiet sadness.",
+                        0.7422391504542435
+                    ],
+                    [
+                        "13_the filmmaking team of david and nathan zellner... have channeled kumiko's visionary madness into a memorable, haunting and highly original american movie.",
+                        0.8321118854899849
+                    ],
+                    [
+                        "28_kumiko's unique vision makes for humour and pathos in david zellner's film.",
+                        0.8179923903971261
+                    ]
+                ]
+            },
+            "David Zellner": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "2_what the film lacks in actual music and performance (only a snippet of beyoncé's \"formation\"?), it makes up for in intimate interviews with the lethal ladies and their mothers, who are doing their best to give their daughters a better life.",
+                0.8541416696124241
+            ]
+        ],
+        "entities": {
+            "Gari McIntyre": {
+                "args": []
+            },
+            "Blessin Giraldo": {
+                "args": []
+            },
+            "Tayla Solomon": {
+                "args": []
+            },
+            "Paula Dofat": {
+                "args": []
+            },
+            "Cori Grainger": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Amanda Lipitz": {
+                "args": [
+                    [
+                        "11_ in the final number director amanda lipitz, a tony award-winning producer, makes the gutsy amateurs look like pros.",
+                        0.5795185954774499
+                    ],
+                    [
+                        "18_by documenting the collective efforts of getting these girls into college, lipitz lands on the film's most enduring message: the necessity for education as a community effort.",
+                        0.6544689089200089
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_step is a story about relationships.",
+                0.6645163345638283
+            ],
+            [
+                "2_what the film lacks in actual music and performance (only a snippet of beyoncé's \"formation\"?), it makes up for in intimate interviews with the lethal ladies and their mothers, who are doing their best to give their daughters a better life.",
+                0.8541416696124241
+            ],
+            [
+                "7_ step is most instructive in its moments of joy.",
+                0.5898966022470924
+            ],
+            [
+                "10_the girls' passion to excel is palpable, and the film fulfills its inspirational function by summoning up time-tested elements -- the big competition, the underdog competitors, the stumbles and self-doubts along the way.",
+                0.7059678786618935
+            ],
+            [
+                "11_for most of the film the dancing is unsteady, ",
+                0.581069245327144
+            ],
+            [
+                "12_then again, the brisk pace is part of what makes the movie a crowd-pleaser -- that, and knowing that the real prize the girls are working for is much bigger than a step-dancing trophy.",
+                0.7463352025756336
+            ],
+            [
+                "13_this movie fires on every cylinder, investing viewers in personal stories that couldn't have higher stakes and inviting them on a journey that pays off in ways expected and utterly surprising.",
+                0.6933055658923002
+            ],
+            [
+                "14_on, step is one of the year's more meaningful and enjoyable docs.",
+                0.8327487881456069
+            ],
+            [
+                "15_the particulars of even something as simple as stepping itself -- how the team actually choreographs their routines, for instance -- remain fuzzy, and by the end of this brief and breezy doc, much still remains unspoken or unexplored.",
+                0.6817436696614566
+            ],
+            [
+                "19_the film is inspiring and funny and lovely, and you may find the words of one of the girls lingering: \"if you come together with a group of powerful women, the impact will be immense.\"",
+                0.8924318579395241
+            ],
+            [
+                "20_this ebullient chronicle of a baltimore girls step team's senior year matches a fascinating, worthy subject with unabashedly joyful filmmaking.",
+                0.7641722483013698
+            ]
+        ]
+    }
+}

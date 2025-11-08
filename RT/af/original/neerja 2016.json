@@ -1,0 +1,78 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ram Madhvani": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Yogendra Tiku": {
+                "args": []
+            },
+            "Arnold Malek": {
+                "args": []
+            },
+            "Shabana Azmi": {
+                "args": []
+            },
+            "Waqar Khan": {
+                "args": []
+            },
+            "Jim Sarbh": {
+                "args": []
+            },
+            "Vikrant Singta": {
+                "args": []
+            },
+            "Edward Sonnenblick": {
+                "args": []
+            },
+            "Saad Orhaan": {
+                "args": []
+            },
+            "Sonam Kapoor": {
+                "args": []
+            },
+            "Abrar Zahoor": {
+                "args": []
+            },
+            "Shekhar Ravijani": {
+                "args": []
+            },
+            "Kavi Shastri": {
+                "args": []
+            },
+            "Bobby Arora": {
+                "args": []
+            },
+            "Ali Baldiwala": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sanyuktha Chawla Sheikh": {
+                "args": []
+            },
+            "Sanyuktha Chawla Shaikh": {
+                "args": []
+            },
+            "Saiwyn Quadras": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

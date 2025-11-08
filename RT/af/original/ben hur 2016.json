@@ -1,0 +1,158 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_the last of the summer's movie epics is a digitalized eyesore hobbled in every department by staggering incompetence.",
+                0.6333471617577491
+            ],
+            [
+                "13_a film that fails to deliver pretty much all the way down the line.",
+                -0.611430798353535
+            ],
+            [
+                "26_even in this fertile age for popular christian-themed multiplex fare, it's unlikely to supplant film buffs' memories of the epic 1925 and 1959 versions, nor to create any new converts to its loud, blocky, add-minded fusion of pulp and pulpit.",
+                0.6787749409643804
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "27_the good news is that the story of ben-hur is so rock solid that not even the director of abraham lincoln: vampire hunter can screw it up completely.",
+                0.5081911504623504
+            ]
+        ],
+        "entities": {
+            "Timur Bekmambetov": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Haluk Bilginer": {
+                "args": []
+            },
+            "Julian Kostov": {
+                "args": []
+            },
+            "Stefano Scherini": {
+                "args": []
+            },
+            "Maurice Lee": {
+                "args": []
+            },
+            "Marwan Kenzari": {
+                "args": []
+            },
+            "Nazanin Boniadi": {
+                "args": []
+            },
+            "Craig Peritz": {
+                "args": []
+            },
+            "Yorgos Karamihos": {
+                "args": []
+            },
+            "Dato Bakhtadze": {
+                "args": []
+            },
+            "Giorgio Bonelli": {
+                "args": []
+            },
+            "Rodrigo Santoro": {
+                "args": []
+            },
+            "Jack Huston": {
+                "args": [
+                    [
+                        "0_ its story of a judean prince (jack huston) who keeps running into jesus of nazareth (rodrigo santoro) offers plenty of action and spectacle.",
+                        0.5480086177943004
+                    ],
+                    [
+                        "16_jack huston is impressive as judah ben-hur.",
+                        0.7605813624050951
+                    ]
+                ]
+            },
+            "Denise Tantucci": {
+                "args": []
+            },
+            "Alessandro Giuggioli": {
+                "args": []
+            },
+            "Toby Kebbell": {
+                "args": []
+            },
+            "Ioan Gunn": {
+                "args": []
+            },
+            "Edoardo Purgatori": {
+                "args": []
+            },
+            "Yasen Atour": {
+                "args": []
+            },
+            "Sofia Black-D'Elia": {
+                "args": []
+            },
+            "Pilou Asbæk": {
+                "args": []
+            },
+            "Jay Natelle": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": [
+                    [
+                        "8_its few good ideas inevitably collapse, leaving a remake that can really only justify its existence with the truth that chariot races look great in cgi and morgan freeman looks great in dreads.",
+                        -0.500514075010864
+                    ]
+                ]
+            },
+            "Alan Cappelli Goetz": {
+                "args": []
+            },
+            "Simone Spinazze": {
+                "args": []
+            },
+            "Jarreth J. Merz": {
+                "args": []
+            },
+            "James Cosmo": {
+                "args": []
+            },
+            "Moises Arias": {
+                "args": []
+            },
+            "Francesco Scianna": {
+                "args": []
+            },
+            "Ayelet Zurer": {
+                "args": []
+            },
+            "David Walmsley": {
+                "args": []
+            },
+            "Gabriel Farnese": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "John Ridley": {
+                "args": []
+            },
+            "Keith R. Clarke": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "writer": {
+        "entities": {
+            "Drew Fellman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David Lickley": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_a terrific big-screen/3d film about the rescue of baby elephants and orangutans by dedicated humans introduces young people to a strong conservation ethic.",
+                0.7412111765825021
+            ],
+            [
+                "2_ let's face it, the visuals are what make this movie.",
+                0.5264564881882214
+            ],
+            [
+                "2_born to be wild takes you to places you've never been and makes you wish you had.",
+                0.5270928451733214
+            ],
+            [
+                "7_\"born to be wild\" is a good nature film - and a great technical achievement.",
+                0.806216362842833
+            ],
+            [
+                "9_ the film proves a rich and memorable journey.",
+                0.7896215306997356
+            ],
+            [
+                "12_an honest marketer might have just gone ahead and titled the film \"awwwww.''",
+                -0.500874268802458
+            ],
+            [
+                "13_born to be wild is both grand spectacle and intimate tale.",
+                0.6762810692122652
+            ],
+            [
+                "14_everything a family movie should be: touching, funny and inspiring.",
+                0.8336765761799614
+            ],
+            [
+                "16_ never insufferably so, \"born to be wild 3d\" is best taken as the perfect film to transition your kids from animation to live action fare - short, sweet, and educational.",
+                0.8249020712235243
+            ],
+            [
+                "17_clocking in at only 40 minutes, the film has no time to thoroughly explore the issues at the heart of its bifurcated tale.",
+                -0.6368818866139365
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Daphne Sheldrick": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": [
+                    [
+                        "3_the hip soundtrack adds momentum, and the reassuring narration of morgan freeman lets us know these lucky orphans will have a fighting chance for survival after taking their first steps -- or swings -- back into the wild.",
+                        0.8073184220953181
+                    ]
+                ]
+            },
+            "Dr. Birute Mary Galdikas": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

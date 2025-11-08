@@ -1,0 +1,429 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_if it's so easy to guess what women want, why is this movie so utterly devoid of any of it?",
+                -0.741051567434375
+            ],
+            [
+                "1_that sound you hear is the high-fives in the writers' room, and that, unfortunately, is where the filmmakers' focus remains.",
+                -0.595388111648473
+            ],
+            [
+                "4_perhaps the film's greatest trick is the one that happens offscreen: hours after the end credits roll, it will completely disappear from your mind.",
+                0.6749052907752868
+            ],
+            [
+                "5_this is the kind of movie where we're not supposed to know at any time who is playing whom, ",
+                -0.5088766289638795
+            ],
+            [
+                "6_the mix of longtime star and minx on the rise is one tasty element in the success of a movie that approaches the modest goals and effortless allure of a 60-year-old hitchcock.",
+                0.770846523817393
+            ],
+            [
+                "8_in \"focus,\" he feels like himself again, and he reminds you why he became one of hollywood's biggest stars in the first place.",
+                -0.5604239624026754
+            ],
+            [
+                "9_it's not that the movie keeps you guessing with its intricacy, it's more like it's making it up as it goes along.",
+                -0.6483234391070823
+            ],
+            [
+                "15_as it stands, \"focus\" just might be a game changer.",
+                -0.6064310831516107
+            ],
+            [
+                "16_the film's chief pleasure comes from fighting the desire to believe at any given point that the hero is finally being sincere, that now we are seeing the real man and his real plan.",
+                0.7450660318208802
+            ],
+            [
+                "19_focus resembles a commercial for a pricey brand of liquor, an elite hotel or a luxury car more than a story-driven movie.",
+                -0.5409276494920754
+            ],
+            [
+                "23_the film itself comes to feel like a con, thanks to a script that's too clever by two-thirds, and ",
+                -0.5163269046926966
+            ],
+            [
+                "24_the kind of movie you see with some pleasure",
+                0.7884929820201583
+            ],
+            [
+                "25_there's much to be said for a film that doesn't overreach, delivers on most of its promises and gets the audience out the door in just over an hour and a half.",
+                -0.7762479190883929
+            ],
+            [
+                "27_it's yet another reminder that if it's not called \"the sting,\" you shouldn't get too comfortable with a con-game movie.",
+                0.5475377840203988
+            ],
+            [
+                "32_\"focus\" is ridiculous in every detail.",
+                -0.6491233381759021
+            ],
+            [
+                "32_it's a movie with no truth, that teaches nothing and shows nothing, that has only its audacity to recommend it.",
+                0.520573725074331
+            ],
+            [
+                "34_ \"focus\" is a seductive enough rehash that benefits from the built-in pleasures of the trade.",
+                0.7073580157499716
+            ],
+            [
+                "35_focus is a shiny, stylish shell game of a film that, much like its protagonists, relies on breezy chatter, a good sense of humor and a lot of misdirection to succeed.",
+                0.7896403258407625
+            ],
+            [
+                "38_focus' problem isn't that its stars lack charm, ",
+                -0.7425908112152863
+            ],
+            [
+                "41_what keeps the film humming along as smoothly as it does is the chemistry and charisma of its leads.",
+                0.6236694330647589
+            ],
+            [
+                "43_like a perfect cocktail mixes the sour with the sweet and the bright with the boozy, \"focus\" combines seamless, superbly-crafted filmmaking with the fizz and fun created by its leads.",
+                0.8988126855626537
+            ],
+            [
+                "44_this kind of film needs a punchy right hook to follow up its clever, if outlandish, jab late in the game, and \"focus\" doesn't deliver.",
+                -0.5918501246881895
+            ],
+            [
+                "46_if the perfect con is about diverting one's focus, then this one keeps you distracted till the end.",
+                0.6541064549780922
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Glenn Ficarra": {
+                "args": []
+            },
+            "John Requa": {
+                "args": [
+                    [
+                        "12_even if you're willing to forgive its sinkhole plotholes and farthest-fetched conceits, the film - from cowriters/co-directors glenn ficarra and john requa - ultimately makes no sense.",
+                        0.6285824010943849
+                    ],
+                    [
+                        "17_the second half feels like ficarra and requa ran out of ideas and just hit restart.",
+                        -0.7993675327693262
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Lindsay Clift": {
+                "args": []
+            },
+            "Kate Adair": {
+                "args": []
+            },
+            "Stephanie Honoré": {
+                "args": []
+            },
+            "Hilary Tuttle": {
+                "args": []
+            },
+            "Jano Seitun": {
+                "args": []
+            },
+            "Stevie Baggs Jr.": {
+                "args": []
+            },
+            "Steve Hammond": {
+                "args": []
+            },
+            "Victor Moran": {
+                "args": []
+            },
+            "Dominic Fumusa": {
+                "args": []
+            },
+            "Jon Eyez": {
+                "args": []
+            },
+            "Ruy Gatti": {
+                "args": []
+            },
+            "Antonella Saldicco": {
+                "args": []
+            },
+            "Federico Bongiorno": {
+                "args": []
+            },
+            "Cacilie Hughes": {
+                "args": []
+            },
+            "Antonella Macchi": {
+                "args": []
+            },
+            "Steve Kim": {
+                "args": []
+            },
+            "Tenzin Yeshi Paichang": {
+                "args": []
+            },
+            "Don Yesso": {
+                "args": []
+            },
+            "Nina Leon": {
+                "args": []
+            },
+            "Eric McMullen": {
+                "args": []
+            },
+            "Brennan Brown": {
+                "args": []
+            },
+            "B.D. Wong": {
+                "args": []
+            },
+            "Clay Chamberlin": {
+                "args": []
+            },
+            "Guillermo Miguel": {
+                "args": []
+            },
+            "Pierre Marquille": {
+                "args": []
+            },
+            "Thomas Francis Murphy": {
+                "args": []
+            },
+            "Chip Carriere": {
+                "args": []
+            },
+            "Martin Covert": {
+                "args": []
+            },
+            "Paula Brasca": {
+                "args": []
+            },
+            "Brett Baker": {
+                "args": []
+            },
+            "Alan Sabbagh": {
+                "args": []
+            },
+            "David Stanford": {
+                "args": []
+            },
+            "Billy Slaughter": {
+                "args": []
+            },
+            "Adrian Martinez": {
+                "args": []
+            },
+            "Han Soto": {
+                "args": []
+            },
+            "Joaquín Berthold": {
+                "args": []
+            },
+            "Billy Louviere": {
+                "args": []
+            },
+            "Nicoye Banks": {
+                "args": []
+            },
+            "Walter Prestenberg Jr.": {
+                "args": []
+            },
+            "Jorge Takashima": {
+                "args": []
+            },
+            "Justina Bustos": {
+                "args": []
+            },
+            "Taylor Persh": {
+                "args": []
+            },
+            "Gerald McRaney": {
+                "args": []
+            },
+            "Scott M. Jefferson": {
+                "args": []
+            },
+            "Alvin Chon": {
+                "args": []
+            },
+            "Apollo Robbins": {
+                "args": []
+            },
+            "David Haines": {
+                "args": []
+            },
+            "Nas Mehdi": {
+                "args": []
+            },
+            "Armando L. Leduc": {
+                "args": []
+            },
+            "Juan Minujín": {
+                "args": []
+            },
+            "Will Smith": {
+                "args": [
+                    [
+                        "2_[for smith,] focus isn't a full return to brilliance ",
+                        -0.5941874992306233
+                    ],
+                    [
+                        "10_mostly, it is fun to watch will smith and margot robbie, and to marvel at whatever divine or evolutionary miracle concentrated so much charisma in the two of them.",
+                        0.8139294766758771
+                    ],
+                    [
+                        "18_will smith has been telling us not to trust him the entire movie.",
+                        -0.5586969469228186
+                    ],
+                    [
+                        "21_yet focus, will smith's mea culpa to moviegoers after the post-apocalyptic tedium of after earth two years ago, is more breezily enjoyable than it has a right to be.",
+                        0.5375421826594682
+                    ],
+                    [
+                        "29_a slick, derivative con man movie starring a typically debonair will smith.",
+                        0.5107615787693106
+                    ],
+                    [
+                        "33_it's beautifully photographed and entertaining, with charming performances by will smith and newcomer margot robbie that tease and tantalize.",
+                        0.8851177845401932
+                    ],
+                    [
+                        "36_co-stars will smith and margot robbie remain consistently charismatic, even once the script for this heist caper collapses in a punishing pile of its own twists and double-crosses.",
+                        0.6301114420534975
+                    ]
+                ]
+            },
+            "Daniella Short": {
+                "args": [
+                    [
+                        "42_a predictably unpredictable tale of conmen and women complete with the industry-mandated quantity of fast cars, short skirts, sharp suits, slippery billionaires and \"oh, it was that guy all along!\"",
+                        -0.5646867095277297
+                    ]
+                ]
+            },
+            "Rodrigo Santoro": {
+                "args": []
+            },
+            "Nick Reasons": {
+                "args": []
+            },
+            "Thomas Holley": {
+                "args": []
+            },
+            "Thomas Thomason": {
+                "args": []
+            },
+            "Dotan Bonen": {
+                "args": []
+            },
+            "Robert Taylor (VII)": {
+                "args": []
+            },
+            "Frank Monteleone": {
+                "args": []
+            },
+            "Daniel Ladmirault": {
+                "args": []
+            },
+            "Michael Dardant": {
+                "args": []
+            },
+            "Darrell Foster": {
+                "args": []
+            },
+            "Melania Lenoir": {
+                "args": []
+            },
+            "Pietro Gian": {
+                "args": []
+            },
+            "Patrick J. O'Hara": {
+                "args": []
+            },
+            "Mariano Bertolini": {
+                "args": []
+            },
+            "Laney Chouest": {
+                "args": []
+            },
+            "Margot Robbie": {
+                "args": [
+                    [
+                        "13_smith and robbie are terrific together.",
+                        0.704885968992612
+                    ],
+                    [
+                        "26_even when focus fumbles, robbie deals a winning hand.",
+                        0.6845026034654201
+                    ],
+                    [
+                        "28_smith and robbie, both going through the motions, don't click at all, and robbie in particular has nothing to play.",
+                        -0.7769536560679714
+                    ],
+                    [
+                        "40_if grace kelly had been raised by coyotes, she might have stalked the screen like focus' margot robbie, a va-va-voom blonde with bite",
+                        -0.7758024211429824
+                    ]
+                ]
+            },
+            "Griff Furst": {
+                "args": []
+            },
+            "Hervé Segata": {
+                "args": []
+            },
+            "Aaron Jay Rome": {
+                "args": []
+            },
+            "Chris Dieker": {
+                "args": []
+            },
+            "Derrick Townsend": {
+                "args": []
+            },
+            "Nicholas Harris": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "30_smith wears it like a well-tailored suit, and the brisk, snappy dialogue is well delivered by an able cast.",
+                0.5266816175860671
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Glenn Ficarra": {
+                "args": []
+            },
+            "John Requa": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_the film itself comes to feel like a con, thanks to a script that's too clever by two-thirds, and ",
+                -0.5163269046926966
+            ],
+            [
+                "36_co-stars will smith and margot robbie remain consistently charismatic, even once the script for this heist caper collapses in a punishing pile of its own twists and double-crosses.",
+                0.6301114420534975
+            ],
+            [
+                "45_unfortunately, since the major characters' salient character traits are insincerity, opaqueness and untruthfulness, it's hard to invest much interest in any of them.",
+                -0.6688672970567475
+            ]
+        ]
+    }
+}

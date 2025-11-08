@@ -1,0 +1,91 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "César Domboy": {
+                "args": []
+            },
+            "Jocelyne Desverchere": {
+                "args": []
+            },
+            "Patrick Bruel": {
+                "args": []
+            },
+            "Christian Clavier": {
+                "args": []
+            },
+            "Emile Berling": {
+                "args": []
+            },
+            "Kev Adams": {
+                "args": []
+            },
+            "Coline Leclère": {
+                "args": []
+            },
+            "Dorian Le Clech": {
+                "args": []
+            },
+            "Bernard Campan": {
+                "args": []
+            },
+            "Elsa Zylberstein": {
+                "args": []
+            },
+            "Ilian Bergala": {
+                "args": []
+            },
+            "Batyste Fleurial": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Christian Duguay": {
+                "args": [
+                    [
+                        "2_the great value of christian duguay's film is the degree to which it makes such a barbaric and bewildering chapter in human history comprehensible for young audiences.",
+                        0.7911214142849559
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_the writing and its attendant characterizations have an undeniable integrity, the particular historical detail offered by the story is not common in films about this era, and the lead performers are moving.",
+                0.6345739273343074
+            ]
+        ],
+        "entities": {
+            "Laurent Zeitoun": {
+                "args": []
+            },
+            "Jonathan Allouche": {
+                "args": []
+            },
+            "Alexandra Geismar": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this isn't the first film to try to deal with the horrors of the holocaust from a child's perspective, ",
+                0.555745636284245
+            ],
+            [
+                "3_\"a bag of marbles\" (\"un sac de billes\") turns nazi-occupied france into an obstacle course for two young jewish boys on the run, and their plight into slickly sentimental thriller material for all of us.",
+                0.7366909437812379
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Paul Calori": {
+                "args": []
+            },
+            "Kostia Testut": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the performances, songs, and choreography are all charmingly low-key, giving the film a handmade quality that suggests pride in a job well done.",
+                0.8219595297163175
+            ],
+            [
+                "2_while footnotes works up a certain provisional charm at moments, it's too determinedly low key as a whole to make a really memorable impression.",
+                0.758263305199576
+            ],
+            [
+                "5_footnotes isn't perfect, ",
+                0.5066317961569688
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Loïc Corbery": {
+                "args": []
+            },
+            "Olivier Chantreau": {
+                "args": []
+            },
+            "François Morel": {
+                "args": []
+            },
+            "Pauline Etienne": {
+                "args": []
+            },
+            "Julie Victor": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Paul Calori": {
+                "args": []
+            },
+            "Kostia Testut": {
+                "args": [
+                    [
+                        "3_this feather-light french confection, written and directed by paul calori and kostia testut, addresses its dignity-of-work thesis with sweetness and heart.",
+                        0.6514794143709424
+                    ]
+                ]
+            }
+        }
+    }
+}

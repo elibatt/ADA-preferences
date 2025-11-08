@@ -1,0 +1,237 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_the conjuring 2 is most certainly one of the better efforts...",
+                0.6295547811987614
+            ],
+            [
+                "6_ the first movie was just too good and the conjuring 2 can't hold a candle to its predecessor.",
+                -0.6821870241782638
+            ],
+            [
+                "8_the conjuring 2 proves that, with a sufficient investment of time and energy, sequels don't have to be unsatisfying cash-grabs.",
+                -0.5403049296376835
+            ],
+            [
+                "9_the conjuring 2\" does everything you want a sequel to do.",
+                -0.6387848969305837
+            ],
+            [
+                "13_\"the conjuring 2\" satisfies more than it disappoints.",
+                0.5666924133879818
+            ],
+            [
+                "15_with big success comes big expectations, and \"the conjuring 2\" is loaded with them.",
+                -0.5398277071706972
+            ],
+            [
+                "19_ the movie's finesse is something even non-horror fans can appreciate.",
+                0.6031385366288131
+            ],
+            [
+                "20_this isn't just a good horror film.",
+                -0.5162231477391757
+            ],
+            [
+                "20_it's a good film, which just happens to fall in the horror genre.",
+                0.6949219044346848
+            ],
+            [
+                "21_when the conjuring 2 focuses its efforts on scaring the audience, it succeeds, wildly.",
+                0.6729305704520017
+            ],
+            [
+                "22_it's great moments in haunted house movies, collected in a double album set called \"the conjuring 2.\"",
+                0.6148296752730473
+            ],
+            [
+                "24_the conjuring 2,\" it seems, is itself possessed - by the ghosts of other, better movies.",
+                -0.6246033793088597
+            ],
+            [
+                "26_the ghost busters of the conjuring 2 are scary good.",
+                -0.533777252573427
+            ],
+            [
+                "28_ even if the conjuring 2 doesn't deliver the delightful jolts of its predecessor, it maintains a consistent chill throughout.",
+                0.680726082211722
+            ],
+            [
+                "29_ there's nothing on par with the first film's brilliant hide-and-clap scene with lili taylor.",
+                0.5247596800951182
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "James Wan": {
+                "args": [
+                    [
+                        "1_[wan's] framing of the scares is artfully managed, and it is the accomplished wolfe, rather than any monster, who takes true possession of the tale.",
+                        0.6229346313975679
+                    ],
+                    [
+                        "5_much longer, more elaborate, more dramatic, and more packed with chilling moments and hair-raising visuals than one could anticipate, even from wan.",
+                        0.6340117762625335
+                    ],
+                    [
+                        "17_ the power of director james wan compels you to scream your bloody head off.",
+                        -0.5400915083470824
+                    ],
+                    [
+                        "19_ wan is a humane sort of sadist.",
+                        0.5622622024008246
+                    ],
+                    [
+                        "29_there are some solid scares (wan is too gifted in the dark art of gotcha manipulation to not make you leap a few times), ",
+                        -0.5707122484387781
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Carey Hayes": {
+                "args": []
+            },
+            "Chad Hayes": {
+                "args": []
+            },
+            "James Wan": {
+                "args": []
+            },
+            "David Leslie Johnson-McGoldrick": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Shannon Kook": {
+                "args": []
+            },
+            "Patrick McAuley": {
+                "args": []
+            },
+            "Simon McBurney": {
+                "args": []
+            },
+            "Kate Cook": {
+                "args": []
+            },
+            "Bob Adrian": {
+                "args": []
+            },
+            "Franka Potente": {
+                "args": []
+            },
+            "Patrick Wilson": {
+                "args": []
+            },
+            "Emily Tasker": {
+                "args": []
+            },
+            "Joseph Bishara": {
+                "args": []
+            },
+            "Frances O'Connor (II)": {
+                "args": []
+            },
+            "Benjamin Haigh": {
+                "args": []
+            },
+            "Chris Royds": {
+                "args": []
+            },
+            "Carol Been": {
+                "args": [
+                    [
+                        "16_it's just a shame the end of the movie wasn't lurking around the corner far sooner than when it finally turned up, by which time a considerable amount of my emotional investment in the film had been exhausted.",
+                        -0.8343423749886816
+                    ]
+                ]
+            },
+            "Lauren Esposito": {
+                "args": []
+            },
+            "Thomas Harrison": {
+                "args": []
+            },
+            "Sterling Jerins": {
+                "args": []
+            },
+            "Lance C. Fuller": {
+                "args": []
+            },
+            "Annie Young": {
+                "args": []
+            },
+            "Simon Delaney": {
+                "args": []
+            },
+            "Debora Weston": {
+                "args": []
+            },
+            "Javier Botet": {
+                "args": []
+            },
+            "Jennifer Collins": {
+                "args": []
+            },
+            "Abhi Sinha": {
+                "args": []
+            },
+            "Maria Doyle Kennedy": {
+                "args": []
+            },
+            "Vera Farmiga": {
+                "args": [
+                    [
+                        "12_a mostly satisfying follow-up that brings back the excellent patrick wilson and vera farmiga as ed and lorraine warren, the real-life paranormal experts most famous for investigating \"the amityville horror'' house.",
+                        0.890027567901594
+                    ]
+                ]
+            },
+            "Bonnie Aarons": {
+                "args": []
+            },
+            "Cory English": {
+                "args": []
+            },
+            "Elliot Joseph": {
+                "args": []
+            },
+            "Madison Wolfe": {
+                "args": [
+                    [
+                        "1_[wan's] framing of the scares is artfully managed, and it is the accomplished wolfe, rather than any monster, who takes true possession of the tale.",
+                        0.6229346313975679
+                    ]
+                ]
+            },
+            "Robin Atkin Downes": {
+                "args": []
+            },
+            "Holly Hayes": {
+                "args": []
+            },
+            "Daniel Wolfe": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_solid acting and an emotional back story set this one slightly apart.",
+                -0.5232797886264684
+            ]
+        ]
+    }
+}

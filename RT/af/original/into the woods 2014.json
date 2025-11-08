@@ -1,0 +1,264 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Rob Marshall": {
+                "args": [
+                    [
+                        "10_rob marshall - who previously shepherded a glossy if slightly diluted version of \"chicago\" to the screen - does a decent job transferring the material.",
+                        -0.7182219965850477
+                    ],
+                    [
+                        "11_as with chicago, marshall makes bold choices, ",
+                        0.7245288237567978
+                    ],
+                    [
+                        "17_the stephen sondheim-james lapine 1987 musical into the woods has been transferred to the screen by director rob marshall with most of its complexities and light-dark tonalities intact.",
+                        0.674149968314844
+                    ],
+                    [
+                        "33_director rob marshall simply cuts from one tale to the next, isolating his actors.",
+                        0.5776716436280085
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "11_his cast may glitter with film stars, ",
+                0.54728191609672
+            ],
+            [
+                "20_thanks to a few cast members, the answer is - yes, and for the most part quite nicely.",
+                0.5735088338647975
+            ],
+            [
+                "22_a capable cast and some very fine songs, ",
+                0.6669202609232976
+            ],
+            [
+                "23_what is celebrated is the art of storytelling and the bedazzling attraction of a killer cast, uninhibited acting, giddy escapism, attractive visuals and an extroverted score.",
+                0.7615317402628587
+            ],
+            [
+                "26_the cast is top-notch, the story is satisfyingly dark, the performances are fun and, of course, the songs are terrific.",
+                0.8680016553536041
+            ],
+            [
+                "37_the life lessons are delivered with insight and heart, the rightfully beloved music is well handled and the cast is so enthusiastic that we can excuse some rough patches.",
+                0.8405536962942872
+            ]
+        ],
+        "entities": {
+            "James Corden": {
+                "args": []
+            },
+            "Lucy Punch": {
+                "args": []
+            },
+            "Christine Baranski": {
+                "args": []
+            },
+            "Scott Plumridge": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": []
+            },
+            "Tammy Blanchard": {
+                "args": []
+            },
+            "Frances De La Tour": {
+                "args": []
+            },
+            "Lilla Crawford": {
+                "args": []
+            },
+            "Johnny Depp": {
+                "args": []
+            },
+            "Paul Gemignani": {
+                "args": []
+            },
+            "Daniel Huttlestone": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": [
+                    [
+                        "36_maybe he'll have emily blunt as a guest.",
+                        0.5913513642513846
+                    ]
+                ]
+            },
+            "Richard Glover": {
+                "args": []
+            },
+            "Annette Crosbie": {
+                "args": []
+            },
+            "Andy Hayes": {
+                "args": []
+            },
+            "Billy Magnussen": {
+                "args": []
+            },
+            "Chris Pine": {
+                "args": []
+            },
+            "Meryl Streep": {
+                "args": [
+                    [
+                        "2_with the exception of meryl streep (as the witch) and james corden (as the baker), the cast is bland, and the bombastic orchestrations tend to steamroll the nuances of sondheim's score.",
+                        0.5875385515243776
+                    ],
+                    [
+                        "19_\"into the woods'' thankfully retains most of its wit and bite, and showcases two of the year's very best female performances, from streep and blunt.",
+                        0.782638908057887
+                    ]
+                ]
+            },
+            "Simon Russell Beale": {
+                "args": []
+            },
+            "Gioacchino Jim Cuffaro": {
+                "args": []
+            },
+            "Joanna Riding": {
+                "args": []
+            },
+            "Tracey Ullman": {
+                "args": []
+            },
+            "David Georgiou": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "James Lapine": {
+                "args": [
+                    [
+                        "7_\"into the woods,\" the splendid disney screen adaptation of the stephen sondheim-james lapine musical, infuses new vitality into the tired marketing concept of entertainment for \"children of all ages.\"",
+                        0.7730773975351521
+                    ],
+                    [
+                        "17_the stephen sondheim-james lapine 1987 musical into the woods has been transferred to the screen by director rob marshall with most of its complexities and light-dark tonalities intact.",
+                        0.674149968314844
+                    ],
+                    [
+                        "34_for years, composer and lyricist stephen sondheim's 1987 fairy tale mashup, written with librettist james lapine, has hacked its way through the thicket of hollywood development.",
+                        0.6096569521095518
+                    ]
+                ]
+            },
+            "Rob Marshall": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ profound musical, into the woods is mostly golden.",
+                0.6285253610163383
+            ],
+            [
+                "1_ a dizzying and delightful first half, the film ultimately devolves into a very grim fairy tale.",
+                0.6265978699184735
+            ],
+            [
+                "4_the movie is a watchable, tuneful contraption.",
+                -0.5243034251226251
+            ],
+            [
+                "5_marshall's film captures enough of the emotions that course through this sneaky fairy tale about childish things like love, sex, grief, insecurity, abandonment, and forbearance.",
+                0.7646987008720962
+            ],
+            [
+                "8_\"into the woods\" could have taken a well-worn path toward stagey sentiments, ",
+                -0.5667588637524645
+            ],
+            [
+                "9_the sly send-up of fantasy tropes and healthy doses of humor help into the woods feel very much like the books and films it gently satirizes, even as it stands on its own as a solid entry into the musical-fantasy genre.",
+                0.8378774421997446
+            ],
+            [
+                "11_his cast may glitter with film stars, ",
+                0.54728191609672
+            ],
+            [
+                "11_ they work as an ensemble and keep their stories emotionally true against a terrifically rich orchestral accompaniment.",
+                0.8047654253099222
+            ],
+            [
+                "12_what makes \"into the woods\" so entertaining is the cleverness of the tale itself and the way specific characters match the talents of its storytellers.",
+                0.706705309595756
+            ],
+            [
+                "13_if nothing else, \"into the woods\" will provide edifying sustenance for holiday crowds desperate to find a fitting movie to share with their family after the gift-opening and feasting is over.",
+                0.642606235845393
+            ],
+            [
+                "16_\"into the woods\" is a paean to the primal magic of storytelling.",
+                0.6589088907395828
+            ],
+            [
+                "20_does it work as a movie?",
+                0.5123570204172637
+            ],
+            [
+                "21_for anyone who can appreciate the darker side of fairy-tales told in a musical with depth and nuance, into the woods is a journey worth taking.",
+                0.8323320155254805
+            ],
+            [
+                "22_this disney movie ain't kid stuff.",
+                -0.5915636002338067
+            ],
+            [
+                "25_some of the musical's superfans will feel shortchanged by the movie no matter what, ",
+                0.5148471447929737
+            ],
+            [
+                "27_with archness and irony, \"into the woods\" goes deeper into the fairy stories, allowing us to see familiar archetypes in new and not so flattering ways.",
+                0.760517483482909
+            ],
+            [
+                "28_even if this into the woods lacks the exhilaration of the best movie musicals, it does capture the show's emotional intimacy -- no small task in a field that favors razzle dazzle.",
+                0.8071652811547353
+            ],
+            [
+                "30_into the woods left me out in the cold.",
+                -0.7291645472510668
+            ],
+            [
+                "32_with its ominous gnarled trees and enchanted look, into the woods is a place worth exploring.",
+                0.8194342002575072
+            ],
+            [
+                "34_and the movie now before us?",
+                -0.5789431205070492
+            ],
+            [
+                "38_this movie always seems to distance itself from that existential truth that was at the core of sondheim's original.",
+                0.5916111424084955
+            ],
+            [
+                "39_the first two-thirds of the film, which are like the brothers grimm's greatest hits on laughing gas, have a fizzy, fairy-dust energy.",
+                0.8589151979956023
+            ],
+            [
+                "40_now comes the movie version, and it's a singing and dancing manifestation of both of those ideas.",
+                0.7376737783328265
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

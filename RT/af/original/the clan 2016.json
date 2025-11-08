@@ -1,0 +1,98 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_some of the movie's political shadings about argentina in the early '80s may not quickly resonate with american viewers.",
+                0.6606921189598666
+            ],
+            [
+                "4_even if your knowledge of argentina's political history is wanting, the clan is still worth seeing.",
+                0.7217182819720616
+            ],
+            [
+                "7_stylish, atmospheric and dispiriting, \"the clan\" gives cynical new twist to an old saw: the family that preys together stays together - ",
+                0.7322753038861071
+            ],
+            [
+                "9_shares a production team with wild tales, and like that previous film, it possesses a pitch-black sense of humor and a willingness to stare with wide-open eyes into the abyss of humanity's worst behavior.",
+                0.6325349189669436
+            ],
+            [
+                "14_watching the clan, you have to keep reminding yourself this absolutely insane story really happened.",
+                0.5682557187772151
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Pablo Trapero": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gastón Cocchiarale": {
+                "args": []
+            },
+            "Giselle Motta": {
+                "args": []
+            },
+            "Peter Lanzani": {
+                "args": [
+                    [
+                        "10_francella and lanzani are excellent, not only in their charged moments together, ",
+                        0.7708004776611818
+                    ]
+                ]
+            },
+            "Franco Masini": {
+                "args": []
+            },
+            "Stefanía Koessl": {
+                "args": []
+            },
+            "Antonia Bengoechea": {
+                "args": []
+            },
+            "Guillermo Francella": {
+                "args": [
+                    [
+                        "3_it's a testimony to the skill of francella and the filmmaker how much this movie transcends a history lesson.",
+                        0.6298744198559305
+                    ],
+                    [
+                        "6_a demonic performance from guillermo francella anchors this 2015 argentinian drama about the puccio clan.",
+                        0.5847413965097504
+                    ]
+                ]
+            },
+            "Gastón Cocchiarle": {
+                "args": []
+            },
+            "Lili Popovich": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Pablo Trapero": {
+                "args": []
+            },
+            "Julian Loyola": {
+                "args": []
+            },
+            "Esteban Student": {
+                "args": []
+            }
+        }
+    }
+}

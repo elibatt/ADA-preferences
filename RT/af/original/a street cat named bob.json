@@ -1,0 +1,100 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_this dramatization... plays like a hallmark hall of fame tv movie, touching lightly on serious social issues before turning into a cinderella story.",
+                0.5149188357496239
+            ],
+            [
+                "1_ it's impossible to watch a film about a happy-ending story like james and bob's without a warm glow.",
+                0.775860246671752
+            ],
+            [
+                "5_ unfortunately, the film in which he stars is little more than catnip.",
+                -0.6106943870588096
+            ],
+            [
+                "8_it's not the best film you'll see this holiday season, ",
+                0.9271514396301737
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Roger Spottiswoode": {
+                "args": [
+                    [
+                        "6_roger spottiswoode's slight ",
+                        -0.5082025018703402
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lorraine Ashbourne": {
+                "args": []
+            },
+            "Daniel Fearn": {
+                "args": []
+            },
+            "Beth Goddard": {
+                "args": []
+            },
+            "Ruta Gedmintas": {
+                "args": []
+            },
+            "Ivana Basic": {
+                "args": []
+            },
+            "Caroline Goodall": {
+                "args": []
+            },
+            "Nina Wadia": {
+                "args": []
+            },
+            "Adam Riches": {
+                "args": []
+            },
+            "Nadine Marshall": {
+                "args": []
+            },
+            "Joanne Froggatt": {
+                "args": []
+            },
+            "John Henshaw": {
+                "args": []
+            },
+            "Luke Treadaway": {
+                "args": []
+            },
+            "Darren Evans": {
+                "args": []
+            },
+            "Anthony Head": {
+                "args": []
+            },
+            "Ruth Sheen": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "John Tim Burrus": {
+                "args": []
+            },
+            "Maria Nation": {
+                "args": []
+            }
+        }
+    }
+}

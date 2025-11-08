@@ -1,0 +1,71 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Heather Burns": {
+                "args": []
+            },
+            "Dan Bakkedahl": {
+                "args": []
+            },
+            "Anna Camp": {
+                "args": []
+            },
+            "Sam Jaeger": {
+                "args": []
+            },
+            "Tony Hale": {
+                "args": []
+            },
+            "Erika Alexander": {
+                "args": []
+            },
+            "Leonard Earl Howze": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jody Lambert": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jody Lambert": {
+                "args": []
+            },
+            "Michael Dowling": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the film's narrative simplicity can be charming or frustrating, depending on your feelings about awkward dialogue and overreacting actors.",
+                -0.5010042706614417
+            ],
+            [
+                "3_the film wastes several talented performers with its low-key, rambling humor and one-dimensional characters.",
+                0.7329734124937941
+            ],
+            [
+                "4_there are a lot of funny people in \"brave new jersey,\" ",
+                0.6368147611654518
+            ],
+            [
+                "4_ the movie is not very funny.",
+                0.5000049228397255
+            ]
+        ]
+    }
+}

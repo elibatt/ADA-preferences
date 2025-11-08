@@ -1,0 +1,105 @@
+{
+    "writer": {
+        "entities": {
+            "Elissa Matsueda": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Adam Pally": {
+                "args": []
+            },
+            "Thomas Lennon": {
+                "args": []
+            },
+            "Eva Longoria": {
+                "args": []
+            },
+            "Michael Cassidy": {
+                "args": []
+            },
+            "Finn Wolfhard": {
+                "args": []
+            },
+            "Tig Notaro": {
+                "args": []
+            },
+            "Jon Bass (II)": {
+                "args": []
+            },
+            "Vanessa Hudgens": {
+                "args": []
+            },
+            "Rob Corddry": {
+                "args": []
+            },
+            "Tone Bell": {
+                "args": []
+            },
+            "Nina Dobrev": {
+                "args": []
+            },
+            "Ron Cephas Jones": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ sweet rom-com featuring a fresh cast of humans and canines.",
+                0.7910840383671291
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_if you want just like light happy doggy movie",
+                0.7426214119011554
+            ],
+            [
+                "8_\"dog days\" is in some ways a very strange movie, in the way it straddles the worlds of weirdo comedy and family-friendly",
+                0.7602093637563336
+            ],
+            [
+                "9_anyone who's ever felt altered by an animal companion will easily find something to love in this shamelessly happy, defiantly nice film.",
+                0.8597468700773081
+            ],
+            [
+                "10_[the] four-legged stars bring out the best in the movie's crisscross of humans - and in the film itself.",
+                0.8197361446310558
+            ],
+            [
+                "11_in the end, this family-friendly movie is pretty darn syrupy, ",
+                -0.5221703943057243
+            ],
+            [
+                "15_while hardly original, \"dog days\" is funny and kinda sweet in spots.",
+                0.6239275019658908
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ken Marino": {
+                "args": [
+                    [
+                        "3_whenever dog days lags, marino's connections to the weird-comedy world help resuscitate it with random, minor flickers of inspiration.",
+                        0.5201925898967664
+                    ],
+                    [
+                        "4_director ken marino's ensemble romantic comedy, mixing adorable canines and humans who need as much rescuing as the animals they adopt, is something of a shaggy charmer itself.",
+                        0.6722314108205586
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

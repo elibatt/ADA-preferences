@@ -1,0 +1,87 @@
+{
+    "writer": {
+        "entities": {
+            "Ringo Lam": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ringo Lam": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the worst kind of bad action movie: the kind that half-assedly purports to be uplifting, ",
+                -0.8083322237972949
+            ],
+            [
+                "3_\"sky on fire\" is certainly an adrenaline dose, ",
+                0.523796350230501
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kuo Tsai Chieh": {
+                "args": []
+            },
+            "Li Haitao": {
+                "args": []
+            },
+            "Philip Keung": {
+                "args": []
+            },
+            "Fan Kuang Yao": {
+                "args": []
+            },
+            "Eddie Cheung": {
+                "args": []
+            },
+            "Hsiao-chuan Chang": {
+                "args": []
+            },
+            "Sui-man Chim": {
+                "args": []
+            },
+            "Zhang Ruoyun": {
+                "args": []
+            },
+            "Siu-Fai Cheung": {
+                "args": []
+            },
+            "Ruoyun Zhang": {
+                "args": []
+            },
+            "Yiu-Cheung Lai": {
+                "args": []
+            },
+            "Daniel Wu": {
+                "args": []
+            },
+            "Jingchu Zhang": {
+                "args": []
+            },
+            "Amber Kuo": {
+                "args": []
+            },
+            "Ba Tu": {
+                "args": []
+            },
+            "??": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

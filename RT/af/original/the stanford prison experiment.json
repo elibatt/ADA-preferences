@@ -1,0 +1,242 @@
+{
+    "acting": {
+        "args": [
+            [
+                "0_the acting is uniformly strong and the camera work is winningly claustrophobic, ",
+                0.6378598542255267
+            ],
+            [
+                "9_the young cast is electrifying.",
+                0.6258505836451018
+            ]
+        ],
+        "entities": {
+            "Nicholas Braun": {
+                "args": []
+            },
+            "Alec Holden": {
+                "args": []
+            },
+            "Gaius Charles": {
+                "args": []
+            },
+            "Billy Crudup": {
+                "args": [
+                    [
+                        "5_billy crudup gives a fine performance as dr. philip zimbardo, who engineered the whole thing and was then pulled into his own power trip.",
+                        0.6881886047788056
+                    ]
+                ]
+            },
+            "Fred Ochs": {
+                "args": []
+            },
+            "Jim Klock": {
+                "args": []
+            },
+            "Logan Miller": {
+                "args": []
+            },
+            "Kim Robert Koscki": {
+                "args": []
+            },
+            "Kate Butler": {
+                "args": []
+            },
+            "Ezra Miller": {
+                "args": [
+                    [
+                        "13_fortunately, terrific performances from ezra miller as \"prisoner 8612\" and michael angarano as an overlord keep you from hoping for an early release.",
+                        0.7801049463343334
+                    ]
+                ]
+            },
+            "Aidan Sussman": {
+                "args": []
+            },
+            "James Frecheville": {
+                "args": []
+            },
+            "Keir Gilchrist": {
+                "args": []
+            },
+            "Tye Sheridan": {
+                "args": []
+            },
+            "Olivia Thirlby": {
+                "args": []
+            },
+            "Callan McAuliffe": {
+                "args": []
+            },
+            "Harrison Thomas": {
+                "args": []
+            },
+            "Brett Davern": {
+                "args": []
+            },
+            "Miles Heizer": {
+                "args": []
+            },
+            "Danielle Lauder": {
+                "args": []
+            },
+            "James Wolk": {
+                "args": []
+            },
+            "Matt Bennett": {
+                "args": []
+            },
+            "Albert Malafronte": {
+                "args": []
+            },
+            "Ki Hong Lee": {
+                "args": []
+            },
+            "Nelsan Ellis": {
+                "args": []
+            },
+            "Jack Kilmer": {
+                "args": []
+            },
+            "Jesse Carere": {
+                "args": []
+            },
+            "Johnny Simmons": {
+                "args": []
+            },
+            "Benedict Samuel": {
+                "args": []
+            },
+            "Armand Vasquez": {
+                "args": []
+            },
+            "Jack Foley": {
+                "args": []
+            },
+            "Thomas Mann": {
+                "args": []
+            },
+            "Moises Arias": {
+                "args": []
+            },
+            "Michael Angarano": {
+                "args": [
+                    [
+                        "10_it does make for a fascinating, if skin-crawling, two hours at the movies, and angarano is a charismatic manipulator, both in and out of character.",
+                        0.6828810611035475
+                    ]
+                ]
+            },
+            "Chris Sheffield": {
+                "args": []
+            },
+            "Ross Philips": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the acting is uniformly strong and the camera work is winningly claustrophobic, ",
+                0.6378598542255267
+            ],
+            [
+                "0_ the film is one note: scene after scene of bullying.",
+                -0.6090133274717612
+            ],
+            [
+                "1_the stanford prison experiment is the kind of movie that raises as many questions as it answers.",
+                0.7331627311607303
+            ],
+            [
+                "1_it's also the kind of film where you want to budget some time for discussion afterward.",
+                0.769077162019
+            ],
+            [
+                "2_this is not an uplifting movie, and its progress can be grueling.",
+                -0.5569053301164203
+            ],
+            [
+                "3_the film works hard to keep up the suspense: how far will the guards go?",
+                0.6920670514814082
+            ],
+            [
+                "4_ perhaps the film's most interesting angle is how the experiment changes more than its subjects.",
+                0.6870617416857602
+            ],
+            [
+                "6_the film can be appreciated, if only as a showcase for its assured, emotional attuned performances, as a convincing time capsule and period piece, and as a chance to reconsider one of the more well-known and still-influential studies of its era.",
+                0.8108854782846561
+            ],
+            [
+                "7_the movie ... inevitably fights against its own sense of dulled outrage and methodical role-playing.",
+                0.7788766382457823
+            ],
+            [
+                "15_it is remarkable ... that the stanford prison experiment works as well as it does, and for as long as it does.",
+                0.842356913533296
+            ],
+            [
+                "17_no matter how much it may adhere to the well-documented specifics of zimbardo's work, it is a massive failure.",
+                -0.6166474623621993
+            ],
+            [
+                "23_disturbing, honest and compelling, \"the stanford prison experiment\" turns a well-known story into must-see storytelling, depicting the ugly truth through gorgeous filmmaking.",
+                0.7356921182140623
+            ],
+            [
+                "24_even with some familiar faces, the stanford prison experiment feels like an honest-to-goodness documentary - a high compliment for a movie based on an infamous college project.",
+                0.5268784735300016
+            ],
+            [
+                "28_t-provoking film which, while challenging, is not without humor and visual pleasures.",
+                0.7058681088123585
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kyle Patrick Alvarez": {
+                "args": [
+                    [
+                        "12_from start to finish, alvarez and screenwriter tim talbott have the audience in lockdown mode in this claustrophobic nail-biter.",
+                        -0.5460548038267091
+                    ],
+                    [
+                        "14_ crushingly literal dramatization of an event that's in every psych textbook published during the last 40 years, kyle patrick alvarez's new film is compelling and useless in equal measure.",
+                        0.7630386924380181
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_it does make for a fascinating, if skin-crawling, two hours at the movies, and angarano is a charismatic manipulator, both in and out of character.",
+                0.6828810611035475
+            ]
+        ],
+        "entities": {
+            "Tim Talbott": {
+                "args": [
+                    [
+                        "12_from start to finish, alvarez and screenwriter tim talbott have the audience in lockdown mode in this claustrophobic nail-biter.",
+                        -0.5460548038267091
+                    ],
+                    [
+                        "27_tim talbott's dense script provides much to discuss and argue about, providing both left and right with talking points.",
+                        0.6520732255839905
+                    ]
+                ]
+            }
+        }
+    }
+}

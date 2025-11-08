@@ -1,0 +1,148 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_comes across as an all-too-strenuous cash grab for the earlier film's mega-success.",
+                -0.5426205902362498
+            ],
+            [
+                "7_it's the kind of movie that feels and sounds like a summer vacation should: fizzy, lively, low-stakes and soundtracked by abba.",
+                0.6597225992209821
+            ],
+            [
+                "12_and yet it's impossible to work up anything approaching major distain.",
+                -0.7115599580274435
+            ],
+            [
+                "15_how a movie that's almost not even a movie can be both of those things at once is one of the mysteries of filmgoing, and one of its puckish pleasures.",
+                -0.5261282715217033
+            ],
+            [
+                "22_the camerawork is so flat that one even misses the robert richardson-esque, hair-on-fire edge lighting that haris zambarloukos used periodically in the first film.",
+                -0.6529854704339076
+            ],
+            [
+                "24_if the original plot seemed like a flimsy excuse to trot out a bunch of abba's europop classics, the new film basically does away with a plot altogether.",
+                -0.6013266383619436
+            ],
+            [
+                "25_fans of the first movie will find that a lot of the magic is gone and everything loses some of its luster the second time around.",
+                0.5083449429120043
+            ],
+            [
+                "26_that old abba magic can make even a middling movie that much better.",
+                0.5445805695633009
+            ],
+            [
+                "31_it's a movie that has nowhere to go and takes forever to get there.",
+                -0.7451012511889634
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ol Parker": {
+                "args": [
+                    [
+                        "23_credit writer/director ol parker, and the way that a familiar recipe often improves after you've made it a few times.",
+                        0.7013690884422115
+                    ],
+                    [
+                        "32_[parker] does make it surprisingly watchable, and he manages to overcome some mountainous obstacles.",
+                        0.6040491900006969
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ol Parker": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_credit writer/director ol parker, and the way that a familiar recipe often improves after you've made it a few times.",
+                0.7013690884422115
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Christine Baranski": {
+                "args": []
+            },
+            "Stellan Skarsgard": {
+                "args": []
+            },
+            "Amanda Seyfried": {
+                "args": []
+            },
+            "Andy Garcia": {
+                "args": []
+            },
+            "Jessica Keenan": {
+                "args": []
+            },
+            "Cher": {
+                "args": [
+                    [
+                        "8_[a] pleasure-loving, sex-positive, cher-starring ramos gin fizz of a movie...",
+                        0.7202849974281985
+                    ],
+                    [
+                        "17_the scenery's gorgeous, as is the cast, and it's got cher.",
+                        0.6323312002729303
+                    ]
+                ]
+            },
+            "Colin Firth": {
+                "args": []
+            },
+            "Dominic Cooper": {
+                "args": []
+            },
+            "Josh Dylan": {
+                "args": []
+            },
+            "Lily James": {
+                "args": [
+                    [
+                        "30_ james makes that label enviable in the exact way it's supposed to be.",
+                        -0.6510199425618067
+                    ]
+                ]
+            },
+            "Pierce Brosnan": {
+                "args": []
+            },
+            "Hugh Skinner": {
+                "args": []
+            },
+            "Meryl Streep": {
+                "args": [
+                    [
+                        "0_here we go again, for all its faults, has a musty charm and even, for reasons that involve meryl streep, a hint of heartbreak.",
+                        0.7467483765856998
+                    ]
+                ]
+            },
+            "Julie Walters": {
+                "args": []
+            },
+            "Alexa Davies": {
+                "args": []
+            },
+            "Jeremy Irvine": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

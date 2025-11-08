@@ -1,0 +1,125 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Babak Najafi": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_henson's both-feet-on-the-ground performance tries to rein in the chaos, ",
+                -0.5488532886890469
+            ]
+        ],
+        "entities": {
+            "Billy Brown": {
+                "args": []
+            },
+            "Xander Berkeley": {
+                "args": []
+            },
+            "Neal McDonough": {
+                "args": []
+            },
+            "Taraji P. Henson": {
+                "args": [
+                    [
+                        "2_this dipshit drivel guns down taraji p. henson's bid for action-hero glory - and it should be ashamed of itself for wasting such talent.",
+                        -0.6083944615131133
+                    ],
+                    [
+                        "5_ms. henson, ever simmering, takes mary's moral conundrum very seriously.",
+                        -0.5420473261336213
+                    ]
+                ]
+            },
+            "Jahi Di'Allo Winston": {
+                "args": []
+            },
+            "Danny Glover": {
+                "args": []
+            },
+            "Margaret Avery": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_her expressive eyes and nuanced body language work well for the character",
+                0.8025735012242833
+            ],
+            [
+                "11_ostensibly about a hired killer (the halloween wigs and running-in-stilettos kind) who decides to reclaim her femininity, the picture is sunk by its all-male writing and directing team's narrow conception of womanhood as lipstick and maternal instincts.",
+                -0.5374001447518609
+            ]
+        ],
+        "entities": {
+            "Steve Antin": {
+                "args": []
+            },
+            "Christian Swegal": {
+                "args": []
+            },
+            "John Stuart Newman": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"proud mary\" isn't a retro action thriller at all, ",
+                -0.76212197371414
+            ],
+            [
+                "1_where the movie falls and can't get up is in the dialogue, the camerawork, and the editing.",
+                -0.8232410354272706
+            ],
+            [
+                "3_ the simple fact is that she-and the moviegoers, many of them people of color, who will come out to see this film-deserve much better support behind the camera.",
+                0.6874642366161179
+            ],
+            [
+                "4_\"proud mary\" is a flawed shoot-em-up whose heart may be in the right place, ",
+                0.7653142177513108
+            ],
+            [
+                "5_her expressive eyes and nuanced body language work well for the character",
+                0.8025735012242833
+            ],
+            [
+                "6_you'd think a movie called proud mary would be sonically sensational, ",
+                0.5939150548907532
+            ],
+            [
+                "7_it's a good thing that [the] characters genuinely care about each other, because proud mary sure doesn't, and most of the people watching it won't either.",
+                -0.53165170539228
+            ],
+            [
+                "9_she deserves a movie that does her talents justice.",
+                0.5058648069331763
+            ],
+            [
+                "10_\"proud mary\" doesn't deserve the lack of faith its studio has in it.",
+                -0.6681050246254219
+            ],
+            [
+                "12_the lyrics of that song may urge proud mary to keep on, ",
+                0.8705135912851116
+            ],
+            [
+                "13_henson holds it together and, at moments, comes close to convincing you that you're watching a better movie.",
+                0.5185774177659788
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

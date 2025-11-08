@@ -1,0 +1,196 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Alfredo Araoz": {
+                "args": []
+            },
+            "Armando Jerez": {
+                "args": []
+            },
+            "Nick Devlin": {
+                "args": []
+            },
+            "Iván Mendes": {
+                "args": []
+            },
+            "Ramón Barea": {
+                "args": []
+            },
+            "Santiago Adan": {
+                "args": []
+            },
+            "Tim Verardi": {
+                "args": []
+            },
+            "Simon Maiden": {
+                "args": []
+            },
+            "Bella Agossou": {
+                "args": []
+            },
+            "Astrid Jones": {
+                "args": []
+            },
+            "Betty Gabriel": {
+                "args": []
+            },
+            "Yael Belicha": {
+                "args": []
+            },
+            "Benedict Hardie": {
+                "args": []
+            },
+            "Belén Rueda": {
+                "args": []
+            },
+            "Maria Luisa Mayol": {
+                "args": []
+            },
+            "Malcolm Sitté": {
+                "args": []
+            },
+            "Harrison Gilbertson": {
+                "args": []
+            },
+            "Manolo Cardona": {
+                "args": []
+            },
+            "Marián Álvarez": {
+                "args": []
+            },
+            "Florín Opritescu": {
+                "args": []
+            },
+            "Rafa Rojas": {
+                "args": []
+            },
+            "Santiago Adano": {
+                "args": []
+            },
+            "Rafa Rojas-Díez": {
+                "args": []
+            },
+            "Djédjé Apali": {
+                "args": []
+            },
+            "Michael M. Foster": {
+                "args": []
+            },
+            "Logan Marshall-Green": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "4_as a director, he photographs his plot points and sees no moments between moments, conveys no sense of experiential continuity.",
+                -0.5240689880859499
+            ]
+        ],
+        "entities": {
+            "Leigh Whannell": {
+                "args": [
+                    [
+                        "1_writer/director leigh whannell gives us a glimpse of the near-future and it's both fascinating and terrifying.",
+                        0.7681910342943
+                    ],
+                    [
+                        "21_ writer-director leigh whannell's themes are as predictable as his premise,",
+                        -0.5639548053458256
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "17_whannell is clearly enjoying writing and directing his own project, and it shows in the finished product.",
+                -0.5153592236753595
+            ],
+            [
+                "21_ writer-director leigh whannell's themes are as predictable as his premise,",
+                -0.5639548053458256
+            ]
+        ],
+        "entities": {
+            "Leigh Whannell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_upgrade is a brutish, efficient and well-executed slice of cyberpunk action-horror with a silly streak.",
+                0.5272026867976807
+            ],
+            [
+                "2_upgrade only wants to have great, gory fun.",
+                -0.5965833607097865
+            ],
+            [
+                "3_upgrade's smooth turn into intellectual provocation may be the most surprising thing about it.",
+                0.7266266440902389
+            ],
+            [
+                "6_the movie is tasteless, disturbing, and misanthropic..",
+                0.5180797545668497
+            ],
+            [
+                "7_upgrade, an irresistibly gory science-fiction melodrama, is b-movie schlock done right.",
+                -0.5792451922402151
+            ],
+            [
+                "8_part \"black mirror,\" part \"ex-machina\" and part \"hardcore henry,\" \"upgrade\" is a cuckoo science fiction horror pastiche that's smarter than it looks ",
+                0.6103357798937838
+            ],
+            [
+                "8_ disguises its ambition with low-grade, b-movie thrills.",
+                -0.6355187397870465
+            ],
+            [
+                "9_\"upgrade\" is a compact sci-fi action b-movie that wants to be a hip little genre exercise ",
+                -0.6626418686833087
+            ],
+            [
+                "12_if \"upgrade\" ultimately plays like a genre exercise, it's certainly a taut, engrossing one.",
+                0.7816626398093314
+            ],
+            [
+                "13_upgrade is a brutish, efficient and well-executed slice of cyber-punk action horror with a silly streak.",
+                0.5542538319978458
+            ],
+            [
+                "14_the movie pumps a lot of blood and viscera with the occasional witty rejoinder.",
+                0.7073739581855419
+            ],
+            [
+                "15_the movie manages to be pretty funny",
+                0.6446130751458831
+            ],
+            [
+                "19_upgrade is hugely enjoyable and delivers just about everything it promised.",
+                0.7465006634692529
+            ],
+            [
+                "20_upgrade offers memorable, legible fights, a compelling bombed-out retro-apocalyptic look and a mystery that seems obvious at the start ",
+                0.7782087442824889
+            ],
+            [
+                "23_by merging deus ex cyberpunk, third-person action games and the dirty old bones of 70s exploitation, upgrade earns installation in your memory core.",
+                -0.518385338872231
+            ],
+            [
+                "24_as a movie, it's the cinematic equivalent of paint-by-numbers: competent, attractive even, ",
+                -0.5706278184467205
+            ]
+        ]
+    }
+}

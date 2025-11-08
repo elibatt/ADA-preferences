@@ -1,0 +1,222 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the lessons that dean learns are pat and predictable, ",
+                0.57814375918417
+            ],
+            [
+                "1_ this disarmingly winsome film is comfortable in the knowledge that universal truths can be the hardest things for people to discover for themselves.",
+                0.5760240911239706
+            ],
+            [
+                "3_while the direction is capable, the writing isn't nearly as sharp as it needs to be.",
+                -0.6084054577067803
+            ],
+            [
+                "4_a movie with which it is easy to find fault, and if you're a particular kind of person, you'll find fault with it without even trying too hard.",
+                0.5812955739793351
+            ],
+            [
+                "5_a likable, slightly lightweight comedy about loss, grief, love, and the unbreakable bonds between fathers and sons.",
+                0.622079432611656
+            ],
+            [
+                "6_a winning, winsome indie about love and loss.",
+                0.7383304196194256
+            ],
+            [
+                "8_i just hope his next outing is a little more ambitious.",
+                0.5759329589054587
+            ],
+            [
+                "9_this is regrettably derivative, low-boil material.",
+                -0.6267868263415366
+            ],
+            [
+                "9_it's almost afraid to invite true messiness or insightful belly laughs, and remains content to cruise on a wispy likability.",
+                -0.5293192000043293
+            ],
+            [
+                "10_\"dean\" has its moments.",
+                -0.5824252020505183
+            ],
+            [
+                "10_the cast is solid, and the story moves along smoothly.",
+                0.7503442926681718
+            ],
+            [
+                "10_ it may be, it's a sweet enough tale, while it lasts.",
+                0.7429884745857269
+            ],
+            [
+                "11_martin's a smooth enough director to make fuller and more ambitious pictures than \"dean.",
+                0.7168215721778104
+            ],
+            [
+                "11_\" this one's a promising start.",
+                -0.5544515691027248
+            ],
+            [
+                "13_dean turns out to be quite touching, in retrospect.",
+                0.7082008933436477
+            ],
+            [
+                "13_if only it were funny, clever, or in any other way particularly inspired from moment to moment.",
+                -0.5114542586962075
+            ],
+            [
+                "17_martin ... struggles to square his distinct minimalist charm with the second-hand influence of standard-bearers like woody allen and wes anderson.",
+                0.7677273634165898
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "11_martin's a smooth enough director to make fuller and more ambitious pictures than \"dean.",
+                0.7168215721778104
+            ]
+        ],
+        "entities": {
+            "Demetri Martin": {
+                "args": [
+                    [
+                        "2_[demetri martin] makes the transition into feature filmmaking as writer, director and star with just the right blend of humor and heartbreak.",
+                        0.8365349109836648
+                    ],
+                    [
+                        "7_whether it's martin's writing or the superhuman efforts of kline and steenburgen, these scenes emerge as the most heartfelt moments",
+                        0.6020439134719252
+                    ],
+                    [
+                        "7_ had he ditched the cartoonist and made a movie about a widower and a realtor, martin might have been onto something.",
+                        -0.5963448884960002
+                    ],
+                    [
+                        "8_and i liked martin's direction.",
+                        0.742612863562446
+                    ],
+                    [
+                        "12_stay patient through those seinfeldian stretches in which martin isn't so much acting as performing, and you'll be treated to the bonus of some surprising emotional depth and poignancy.",
+                        0.5311071706669752
+                    ],
+                    [
+                        "14_mr. martin, taking a lesson from woody allen, gives his character lots of amusing opportunities to skewer pretentiousness.",
+                        0.6938296884170332
+                    ],
+                    [
+                        "15_dean left me eagerly anticipating martin's next projects.",
+                        -0.7083730179060748
+                    ],
+                    [
+                        "16_if grief dramedies are as much a rite of passage as romantic rebounds, it's exciting to imagine what martin's next step as a filmmaker will look like.",
+                        0.6594665568033407
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "10_the cast is solid, and the story moves along smoothly.",
+                0.7503442926681718
+            ]
+        ],
+        "entities": {
+            "Kevin Kline": {
+                "args": []
+            },
+            "Christine Woods": {
+                "args": []
+            },
+            "Mary Steenburgen": {
+                "args": []
+            },
+            "Ginger Gonzaga": {
+                "args": []
+            },
+            "Briga Heelan": {
+                "args": []
+            },
+            "Gillian Jacobs": {
+                "args": []
+            },
+            "Rory Scovel": {
+                "args": []
+            },
+            "Reid Scott": {
+                "args": []
+            },
+            "Peter Scolari": {
+                "args": []
+            },
+            "Demetri Martin": {
+                "args": [
+                    [
+                        "2_[demetri martin] makes the transition into feature filmmaking as writer, director and star with just the right blend of humor and heartbreak.",
+                        0.8365349109836648
+                    ],
+                    [
+                        "7_whether it's martin's writing or the superhuman efforts of kline and steenburgen, these scenes emerge as the most heartfelt moments",
+                        0.6020439134719252
+                    ],
+                    [
+                        "7_ had he ditched the cartoonist and made a movie about a widower and a realtor, martin might have been onto something.",
+                        -0.5963448884960002
+                    ],
+                    [
+                        "8_and i liked martin's direction.",
+                        0.742612863562446
+                    ],
+                    [
+                        "12_stay patient through those seinfeldian stretches in which martin isn't so much acting as performing, and you'll be treated to the bonus of some surprising emotional depth and poignancy.",
+                        0.5311071706669752
+                    ],
+                    [
+                        "14_mr. martin, taking a lesson from woody allen, gives his character lots of amusing opportunities to skewer pretentiousness.",
+                        0.6938296884170332
+                    ],
+                    [
+                        "15_dean left me eagerly anticipating martin's next projects.",
+                        -0.7083730179060748
+                    ],
+                    [
+                        "16_if grief dramedies are as much a rite of passage as romantic rebounds, it's exciting to imagine what martin's next step as a filmmaker will look like.",
+                        0.6594665568033407
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_[demetri martin] makes the transition into feature filmmaking as writer, director and star with just the right blend of humor and heartbreak.",
+                0.8365349109836648
+            ],
+            [
+                "3_while the direction is capable, the writing isn't nearly as sharp as it needs to be.",
+                -0.6084054577067803
+            ],
+            [
+                "7_whether it's martin's writing or the superhuman efforts of kline and steenburgen, these scenes emerge as the most heartfelt moments",
+                0.6020439134719252
+            ],
+            [
+                "14_mr. martin, taking a lesson from woody allen, gives his character lots of amusing opportunities to skewer pretentiousness.",
+                0.6938296884170332
+            ]
+        ],
+        "entities": {
+            "Demetri Martin": {
+                "args": []
+            }
+        }
+    }
+}

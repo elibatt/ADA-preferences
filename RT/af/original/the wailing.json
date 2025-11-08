@@ -1,0 +1,111 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_a stupendously entertaining movie, crammed with delights.",
+                0.7605066312600312
+            ],
+            [
+                "2_the film justifies its epic length, meshing ancient east asian mythology and rituals with more recognizable horror tropes in a way that feels novel and unpredictable.",
+                0.7815494712787883
+            ],
+            [
+                "3_the wailing is the hard stuff.",
+                -0.5892623798510378
+            ],
+            [
+                "5_it's an unforgiving film, one whose story you may question when it's over.",
+                0.7503842165274845
+            ],
+            [
+                "6_it may be impossible to turn off your brain while watching \"the wailing,\" ",
+                -0.617616975665526
+            ],
+            [
+                "6_ that makes the film's visceral charms that much more admirably vexing.",
+                0.838335671377515
+            ],
+            [
+                "7_\"the wailing\" is the rare commercial thriller whose feverish manipulations can't be dismissed as merely callous or exploitative.",
+                0.5681857453299985
+            ],
+            [
+                "8_the wailing is a hell of a ride, ",
+                0.5953631219422304
+            ],
+            [
+                "9_\"the wailing\" is something like the most gruesome and gripping scandinavian crime drama you can imagine, transported to a rain-sodden asian backwater where everyone's in a bad mood and science, religion and superstition are locked in uneasy combat.",
+                -0.6626807534152772
+            ],
+            [
+                "10_the wailing might be a somewhat meandering and nonsensical genre recombination, ",
+                -0.5685576909762751
+            ],
+            [
+                "12_the wailing is long and involving, permeated by a tense, sickening sense of foreboding, yet finally registers on a slightly lower key than the director's acclaimed genre films the chaser and the yellow sea.",
+                0.5567127345840127
+            ],
+            [
+                "13_na hong-jin's spellbinding and scatterbrained new film is 156 minutes of demented occult nonsense that gradually begins to feel less like a linear scary story than that it does a ritualistic invocation of the antichrist.",
+                -0.6509260437064064
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Hong-jin Na": {
+                "args": [
+                    [
+                        "4_ the wailing never bores as na slathers his tale with generous supplies of atmosphere and awfulness.",
+                        0.5406808184561468
+                    ],
+                    [
+                        "8_ na should have given more ",
+                        -0.6412689260214653
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_the wailing is long and involving, permeated by a tense, sickening sense of foreboding, yet finally registers on a slightly lower key than the director's acclaimed genre films the chaser and the yellow sea.",
+                0.5567127345840127
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kwak Do-won": {
+                "args": []
+            },
+            "Chun Woo-hee": {
+                "args": []
+            },
+            "Han-Cheol Jo": {
+                "args": []
+            },
+            "So-yeon Jang": {
+                "args": []
+            },
+            "Jung-min Hwang": {
+                "args": []
+            },
+            "Jun Kunimura": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Hong-jin Na": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

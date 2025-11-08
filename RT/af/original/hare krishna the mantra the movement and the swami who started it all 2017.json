@@ -1,0 +1,58 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_most of the time, the film is a story waiting to be told.",
+                0.5592411149839783
+            ],
+            [
+                "3_the film ultimately feels like a marketing tool for iskcon, the international society for krishna consciousness.",
+                0.5264141705675766
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Srila Prabhupada": {
+                "args": [
+                    [
+                        "2_there's certainly a good film to be made about srila prabhupada and the spiritual movement he founded that became an international sensation starting in the mid-1960s.",
+                        0.7600213861205738
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jean Griesser": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean Griesser": {
+                "args": []
+            },
+            "John Griesser": {
+                "args": [
+                    [
+                        "2_ john griesser's documentary isn't it.",
+                        -0.7145413932296552
+                    ]
+                ]
+            },
+            "Lauren Ross": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "film": {
+        "args": [
+            [
+                "9_the film is mostly sedate, without tension and with too much smolder.",
+                -0.6201576935487402
+            ],
+            [
+                "12_ he's made a slightly more exciting movie.",
+                0.5521679015550596
+            ],
+            [
+                "14_the result is a film with much of the same appeal as \"the lost city of z.\" let's hope it doesn't have the same fate.",
+                -0.6979727215430862
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Noer": {
+                "args": [
+                    [
+                        "1_as director michael noer struggles to tease a theme out of a string of exploits, papillon remains as entertaining as ever.",
+                        0.7326350923543201
+                    ],
+                    [
+                        "4_director michael noer falls short in a number of ways, leaving a sense of missed opportunity.",
+                        -0.5561159042624577
+                    ],
+                    [
+                        "10_working from a script by aaron guzikowski, the director michael noer generally puts the camera where it should go and adds a sterile parisian interlude ",
+                        -0.5065101586067945
+                    ],
+                    [
+                        "12_amazingly, the remake -- by danish director michael noer -- is nearly as long and equally as depressing.",
+                        -0.6235321503623963
+                    ],
+                    [
+                        "18_this new version, directed by danish filmmaker michael noer, brings to the story a refreshing intensity and sweep, and even a sense of adventure.",
+                        0.8246965042864892
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rami Malek": {
+                "args": [
+                    [
+                        "17_hunnam and malek acquit themselves finely,",
+                        0.6563097534393247
+                    ]
+                ]
+            },
+            "Charlie Hunnam": {
+                "args": [
+                    [
+                        "5_mr. hunnam plays papillon with a certain fierceness and swagger, ",
+                        0.6174201040106628
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Aaron Guzikowski": {
+                "args": [
+                    [
+                        "10_working from a script by aaron guzikowski, the director michael noer generally puts the camera where it should go and adds a sterile parisian interlude ",
+                        -0.5065101586067945
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "writer": {
+        "args": [
+            [
+                "0_the screenplay is full of infelicitous dialogue far from a plausible vernacular, which wouldn't matter if the movie had an ounce of stylization to justify its fourth-grade-reading-level airport-novel vocabulary.",
+                -0.7249278994244375
+            ]
+        ],
+        "entities": {
+            "Michael Polish": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the screenplay is full of infelicitous dialogue far from a plausible vernacular, which wouldn't matter if the movie had an ounce of stylization to justify its fourth-grade-reading-level airport-novel vocabulary.",
+                -0.7249278994244375
+            ],
+            [
+                "4_ this well-meaning film may appeal to its intended audience on a spiritual level, the result is a sluggish, clinical,",
+                -0.5654316922073923
+            ],
+            [
+                "6_rendering a miraculous premise dull, the film seems relatively uninterested in doing more than preaching to the choir.",
+                -0.6572432035454067
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Crider": {
+                "args": []
+            },
+            "Tom Key": {
+                "args": []
+            },
+            "David Carr": {
+                "args": []
+            },
+            "Rhoda Griffis": {
+                "args": []
+            },
+            "Ashley Bratcher": {
+                "args": []
+            },
+            "Matthew Cornwell": {
+                "args": []
+            },
+            "Deena Beasley": {
+                "args": []
+            },
+            "Dwight Yoakam": {
+                "args": []
+            },
+            "Mark Oliver": {
+                "args": []
+            },
+            "Catherine Carlen": {
+                "args": []
+            },
+            "Geoffrey Williams": {
+                "args": []
+            },
+            "Bruce Taylor": {
+                "args": []
+            },
+            "Cynthia Barrett": {
+                "args": []
+            },
+            "Tyler Case": {
+                "args": []
+            },
+            "Hudson Meek": {
+                "args": []
+            },
+            "Kathy Payne": {
+                "args": []
+            },
+            "Gianna Simone": {
+                "args": []
+            },
+            "Tang Nguyen": {
+                "args": []
+            },
+            "Lynn Cole": {
+                "args": []
+            },
+            "Shane Jackson": {
+                "args": []
+            },
+            "Salley Hooks": {
+                "args": []
+            },
+            "David Clyde Carr": {
+                "args": []
+            },
+            "Lynne Cole": {
+                "args": []
+            },
+            "Bobby Batson": {
+                "args": []
+            },
+            "Fred Dalton Thompson": {
+                "args": []
+            },
+            "Jason Kennedy": {
+                "args": []
+            },
+            "Marty Stonerock": {
+                "args": []
+            },
+            "Nicholas Pryor": {
+                "args": []
+            },
+            "Jasper Polish": {
+                "args": []
+            },
+            "Kate Bosworth": {
+                "args": []
+            },
+            "Pastor Don Piper": {
+                "args": []
+            },
+            "Elizabeth Hunter": {
+                "args": []
+            },
+            "Matthew Bauman": {
+                "args": []
+            },
+            "Hayden Christensen": {
+                "args": []
+            },
+            "Michael W. Smith": {
+                "args": []
+            },
+            "Cara Mantella": {
+                "args": []
+            },
+            "Jody Thompson": {
+                "args": []
+            },
+            "Vanessa Cloke": {
+                "args": []
+            },
+            "Michael Harding": {
+                "args": []
+            },
+            "Marshall Bell": {
+                "args": []
+            },
+            "Harrison Powell": {
+                "args": []
+            },
+            "Geordie White": {
+                "args": []
+            },
+            "Rob Demery": {
+                "args": []
+            },
+            "Trevor Martin": {
+                "args": []
+            },
+            "Gregory Alan Williams": {
+                "args": []
+            },
+            "Aaron Webb": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Polish": {
+                "args": []
+            }
+        }
+    }
+}

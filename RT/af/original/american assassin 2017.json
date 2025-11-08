@@ -1,0 +1,146 @@
+{
+    "acting": {
+        "entities": {
+            "Sanaa Lathan": {
+                "args": []
+            },
+            "Shiva Negar": {
+                "args": []
+            },
+            "Scott Adkins": {
+                "args": []
+            },
+            "Dylan O'Brien (II)": {
+                "args": [
+                    [
+                        "6_michael keaton and new star dylan o'brien make action fireworks seem fresh again.",
+                        -0.5735842725358209
+                    ]
+                ]
+            },
+            "Taylor Kitsch": {
+                "args": []
+            },
+            "Michael Keaton": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_ there isn't a lot of electricity in his performance.",
+                -0.7364958861925606
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Michael Finch": {
+                "args": []
+            },
+            "Edward Zwick": {
+                "args": []
+            },
+            "Stephen Schiff": {
+                "args": []
+            },
+            "Marshall Herskovitz": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_\"american assassin\" is bogged down by its contrived, empty-headed script (credited to four screenwriters and less than the sum of its parts) and its macho chest beating.",
+                -0.8585381200746115
+            ],
+            [
+                "19_sometimes it strives to be a character-driven thriller in the jason bourne mold.",
+                -0.5706393902383557
+            ],
+            [
+                "23_built for action, like its title character, the movie packs a muscular, bloody punch, ",
+                -0.5844303896129449
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_american assassin is as generic an espionage thriller as you're likely to find.",
+                -0.597904446259226
+            ],
+            [
+                "1_american assassin is not what it pretends to be.",
+                -0.7514174168686408
+            ],
+            [
+                "2_still, passive audiences seeking pure escapism will find the bare minimum of fast action and ass-kicking mandated by the movie's formula.",
+                0.5102483330136462
+            ],
+            [
+                "4_there's plenty of talk about american sins in american assassin, ",
+                0.7524713648950367
+            ],
+            [
+                "8_american assassin offers you two competing philosophies that are equally unappetizing: cold-hearted, government-sanctioned professional killing or hot-blooded vigilante professional killing.",
+                0.5028949981092241
+            ],
+            [
+                "9_\"american assassin\" is bogged down by its contrived, empty-headed script (credited to four screenwriters and less than the sum of its parts) and its macho chest beating.",
+                -0.8585381200746115
+            ],
+            [
+                "11_so generic is this film, drawn from the vast pulp output of thriller scribbler vince flynn, it offers a glimpse into a dazzling future when robots begin making movies.",
+                0.7262901426192777
+            ],
+            [
+                "14_[american assassin] plays like \"the bourne identity for dummies,\" a bland wannabe with a threadbare plot that -- the ample violence notwithstanding -- mostly misses the mark.",
+                -0.5808676697227819
+            ],
+            [
+                "15_the film is an entertaining introduction to rapp, whose final scene implies that he has a lot more retaliation to inflict.",
+                0.7578559632625894
+            ],
+            [
+                "16_ the movie takes care of an action audience's basic needs.",
+                -0.6249368409240768
+            ],
+            [
+                "17_by substituting macho posturing for real personality, american assassin's franchise prospects appear as dim as the employment prospects for middle eastern actors who don't want to play terrorists.",
+                -0.6784068778466461
+            ],
+            [
+                "18_decent fun, in the leathery, businesslike, self-satisfied manner of this kind of movie, which soothes the hurt places in the male ego with sentiment strategically disguised as toughness.",
+                0.5382407424229468
+            ],
+            [
+                "22_faintly bond-like, lushly shot and sometimes smart, \"american assassin\" is an international action thriller that starts slow ",
+                0.589311810697787
+            ],
+            [
+                "23_built for action, like its title character, the movie packs a muscular, bloody punch, ",
+                -0.5844303896129449
+            ],
+            [
+                "24_\"american assassin\" is so close-mouthed and macho that it blends in with bourne, bond and \"taken's\" brian mills.",
+                -0.5054480961588832
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Michael Cuesta": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_tful indie dramas... into an action director (showtime's homeland)",
+                -0.5483580327155577
+            ]
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jessica Alba": {
+                "args": []
+            },
+            "Toby Eddington": {
+                "args": []
+            },
+            "Anteo Quintaville": {
+                "args": []
+            },
+            "Femi Elufowoju Jr.": {
+                "args": []
+            },
+            "Jason Statham": {
+                "args": [
+                    [
+                        "1_for an actor who, with the \"transporter\" films, once imbued the action genre with a new sense of possibility and winking sophistication, mr. statham is on cruise control.",
+                        0.5779166602507396
+                    ],
+                    [
+                        "4_this sequel carries forward only two ideas: that gimmick-y \"assassinations that look like accidents\" are a valid substitute for story, and that jason statham can carry an action movie even when it is propped up on such wobbly legs.",
+                        0.5858200478201785
+                    ],
+                    [
+                        "7_the film is certainly watchable, thanks to the elaborately staged action sequences and statham's killer charisma.",
+                        0.6852642082593936
+                    ]
+                ]
+            },
+            "Sam Hazeldine": {
+                "args": []
+            },
+            "Rhatha Phongam": {
+                "args": []
+            },
+            "Tommy Lee Jones": {
+                "args": []
+            },
+            "John Cenatiempo": {
+                "args": []
+            },
+            "Michelle Yeoh": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dennis Gansel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_resurrection suffers from a script that strains credulity and insults intelligence, even by the low bar set by the majority of contemporary action movies.",
+                -0.5735703212377583
+            ]
+        ],
+        "entities": {
+            "Philip Shelby": {
+                "args": []
+            },
+            "Tony Mosher": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "8_\"mechanic: resurrection\" is the movie \"the mechanic\" should have been - a bite-sized bond film, or maybe a grittier homicidal knockoff of the \"mission: impossible\" series, with a lone-wolf renegade as the entire team.",
+                -0.7587196362260747
+            ]
+        ]
+    }
+}

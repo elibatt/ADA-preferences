@@ -1,0 +1,217 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ in doing so, the film feels contrived and hurried.",
+                -0.7899091324942035
+            ],
+            [
+                "2_the surface level generic pleasures of dark places and the stellar cast are entertaining enough, even if it doesn't quite stick the landing.",
+                0.6080970384142131
+            ],
+            [
+                "3_the mystery itself eventually becomes tiresome and shrug-worthy, even as the film breathlessly racks up the revelations.",
+                -0.5813222919256076
+            ],
+            [
+                "9_welcome to \"dark places,\" where you can spend nearly two hours in the presence of some of the most unpleasant people you'll ever have the misfortune to encounter at the movies.",
+                -0.5000738461496522
+            ],
+            [
+                "11_paquet-brenner wrings the suspense out of \"dark places\" almost from the get-go, with a plodding pace and characters who are meant to be powerfully repressed ",
+                -0.8057102165883042
+            ],
+            [
+                "13_\"dark places\" isn't a disaster of a film.",
+                -0.755025314887253
+            ],
+            [
+                "15_existential questions aside, the surface-level generic pleasures of \"dark places\" and the stellar cast are entertaining enough, even if it doesn't quite stick the landing.",
+                0.6482851757483625
+            ],
+            [
+                "16_dark places just becomes an overstuffed, low-simmer potboiler with too many improbable detours and overly convenient twists.",
+                -0.5611565610083293
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gilles Paquet-Brenner": {
+                "args": [
+                    [
+                        "4_director gilles paquet-brenner marshaled a top-tier cast and commanded them to tromp across flynn's intelligent bestseller like investigators muddying a crime scene.",
+                        0.6772144916454216
+                    ],
+                    [
+                        "6_ blotted out by gilles paquet-brenner's slapdash direction.",
+                        -0.6053368479703678
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Richard Gunn": {
+                "args": []
+            },
+            "Jennifer Pierce": {
+                "args": []
+            },
+            "Michael Crabtree": {
+                "args": []
+            },
+            "Christina Hendricks": {
+                "args": []
+            },
+            "Shannon Kook": {
+                "args": []
+            },
+            "Andrea Roth": {
+                "args": []
+            },
+            "Glenn Morshower": {
+                "args": []
+            },
+            "Charlize Theron": {
+                "args": [
+                    [
+                        "12_a brooding performance by oscar winner charlize theron ... elevates the material from mediocre into bearable.",
+                        -0.7050667479027937
+                    ],
+                    [
+                        "17_ shallow characterizations, while theron offers up an earnest and downbeat turn that says a lot with little dialogue ...",
+                        -0.5750923041582553
+                    ]
+                ]
+            },
+            "Steve Shearer": {
+                "args": []
+            },
+            "Chloë Grace Moretz": {
+                "args": []
+            },
+            "Tye Sheridan": {
+                "args": []
+            },
+            "Natalie Precht": {
+                "args": []
+            },
+            "Nicholas Hoult": {
+                "args": []
+            },
+            "Dora Madison": {
+                "args": []
+            },
+            "Laura Cayouette": {
+                "args": []
+            },
+            "J LaRose": {
+                "args": []
+            },
+            "Corey Stoll": {
+                "args": []
+            },
+            "Drea de Matteo": {
+                "args": []
+            },
+            "Dan Hewitt Owens": {
+                "args": []
+            },
+            "Sean Bridgers": {
+                "args": []
+            },
+            "Madison McGuire": {
+                "args": []
+            },
+            "John F. Daniel": {
+                "args": []
+            },
+            "Carl Palmer": {
+                "args": []
+            },
+            "Arthur Simone": {
+                "args": []
+            },
+            "Addy Miller": {
+                "args": []
+            },
+            "James Moses Black": {
+                "args": []
+            },
+            "Herbert P.J. Marshall": {
+                "args": []
+            },
+            "Jeff Chase": {
+                "args": []
+            },
+            "Denise Williamson": {
+                "args": []
+            },
+            "Lori Z. Cordova": {
+                "args": []
+            },
+            "Mary Kim Sipes": {
+                "args": []
+            },
+            "Sterling Jerins": {
+                "args": []
+            },
+            "Tyler Forrest": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the surface level generic pleasures of dark places and the stellar cast are entertaining enough, even if it doesn't quite stick the landing.",
+                0.6080970384142131
+            ],
+            [
+                "4_director gilles paquet-brenner marshaled a top-tier cast and commanded them to tromp across flynn's intelligent bestseller like investigators muddying a crime scene.",
+                0.6772144916454216
+            ],
+            [
+                "14_inexpert execution, lazy attention to detail and a lackluster lead performance conspire to render a juicy mystery rather boring.",
+                -0.6472884961908709
+            ],
+            [
+                "15_existential questions aside, the surface-level generic pleasures of \"dark places\" and the stellar cast are entertaining enough, even if it doesn't quite stick the landing.",
+                0.6482851757483625
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Gilles Paquet-Brenner": {
+                "args": []
+            },
+            "Gillian Flynn": {
+                "args": [
+                    [
+                        "0_that unnerving way flynn has of taking us to dark, deliciously twisted places has been utterly massacred.",
+                        0.6252527934106331
+                    ],
+                    [
+                        "1_the third offering from flynn dark places does its best to stir a multitude of emotions within us, ",
+                        0.8107528533037763
+                    ],
+                    [
+                        "4_director gilles paquet-brenner marshaled a top-tier cast and commanded them to tromp across flynn's intelligent bestseller like investigators muddying a crime scene.",
+                        0.6772144916454216
+                    ],
+                    [
+                        "18_gillian flynn's second bigscreen adaptation is a relative disappointment.",
+                        -0.5935337606037879
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

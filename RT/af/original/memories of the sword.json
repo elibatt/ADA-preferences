@@ -1,0 +1,69 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Heung-Sik Park": {
+                "args": [
+                    [
+                        "3_memories of the sword stands apart from other action films because park wisely imagines violence as an elemental clash of dispositions.",
+                        0.7090991789757712
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kim Go-Eun": {
+                "args": []
+            },
+            "Bae Soo-bin": {
+                "args": []
+            },
+            "Kyeong-Yeong Lee": {
+                "args": []
+            },
+            "Lee Jun-ho": {
+                "args": []
+            },
+            "Tae-woo Kim": {
+                "args": []
+            },
+            "Lee Byung-hun": {
+                "args": [
+                    [
+                        "0_not even a-list stars jeon do-yeon and lee byung-hun can save this plodding korean martial-arts epic.",
+                        -0.6046563449891948
+                    ]
+                ]
+            },
+            "Do-yeon Jeon": {
+                "args": [
+                    [
+                        "1_it would all be eye-roll-inducing were it not for ms. jeon's striking poise and the luminous presence of ms. kim, an eager performer who imbues the film with energy.",
+                        0.7810532451131176
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ah-reum Choi": {
+                "args": []
+            },
+            "Heung-Sik Park": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

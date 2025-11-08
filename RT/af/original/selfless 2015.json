@@ -1,0 +1,222 @@
+{
+    "writer": {
+        "entities": {
+            "Alex Pastor": {
+                "args": []
+            },
+            "David Pastor": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kristen Erickson": {
+                "args": []
+            },
+            "Michelle Dockery": {
+                "args": []
+            },
+            "Thomas Francis Murphy": {
+                "args": []
+            },
+            "Big Freedia": {
+                "args": []
+            },
+            "Mariana Paola Vicente": {
+                "args": []
+            },
+            "Brendan McCarthy": {
+                "args": []
+            },
+            "Clay Chamberlin": {
+                "args": []
+            },
+            "David Robertson": {
+                "args": []
+            },
+            "Marcus Lyle Brown": {
+                "args": []
+            },
+            "Alvin Santana": {
+                "args": []
+            },
+            "Teri Wyble": {
+                "args": []
+            },
+            "Jaynee-Lynne Kinchen": {
+                "args": []
+            },
+            "Hannah Jelinovic": {
+                "args": []
+            },
+            "Matthew Goode": {
+                "args": []
+            },
+            "Sandra Laugherty": {
+                "args": []
+            },
+            "Sam Page": {
+                "args": []
+            },
+            "Cedric Palmisano": {
+                "args": []
+            },
+            "Dacia Fernandez": {
+                "args": []
+            },
+            "Robert Harvey": {
+                "args": []
+            },
+            "Shelby Skipper": {
+                "args": []
+            },
+            "Jesica Ahlberg": {
+                "args": []
+            },
+            "Douglas M. Griffin": {
+                "args": []
+            },
+            "Anna Dudnik": {
+                "args": []
+            },
+            "Jimmy Gonzales": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "9_any hope reynolds had of reviving his stardom with self/less is as fruitless as thinking a person can swap bodies without consequence.",
+                        -0.578123434000639
+                    ],
+                    [
+                        "29_an initially intriguing parable about man's lust for immortality that quickly devolves into a substandard shoot-'em-up designed to rebrand star ryan reynolds as a brawny action hero in the jason statham mold.",
+                        -0.580524432763522
+                    ]
+                ]
+            },
+            "Tom Waite": {
+                "args": []
+            },
+            "Griff Furst": {
+                "args": []
+            },
+            "Victor Garber": {
+                "args": []
+            },
+            "Antionique Price": {
+                "args": []
+            },
+            "Natalie Martinez": {
+                "args": []
+            },
+            "Derek Luke": {
+                "args": []
+            },
+            "Ashley Laliberty": {
+                "args": []
+            },
+            "Ben Kingsley": {
+                "args": []
+            },
+            "Gary Weeks (II)": {
+                "args": []
+            },
+            "Rashod Singleton": {
+                "args": []
+            },
+            "Emily Tremaine": {
+                "args": []
+            },
+            "Dakota Buchanan": {
+                "args": []
+            },
+            "Jermel Wilson": {
+                "args": []
+            },
+            "Kate Ransome Wilcox": {
+                "args": []
+            },
+            "Keiton Crump": {
+                "args": []
+            },
+            "Julian Niccolini": {
+                "args": []
+            },
+            "Melora Hardin": {
+                "args": []
+            },
+            "Dylan Lowe": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_singh's most recent film, self/less, lives up to at least half of that reputation.",
+                0.5295096452731576
+            ],
+            [
+                "3_deep under the skin of this shrug of a movie is a solid metaphor rooted in an appealing fantasy.",
+                0.6131328584315632
+            ],
+            [
+                "11_you'd think a movie about transplanting human consciousness would be smarter than this.",
+                0.557215681604526
+            ],
+            [
+                "14_turns an intriguing idea into a b-movie action flick.",
+                -0.5645131919321711
+            ],
+            [
+                "20_\"self/less\" soon turns into an attractively shot yet pointless action film ...",
+                -0.7748958702710482
+            ],
+            [
+                "23_a deeply silly movie that takes itself very, very seriously.",
+                -0.6704952518009372
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Tarsem Singh": {
+                "args": [
+                    [
+                        "0_it would be more accurate to call it thirds, tarsem singh's self/less is a generic waste of a clever idea.",
+                        -0.6087446637954917
+                    ],
+                    [
+                        "1_tarsem singh has a reputation for making movies that are visually stunning ",
+                        0.7627584346379781
+                    ],
+                    [
+                        "5_self/less is so restrained that i wonder if somebody stole tarsem singh's body, too.",
+                        -0.7611836067543122
+                    ],
+                    [
+                        "8_all of it unfolds in the atmosphere of gaudy, portentous vacuity that is mr. singh's trademark.",
+                        0.6733155332356043
+                    ],
+                    [
+                        "12_tarsem singh, who directed the eye-catching the fall and immortals, brings a comparable level of visual invention to this tale, ",
+                        0.5743537349759649
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_in essence, everything good in \"self/less\" was derived from \"seconds,\" and everything bad the writers and the director came up with on their own.",
+                -0.6381538737766097
+            ]
+        ]
+    }
+}

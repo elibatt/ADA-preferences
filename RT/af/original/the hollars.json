@@ -1,0 +1,203 @@
+{
+    "acting": {
+        "entities": {
+            "Nancy Nave": {
+                "args": []
+            },
+            "Lacey Levy": {
+                "args": []
+            },
+            "Gus Sanchez": {
+                "args": []
+            },
+            "Isabela Costine": {
+                "args": []
+            },
+            "Mary Elizabeth Winstead": {
+                "args": []
+            },
+            "Sharlto Copley": {
+                "args": [
+                    [
+                        "14_ the performers, especially ms. martindale and the jittery mr. copley, keep it enjoyable, even touching at times.",
+                        0.8287647730320676
+                    ]
+                ]
+            },
+            "Josh Groban": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": []
+            },
+            "Margo Martindale": {
+                "args": [
+                    [
+                        "15_and margo martindale proves again that she is one of the best actors on the planet.",
+                        0.7384172334083925
+                    ]
+                ]
+            },
+            "Tonea Stewart": {
+                "args": []
+            },
+            "Richard Jenkins": {
+                "args": []
+            },
+            "Gustavo Sanchez": {
+                "args": []
+            },
+            "Yvonne Angulo": {
+                "args": []
+            },
+            "Charlie Day": {
+                "args": []
+            },
+            "Tim Crowe": {
+                "args": []
+            },
+            "Didi Costine": {
+                "args": []
+            },
+            "Ashley Dyke": {
+                "args": []
+            },
+            "Brady Permenter": {
+                "args": []
+            },
+            "Debbie Prescott": {
+                "args": []
+            },
+            "Mary Kay Place": {
+                "args": []
+            },
+            "Terence Mosley": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "John Krasinski": {
+                "args": [
+                    [
+                        "3_jenkins and martindale, both old hands at this sort of \"dramedy\" material, come through for krasinski as the story darkens in the second half.",
+                        -0.5575307045018714
+                    ],
+                    [
+                        "5_if krasinski relates in any significant way to his character's self-doubt, you wouldn't know it from the movie, on which he does confident double duty as director.",
+                        0.5993513795358317
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "4_\"the hollars\" is an uneven, ineffective and self-conscious dysfunctional family comedy/drama with a sundance-y vibe, and scene after scene in which the greatly talented and usually quite likable cast members keep stepping in big piles of wrong choices.",
+                0.6340284953138409
+            ],
+            [
+                "10_but with a brisk runtime and a terrific cast,",
+                0.7435122202308247
+            ],
+            [
+                "16_the terrific cast doesn't hurt.",
+                -0.6022634737540526
+            ],
+            [
+                "23_still, there's enough warmth, humor and heart in the very slick package, not to mention a gaggle of accomplished and well-cast actors ...",
+                0.7751641058684283
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "James C. Strouse": {
+                "args": [
+                    [
+                        "14_the swirl of anxiety plays out too patly in jim strouse's script, ",
+                        -0.51012581665423
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "5_if krasinski relates in any significant way to his character's self-doubt, you wouldn't know it from the movie, on which he does confident double duty as director.",
+                0.5993513795358317
+            ],
+            [
+                "16_strouse's deft script and krasinki's game direction upend a host of familiar moments in ways that are fresh and unexpected - if sometimes overly broad.",
+                0.8283562551517485
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_krasinski, who also directed the film, may have spread himself too thin",
+                -0.669684563342267
+            ],
+            [
+                "1_opening with a promising first act comprising well-observed, edgy humor, the film ends with an overdose of treacle so syrupy, so pungent, it will unsettle the strongest tummy.",
+                0.8101435475167925
+            ],
+            [
+                "4_\"the hollars\" is an uneven, ineffective and self-conscious dysfunctional family comedy/drama with a sundance-y vibe, and scene after scene in which the greatly talented and usually quite likable cast members keep stepping in big piles of wrong choices.",
+                0.6340284953138409
+            ],
+            [
+                "6_\"the hollars\" drives inexorably to a conclusion that feels as manipulatively mawkish as it is impossibly tidy, typical of a genre that too often tries to have it both ways.",
+                0.5491761764592076
+            ],
+            [
+                "8_the film struggles so hard to be funny that the comic potential is diluted.",
+                -0.6402776811845108
+            ],
+            [
+                "10_is the hollars an original, breathtaking dramedy that says anything new about middle-class suburbia and family?",
+                0.7984039869108625
+            ],
+            [
+                "11_the hollars is just good enough to make you wish that it were better.",
+                -0.6171298474293945
+            ],
+            [
+                "17_a gooey morass of indie-movie clichés, the wacky-family dramedy \"the hollars\" marks yet another egregiously cutesy attempt to rekindle that \"garden state\" magic.",
+                -0.5679301432207359
+            ],
+            [
+                "18_whenever the movie starts to get genuinely idiosyncratic, it reverts to singing the same old songs: weddings, funerals, births, and tasteful finger-picking.",
+                0.5105123369510263
+            ],
+            [
+                "19_and so is this small, lovely movie.",
+                0.6091479962098255
+            ],
+            [
+                "20_the hollars has some heart, ",
+                0.532401469977005
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Krasinski": {
+                "args": [
+                    [
+                        "3_jenkins and martindale, both old hands at this sort of \"dramedy\" material, come through for krasinski as the story darkens in the second half.",
+                        -0.5575307045018714
+                    ],
+                    [
+                        "5_if krasinski relates in any significant way to his character's self-doubt, you wouldn't know it from the movie, on which he does confident double duty as director.",
+                        0.5993513795358317
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bill Morrison": {
+                "args": [
+                    [
+                        "2_in \"dawson city,\" morrison offers a fiercely precise and discerning look at movies themselves as embodiments of history.",
+                        0.7892257097641436
+                    ],
+                    [
+                        "3_bill morrison, whose extraordinary documentary decasia turned decomposing film stock into the stuff of avante-garde reverie, returns with another staggering journey into the past.",
+                        0.7636417446918421
+                    ],
+                    [
+                        "10_frozen time is at its best in moments ... when it uses morrison's obsessive interest in cinematic detritus to express rather than inform.",
+                        0.7844561711781383
+                    ],
+                    [
+                        "11_i miss the weird, metaphoric entropy, which morrison would always score ",
+                        -0.6994283994786722
+                    ],
+                    [
+                        "12_documentarian bill morrison delivers a worthy follow-up to his classic 2002 film decasia with another cinematic tone poem dedicated to the glories of silent cinema.",
+                        0.8363776726382552
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_the true magic that \"dawson city\" captures is, simply, the mystery of film itself: a medium that turned people into shadows that burned brighter than life.",
+                0.8018239366450478
+            ],
+            [
+                "5_the movie's aesthetic is uniquely beautiful.",
+                0.805596208493224
+            ],
+            [
+                "8_a film that offers an abundance of celluloid and historical riches.",
+                0.6607465489873524
+            ]
+        ]
+    }
+}

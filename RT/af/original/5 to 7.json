@@ -1,0 +1,134 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the problem with 5 to 7 is that the most important romance, between brian and arielle, never feels real.",
+                -0.5262662742291887
+            ],
+            [
+                "4_there aren't many surprises in \"5 to 7,\" ",
+                -0.599189270200018
+            ],
+            [
+                "5_the brian-and-arielle story never quite feels believable",
+                -0.5261357261187276
+            ],
+            [
+                "5_ it plays more like a novel than a genuine love story, like a work in progress, rather than a beginning and, inevitably, an end.",
+                0.5742131839287116
+            ],
+            [
+                "6_levin, in an effort to appease an american sensibility, has taken sophisticated subject matter and made a movie for children.",
+                0.7256109427458022
+            ],
+            [
+                "7_for an r-rated romance about a young writer's affair with a sultry french siren, \"5 to 7\" generates all the heat of an easy-bake oven.",
+                0.6652699406042927
+            ],
+            [
+                "9_somewhere before the halfway point the movie crosses a line, and its fantasy version of new york, not to mention of french women, gets to looking kind of hoary and inadvertently adolescent.",
+                0.5355742875407957
+            ],
+            [
+                "10_\"5 to 7\" is an interesting directing de",
+                0.6035486711266349
+            ],
+            [
+                "13_while the film has an undeniably sexy glow, it's too earnest and sappy by half.",
+                0.5150698350000943
+            ],
+            [
+                "15_its central relationship has a sitcom-ish superficiality, heavy on light banter and lacking in any real passion.",
+                -0.6559885286714071
+            ],
+            [
+                "16_everyone has an f.a.o. schwarz gift box full of surprises before 5 to 7 smoothly sails into its final sunset over the manhattan skyline, and so will you.",
+                -0.5542015984664445
+            ],
+            [
+                "19_ a hitch designed to give some contemporary american idealists pause... the film satisfies in a wholly commercial way.",
+                0.6676116978967128
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Victor Levin": {
+                "args": [
+                    [
+                        "11_ mr. levin tends to embrace clichés and overstatement ... he can also surprise you with delicate touches, a pained look,",
+                        0.74762655743545
+                    ],
+                    [
+                        "14_there must have been pretty slim pickings at the neil simon store by the time \"5 to 7\" writer-director victor levin got there.",
+                        -0.5332905772354917
+                    ],
+                    [
+                        "20_courageously sentimental in an age of irony, victor levin's refreshingly articulate \"5 to 7\" delivers romance of the sort ",
+                        0.6075301401553667
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Victor Levin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_for an r-rated romance about a young writer's affair with a sultry french siren, \"5 to 7\" generates all the heat of an easy-bake oven.",
+                0.6652699406042927
+            ],
+            [
+                "14_there must have been pretty slim pickings at the neil simon store by the time \"5 to 7\" writer-director victor levin got there.",
+                -0.5332905772354917
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bérénice Marlohe": {
+                "args": [
+                    [
+                        "1_ marlohe brings to hers a luminous irony and melancholy that makes her the ideal elusive beauty of hyper-romantic adolescent dreams.",
+                        0.8754351529773872
+                    ]
+                ]
+            },
+            "Anton Yelchin": {
+                "args": [
+                    [
+                        "1_though yelchin does not elevate his role much above pasty callowness,",
+                        0.5239776299282547
+                    ]
+                ]
+            },
+            "Eric Stoltz": {
+                "args": []
+            },
+            "Frank Langella": {
+                "args": []
+            },
+            "Olivia Thirlby": {
+                "args": []
+            },
+            "Glenn Close": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_the strong cast, a beautiful score, and a surprisingly affecting ending make it more convincing that it seems at first.",
+                0.8510225423432443
+            ]
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_this absorbing film...manages to pack a lot of information - and some real drama - into its 40-minute running time.",
+                0.715093051078594
+            ],
+            [
+                "1_\"pandas\" does its subject justice and is a reminder of the importance of protecting endangered species and preserving the environment when these values have fallen from official favor.",
+                0.7080226099644193
+            ],
+            [
+                "3_the film creates an immersive experience with sweeping views of the mountains of sichuan, ",
+                0.7799220675104341
+            ],
+            [
+                "5_about as perfect as imax nature documentaries can get: informative, family-friendly, beautifully and immersively photographed, and so adorable that my scribbled screening notes are full of trenchant observations like \"so fuzzy!\"",
+                0.8848429682380634
+            ],
+            [
+                "6_chronicling the challenges faced by chinese researchers in regard to preparing captive-bred giant pandas for release into the wild, the involving, breathtakingly photographed documentary makes the most of its allotted 43-minute running time.",
+                0.7934632732297454
+            ],
+            [
+                "7_the panda is increasingly a fragile and precious hothouse species - hermetically born and raised, unable to survive on its own.",
+                -0.616846011845064
+            ],
+            [
+                "7_the movie shows you the steep climb they're now facing.",
+                -0.5342391350252289
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Drew Fellman": {
+                "args": [
+                    [
+                        "4_so visually dynamic that even the most pedantic (think neil degrasse tyson level) skeptics will probably not mind listening to narrator kristen bell - speaking for writer-co-director drew fellman - rattle off 43 minutes' worth of cutesy panda trivia.",
+                        0.6027170886858952
+                    ]
+                ]
+            },
+            "David Douglas": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Qian Qian": {
+                "args": [
+                    [
+                        "3_ while the scenery is stunning, the focus stays on the bamboo-loving qian qian and her struggles in her new environment.",
+                        0.8138694675565181
+                    ]
+                ]
+            },
+            "Hou Rong": {
+                "args": []
+            },
+            "Ben Kilham": {
+                "args": []
+            },
+            "Kristen Bell": {
+                "args": [
+                    [
+                        "4_so visually dynamic that even the most pedantic (think neil degrasse tyson level) skeptics will probably not mind listening to narrator kristen bell - speaking for writer-co-director drew fellman - rattle off 43 minutes' worth of cutesy panda trivia.",
+                        0.6027170886858952
+                    ]
+                ]
+            },
+            "Bi Wen Lei": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_so visually dynamic that even the most pedantic (think neil degrasse tyson level) skeptics will probably not mind listening to narrator kristen bell - speaking for writer-co-director drew fellman - rattle off 43 minutes' worth of cutesy panda trivia.",
+                0.6027170886858952
+            ]
+        ],
+        "entities": {
+            "Drew Fellman": {
+                "args": []
+            }
+        }
+    }
+}

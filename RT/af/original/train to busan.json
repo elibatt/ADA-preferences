@@ -1,0 +1,98 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Yeon Sang-ho": {
+                "args": [
+                    [
+                        "0_director yeon sang-ho makes smart use of the cramped quarters, and while it's true that his zombies' abilities tend to vary according to the requirements of the moment, it's easy to overlook amid the onslaught of action and emotion.",
+                        0.8381170839422135
+                    ],
+                    [
+                        "8_sprinting right out of the gate, the director, yeon sang-ho, dives gleefully into a sandbox of spilled brains and smug entitlement.",
+                        -0.6657185448246496
+                    ],
+                    [
+                        "10_yeon sang-ho has instantly transformed himself into korea's go-to-guy for zombie movies.",
+                        -0.607999901866225
+                    ],
+                    [
+                        "11_for almost 45 minutes, yeon sang-ho's new film is on pace to become the best, most urgent zombie movie since 28 days later.",
+                        0.7679760902644488
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jang Hyeok-jin": {
+                "args": []
+            },
+            "Woo-sik Choi": {
+                "args": []
+            },
+            "Kim Eui-sung": {
+                "args": []
+            },
+            "Yoo Gong": {
+                "args": []
+            },
+            "Kim Yool-ho": {
+                "args": []
+            },
+            "Ma Dong-seok": {
+                "args": []
+            },
+            "Kim Soo-ahn": {
+                "args": []
+            },
+            "Yumi Jung": {
+                "args": []
+            },
+            "So-hee Ahn": {
+                "args": []
+            },
+            "Kim Chang-hwan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Yeon Sang-ho": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a zombie movie content not to aspire to any loftier subtextual readings needs little more than a skilled choreographer of action, and there's plenty of evidence that this film had one in yeon.",
+                -0.6012709692426976
+            ],
+            [
+                "2_less effectively, the movie has some rather obvious social comeuppances in mind and you'll groan at the contrivances.",
+                0.5264902079292547
+            ],
+            [
+                "6_the most purely entertaining zombie film in some time, finding echoes of george romero's and danny boyle's work, ",
+                0.8175750358416719
+            ],
+            [
+                "7_\"train to busan\" is really a feast for the scary, gymnastic bit players: contorting their bodies, baring teeth and running full bore.",
+                -0.6698343365058362
+            ],
+            [
+                "9_breathless and brutal, the film is akin to someone smashing together 28 days later with snowpiercer and then convincing mad max's george miller to help out on some of the action scenes.",
+                -0.5399941040944976
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

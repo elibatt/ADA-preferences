@@ -1,0 +1,177 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_\"the third man\" is important not just because of its technique",
+                0.6190152749636245
+            ],
+            [
+                "5_the third man is a movie of sobering pleasures.",
+                0.6340992973279437
+            ],
+            [
+                "8_seen today, the third man ... can be appreciated as a prophetic statement on the eventual moral bankruptcy of the one-world euphoria that clouded men's minds immediately after the second 'war to end all wars.'",
+                0.5800528313303834
+            ],
+            [
+                "10_for lovers of film noir, the third man is unquestionably a must-see -- one of the masterpieces of a genre that has contained everything from milestone motion pictures to low-budget potboilers.",
+                0.7873661539429819
+            ],
+            [
+                "11_the third man is like the exhausted aftermath of casablanca.",
+                -0.5671989160328065
+            ],
+            [
+                "15_ the third man ... remains an indelible experience.",
+                0.6567756668281735
+            ],
+            [
+                "16_the complete effect of the third man is of superficial mysteries wrapped around deeper mysteries of the human heart, all immersed in a desperate universe suspended by the silent witnessing of a thousand eyes.",
+                0.7266809640714917
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Carol Reed": {
+                "args": [
+                    [
+                        "4_a lot funnier than you remember it, carol reed's immortal 1949 film noir seems to exist in the space between two worlds: an earlier time when thrillers were mostly serious affairs, and a future one, when such supremely witty entertainments felt passé.",
+                        0.761744312471041
+                    ],
+                    [
+                        "9_top credit must go to mr. reed for molding all possible elements into a thriller of superconsequence.",
+                        0.5744962980323925
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Paul Hörbiger": {
+                "args": []
+            },
+            "Jenny Werner": {
+                "args": []
+            },
+            "Martin Boddey": {
+                "args": []
+            },
+            "Annie Rosar": {
+                "args": []
+            },
+            "Herbert Halbik": {
+                "args": []
+            },
+            "Thomas Gallagher": {
+                "args": []
+            },
+            "Frederick Schreicher": {
+                "args": []
+            },
+            "Herbeil Halbik": {
+                "args": []
+            },
+            "Leo Bieber": {
+                "args": []
+            },
+            "Nelly Arno": {
+                "args": []
+            },
+            "Holga Walrow": {
+                "args": []
+            },
+            "Alida Valli": {
+                "args": []
+            },
+            "Walter Hertner": {
+                "args": []
+            },
+            "Harry Belcher": {
+                "args": []
+            },
+            "Geoffrey Keen": {
+                "args": []
+            },
+            "Rona Grahame": {
+                "args": []
+            },
+            "Bernard Lee": {
+                "args": []
+            },
+            "Paul L. Smith": {
+                "args": []
+            },
+            "Martin Miller": {
+                "args": []
+            },
+            "Joseph Cotten": {
+                "args": []
+            },
+            "Orson Welles": {
+                "args": []
+            },
+            "Trevor Howard": {
+                "args": []
+            },
+            "Ernst Deutsch": {
+                "args": []
+            },
+            "Paul Hardtmuth": {
+                "args": []
+            },
+            "Hedwig Bleibtreu": {
+                "args": []
+            },
+            "Alexis Chesnakov": {
+                "args": []
+            },
+            "Wilfrid Hyde-White": {
+                "args": []
+            },
+            "Eric Pohlmann": {
+                "args": []
+            },
+            "Lilly Khan": {
+                "args": []
+            },
+            "Siegfried Breuer": {
+                "args": []
+            },
+            "Geoffrey Wade": {
+                "args": []
+            },
+            "Erich Ponto": {
+                "args": []
+            },
+            "James Michael Connor": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_krasker's camera reveals a dank, matte, defeated city - so dully vivid as to be a character unto itself - except that this vienna becomes something altogether different seen at night or underground.",
+                0.6341374815130457
+            ]
+        ],
+        "entities": {
+            "Graham Greene (II)": {
+                "args": [
+                    [
+                        "1_reed and screenwriter graham greene let the story unfold slowly and deliberately, like the cigarette smoke that floats around the characters, and keep us guessing at every step.",
+                        0.584489702620423
+                    ]
+                ]
+            }
+        }
+    }
+}

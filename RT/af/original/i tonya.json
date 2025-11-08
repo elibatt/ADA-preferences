@@ -1,0 +1,188 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {
+            "competitor": {
+                "args": [
+                    [
+                        "22_gillespie may be indebted to filmmakers like martin scorsese and david o. russell, ",
+                        0.5152591673457297
+                    ],
+                    [
+                        "25_an often genius, always subversive film about an outsider who isn't easy to love yet at the same time hard to hate.",
+                        0.6640890309460439
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "9_robbie delivers a performance that is breathtaking to behold, almost to the point of exhaustion.",
+                0.9088910554017215
+            ],
+            [
+                "11_with a less compelling lead performance, the movie's dodgy limitations and flashy, facile editing and cross-cutting might've proven insufferable.",
+                -0.544965595345972
+            ],
+            [
+                "12_it's a great performance that can make the movie feel better than it actually is.",
+                0.7728998215256602
+            ],
+            [
+                "30_there's a poignancy to harding's battle against her own bad reputation, and it survives i, tonya's flippant, needle-drop approach thanks to the rage and resignation of the lead performance.",
+                0.6350608857392595
+            ]
+        ],
+        "entities": {
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Sebastian Stan": {
+                "args": []
+            },
+            "Paul Walter Hauser": {
+                "args": [
+                    [
+                        "17_the film is periodically enlivened by some of the supporting players, including paul walter hauser as shawn eckhardt, the supposed mastermind of the kerrigan assault whom the movie depicts as a world-class schlub.",
+                        0.6796092479124984
+                    ]
+                ]
+            },
+            "Allison Janney": {
+                "args": []
+            },
+            "McKenna Grace": {
+                "args": []
+            },
+            "Caitlin Carver": {
+                "args": []
+            },
+            "Margot Robbie": {
+                "args": [
+                    [
+                        "0_[robbie] transforms what could easily have been just another grotesquerie in a grand guignol into a fully rounded, albeit unsympathetic, character.",
+                        0.5414588752111217
+                    ],
+                    [
+                        "1_ i found myself captivated by the anger and blunt physicality that define robbie's performance.",
+                        0.625530361580264
+                    ],
+                    [
+                        "18_destroyed yet defiant, robbie walks the emotional tightrope of the most fabulously, tragically american film of the year.",
+                        0.7151577951779781
+                    ],
+                    [
+                        "23_elevated by margot robbie and allison janney's shimmering performances, this entertaining account of those strange events earns the sort of high marks for creative interpretation that its protagonist complained eluded her.",
+                        0.8277035680911219
+                    ],
+                    [
+                        "27_a renegade biopic with punk-rock energy and an in-your-face performance from robbie.",
+                        0.6614666425955974
+                    ],
+                    [
+                        "33_a never-better robbie and janney hold up a mirror to the tabloid america most of us ignore or dismiss - and make us see ourselves reflected in it, too.",
+                        0.5619911237198312
+                    ]
+                ]
+            },
+            "Julianne Nicholson": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Craig Gillespie": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_[robbie] transforms what could easily have been just another grotesquerie in a grand guignol into a fully rounded, albeit unsympathetic, character.",
+                0.5414588752111217
+            ],
+            [
+                "22_ the character depth and tonal control of their best work seem beyond his reach.",
+                0.7303258215141873
+            ]
+        ],
+        "entities": {
+            "Steven Rogers": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_gillespie's insistence on comedy in place of what's largely missing from the film - perspective, pathos - falsely energizes the story.",
+                0.5536991839305361
+            ],
+            [
+                "11_with a less compelling lead performance, the movie's dodgy limitations and flashy, facile editing and cross-cutting might've proven insufferable.",
+                -0.544965595345972
+            ],
+            [
+                "12_it's a great performance that can make the movie feel better than it actually is.",
+                0.7728998215256602
+            ],
+            [
+                "13_the film softens the bouts of cruelty with an abiding sense of humane, if absurdist, comedy, smoothing out the tonal shifts that may have you gasping in horror one minute and laughing the next.",
+                0.7675389372653671
+            ],
+            [
+                "14_who would have ever imagined tonya harding as the subject of a great movie?",
+                0.7694084749372792
+            ],
+            [
+                "15_and yes, the film implicates us in that.",
+                0.6901245606324357
+            ],
+            [
+                "16_this remarkable movie-factual and funny, always surprising and unconventionally written, directed and acted-sets the record straight with an adrenalin rush that overwhelms the senses.",
+                0.8871516588524013
+            ],
+            [
+                "22_ the character depth and tonal control of their best work seem beyond his reach.",
+                0.7303258215141873
+            ],
+            [
+                "25_an often genius, always subversive film about an outsider who isn't easy to love yet at the same time hard to hate.",
+                0.6640890309460439
+            ],
+            [
+                "29_i, tonya is the tonya harding film you never knew you wanted: an outrageously entertaining reappraisal of the olympic figure skater who, in 1994, was involved in a scheme to injure her main rival, nancy kerrigan.",
+                0.7272797061591635
+            ],
+            [
+                "36_ the movie - and its stars - tell the story with biting humor and big performances.",
+                0.6181544917286647
+            ],
+            [
+                "37_the film's pitch-black humor is sharper than that of a skating blade.",
+                0.5842821239519018
+            ],
+            [
+                "38_it's a black comedy, and parts of it are too broad, like a second-rate coen brothers movie.",
+                -0.626450616135194
+            ],
+            [
+                "40_ much of the movie's bluff comedy mocks the tone and the actions of tonya and her milieu.",
+                -0.5663532317036866
+            ],
+            [
+                "42_its tonya acquires a untidy grandeur because of her contradictions, not in spite of them, crushing out cigarettes with her skate blade and skipping over inconvenient details the film delves into anyway.",
+                0.5483852993282242
+            ],
+            [
+                "45_a fresh, chancy, and wickedly enjoyable movie.",
+                0.8116404917876752
+            ]
+        ]
+    }
+}

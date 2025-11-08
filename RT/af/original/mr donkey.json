@@ -1,0 +1,38 @@
+{
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Suxi Ren": {
+                "args": []
+            },
+            "Shualiang Liu": {
+                "args": []
+            },
+            "Li Da": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lu Liu": {
+                "args": []
+            },
+            "Shen Zhou": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

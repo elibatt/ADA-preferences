@@ -1,0 +1,236 @@
+{
+    "writer": {
+        "entities": {
+            "Terence Davies": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Terence Davies": {
+                "args": [
+                    [
+                        "1_like davies' best work, the movie employs classical rigor - perfectly symmetrical, painterly landscapes and interiors - with unexpected postmodern touches.",
+                        0.7965539784404163
+                    ],
+                    [
+                        "9_to judge from davies's uneven and melodramatic film, there is very little to lament about the disappearance of premodern scotland.",
+                        -0.6427512442057582
+                    ],
+                    [
+                        "10_even when working from source material crafted by others, davies, like all singular filmmakers, imprints it with his dna.",
+                        0.5373714847239169
+                    ],
+                    [
+                        "12_ there is a certain melancholy enchantment in davies' golden-hued countryside.",
+                        0.6653721703838681
+                    ],
+                    [
+                        "16_stultifying in spots, the period drama sunset song marks an unexpected misstep for terence davies, the eccentric filmmaker whose movies evoke limbo states of memory and repressed feeling using a very british vocabulary of drab spaces.",
+                        0.8324748174288051
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"sunset song\" is not without flaws, ",
+                -0.5406742652296572
+            ],
+            [
+                "2_ it's an art film of uncommon beauty.",
+                0.8589160413606968
+            ],
+            [
+                "3_it's an absorbing, finely composed, fretful film.",
+                0.7878995661474937
+            ],
+            [
+                "6_in short, the movie feels, if not exactly glamorous, then simultaneously overly processed and overwrought, even when it's wallowing in the most abased behavior.",
+                -0.6915055678452305
+            ],
+            [
+                "11_\"sunset song\" ... falls short of the intended cumulative effect, its emotional power undercut by its studied, episodic unfolding.",
+                -0.6148571136351301
+            ],
+            [
+                "12_the film takes a false turn in its final act, ",
+                -0.5009329365446766
+            ],
+            [
+                "14_davies' quiet, painterly film largely eschews musical cues that would heighten its emotional impact, ",
+                0.7309189673384943
+            ],
+            [
+                "14_ as it is, \"sunset song\" is captivating in its sincerity.",
+                0.815100892983985
+            ],
+            [
+                "15_the ethereal nature of human relationships (and humans, period) gives the entire movie a stoic quality: we do the best with what we have, and try to be thankful to be alive, and take pleasure in moments ...",
+                0.8416771269322139
+            ],
+            [
+                "17_now it is a film that demands to be seen.",
+                0.683246521444575
+            ],
+            [
+                "18_a tale of hardship and perseverance, \"sunset song\" is both visually lush and classically carved, if occasionally overwrought.",
+                0.662754690610925
+            ],
+            [
+                "19_ whenever she steps out into the wider world, the movie soars.",
+                0.5577750139878013
+            ],
+            [
+                "20_\"sunset song\" is a grand-scale melodrama compressed into the quietly burning point of a single soul.",
+                0.6352176111386653
+            ],
+            [
+                "21_the film pointedly contrasts the splendor of the scottish landscape with the punishingly austere lives of the farmers who toil in the fields.",
+                0.7205849972461359
+            ],
+            [
+                "24_ allow its carefully calibrated beauty to work on you",
+                0.523328177418738
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Maelly Comes": {
+                "args": []
+            },
+            "Mark Bonnar": {
+                "args": []
+            },
+            "Claire Johnston": {
+                "args": []
+            },
+            "Jamie Michie": {
+                "args": []
+            },
+            "Nial Fulton": {
+                "args": []
+            },
+            "Trish Mullin": {
+                "args": []
+            },
+            "Julian Nest": {
+                "args": []
+            },
+            "Ken Blackburn": {
+                "args": []
+            },
+            "Anne Comfort": {
+                "args": []
+            },
+            "David Ganly": {
+                "args": []
+            },
+            "Hugh Ross": {
+                "args": []
+            },
+            "Douglas Rankine": {
+                "args": []
+            },
+            "Callum Adams": {
+                "args": []
+            },
+            "Gavan Guilfoyle": {
+                "args": []
+            },
+            "Jack Greenlees": {
+                "args": []
+            },
+            "Kevin Guthrie": {
+                "args": []
+            },
+            "Daniela Nardini": {
+                "args": []
+            },
+            "Gilbert Johnston": {
+                "args": []
+            },
+            "Simon Tait": {
+                "args": []
+            },
+            "Gaetan Fyfe": {
+                "args": []
+            },
+            "James A. Adamson": {
+                "args": []
+            },
+            "Indigo Paul": {
+                "args": []
+            },
+            "Ian Pirie": {
+                "args": []
+            },
+            "Jim Sweeney": {
+                "args": []
+            },
+            "Bridget McCann": {
+                "args": []
+            },
+            "Ron Donachie": {
+                "args": []
+            },
+            "Peter Mullan": {
+                "args": []
+            },
+            "Agyness Deyn": {
+                "args": [
+                    [
+                        "7_a commanding lead performance by agyness deyn as chris, a farm woman tested by extraordinary circumstances, overrides most concerns.",
+                        0.7256637782602886
+                    ]
+                ]
+            },
+            "Luca Humphries": {
+                "args": []
+            },
+            "Emily-Jane Boyle": {
+                "args": []
+            },
+            "Antony Strachan": {
+                "args": []
+            },
+            "Tom Duncan": {
+                "args": []
+            },
+            "Louise Haggerty": {
+                "args": []
+            },
+            "Niall Greig Fulton": {
+                "args": []
+            },
+            "Ewan Comes": {
+                "args": []
+            },
+            "John Molloy": {
+                "args": []
+            },
+            "Linda Duncan McLaughlin": {
+                "args": []
+            },
+            "Stuart Bowman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_deyn gives a vivid performance as the daughter, a quiet ",
+                0.7931839993981713
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

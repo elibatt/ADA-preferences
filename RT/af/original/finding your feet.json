@@ -1,0 +1,128 @@
+{
+    "writer": {
+        "entities": {
+            "Nick Moorcroft": {
+                "args": []
+            },
+            "Meg Leonard": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_ the script's best efforts to prevent it.",
+                0.5652213274952276
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Joanna Lumley": {
+                "args": []
+            },
+            "Josie Lawrence": {
+                "args": []
+            },
+            "Jacqueline Ramnarine": {
+                "args": []
+            },
+            "John Sessions": {
+                "args": []
+            },
+            "Victoria Wicks": {
+                "args": []
+            },
+            "Imelda Staunton": {
+                "args": []
+            },
+            "Celia Imrie": {
+                "args": []
+            },
+            "Timothy Spall": {
+                "args": [
+                    [
+                        "5_whether it's inspired, perverse, or just lazy to make over-60 actors prance through familiar rom-com routines, staunton, spall, and imrie are up to the task.",
+                        0.5157313266907513
+                    ],
+                    [
+                        "6_your feet doesn't have much to recommend it apart from its grossly overqualified cast, led by imelda staunton and timothy spall.",
+                        -0.7135281318413439
+                    ],
+                    [
+                        "8_the cast, let by imelda staunton and celia imrie, and including timothy spall and joanna lumley, is so good at pushing past the clichés that they make something out of the film, ",
+                        -0.5238789671538274
+                    ],
+                    [
+                        "10_luckily, staunton, imrie, spall, lumley et al are up to the task of dancing around most of the plot's more tired or ill-considered moments.",
+                        -0.5328936141906202
+                    ]
+                ]
+            },
+            "Sian Thomas": {
+                "args": []
+            },
+            "Marianne Oldham": {
+                "args": []
+            },
+            "David Hayman": {
+                "args": []
+            },
+            "Richard Hope": {
+                "args": []
+            },
+            "Indra Ove": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_when given the chance (which is always), the cast unlocks moments that are so intimate and naturally detailed, you would swear that the actors had no idea the cameras were rolling.",
+                0.6110042447004633
+            ],
+            [
+                "3_this dramedy about middle-class londoners in their 60s and 70s getting on with life has a genial watchability - even a stubborn relevance - thanks to its crackerjack ensemble cast, who play characters just eccentric enough to keep things tasty.",
+                0.7439098897520613
+            ],
+            [
+                "10_finding your feet leans heavily on its cast of british screen greats.",
+                -0.5256047609767696
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_ the pandering in finding your feet is so extreme that it gets old fast.",
+                -0.6572449936390793
+            ],
+            [
+                "4_finding your feet finds its own footing by putting its trust in its sturdy performers and avoiding many of the usual tea-time clichés.",
+                0.6659498672727677
+            ],
+            [
+                "10_finding your feet leans heavily on its cast of british screen greats.",
+                -0.5256047609767696
+            ],
+            [
+                "11_ finding your feet nevertheless does what it says on the tin, and does it expertly.",
+                0.6235686965470997
+            ],
+            [
+                "12_\"finding your feet\" hits its romantic-comedy beats with an old-timer's clockwork efficiency.",
+                0.7504909750286362
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Richard Loncraine": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

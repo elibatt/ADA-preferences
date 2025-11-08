@@ -1,0 +1,63 @@
+{
+    "acting": {
+        "entities": {
+            "Sathyaraj": {
+                "args": []
+            },
+            "Prabhas": {
+                "args": []
+            },
+            "Ramya Krishnan": {
+                "args": []
+            },
+            "Rana Daggubati": {
+                "args": []
+            },
+            "Nassar": {
+                "args": []
+            },
+            "Tamanna Bhatia": {
+                "args": []
+            },
+            "Subbaraju": {
+                "args": []
+            },
+            "Anushka Shetty": {
+                "args": []
+            },
+            "Tamannaah Bhatia": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "C.H. Vijay Kumar": {
+                "args": []
+            },
+            "S.S. Rajamouli": {
+                "args": []
+            },
+            "Ajay Kumar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "S.S. Rajamouli": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

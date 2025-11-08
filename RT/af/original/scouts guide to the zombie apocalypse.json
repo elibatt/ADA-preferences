@@ -1,0 +1,164 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the gags are mostly puerile and uninspired - like the film was dreamed up by a bunch of tired, wired 13-year-olds",
+                -0.8163066586322983
+            ],
+            [
+                "3_after decades of well-trodden zombie tropes, a successful zombie movie has to be at least one of three things: a) original b) funny or c) actually scary.",
+                -0.5582645590162969
+            ],
+            [
+                "4_scouting has had since it ended its ban on gay leaders, not to mention a pretty decent zombie film.",
+                -0.5547494838977556
+            ],
+            [
+                "6_the film falls prey to the zombie curse of excessive laddishness, ",
+                -0.6672065174145572
+            ],
+            [
+                "7_\"scouts guide to the zombie apocalypse\" is exactly what you'd expect.",
+                0.500711062973332
+            ],
+            [
+                "8_if your idea of a hot joke is a strip club called \"lawrence of alabia,\" step right up to \"scouts guide to the zombie apocalypse,\" a horror-comedy that takes a weak premise",
+                -0.5997325242300556
+            ],
+            [
+                "9_the result is a movie that's outrageous without being funny, and gruesome without being scary.",
+                -0.5499489246336681
+            ],
+            [
+                "10_at the end of the film you realize it's simply just a pubescent male fantasy.",
+                -0.6561045762409121
+            ],
+            [
+                "11_scouts guide to the zombie apocalypse manages to be a very good comedy, a scary adventure, a tale of friendship and a coming of age story, all rolled into one.",
+                0.8295510481945416
+            ],
+            [
+                "15_ not the movie, in this witless zombie-comedy retread.",
+                -0.6952198697882404
+            ],
+            [
+                "16_ you can see shards of the film it might have been.",
+                0.5148216608373247
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Christopher Landon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Lona Williams": {
+                "args": []
+            },
+            "Christopher Landon": {
+                "args": []
+            },
+            "Carrie Evans": {
+                "args": []
+            },
+            "Emi Mochizuki": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ at least it finds room for a strong female character.",
+                -0.5691013853183103
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jeremy Dunn": {
+                "args": []
+            },
+            "Matthew Cardarople": {
+                "args": []
+            },
+            "Rebecca Rowley": {
+                "args": []
+            },
+            "Efren John Rowan": {
+                "args": []
+            },
+            "Logan Miller": {
+                "args": []
+            },
+            "Patrick Schwarzenegger": {
+                "args": []
+            },
+            "Theo Kypri": {
+                "args": []
+            },
+            "Laurel Harris": {
+                "args": []
+            },
+            "Hiram A. Murray": {
+                "args": []
+            },
+            "Lukas Gage": {
+                "args": []
+            },
+            "Leon Charles Farmer": {
+                "args": []
+            },
+            "Joey Morgan": {
+                "args": []
+            },
+            "David Koechner": {
+                "args": []
+            },
+            "Brianna Gardner": {
+                "args": []
+            },
+            "Cloris Leachman": {
+                "args": []
+            },
+            "John Francis Dillon": {
+                "args": []
+            },
+            "Sarah Dumont": {
+                "args": []
+            },
+            "Tye Sheridan": {
+                "args": []
+            },
+            "Tony Gardner": {
+                "args": []
+            },
+            "Sara Malakul Lane": {
+                "args": []
+            },
+            "Niki Koss": {
+                "args": []
+            },
+            "Elle Evans": {
+                "args": []
+            },
+            "Halston Sage": {
+                "args": []
+            },
+            "Drew Droege": {
+                "args": []
+            },
+            "Blake Anderson": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

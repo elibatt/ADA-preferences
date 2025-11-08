@@ -1,0 +1,114 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Lawrence Sher": {
+                "args": [
+                    [
+                        "4_director sher shows no special affinity for comic pacing or enlivening dialogue scenes, so the movie just plods from scene to scene, building no momentum.",
+                        -0.5882651108009211
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_distinguished mainly by its overqualified cast and lack of inspiration, \"father figures\" can't decide whether it's a gross-out comedy or an uplifting tale of brotherly love",
+                -0.5686482257952307
+            ],
+            [
+                "13_this is a lazy story, wholly dependent upon the likability of its cast which, while considerable, isn't enough to make it worth the trouble.",
+                -0.5909339618988134
+            ]
+        ],
+        "entities": {
+            "June Squibb": {
+                "args": []
+            },
+            "Christopher Walken": {
+                "args": []
+            },
+            "Ving Rhames": {
+                "args": []
+            },
+            "Katt Williams": {
+                "args": [
+                    [
+                        "12_comedian katt williams, in a small role as a chipper hitchhiker, injects about 15 minutes worth of fun into father figures, an ",
+                        0.7919988411559726
+                    ]
+                ]
+            },
+            "Owen Wilson": {
+                "args": [
+                    [
+                        "3_at first [helms and wilson] seem incompatible.",
+                        0.5269512350015766
+                    ],
+                    [
+                        "5_would you like to watch wilson and a young child urinate on each other in a rest stop bathroom?",
+                        0.7599922904018979
+                    ],
+                    [
+                        "12_ mostly dreadful road comedy in which ed helms and owen wilson play twins searching for a man to call dad.",
+                        -0.8072839653567998
+                    ]
+                ]
+            },
+            "Ed Helms": {
+                "args": []
+            },
+            "Terry Bradshaw": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            },
+            "Glenn Close": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Justin Malen": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_father figures is not just painfully anti-charming, it is transparently desperate.",
+                -0.5654541366680048
+            ],
+            [
+                "1_\"father figures\" is what happens when you throw a comedy and the laughs forget to show up.",
+                -0.6976852220127925
+            ],
+            [
+                "2_distinguished mainly by its overqualified cast and lack of inspiration, \"father figures\" can't decide whether it's a gross-out comedy or an uplifting tale of brotherly love",
+                -0.5686482257952307
+            ],
+            [
+                "8_the movie torpedoes its sense of comic discovery.",
+                0.648675974156496
+            ],
+            [
+                "10_moving images were projected, along with recorded sound, which indicates it is a movie, ",
+                0.6219559240534345
+            ],
+            [
+                "11_this lightweight comic road movie is unhurried and eager to please.",
+                -0.5210342600220306
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

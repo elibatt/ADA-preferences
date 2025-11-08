@@ -1,0 +1,121 @@
+{
+    "writer": {
+        "entities": {
+            "David Thorpe": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "George Takei": {
+                "args": []
+            },
+            "Zach King": {
+                "args": []
+            },
+            "Don Lemon": {
+                "args": []
+            },
+            "Tim Gunn": {
+                "args": []
+            },
+            "David Sedaris": {
+                "args": []
+            },
+            "Margaret Cho": {
+                "args": []
+            },
+            "David Thorpe": {
+                "args": [
+                    [
+                        "1_ thorpe's conversational tone is ingratiating.",
+                        -0.5262926840626737
+                    ],
+                    [
+                        "6_ wish that thorpe had acted more like an emcee than a subject.",
+                        -0.664625725363024
+                    ],
+                    [
+                        "7_while thorpe ostensibly explores the sibilant consonants and careful enunciation that characterize what we have come to think of as \"sounding gay,\" his film is really about his identity.",
+                        0.5745037287963402
+                    ],
+                    [
+                        "11_mr. thorpe's explorations of a painful subject are an exercise in healing.",
+                        -0.5205499126243622
+                    ],
+                    [
+                        "14_\"do i sound gay?\" is fun, and while there's too much of thorpe onscreen - and his family, and his friends, and other easy-to-land interview subjects - there are some interesting insights here from other writers and celebrities.",
+                        0.5557015240308522
+                    ]
+                ]
+            },
+            "Dan Savage": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's an interesting film, consistently entertaining, a mile wide and an inch deep.",
+                0.7279011853735438
+            ],
+            [
+                "8_ it's nonetheless a breezy, funny, often quite clever film more concerned with minor epiphanies than big answers.",
+                0.8540936400366828
+            ],
+            [
+                "9_the film scratches a lot of surfaces, never venturing too far down the interesting paths it divulges.",
+                -0.6961349401474702
+            ],
+            [
+                "10_for a film largely about speech, the provocatively titled documentary \"do i sound gay?\" has little of great significance to say.",
+                0.5123312932655452
+            ],
+            [
+                "15_the ... conversation, less than the inconclusive answer, is what makes \"do i sound gay?\" worth a look.",
+                0.6016357607598201
+            ],
+            [
+                "16_the film sheds light on self-imposed homophobia and questions of nature versus nurture without sacrificing its essential sense of humor.",
+                0.814964691339169
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David Thorpe": {
+                "args": [
+                    [
+                        "1_ thorpe's conversational tone is ingratiating.",
+                        -0.5262926840626737
+                    ],
+                    [
+                        "6_ wish that thorpe had acted more like an emcee than a subject.",
+                        -0.664625725363024
+                    ],
+                    [
+                        "7_while thorpe ostensibly explores the sibilant consonants and careful enunciation that characterize what we have come to think of as \"sounding gay,\" his film is really about his identity.",
+                        0.5745037287963402
+                    ],
+                    [
+                        "11_mr. thorpe's explorations of a painful subject are an exercise in healing.",
+                        -0.5205499126243622
+                    ],
+                    [
+                        "14_\"do i sound gay?\" is fun, and while there's too much of thorpe onscreen - and his family, and his friends, and other easy-to-land interview subjects - there are some interesting insights here from other writers and celebrities.",
+                        0.5557015240308522
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

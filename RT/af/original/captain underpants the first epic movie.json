@@ -1,0 +1,122 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_just when your brain's starting to ache, the film chucks in another subversive crack about america's failing school system, or a genuinely hilarious sock-puppet-animated flashback.",
+                0.6237477601528321
+            ],
+            [
+                "2_it's a kids' movie that won't make grownups want to manually remove their own toenails!",
+                0.5623854709596936
+            ],
+            [
+                "4_the film also inventively incorporates cg animation, live-action sock puppets and a flipbook to bring to life the pages of pilkey's sentimental ode to boyhood.",
+                0.6674171303724777
+            ],
+            [
+                "5_while the movie is solidly and unapologetically pitched towards kids, it has a subversive streak that is as genuine and sharp as anything whipped up by roald dahl.",
+                0.662220673090159
+            ],
+            [
+                "10_the movie is fresh, fun, and breezy.",
+                0.8009051551898603
+            ],
+            [
+                "13_for a film that is almost entirely based on toilet humor of the fourth grade reading level, you may be surprised that there is some sage wisdom to be found in the saga of captain underpants.",
+                0.7433737354611686
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Soren": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mel Rodriguez": {
+                "args": []
+            },
+            "Christopher Miller": {
+                "args": []
+            },
+            "Thomas Middleditch": {
+                "args": []
+            },
+            "Leslie David Baker": {
+                "args": []
+            },
+            "Coco Soren": {
+                "args": []
+            },
+            "Dee Dee Rescher": {
+                "args": []
+            },
+            "Ed Helms": {
+                "args": []
+            },
+            "Brian Posehn": {
+                "args": []
+            },
+            "Kristen Schaal": {
+                "args": []
+            },
+            "Jordan Peele": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": [
+                    [
+                        "3_the friendship of george and harold is celebrated, and the cheery vocal work of hart and middleditch gives the picture its sprightly spirit.",
+                        0.7672135089875679
+                    ]
+                ]
+            },
+            "Sugar Lyn Beard": {
+                "args": []
+            },
+            "David Soren": {
+                "args": []
+            },
+            "Lesley Nicol": {
+                "args": []
+            },
+            "Tiffany Bennicke": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_the one-joke soon wears thin, and nothing - particularly the labor-saving animation and hideous-to-behold character design - can keep underpants from stinking.",
+                -0.655378718553133
+            ],
+            [
+                "18_in the absence of a sturdier storyline and more dimensional characters, the manic, rapid-fire delivery, while yielding some well-deserved laughs, proves more exhausting than inspired.",
+                0.6583368090780375
+            ]
+        ],
+        "entities": {
+            "Nicholas Stoller": {
+                "args": [
+                    [
+                        "16_the first epic movie was written by nicholas stoller, who includes funny stuff that will appeal to kids -- the name professor poopypants likely makes it unnecessary to explain further -- as well as humour aimed at adults.",
+                        0.6785418847321004
+                    ]
+                ]
+            }
+        }
+    }
+}

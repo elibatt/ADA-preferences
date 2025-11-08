@@ -1,0 +1,678 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "William L. Bozarth": {
+                "args": []
+            },
+            "Michael Che": {
+                "args": []
+            },
+            "Gary M. LaSasso": {
+                "args": []
+            },
+            "Deborah Offner": {
+                "args": []
+            },
+            "Corey Brown": {
+                "args": []
+            },
+            "Olga Merediz": {
+                "args": []
+            },
+            "Laurissa Romain": {
+                "args": []
+            },
+            "Ben Vereen": {
+                "args": []
+            },
+            "Teddy Coluca": {
+                "args": []
+            },
+            "Vivian Chiu": {
+                "args": []
+            },
+            "Elleen Hannah": {
+                "args": []
+            },
+            "Chris Rock": {
+                "args": [
+                    [
+                        "0_chris rock's top five is very funny -- no surprise there -- ",
+                        0.5831682191502507
+                    ],
+                    [
+                        "1_as a director, chris rock makes a fine stand-up comic.",
+                        0.6775179948444969
+                    ],
+                    [
+                        "2_a seriously funny, semi-autobiographical film that might be the most accomplished work chris rock has ever done for the big screen.",
+                        0.5944528833624297
+                    ],
+                    [
+                        "3_ even its misses feel personal and unself-conscious - a genuine reflection of chris rock, auteur.",
+                        0.6051010677023506
+                    ],
+                    [
+                        "4_like rock's best stand-up shows, top five mixes the sweet with the salty, the naughty with the remarkably kind.",
+                        0.8205026775576163
+                    ],
+                    [
+                        "7_ too-often subpar movie star chris rock.",
+                        -0.5500135830439192
+                    ],
+                    [
+                        "9_it's fun to watch chris rock",
+                        0.6167188757556081
+                    ],
+                    [
+                        "10_welcome back, chris rock.",
+                        -0.5819545966453348
+                    ],
+                    [
+                        "11_[rock is] still not all the way there in \"top five,\" his third effort as writer-director-star.",
+                        0.702153537512436
+                    ],
+                    [
+                        "15_the movie, which alternates between hilariously vulgar gags and some electric improvs and riffs by rock and his cast of all-stars, has the crackle and pop of a live performance - it energizes you.",
+                        0.5732436224638733
+                    ],
+                    [
+                        "16_the movie marks the first time rock's stand-up persona - cutting, vulnerable, afraid of no sacred cows - has survived intact on the way to the multiplex.",
+                        0.5196037625452089
+                    ],
+                    [
+                        "18_to the writing, rock brings the discipline of his stand-up.",
+                        0.6051892004448215
+                    ],
+                    [
+                        "20_raunchy in extremis, often funny and at times touching, \"top five\" is chris rock's sincere attempt to craft a film career largely detached from his stand-up clowning.",
+                        0.6800671540350084
+                    ],
+                    [
+                        "21_the sweetest surprise in this raunchy comic ride is how artfully rock lets down his guard.",
+                        0.6994471517073467
+                    ],
+                    [
+                        "22_mr. rock has made a pyrotechnic pinwheel of a personal comedy, and he's had the wisdom to share it with a strong co-star.",
+                        0.7267029499037349
+                    ],
+                    [
+                        "23_\"top five\" may be chris rock's biggest and boldest film as a director and writer, ",
+                        0.5030119586358137
+                    ],
+                    [
+                        "24_top five is rock's most accomplished work yet, a truly personal story whose comedic riffs on love, race, sex, and celebrity are carefully woven into a credible romantic plot.",
+                        0.7816675168308934
+                    ],
+                    [
+                        "26_in \"top five,\" you sense rock trying to load all these disparate talents onto a conventional romantic-comedy structure.",
+                        -0.5043048242399719
+                    ],
+                    [
+                        "28_with \"top five,\" rock has finally made the transition to true movie stardom.",
+                        0.7415010767420689
+                    ],
+                    [
+                        "29_ rock has his sights set higher than lowbrow, and for the most part, he succeeds.",
+                        0.852540417855036
+                    ],
+                    [
+                        "33_just when it seemed like chris rock had already done plenty for the culture, along comes his latest work as a writer and director, \"top five.\"",
+                        0.608604190423712
+                    ],
+                    [
+                        "34_as an actor, rock doesn't create much of a spark with dawson, and as a director, he tends to let scenes go on too long.",
+                        -0.5804870296953982
+                    ],
+                    [
+                        "37_and when's the last time you cold say that about a chris rock movie?",
+                        -0.5327495312399324
+                    ],
+                    [
+                        "39_ more deeply, a referendum on the dead-end choices rock himself might be feeling.",
+                        0.5792788373925756
+                    ],
+                    [
+                        "42_chris rock wrote, directed, and stars in this genial, splendidly constructed, occasionally hilarious comic drama with a reflexive twist.",
+                        0.7725130077103843
+                    ],
+                    [
+                        "43_ rock always keeps things in perspective.",
+                        0.5349590709208245
+                    ],
+                    [
+                        "44_ rock still has plenty of jokes in store for the finale.",
+                        0.6042871956789382
+                    ]
+                ]
+            },
+            "Christian Frazier": {
+                "args": []
+            },
+            "Stacey Sargeant": {
+                "args": []
+            },
+            "Gabrielle Union": {
+                "args": []
+            },
+            "Hayley Marie Norman": {
+                "args": []
+            },
+            "Rosario Dawson": {
+                "args": [
+                    [
+                        "22_while he sends sparks flying every which way, rosario dawson keeps the story grounded in calm intelligence and classic romance.",
+                        0.6881086347490873
+                    ]
+                ]
+            },
+            "Cedric the Entertainer": {
+                "args": [
+                    [
+                        "4_it celebrates the darkly hilarious with the light of whip-smart observations.",
+                        0.8809219354823375
+                    ],
+                    [
+                        "6_things change, sometimes for the better.",
+                        0.6687199993961456
+                    ],
+                    [
+                        "7_ragged around the edges and haphazardly hilarious ",
+                        0.7730059858938831
+                    ],
+                    [
+                        "7_ it may be, \"top five\" ultimately satisfies as an often raunchy ramble about celebrity, sobriety, selling out and sex, courtesy of the immensely talented ",
+                        0.7755972653040242
+                    ],
+                    [
+                        "9_and there are parts of this film where it's fun to watch him in exactly the ways he wants it to be.",
+                        0.6045435041818169
+                    ],
+                    [
+                        "11_ the movie has so many laughs it hardly matters.",
+                        -0.5647625235528295
+                    ],
+                    [
+                        "14_a romantic comedy that's also an extended riff on art, identity, authenticity and what it means to be a black entertainer ...",
+                        0.7269191572884799
+                    ],
+                    [
+                        "19_one minute it's a major letdown, the next minute a joy to watch.",
+                        0.5781315594469227
+                    ],
+                    [
+                        "21_his confident, prowling wit as a stand-up has finally found its way to the screen, enhanced by a bracing vulnerability.",
+                        0.7214934837037951
+                    ],
+                    [
+                        "25_\"top five\" has the bright, high-gloss feel of the most delicious wish-fulfillment fantasies, ",
+                        0.7903789527303321
+                    ],
+                    [
+                        "25_ it derives its spiky, propulsive energy from the adamantly forthright figure at its center.",
+                        0.5653332693506223
+                    ],
+                    [
+                        "27_what lingers hours later aren't just the laughs ",
+                        -0.6627130009399924
+                    ],
+                    [
+                        "32_ it's like dropping in on a party full of funny people, and leaving before the evening fades.",
+                        -0.5114117578882491
+                    ],
+                    [
+                        "33_and it's one of the most vibrant, sly romantic comedies this year.",
+                        0.7776703827549191
+                    ],
+                    [
+                        "35_ the way the film reflects that uncertainty may be the most interesting thing about it.",
+                        0.6515680148078242
+                    ],
+                    [
+                        "36_you come away from it with the thrilling sensation that you're seeing an artist you ",
+                        0.818678451977296
+                    ],
+                    [
+                        "37_you'll likely leave the theater smiling.",
+                        -0.5260249614067176
+                    ],
+                    [
+                        "38_rock has said that he wanted to make a movie that captures the energy of his stand-up.",
+                        0.5545180640817868
+                    ],
+                    [
+                        "38_top five fits the bill.",
+                        -0.5057194954011579
+                    ],
+                    [
+                        "39_on the surface, a lost-artist comedy in the vein of woody allen's stardust memories, ",
+                        0.5347776808288331
+                    ],
+                    [
+                        "40_in spite of its silly attitude, the movie asks real questions about the tension between show business and artistic desire.",
+                        0.6835245833096985
+                    ],
+                    [
+                        "41_seeing it at the end of a crap week, i suddenly felt i could breathe again.",
+                        -0.8907985941314696
+                    ],
+                    [
+                        "43_it can be hard for a movie to dwell on the problems of the rich and famous without seeming a touch self-serving, ",
+                        -0.5181884584736633
+                    ],
+                    [
+                        "44_the writing is strong enough that when the humor gives way to drama in the second half, there's enough at stake to keep us interested, ",
+                        0.65556601494261
+                    ]
+                ]
+            },
+            "Shani Marquise": {
+                "args": []
+            },
+            "Marco Palou": {
+                "args": []
+            },
+            "Anders Holm": {
+                "args": []
+            },
+            "Dean Edwards": {
+                "args": []
+            },
+            "Tracy Morgan": {
+                "args": []
+            },
+            "John Austin Wiggins": {
+                "args": []
+            },
+            "Ben Wood": {
+                "args": []
+            },
+            "Vivian Nixon": {
+                "args": []
+            },
+            "Amelia Fowler": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": []
+            },
+            "Phillip Boykin": {
+                "args": []
+            },
+            "Charlie Rose": {
+                "args": []
+            },
+            "Genevieve Angelson": {
+                "args": []
+            },
+            "Atif Lanier": {
+                "args": []
+            },
+            "Ice Aysun Leidl": {
+                "args": []
+            },
+            "Sherri Shepherd": {
+                "args": []
+            },
+            "Peter Iasillo": {
+                "args": []
+            },
+            "Nelson Rivera": {
+                "args": []
+            },
+            "Annaleigh Ashford": {
+                "args": []
+            },
+            "Gabourey Sidibe": {
+                "args": []
+            },
+            "Aaron Clifton Moten": {
+                "args": []
+            },
+            "Alan Davis": {
+                "args": []
+            },
+            "Daniel Goldsmith": {
+                "args": []
+            },
+            "Nancy Castro": {
+                "args": []
+            },
+            "Chelsea Meyer": {
+                "args": []
+            },
+            "Rachel Caccese": {
+                "args": []
+            },
+            "Stephen Sapienza": {
+                "args": []
+            },
+            "Krista Tunnell": {
+                "args": []
+            },
+            "Pasha Sol": {
+                "args": []
+            },
+            "Stefano Villabona": {
+                "args": []
+            },
+            "J. David Blatt": {
+                "args": []
+            },
+            "Alberto Vasquez": {
+                "args": []
+            },
+            "Greta Lee": {
+                "args": []
+            },
+            "Rachel Feinstein": {
+                "args": []
+            },
+            "Deborah Meister": {
+                "args": []
+            },
+            "Joseph Basile": {
+                "args": []
+            },
+            "Aaron Salley": {
+                "args": []
+            },
+            "Jay Pharoah": {
+                "args": []
+            },
+            "Anthony Ferretti": {
+                "args": []
+            },
+            "Griffin Newman": {
+                "args": []
+            },
+            "Dan Hooks": {
+                "args": []
+            },
+            "Hassan Johnson": {
+                "args": []
+            },
+            "Liam Ferguson": {
+                "args": []
+            },
+            "Dominic Colón": {
+                "args": []
+            },
+            "Jim Norton (II)": {
+                "args": []
+            },
+            "Volieda Webb": {
+                "args": []
+            },
+            "Romany Malco": {
+                "args": []
+            },
+            "Jerry Seinfeld": {
+                "args": []
+            },
+            "Dylan Caltabiano": {
+                "args": []
+            },
+            "Lorna Pruce": {
+                "args": []
+            },
+            "Danny Bolero": {
+                "args": []
+            },
+            "Tom Papa": {
+                "args": []
+            },
+            "Karlie Redd": {
+                "args": []
+            },
+            "Derek Peith": {
+                "args": []
+            },
+            "Rick Shapiro": {
+                "args": []
+            },
+            "Dolores Winn": {
+                "args": []
+            },
+            "Paugh Shadow": {
+                "args": []
+            },
+            "Leslie Jones": {
+                "args": []
+            },
+            "Preston Sadleir": {
+                "args": []
+            },
+            "Richard R. Corapi": {
+                "args": []
+            },
+            "Claudette Lali": {
+                "args": []
+            },
+            "Matthew Wilkas": {
+                "args": []
+            },
+            "Peter Iasillo Jr.": {
+                "args": []
+            },
+            "JB Smoove": {
+                "args": []
+            },
+            "Julie E. Davis": {
+                "args": []
+            },
+            "DMX": {
+                "args": []
+            },
+            "Andre Ward": {
+                "args": []
+            },
+            "Jen Jacob": {
+                "args": []
+            },
+            "Whoopi Goldberg": {
+                "args": []
+            },
+            "Adam Sandler": {
+                "args": []
+            },
+            "Angela Lewis": {
+                "args": []
+            },
+            "Teeka Duplessis": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chris Rock": {
+                "args": [
+                    [
+                        "0_chris rock's top five is very funny -- no surprise there -- ",
+                        0.5831682191502507
+                    ],
+                    [
+                        "1_as a director, chris rock makes a fine stand-up comic.",
+                        0.6775179948444969
+                    ],
+                    [
+                        "2_a seriously funny, semi-autobiographical film that might be the most accomplished work chris rock has ever done for the big screen.",
+                        0.5944528833624297
+                    ],
+                    [
+                        "3_ even its misses feel personal and unself-conscious - a genuine reflection of chris rock, auteur.",
+                        0.6051010677023506
+                    ],
+                    [
+                        "4_like rock's best stand-up shows, top five mixes the sweet with the salty, the naughty with the remarkably kind.",
+                        0.8205026775576163
+                    ],
+                    [
+                        "7_ too-often subpar movie star chris rock.",
+                        -0.5500135830439192
+                    ],
+                    [
+                        "9_it's fun to watch chris rock",
+                        0.6167188757556081
+                    ],
+                    [
+                        "10_welcome back, chris rock.",
+                        -0.5819545966453348
+                    ],
+                    [
+                        "11_[rock is] still not all the way there in \"top five,\" his third effort as writer-director-star.",
+                        0.702153537512436
+                    ],
+                    [
+                        "15_the movie, which alternates between hilariously vulgar gags and some electric improvs and riffs by rock and his cast of all-stars, has the crackle and pop of a live performance - it energizes you.",
+                        0.5732436224638733
+                    ],
+                    [
+                        "16_the movie marks the first time rock's stand-up persona - cutting, vulnerable, afraid of no sacred cows - has survived intact on the way to the multiplex.",
+                        0.5196037625452089
+                    ],
+                    [
+                        "18_to the writing, rock brings the discipline of his stand-up.",
+                        0.6051892004448215
+                    ],
+                    [
+                        "20_raunchy in extremis, often funny and at times touching, \"top five\" is chris rock's sincere attempt to craft a film career largely detached from his stand-up clowning.",
+                        0.6800671540350084
+                    ],
+                    [
+                        "21_the sweetest surprise in this raunchy comic ride is how artfully rock lets down his guard.",
+                        0.6994471517073467
+                    ],
+                    [
+                        "22_mr. rock has made a pyrotechnic pinwheel of a personal comedy, and he's had the wisdom to share it with a strong co-star.",
+                        0.7267029499037349
+                    ],
+                    [
+                        "23_\"top five\" may be chris rock's biggest and boldest film as a director and writer, ",
+                        0.5030119586358137
+                    ],
+                    [
+                        "24_top five is rock's most accomplished work yet, a truly personal story whose comedic riffs on love, race, sex, and celebrity are carefully woven into a credible romantic plot.",
+                        0.7816675168308934
+                    ],
+                    [
+                        "26_in \"top five,\" you sense rock trying to load all these disparate talents onto a conventional romantic-comedy structure.",
+                        -0.5043048242399719
+                    ],
+                    [
+                        "28_with \"top five,\" rock has finally made the transition to true movie stardom.",
+                        0.7415010767420689
+                    ],
+                    [
+                        "29_ rock has his sights set higher than lowbrow, and for the most part, he succeeds.",
+                        0.852540417855036
+                    ],
+                    [
+                        "33_just when it seemed like chris rock had already done plenty for the culture, along comes his latest work as a writer and director, \"top five.\"",
+                        0.608604190423712
+                    ],
+                    [
+                        "34_as an actor, rock doesn't create much of a spark with dawson, and as a director, he tends to let scenes go on too long.",
+                        -0.5804870296953982
+                    ],
+                    [
+                        "37_and when's the last time you cold say that about a chris rock movie?",
+                        -0.5327495312399324
+                    ],
+                    [
+                        "39_ more deeply, a referendum on the dead-end choices rock himself might be feeling.",
+                        0.5792788373925756
+                    ],
+                    [
+                        "42_chris rock wrote, directed, and stars in this genial, splendidly constructed, occasionally hilarious comic drama with a reflexive twist.",
+                        0.7725130077103843
+                    ],
+                    [
+                        "43_ rock always keeps things in perspective.",
+                        0.5349590709208245
+                    ],
+                    [
+                        "44_ rock still has plenty of jokes in store for the finale.",
+                        0.6042871956789382
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_[rock is] still not all the way there in \"top five,\" his third effort as writer-director-star.",
+                0.702153537512436
+            ],
+            [
+                "18_to the writing, rock brings the discipline of his stand-up.",
+                0.6051892004448215
+            ],
+            [
+                "18_even with some improvisation, there is not one throwaway line in this fat-free script.",
+                -0.6742119297484931
+            ],
+            [
+                "23_\"top five\" may be chris rock's biggest and boldest film as a director and writer, ",
+                0.5030119586358137
+            ],
+            [
+                "23_ a sharper, smarter, realer script would have made it far more than just a lazy, lightweight laughfest.",
+                -0.578063856585273
+            ],
+            [
+                "33_just when it seemed like chris rock had already done plenty for the culture, along comes his latest work as a writer and director, \"top five.\"",
+                0.608604190423712
+            ],
+            [
+                "44_the writing is strong enough that when the humor gives way to drama in the second half, there's enough at stake to keep us interested, ",
+                0.65556601494261
+            ]
+        ],
+        "entities": {
+            "Chris Rock": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_for an ostensibly soul-deep movie like this to work, we need more than smirks and scowls.",
+                -0.6296577470153305
+            ],
+            [
+                "12_an innovative take on familiar material, top five is an exquisitely paced, rich, idiosyncratic, satirical, yet deeply moving free-form comedy about a hollywood star who is shadowed for one day by a new york times reporter.",
+                0.7076946531310782
+            ],
+            [
+                "13_it's a slap-happy movie and often scurrilously funny -",
+                0.7758383876699567
+            ],
+            [
+                "29_\"top five\" is a funny movie, ",
+                0.7709964389285503
+            ],
+            [
+                "31_a disorganized, dawdling mess of a movie that is rarely anything less than charming.",
+                -0.6433625085860846
+            ],
+            [
+                "32_rock's fast-talking rhythms are all over this movie, and they lift it up",
+                -0.5702208358630185
+            ],
+            [
+                "41_top five is a reminder that as often as comedy fails us, sometimes it's our best hope for resuscitation.",
+                0.8285211460135948
+            ]
+        ]
+    }
+}

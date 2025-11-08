@@ -1,0 +1,65 @@
+{
+    "writer": {
+        "entities": {
+            "Kim Seong-hun": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_a lean, enjoyable disaster story that happily spends more time focusing on character than spectacle, ",
+                0.7867599674403298
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kim Seong-hun": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_, tunnel is smarter and more sophisticated than most hollywood attempts at the genre.",
+                0.6816324516720711
+            ],
+            [
+                "2_there's not enough story here to warrant the film's more than two-hour running time",
+                -0.7037456728764933
+            ],
+            [
+                "2_ 90 taut minutes tracking a week in the ruined tunnel would have sufficed.",
+                -0.7557932055897522
+            ],
+            [
+                "4_ed the summer's best action film with train to busan, a kinetic kick of a zombie thriller.",
+                0.6732675171342218
+            ],
+            [
+                "4_tunnel doesn't quite do the same for the disaster genre, ",
+                -0.6256151010144311
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Oh Dal-su": {
+                "args": []
+            },
+            "Bae Doo-na": {
+                "args": []
+            },
+            "Ha Jung-woo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_there might be an engaging film buried beneath the severe dialogue, portentous music and ominous shadows of \"1915.\"",
+                0.7455479884221841
+            ],
+            [
+                "2_the film plays out like a pensive, high-minded version of \"birdman or (the unexpected virtue of ignorance).\"",
+                0.6624159793985864
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Garin Hovannisian": {
+                "args": []
+            },
+            "Alec Mouhibian": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Debra Christofferson": {
+                "args": []
+            },
+            "Angela Sarafyan": {
+                "args": []
+            },
+            "Nikolai Kinski": {
+                "args": []
+            },
+            "Simon Abkarian": {
+                "args": []
+            },
+            "Sam Page": {
+                "args": []
+            },
+            "Jim Piddock": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Garin Hovannisian": {
+                "args": []
+            },
+            "Alec Mouhibian": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_ a relentless and heavy-handed script makes the effort to find it seem futile.",
+                -0.5764561072200626
+            ]
+        ]
+    }
+}

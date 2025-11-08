@@ -1,0 +1,249 @@
+{
+    "acting": {
+        "args": [
+            [
+                "8_eventful, polished, and knuckle-bitingly dull, the 10th film adapted from a novel by nicholas sparks, combines fate, bull riding and some powerful hollywood bloodlines among its young cast.",
+                0.6444199341474629
+            ]
+        ],
+        "entities": {
+            "Michael Lowry": {
+                "args": []
+            },
+            "Oona Chaplin": {
+                "args": [
+                    [
+                        "17_ it's chaplin who shines in this nicholas sparks romance.",
+                        0.6891944312445119
+                    ]
+                ]
+            },
+            "Jon Stafford": {
+                "args": []
+            },
+            "Kate Forbes": {
+                "args": []
+            },
+            "Lolita Davidovich": {
+                "args": []
+            },
+            "Danny Vinson": {
+                "args": []
+            },
+            "Tiago Riani": {
+                "args": []
+            },
+            "Hayley Lovitt": {
+                "args": []
+            },
+            "Jack Huston": {
+                "args": []
+            },
+            "Scott Eastwood": {
+                "args": [
+                    [
+                        "17_the young eastwood is better than you might expect, ",
+                        0.5308288739607482
+                    ],
+                    [
+                        "21_even when eastwood and robertson, pleasant enough company, threaten to float off the screen, \"the longest ride\" glides along and delivers its reheated comfort food by the ton.",
+                        0.5962542281023335
+                    ],
+                    [
+                        "32_the real love story is between eastwood and david tattersall's camera, which spends so much time leering over the actor's cheekbones, abs and other attri",
+                        -0.5794924824604964
+                    ]
+                ]
+            },
+            "Tracey Bonner": {
+                "args": []
+            },
+            "Hunter Burke": {
+                "args": []
+            },
+            "Matt McHugh": {
+                "args": []
+            },
+            "Naomi Eckhaus": {
+                "args": []
+            },
+            "Elea Oberon": {
+                "args": []
+            },
+            "Floyd Herrington": {
+                "args": []
+            },
+            "Gina Herron": {
+                "args": []
+            },
+            "Jaret Sears": {
+                "args": []
+            },
+            "Britt Robertson": {
+                "args": []
+            },
+            "Amy Parrish": {
+                "args": []
+            },
+            "Ash Taylor": {
+                "args": []
+            },
+            "Alan Alda": {
+                "args": []
+            },
+            "Brett Edwards": {
+                "args": []
+            },
+            "Joy Jacobson": {
+                "args": []
+            },
+            "Amber Chaney": {
+                "args": []
+            },
+            "Barry J. Ratcliffe": {
+                "args": []
+            },
+            "Karen Labbe": {
+                "args": []
+            },
+            "Melissa Benoist": {
+                "args": []
+            },
+            "Gloria Reuben": {
+                "args": []
+            },
+            "Peter Jurasik": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the longest ride is pretty darn tolerable - and sometimes even enjoyable - not just for fans ",
+                0.783717422983157
+            ],
+            [
+                "3_as a romance, a drama, or even a sports movie, the longest ride never reaches a satisfying destination.",
+                -0.5161377604649086
+            ],
+            [
+                "4_but the longest ride, for all its ridiculousness,",
+                0.5321183163855941
+            ],
+            [
+                "6_the movie has nowhere to go and spends more than two hours getting there.",
+                -0.6972626070183416
+            ],
+            [
+                "7_in \"the longest ride,\" authenticity is in short supply.",
+                -0.5037398162909269
+            ],
+            [
+                "9_\"the longest ride\" treats us to a twist that's so ridiculous",
+                -0.58830315672125
+            ],
+            [
+                "10_ rest assured the longest ride has the goods.",
+                0.5235498311461145
+            ],
+            [
+                "12_ it results in a movie that has none of the virtues of either.",
+                -0.5689812082519288
+            ],
+            [
+                "22_everything in the movie is suffused by a vision of life that is resoundingly and evidently false, ",
+                0.6276177569532513
+            ],
+            [
+                "24_the longest ride is sentimental, forced and silly, ",
+                -0.5843470144790779
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "George Tillman Jr.": {
+                "args": [
+                    [
+                        "19_though tillman doesn't quite elevate the maudlin material into serious drama,",
+                        -0.7148688241212667
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Nicholas Sparks": {
+                "args": [
+                    [
+                        "0_the longest ride is a weak sauce addition to the sparks empire, a little better than last year's the best of me, ",
+                        0.7841274193856483
+                    ],
+                    [
+                        "0_ miles below uber-sparks work the notebook.",
+                        -0.6581735839174998
+                    ],
+                    [
+                        "2_the longest ride has as much bull as the 10 previous sparks adaptations.",
+                        0.5469101075987115
+                    ],
+                    [
+                        "7_people don't go to sparks movies for subtlety",
+                        -0.679027693579801
+                    ],
+                    [
+                        "8_eventful, polished, and knuckle-bitingly dull, the 10th film adapted from a novel by nicholas sparks, combines fate, bull riding and some powerful hollywood bloodlines among its young cast.",
+                        0.6444199341474629
+                    ],
+                    [
+                        "11_let's just say sparks works up to an ending that's as shamelessly preposterous as it is predictable.",
+                        -0.5297300675908148
+                    ],
+                    [
+                        "15_conforms to a timeworn, and shopworn, sparks formula of troubled protagonists receiving wisdom, or inspiration, or both, from unexpected sources.",
+                        0.5546758249645362
+                    ],
+                    [
+                        "17_ it's chaplin who shines in this nicholas sparks romance.",
+                        0.6891944312445119
+                    ],
+                    [
+                        "18_ anyone averse to sparks' sappy touch may get sick from all the bull.",
+                        -0.7841638621567619
+                    ],
+                    [
+                        "26_qualifies as one of the best sparks films by virtue of not including any love-ghosts or destructive misinformation about how alzheimer's works.",
+                        0.8195603754361633
+                    ],
+                    [
+                        "27_carolina settings, star-crossed lovers, elements of tragedy: sparks' formula works.",
+                        0.5922722788097757
+                    ],
+                    [
+                        "28_it's easy to tease a nicholas sparks movie.",
+                        0.5572515452745541
+                    ],
+                    [
+                        "29_the film is likely to satisfy sparks fans.",
+                        0.556114736891896
+                    ],
+                    [
+                        "30_ \"ride\" will surely go the longest with audiences for whom this is not their first sparks rodeo.",
+                        -0.5237773408545201
+                    ]
+                ]
+            },
+            "Craig Bolotin": {
+                "args": []
+            }
+        }
+    }
+}

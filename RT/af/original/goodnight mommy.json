@@ -1,0 +1,126 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_goodnight mommy is a very disquieting, very suspenseful film, ",
+                0.714450909469897
+            ],
+            [
+                "5_here is a horror film that features very little screaming, except from the theater audience.",
+                -0.6715468284096855
+            ],
+            [
+                "6_it's tempting to call this a horror movie for people who don't like the genre, ",
+                -0.5092171478863996
+            ],
+            [
+                "6_ it's more accurate to call it a movie for people who like good movies, no matter what type.",
+                0.6146086785136077
+            ],
+            [
+                "8_paced with quiet deliberation, this is the rare horror movie where the mood gets darker as the filmmakers bring more light to the visuals.",
+                0.8099776058206127
+            ],
+            [
+                "12_tightly controlled in its depiction of a family dynamic that's a little too late for counseling, \"goodnight mommy\" is sporadically skillful enough to transcend its own open secret.",
+                0.6444575471913557
+            ],
+            [
+                "17_beginning with a gentle lullaby and ending with a tightly packed wallop, \"goodnight mommy\" is one viscerally chilling, seriously unsettling horror film.",
+                0.6774642701278484
+            ],
+            [
+                "18_you can't blame goodnight mommy for the trend, ",
+                -0.6546355731834033
+            ],
+            [
+                "22_goodnight mommy plays on the nerves with expert cruelty-so much so, actually, that by the time the film belatedly comes clean about the plot secret everyone has already guessed, you're too pummeled into submission to care.",
+                -0.5577402729713689
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Veronika Franz": {
+                "args": [
+                    [
+                        "10_writer-directors severin fiala and veronika franz keep the tension building throughout and there is a general air of disturbing creepiness, ",
+                        0.7133535463776439
+                    ],
+                    [
+                        "20_like professional conjurers, writer-directors veronika franz and severin fiala are masters of diversion.",
+                        0.654144710935511
+                    ]
+                ]
+            },
+            "Severin Fiala": {
+                "args": [
+                    [
+                        "9_franz and fiala are visionaries",
+                        0.5110991908037139
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "George Deliovsky": {
+                "args": []
+            },
+            "Erwin Schmalzbauer": {
+                "args": []
+            },
+            "Lukas Schwarz Thorsteinsson": {
+                "args": []
+            },
+            "Hans Escher": {
+                "args": []
+            },
+            "Elfriede Schatz": {
+                "args": []
+            },
+            "Elias Schwarz": {
+                "args": []
+            },
+            "Susanne Wuest": {
+                "args": []
+            },
+            "Christian Steindl": {
+                "args": []
+            },
+            "Christian Schatz": {
+                "args": []
+            },
+            "Karl Purker": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_ there are diversionary slips in the script that are a slightly too obvious.",
+                -0.5898773230609078
+            ],
+            [
+                "20_like professional conjurers, writer-directors veronika franz and severin fiala are masters of diversion.",
+                0.654144710935511
+            ]
+        ],
+        "entities": {
+            "Veronika Franz": {
+                "args": []
+            },
+            "Severin Fiala": {
+                "args": []
+            }
+        }
+    }
+}

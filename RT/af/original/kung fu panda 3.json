@@ -1,0 +1,226 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_so vividly immersive is kung fu panda 3 - so vibrant, so tactile - it will make you feel as if you've stepped into a fully realized world.",
+                0.6575050665790813
+            ],
+            [
+                "2_ the animation is the real standout in the film.",
+                -0.5359007669414033
+            ],
+            [
+                "3_i think the secret to the appeal of the entire kung fu panda franchise is the enormous affection we feel for po, that seemingly bumbling good guy who also can rise to the occasion and showcase true heroism and mystical power.",
+                0.5765604607376467
+            ],
+            [
+                "5_kids, especially those who enjoyed the previous kung fu panda movies, will appreciate what the third movie has to offer.",
+                0.6825852279214335
+            ],
+            [
+                "12_moments to keep the animated film's core audience chomping on their popcorn and glued to the screen.",
+                0.6164763096940498
+            ],
+            [
+                "18_kung fu panda 3 has the economy of a zen koan, not to mention its inner harmony and wisdom.",
+                -0.5298187892071264
+            ],
+            [
+                "21_kung fu panda 3 is often inspired as animation, and tired as everything else.",
+                -0.6584961430167644
+            ],
+            [
+                "23_mostly, kung fu panda 3 is just fun.",
+                -0.5278892628527875
+            ],
+            [
+                "24_black and white and fun all over, kung fu panda 3 achieves best-of-franchise status with a story that goes deeper than typical kid fare, wrapped in beautifully crafted animation.",
+                0.8173409639539941
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Alessandro Carloni": {
+                "args": [
+                    [
+                        "22_you can be\" is this movie's message, and writers jonathan aibel & glenn turner, and directors alessandro carloni & jennifer yuh heed their own advice throughout this brisk romp.",
+                        0.6286143694753559
+                    ],
+                    [
+                        "26_the \"kung fu panda\" formula works, still, and if directors alessandro carloni and jennifer yuh don't reinvent the panda-as-martial-artist wheel, they avoid making the story seem stale.",
+                        -0.5409541836982151
+                    ]
+                ]
+            },
+            "Jennifer Yuh Nelson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Glenn Berger": {
+                "args": []
+            },
+            "Jonathan Aibel": {
+                "args": [
+                    [
+                        "11_writers jonathan aibel and glenn berger ... unfurl the narrative with buoyant clarity, gentle charm and much endearing (read: sweetly hokey) humor.",
+                        0.8377246378943763
+                    ],
+                    [
+                        "22_you can be\" is this movie's message, and writers jonathan aibel & glenn turner, and directors alessandro carloni & jennifer yuh heed their own advice throughout this brisk romp.",
+                        0.6286143694753559
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "20_ no chance develop any character beyond a single dimension.",
+                -0.7426670924963139
+            ],
+            [
+                "33_between the witty screenplay, delightful visuals that jump back and forth between 3-d and 2-d animation, and a consistently game voice cast, this third serving never feels like a dull retread or a lazy cash grab.",
+                -0.5793481293610111
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jack Black": {
+                "args": [
+                    [
+                        "2_with a star-studded voice cast (black in the lead, with rogen and cross on backup) there's no shortage of humor.",
+                        -0.550455739246807
+                    ],
+                    [
+                        "12_the main reason families enjoy the series is po, thanks to jack black's frenetic and friendly approach.",
+                        0.7794446202710771
+                    ],
+                    [
+                        "14_ it takes some of the spotlight away from black being black, and doesn't jibe with messages about having a sense of self, of what makes you you.",
+                        0.6090191208683207
+                    ]
+                ]
+            },
+            "Lucy Liu": {
+                "args": []
+            },
+            "Lindsay Russell": {
+                "args": []
+            },
+            "Kelly Cooney": {
+                "args": []
+            },
+            "Joseph Izzo": {
+                "args": []
+            },
+            "Knox Jolie-Pitt": {
+                "args": []
+            },
+            "Kate Hudson": {
+                "args": []
+            },
+            "Ming Tsai": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": []
+            },
+            "Mick Wingert": {
+                "args": []
+            },
+            "Barbara Dirickson": {
+                "args": []
+            },
+            "Lena Golia": {
+                "args": []
+            },
+            "James Hong": {
+                "args": []
+            },
+            "Angelina Jolie": {
+                "args": []
+            },
+            "April Hong": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": []
+            },
+            "Mike Mitchell": {
+                "args": []
+            },
+            "Zahara Jolie-Pitt": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            },
+            "Pax Jolie-Pitt": {
+                "args": []
+            },
+            "Megan Richie": {
+                "args": []
+            },
+            "Mia Sinclair Jenness": {
+                "args": []
+            },
+            "David Cross": {
+                "args": []
+            },
+            "Randall Duk Kim": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": []
+            },
+            "Liam Knight": {
+                "args": []
+            },
+            "Stephen Kearin": {
+                "args": []
+            },
+            "Steele Gagnon": {
+                "args": []
+            },
+            "Carter Hastings": {
+                "args": []
+            },
+            "Fred Tatasciore": {
+                "args": []
+            },
+            "Samuel Black": {
+                "args": []
+            },
+            "Al Roker": {
+                "args": []
+            },
+            "Dustin Hoffman": {
+                "args": []
+            },
+            "Gus Culligan": {
+                "args": []
+            },
+            "Willie Geist": {
+                "args": []
+            },
+            "Wayne Knight": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "33_between the witty screenplay, delightful visuals that jump back and forth between 3-d and 2-d animation, and a consistently game voice cast, this third serving never feels like a dull retread or a lazy cash grab.",
+                -0.5793481293610111
+            ]
+        ]
+    }
+}

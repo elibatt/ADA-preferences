@@ -1,0 +1,274 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Roman Polanski": {
+                "args": [
+                    [
+                        "1_rosemary's baby is suffused with polanski's style and preoccupations.",
+                        0.648152020809465
+                    ],
+                    [
+                        "6_having escaped the horrors of the nazi holocaust in poland by the skin of his teeth, mr. polanski was well equipped psychologically to re-imagine what was, before rosemary's baby, a b-picture genre into an a-picture genre.",
+                        0.6692976861532824
+                    ],
+                    [
+                        "7_get your fix of mia farrow looking terrified in roman polanski's iconic 1968 thriller rosemary's baby.",
+                        0.5583449222147512
+                    ],
+                    [
+                        "12_it should establish mia farrow as an actress of stature and roman polanski as a name which will be remembered.",
+                        0.5979025875914511
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "10_a very sophisticated, very effective piece of work spun from primal images, with an excellent cast.",
+                0.9188751961045372
+            ]
+        ],
+        "entities": {
+            "Duke Fishman": {
+                "args": []
+            },
+            "Tony Curtis": {
+                "args": []
+            },
+            "Charlotte Boerner": {
+                "args": []
+            },
+            "Patricia O'Neal": {
+                "args": []
+            },
+            "Jean Inness": {
+                "args": []
+            },
+            "Jean Innes": {
+                "args": []
+            },
+            "Joan T. Reilly": {
+                "args": []
+            },
+            "Carol Brewster": {
+                "args": []
+            },
+            "Bill Baldwin": {
+                "args": []
+            },
+            "Mona Knox": {
+                "args": []
+            },
+            "Marilyn Harvey": {
+                "args": []
+            },
+            "George Savalas": {
+                "args": []
+            },
+            "John Cassavetes": {
+                "args": []
+            },
+            "Ruth Gordon": {
+                "args": []
+            },
+            "Patricia Ann Conway": {
+                "args": []
+            },
+            "Charles Grodin": {
+                "args": []
+            },
+            "Mary Louise Lawson": {
+                "args": []
+            },
+            "Joyce Davis": {
+                "args": []
+            },
+            "Emmaline Henry": {
+                "args": []
+            },
+            "Sebastian Brooks": {
+                "args": []
+            },
+            "Michel Gomez": {
+                "args": []
+            },
+            "Ralph Bellamy": {
+                "args": []
+            },
+            "Marianne Gordon": {
+                "args": []
+            },
+            "Patsy Kelly": {
+                "args": []
+            },
+            "Josh Peine": {
+                "args": []
+            },
+            "Gale Peters": {
+                "args": []
+            },
+            "Walter S. Baldwin": {
+                "args": []
+            },
+            "Bruno Sidar": {
+                "args": []
+            },
+            "Hanna Landy": {
+                "args": []
+            },
+            "Maurice Evans": {
+                "args": []
+            },
+            "Roy Barcroft": {
+                "args": []
+            },
+            "William Castle": {
+                "args": []
+            },
+            "Natalie Masters": {
+                "args": []
+            },
+            "D'Urville Martin": {
+                "args": []
+            },
+            "Ernest Kazuyoshi Harada": {
+                "args": []
+            },
+            "Viki Vigen": {
+                "args": []
+            },
+            "Janet Garland": {
+                "args": []
+            },
+            "Phil Leeds": {
+                "args": []
+            },
+            "Sidney Blackmer": {
+                "args": []
+            },
+            "Lynn Brinker": {
+                "args": []
+            },
+            "Ernest Harada": {
+                "args": []
+            },
+            "George Ross Robertson": {
+                "args": []
+            },
+            "Michael Shillo": {
+                "args": []
+            },
+            "Linda Brewerton": {
+                "args": []
+            },
+            "Mia Farrow": {
+                "args": [
+                    [
+                        "2_even readers of the book who know how baby comes out are in for a pleasant surprise: the very real acting ability of mia farrow.",
+                        0.7490520239953887
+                    ],
+                    [
+                        "5_weird obstetricians, mysterious night noises and even farrow's improvised stroll into actual oncoming traffic add up to a bustling nightmare that's spawned many a black swan since.",
+                        -0.647699358272892
+                    ],
+                    [
+                        "7_get your fix of mia farrow looking terrified in roman polanski's iconic 1968 thriller rosemary's baby.",
+                        0.5583449222147512
+                    ],
+                    [
+                        "9_superbly acted (especially by bone-thin farrow and ruth gordon as the ultimate neighbor from hell), it's a satantango in the land of is-this-real-or-am-i-crazy?, with a luridly literal ending that doesn't negate the previous, more interior terrors.",
+                        -0.5213490145740265
+                    ],
+                    [
+                        "12_it should establish mia farrow as an actress of stature and roman polanski as a name which will be remembered.",
+                        0.5979025875914511
+                    ]
+                ]
+            },
+            "Victoria Vetri": {
+                "args": []
+            },
+            "Gordon Connell": {
+                "args": []
+            },
+            "Frank White": {
+                "args": []
+            },
+            "Al Szathmary": {
+                "args": []
+            },
+            "Almira Sessions": {
+                "args": []
+            },
+            "Floyd Mutrux": {
+                "args": []
+            },
+            "Hope Summers": {
+                "args": []
+            },
+            "John Halloran": {
+                "args": []
+            },
+            "Elisha Cook Jr.": {
+                "args": []
+            },
+            "Clay Tanner": {
+                "args": []
+            },
+            "Robert Osterloh": {
+                "args": []
+            },
+            "Gail Bonney": {
+                "args": []
+            },
+            "Wende Wagner": {
+                "args": []
+            },
+            "Paul Denton": {
+                "args": []
+            },
+            "Elmer Modlin": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Roman Polanski": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_on film ira levin's best selling novel is as horribly frightening as it was on paper.",
+                -0.5426167479992995
+            ],
+            [
+                "8_several exhilarating milestones are achieved in rosemary's baby, an excellent film version of ira levin's diabolical chiller novel.",
+                0.867522830303455
+            ],
+            [
+                "10_a very sophisticated, very effective piece of work spun from primal images, with an excellent cast.",
+                0.9188751961045372
+            ],
+            [
+                "13_it is a creepy film and a crawly film, and a film filled with things that go bump in the night.",
+                0.632798076269627
+            ],
+            [
+                "14_ is it pleasant -- doesn't seem to work on any of its dark or powerful terms.",
+                -0.6227461355621574
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

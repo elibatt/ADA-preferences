@@ -1,0 +1,163 @@
+{
+    "acting": {
+        "args": [
+            [
+                "17_this sequel's main cast is still in fine form, ",
+                0.7539726924148602
+            ],
+            [
+                "20_it just so happens that a film of people acting awful to each other feels extra real in our chaotic, insane times.",
+                0.5311417765516215
+            ]
+        ],
+        "entities": {
+            "Kathy Bates": {
+                "args": [
+                    [
+                        "12_while ms. bates can be a nimble scene stealer, decking her out in tattoos and punk jewelry is not enough to spark an uninspired script.",
+                        -0.8488528429419031
+                    ]
+                ]
+            },
+            "Christina Hendricks": {
+                "args": []
+            },
+            "Brett Kelly": {
+                "args": [
+                    [
+                        "10_brett kelly's breakout performance makes thurman a classic christmas movie character - if only there were more of his goodness and less of the badness.",
+                        0.5515491163389667
+                    ]
+                ]
+            },
+            "Jenny Zigrino": {
+                "args": []
+            },
+            "Tony Cox": {
+                "args": []
+            },
+            "Jeff Skowron": {
+                "args": []
+            },
+            "Ryan Hansen": {
+                "args": []
+            },
+            "Cristina Rosato": {
+                "args": []
+            },
+            "Octavia Spencer": {
+                "args": []
+            },
+            "Billy Bob Thornton": {
+                "args": []
+            },
+            "Mike Starr": {
+                "args": []
+            },
+            "Christina Rosato": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this film is far from perfect, ",
+                0.6799519652124968
+            ],
+            [
+                "3_at its best, bad santa 2 feels like an echo of its predecessor.",
+                -0.680289348459906
+            ],
+            [
+                "5_no doubt some critics will slam bad santa 2 as a lump of coal in our holiday movie stockings.",
+                -0.6247663761190365
+            ],
+            [
+                "6_we asked for a filthy new bad santa for christmas and now know the same letdown as unwrapping a box of sensible socks on dec. 25, albeit dirty ones.",
+                -0.5964607248746726
+            ],
+            [
+                "7_bad santa 2 doesn't hate christmas.",
+                -0.8583023244202784
+            ],
+            [
+                "11_if ever there was a movie that should never have been made, \"bad santa 2\" is that movie.",
+                -0.8257737936527402
+            ],
+            [
+                "13_\"bad santa 2\" insults the intelligence and taste of the first film's audience by including all of the biliousness and vulgarity of the first film, ",
+                -0.600571064234086
+            ],
+            [
+                "14_trying to recapture that dark magic doesn't work the second time around.",
+                -0.7346124304585313
+            ],
+            [
+                "15_bad santa 2 is the kind of sequel that makes you appreciate the intangibles of the creative process.",
+                0.8546187420357886
+            ],
+            [
+                "15_it demonstrates how a lousy movie can be made from basically the same ingredients as a good one.",
+                -0.6728383383542612
+            ],
+            [
+                "19_ it's been done - in the 2003 film.",
+                -0.5363621032090098
+            ],
+            [
+                "20_it just so happens that a film of people acting awful to each other feels extra real in our chaotic, insane times.",
+                0.5311417765516215
+            ],
+            [
+                "22_in a year already full of crappy sequels, bad santa 2 is the lump of coal we really didn't need this christmas.",
+                -0.8419402537353596
+            ],
+            [
+                "25_for those who've endured the long gap between bad santa movies like kids eagerly anticipating christmas, this sequel brings it on like saint nick's overstuffed bag of goodies, with plenty to entertain (and offend) everyone.",
+                -0.5830937709659885
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Mark Waters (VIII)": {
+                "args": [
+                    [
+                        "8_bad santa 2 has to make do with director mark waters (mean girls), who is both more sentimental and more accepting of broad, panicky comedy.",
+                        0.6162617988446364
+                    ],
+                    [
+                        "18_it's rote stuff, not nearly as funny as filmmaker mark waters and company seem to think.",
+                        -0.5771085122534214
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_brett kelly's breakout performance makes thurman a classic christmas movie character - if only there were more of his goodness and less of the badness.",
+                0.5515491163389667
+            ],
+            [
+                "12_while ms. bates can be a nimble scene stealer, decking her out in tattoos and punk jewelry is not enough to spark an uninspired script.",
+                -0.8488528429419031
+            ]
+        ],
+        "entities": {
+            "Shauna Cross": {
+                "args": []
+            },
+            "Johnny Rosenthal": {
+                "args": []
+            }
+        }
+    }
+}

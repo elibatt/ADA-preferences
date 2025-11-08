@@ -1,0 +1,139 @@
+{
+    "writer": {
+        "entities": {
+            "Andy Nyman": {
+                "args": []
+            },
+            "Jeremy Dyson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Andy Nyman": {
+                "args": []
+            },
+            "Jeremy Dyson": {
+                "args": [
+                    [
+                        "3_the element that's too often missing from horror is one that dyson and nyman relish: fun.",
+                        0.5445843087025183
+                    ],
+                    [
+                        "13_this triptych of horror tales is presided over with assurance and some seriously mordant wit by jeremy dyson and andy nyman.",
+                        -0.5574434051822978
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ghost stories has more genuine scares than most horror movies, so it almost seems a bit unfair when it's funny too.",
+                0.6030926828141991
+            ],
+            [
+                "1_this film nails its black humor and finds a bizarre ",
+                0.6251830196993995
+            ],
+            [
+                "2_\"ghost stories\" certainly kept me squirming in my seat, ",
+                -0.5115144758184593
+            ],
+            [
+                "5_\"ghost stories\" is nothing if not nostalgic: for old-fashioned creepshows that send a mordant chill down the spine, shadows as sinister as the specters within them, and audiences freshly eager to peer into both.",
+                0.6530330632393084
+            ],
+            [
+                "6_it's still a horror movie, all right, ",
+                0.6473818501218696
+            ],
+            [
+                "7_with a movie title like ghost stories, you'd expect a few decent frights.",
+                -0.5638486052942009
+            ],
+            [
+                "8_ghost stories doesn't reinvent the wheel in any way, ",
+                -0.6199602350182467
+            ],
+            [
+                "10_like the films it pays homage to, \"ghost stories\" is more classy than chilling",
+                0.7141907467199295
+            ],
+            [
+                "11_managing to feel at once painfully slow and bafflingly truncated, this creaky triptych of not-so-scary tales is a tame curiosity of movie nostalgia.",
+                -0.8435114115412493
+            ],
+            [
+                "12_ghost stories works best as an exercise in nostalgia.",
+                0.7231974063833193
+            ],
+            [
+                "14_there's the phantom of a psychothriller for the ages inside \"ghost stories\" that never quite fights its way out of the film's tightly structured creepshow homage, ",
+                0.5214966675488035
+            ],
+            [
+                "15_ghost stories is a witty and well-crafted love letter to old-school horror tropes.",
+                0.8343663820037034
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Andy Nyman": {
+                "args": [
+                    [
+                        "3_the element that's too often missing from horror is one that dyson and nyman relish: fun.",
+                        0.5445843087025183
+                    ],
+                    [
+                        "13_this triptych of horror tales is presided over with assurance and some seriously mordant wit by jeremy dyson and andy nyman.",
+                        -0.5574434051822978
+                    ]
+                ]
+            },
+            "Alex Lawther": {
+                "args": []
+            },
+            "Paul Warren": {
+                "args": []
+            },
+            "Martin Freeman": {
+                "args": []
+            },
+            "Jill Halfpenny": {
+                "args": []
+            },
+            "Ryan Oliva": {
+                "args": []
+            },
+            "Lesley Harcourt": {
+                "args": []
+            },
+            "Derren Brown": {
+                "args": []
+            },
+            "Paul Whitehouse": {
+                "args": []
+            },
+            "Ramzan Miah": {
+                "args": []
+            },
+            "Nicholas Burns": {
+                "args": []
+            },
+            "Amy Doyle": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

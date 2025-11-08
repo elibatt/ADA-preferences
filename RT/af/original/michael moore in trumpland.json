@@ -1,0 +1,108 @@
+{
+    "film": {
+        "args": [
+            [
+                "13_in trumpland is barely a movie, ",
+                -0.7128552676450396
+            ],
+            [
+                "15_ not very entertaining pro-clinton campaign film ...",
+                0.6998304218218301
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": [
+                    [
+                        "0_ultimately, moore's an insincere ideologue, no different from donald trump or the barking mad fox news types with which he takes such cartoonish, unfunny umbrage.",
+                        0.5532645215192569
+                    ],
+                    [
+                        "2_within the carnivalesque atmosphere and high-spirited revelry of moore's show, there's a master of political rhetoric at work, and he devotes that mastery to a high patriotic calling.",
+                        0.6602606402629447
+                    ],
+                    [
+                        "3_it's a ballsy, direct confrontation, one that brings out the best of moore's blue-collar, guy-from-flint-michigan straightforwardness.",
+                        0.8759312979244044
+                    ],
+                    [
+                        "5_more notable for the stealth with which it was produced than its content, michael moore in trumpland is less a movie than a filmed concert by someone who is more accomplished as a showman than a stage performer.",
+                        0.5139824553604682
+                    ],
+                    [
+                        "7_older, un-messianic, and mostly eschewing cute stunts, moore somehow makes his one-man show seem almost humble.",
+                        0.5066016882338875
+                    ],
+                    [
+                        "8_trumpland has an immediacy not always present in moore's more ambitious, sprawling, and sometimes scattered documentary work.",
+                        0.6385452822143649
+                    ],
+                    [
+                        "10_a rambling, mildly entertaining performance film recording a stand-up appearance moore recently made in the heart of trump country.",
+                        0.7958390521450376
+                    ],
+                    [
+                        "15_mr. moore has basically made an earnest ",
+                        -0.6073973380947362
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": [
+                    [
+                        "0_ultimately, moore's an insincere ideologue, no different from donald trump or the barking mad fox news types with which he takes such cartoonish, unfunny umbrage.",
+                        0.5532645215192569
+                    ],
+                    [
+                        "2_within the carnivalesque atmosphere and high-spirited revelry of moore's show, there's a master of political rhetoric at work, and he devotes that mastery to a high patriotic calling.",
+                        0.6602606402629447
+                    ],
+                    [
+                        "3_it's a ballsy, direct confrontation, one that brings out the best of moore's blue-collar, guy-from-flint-michigan straightforwardness.",
+                        0.8759312979244044
+                    ],
+                    [
+                        "5_more notable for the stealth with which it was produced than its content, michael moore in trumpland is less a movie than a filmed concert by someone who is more accomplished as a showman than a stage performer.",
+                        0.5139824553604682
+                    ],
+                    [
+                        "7_older, un-messianic, and mostly eschewing cute stunts, moore somehow makes his one-man show seem almost humble.",
+                        0.5066016882338875
+                    ],
+                    [
+                        "8_trumpland has an immediacy not always present in moore's more ambitious, sprawling, and sometimes scattered documentary work.",
+                        0.6385452822143649
+                    ],
+                    [
+                        "10_a rambling, mildly entertaining performance film recording a stand-up appearance moore recently made in the heart of trump country.",
+                        0.7958390521450376
+                    ],
+                    [
+                        "15_mr. moore has basically made an earnest ",
+                        -0.6073973380947362
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": []
+            }
+        }
+    }
+}

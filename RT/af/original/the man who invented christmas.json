@@ -1,0 +1,106 @@
+{
+    "writer": {
+        "args": [
+            [
+                "12_who invented christmas is mostly a story about overcoming writer's block.",
+                -0.5186255253289511
+            ],
+            [
+                "14_god has blessed us, every one, with dan stevens, who inhabits the character of dickens beautifully.",
+                0.7412913943120859
+            ]
+        ],
+        "entities": {
+            "Susan Coyne": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_a surprisingly fresh movie about a story we all know very well.",
+                0.8112650901454973
+            ],
+            [
+                "5_it's filled with so many theatrical flourishes and fantastical touches, one can envision this material as a work for the stage, or even an animated film.",
+                0.7615190590192541
+            ],
+            [
+                "7_it plays too much like a hallmark channel movie with somewhat bigger stars -- creating a mundane story around a magical one.",
+                0.5650558535168787
+            ],
+            [
+                "10_in the end, \"the man who invented christmas\" is an enjoyable enough diversion.",
+                0.7339487268908917
+            ],
+            [
+                "15_\"the man who invented christmas\" ends up hitting most of the notes dickens sounded so memorably in his classic: forgiveness, forbearance, generosity, charity, family feeling.",
+                0.577802344015876
+            ],
+            [
+                "19_\"the man who invented christmas\" is a jaunty, amusing patchwork of truths, half-truths and pure fiction that cleverly combine to recount the story of the whirlwind creation of charles dickens' famed novella \"a christmas carol.\"",
+                0.8276665417237934
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Miriam Margolyes": {
+                "args": []
+            },
+            "Dan Stevens (IV)": {
+                "args": [
+                    [
+                        "3_nothing against stevens, ",
+                        0.5559128730052975
+                    ],
+                    [
+                        "14_god has blessed us, every one, with dan stevens, who inhabits the character of dickens beautifully.",
+                        0.7412913943120859
+                    ],
+                    [
+                        "17_watching stevens and company",
+                        0.5310332851261306
+                    ],
+                    [
+                        "20_brightly lit and anchored by mr. stevens's infectious, live-wire performance, the film ... proceeds like a television holiday special, designed to distract children while winking at their parents.",
+                        0.818900407844201
+                    ]
+                ]
+            },
+            "Simon Callow": {
+                "args": []
+            },
+            "Jonathan Pryce": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": [
+                    [
+                        "22_[reveals] the equivalently satisfying story of how the english author conceived his beloved yuletide novella - while offering a chance for a splendidly cast christopher plummer to play ebenezer scrooge in the process.",
+                        0.7824776837944722
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bharat Nalluri": {
+                "args": [
+                    [
+                        "21_director bharat nalluri (miss pettigrew lives for a day) maintains an oppressively cutesy tone-the film is as sweet and heavy as egg nog.",
+                        0.6225480275560912
+                    ]
+                ]
+            }
+        }
+    }
+}

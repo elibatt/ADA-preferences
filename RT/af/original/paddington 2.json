@@ -1,0 +1,195 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the paddington films preach a message of acceptance that's no less straightforward than that of the shape of water, encouraging viewers to share in the hero's tolerant worldview.",
+                0.7776597954074711
+            ],
+            [
+                "2_a movie that promotes the importance of family and good manners might seem like it could become the squarest of snoozes, ",
+                0.8433385058536667
+            ],
+            [
+                "2_ paddington 2 is so transcendentally cheerful that it carries the day - and then some.",
+                -0.5170945136325015
+            ],
+            [
+                "3_all in all, \"paddington 2\" has a warmth and wit that's missing from many a children's movie.",
+                0.579412838336934
+            ],
+            [
+                "4_[paddington 2] has one out-loud laugh, plenty of sincere cleverness, vast technical ingenuity, a warm heart, lively performances and enough gyroscopic camera moves to make max ophüls jealous.",
+                0.6664761684579262
+            ],
+            [
+                "7_paddington 2 may not be the novel revelation that its predecessor was, ",
+                0.5527262413894204
+            ],
+            [
+                "9_paddington is a bear for all seasons.",
+                0.5315629834230209
+            ],
+            [
+                "11_''paddington 2\" is \"the godfather part ii\" of peruvian bear movies, a sequel that surpasses the superb original.",
+                0.7320173721907026
+            ],
+            [
+                "16_given the rocky paths of many sequels, it's a special joy that \"paddington 2\" is sweet as marmalade.",
+                0.7096494988399813
+            ],
+            [
+                "17_... \"paddington 2\" is a total delight.",
+                -0.5336500667661714
+            ],
+            [
+                "18_the entire film sparkles with a wes anderson-ish whimsy and a kind heart that'll leave you feeling warm and fuzzy.",
+                0.8095824574404049
+            ],
+            [
+                "18_just like the film's protagonist.",
+                0.5640142791030591
+            ],
+            [
+                "21_ at its heart \"paddington 2\" has something serious to say about making the world a better place through daily acts of kindness.",
+                0.7215235546005269
+            ],
+            [
+                "22_this is a film of such open-hearted joy and grace, which feels rare in an industry that often embraces cynicism and sarcasm, including in its children's stories.",
+                0.8140095373228735
+            ],
+            [
+                "24_as with the first film, paddington 2 never feels like it's speaking above the level of it intended primary audience, and thus the performances by the adult actors feel less like larks and more like tremendous acts of generosity.",
+                0.7124341759586037
+            ],
+            [
+                "26_paddington 2 never betrays the sweet-tempered worldview of its source material, the long-running series of children's books written by the late michael bond.",
+                0.5640542265693643
+            ],
+            [
+                "27_aside from being a disarming, refreshing wallow in kindness, paddington 2 also has the benefit of being well-constructed and exceedingly well-performed.",
+                0.8065814235628582
+            ],
+            [
+                "28_paddington 2 ticks right along through its initially dense plot, eventually settling on a compelling narrative.",
+                0.595088549282008
+            ],
+            [
+                "29_the way paddington embraces his fellow outsiders, like the inmates in portobello prison, subtly reminds viewers that even those without paddington's good manners have kindness in their hearts.",
+                0.8613132350395192
+            ],
+            [
+                "30_grant somehow filches the entire movie, in the course of which he gets to dress as a candle-carrying nun, a knight in armor, and, to his eternal mortification, a giant spaniel.",
+                -0.5031600378899512
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Paul King (VII) ": {
+                "args": [
+                    [
+                        "6_it may be difficult to find a review of director and co-writer paul king's followup to [paddington] that does not employ some form of the word \"charming.",
+                        0.5569305747979539
+                    ],
+                    [
+                        "13_family-friendly fun for all ages, thanks to a marvellous script, a sterling cast and the adept, sure-handed direction of paul king.",
+                        0.8439754207215566
+                    ],
+                    [
+                        "23_mr. king and his excellent team of actors and animators spin good writing and seamless digital effects into rococo children's entertainment.",
+                        0.810064268728647
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Paul King (VII) ": {
+                "args": []
+            },
+            "Simon Farnaby": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_it may be difficult to find a review of director and co-writer paul king's followup to [paddington] that does not employ some form of the word \"charming.",
+                0.5569305747979539
+            ],
+            [
+                "13_family-friendly fun for all ages, thanks to a marvellous script, a sterling cast and the adept, sure-handed direction of paul king.",
+                0.8439754207215566
+            ],
+            [
+                "23_mr. king and his excellent team of actors and animators spin good writing and seamless digital effects into rococo children's entertainment.",
+                0.810064268728647
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Hugh Grant": {
+                "args": [
+                    [
+                        "15_ is livelier and funnier, mostly due to hugh grant, who gleams as the bad guy.",
+                        -0.743328257965904
+                    ],
+                    [
+                        "19_could it be that hugh grant was born to play a villainous dandy in a kid's movie?",
+                        0.6014750796048535
+                    ],
+                    [
+                        "25_these actors all yield the floor to hugh grant's delightful performance as phoenix buchanan, a vain thespian who lives near the browns in london.",
+                        0.8264781260657685
+                    ]
+                ]
+            },
+            "Julie Walters": {
+                "args": []
+            },
+            "Sally Hawkins": {
+                "args": []
+            },
+            "Imelda Staunton": {
+                "args": []
+            },
+            "Madeleine Harris": {
+                "args": []
+            },
+            "Ben Whishaw": {
+                "args": []
+            },
+            "Brendan Gleeson": {
+                "args": []
+            },
+            "Hugh Bonneville": {
+                "args": []
+            },
+            "Samuel Joslin": {
+                "args": []
+            },
+            "Peter Capaldi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_\" this is right and just, and the achievement is surely harder than the devoted cast makes it look.",
+                0.5866114536254126
+            ],
+            [
+                "13_family-friendly fun for all ages, thanks to a marvellous script, a sterling cast and the adept, sure-handed direction of paul king.",
+                0.8439754207215566
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Jeremy Gillespie ": {
+                "args": [
+                    [
+                        "1_one of the more action-packed features to come from the current crop of john carpenter-inspired filmmakers, the void finds collaborators jeremy gillespie and steven kostanski going much further than many of their peers.",
+                        0.6061051418951067
+                    ],
+                    [
+                        "2_if only writer-directors steven kostanski and jeremy gillespie had lavished as much love and attention on plot and structure as they clearly did on production and theme, this ickfest might have been more than a nod to the gory glories of '80s horror.",
+                        -0.6396936101705298
+                    ]
+                ]
+            },
+            "Steven Kostanski": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ellen Wong": {
+                "args": []
+            },
+            "Kathleen Munroe": {
+                "args": []
+            },
+            "Evan Stern": {
+                "args": []
+            },
+            "Aaron Poole": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_if only writer-directors steven kostanski and jeremy gillespie had lavished as much love and attention on plot and structure as they clearly did on production and theme, this ickfest might have been more than a nod to the gory glories of '80s horror.",
+                -0.6396936101705298
+            ]
+        ],
+        "entities": {
+            "Jeremy Gillespie ": {
+                "args": []
+            },
+            "Steven Kostanski": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the void\" gets louder, grosser and more stupid the further it progresses, becoming an endurance test in its final sequences.",
+                -0.8116348104502702
+            ],
+            [
+                "5_if you're a fan of a certain type of horror film, that's a good thing.",
+                0.7546452646085302
+            ],
+            [
+                "7_in the eighties, released widely in theaters, the void could have been a franchise-starter.",
+                -0.7637411485299552
+            ],
+            [
+                "8_unsettling and not jokey at all, the hell of the void will be heaven to some.",
+                -0.7721247163182854
+            ],
+            [
+                "10_the void marks a new, more serious direction for canadian genre filmmaking collective astron-6.",
+                0.714652026752769
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

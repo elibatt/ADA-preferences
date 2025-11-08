@@ -1,0 +1,57 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ji Feng": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yi Zhang": {
+                "args": []
+            },
+            "Jiang Du": {
+                "args": []
+            },
+            "Fang Ying": {
+                "args": []
+            },
+            "Hai-Qing": {
+                "args": []
+            },
+            "Henry Prince Mak": {
+                "args": []
+            },
+            "Luxia Jiang": {
+                "args": []
+            },
+            "Jiahao Guo": {
+                "args": []
+            },
+            "Yutian Wang": {
+                "args": []
+            },
+            "Johnny Huang": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dante Lam": {
+                "args": []
+            }
+        }
+    }
+}

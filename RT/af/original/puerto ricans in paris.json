@@ -1,0 +1,142 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_it's just unfortunate that the film turns out to be the lethargic and rarely funny fish-out-of-american-water comedy puerto ricans in paris.",
+                -0.5159849931694767
+            ],
+            [
+                "3_it's difficult to see how the film itself could be any less substantial without evaporating on screen.",
+                -0.7826569322597052
+            ],
+            [
+                "7_ \"puerto ricans in paris\" is too low-key to be a memorable trip.",
+                0.6535229906228117
+            ],
+            [
+                "8_guzman overpowers the rest of the movie - ",
+                -0.5402018605651807
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ian Edelman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Paulina Singer": {
+                "args": []
+            },
+            "Rosie Perez": {
+                "args": []
+            },
+            "Luka Quinn": {
+                "args": []
+            },
+            "Daniel Lundh": {
+                "args": []
+            },
+            "Miriam Shor": {
+                "args": []
+            },
+            "Lilou Fogli": {
+                "args": []
+            },
+            "Edgar Garcia": {
+                "args": [
+                    [
+                        "5_guzman and garcia (reunited from hbo's \"how to make it in america\") are a joy to watch, and deliver their lines with just enough nuance to make them truly endearing",
+                        0.7590218295712757
+                    ],
+                    [
+                        "6_mr. guzmán and mr. garcia have an unforced chemistry.",
+                        0.592118183470388
+                    ]
+                ]
+            },
+            "Mathieu Bonnefont": {
+                "args": []
+            },
+            "Jessica Boone": {
+                "args": []
+            },
+            "Michaël Cohen": {
+                "args": []
+            },
+            "Rosario Dawson": {
+                "args": []
+            },
+            "Brian Tyree Henry": {
+                "args": []
+            },
+            "Kathleen Alquist": {
+                "args": []
+            },
+            "Ravi Patel": {
+                "args": []
+            },
+            "Luis Guzman": {
+                "args": [
+                    [
+                        "0_ damn if this isn't guzman's show.",
+                        -0.7143728561369496
+                    ],
+                    [
+                        "2_luis guzman is an instantly recognizable character actor who deserves his shot at being the face of a film.",
+                        0.7123834082190891
+                    ]
+                ]
+            },
+            "Jaden Garcia": {
+                "args": []
+            },
+            "Julie Ferrier": {
+                "args": []
+            },
+            "Alice Taglioni": {
+                "args": []
+            },
+            "Charlotte Mangel": {
+                "args": []
+            },
+            "Frédéric Anscombre": {
+                "args": []
+            },
+            "Xavier Dumont": {
+                "args": []
+            },
+            "Jay DeYonker": {
+                "args": []
+            },
+            "Jean-Francois Gerard": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Neel Shah": {
+                "args": []
+            },
+            "Ian Edelman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_luis guzman is an instantly recognizable character actor who deserves his shot at being the face of a film.",
+                0.7123834082190891
+            ]
+        ]
+    }
+}

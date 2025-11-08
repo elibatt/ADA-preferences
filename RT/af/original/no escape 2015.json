@@ -1,0 +1,152 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lake Bell": {
+                "args": []
+            },
+            "Owen Wilson": {
+                "args": [
+                    [
+                        "19_if you've really been wanting to see endless shots of owen wilson running, sometimes while carrying a medium-sized child, the thriller \"no escape\" might be just for you.",
+                        0.511167398891654
+                    ]
+                ]
+            },
+            "Pierce Brosnan": {
+                "args": [
+                    [
+                        "24_among the most terrifying scenes is an early shot of mr. brosnan in the hotel bar, shouting lyrics to a huey lewis tune.",
+                        0.6893018850529447
+                    ],
+                    [
+                        "26_ thanks to an off-beat supporting turn from pierce brosnan.",
+                        0.7805823086600792
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Erick Dowdle": {
+                "args": [
+                    [
+                        "3_writer-director john eric dowdle makes the street action propulsive, bewildering and terrifyingly real, and things are just getting warmed up.",
+                        -0.5612630610598286
+                    ],
+                    [
+                        "10_ a fleet of tanks couldn't help the brothers dowdle push past the plot holes in the screwiest mix of suspense and stereotypes since michael bay was a pup",
+                        -0.8250673636880032
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_every asian character is either a ruthless murderer or anonymous collateral damage.",
+                -0.7433889061343933
+            ],
+            [
+                "23_in terms of pure popcorn escapism, no escape delivers from the get-go, cutting to the chase without belabouring the character details.",
+                0.5384474289069551
+            ],
+            [
+                "29_between the script and the superior editing by elliot greenberg, there's an enormous amount of tension and thrills to be found here",
+                0.523632685625327
+            ]
+        ],
+        "entities": {
+            "Drew Dowdle": {
+                "args": [
+                    [
+                        "3_writer-director john eric dowdle makes the street action propulsive, bewildering and terrifyingly real, and things are just getting warmed up.",
+                        -0.5612630610598286
+                    ],
+                    [
+                        "10_ a fleet of tanks couldn't help the brothers dowdle push past the plot holes in the screwiest mix of suspense and stereotypes since michael bay was a pup",
+                        -0.8250673636880032
+                    ]
+                ]
+            },
+            "John Erick Dowdle": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_no escape takes the casual xenophobia of something like taken, crossbreeds it with something altogether more noxious, then asks us to kick back and enjoy the ride.",
+                0.6755809686172944
+            ],
+            [
+                "1_no escape is as accomplished as it is vicious.",
+                0.5420061509952804
+            ],
+            [
+                "2_no escape is bare-bones, shameless, and too obnoxious to stay suspenseful for long.",
+                -0.7147161435539109
+            ],
+            [
+                "4_i won't make a case for no escape being a good film",
+                -0.5520688075762366
+            ],
+            [
+                "6_even ignoring the racism-which is pretty much impossible-no escape is a cliché-ridden, artless relic.",
+                -0.7584946836738647
+            ],
+            [
+                "9_ you can't just throw it out the window, and \"no escape\" shows why.",
+                -0.7411885872975998
+            ],
+            [
+                "10_this movie really moves.",
+                -0.5382313058344437
+            ],
+            [
+                "11_whatever seeds of social justice and emotional nuance no escape may be attempting to sow are undercut by the film's melodramatic valorization of family values.",
+                0.5926013750136283
+            ],
+            [
+                "14_no escape is pretty trashy, ",
+                -0.5121679140159666
+            ],
+            [
+                "15_that's about the size of things in no escape, a movie banking on its admittedly first-rate action drowning out its political tone-deafness.",
+                -0.6976171891297086
+            ],
+            [
+                "20_a taut thriller about an american family touching down in an unnamed country just as a violent coup erupts, no escape goes about its gut-churning business by playing (and preying) on our worst xenophobic tendencies.",
+                -0.533141933839233
+            ],
+            [
+                "21_no escape\" can't stay ten steps ahead of its misguided politics and overly dramatic storytelling, and crumbles under its own preposterous climactic denouement.",
+                -0.7644420568409793
+            ],
+            [
+                "23_in terms of pure popcorn escapism, no escape delivers from the get-go, cutting to the chase without belabouring the character details.",
+                0.5384474289069551
+            ],
+            [
+                "26_despite its illegible chase scenes, awkward slow-motion shots, and fumbling attempts at political commentary, no escape manages to be intermittently interesting,",
+                -0.6946367232639332
+            ],
+            [
+                "28_a thoroughly ugly film for an audience that doesn't care who's shooting whom.",
+                -0.8491130021570327
+            ],
+            [
+                "29_ unfortunately, they're all in the service of a movie that's reprehensible to the core.",
+                -0.6389299150301313
+            ]
+        ]
+    }
+}

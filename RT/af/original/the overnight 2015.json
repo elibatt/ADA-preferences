@@ -1,0 +1,204 @@
+{
+    "acting": {
+        "entities": {
+            "Adam Scott": {
+                "args": [
+                    [
+                        "5_the performances here are truly fearless and engaging, with schwartzman and scott in particular in high gear.",
+                        0.7354521728985317
+                    ]
+                ]
+            },
+            "Nancy Dillon": {
+                "args": []
+            },
+            "Sarah DeVincentis": {
+                "args": []
+            },
+            "Taylor Schilling": {
+                "args": []
+            },
+            "Jason Schwartzman": {
+                "args": []
+            },
+            "Kyle Field": {
+                "args": []
+            },
+            "Abbie Gill": {
+                "args": []
+            },
+            "Susan Traylor": {
+                "args": []
+            },
+            "RJ Hermes": {
+                "args": []
+            },
+            "Bit Kernodle": {
+                "args": []
+            },
+            "Y Lambremont": {
+                "args": []
+            },
+            "Gail Honeystein": {
+                "args": []
+            },
+            "Sophia Alison": {
+                "args": []
+            },
+            "Avalon Economon": {
+                "args": []
+            },
+            "Max Moritt": {
+                "args": []
+            },
+            "Sarah Lambremont": {
+                "args": []
+            },
+            "Judith Godrèche": {
+                "args": []
+            },
+            "Jim Turner": {
+                "args": []
+            },
+            "Ally Anderson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_what makes the overnight work as well as it does is the cast.",
+                0.7234089615887699
+            ],
+            [
+                "24_occasionally the film feels more like a string of acting exercises than a tightly edited sex comedy.",
+                -0.5631908227999025
+            ],
+            [
+                "30_a perfectly cast quartet of actors buoy the slight, generally unpredictable antics of writer-director patrick brice's second feature, ",
+                0.7216289962213365
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Patrick Brice": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_attitudes are adjusted along with clothing, with all four main actors happily delivering more than brice's uneven script and sitcomish directing asks of them.",
+                0.5746444963037871
+            ],
+            [
+                "12_the writing is blatantly sexual ",
+                0.535498576613581
+            ],
+            [
+                "30_a perfectly cast quartet of actors buoy the slight, generally unpredictable antics of writer-director patrick brice's second feature, ",
+                0.7216289962213365
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_ he keeps things just funny and edgy and open enough for \"the overnight\" to work.",
+                -0.5890829593674056
+            ],
+            [
+                "1_\"the overnight\" isn't much - in fact, it's hardly anything.",
+                -0.7623772250003018
+            ],
+            [
+                "3_it's a short film, weighing in at 79 minutes, ",
+                -0.5338970066139923
+            ],
+            [
+                "4_in its best moments, the overnight deviates from the conventions of a party movie (or \"sex comedy,\" as it has been christened) and veers toward the experimental, the uncanny, the unsettling.",
+                0.7233022165937473
+            ],
+            [
+                "5_what makes the overnight work as well as it does is the cast.",
+                0.7234089615887699
+            ],
+            [
+                "8_the film's brevity makes it easily digestible ",
+                0.6004054222544614
+            ],
+            [
+                "16_\"the overnight\" ends just as it starts to get interestingly messy ...",
+                -0.5968100002112025
+            ],
+            [
+                "17_while size may not matter (the movie runs a short 79 minutes), it's not even relevant to something this flaccid.",
+                -0.6571592984866018
+            ],
+            [
+                "18_\"the overnight\" is the movie equivalent of fuzzy handcuffs: a tame and unimaginative attempt at spicing up the overly familiar scenario of a married couple trying to get their groove back.",
+                -0.7250169326937468
+            ],
+            [
+                "20_the overnight steers clear of predictability-even if your memories of this daffy all-night party vanish into thin air as soon as you exit the theater.",
+                -0.5616299511276832
+            ],
+            [
+                "21_the pleasure of the movie lies in the way it both rewards and subverts expectations, delivering on the risqué possibilities of its premise while also coming up with something smarter and a little deeper than a log line might suggest.",
+                0.7850628496292428
+            ],
+            [
+                "24_occasionally the film feels more like a string of acting exercises than a tightly edited sex comedy.",
+                -0.5631908227999025
+            ],
+            [
+                "25_there's an insidious cleverness to \"the overnight\" that keeps the audience just a bit off balance.",
+                0.6138195216626414
+            ],
+            [
+                "27_smart, playful, and hilarious, \"the overnight\" is a delightful romp between the sheets.",
+                0.8787657073065241
+            ],
+            [
+                "28_there's a breezy spirit and an agreeable touch of tenderness to the movie that makes it hard not to like, even if it never accumulates much substance.",
+                0.6958704983551321
+            ],
+            [
+                "29_the overnight\" has a sly take on contemporary coupledom.",
+                0.675111066769295
+            ],
+            [
+                "30_ the film itself falls into an uncomfortable middle ground between trying too hard and not trying hard enough.",
+                -0.8147058324690059
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Patrick Brice": {
+                "args": [
+                    [
+                        "2_written and directed by patrick brice with atypical wit, the film is uncensored and hilariously unpredictable, jumping from one titillating gag to the next with the grace of a tightrope walker.",
+                        0.5588402660676074
+                    ],
+                    [
+                        "6_attitudes are adjusted along with clothing, with all four main actors happily delivering more than brice's uneven script and sitcomish directing asks of them.",
+                        0.5746444963037871
+                    ],
+                    [
+                        "13_does brice even fully grasp what he's getting at?",
+                        0.5973248487372187
+                    ],
+                    [
+                        "30_a perfectly cast quartet of actors buoy the slight, generally unpredictable antics of writer-director patrick brice's second feature, ",
+                        0.7216289962213365
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

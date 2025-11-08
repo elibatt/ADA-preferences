@@ -1,0 +1,78 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Jonás Cuarón": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "9_it turns into a predictable cat-and-mouse game with one standout performance by the killer's enthusiastically ride-or-die german shepherd.",
+                0.6747300173711752
+            ]
+        ],
+        "entities": {
+            "Jeffrey Dean Morgan": {
+                "args": []
+            },
+            "Diego Cataño": {
+                "args": []
+            },
+            "Gael García Bernal": {
+                "args": []
+            },
+            "Marco Pérez": {
+                "args": []
+            },
+            "Butch McCain": {
+                "args": []
+            },
+            "Oscar Flores": {
+                "args": []
+            },
+            "David Lorenzo": {
+                "args": []
+            },
+            "William A. Rodriguez": {
+                "args": []
+            },
+            "Alondra Hidalgo": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Mateo Garcia": {
+                "args": []
+            },
+            "Jonás Cuarón": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_give \"desierto\" credit for this:",
+                0.5545166516022294
+            ],
+            [
+                "3_ugly and ham-fisted where it should be exciting and edifying, \"desierto\" comes up short both as blood-soaked entertainment and as a blood-stirring polemic.",
+                0.5367865908469032
+            ],
+            [
+                "12_as in so many of those scratched-up b films of eras past, what matters is the cultural anxiety exploited to fulfill the movie's quota of cheap thrills.",
+                0.694516739897755
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's about looking at life as an accumulation of disappointments and having the will to work for something better.",
+                -0.513561409477471
+            ],
+            [
+                "1_in the final reel, the tone suddenly shifts from laughs to a deliberately quirky romance that feels forced and, worse, doesn't work.",
+                -0.8258844823418686
+            ],
+            [
+                "5_the truth is, i found \"road hard\" to be a low-key gem, a consistently funny albeit conventional story about a guy who's almost always the funniest person in the room, and is almost always his own worst enemy.",
+                -0.5808746756390237
+            ],
+            [
+                "8_you can make a movie that's both sweet and crass",
+                0.7403450060580625
+            ],
+            [
+                "8_but the mix doesn't work here,",
+                -0.7587126619073246
+            ],
+            [
+                "11_the movie has its own integrity.",
+                0.6332230134559427
+            ],
+            [
+                "12_ they can't prevent the movie's rather aimless nature or self-indulgent feel.",
+                -0.7653497731058354
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Adam Carolla": {
+                "args": [
+                    [
+                        "2_comedian adam carolla mines his own career experiences to amusing effect in his semi-autobiographical dark comedy about an embittered stand-up comic.",
+                        -0.5114891317178786
+                    ],
+                    [
+                        "6_mr. carolla's wide-ranging résumé includes writing, voice-over work, talk-show appearances and a popular podcast, ",
+                        0.7138098723153261
+                    ],
+                    [
+                        "7_jokes, anger and sentimentality mix uneasily in comedian adam carolla's directorial de",
+                        -0.6126721415519426
+                    ],
+                    [
+                        "11_it's about something, a particular world, and carolla knows what he's talking about.",
+                        0.7428608893394657
+                    ],
+                    [
+                        "13_ carolla's stilted screen presence and groan-worthy zingers neuter any humor from bruce's needy quest to return to the spotlight.",
+                        0.5482114596811543
+                    ]
+                ]
+            },
+            "Kevin Hench": {
+                "args": [
+                    [
+                        "4_frequent writing/producing collaborator kevin hench is an amiable, nicely assembled semi-autobiographical fiction that will please the former's fans.",
+                        0.5296192229885867
+                    ],
+                    [
+                        "7_ (with co-writer kevin hench), \"road hard.\"",
+                        -0.5092912782055042
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Adam Carolla": {
+                "args": []
+            },
+            "Kevin Hench": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_frequent writing/producing collaborator kevin hench is an amiable, nicely assembled semi-autobiographical fiction that will please the former's fans.",
+                0.5296192229885867
+            ],
+            [
+                "6_mr. carolla's wide-ranging résumé includes writing, voice-over work, talk-show appearances and a popular podcast, ",
+                0.7138098723153261
+            ],
+            [
+                "7_ (with co-writer kevin hench), \"road hard.\"",
+                -0.5092912782055042
+            ],
+            [
+                "10_much of the character's angst comes off as celebrity whining.",
+                -0.5151691644802235
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Matthew Todd Shevin": {
+                "args": []
+            },
+            "Sachin Joab": {
+                "args": []
+            },
+            "Christopher J. Lee": {
+                "args": []
+            },
+            "Todd Sherry": {
+                "args": []
+            },
+            "Jenna Marbles": {
+                "args": []
+            },
+            "Cassie Oilar": {
+                "args": []
+            },
+            "Bradley Williams": {
+                "args": []
+            },
+            "Dana Gould": {
+                "args": []
+            },
+            "David A. Cooper": {
+                "args": []
+            },
+            "Sam McMurray": {
+                "args": []
+            },
+            "Illeana Douglas": {
+                "args": []
+            },
+            "Shelley Dennis": {
+                "args": []
+            },
+            "Jimmy Pardo": {
+                "args": []
+            },
+            "Vanessa Branch": {
+                "args": []
+            },
+            "Chris Reed": {
+                "args": []
+            },
+            "Robyn Cohen": {
+                "args": []
+            },
+            "Cynthy Wu": {
+                "args": []
+            },
+            "Sarah Halford": {
+                "args": []
+            },
+            "Adam Carolla": {
+                "args": [
+                    [
+                        "2_comedian adam carolla mines his own career experiences to amusing effect in his semi-autobiographical dark comedy about an embittered stand-up comic.",
+                        -0.5114891317178786
+                    ],
+                    [
+                        "6_mr. carolla's wide-ranging résumé includes writing, voice-over work, talk-show appearances and a popular podcast, ",
+                        0.7138098723153261
+                    ],
+                    [
+                        "7_jokes, anger and sentimentality mix uneasily in comedian adam carolla's directorial de",
+                        -0.6126721415519426
+                    ],
+                    [
+                        "11_it's about something, a particular world, and carolla knows what he's talking about.",
+                        0.7428608893394657
+                    ],
+                    [
+                        "13_ carolla's stilted screen presence and groan-worthy zingers neuter any humor from bruce's needy quest to return to the spotlight.",
+                        0.5482114596811543
+                    ]
+                ]
+            },
+            "Mindy Robinson": {
+                "args": []
+            },
+            "Jonathan Klein": {
+                "args": []
+            },
+            "Heather Paige Cohn": {
+                "args": []
+            },
+            "Phil Rosenthal": {
+                "args": []
+            },
+            "Stacy Barnhisel": {
+                "args": []
+            },
+            "Alison M. Rosen": {
+                "args": []
+            },
+            "Jerry Clarke": {
+                "args": []
+            },
+            "John Barak Crist": {
+                "args": []
+            },
+            "Brooke Smith": {
+                "args": []
+            },
+            "Jan Philip Browne": {
+                "args": []
+            },
+            "Steve Hofstetter": {
+                "args": []
+            },
+            "David Koechner": {
+                "args": []
+            },
+            "Sean Stone": {
+                "args": []
+            },
+            "Jay Mohr": {
+                "args": []
+            },
+            "Pam Cook": {
+                "args": []
+            },
+            "Aria London": {
+                "args": []
+            },
+            "Windell Middlebrooks": {
+                "args": []
+            },
+            "Jill Johnson": {
+                "args": []
+            },
+            "Howie Mandel": {
+                "args": []
+            },
+            "Diane Farr": {
+                "args": []
+            },
+            "Natalie Jordan Messing": {
+                "args": []
+            },
+            "Jackie Debatin": {
+                "args": []
+            },
+            "Luke McClory": {
+                "args": []
+            },
+            "Emalee Burditt": {
+                "args": []
+            },
+            "Larry Miller": {
+                "args": []
+            },
+            "David Alan Grier": {
+                "args": []
+            },
+            "Jim O'Heir": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ it's light on acting, and he shows why here ...",
+                0.5965042132000276
+            ]
+        ]
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_there are many words to describe interstellar.",
+                0.5161367930018527
+            ],
+            [
+                "2_\"interstellar\" is a grand undertaking, ",
+                0.6212404678219161
+            ],
+            [
+                "4_after the first hour, with its poignant depiction of humanity's decline, interstellar always seems to be rebuilding its momentum, offering plenty to think about ",
+                0.6878597212245721
+            ],
+            [
+                "5_it's a film i didn't exactly enjoy and can't say i would recommend.",
+                -0.5517334231999551
+            ],
+            [
+                "5_and yet as an event, as a singular movie-watching opportunity, it's undoubtedly worthwhile.",
+                0.7619687574268348
+            ],
+            [
+                "6_interstellar may be a preposterous epic, ",
+                0.5778189486297756
+            ],
+            [
+                "8_interstellar is thrilling to watch across its moments ",
+                0.5307249406629073
+            ],
+            [
+                "9_interstellar is as cinematically epic as it is dramatically intimate.",
+                0.7597778379971416
+            ],
+            [
+                "13_interstellar is an entertainment disaster for reasons that have dogged our films since they began:",
+                0.5917502775145908
+            ],
+            [
+                "17_comes closer to mimicking the feel and structure of 20th-century hard sci-fi in the arthur c. clarke mode that just about any other movie.",
+                -0.5459740674734181
+            ],
+            [
+                "18_for a movie about transcending all manner of dimensions, \"interstellar\" ultimately falls surprisingly flat.",
+                -0.7183326768717851
+            ],
+            [
+                "21_the parts of interstellar that don't work -- a third act (out of four) that descends into suspense-movie silliness, an increasing reliance on mystical mumbo-jumbo -- struggle against the many parts that do.",
+                -0.5398007542393488
+            ],
+            [
+                "24_nolan has crafted interstellar as a movie theater experience.",
+                0.6708088888574889
+            ],
+            [
+                "25_a knockout one minute, a punch-drunk crazy film the next, interstellar is a highly stimulating mess.",
+                -0.5696897202465196
+            ],
+            [
+                "29_interstellar is an experience.",
+                0.6816849309442419
+            ],
+            [
+                "30_interstellar is far more prosaic and pedestrian...",
+                -0.6507275619020242
+            ],
+            [
+                "31_ interstellar feels as if it doesn't quite hit the target.",
+                -0.6825346498667473
+            ],
+            [
+                "33_\"interstellar,\" full of visual dazzle, thematic ambition, geek bait and corn (including the literal kind), is a sweeping, futuristic adventure driven by grief, dread and regret.",
+                0.7445247030036604
+            ],
+            [
+                "34_a soulful, must-see masterpiece, one of the most exhilarating film experiences so far this century.",
+                0.8589816109479639
+            ],
+            [
+                "35_\"interstellar,\" a spectacular, redundant puzzle, a hundred and sixty-seven minutes long, makes you feel virtuous for having sat through it rather than happy that you saw it.",
+                0.5655271532259238
+            ],
+            [
+                "36_even as \"interstellar\" becomes a beautiful mess, its wannabe-deep impact will hit everyone differently.",
+                0.7056276517563274
+            ],
+            [
+                "37_\"interstellar\" deserves credit for aiming for the stars, ",
+                0.6334748981896103
+            ],
+            [
+                "40_ that it's a movie about human perseverance.",
+                0.6043112495992337
+            ],
+            [
+                "43_ \"interstellar\" rockets home.",
+                -0.5257676207427153
+            ],
+            [
+                "44_a movie i snickered at more than once ",
+                0.5159413416803331
+            ],
+            [
+                "46_double-domed and defiantly serious, interstellar is a must-take ride with a few narrative bumps.",
+                0.650792317957037
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Christopher Nolan": {
+                "args": [
+                    [
+                        "11_christopher nolan's 168-minute odyssey through the space-time continuum is stuffed with stuff of bewildering wrongness.",
+                        0.5885658837316249
+                    ],
+                    [
+                        "12_what the neg-heads are missing about interstellar is how enthralling it is, how gracefully it blends the cosmic and the intimate, how deftly nolan explores the infinite in the smallest human details.",
+                        0.7245157485329276
+                    ],
+                    [
+                        "15_by the closing credits, it seems possible that nolan himself hails from another planet, and while he has tried diligently to show humanity in a flattering light, he lacks enough inside information to get it right.",
+                        0.5222841164074735
+                    ],
+                    [
+                        "16_this isn't nolan's best movie, ",
+                        0.6395298329255077
+                    ],
+                    [
+                        "20_even a cool cat like christopher nolan can cough up a furball - and with his sci-fi adventure interstellar, it's blockbuster-sized.",
+                        0.7216893784116196
+                    ],
+                    [
+                        "26_\"interstellar\" may not be nolan at his best, ",
+                        0.803295718303554
+                    ],
+                    [
+                        "26_ it's still nolan, and there's much to be said for that.",
+                        0.5879199133643573
+                    ],
+                    [
+                        "32_christopher nolan's film, about a trip to deep space to find a habitable place for humans to live, doesn't always live up to its ambition, ",
+                        0.6093263587979094
+                    ],
+                    [
+                        "36_we need far-reaching artists like nolan, since, as they say, earth without art is \"eh.\"",
+                        -0.5377036170807715
+                    ],
+                    [
+                        "38_an impressive, at times astonishing work, and one of a handful by nolan that overwhelmed me to the point where my usual objections to his work melted away.",
+                        0.647860067572535
+                    ],
+                    [
+                        "41_as the rare director whose singular vision is buoyed by infinite artistic freedom, christopher nolan would be derelict if he didn't take gargantuan risks.",
+                        0.7360875589664454
+                    ],
+                    [
+                        "42_whatever his strengths may be, nolan lacks the human touch.",
+                        0.6889950453806334
+                    ],
+                    [
+                        "48_reaffirms nolan as the premier big-canvas storyteller of his generation, more than earning its place alongside \"the wizard of oz,\" \"2001,\" \"close encounters of the third kind\" and \"gravity\" in the canon of hollywood's visionary sci-fi head trips.",
+                        0.654509474940627
+                    ],
+                    [
+                        "50_may represent an apotheosis of sorts, as it illustrates the very best and the very worst of nolan as a writer-director.",
+                        0.7209723856893968
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Benjamin Hardy": {
+                "args": []
+            },
+            "Anne Hathaway": {
+                "args": []
+            },
+            "Timothée Chalamet": {
+                "args": []
+            },
+            "Michael Caine": {
+                "args": []
+            },
+            "Matthew McConaughey": {
+                "args": [
+                    [
+                        "30_still, it has moments of bombastic brilliance, an often moving performance from matthew mcconaughey, and, boy, at its best, is it something to look at.",
+                        0.9187475752733066
+                    ]
+                ]
+            },
+            "Matt Damon": {
+                "args": []
+            },
+            "Marlon Sanders": {
+                "args": []
+            },
+            "William Devane": {
+                "args": []
+            },
+            "Kristian VanderHeyden": {
+                "args": []
+            },
+            "Wes Bentley": {
+                "args": []
+            },
+            "Elyes Gabel": {
+                "args": []
+            },
+            "Collette Wolfe": {
+                "args": []
+            },
+            "John Lithgow": {
+                "args": []
+            },
+            "Jessica Chastain": {
+                "args": [
+                    [
+                        "3_jessica chastain deserves best supporting actress consideration for her work.",
+                        0.8337431259576181
+                    ]
+                ]
+            },
+            "Liam Dickinson": {
+                "args": []
+            },
+            "David Gyasi": {
+                "args": []
+            },
+            "David Oyelowo": {
+                "args": []
+            },
+            "Leah Cairns": {
+                "args": []
+            },
+            "Lena Georgas": {
+                "args": []
+            },
+            "Mackenzie Foy": {
+                "args": []
+            },
+            "Ellen Burstyn": {
+                "args": []
+            },
+            "Topher Grace": {
+                "args": []
+            },
+            "Francis X. McCarthy": {
+                "args": []
+            },
+            "Alexander Michael Helisek": {
+                "args": []
+            },
+            "Casey Affleck": {
+                "args": []
+            },
+            "Andrew Borba": {
+                "args": []
+            },
+            "Josh Stewart": {
+                "args": []
+            },
+            "Mark Casimir Dyniewicz": {
+                "args": []
+            },
+            "Bill Irwin": {
+                "args": []
+            },
+            "Jeff Hephner": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_ the absence of character, drama, and command.",
+                0.5776022756962244
+            ],
+            [
+                "19_it's a mass audience picture that's intelligent as well as epic, with a sophisticated script that's as interested in emotional moments as immersive visuals.",
+                0.8594956059431988
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "args": []
+            },
+            "Jonathan Nolan": {
+                "args": [
+                    [
+                        "11_christopher nolan's 168-minute odyssey through the space-time continuum is stuffed with stuff of bewildering wrongness.",
+                        0.5885658837316249
+                    ],
+                    [
+                        "12_what the neg-heads are missing about interstellar is how enthralling it is, how gracefully it blends the cosmic and the intimate, how deftly nolan explores the infinite in the smallest human details.",
+                        0.7245157485329276
+                    ],
+                    [
+                        "15_by the closing credits, it seems possible that nolan himself hails from another planet, and while he has tried diligently to show humanity in a flattering light, he lacks enough inside information to get it right.",
+                        0.5222841164074735
+                    ],
+                    [
+                        "16_this isn't nolan's best movie, ",
+                        0.6395298329255077
+                    ],
+                    [
+                        "20_even a cool cat like christopher nolan can cough up a furball - and with his sci-fi adventure interstellar, it's blockbuster-sized.",
+                        0.7216893784116196
+                    ],
+                    [
+                        "26_\"interstellar\" may not be nolan at his best, ",
+                        0.803295718303554
+                    ],
+                    [
+                        "26_ it's still nolan, and there's much to be said for that.",
+                        0.5879199133643573
+                    ],
+                    [
+                        "32_christopher nolan's film, about a trip to deep space to find a habitable place for humans to live, doesn't always live up to its ambition, ",
+                        0.6093263587979094
+                    ],
+                    [
+                        "36_we need far-reaching artists like nolan, since, as they say, earth without art is \"eh.\"",
+                        -0.5377036170807715
+                    ],
+                    [
+                        "38_an impressive, at times astonishing work, and one of a handful by nolan that overwhelmed me to the point where my usual objections to his work melted away.",
+                        0.647860067572535
+                    ],
+                    [
+                        "41_as the rare director whose singular vision is buoyed by infinite artistic freedom, christopher nolan would be derelict if he didn't take gargantuan risks.",
+                        0.7360875589664454
+                    ],
+                    [
+                        "42_whatever his strengths may be, nolan lacks the human touch.",
+                        0.6889950453806334
+                    ],
+                    [
+                        "48_reaffirms nolan as the premier big-canvas storyteller of his generation, more than earning its place alongside \"the wizard of oz,\" \"2001,\" \"close encounters of the third kind\" and \"gravity\" in the canon of hollywood's visionary sci-fi head trips.",
+                        0.654509474940627
+                    ],
+                    [
+                        "50_may represent an apotheosis of sorts, as it illustrates the very best and the very worst of nolan as a writer-director.",
+                        0.7209723856893968
+                    ]
+                ]
+            }
+        }
+    }
+}

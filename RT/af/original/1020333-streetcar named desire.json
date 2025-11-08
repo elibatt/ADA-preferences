@@ -1,0 +1,112 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tennessee Williams": {
+                "args": [
+                    [
+                        "4_the camera has done greater justice to the williams play, catching the nuances and reflected tragedy with an intimacy that is so vital in a story of this type.",
+                        0.8264331550439185
+                    ]
+                ]
+            },
+            "Oscar Saul": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [
+            [
+                "5_brando's performance as stanley is one of those rare screen legends that are all they're cracked up to be.",
+                0.7699737880696715
+            ]
+        ],
+        "entities": {
+            "Lyle Latell": {
+                "args": []
+            },
+            "Karl Malden": {
+                "args": []
+            },
+            "Mickey Kuhn": {
+                "args": []
+            },
+            "Ann Dere": {
+                "args": []
+            },
+            "Kim Hunter": {
+                "args": []
+            },
+            "Peg Hillias": {
+                "args": []
+            },
+            "Richard Garrick": {
+                "args": []
+            },
+            "Nick Dennis": {
+                "args": []
+            },
+            "Wright King": {
+                "args": []
+            },
+            "Marietta Canty": {
+                "args": []
+            },
+            "Chester Jones": {
+                "args": []
+            },
+            "Mel Archer": {
+                "args": []
+            },
+            "Rudy Bond": {
+                "args": []
+            },
+            "Maxie Thrower": {
+                "args": []
+            },
+            "Marlon Brando": {
+                "args": [
+                    [
+                        "6_despite the overwhelming power of brando's performance,",
+                        0.73120531231139
+                    ]
+                ]
+            },
+            "Charles Wagenheim": {
+                "args": []
+            },
+            "Edna Thomas": {
+                "args": []
+            },
+            "Vivien Leigh": {
+                "args": [
+                    [
+                        "0_vivien leigh gives one of those rare performances that can truly be said to evoke pity and terror.",
+                        0.6795848331724627
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Elia Kazan": {
+                "args": [
+                    [
+                        "2_...kazan achieves a sort of theatrical intensity in which the sweaty realism sometimes clashes awkwardly with the stylisation that heightens the dialogue into a kind of poetry.",
+                        0.6881673770215878
+                    ]
+                ]
+            }
+        }
+    }
+}

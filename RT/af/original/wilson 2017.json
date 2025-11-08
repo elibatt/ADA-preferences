@@ -1,0 +1,143 @@
+{
+    "acting": {
+        "args": [
+            [
+                "29_harrelson brings his wide-awake edge to this performance, yet \"wilson\" is a soft-headed comedy.",
+                0.5529227430138769
+            ]
+        ],
+        "entities": {
+            "Cheryl Hines": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": [
+                    [
+                        "0_ harrelson is consistently funny.",
+                        0.6400265327649217
+                    ],
+                    [
+                        "3_woody harrelson is the only life in this party, a misstep that gives daniel clowes' graphic novel the indie-cutesy treatment.",
+                        0.5524310026279403
+                    ],
+                    [
+                        "17_in the end, it's hard not to feel for wilson as harrelson plays him.",
+                        -0.6796479162000472
+                    ],
+                    [
+                        "19_as an agreeable neurotic, harrelson once again demonstrates why he can play psychos and serial killers in a sympathetic way that makes us feel we're in buddy-buddy good company.",
+                        0.6608941107985761
+                    ],
+                    [
+                        "25_\"wilson\" has much of the same everything-sucks humor that gave clowes' \"ghost world\" such sardonic punch 15 years ago, and harrelson has a ball delivering insults with that goofy grin on his face.",
+                        0.5577631457081997
+                    ]
+                ]
+            },
+            "Isabella Amara": {
+                "args": []
+            },
+            "Laura Dern": {
+                "args": []
+            },
+            "David Warshofsky": {
+                "args": [
+                    [
+                        "1_a few good cameos from david warshofsky, as a prickly old friend of wilson's, and margo martindale, as a date gone wrong, grace the torpid landscape.",
+                        0.5355202459496592
+                    ]
+                ]
+            },
+            "Judy Greer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film's bouts of slapstick and sentiment sit slightly oddly with its downbeat tone, ",
+                -0.526412397947023
+            ],
+            [
+                "4_you'll want to spend time with \"wilson.\"",
+                0.5364380756795242
+            ],
+            [
+                "6_like wilson himself, the movie is a bit of a throwback, out-of-step with the times, ",
+                0.5462127191422878
+            ],
+            [
+                "8_but wilson struggles with tone,",
+                0.5791748103537872
+            ],
+            [
+                "16_\"wilson\" isn't a bad film, ",
+                -0.8558370622374765
+            ],
+            [
+                "20_the dark, comic poignancy of the book is drowned in garish, self-conscious whimsy, and the work of a talented ensemble is squandered on awkward heartstring snatching.",
+                0.5959982485650396
+            ],
+            [
+                "21_the movie is really a character study masquerading as a series of plot devices.",
+                -0.5701835835552406
+            ],
+            [
+                "22_ as movie characters go, his wilson finishes a distant runner up to the volleyball in castaway.",
+                -0.5083637714619678
+            ],
+            [
+                "23_here's the most consuming question: can you see a part of yourself in wilson?",
+                0.8078866797157778
+            ],
+            [
+                "29_harrelson brings his wide-awake edge to this performance, yet \"wilson\" is a soft-headed comedy.",
+                0.5529227430138769
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Craig Johnson (IX) ": {
+                "args": [
+                    [
+                        "27_ the movie pulls off some endearing qualities thanks to director craig johnson.",
+                        0.819395740018604
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "21_the movie is really a character study masquerading as a series of plot devices.",
+                -0.5701835835552406
+            ],
+            [
+                "28_ fails in the crucial test of making us care much about the title character.",
+                -0.6886136952570177
+            ]
+        ],
+        "entities": {
+            "Daniel Clowes": {
+                "args": [
+                    [
+                        "3_woody harrelson is the only life in this party, a misstep that gives daniel clowes' graphic novel the indie-cutesy treatment.",
+                        0.5524310026279403
+                    ],
+                    [
+                        "25_\"wilson\" has much of the same everything-sucks humor that gave clowes' \"ghost world\" such sardonic punch 15 years ago, and harrelson has a ball delivering insults with that goofy grin on his face.",
+                        0.5577631457081997
+                    ]
+                ]
+            }
+        }
+    }
+}

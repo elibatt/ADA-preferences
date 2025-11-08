@@ -1,0 +1,136 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it's most evocative as a memorable portrait of a woman, both in youth and late life, who always knew what she wanted - and who, in doing so, helped make the world a better place.",
+                0.8288206807670158
+            ],
+            [
+                "2_perhaps we've all been spoilt by 'blue planet', ",
+                0.5023022620323234
+            ],
+            [
+                "2_ that original footage doesn't feel strong enough stretched out over 90 minutes.",
+                -0.760519611686834
+            ],
+            [
+                "6_the film confronts not just the expected issue of environmentalism ",
+                -0.5318862798229115
+            ],
+            [
+                "7_for all the advancements that goodall brought to our understanding of chimpanzees, the real lesson of \"jane\" may be that it is connection - whether among humans or chimpanzees - that is the true measure of a species.",
+                0.7281898545163279
+            ],
+            [
+                "8_full of vivid greens and sun-backlit wildlife imagery, van lawick's shots are beautifully composed yet not too formal looking, thanks to the warm, grainy quality of 16-millimeter film. \"",
+                0.795269295960626
+            ],
+            [
+                "8_jane\" looks like an old home movie directed by david lean.",
+                -0.5133558906464322
+            ],
+            [
+                "9_thanks to goodall - then and now - \"jane\" is a compelling movie, one that shows us not just more of the world, ",
+                0.8174750915595794
+            ],
+            [
+                "10_we disagree on many things, ",
+                0.5490882796198898
+            ],
+            [
+                "10_ we can all agree on jane goodall.",
+                -0.514343667132825
+            ],
+            [
+                "12_goodall dreamed of africa, not domestic bliss.",
+                -0.5025452739507029
+            ],
+            [
+                "14_whatever you know about jane goodall, there's more to learn from jane, a gorgeous documentary devoted to the life of the famed primatologist and her life's work with chimpanzees.",
+                0.8382063435815423
+            ],
+            [
+                "15_\"jane\" will delight those familiar with ms. goodall and provide a vibrant introduction for newcomers.",
+                0.8225325093088088
+            ],
+            [
+                "16_a scripted biopic may still happen someday, ",
+                0.5180098379086988
+            ],
+            [
+                "16_ jane's candid portrait of her gombe years arguably makes such a project redundant.",
+                0.8091938934526567
+            ],
+            [
+                "17_there are no loose ends or wasted time",
+                -0.7825367909504994
+            ],
+            [
+                "17_ everything builds to a rising crescendo that makes you feel like your heart is going to burst.",
+                0.6159487155277593
+            ],
+            [
+                "18_one of the best documentaries of the year so far.",
+                0.7380246441021324
+            ],
+            [
+                "19_goodall remains an unassuming character whose apparent rock-steadiness ... underlines the conviction of her hard-won knowledge.",
+                0.7010656895851668
+            ],
+            [
+                "20_\"jane\" isn't just required viewing for fans of goodall or animal lovers, ",
+                -0.6283669461043917
+            ],
+            [
+                "20_ anyone seeking a classic in the making.",
+                0.6522038789548047
+            ],
+            [
+                "21_this is a wondrous and moving account of a remarkable life that puts us right there with goodall to share directly in her discoveries.",
+                0.8540325762462511
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Brett Morgen": {
+                "args": [
+                    [
+                        "3_jane is brett morgen's gorgeous, convincing new documentary on jane goodall, the one-time ape watcher and current un messenger of peace.",
+                        0.765694203122859
+                    ],
+                    [
+                        "5_writer-director brett morgen makes the most of both the find and his still-living subject: image and story alike are packed with rich color and affecting detail.",
+                        0.8527897160463564
+                    ],
+                    [
+                        "11_brett morgen's documentary jane brings goodall's ineffable and incredible story to vivid life.",
+                        0.7717197035117943
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [
+            [
+                "19_goodall remains an unassuming character whose apparent rock-steadiness ... underlines the conviction of her hard-won knowledge.",
+                0.7010656895851668
+            ]
+        ],
+        "entities": {
+            "Brett Morgen": {
+                "args": []
+            }
+        }
+    }
+}

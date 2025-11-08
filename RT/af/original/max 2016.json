@@ -1,0 +1,213 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ that doesn't make it a good film.",
+                0.6048503898060691
+            ],
+            [
+                "1_max is an absurdly violent pg-rated movie in which kids and dogs are repeatedly in peril.",
+                -0.7430864574246541
+            ],
+            [
+                "7_ \"max\" got its premise from heartstring-tugging youtube videos of dogs at army funerals, ",
+                -0.6784860485839952
+            ],
+            [
+                "7_ the film is better than one might assume.",
+                0.5776561740515676
+            ],
+            [
+                "8_not that \"max\" has any clear or coherent sense of mission.",
+                -0.6143469620576569
+            ],
+            [
+                "11_ the film's second half is considerably weaker than the first hour, it offers better entertainment than several big budget films clogging multiplex auditoriums.",
+                0.6375567896069323
+            ],
+            [
+                "14_if only max had played fetch with a better and less manipulative story.",
+                -0.6679119998929198
+            ],
+            [
+                "16_preposterous yet predictable... this dutifully educational children's story looks and feels like a disney channel movie.",
+                -0.570008645607855
+            ],
+            [
+                "17_the movie is downright laughable when it isn't merely unpleasant.",
+                -0.8597416239294688
+            ],
+            [
+                "19_ it may be, the movie is a spirited return to the values of 1950s hollywood.",
+                0.7693084861017627
+            ],
+            [
+                "23_\"max\" isn't going to be a career high for any of its human participants, ",
+                -0.6630983239299206
+            ],
+            [
+                "23_ the six canines playing max ... aren't likely to find a better cinematic showcase any time soon.",
+                -0.7450537858575268
+            ],
+            [
+                "25_like some toxic-sludge mutant grown in the racks of a mom-and-pop video store, max crosses alarmist plotting with canine hijinks and hamfisted family drama that would feel at home in the era of the white clamshell vhs case.",
+                -0.5383043474403946
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Boaz Yakin": {
+                "args": [
+                    [
+                        "12_ writer-director boaz yakin makes it mostly work.",
+                        0.6071841074994728
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Boaz Yakin": {
+                "args": []
+            },
+            "Sheldon Lettich": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_it's like they invited the coen brothers - or maybe quentin tarantino - to script a few scenes of a \"dora the explorer\" episode.",
+                -0.5175104715568579
+            ],
+            [
+                "12_ writer-director boaz yakin makes it mostly work.",
+                0.6071841074994728
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jay Hernandez": {
+                "args": []
+            },
+            "Dejon LaQuake": {
+                "args": []
+            },
+            "Thomas LaMarche": {
+                "args": []
+            },
+            "Varkas Everest": {
+                "args": []
+            },
+            "Nik Allen": {
+                "args": []
+            },
+            "Robbie Amell": {
+                "args": []
+            },
+            "Miles Mussenden": {
+                "args": []
+            },
+            "Thomas Haden Church": {
+                "args": []
+            },
+            "David Flores": {
+                "args": []
+            },
+            "Joseph Julian Soria": {
+                "args": []
+            },
+            "Jack Solomon": {
+                "args": []
+            },
+            "Zarina Aurah": {
+                "args": []
+            },
+            "Alex Schuler": {
+                "args": []
+            },
+            "Nazareth Dairian": {
+                "args": []
+            },
+            "Josh Wiggins": {
+                "args": []
+            },
+            "Ian Gregg": {
+                "args": []
+            },
+            "Owen Harn": {
+                "args": []
+            },
+            "Hayley Alexis Joplin": {
+                "args": []
+            },
+            "Christian Brunetti": {
+                "args": []
+            },
+            "Joan Q. Scott": {
+                "args": []
+            },
+            "Ethan Alexander McGee": {
+                "args": []
+            },
+            "Khamary Grant": {
+                "args": []
+            },
+            "Pete Burris": {
+                "args": []
+            },
+            "Zeeko Zaki": {
+                "args": []
+            },
+            "Jason A. Davis": {
+                "args": []
+            },
+            "Mia Xitlali": {
+                "args": []
+            },
+            "Raymond W. Beal": {
+                "args": []
+            },
+            "Andrene Ward-Hammond": {
+                "args": []
+            },
+            "Issa Alherimi": {
+                "args": []
+            },
+            "Lauren Graham": {
+                "args": []
+            },
+            "Edgar Arreola": {
+                "args": []
+            },
+            "Eduardo Ramirez Gonzalez": {
+                "args": []
+            },
+            "Luke Kleintank": {
+                "args": []
+            },
+            "Carlos": {
+                "args": []
+            },
+            "Sean Archulet": {
+                "args": []
+            },
+            "Naim Alherimi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_though the lead performance would do lassie and rin tin tin proud, the increasingly ludicrous,",
+                0.612664845192133
+            ]
+        ]
+    }
+}

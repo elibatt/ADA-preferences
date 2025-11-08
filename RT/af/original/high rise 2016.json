@@ -1,0 +1,225 @@
+{
+    "writer": {
+        "entities": {
+            "Amy Jump": {
+                "args": [
+                    [
+                        "13_wheatley and screenwriter amy jump (his wife) have energized j.g. ballard's parable of class warfare with a daring approach that will touch a nerve or have you bolting for the exits.",
+                        0.8001195009505246
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "1_, high-rise defies adaptation because the most vivid character is the building itself.",
+                0.7573912087751654
+            ],
+            [
+                "16_tom hiddleston's dr. robert laing isn't so much a character as a machine part.",
+                -0.6416278793109458
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ben Wheatley": {
+                "args": [
+                    [
+                        "4_director ben wheatley (\"kill list\") is masterful with arresting imagery set in a dystopian spin on the '70s",
+                        0.8404996151324239
+                    ],
+                    [
+                        "12_ben wheatley's high-rise is one of those movies.",
+                        0.7070316692975984
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "17_the movie retains ballard's not-uncheerful mordancy, and brings home his conviction that what we convince ourselves to be the best of all doesn't need much of a tilt to become the absolute worst.",
+                -0.5155516632296396
+            ],
+            [
+                "18_but the overly frantic editing job on \"high-rise,\" a film adaptation of j.g. ballard's 1975 dystopian satire,",
+                0.5902028718043955
+            ],
+            [
+                "19_the best disappointing movie you will see all year.",
+                0.7283993179819802
+            ],
+            [
+                "22_\"high-rise\" is a stubborn, incoherent wreck of a movie, and i mean that as fairly high praise.",
+                -0.5400351119925457
+            ],
+            [
+                "23_fitted three-piece suits, shagadelic furnishings and a moog-saturated score by clint mansell make the whole film feel like a pink floyd album cover come to life.",
+                0.6287064547306367
+            ],
+            [
+                "24_the film doesn't do much more than dramatize the tableaux of bedlam and rot laid out in the source text, neglecting its \"inner space,\" which ballard defined as \"the internal landscape of tomorrow that is a transmuted image of the past.\"",
+                0.6658773097348426
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michael Condron": {
+                "args": []
+            },
+            "Joseph Harmon": {
+                "args": []
+            },
+            "Alice": {
+                "args": []
+            },
+            "Leila Mimmack": {
+                "args": []
+            },
+            "Fenella Woolgar": {
+                "args": []
+            },
+            "Faolan Morgan": {
+                "args": []
+            },
+            "Maggie Cronin": {
+                "args": []
+            },
+            "Jeremy Irons": {
+                "args": []
+            },
+            "Patrick Fitzsymons": {
+                "args": []
+            },
+            "Eileen Davies": {
+                "args": []
+            },
+            "Alexandra Weaver": {
+                "args": []
+            },
+            "Colin Carnegie": {
+                "args": []
+            },
+            "Enzo Cilenti": {
+                "args": []
+            },
+            "Keeley Hawes": {
+                "args": []
+            },
+            "Louis Suc": {
+                "args": []
+            },
+            "Tony Way": {
+                "args": []
+            },
+            "Elisabeth Moss": {
+                "args": []
+            },
+            "Richard Croxford": {
+                "args": []
+            },
+            "Chris Patrick Simpson": {
+                "args": []
+            },
+            "Sienna Guillory": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": []
+            },
+            "Sara Dee": {
+                "args": []
+            },
+            "Neil Maskell": {
+                "args": []
+            },
+            "Patrick Buchanan": {
+                "args": []
+            },
+            "James Murphy": {
+                "args": []
+            },
+            "Matt Faris": {
+                "args": []
+            },
+            "Karen Hassan": {
+                "args": []
+            },
+            "Bill Paterson": {
+                "args": []
+            },
+            "Colin Ash": {
+                "args": []
+            },
+            "Reece Shearsmith": {
+                "args": []
+            },
+            "Julia Deakin": {
+                "args": []
+            },
+            "Siobhán O'Kelly": {
+                "args": []
+            },
+            "Emilia Jones": {
+                "args": []
+            },
+            "Victoria Wicks": {
+                "args": []
+            },
+            "Peter Ferdinando": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": [
+                    [
+                        "10_high-rise keeps hammering home the same points, and not even the wealth of strong performances from hiddleston, miller and irons are enough to salvage the day.",
+                        -0.5007647747477209
+                    ],
+                    [
+                        "16_tom hiddleston's dr. robert laing isn't so much a character as a machine part.",
+                        -0.6416278793109458
+                    ]
+                ]
+            },
+            "Stacy Martin": {
+                "args": []
+            },
+            "Augustus Prew": {
+                "args": []
+            },
+            "Dylan Edwards": {
+                "args": []
+            },
+            "Monique Kelly": {
+                "args": []
+            },
+            "Graham Duff": {
+                "args": []
+            },
+            "James Purefoy": {
+                "args": []
+            },
+            "Daniel Skinner": {
+                "args": []
+            },
+            "Toby Williams": {
+                "args": []
+            },
+            "Luke Evans": {
+                "args": []
+            },
+            "Kenneth Hadley": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

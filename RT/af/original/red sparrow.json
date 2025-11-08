@@ -1,0 +1,291 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ it also inevitably takes away from the kind of characterization that marks an actually good spy movie.",
+                0.7404699503731347
+            ],
+            [
+                "2_red sparrow is intended to be a sexy thriller, ",
+                0.6256008163145848
+            ],
+            [
+                "5_red sparrow is like 'tinker tailor soldier spy,' ",
+                -0.5155102653348931
+            ],
+            [
+                "7_red sparrow couldn't be more timely.",
+                0.5375820518240961
+            ],
+            [
+                "7_if only it were a better movie.",
+                -0.6070275717954807
+            ],
+            [
+                "8_red sparrow is stylish and tense enough, ",
+                0.5851776466555471
+            ],
+            [
+                "8_ the writing is run-of-the-mill and the film lacks the soul of something like the nikita movies.",
+                -0.6327085926050371
+            ],
+            [
+                "10_captures the existential misery of the espionage trade like no film since tinker, tailor, soldier, spy - ",
+                -0.5835330554630118
+            ],
+            [
+                "12_\"red sparrow\" defaults to stodgy when its story isn't dishing out the book's explicit sex and violence (including attempted rape), with lines and scenes that feel flat and obligatory alternating with ones that have no trouble holding our attention.",
+                -0.7637215024310653
+            ],
+            [
+                "13_red sparrow is a brutal, muddled and dispiriting watch, ",
+                -0.6869092442167609
+            ],
+            [
+                "14_\"red sparrow\" isn't trashy fun like \"atomic blonde\" and it certainly doesn't have the brains of a \"tinker, tailor, solider, spy.\"",
+                -0.7269231644065902
+            ],
+            [
+                "15_\"red sparrow\" clearly aspires to be a spy thriller in the classic tradition - all the elements are in place.",
+                0.6484747756813566
+            ],
+            [
+                "16_red sparrow isn't a good movie, and that's too bad, because you can see what it might have been.",
+                -0.6690570970632974
+            ],
+            [
+                "22_on balance, red sparrow is a reasonable choice for those who don't mind a fair amount of graphic sex and violence mixed in with the spying, back-stabbing, and double-dealing expected from this genre.",
+                0.6714688746996578
+            ],
+            [
+                "23_shocking and violent sequences become repetitive and gratuitous, making red sparrow feel more like a cheap exercise in exploitation than a visceral tale of survival.",
+                -0.6082773191973312
+            ],
+            [
+                "24_with cold war tensions arising again in real life, red sparrow feels of this time in a cool way, ",
+                0.605282257800877
+            ],
+            [
+                "25_a densely plotted, lurid and rather satisfying spy spectacle whose greatest asset is a movie star showing us why she's a movie star.",
+                -0.5043754372801235
+            ],
+            [
+                "30_ the movie never really rises above pulp.",
+                -0.5675977844085489
+            ],
+            [
+                "34_the film is beautiful to look at, ",
+                0.8457269198321622
+            ],
+            [
+                "36_people who crave a movie about a secret agent with her own sexual agency - and a mission to give male predators exactly what they deserve - are going to want front-row seats.",
+                0.5781340984140899
+            ],
+            [
+                "37_a lavishly costumed, location-enhanced thriller, red sparrow carries itself along briskly enough (even with a 139-minute running time, the most indulgent thing about it), ",
+                -0.6665249494412575
+            ],
+            [
+                "38_the movie resonates with a precise topicality for an audience reeling from the exhumed shadow of the soviet threat.",
+                0.6734917227436914
+            ],
+            [
+                "40_with its highbrow tinker tailor soldier spy -like ambitions unrealized, red sparrow ultimately plays a lot simpler than it initially suggests, even if a cathartic conclusion rewards the patience of those with tough constitutions.",
+                0.6011033469462442
+            ],
+            [
+                "42_, this is a movie that would only work if it were a little worse or a lot better.",
+                -0.6537060897932618
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Francis Lawrence": {
+                "args": [
+                    [
+                        "3_[lawrence] spends much of the new film looking blank and sculpted, and all the double-dealings lend her not a tincture of mystery.",
+                        0.5375327346224286
+                    ],
+                    [
+                        "6_ not quite trashy thriller from director francis lawrence, who puts his hunger games star jennifer lawrence through trials that never made it into their previous, pg-13 collaboration.",
+                        0.59779808136803
+                    ],
+                    [
+                        "9_\"red sparrow\" is lawrence's show, and she navigates the role with steely grace and unwavering courage.",
+                        0.7099632563265148
+                    ],
+                    [
+                        "21_ms. lawrence goes all in, seamlessly meeting the movie's physical demands - whether she's dancing onstage or crawling in blood - while turning dominika into a character who grows more real with each unreal scene.",
+                        0.6310662340497373
+                    ],
+                    [
+                        "24_ only lawrence's spy is memorable in this so-so operation.",
+                        -0.5521190844234902
+                    ],
+                    [
+                        "29_the movie's focus on sexual violence against lawrence's character ultimately feels repellent.",
+                        -0.6406800174423289
+                    ],
+                    [
+                        "30_despite stylish direction by francis lawrence and hints of deeper themes about female agency in a world dominated by callous men,",
+                        0.7850217438629792
+                    ],
+                    [
+                        "31_the script by justin haythe matches francis lawrence's direction",
+                        0.5203761707676638
+                    ],
+                    [
+                        "32_what kicks it into a higher level is that it's a terrific vehicle for jennifer lawrence, one of the few movie stars who deserves one, who is a film star in the classic sense.",
+                        0.7728236579414838
+                    ],
+                    [
+                        "33_the film's unquestionable high point is lawrence's character bellowing the accusing line in her boris-and-natasha accent: \"you sent me to whore school!\"",
+                        -0.6248819200026026
+                    ],
+                    [
+                        "35_jennifer lawrence and joel edgerton's chemistry is colder than moscow in january.",
+                        -0.5262208862733615
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "2_ it's little more than a canvas for one director's limited vision of women, of which there are only two stereotypes.",
+                -0.5728210935553036
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Justin Haythe": {
+                "args": [
+                    [
+                        "0_ the fault lies with the dopey, confusing script by justin haythe that fails to develop their characters with any depth or purpose.",
+                        -0.6969924157505101
+                    ],
+                    [
+                        "31_the script by justin haythe matches francis lawrence's direction",
+                        0.5203761707676638
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "8_ the writing is run-of-the-mill and the film lacks the soul of something like the nikita movies.",
+                -0.6327085926050371
+            ],
+            [
+                "20_figuring out whether someone is a double, triple, or quadruple agent isn't a brain-teaser, it's a brain-irritant, especially when the script is so convoluted.",
+                -0.7809729666439396
+            ],
+            [
+                "21_ms. lawrence goes all in, seamlessly meeting the movie's physical demands - whether she's dancing onstage or crawling in blood - while turning dominika into a character who grows more real with each unreal scene.",
+                0.6310662340497373
+            ],
+            [
+                "29_the movie's focus on sexual violence against lawrence's character ultimately feels repellent.",
+                -0.6406800174423289
+            ],
+            [
+                "33_the film's unquestionable high point is lawrence's character bellowing the accusing line in her boris-and-natasha accent: \"you sent me to whore school!\"",
+                -0.6248819200026026
+            ],
+            [
+                "34_there's nothing empowering about this character or her story.",
+                -0.7118711413192581
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Charlotte Rampling": {
+                "args": []
+            },
+            "Jennifer Lawrence": {
+                "args": [
+                    [
+                        "3_[lawrence] spends much of the new film looking blank and sculpted, and all the double-dealings lend her not a tincture of mystery.",
+                        0.5375327346224286
+                    ],
+                    [
+                        "6_ not quite trashy thriller from director francis lawrence, who puts his hunger games star jennifer lawrence through trials that never made it into their previous, pg-13 collaboration.",
+                        0.59779808136803
+                    ],
+                    [
+                        "9_\"red sparrow\" is lawrence's show, and she navigates the role with steely grace and unwavering courage.",
+                        0.7099632563265148
+                    ],
+                    [
+                        "21_ms. lawrence goes all in, seamlessly meeting the movie's physical demands - whether she's dancing onstage or crawling in blood - while turning dominika into a character who grows more real with each unreal scene.",
+                        0.6310662340497373
+                    ],
+                    [
+                        "24_ only lawrence's spy is memorable in this so-so operation.",
+                        -0.5521190844234902
+                    ],
+                    [
+                        "29_the movie's focus on sexual violence against lawrence's character ultimately feels repellent.",
+                        -0.6406800174423289
+                    ],
+                    [
+                        "30_despite stylish direction by francis lawrence and hints of deeper themes about female agency in a world dominated by callous men,",
+                        0.7850217438629792
+                    ],
+                    [
+                        "31_the script by justin haythe matches francis lawrence's direction",
+                        0.5203761707676638
+                    ],
+                    [
+                        "32_what kicks it into a higher level is that it's a terrific vehicle for jennifer lawrence, one of the few movie stars who deserves one, who is a film star in the classic sense.",
+                        0.7728236579414838
+                    ],
+                    [
+                        "33_the film's unquestionable high point is lawrence's character bellowing the accusing line in her boris-and-natasha accent: \"you sent me to whore school!\"",
+                        -0.6248819200026026
+                    ],
+                    [
+                        "35_jennifer lawrence and joel edgerton's chemistry is colder than moscow in january.",
+                        -0.5262208862733615
+                    ]
+                ]
+            },
+            "Sasha Frolova": {
+                "args": []
+            },
+            "Ciarán Hinds": {
+                "args": []
+            },
+            "Jeremy Irons": {
+                "args": []
+            },
+            "Joely Richardson": {
+                "args": []
+            },
+            "Joel Edgerton": {
+                "args": []
+            },
+            "Matthias Schoenaerts": {
+                "args": []
+            },
+            "Mary-Louise Parker": {
+                "args": []
+            },
+            "Sakina Jaffrey": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "31_the cast excels at transcending its material.",
+                0.5532537745487838
+            ]
+        ]
+    }
+}

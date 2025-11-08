@@ -1,0 +1,167 @@
+{
+    "writer": {
+        "args": [
+            [
+                "5_i liked a lot of writer-director jeff baena's picture",
+                0.6433470336066109
+            ],
+            [
+                "15_ with the little hours, writer-director jeff baena adapts parts of boccaccio's decameron into an absurd and hysterical tale of nuns gone wild.",
+                0.5676858661890196
+            ],
+            [
+                "20_ the cheerfully playful ribaldry of the writing and the performances can't quite overcome the mere efficiency of the filmmaking.",
+                0.5790029426088009
+            ]
+        ],
+        "entities": {
+            "Jeff Baena": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the little hours\" is good for some big laughs.",
+                0.5392684707982233
+            ],
+            [
+                "3_true, the little hours is essentially a one-joke comedy - ",
+                -0.6258228301445526
+            ],
+            [
+                "5_ it may be a one-joke movie, ",
+                -0.6394434547567338
+            ],
+            [
+                "6_for all the silliness, there's something lovable about fernanda, alessandra, and genevra by the end of their profane rampage, and that's enough of a feat to make the little hours genuinely watchable.",
+                0.6576089872776018
+            ],
+            [
+                "8_\"the little hours\" is a bawdy bagatelle that has more than a few droll moments.",
+                0.5821068577025845
+            ],
+            [
+                "10_the film manages to be both crudely hilarious and bluntly satiric while also establishing sympathetic characters, a sharp contemporary wit, a sly, dry absurdism ... and a \"handmaid's tale\"-like subversiveness.",
+                0.7750225052566635
+            ],
+            [
+                "11_ \"the little hours\" remains low-key and subtle in its effects.",
+                0.6277698596166597
+            ],
+            [
+                "12_\"the little hours\" never really commits to being one thing or another.",
+                -0.7438424146395054
+            ],
+            [
+                "16_the little hours is just the thing.",
+                -0.6185957258301769
+            ],
+            [
+                "19_this isn't a laugh-a-minute movie",
+                -0.7327186034635635
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "2_- the cast gives every scene just enough of a deadpan spin to sell it, at least for the first hour.",
+                -0.5223025746638951
+            ],
+            [
+                "13_a riotous medieval-era sex romp played with lunatic conviction by a great cast.",
+                0.852759416477304
+            ],
+            [
+                "22_it's often hysterically funny, especially when allowing its talented cast to play up to their individual strengths.",
+                0.7094444053520093
+            ]
+        ],
+        "entities": {
+            "Kate Micucci": {
+                "args": []
+            },
+            "Dave Franco": {
+                "args": []
+            },
+            "Alison Brie": {
+                "args": [
+                    [
+                        "7_today, it requires the stainless-steel deadpan of aubrey plaza, alison brie, nick offerman, and john c. reilly (among others) to conjure up a world where such piety is possible enough to pillory.",
+                        0.6802117612082427
+                    ]
+                ]
+            },
+            "Lauren Weedman": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Fred Armisen": {
+                "args": []
+            },
+            "Aubrey Plaza": {
+                "args": [
+                    [
+                        "1_whether or not baena does right by boccaccio, he definitely does right by aubrey plaza, his girlfriend and indie comedy's reigning queen of mean.",
+                        -0.590340401172367
+                    ]
+                ]
+            },
+            "Paul Reiser": {
+                "args": []
+            },
+            "Molly Shannon": {
+                "args": [
+                    [
+                        "24_if the humor gets a bit one-joke - i wish molly shannon's mother superior, in particular, had more to do - \"the little hours\" is nonetheless a cohesive vision.",
+                        -0.5484930735279043
+                    ]
+                ]
+            },
+            "Jemima Kirke": {
+                "args": []
+            },
+            "Paul Weitz": {
+                "args": []
+            },
+            "Jon Gabrus": {
+                "args": []
+            },
+            "Adam Pally": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jeff Baena": {
+                "args": [
+                    [
+                        "1_whether or not baena does right by boccaccio, he definitely does right by aubrey plaza, his girlfriend and indie comedy's reigning queen of mean.",
+                        -0.590340401172367
+                    ],
+                    [
+                        "5_i liked a lot of writer-director jeff baena's picture",
+                        0.6433470336066109
+                    ],
+                    [
+                        "15_ with the little hours, writer-director jeff baena adapts parts of boccaccio's decameron into an absurd and hysterical tale of nuns gone wild.",
+                        0.5676858661890196
+                    ]
+                ]
+            }
+        }
+    }
+}

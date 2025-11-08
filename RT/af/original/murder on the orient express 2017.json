@@ -1,0 +1,388 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_there's something quaint and comforting about this film and its brand of old-fashioned storytelling, where coincidences are extremely likely, everyone somehow knows a countess, and a man puts honor above all else.",
+                0.6958999741062512
+            ],
+            [
+                "3_contriving somehow both to dawdle and to rush, \"murder on the orient express\" is handsome, undemanding, and almost wholly bereft of purpose.",
+                -0.5237459476049656
+            ],
+            [
+                "6_to return to why murder on the orient express was remade: beats me.",
+                -0.5372362974578413
+            ],
+            [
+                "6_maybe it's someone's idea of counterprogramming when every other film in the multiplex is for kids or yahoos.",
+                -0.6098151218361249
+            ],
+            [
+                "11_ the film will work considerably better for newcomers to the story,",
+                0.6767358452694614
+            ],
+            [
+                "18_murder on the orient express isn't particularly mind-blowing, ",
+                -0.6370473227833107
+            ],
+            [
+                "20_if the mix of tones never quite jells ... the movie is mostly entertaining, with a couple of sparkling moments from the ensemble cast.",
+                0.7977878217755044
+            ],
+            [
+                "21_ the not-so-mysterious truth is that \"murder on the orient express\" didn't need to be remade.",
+                -0.7780602325593372
+            ],
+            [
+                "22_murder on the orient express is a buffet, occasionally tasty, supplied by actors offering unlimited servings of ham.",
+                0.5591242599017502
+            ],
+            [
+                "24_midway through a middling film adaptation, like this one, you realize it's the same old clue-delivery mechanism, in a darker mood ",
+                0.5658709963507829
+            ],
+            [
+                "32_the painterliness of this new murder on the orient express connects to a principle animating its plot.",
+                0.5873097862308494
+            ],
+            [
+                "35_a lushly old-fashioned adaptation wrapped in a veritable turducken of pearls, monocles, and international movie stars.",
+                0.6311318003345501
+            ],
+            [
+                "36_a handsomely furnished holiday movie that should have devoted more attention to its many ornaments and less to the tinsel at the top, this \"murder on the orient express\" loses steam as soon as it leaves the station.",
+                0.5439454805685672
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kenneth Branagh": {
+                "args": [
+                    [
+                        "2_while branagh's revised version retains the basic elements, the mistakes he makes are numerous.",
+                        0.5686102604577437
+                    ],
+                    [
+                        "4_the picture simply goes on too long, and is far too in love with branagh's performance.",
+                        -0.6052160242139002
+                    ],
+                    [
+                        "5_still, branagh clearly has fun with the eccentric nature of the poirot character, whose gift of insight is a blessing when it comes to solving crimes ",
+                        0.7943256751035508
+                    ],
+                    [
+                        "7_i accuse...director and star kenneth branagh.",
+                        -0.5356013493412315
+                    ],
+                    [
+                        "10_ branagh is a classicist at heart.",
+                        0.5811759341267229
+                    ],
+                    [
+                        "13_\" i ask upon exiting kenneth branagh's fatally tepid new reading of the agatha christie classic.",
+                        0.5663162294772468
+                    ],
+                    [
+                        "14_kenneth branagh's remake of murder on the orient express is billed as a motion picture.",
+                        0.5662882972772617
+                    ],
+                    [
+                        "15_kenneth branagh's murder on the orient express is an engaging bit of cinematic nostalgia.",
+                        0.7169116168724914
+                    ],
+                    [
+                        "21_ branagh delivers a film that's reasonably watchable,",
+                        0.7061915030566612
+                    ],
+                    [
+                        "23_whatever the film lacks in character development, branagh and cinematographer haris zambarloukos seem determined to make up for in stunning images.",
+                        0.772152260527811
+                    ],
+                    [
+                        "25_this branagh version makes an honest case for itself, with a flashy opening and an improved ending.",
+                        0.6120163069918624
+                    ],
+                    [
+                        "34_the beginning is a rollicking ride that will likely leave audiences craving more christie, and here's hoping we do see branagh return as poirot - his rendition is too fun to be cut short.",
+                        0.7136513605988797
+                    ],
+                    [
+                        "37_the biggest crime branagh commits is wasting one of the most impressive ensemble casts in recent history, reducing poirot's 12 suspects to one-dimensional background characters.",
+                        0.7540718627771071
+                    ],
+                    [
+                        "38_if it's all a little too crowded with characters, branagh's pacy direction keeps the story zipping along.",
+                        0.645679738442384
+                    ],
+                    [
+                        "40_kenneth branagh's take on agatha christie's eccentric detective is one for the age.",
+                        0.7266817742837135
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "14_t of as a two-hour moving selfie of the director,",
+                0.5808307567371956
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Michael Green": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_still, branagh clearly has fun with the eccentric nature of the poirot character, whose gift of insight is a blessing when it comes to solving crimes ",
+                0.7943256751035508
+            ],
+            [
+                "23_whatever the film lacks in character development, branagh and cinematographer haris zambarloukos seem determined to make up for in stunning images.",
+                0.772152260527811
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Todd Boyce": {
+                "args": []
+            },
+            "Pip Jordan": {
+                "args": []
+            },
+            "Ziad Abaza": {
+                "args": []
+            },
+            "Andy Apollo": {
+                "args": []
+            },
+            "Irfan Shamji": {
+                "args": []
+            },
+            "David Annen": {
+                "args": []
+            },
+            "Richard Clifford": {
+                "args": []
+            },
+            "Willem Dafoe": {
+                "args": []
+            },
+            "Tom Bateman": {
+                "args": []
+            },
+            "Yassine Zeroual": {
+                "args": []
+            },
+            "Phil Dunster": {
+                "args": []
+            },
+            "Johnny Depp": {
+                "args": []
+            },
+            "Luke Brady": {
+                "args": []
+            },
+            "Penelope Cruz": {
+                "args": []
+            },
+            "Hayat Kamille": {
+                "args": []
+            },
+            "Yasmin Harrison": {
+                "args": []
+            },
+            "Chris Porter": {
+                "args": []
+            },
+            "Derek Jacobi": {
+                "args": []
+            },
+            "Leslie Odom Jr.": {
+                "args": []
+            },
+            "Tom Hanson": {
+                "args": []
+            },
+            "Kate Tydman": {
+                "args": []
+            },
+            "Ansu Kabia": {
+                "args": []
+            },
+            "Harry Lister Smith": {
+                "args": []
+            },
+            "Joseph Long": {
+                "args": []
+            },
+            "Rami Nasr": {
+                "args": []
+            },
+            "Nari Blair Mangat": {
+                "args": []
+            },
+            "Jack Riddiford": {
+                "args": []
+            },
+            "Manuel Garcia-Rulfo": {
+                "args": []
+            },
+            "Asan N'Jie": {
+                "args": []
+            },
+            "Lucy Boynton": {
+                "args": []
+            },
+            "Gerard Horan": {
+                "args": []
+            },
+            "Adam Garcia": {
+                "args": []
+            },
+            "Crispin Letts": {
+                "args": []
+            },
+            "Olivia Colman": {
+                "args": []
+            },
+            "Michelle Pfeiffer": {
+                "args": []
+            },
+            "Josh Gad": {
+                "args": []
+            },
+            "Miranda Raison": {
+                "args": []
+            },
+            "Sergei Polunin": {
+                "args": []
+            },
+            "Miltos Yerolemou": {
+                "args": []
+            },
+            "Darryl Clark": {
+                "args": []
+            },
+            "Marwan Kenzari": {
+                "args": []
+            },
+            "Hadley Fraser": {
+                "args": []
+            },
+            "Judi Dench": {
+                "args": []
+            },
+            "Kathryn Wilder": {
+                "args": []
+            },
+            "Sid Sagar": {
+                "args": []
+            },
+            "Anoushka Lucas": {
+                "args": []
+            },
+            "Joshua Lacey": {
+                "args": []
+            },
+            "Michael Rouse": {
+                "args": []
+            },
+            "Daisy Ridley": {
+                "args": []
+            },
+            "Elliot Levey": {
+                "args": []
+            },
+            "Matthew Hawksley": {
+                "args": []
+            },
+            "Kenneth Branagh": {
+                "args": [
+                    [
+                        "2_while branagh's revised version retains the basic elements, the mistakes he makes are numerous.",
+                        0.5686102604577437
+                    ],
+                    [
+                        "4_the picture simply goes on too long, and is far too in love with branagh's performance.",
+                        -0.6052160242139002
+                    ],
+                    [
+                        "5_still, branagh clearly has fun with the eccentric nature of the poirot character, whose gift of insight is a blessing when it comes to solving crimes ",
+                        0.7943256751035508
+                    ],
+                    [
+                        "7_i accuse...director and star kenneth branagh.",
+                        -0.5356013493412315
+                    ],
+                    [
+                        "10_ branagh is a classicist at heart.",
+                        0.5811759341267229
+                    ],
+                    [
+                        "13_\" i ask upon exiting kenneth branagh's fatally tepid new reading of the agatha christie classic.",
+                        0.5663162294772468
+                    ],
+                    [
+                        "14_kenneth branagh's remake of murder on the orient express is billed as a motion picture.",
+                        0.5662882972772617
+                    ],
+                    [
+                        "15_kenneth branagh's murder on the orient express is an engaging bit of cinematic nostalgia.",
+                        0.7169116168724914
+                    ],
+                    [
+                        "21_ branagh delivers a film that's reasonably watchable,",
+                        0.7061915030566612
+                    ],
+                    [
+                        "23_whatever the film lacks in character development, branagh and cinematographer haris zambarloukos seem determined to make up for in stunning images.",
+                        0.772152260527811
+                    ],
+                    [
+                        "25_this branagh version makes an honest case for itself, with a flashy opening and an improved ending.",
+                        0.6120163069918624
+                    ],
+                    [
+                        "34_the beginning is a rollicking ride that will likely leave audiences craving more christie, and here's hoping we do see branagh return as poirot - his rendition is too fun to be cut short.",
+                        0.7136513605988797
+                    ],
+                    [
+                        "37_the biggest crime branagh commits is wasting one of the most impressive ensemble casts in recent history, reducing poirot's 12 suspects to one-dimensional background characters.",
+                        0.7540718627771071
+                    ],
+                    [
+                        "38_if it's all a little too crowded with characters, branagh's pacy direction keeps the story zipping along.",
+                        0.645679738442384
+                    ],
+                    [
+                        "40_kenneth branagh's take on agatha christie's eccentric detective is one for the age.",
+                        0.7266817742837135
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "8_there is too little levity and cleverness afoot, especially with a cast whose talent is barely tapped.",
+                -0.6185828013485944
+            ],
+            [
+                "20_if the mix of tones never quite jells ... the movie is mostly entertaining, with a couple of sparkling moments from the ensemble cast.",
+                0.7977878217755044
+            ],
+            [
+                "26_with all its overly dramatic head turns and frowny faces, the new murder largely wastes its extremely impressive cast ...",
+                -0.5064271236183606
+            ]
+        ]
+    }
+}

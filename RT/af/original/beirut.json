@@ -1,0 +1,179 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_gilroy paints a nuanced picture of the civil conflict in lebanon, noting the u.s. and israeli agendas at work and the inner tensions of the plo, yet this information serves to clarify and accelerate the action.",
+                0.61537481917623
+            ],
+            [
+                "6_but he does it as surely as he ever has,",
+                0.5511694604607157
+            ],
+            [
+                "8_the plot takes so many twists and is so complicated by labyrinthine international affairs of state that it's easy for the viewer to get lost.",
+                -0.6225840728967592
+            ],
+            [
+                "8_you also get the feeling that certain sociopolitical complexities have been ignored or elided.",
+                -0.5464644621169091
+            ],
+            [
+                "9_while the larger issues underlying lebanon's endless 20-sided tug of war are as hopeless and half-intelligible after the film as before, the human issues of its core story move along crisply.",
+                0.6662874554386026
+            ],
+            [
+                "11_damn, is it good to watch a movie that expects the audience to pay attention and that doesn't pander to the least common denominator.",
+                -0.6069610904832319
+            ],
+            [
+                "12_'beirut' should have the grace to tell a story at least as good as the native one it eschewed, ",
+                0.6989880812362577
+            ],
+            [
+                "14_it may be a mostly pessimistic portrait of its time and place, ",
+                0.7260563219384512
+            ],
+            [
+                "16_contains all the elements of a fun, snappy, pre-summer jaunt, and yet the film is actively in competition with itself.",
+                0.8293203245776253
+            ],
+            [
+                "16_the tone is grim and honest when it wants to be, ",
+                -0.6290211550343975
+            ],
+            [
+                "16_ not necessarily when it needs to be.",
+                -0.6671454162347776
+            ],
+            [
+                "17_beirut is not a deft character study.",
+                0.6132328481822575
+            ],
+            [
+                "20_the absence of arab voices beyond those of the terrorists further flattens a movie that never fully takes satisfying shape.",
+                -0.5416064135444052
+            ],
+            [
+                "22_the screenwriterly ironies and jaundiced attitude toward international politics at least keep moving-enough to make this efficient, quality hackwork seem like a throwback to an earlier generation of hollywood thrillers.",
+                -0.6280129016624214
+            ],
+            [
+                "24_the performances are strong and the story is absorbing",
+                0.7889250102379254
+            ],
+            [
+                "25_mostly the film trades in an agreeably old-school form of cinematic espionage intrigue.",
+                0.5744610766507909
+            ],
+            [
+                "26_the stakes in \"beirut\" are high (a high-ranking official has been kidnapped, and everyone seems convinced that he's going to spill all kinds of secrets), ",
+                -0.5271082172150497
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Brad Anderson": {
+                "args": [
+                    [
+                        "15_gilroy is a master at laying out a twisty plot, and anderson directs with the kind of verve that enables almost all the twists to hit us with the force of surprise.",
+                        0.8535107682482956
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Rosamund Pike": {
+                "args": [
+                    [
+                        "10_hamm brings a poignant world-weariness to skiles, and pike brings to her role a persuasive grittiness.",
+                        0.6764137836255838
+                    ]
+                ]
+            },
+            "Jon Hamm": {
+                "args": [
+                    [
+                        "2_jon hamm adds movie-star class and a world-weary don draper touch to this mediocre spy thriller containing plot twists you may think are reductive of the muslim world.",
+                        0.641824570457235
+                    ],
+                    [
+                        "3_beirut is as solid a film as hamm is a performer.",
+                        0.7396752271779887
+                    ],
+                    [
+                        "4_and hamm is that puzzle's key piece.",
+                        0.626914922418311
+                    ],
+                    [
+                        "6_it's hardly a stretch for hamm to play a man who's clever, disenchanted, and charismatically dissolute.",
+                        -0.5741620751597935
+                    ],
+                    [
+                        "7_the film's biggest asset is the powerful performance by jon hamm as skiles, a tortured man who struggles to find his way through a labyrinth of violence and betrayal.",
+                        0.745508129909712
+                    ],
+                    [
+                        "13_this is hamm's best leading role to date, a reminder of how good he can be when he's given the right material.",
+                        0.8249767730071862
+                    ],
+                    [
+                        "18_this is a good movie for hamm, and also for pike who, in her recent films, has too often been either a madwoman or a victim of circumstance (and sometimes both).",
+                        0.7631245443804279
+                    ],
+                    [
+                        "19_the pleasure...of beirut is watching hamm and his associates encounter the conflicting factions at play, work out what's actually going on, and then find a way to defuse the situation, most likely by getting each involved party what it wants.",
+                        0.6697251676730444
+                    ],
+                    [
+                        "21_in the tightly plotted espionage thriller beirut, jon hamm has finally gotten a movie script that lets him strut his stuff.",
+                        -0.5036407636650306
+                    ],
+                    [
+                        "23_pike is terrific, and hamm has a credibly bleary, weary look.",
+                        0.6729936575933998
+                    ]
+                ]
+            },
+            "Shea Whigham": {
+                "args": []
+            },
+            "Larry Pine": {
+                "args": []
+            },
+            "Dean Norris": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Tony Gilroy": {
+                "args": [
+                    [
+                        "1_with four bourne thrillers to his credit, it's safe to assume that screenwriter tony gilroy could have penned this in his sleep.",
+                        0.5884007834537369
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_beirut is not a deft character study.",
+                0.6132328481822575
+            ],
+            [
+                "21_in the tightly plotted espionage thriller beirut, jon hamm has finally gotten a movie script that lets him strut his stuff.",
+                -0.5036407636650306
+            ]
+        ]
+    }
+}

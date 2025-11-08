@@ -1,0 +1,141 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_who knew a movie seemingly meant to spread holiday cheer could be so off-putting in an almost sadistic way?",
+                -0.8154053004815924
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mitch Davis": {
+                "args": [
+                    [
+                        "1_it fails to provide the sorts of human inter-connections and deep revelations for which director mitch davis seems to be striving.",
+                        -0.518819932884967
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Simon Chadwick": {
+                "args": []
+            },
+            "Benjamin Cawley": {
+                "args": []
+            },
+            "Marian Randall": {
+                "args": []
+            },
+            "Julianna Guill": {
+                "args": []
+            },
+            "Jaclyn Hales": {
+                "args": []
+            },
+            "Bruce Carswell": {
+                "args": []
+            },
+            "Owen Tamar Davis": {
+                "args": [
+                    [
+                        "1_it fails to provide the sorts of human inter-connections and deep revelations for which director mitch davis seems to be striving.",
+                        -0.518819932884967
+                    ]
+                ]
+            },
+            "Jenny Oaks Baker": {
+                "args": []
+            },
+            "Parker Davis": {
+                "args": []
+            },
+            "Juliet Aubrey": {
+                "args": []
+            },
+            "Daniel Pirrie": {
+                "args": []
+            },
+            "Cheryl Hines": {
+                "args": []
+            },
+            "Nate Fallows": {
+                "args": []
+            },
+            "David Bamber": {
+                "args": []
+            },
+            "Margaret Clunie": {
+                "args": []
+            },
+            "Steve John Shepherd": {
+                "args": []
+            },
+            "Christina Chong": {
+                "args": []
+            },
+            "Shawn King": {
+                "args": []
+            },
+            "Taylor James": {
+                "args": []
+            },
+            "James Roday": {
+                "args": []
+            },
+            "Lawrence Stevenson": {
+                "args": []
+            },
+            "Amalia Vitale": {
+                "args": []
+            },
+            "Lex Shrapnel": {
+                "args": []
+            },
+            "Christine Camile Hunt": {
+                "args": []
+            },
+            "Roxy Cook": {
+                "args": []
+            },
+            "Jon Heder": {
+                "args": []
+            },
+            "Gary Cole": {
+                "args": []
+            },
+            "Patrick Stewart": {
+                "args": []
+            },
+            "Max Casella": {
+                "args": []
+            },
+            "Carlos Andrew de la Rocha": {
+                "args": []
+            },
+            "Clara Perez": {
+                "args": []
+            },
+            "Martyn Ellis": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Mitch Davis": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

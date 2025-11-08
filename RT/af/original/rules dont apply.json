@@ -1,0 +1,234 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_like everything this star-director has done, the film is deceptively smart.",
+                0.7769278866952246
+            ],
+            [
+                "9_ clumsily staged, this is a movie at war with itself, ",
+                -0.5923600233377417
+            ],
+            [
+                "14_ the film is undone by its generally lethargic tone and the film's insistence to shift its focus from the putative lead characters to a supporting player ...",
+                -0.5515769174313926
+            ],
+            [
+                "17_beatty is so good at playing mental illness - he's even better here than he was in \"bugsy\" - that he saves the movie.",
+                0.6139619871818482
+            ],
+            [
+                "21_this is not a well-made film ",
+                -0.5378679730001226
+            ],
+            [
+                "21_ it is an enjoyable one, in part because it's genuinely unpredictable and in part because it's a pleasure to see one of the great stars of his era on a movie screen once more.",
+                0.8791466313486722
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "6_like everything this star-director has done, the film is deceptively smart.",
+                0.7769278866952246
+            ]
+        ],
+        "entities": {
+            "Warren Beatty": {
+                "args": [
+                    [
+                        "0_if rules don't apply is merely a nostalgic love letter to beatty's early days as an actor in the years before 1961's splendor in the grass made him an international sex symbol, that's enough.",
+                        0.662013980130697
+                    ],
+                    [
+                        "2_warren beatty plays howard hughes with seductive charm, sneaky intelligence and buggy eccentricity.",
+                        0.7632327679828097
+                    ],
+                    [
+                        "2_sadly, beatty as writer and director has chosen to make hughes a supporting role, teasing a much deeper portrait..",
+                        0.5909057231431589
+                    ],
+                    [
+                        "3_this is a picture beatty has wanted to make for years, and if the movie isn't the achievement it should be, it's at least entertaining in fits and starts.",
+                        -0.7069257919746388
+                    ],
+                    [
+                        "9_ it's not until beatty shows up as eccentric billionaire hughes, about 30 minutes in and shrouded in half-light, that the battle is apparent.",
+                        -0.6096414563803111
+                    ],
+                    [
+                        "10_there's a boyish charm to beatty's performance, and the film maintains a whimsical, lightly zany tone throughout.",
+                        0.730229916879488
+                    ],
+                    [
+                        "12_rules don't apply is hugely imperfect and, oddly, seems to be illustrating elements of beatty's real life and personality through all the main characters.",
+                        0.5570327285555281
+                    ],
+                    [
+                        "13_it may be hyperbolic to describe warren beatty's howard hughes movie",
+                        0.522504430923405
+                    ],
+                    [
+                        "15_there's a gulf between hughes as we know him and hughes as beatty portrays him, and once you get past the sugarcoating, the rest of this film is more bitter than sweet.",
+                        0.7998880907215424
+                    ],
+                    [
+                        "18_the precisely calibrated chaos of beatty's film begins with a slow burn as a captivating romance, follows mounting momentum into delirious lunacy and ends with a touch of existential sadness.",
+                        0.7660415103252876
+                    ],
+                    [
+                        "20_this is beatty's first film in 15 years, a project he's been working on for 40 years, and it's immensely pleasing to see him in such fine form.",
+                        0.7851450326634519
+                    ],
+                    [
+                        "23_aside from beatty's performance, the only consistent thing the movie has going for it is ineffable strangeness",
+                        -0.5662760577876158
+                    ],
+                    [
+                        "26_ beatty smartly takes a supporting role to the youngsters by playing the kookily eccentric hughes.",
+                        0.6684601160742869
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Oliver Platt": {
+                "args": []
+            },
+            "Dabney Coleman": {
+                "args": []
+            },
+            "Warren Beatty": {
+                "args": [
+                    [
+                        "0_if rules don't apply is merely a nostalgic love letter to beatty's early days as an actor in the years before 1961's splendor in the grass made him an international sex symbol, that's enough.",
+                        0.662013980130697
+                    ],
+                    [
+                        "2_warren beatty plays howard hughes with seductive charm, sneaky intelligence and buggy eccentricity.",
+                        0.7632327679828097
+                    ],
+                    [
+                        "2_sadly, beatty as writer and director has chosen to make hughes a supporting role, teasing a much deeper portrait..",
+                        0.5909057231431589
+                    ],
+                    [
+                        "3_this is a picture beatty has wanted to make for years, and if the movie isn't the achievement it should be, it's at least entertaining in fits and starts.",
+                        -0.7069257919746388
+                    ],
+                    [
+                        "9_ it's not until beatty shows up as eccentric billionaire hughes, about 30 minutes in and shrouded in half-light, that the battle is apparent.",
+                        -0.6096414563803111
+                    ],
+                    [
+                        "10_there's a boyish charm to beatty's performance, and the film maintains a whimsical, lightly zany tone throughout.",
+                        0.730229916879488
+                    ],
+                    [
+                        "12_rules don't apply is hugely imperfect and, oddly, seems to be illustrating elements of beatty's real life and personality through all the main characters.",
+                        0.5570327285555281
+                    ],
+                    [
+                        "13_it may be hyperbolic to describe warren beatty's howard hughes movie",
+                        0.522504430923405
+                    ],
+                    [
+                        "15_there's a gulf between hughes as we know him and hughes as beatty portrays him, and once you get past the sugarcoating, the rest of this film is more bitter than sweet.",
+                        0.7998880907215424
+                    ],
+                    [
+                        "18_the precisely calibrated chaos of beatty's film begins with a slow burn as a captivating romance, follows mounting momentum into delirious lunacy and ends with a touch of existential sadness.",
+                        0.7660415103252876
+                    ],
+                    [
+                        "20_this is beatty's first film in 15 years, a project he's been working on for 40 years, and it's immensely pleasing to see him in such fine form.",
+                        0.7851450326634519
+                    ],
+                    [
+                        "23_aside from beatty's performance, the only consistent thing the movie has going for it is ineffable strangeness",
+                        -0.5662760577876158
+                    ],
+                    [
+                        "26_ beatty smartly takes a supporting role to the youngsters by playing the kookily eccentric hughes.",
+                        0.6684601160742869
+                    ]
+                ]
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "Paul Sorvino": {
+                "args": []
+            },
+            "Taissa Farmiga": {
+                "args": []
+            },
+            "Alden Ehrenreich": {
+                "args": []
+            },
+            "Haley Bennett": {
+                "args": []
+            },
+            "Candice Bergen": {
+                "args": []
+            },
+            "Martin Sheen": {
+                "args": []
+            },
+            "Annette Bening": {
+                "args": []
+            },
+            "Megan Hilty": {
+                "args": []
+            },
+            "Matthew Broderick": {
+                "args": []
+            },
+            "Lily Collins": {
+                "args": []
+            },
+            "Ed Harris": {
+                "args": []
+            },
+            "Steve Coogan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_ as a writer and actor, he's created the most wistful and complex portrait of hughes",
+                0.7823272184931314
+            ],
+            [
+                "2_sadly, beatty as writer and director has chosen to make hughes a supporting role, teasing a much deeper portrait..",
+                0.5909057231431589
+            ],
+            [
+                "33_ the character can't help ",
+                -0.5900386477763249
+            ],
+            [
+                "34_unfortunately, the screenplay of \"rules don't apply\" never quite figures out how to make the two coexist.",
+                -0.7225369985897562
+            ]
+        ],
+        "entities": {
+            "Bo Goldman": {
+                "args": []
+            },
+            "Warren Beatty": {
+                "args": []
+            }
+        }
+    }
+}

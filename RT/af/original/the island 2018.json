@@ -1,0 +1,47 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bo Huang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_at best, they distract from the film's disinterest in more plot-driven mysteries.",
+                0.800554072154591
+            ],
+            [
+                "3_there are no good or bad people in the island, just a group of hapless schmucks who become more sympathetic as they get more desperate.",
+                -0.6452368093800376
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Qi Shu": {
+                "args": []
+            },
+            "Zhang Yixing": {
+                "args": []
+            },
+            "Bo Huang": {
+                "args": []
+            },
+            "Wang Baoqiang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

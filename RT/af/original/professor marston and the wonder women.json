@@ -1,0 +1,192 @@
+{
+    "acting": {
+        "entities": {
+            "Alexa Havins": {
+                "args": []
+            },
+            "Frank Ridley": {
+                "args": []
+            },
+            "J.J. Feild": {
+                "args": []
+            },
+            "Monica Giordano": {
+                "args": []
+            },
+            "Bella Heathcote": {
+                "args": []
+            },
+            "Oliver Platt": {
+                "args": []
+            },
+            "Nicholas Dias": {
+                "args": []
+            },
+            "Christopher Paul Richards": {
+                "args": []
+            },
+            "Chris Gombos": {
+                "args": []
+            },
+            "Forry Buckingham": {
+                "args": []
+            },
+            "Sebastian Wood": {
+                "args": []
+            },
+            "Stacy Fischer": {
+                "args": []
+            },
+            "Gabrielle Nail": {
+                "args": []
+            },
+            "Luke Evans": {
+                "args": []
+            },
+            "Tom Kemp": {
+                "args": []
+            },
+            "Allie Gallerani": {
+                "args": []
+            },
+            "Chris Conroy": {
+                "args": []
+            },
+            "Maggie Castle": {
+                "args": []
+            },
+            "Rebecca Hall": {
+                "args": [
+                    [
+                        "15_ it's hall who most stands out.",
+                        0.7016406950851815
+                    ],
+                    [
+                        "17_rebecca hall gives a standout performance - something so good that it's worth remembering when end-of-the-year citations are issued.",
+                        0.8739748835943741
+                    ]
+                ]
+            },
+            "Lucinda Clare": {
+                "args": []
+            },
+            "Connie Britton": {
+                "args": []
+            },
+            "Sharon Kubo": {
+                "args": []
+            },
+            "Ken Cheeseman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_this is arguably the phoniest film you'll see all year, marred by clumsy direction, over-obvious acting and a wooden script that skews what was so radical about the thruple's arrangement into something tame and downright boring.",
+                -0.6486528876506377
+            ],
+            [
+                "30_and the wonder women is impeccable, particularly in the costuming, and the cast is as compelling to watch as the actors' reputations might suggest.",
+                0.831518798658339
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Angela Robinson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_it's quite a story and a cinematic task writer-director angela robinson is not always up to.",
+                0.676874966757473
+            ],
+            [
+                "5_with so much covered in under two hours, it might have been more effective to concentrate on a specific era or aspect of each character's story.",
+                -0.6003243021784703
+            ],
+            [
+                "7_this is arguably the phoniest film you'll see all year, marred by clumsy direction, over-obvious acting and a wooden script that skews what was so radical about the thruple's arrangement into something tame and downright boring.",
+                -0.6486528876506377
+            ],
+            [
+                "29_the writer and director angela robinson illuminates an extraordinary corner of pop-culture history with a bland and textureless drama.",
+                0.7052770963825147
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_the attention paid to elizabeth and olive's roles in every aspect of marston's crazy life is enough to brighten this film.",
+                0.5799055520388936
+            ],
+            [
+                "3_wonder woman's genesis in bondage play and a willfully naughty attempt to subvert the mainstream deserves a more courageous film than this one, gauzy and overscored.",
+                -0.5314288607866574
+            ],
+            [
+                "4_professor marston and the wonder women aims to shake you up, make you think and maybe even squirm a little.",
+                0.6474811880445289
+            ],
+            [
+                "7_this is arguably the phoniest film you'll see all year, marred by clumsy direction, over-obvious acting and a wooden script that skews what was so radical about the thruple's arrangement into something tame and downright boring.",
+                -0.6486528876506377
+            ],
+            [
+                "8_truly, it is a wonder of a movie.",
+                0.6574522585880407
+            ],
+            [
+                "9_the most exceptional element of professor marston and the wonder women might actually be its comforting, radical normalcy.",
+                0.6532732705041514
+            ],
+            [
+                "10_sweet and rather silly, the movie is entertaining.",
+                -0.5240353837432798
+            ],
+            [
+                "16_a sly and thoroughly charming trojan horse of a movie",
+                0.6909462036811738
+            ],
+            [
+                "25_a nice companion piece to one of the biggest movies of the year, and a good movie in its own right.",
+                0.8317544327177064
+            ],
+            [
+                "26_\"professor marston and the wonder women\" is a story of courage and sacrifice, as well as a moving love story that's really three love stories in one.",
+                0.8669573793114905
+            ],
+            [
+                "28_e not only to one of the comics' greatest characters (and this year's favorite movie hero) ",
+                0.5964407778701752
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Angela Robinson": {
+                "args": [
+                    [
+                        "0_it's quite a story and a cinematic task writer-director angela robinson is not always up to.",
+                        0.676874966757473
+                    ],
+                    [
+                        "2_writer-director angela robinson is interested in both her subjects and their ideas, and that counts for something.",
+                        0.7589565959624186
+                    ],
+                    [
+                        "29_the writer and director angela robinson illuminates an extraordinary corner of pop-culture history with a bland and textureless drama.",
+                        0.7052770963825147
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

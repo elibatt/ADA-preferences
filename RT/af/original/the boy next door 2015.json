@@ -1,0 +1,193 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_in fact, nothing about this film is convincing.",
+                -0.5394985470337912
+            ],
+            [
+                "9_rather than being good-bad, \"the boy next door\" is just plain bad.",
+                -0.8298403775001246
+            ],
+            [
+                "10_breathless, uninspired january junk that feels like the iffiest bits of a lifetime movie and late-night cable schlock slapped together.",
+                -0.8044124017785353
+            ],
+            [
+                "13_\"the boy next door\" may end up as one of the worst movies of 2015, ",
+                -0.8305987841438403
+            ],
+            [
+                "15_it's unashamedly of the b-movie variety - a quick and easy time-killer.",
+                0.5524923376181216
+            ],
+            [
+                "17_\"the boy next door\" is a string of situations in which the actors' job one is keeping straight faces while uttering lines like, \"a woman like you should be cherished.\"",
+                0.5939719503005907
+            ],
+            [
+                "18_i wish \"the boy next door\" were a different, zingier sort of mediocrity, ",
+                -0.6240515275139216
+            ],
+            [
+                "19_it's no surprise \"the boy next door\" is junk.",
+                -0.7240113497128255
+            ],
+            [
+                "24_it's a movie about a young man with an unhealthy mother fixation, ",
+                0.6602451474260936
+            ],
+            [
+                "25_whatever charges you can level at the movie, and they are legion, boring isn't one of them.",
+                -0.8613834665766925
+            ],
+            [
+                "26_the boy next door takes a lifetime original premise ... and pumps it full of oedipal references and yellow lighting.",
+                -0.5564488399876488
+            ],
+            [
+                "29_boy's premise reeks of stalker-movie mothballs, and it's too timid to fully dive into the high camp it hints at.",
+                -0.6434089117558084
+            ],
+            [
+                "32_the film's initial formulaic competence gives way to outright preposterousness rather quickly, hinging on idiot-plot character motivations, \"it was only a cat!\"",
+                -0.7889592682505375
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rob Cohen": {
+                "args": [
+                    [
+                        "11_mr. cohen, no stranger to delivering pulp product, employs visual clichés as if they were flash cards",
+                        -0.5481981992144261
+                    ],
+                    [
+                        "26_, rob cohen's low-budget thriller",
+                        -0.5551218522330326
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jennifer Lopez": {
+                "args": [
+                    [
+                        "0_jennifer lopez has serious beefcake issues in this lazy, low-budget, not-as-much-fun-as-it-should-be potboiler.",
+                        -0.5860093094363272
+                    ],
+                    [
+                        "5_ it's a particularly strange choice on lopez's part, since she's done her best work in movies that dare to empower her.",
+                        0.6872598945835304
+                    ],
+                    [
+                        "7_this isn't a very demanding role for lopez, ",
+                        -0.5942805143360319
+                    ],
+                    [
+                        "20_even in this dreck ... it comes as a bit of a surprise how comfortable and appealing lopez is on camera.",
+                        0.7039726342283218
+                    ],
+                    [
+                        "22_the boy next door wastes lopez's talents, just as much of the schlock classic actresses like joan crawford or bette davis appeared in wasted theirs.",
+                        -0.7177816542630064
+                    ],
+                    [
+                        "23_why lopez decided to do this inept, cliche-infested film is anyone's guess.",
+                        -0.7004786796391802
+                    ],
+                    [
+                        "30_ a sidelong glance at guzman's behind, the ass-ploitative nature of 'the boy next door' mostly focuses on lopez herself, a decision that robs the film of the symbiosis of fear and attraction that makes the erotic thriller such escapist fun.\"",
+                        0.7866958930000584
+                    ]
+                ]
+            },
+            "Forrest Hoffman": {
+                "args": []
+            },
+            "Kari Perdue": {
+                "args": []
+            },
+            "Raquel Gardner": {
+                "args": []
+            },
+            "Adam Hicks": {
+                "args": []
+            },
+            "Ian Nelson": {
+                "args": []
+            },
+            "Chad Bullard": {
+                "args": []
+            },
+            "Kent Avenido": {
+                "args": []
+            },
+            "Kristin Chenoweth": {
+                "args": []
+            },
+            "Hill Harper": {
+                "args": []
+            },
+            "Brian Mahoney": {
+                "args": []
+            },
+            "Brandon Rush": {
+                "args": []
+            },
+            "John Corbett": {
+                "args": []
+            },
+            "Jack Wallace": {
+                "args": []
+            },
+            "Bailey Chase": {
+                "args": []
+            },
+            "Lexi Atkins": {
+                "args": []
+            },
+            "François Chau": {
+                "args": []
+            },
+            "Travis Schuldt": {
+                "args": []
+            },
+            "Ryan Guzman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_it's badly directed, poorly edited, and features some of the most unconvincing acting this side of a soup commercial.",
+                -0.7650093201029996
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Barbara Curry": {
+                "args": [
+                    [
+                        "14_lawyer-turned-screenwriter barbara curry sticks to the basics with her first script, failing to flesh out her characters while indulging in leapfrogging logic that leads to a weirdly abrupt finish.",
+                        -0.5557415983523337
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "32_the film's initial formulaic competence gives way to outright preposterousness rather quickly, hinging on idiot-plot character motivations, \"it was only a cat!\"",
+                -0.7889592682505375
+            ]
+        ]
+    }
+}

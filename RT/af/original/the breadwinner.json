@@ -1,0 +1,97 @@
+{
+    "writer": {
+        "entities": {
+            "Anita Doron": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Nora Twomey": {
+                "args": [
+                    [
+                        "5_on the heels of ann marie fleming's joyful animated indie window horses comes nora twomey's thematically similar ",
+                        0.563836303417446
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_children must grow up fast under such circumstances, and the breadwinner derives its lasting sense of tragedy from its consideration of how they've been stripped of their childhood.",
+                0.7024875853097972
+            ],
+            [
+                "2_distressing as it is, the film draws you into the characters' lives.",
+                0.7797795860796058
+            ],
+            [
+                "4_the film is honest enough not to exaggerate the beneficial results of parvana's courageous act.",
+                0.6616829709895691
+            ],
+            [
+                "5_ far darker the breadwinner.",
+                -0.5221373902446542
+            ],
+            [
+                "6_the breadwinner is a well-crafted and inspiring story with an important message about female empowerment, embodied in heroic parvana, something people of all ages should embrace.",
+                0.8690137032951322
+            ],
+            [
+                "7_visually captivating even when it's narratively uneven, the animated film \"the breadwinner\" tells the story of a brave girl living in afghanistan under the taliban in the lead-up to the 2001 u.s. invasion.",
+                0.8142929217686665
+            ],
+            [
+                "8_ it's hard to see who \"the breadwinner\" audience is.",
+                -0.6146978818162279
+            ],
+            [
+                "9_while the film may suffer when it comes to the details, it does have a certain undeniable power in its broad strokes.",
+                0.5965126984220134
+            ],
+            [
+                "10_in its power and its beauty, \"the breadwinner' reminds us that animation can be every bit as much of a medium for adults as it is for children.",
+                0.7831040521502628
+            ],
+            [
+                "14_the breadwinner is a glorious demonstration of the power of myth to deal with brutal reality, and the power of truth to animate myth.",
+                0.5213204684433381
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Laara Sadiq": {
+                "args": []
+            },
+            "Noorin Gulamgaus": {
+                "args": []
+            },
+            "Soma Chhaya": {
+                "args": []
+            },
+            "Shaista Latif": {
+                "args": []
+            },
+            "Saara Chaudry": {
+                "args": []
+            },
+            "Ali Badshah": {
+                "args": []
+            },
+            "Kawa Ada": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

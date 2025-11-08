@@ -1,0 +1,158 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "6_ even worse, it inspires little desire to understand it.",
+                -0.7411581918312772
+            ],
+            [
+                "5_ i gave up trying to follow the plot.",
+                -0.659045017050638
+            ],
+            [
+                "0_nolan prioritizes the dense audiovisual spectacle of his most narratively complex films.",
+                0.7130224958113165
+            ],
+            [
+                "1_as a delivery system for the ideas, i think it trips itself up an awful lot.",
+                -0.7308357722948872
+            ],
+            [
+                "12_telling a story backward sounds bizarre - it is bizarre - ",
+                0.6348016661897051
+            ],
+            [
+                "3_ mostly irritating is what i find.",
+                -0.695443659817085
+            ],
+            [
+                "8_it is easy to sit back and revel in the wonder of the big-screen experience, and to immediately want to see the film again.",
+                0.6443428092358129
+            ],
+            [
+                "13_and yet there is enough good stuff buried beneath its antiseptic, perhaps overly showy technique, once you get past the clankier bits, that is worth exploring.",
+                0.7852914121793917
+            ],
+            [
+                "16_both utterly dazzling and increasingly bewildering.",
+                0.7164057524286537
+            ],
+            [
+                "19_nolan has finally zoomed out so far with a story that fundamentals of physics have themselves become character motivations.",
+                0.6022926514353797
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "9",
+                1
+            ],
+            [
+                "18",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "3_[christopher nolan] is very clever, ",
+                0.6891666736117797
+            ],
+            [
+                "4_i am a big fan of [christopher nolan's] films -- i usually enjoy the time puzzle of it -- ",
+                0.683322521883328
+            ],
+            [
+                "18_these amazing set pieces, while respectable for their reliance on practical effects and impressive for nolan's commitment to his craft, often feel divorced from the rest of tenet.",
+                0.8528302815751742
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": [
+                    [
+                        "3_[christopher nolan] is very clever, ",
+                        0.6891666736117797
+                    ],
+                    [
+                        "4_i am a big fan of [christopher nolan's] films -- i usually enjoy the time puzzle of it -- ",
+                        0.683322521883328
+                    ],
+                    [
+                        "18_these amazing set pieces, while respectable for their reliance on practical effects and impressive for nolan's commitment to his craft, often feel divorced from the rest of tenet.",
+                        0.8528302815751742
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "9_for a writer often accused of being humorless, this may be his most playful script, often arid in its dry humor, and much of it provided by pattinson playing an inverted felix leiter to washington's stoical bond riff.",
+                0.7513695890301173
+            ],
+            [
+                "19_nolan has finally zoomed out so far with a story that fundamentals of physics have themselves become character motivations.",
+                0.6022926514353797
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "9_for a writer often accused of being humorless, this may be his most playful script, often arid in its dry humor, and much of it provided by pattinson playing an inverted felix leiter to washington's stoical bond riff.",
+                0.7513695890301173
+            ]
+        ],
+        "entities": {
+            "John David Washington": {
+                "unique_args": [
+                    [
+                        "9_for a writer often accused of being humorless, this may be his most playful script, often arid in its dry humor, and much of it provided by pattinson playing an inverted felix leiter to washington's stoical bond riff.",
+                        0.7513695890301173
+                    ]
+                ]
+            },
+            "Robert Pattinson": {
+                "unique_args": []
+            },
+            "Elizabeth Debicki": {
+                "unique_args": []
+            },
+            "Kenneth Branagh": {
+                "unique_args": []
+            },
+            "Dimple Kapadia": {
+                "unique_args": []
+            },
+            "Aaron Taylor-Johnson": {
+                "unique_args": []
+            },
+            "Himesh Patel": {
+                "unique_args": []
+            },
+            "Clémence Poésy": {
+                "unique_args": []
+            },
+            "Michael Caine": {
+                "unique_args": []
+            },
+            "Martin Donovan": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

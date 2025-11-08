@@ -1,0 +1,66 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ye Liu": {
+                "args": []
+            },
+            "Yan Bei": {
+                "args": []
+            },
+            "Wang Ziwen": {
+                "args": []
+            },
+            "Bjorn Sundquistsebagai Leif": {
+                "args": []
+            },
+            "Yi Zhang": {
+                "args": []
+            },
+            "Zhuo Tan": {
+                "args": []
+            },
+            "Bowen Duan": {
+                "args": []
+            },
+            "Wang Yanhui": {
+                "args": []
+            },
+            "Fiona Wang": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Baopin Cao": {
+                "args": []
+            },
+            "Cao Baoping": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Yang Jianjun": {
+                "args": []
+            },
+            "Baopin Cao": {
+                "args": []
+            },
+            "Tian-hui Zhang": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "acting": {
+        "entities": {
+            "Liev Schreiber": {
+                "args": [
+                    [
+                        "1_liev schreiber is top-notch in the lead role in this funny, sad and warm cautionary tale.",
+                        0.6137752747806787
+                    ],
+                    [
+                        "4_liev schreiber is outstanding as the hulking, rough-edged, amiable and charismatic wepner.",
+                        0.7689397021146648
+                    ],
+                    [
+                        "5_...driven by a knockout lead performance from liev schreiber.",
+                        0.5324388416566461
+                    ],
+                    [
+                        "10_star performance by a smashing liev schreiber in the title role.",
+                        -0.5845229904008957
+                    ],
+                    [
+                        "23_liev schreiber and elisabeth moss add the necessary punch",
+                        -0.5714905035653943
+                    ]
+                ]
+            },
+            "Michael Rapaport": {
+                "args": []
+            },
+            "Morgan Spector": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": []
+            },
+            "Jim Gaffigan": {
+                "args": []
+            },
+            "Pooch Hall": {
+                "args": [
+                    [
+                        "6_ there's an odd hall-of-mirrors quality to all this: prone to quoting requiem for a heavyweight, wepner is transmogrified into the movies himself.",
+                        0.6356900974709373
+                    ]
+                ]
+            },
+            "Elisabeth Moss": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jerry Stahl": {
+                "args": []
+            },
+            "Jeff Feuerzeig": {
+                "args": []
+            },
+            "Michael Cristofer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_schreiber is outstanding as the title character, a big lug who can't stay out of his own way.",
+                -0.5611279264477029
+            ],
+            [
+                "19_ one character could be summing up the whole enterprise when she says to chuck: \"there's more to you than meets the eye.",
+                -0.6280524428136846
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_it may not go the distance, ",
+                0.546199214064438
+            ],
+            [
+                "0_ it's surely worth a step into the ring.",
+                0.70695826330143
+            ],
+            [
+                "2_\"chuck\" will never have the same glory as \"rocky,\" ",
+                -0.6434640839783066
+            ],
+            [
+                "2_ it's a worthy little contender.",
+                0.5654741483347819
+            ],
+            [
+                "3_the downfall isn't as satisfying as the setup, and a sudden burst of energy associated with the introduction of cocaine actually acts to slow things down, ",
+                -0.6321049999071879
+            ],
+            [
+                "3_ it's worth seeing for the performances.",
+                0.7770918908809262
+            ],
+            [
+                "6_his fall and redemption are a little too familiar to carry the movie, ",
+                0.5151098276481221
+            ],
+            [
+                "7_wepner's descent through a had-it-coming divorce, drugs, and prison isn't so much harrowing as just dispiriting.",
+                -0.6466227349826907
+            ],
+            [
+                "8_arguably, the story of a habitual loser should resonate as much as - if not more than - that of a winner.",
+                0.6751556684996823
+            ],
+            [
+                "8_but the film keeps us at arm's length emotionally,",
+                -0.5788145329307235
+            ],
+            [
+                "8_ filtering its antihero's troubles through a layer of 1970s nostalgia.",
+                -0.5125730803701369
+            ],
+            [
+                "9_schreiber is outstanding as the title character, a big lug who can't stay out of his own way.",
+                -0.5611279264477029
+            ],
+            [
+                "10_it's a routine story, worth seeing for the galvanizing (pulverizing?)",
+                0.5527880600842037
+            ],
+            [
+                "11_thanks to its two central performances, \"chuck\" is a solid contender.",
+                0.6880584069648309
+            ],
+            [
+                "12_schreiber continues to sell each moment ... through the entire movie.",
+                -0.6216602424001565
+            ],
+            [
+                "12_the chuck wepner story is a compelling one - and the performances ensure its place as a sports movie contender.",
+                0.7895221772731852
+            ],
+            [
+                "13_in truth, this isn't a boxing movie at all.",
+                -0.7992102016560576
+            ],
+            [
+                "13_it's a movie about the kinds of existence in which boxing, or the swagger of boxing movies, can feel like a big deal.",
+                -0.5392170077874968
+            ],
+            [
+                "14_chuck doesn't stray far from from the underdog, just-a-lug-from-the-streets redemption arc that rocky itself helped eternally popularize.",
+                -0.6778013611977454
+            ],
+            [
+                "15_chuck does nothing new, and it moves through boxing tropes like it's ticking off checkmarks, ",
+                -0.6587459083210858
+            ],
+            [
+                "15_ there's an honesty to it, a fresh and messy one.",
+                0.7928162246723383
+            ],
+            [
+                "16_falardeau does a competent job of charting wepner's dissolution and recovery, ",
+                0.7326211131785623
+            ],
+            [
+                "16_ he doesn't mine the story for its many cruel ironies.",
+                -0.7118709254301859
+            ],
+            [
+                "17_\"chuck\" is, in certain ways, not unlike its flawed hero: a lot of personality, just enough ambition, more interested in a good time and simple insight than a lasting impression.",
+                0.7958201549543434
+            ],
+            [
+                "18_schreiber's casting is fitting.",
+                0.5806930945562729
+            ],
+            [
+                "18_he's one of the most underappreciated actors (rewatch spotlight for an example of how damn great he can be with the tiniest gestures) playing a guy who never got enough respect.",
+                0.8056309342346152
+            ],
+            [
+                "19_this is a pretty good boxing picture, with credible redemption notes, ",
+                0.6368176144337575
+            ],
+            [
+                "19_ one character could be summing up the whole enterprise when she says to chuck: \"there's more to you than meets the eye.",
+                -0.6280524428136846
+            ],
+            [
+                "20_the film - directed by a frenchman, and written by committee - either doesn't face the facts ... or gets them wrong.",
+                -0.8289040380164873
+            ],
+            [
+                "21_ just enough,\" she says, and the same might be said of chuck itself.",
+                -0.6940280319470311
+            ],
+            [
+                "22_one for forgiving fans of macho nostalgia fests.",
+                -0.5316338825476428
+            ],
+            [
+                "23_ affecting boxing biopic.",
+                0.5526534499036977
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Philippe Falardeau": {
+                "args": [
+                    [
+                        "23_to director philippe falardeau's familiar ",
+                        0.5648920953550471
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

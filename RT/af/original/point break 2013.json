@@ -1,0 +1,208 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_for all the adrenalizing positives in this reworked \"point break,\" inadvertent silliness remains.",
+                -0.6381897760539361
+            ],
+            [
+                "1_boldly reimagining kathryn bigelow's cult favorite as a movie where absolutely nobody seems to be having any fun, the new point break drops the original's zen-like balance of macho mysticism and camp in favor of dour humorlessness.",
+                0.6431952623428847
+            ],
+            [
+                "6_25 years later, we have now been blessed a \"point break\" remake that is completely lacking in any of the visceral thrills or apparent charisma of the original and which could not be duller if it tried.",
+                -0.7443689818778922
+            ],
+            [
+                "7_ they make almost no effort to incorporate these stirring sequences into the rest of the movie.",
+                -0.6283231378112808
+            ],
+            [
+                "8_this \"point break\" removes almost everything that was special about the 1991 original, and replaces it with a mountain dew commercial.",
+                0.5917234440490081
+            ],
+            [
+                "9_analyzed on its own merits or in concert with the earlier film, point break doesn't work.",
+                -0.6901083820357444
+            ],
+            [
+                "10_ tiny on character development and good old-fashioned fun, the new point break looks great ",
+                0.8468599179142897
+            ],
+            [
+                "11_the first \"point break\" rode the big kahuna",
+                0.5774919404561074
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ericson Core": {
+                "args": [
+                    [
+                        "4_nowhere does mr. core's film approach the action-movie chops or psychological smarts of ms. bigelow's original or, truth be told, benefit from actors displaying the same charm as her stars.",
+                        0.7479047282712799
+                    ],
+                    [
+                        "7_director ericson core and writer kurt wimmer clearly want to up the ante on the action, ",
+                        0.5204672156012147
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stephan Baumecker": {
+                "args": []
+            },
+            "Sal Masekela": {
+                "args": []
+            },
+            "Christian Alexander Koch": {
+                "args": []
+            },
+            "Bob Burnquist": {
+                "args": []
+            },
+            "Delroy Lindo": {
+                "args": []
+            },
+            "Patrick DeWayne": {
+                "args": []
+            },
+            "Max Thieriot": {
+                "args": []
+            },
+            "Glynis Barber": {
+                "args": []
+            },
+            "Francesco Martino": {
+                "args": []
+            },
+            "Julien Lambert": {
+                "args": []
+            },
+            "Bojesse Christopher": {
+                "args": []
+            },
+            "Jeff Burrell": {
+                "args": []
+            },
+            "Ronak Patani": {
+                "args": []
+            },
+            "Marco Velutti": {
+                "args": []
+            },
+            "Jeb Corliss": {
+                "args": []
+            },
+            "Jorg Reichlin": {
+                "args": []
+            },
+            "Jaymes Butler": {
+                "args": []
+            },
+            "Seumas Sargent": {
+                "args": []
+            },
+            "Teresa Palmer": {
+                "args": []
+            },
+            "Steve Aoki": {
+                "args": []
+            },
+            "Louie Enriquez": {
+                "args": []
+            },
+            "Laird Hamilton": {
+                "args": []
+            },
+            "Faris Al-Sultan": {
+                "args": []
+            },
+            "Eddie Santiago Jordan": {
+                "args": []
+            },
+            "Mattias Padin Varela": {
+                "args": []
+            },
+            "Clemans Schick": {
+                "args": []
+            },
+            "Nikolai Kinski": {
+                "args": []
+            },
+            "Steve Toussaint": {
+                "args": []
+            },
+            "Luke Bracey": {
+                "args": []
+            },
+            "Ray Winstone": {
+                "args": []
+            },
+            "Judah Lewis": {
+                "args": []
+            },
+            "Kenny Glasgow": {
+                "args": []
+            },
+            "Edgar Ramirez": {
+                "args": []
+            },
+            "James LeGros": {
+                "args": []
+            },
+            "Chris Sharma": {
+                "args": []
+            },
+            "Numan Acar": {
+                "args": []
+            },
+            "Eric Koston": {
+                "args": []
+            },
+            "Xavier DeLeRue": {
+                "args": []
+            },
+            "Christian Haller": {
+                "args": []
+            },
+            "Tobias Santelmann": {
+                "args": []
+            },
+            "Gerard Monaco": {
+                "args": []
+            },
+            "Mouloud Achour": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_ tiny on character development and good old-fashioned fun, the new point break looks great ",
+                0.8468599179142897
+            ]
+        ],
+        "entities": {
+            "Kurt Wimmer": {
+                "args": [
+                    [
+                        "7_director ericson core and writer kurt wimmer clearly want to up the ante on the action, ",
+                        0.5204672156012147
+                    ]
+                ]
+            }
+        }
+    }
+}

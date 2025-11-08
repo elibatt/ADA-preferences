@@ -1,0 +1,40 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Govinda": {
+                "args": []
+            },
+            "Ranbir Kapoor": {
+                "args": []
+            },
+            "Katrina Kaif": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Anurag Basu": {
+                "args": [
+                    [
+                        "0_where visuals, tone and treatment are concerned, basu has given us a film unlike anything we've seen in recent indian cinema, proving, if nothing else, the endless possibilities of a boundless imagination.",
+                        0.6918291934027897
+                    ]
+                ]
+            }
+        }
+    }
+}

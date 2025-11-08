@@ -1,0 +1,119 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_den of thieves delivers an above-average cops-and-robbers heist film.",
+                0.7785933658239237
+            ],
+            [
+                "1_\"den of thieves\" may not be as moody as \"to live and die in l.a.\" or as clever as \"the usual suspects,\" ",
+                0.6896635696248223
+            ],
+            [
+                "2_the loser is the audience for den of thieves, an over-the-top crime saga mainly indicating that its writer/director has seen michael mann's heat too many times.",
+                -0.572085916624904
+            ],
+            [
+                "3_the film falls apart in its numerous implausibilities.",
+                -0.6270276237634451
+            ],
+            [
+                "9_this gritty crime drama is so indebted to the work of michael mann, it might as well be called residual heat.",
+                0.5689833106197315
+            ],
+            [
+                "11_the film is generous with action and twists, even if some don't track.",
+                0.5623636356955206
+            ],
+            [
+                "11_for january, a month hollywood reserves for dogs, this is an admirably weird movie.",
+                -0.6796566517003473
+            ],
+            [
+                "12_ for a movie so conspicuously wearing its chief influence on its sleeve, the first-timer employs an appealing, restless energy that gives his homage its own life on screen.",
+                0.656284550723125
+            ],
+            [
+                "15_\"den of thieves\" won't win any points for originality, ",
+                -0.5404308017813784
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Christian Gudegast": {
+                "args": [
+                    [
+                        "7_first-time director christian gudegast also wrote the film, and you can tell, in the sense that there was clearly no one there to look at the script and say, \"come on.\"",
+                        -0.5827604806009886
+                    ],
+                    [
+                        "12_christian gudegast lacks mann's peerless technique and moral complexity, ",
+                        -0.5024266895608376
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "2_the loser is the audience for den of thieves, an over-the-top crime saga mainly indicating that its writer/director has seen michael mann's heat too many times.",
+                -0.572085916624904
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Brian Van Holt": {
+                "args": []
+            },
+            "50 Cent": {
+                "args": []
+            },
+            "Sonya Balmores Chung": {
+                "args": []
+            },
+            "O'Shea Jackson, Jr.": {
+                "args": []
+            },
+            "Pablo Schreiber": {
+                "args": []
+            },
+            "Evan Jones": {
+                "args": []
+            },
+            "Gerard Butler": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_ler] tears into his performance as nasty cop (well, sheriff) and lousy husband nick flanagan the way flanagan tears into a crime-scene donut, and crams the screen with a combination of russell crowe's burly menace and mel gibson's manic rage.",
+                -0.5560585566600337
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Christian Gudegast": {
+                "args": []
+            },
+            "Paul Scheuring": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the loser is the audience for den of thieves, an over-the-top crime saga mainly indicating that its writer/director has seen michael mann's heat too many times.",
+                -0.572085916624904
+            ],
+            [
+                "7_first-time director christian gudegast also wrote the film, and you can tell, in the sense that there was clearly no one there to look at the script and say, \"come on.\"",
+                -0.5827604806009886
+            ]
+        ]
+    }
+}

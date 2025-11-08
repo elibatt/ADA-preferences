@@ -1,0 +1,371 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Justice Leak": {
+                "args": []
+            },
+            "Alpha Trivette": {
+                "args": []
+            },
+            "Jeffrey Olsen": {
+                "args": []
+            },
+            "Byron Diaz": {
+                "args": []
+            },
+            "Lauren Boyd": {
+                "args": []
+            },
+            "Jayma Mays": {
+                "args": []
+            },
+            "Jairo Ordoñez": {
+                "args": []
+            },
+            "Benito Martinez": {
+                "args": []
+            },
+            "Emilio Sierra": {
+                "args": []
+            },
+            "Connor Trinneer": {
+                "args": []
+            },
+            "Alejandro Edda": {
+                "args": []
+            },
+            "Jesse Plemons": {
+                "args": []
+            },
+            "Lauren Revard": {
+                "args": []
+            },
+            "William Mark McCullough": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Chloe Swan Sparwath": {
+                "args": []
+            },
+            "Leon Lamar": {
+                "args": []
+            },
+            "Mike Pniewski": {
+                "args": []
+            },
+            "Lola Kirke": {
+                "args": []
+            },
+            "Mauricio Mejía": {
+                "args": []
+            },
+            "Byron Wigfall": {
+                "args": []
+            },
+            "E. Roger Mitchell": {
+                "args": []
+            },
+            "Daniel Lugo": {
+                "args": []
+            },
+            "Scott Poythress": {
+                "args": []
+            },
+            "Darla Delgado": {
+                "args": []
+            },
+            "Robert P. Farrior": {
+                "args": []
+            },
+            "Robert Pralgo": {
+                "args": []
+            },
+            "Jed Rees": {
+                "args": []
+            },
+            "Filipe Bernedette": {
+                "args": []
+            },
+            "Alberto Ospino": {
+                "args": []
+            },
+            "Stephen Conroy": {
+                "args": []
+            },
+            "Sarah Wright": {
+                "args": []
+            },
+            "Mickey Sumner": {
+                "args": []
+            },
+            "Daniel May": {
+                "args": [
+                    [
+                        "11_the point is a wild ride akin to [the real-life] barry's own - you may as well enjoy it.",
+                        0.87377243538561
+                    ],
+                    [
+                        "12_the film may be fact-based ",
+                        0.5367839870160321
+                    ]
+                ]
+            },
+            "Jayson Warner Smith": {
+                "args": []
+            },
+            "Juan Esteban Ramirez Toro": {
+                "args": []
+            },
+            "Alex Quarles": {
+                "args": []
+            },
+            "Zachary Powell": {
+                "args": []
+            },
+            "Tom Cruise": {
+                "args": [
+                    [
+                        "2_one assumes that cruise got this film made, yet he's a terrible fit for the role: he's always done his best work portraying smart, insightful characters in dramatic stories, ",
+                        0.5757803555856273
+                    ],
+                    [
+                        "3_without realizing it, american made is a wincing metaphor for tom cruise's movie career-which, come to think of it, is exclusively and embarrassingly american made, too.",
+                        -0.5760677071517213
+                    ],
+                    [
+                        "5_[tom] cruise gives his energetic all to the role, ",
+                        0.6550856932987813
+                    ],
+                    [
+                        "12_the big difference is that cruise is spreading his starshine over this one and that (still) counts for something.",
+                        0.6257919794172001
+                    ],
+                    [
+                        "16_it's nice to be reminded that tom cruise has the chops to play somebody other than tom cruise, action hero.",
+                        0.5382507582265887
+                    ],
+                    [
+                        "17_just when it seems it may be time to close the book on tom cruise's acting career, something comes along to suggest new chapters are possible.",
+                        0.5706439523690778
+                    ],
+                    [
+                        "19_barry is the closest thing tom cruise has played to a regular joe in more than a decade, and the part isn't a snug fit.",
+                        -0.6028959329677664
+                    ],
+                    [
+                        "23_mostly, there's cruise, who at 55 looks a decade and a half younger, and can still fill a cockpit with star power some 30 years after top gun.",
+                        0.5764132388549863
+                    ],
+                    [
+                        "24_even as cruise keeps us rooting for barry, liman reminds us that this is a story of bad guys.",
+                        -0.7475035124777896
+                    ],
+                    [
+                        "26_it's refreshing to see the famous cruise grin used more as a mask than a crutch.",
+                        0.8277069271676496
+                    ],
+                    [
+                        "28_ even cruise devotees might decide enough is enough.",
+                        -0.5259177431515762
+                    ],
+                    [
+                        "31_ does tom cruise have fun with it.",
+                        0.7318174112152557
+                    ],
+                    [
+                        "33_cruise's latest is the smart, zippy american made, a movie that plays very much like your type-a tom cruise movie before it yanks the rug out from beneath you and reveals the b-movie cruise we've been missing.",
+                        0.598383484444341
+                    ],
+                    [
+                        "34_it's all punctuated with the famous [tom] cruise grin, which hasn't changed since risky business",
+                        0.5046653401045236
+                    ],
+                    [
+                        "36_which is why liman and screenwriter gary spinelli need someone like cruise to sell him.",
+                        -0.7752599303246329
+                    ],
+                    [
+                        "38_it gives cruise the opportunity to re-establish his brand of aggressive good humor and carefree - make that careless - adventure.",
+                        0.6890216839158261
+                    ],
+                    [
+                        "41_ glibly entertaining escapade on its own terms, \"american made\" is more interesting as a showcase for the dateless elasticity of cruise's star power.",
+                        0.7073907950717933
+                    ],
+                    [
+                        "43_the problem is that cruise, even when trying to cut loose, is always so tightly controlled that we never truly feel the reptilian survivalism of barry seal.",
+                        -0.6294776406602779
+                    ]
+                ]
+            },
+            "Trip McCarthy": {
+                "args": []
+            },
+            "Caleb Landry Jones": {
+                "args": []
+            },
+            "Carlos López": {
+                "args": []
+            },
+            "Alex Collins": {
+                "args": []
+            },
+            "April Billingsley": {
+                "args": []
+            },
+            "Fredy Yate Escobar": {
+                "args": []
+            },
+            "Morgan Hinkleman": {
+                "args": []
+            },
+            "Tony Guerrero": {
+                "args": []
+            },
+            "Devere Jehl": {
+                "args": []
+            },
+            "Maria Howell": {
+                "args": []
+            },
+            "Frank Licari": {
+                "args": []
+            },
+            "Marcus Hester": {
+                "args": []
+            },
+            "Kevin L. Johnson": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Doug Liman": {
+                "args": [
+                    [
+                        "24_even as cruise keeps us rooting for barry, liman reminds us that this is a story of bad guys.",
+                        -0.7475035124777896
+                    ],
+                    [
+                        "36_which is why liman and screenwriter gary spinelli need someone like cruise to sell him.",
+                        -0.7752599303246329
+                    ],
+                    [
+                        "37_doug liman's electric film is clear-eyed about the cynicism and corruption beneath its hero's anxious grin.",
+                        0.5436320830086314
+                    ],
+                    [
+                        "38_it gives liman a chance to stage a few tense aerial sequences ...",
+                        0.5950853725182579
+                    ],
+                    [
+                        "42_kudos are due to liman and spinelli... for honing the script into a reasonably manageable two-hour romp around the byzantine conspiracy-caper seen through the eyes of seal.",
+                        0.5563987883806579
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gary Spinelli": {
+                "args": [
+                    [
+                        "10_if american made were limited to what seal knew personally, some of the dangling threads in gary spinelli's script could be written off.",
+                        -0.6127274661511185
+                    ],
+                    [
+                        "36_which is why liman and screenwriter gary spinelli need someone like cruise to sell him.",
+                        -0.7752599303246329
+                    ],
+                    [
+                        "42_kudos are due to liman and spinelli... for honing the script into a reasonably manageable two-hour romp around the byzantine conspiracy-caper seen through the eyes of seal.",
+                        0.5563987883806579
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_but by the time the movie roared to its shockingly grim, remarkably embittered ending,",
+                -0.5846108970688753
+            ],
+            [
+                "0_ american made had won me over.",
+                0.5176577333760144
+            ],
+            [
+                "1_but there's a breezy sunniness to this film,",
+                0.6732189338399337
+            ],
+            [
+                "4_the impetuous pace of the film is at one with its moral shamelessness, and, without thinking, we sign up for both.",
+                0.782695550888994
+            ],
+            [
+                "5_ he, too, doesn't seem to be quite aware that seal was morally compromised far beyond the shallow confines of this film.",
+                -0.7010810224287342
+            ],
+            [
+                "8_american made\" is a real whopper.",
+                0.5675755280688004
+            ],
+            [
+                "9_american made is breezy and fun and makes its points without subjecting the viewer to a browbeating.",
+                0.7614556083895433
+            ],
+            [
+                "15_\"american made\" is a smart, nervy film, a very modern entertainment made with energy, style and a fine sense of humor that keeps us amused until gradually, almost imperceptibly, the laughter starts to stick in our throats.",
+                0.8853382012601907
+            ],
+            [
+                "18_\"american made\" goes down easily, especially if you don't let the historical record with its real-world stakes bother you.",
+                0.7007301722420132
+            ],
+            [
+                "22_\"american made\" is a stinging critique of u.s. foreign policy disguised as a freewheeling action comedy.",
+                0.6142556188168774
+            ],
+            [
+                "25_american made sells a toxic, shallow, anti-american dream bill of goods for anybody looking to shake their head about exceptionalism without seriously considering what conditions enable that mentality.",
+                0.5862010384627019
+            ],
+            [
+                "27_unable to present a protagonist that makes sense, \"american made\" tries something else.",
+                0.5056126818187096
+            ],
+            [
+                "28_but midway through american made,",
+                0.5566493738096921
+            ],
+            [
+                "29_\"american made\" really does deserve to be on a double-bill with \"top gun,\" and i'm betting",
+                0.5095809742381138
+            ],
+            [
+                "30_american made has such style and energy that its hasty patchwork of a narrative becomes a kind of charm unto itself, even when it means losing track of talented actors.",
+                0.7638013514623889
+            ],
+            [
+                "31_american made points out an unfortunate time in our history when government shenanigans ran amok internationally and people did bad things in the name of greed and power.",
+                -0.7449624022785462
+            ],
+            [
+                "32_as is, at two hours, it's fairly entertaining even when it doesn't quite work.",
+                -0.5385234517228714
+            ]
+        ]
+    }
+}

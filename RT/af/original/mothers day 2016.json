@@ -1,0 +1,347 @@
+{
+    "writer": {
+        "args": [
+            [
+                "26_when aniston's character casually mentions groundhog day and flag day in conversation, i immediately ",
+                -0.509036933632897
+            ]
+        ],
+        "entities": {
+            "Matthew Walker": {
+                "args": []
+            },
+            "Anya Kochoff": {
+                "args": []
+            },
+            "Tom Hines": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_mother's day is a concocted market-driven holiday, and so is this m&m's-obsessed movie - candy for the sweet-toothed among us.",
+                0.7259231498787931
+            ],
+            [
+                "12_unless your mom has an extremely low bar for movie satisfaction,",
+                -0.5191925832719609
+            ],
+            [
+                "15_\" that's the reason a movie like this exists.",
+                -0.6483497316051385
+            ],
+            [
+                "21_the problem with this type of movie is ingrained in the structure:",
+                -0.715618052825043
+            ],
+            [
+                "27_mother's day doesn't feel like a movie so much as it does a cinematic adaptation of walmart.",
+                -0.6225229396795636
+            ],
+            [
+                "29_a film so awful that if one were to put up a list of the great films celebrating motherhood, it would rank considerably lower than the gus van sant version of \"psycho.\"",
+                -0.6089855929603215
+            ],
+            [
+                "30_a two-hour movie so forgettable that i'm not convinced it actually exists.",
+                -0.7408993102437911
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "4_it does inspire the kind of holy terror that you feel all the way down to your bones, or the revolted tingling that strikes one at a karaoke performance gone tragically wrong.",
+                -0.5731161577894521
+            ]
+        ],
+        "entities": {
+            "Bricine Brown": {
+                "args": []
+            },
+            "Jamie Soricelli": {
+                "args": []
+            },
+            "Tom Hines": {
+                "args": []
+            },
+            "Shay Mitchell": {
+                "args": []
+            },
+            "Rodney Luis Aquino": {
+                "args": []
+            },
+            "Suzanne Haring": {
+                "args": []
+            },
+            "Kate Hudson": {
+                "args": []
+            },
+            "Brandon Spink": {
+                "args": []
+            },
+            "Eric Elijah Rogers": {
+                "args": []
+            },
+            "Matthew Walker": {
+                "args": []
+            },
+            "Kevin Blake": {
+                "args": []
+            },
+            "Grayson Russell": {
+                "args": []
+            },
+            "Paul Vogt": {
+                "args": []
+            },
+            "Ariana Neal": {
+                "args": []
+            },
+            "Julia Roberts": {
+                "args": []
+            },
+            "Karah Britton": {
+                "args": []
+            },
+            "Lucy Walsh": {
+                "args": []
+            },
+            "Jessi Case": {
+                "args": []
+            },
+            "Brittany Belt": {
+                "args": []
+            },
+            "Gabrielle Grimm": {
+                "args": []
+            },
+            "Ayden Bivek": {
+                "args": []
+            },
+            "Stephen Dean": {
+                "args": []
+            },
+            "Cameron Esposito": {
+                "args": []
+            },
+            "Kevin Marshall Pinkney": {
+                "args": [
+                    [
+                        "6_director garry marshall is a menace.",
+                        0.6252499960023581
+                    ],
+                    [
+                        "10_it's worth asking whether marshall and his cronies constitute some kind of hostage-taking hollywood mafia, forever calling in favors to get another vanity project running.",
+                        -0.5709332349615793
+                    ],
+                    [
+                        "18_you can survive this comedy, which was directed by garry marshall and written by too many people to shame by naming, ",
+                        -0.6030457227792168
+                    ],
+                    [
+                        "26_t to myself, \"be quiet, you, or garry marshall will get even more bad ideas.\"",
+                        -0.5693093683870225
+                    ],
+                    [
+                        "31_following the lazy formula the director laid down in \"valentine's day\" and \"new year's eve,\" marshall and his writers line up a bunch of stars, set up some basic sitcom situations, then hope audiences are in the right holiday spirit.",
+                        -0.5945353294621997
+                    ]
+                ]
+            },
+            "Maiya Boyd": {
+                "args": []
+            },
+            "Amanda Smith": {
+                "args": []
+            },
+            "Mandy Oakes": {
+                "args": []
+            },
+            "Jas Hardy": {
+                "args": []
+            },
+            "Gianna Simone": {
+                "args": []
+            },
+            "Adreanna Gonzalez": {
+                "args": []
+            },
+            "Melissa Yu": {
+                "args": []
+            },
+            "Drew Matthews": {
+                "args": []
+            },
+            "Richard Molina": {
+                "args": []
+            },
+            "Kate Linder": {
+                "args": []
+            },
+            "Timothy Olyphant": {
+                "args": []
+            },
+            "Sarah Chalke": {
+                "args": []
+            },
+            "Donielle Artese": {
+                "args": []
+            },
+            "Wedil David": {
+                "args": []
+            },
+            "Jason Sudeikis": {
+                "args": []
+            },
+            "Loni Love": {
+                "args": [
+                    [
+                        "3_it's fine that the makeshift trilogy (please, let it only be a trilogy) is a simple-minded ode to love meant to send everyone home happy.",
+                        0.5068051315932033
+                    ],
+                    [
+                        "13_if you love your mother, do not make her see this movie.",
+                        0.571674943717065
+                    ],
+                    [
+                        "20_the cinematic equivalent of a paper plate with macaroni and glitter haphazardly glued onto it, \"mother's day\" is a film only its creators could love (and even they must be having some misgivings).",
+                        0.5616792616202426
+                    ],
+                    [
+                        "24_a movie not even a mother could love.",
+                        0.5073252110993642
+                    ],
+                    [
+                        "28_ it's a lot closer to an episode of \"the love boat\" than \"love actually.\"",
+                        -0.5054970833382898
+                    ]
+                ]
+            },
+            "Shara London": {
+                "args": []
+            },
+            "Aasif Mandvi": {
+                "args": []
+            },
+            "Sean O'Bryan": {
+                "args": []
+            },
+            "Jack Whitehall": {
+                "args": []
+            },
+            "Owen Vaccaro": {
+                "args": []
+            },
+            "Britt Robertson": {
+                "args": [
+                    [
+                        "17_ the biggest comes courtesy of the production's no-doubt overworked sound department, when ms. robertson utters \"i have abandonment issues\" without moving her mouth.",
+                        0.5142137440165759
+                    ]
+                ]
+            },
+            "Robert Pine": {
+                "args": []
+            },
+            "Genevieve Joy": {
+                "args": []
+            },
+            "Jenifer Dillow": {
+                "args": []
+            },
+            "Caleb Brown": {
+                "args": []
+            },
+            "Hector Elizondo": {
+                "args": []
+            },
+            "Natalie Lymor": {
+                "args": []
+            },
+            "Sandra Taylor": {
+                "args": []
+            },
+            "Anoush Nevart": {
+                "args": []
+            },
+            "Margo Martindale": {
+                "args": []
+            },
+            "Patti Schellhaas": {
+                "args": []
+            },
+            "Ella Anderson": {
+                "args": []
+            },
+            "Brandi Lewis": {
+                "args": []
+            },
+            "Nicolette Noble": {
+                "args": []
+            },
+            "Jennifer Aniston": {
+                "args": [
+                    [
+                        "0_even if stars jennifer aniston, julia roberts and kate hudson are mom's all-time favorites, don't subject her to this cloying, plotless dose of saccharine ",
+                        -0.784776570169778
+                    ],
+                    [
+                        "26_when aniston's character casually mentions groundhog day and flag day in conversation, i immediately ",
+                        -0.509036933632897
+                    ]
+                ]
+            },
+            "Jon Lovitz": {
+                "args": []
+            },
+            "Bethany Hartman": {
+                "args": []
+            },
+            "Christine Lakin": {
+                "args": []
+            },
+            "Mikaela Gilden": {
+                "args": []
+            },
+            "Dawlish Carmauta": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Garry Marshall": {
+                "args": [
+                    [
+                        "6_director garry marshall is a menace.",
+                        0.6252499960023581
+                    ],
+                    [
+                        "10_it's worth asking whether marshall and his cronies constitute some kind of hostage-taking hollywood mafia, forever calling in favors to get another vanity project running.",
+                        -0.5709332349615793
+                    ],
+                    [
+                        "18_you can survive this comedy, which was directed by garry marshall and written by too many people to shame by naming, ",
+                        -0.6030457227792168
+                    ],
+                    [
+                        "26_t to myself, \"be quiet, you, or garry marshall will get even more bad ideas.\"",
+                        -0.5693093683870225
+                    ],
+                    [
+                        "31_following the lazy formula the director laid down in \"valentine's day\" and \"new year's eve,\" marshall and his writers line up a bunch of stars, set up some basic sitcom situations, then hope audiences are in the right holiday spirit.",
+                        -0.5945353294621997
+                    ]
+                ]
+            }
+        }
+    }
+}

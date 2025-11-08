@@ -1,0 +1,135 @@
+{
+    "film": {
+        "args": [
+            [
+                "12_zhang steers \"coming home\" toward a poignant study of immense distance in small spaces.",
+                0.7008641114105568
+            ],
+            [
+                "14_coming home can be understood as both a nicholas sparks-style weepie, and a social commentary about the cultural revolution.",
+                0.7126875973371845
+            ],
+            [
+                "16_still, it's a welcome throwback to one of the most emotionally wrenching actor-director partnerships in film history.",
+                0.886602788140084
+            ],
+            [
+                "18_what this film may lack in terms of visual flamboyance, it more than makes up for in telling its simple and direct story with a raw, emotional power that doesn't need lavish spectacle in order to get its point across.",
+                0.6741088286281078
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Zu Deng": {
+                "args": []
+            },
+            "Kaiyan Yan": {
+                "args": []
+            },
+            "Jiali Ding": {
+                "args": []
+            },
+            "Chen Xiaoyi": {
+                "args": []
+            },
+            "Zhang Jiayi": {
+                "args": []
+            },
+            "Peiqi Liu": {
+                "args": []
+            },
+            "Huiwen Zhang": {
+                "args": [
+                    [
+                        "6_less shocking than [director yimou zhang's] previous effort, ",
+                        0.5985341070174391
+                    ],
+                    [
+                        "9_ still potent metaphor for the social engineering of the revolution, and zhang heightens its poignance by underplaying its political significance.",
+                        0.7149261690991008
+                    ],
+                    [
+                        "19_\"coming home\" itself is graceful and modestly scaled, forgoing the historical sweep and the operatic fervor of some of mr. zhang's previous work.",
+                        0.6628449125012991
+                    ]
+                ]
+            },
+            "Li Gong": {
+                "args": [
+                    [
+                        "2_chen and gong, two of china's most respected actors, offer two great performances in a film about love, loss and perseverance that will nearly break your heart.",
+                        0.921558001930521
+                    ],
+                    [
+                        "5_coming home sinks into a conventional tragic romance rut that not even engaging performances by gong and chen can save.",
+                        -0.6245569582682828
+                    ],
+                    [
+                        "10_i'm not sure if there's room in the new chinese film world, which like american cinemas is now dominated by big-budget special effects films, for another series of gong-zhang films.",
+                        0.6088847589635349
+                    ]
+                ]
+            },
+            "Xin Baiqing": {
+                "args": []
+            },
+            "Daoming Chen": {
+                "args": []
+            },
+            "Chun Li": {
+                "args": []
+            },
+            "Guo Tao": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jingzhi Zou": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "0_intriguingly, the director has successfully woven a kafkaesque metaphor into a classically chinese melodrama.",
+                0.636649800408837
+            ],
+            [
+                "16_still, it's a welcome throwback to one of the most emotionally wrenching actor-director partnerships in film history.",
+                0.886602788140084
+            ]
+        ],
+        "entities": {
+            "Yimou Zhang": {
+                "args": [
+                    [
+                        "6_less shocking than [director yimou zhang's] previous effort, ",
+                        0.5985341070174391
+                    ],
+                    [
+                        "9_ still potent metaphor for the social engineering of the revolution, and zhang heightens its poignance by underplaying its political significance.",
+                        0.7149261690991008
+                    ],
+                    [
+                        "10_i'm not sure if there's room in the new chinese film world, which like american cinemas is now dominated by big-budget special effects films, for another series of gong-zhang films.",
+                        0.6088847589635349
+                    ],
+                    [
+                        "19_\"coming home\" itself is graceful and modestly scaled, forgoing the historical sweep and the operatic fervor of some of mr. zhang's previous work.",
+                        0.6628449125012991
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

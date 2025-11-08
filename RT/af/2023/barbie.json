@@ -1,0 +1,204 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "12_it’s a riotously entertaining candy-coloured feminist fable that manages simultaneously to celebrate, satirise and deconstruct its happy-plastic subject.",
+                0.8053689010879087
+            ],
+            [
+                "2_barbie makes up for lost time and should warm the hearts of parents and daughters alike.",
+                0.7476394816503376
+            ],
+            [
+                "18_robbie makes a genial ringmaster, with a terrific cast.",
+                0.7437872407227657
+            ],
+            [
+                "19_it’s both a flippy romp and a feminist outcry in shades of pastel pink.",
+                0.6729780928229766
+            ],
+            [
+                "6_it’s a lot to take in, and some skits work better than others.",
+                0.6660668115231563
+            ],
+            [
+                "0_one of the best films of the year in cinematographic terms, probably the best comedy that we have seen in a long time, and an extraordinarily entertaining product that promotes the value of searching for a more cohesive society.",
+                0.9043706299562572
+            ],
+            [
+                "3_in a world where blockbuster films are surrounded by digital landscapes, barbie’s devotion to practical production is outstanding.",
+                0.7547938462778954
+            ],
+            [
+                "7_it’s funny, it’s bright and uplifting, and i think has a lot to say about the modern world – both in terms of feminism and gender equality.",
+                0.8456865976332941
+            ],
+            [
+                "8_mostly, barbie is laugh-out-loud funny and a sheer delight.",
+                0.7671569811616246
+            ],
+            [
+                "9_barbie is a phenomenally funny, smart, really engaging film.",
+                0.7244739331338966
+            ],
+            [
+                "10_in trying to be comically ahead of the sexism curve, it’s ended up feeling sexist itself.",
+                -0.6622334694049142
+            ],
+            [
+                "13_the details of the story seem utterly inseparable from, and continuous with, the riotously ornamental visual realms that it sets into motion.",
+                0.7573056172985361
+            ],
+            [
+                "15_barbie recognizes its own surreal existence: a world where perfect plastic figures wrestle with humanistic imperfections.",
+                0.837074292239129
+            ],
+            [
+                "17_barbie is surprisingly spiritual, treating the messiness and contradictions of womanhood with reverence.",
+                0.6195056393390691
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "16",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "4_greta gerwig serves up a frothy confection of fashion and fun coupled with searing social critique of the iconic doll in the movie barbie.",
+                0.8067644356789282
+            ],
+            [
+                "16_in gerwig’s hands, along with her co-writer noah baumbach, it’s sly and just about as subversive as a movie can be.",
+                0.715379262402994
+            ]
+        ],
+        "entities": {
+            "Greta Gerwig": {
+                "unique_args": [
+                    [
+                        "4_greta gerwig serves up a frothy confection of fashion and fun coupled with searing social critique of the iconic doll in the movie barbie.",
+                        0.8067644356789282
+                    ],
+                    [
+                        "16_in gerwig’s hands, along with her co-writer noah baumbach, it’s sly and just about as subversive as a movie can be.",
+                        0.715379262402994
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "16_in gerwig’s hands, along with her co-writer noah baumbach, it’s sly and just about as subversive as a movie can be.",
+                0.715379262402994
+            ]
+        ],
+        "entities": {
+            "Greta Gerwig": {
+                "unique_args": []
+            },
+            "Noah Baumbach": {
+                "unique_args": [
+                    [
+                        "16_in gerwig’s hands, along with her co-writer noah baumbach, it’s sly and just about as subversive as a movie can be.",
+                        0.715379262402994
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "18_robbie makes a genial ringmaster, with a terrific cast.",
+                0.7437872407227657
+            ],
+            [
+                "5_gerwig’s satire and the comedic chops of robbie and, especially, gosling fall into perfect rhythm once barbie and ken leave the candy-colored comforts of barbie land and ken discovers the patriarchy.",
+                0.8170072122350899
+            ]
+        ],
+        "entities": {
+            "Margot Robbie": {
+                "unique_args": [
+                    [
+                        "5_gerwig’s satire and the comedic chops of robbie and, especially, gosling fall into perfect rhythm once barbie and ken leave the candy-colored comforts of barbie land and ken discovers the patriarchy.",
+                        0.8170072122350899
+                    ]
+                ]
+            },
+            "Ryan Gosling": {
+                "unique_args": []
+            },
+            "America Ferrera": {
+                "unique_args": []
+            },
+            "Kate McKinnon": {
+                "unique_args": []
+            },
+            "Issa Rae": {
+                "unique_args": []
+            },
+            "Rhea Perlman": {
+                "unique_args": []
+            },
+            "Will Ferrell": {
+                "unique_args": []
+            },
+            "John Cena": {
+                "unique_args": []
+            },
+            "Michael Cera": {
+                "unique_args": []
+            },
+            "Ariana Greenblatt": {
+                "unique_args": []
+            },
+            "Ana Cruz Kayne": {
+                "unique_args": []
+            },
+            "Emma Mackey": {
+                "unique_args": []
+            },
+            "Hari Nef": {
+                "unique_args": []
+            },
+            "Alexandra Shipp": {
+                "unique_args": []
+            },
+            "Kingsley Ben-Adir": {
+                "unique_args": []
+            },
+            "Simu Liu": {
+                "unique_args": []
+            },
+            "Ncuti Gatwa": {
+                "unique_args": []
+            },
+            "Scott Evans": {
+                "unique_args": []
+            },
+            "Jamie Demetriou": {
+                "unique_args": []
+            },
+            "Connor Swindells": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"litte pink house\" feels like it's only ever checking off the requisite moments of civic outrage, while failing to connect with viewers on a level that's deeper than the average made-for-tv issue-of-the-week movie.",
+                -0.6876794548457629
+            ],
+            [
+                "2_keener's performance keeps the film grounded even as blunt scenes of the opposing camp's machinations flirt with soap opera villainy.",
+                0.6246274162515464
+            ],
+            [
+                "3_the film tells the history-making conflict in terms that are personal, down to earth and utterly relatable.",
+                0.7293890266754955
+            ],
+            [
+                "5_the movie often seems to have a hard time making up its mind whether it wants to be the insider or mean girls.",
+                -0.7538170413215156
+            ],
+            [
+                "8_it's an entertaining movie",
+                0.8141292997980069
+            ],
+            [
+                "9_like erin brockovich for eminent domain, little pink house does well to explain the thorny legal issue at its center without getting bogged down in minutiae.",
+                0.5042363801609764
+            ],
+            [
+                "10_little pink house brings urgency to a fascinating, underexplored theme.",
+                0.6956589548026303
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Courtney Balaker": {
+                "args": [
+                    [
+                        "3_writer/director courtney balaker draws the ideal amount of individual conflict to balance the ongoing court battles.",
+                        0.642390313305395
+                    ],
+                    [
+                        "6_if the story's political and personal nuances have been a bit flattened in balaker's script, keeping proceedings in a movie-of-the-week register, this \"little pink house\" nonetheless retains what property developers would call good bones.",
+                        0.653381708078219
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jeanne Tripplehorn": {
+                "args": []
+            },
+            "Aaron Douglas": {
+                "args": []
+            },
+            "Colin Cunningham": {
+                "args": []
+            },
+            "Catherine Keener": {
+                "args": [
+                    [
+                        "4_the cast works diligently, and keener is scrappy ",
+                        0.6144953433566799
+                    ],
+                    [
+                        "7_palely photographed and anchored by a quiet, rather weary performance from ms. keener, \"little pink house\" is a peculiarly enervated affair.",
+                        0.6964938864139837
+                    ]
+                ]
+            },
+            "Callum Keith Rennie": {
+                "args": []
+            },
+            "Miranda Frigon": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_keener's performance keeps the film grounded even as blunt scenes of the opposing camp's machinations flirt with soap opera villainy.",
+                0.6246274162515464
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Courtney Balaker": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_if the story's political and personal nuances have been a bit flattened in balaker's script, keeping proceedings in a movie-of-the-week register, this \"little pink house\" nonetheless retains what property developers would call good bones.",
+                0.653381708078219
+            ]
+        ]
+    }
+}

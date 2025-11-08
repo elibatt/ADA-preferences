@@ -1,0 +1,141 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "14_he's aware of what we expect narratively from a 'star wars' movie, and delights in subverting it.",
+                0.8024738246411454
+            ],
+            [
+                "3_ the need to accept imperfection and keep going becomes one of the movie's themes...",
+                0.6955725996506728
+            ],
+            [
+                "17_the last jedi probably does the best job of any star wars film of capturing the allure of the dark side and the spiritual turmoil that would lead to-and also result from-its embrace.",
+                0.8588818034648542
+            ],
+            [
+                "6",
+                1
+            ],
+            [
+                "7",
+                1
+            ],
+            [
+                "10",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "6_rian johnson leavens political high seriousness and fan-service tear-jerking with enough charm and humour to prevent the last jedi becoming the biggest downer ever delivered at christmas by the walt disney company.",
+                0.7293663099289059
+            ],
+            [
+                "7_as the third act approaches, the crescendo of air-punching interludes accelerates, eliciting gasps, cheers and omg whoops from an audience whom johnson treats with respect, affection, and evident admiration.",
+                0.8037728383722832
+            ],
+            [
+                "10_with the last jedi, johnson finds that sweet spot of reverentially seeing out the old to firmly make way for a new, perhaps final, space odyssey.",
+                0.7173182303428393
+            ]
+        ],
+        "entities": {
+            "Rian Johnson": {
+                "unique_args": [
+                    [
+                        "6_rian johnson leavens political high seriousness and fan-service tear-jerking with enough charm and humour to prevent the last jedi becoming the biggest downer ever delivered at christmas by the walt disney company.",
+                        0.7293663099289059
+                    ],
+                    [
+                        "7_as the third act approaches, the crescendo of air-punching interludes accelerates, eliciting gasps, cheers and omg whoops from an audience whom johnson treats with respect, affection, and evident admiration.",
+                        0.8037728383722832
+                    ],
+                    [
+                        "10_with the last jedi, johnson finds that sweet spot of reverentially seeing out the old to firmly make way for a new, perhaps final, space odyssey.",
+                        0.7173182303428393
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Rian Johnson": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Mark Hamill": {
+                "unique_args": []
+            },
+            "Carrie Fisher": {
+                "unique_args": []
+            },
+            "Adam Driver": {
+                "unique_args": []
+            },
+            "Daisy Ridley": {
+                "unique_args": []
+            },
+            "John Boyega": {
+                "unique_args": []
+            },
+            "Oscar Isaac": {
+                "unique_args": []
+            },
+            "Andy Serkis": {
+                "unique_args": []
+            },
+            "Lupita Nyong'o": {
+                "unique_args": []
+            },
+            "Domhnall Gleeson": {
+                "unique_args": []
+            },
+            "Anthony Daniels": {
+                "unique_args": []
+            },
+            "Gwendoline Christie": {
+                "unique_args": []
+            },
+            "Kelly Marie Tran": {
+                "unique_args": []
+            },
+            "Laura Dern": {
+                "unique_args": []
+            },
+            "Benicio del Toro": {
+                "unique_args": []
+            },
+            "Joonas Suotamo": {
+                "unique_args": []
+            },
+            "Ngô Thanh Vân": {
+                "unique_args": []
+            },
+            "Warwick Davis": {
+                "unique_args": []
+            },
+            "Jimmy Vee": {
+                "unique_args": []
+            },
+            "Frank Oz": {
+                "unique_args": []
+            },
+            "Billie Lourd": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

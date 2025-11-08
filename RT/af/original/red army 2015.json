@@ -1,0 +1,125 @@
+{
+    "director": {
+        "args": [
+            [
+                "20_ the director lets their charmingly offhand relationship bleed onto the screen, flipped birds and all.",
+                0.6076131853442577
+            ]
+        ],
+        "entities": {
+            "Gabe Polsky": {
+                "args": [
+                    [
+                        "1_it's a mark of polsky's ambition and canniness that he braids hockey not just with geopolitics ",
+                        0.512829914303014
+                    ],
+                    [
+                        "4_it's a story of global consequences and historic proportions, and of astounding athleticism and synchronicity - and filmmaker polsky ices it.",
+                        0.7393473254998043
+                    ],
+                    [
+                        "9_as they say in hockey, polsky pulls off a hat trick.",
+                        0.5083738572116514
+                    ],
+                    [
+                        "12_red army is gabe polsky's compelling ",
+                        0.6023910671118076
+                    ],
+                    [
+                        "14_emotionally charged, viscerally exciting and consistently enlightening, gabe polsky's \"red army\" is a sports documentary like no other.",
+                        0.6823087851996219
+                    ],
+                    [
+                        "18_while polsky's film expertly recounts the political and cultural tensions of the time through archival clips and revealing new interviews, it really comes to life whenever fetisov is on camera.",
+                        0.6741771549404263
+                    ],
+                    [
+                        "20_the mercurial fetisov is the kind of interview subject filmmakers dream about, and polsky knows it",
+                        0.6322009287765881
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Vladislav Tretiak": {
+                "args": []
+            },
+            "Vladimir Pozner": {
+                "args": []
+            },
+            "Vyacheslav Fetisov": {
+                "args": [
+                    [
+                        "18_while polsky's film expertly recounts the political and cultural tensions of the time through archival clips and revealing new interviews, it really comes to life whenever fetisov is on camera.",
+                        0.6741771549404263
+                    ],
+                    [
+                        "20_the mercurial fetisov is the kind of interview subject filmmakers dream about, and polsky knows it",
+                        0.6322009287765881
+                    ]
+                ]
+            },
+            "Viacheslav Fetisov": {
+                "args": []
+            },
+            "Scotty Bowman": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gabe Polsky": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_wittily edited and beautifully scored, \"red army\" is not just a terrific film ",
+                0.6952533148179999
+            ],
+            [
+                "7_from its zippy opening to the hilariously unexpected finale, \"red army\" never misses a beat.",
+                -0.5457300553024003
+            ],
+            [
+                "11_audiences knowing nothing about hockey will still be able to appreciate this movie as a somewhat jaunty take on the cold war and its aftermath - and resurgence.",
+                0.6281172800811777
+            ],
+            [
+                "16_with dark humor and an epic sweep characteristic of executive producer werner herzog, red army sides not with nations or ideologies ",
+                0.6977319126707004
+            ],
+            [
+                "21_red army has laid the groundwork for something complex: it reveals the strengths of the soviet athletic program and the weaknesses of our own, which shares the same flaws as capitalism.",
+                0.7576489306404388
+            ],
+            [
+                "22_\"red army\" touches on themes of friendship and perseverance, and also offers a compact and vivid summary of recent russian history.",
+                0.7478531244924536
+            ],
+            [
+                "23_the film's curiosity about the people who played for the soviet's national team naturally unearths a reservoir of humanity.",
+                0.6449884509445274
+            ],
+            [
+                "24_ still, the film is entertaining even for ardent nonfans.",
+                0.6998791794584572
+            ],
+            [
+                "25_you don't have to be a sports fan or a cold war buff to relish the compelling political investigation and fierce rink action in this brisk, terrific movie.",
+                -0.5162338065033953
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_this is a movie that doesn't quite come together, on both thematic and tonal levels, even ",
+                -0.5111021145342475
+            ],
+            [
+                "6_a story that, for all its well-crafted and sharply observed drama and its flamboyant comedy, is something more than a work of personal cinema",
+                0.8365125178938191
+            ],
+            [
+                "7_italian drama mia madre is an either/or film, a humorous and poignant character study that frequently becomes an ensemble piece.",
+                0.6523342027218142
+            ],
+            [
+                "8_- they're all there in \"mia madre,\" bumping up against one another beautifully.",
+                -0.5046282081704851
+            ],
+            [
+                "14_the most personal parts of mia madre are also the most thinly conceived.",
+                0.5662227126708607
+            ],
+            [
+                "16_everything in \"mia madre\"-happenings, memories, and idle fancies-feels deftly interleaved.",
+                0.5276719255617376
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Nanni Moretti": {
+                "args": [
+                    [
+                        "10_mia madre is most poignant when it finds a tone much like moretti's 2001 la stanza del figlio (the son's room).",
+                        0.6386539660582538
+                    ],
+                    [
+                        "17_good, strong, understated filmmaking is enlivened by moretti's characteristic wry blend of drama and humor.",
+                        0.77890761215911
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anna Bellato": {
+                "args": []
+            },
+            "Stefano Abbati": {
+                "args": []
+            },
+            "John Turturro": {
+                "args": [
+                    [
+                        "1_the general air of quiet intelligence throws the occasional outbursts of loud emotion into affecting relief, and john turturro shines as the sort of unintentionally difficult star he doesn't seem like he'd be in real life.",
+                        -0.5262220892754903
+                    ],
+                    [
+                        "3_fortunately the movie-production scenes deliver plenty of laughs, courtesy of john turturro.",
+                        0.5962411865361359
+                    ],
+                    [
+                        "4_the biggest reason to see the italian dramedy \"mia madre\" can be summed up in two words: john turturro.",
+                        -0.6336989127129964
+                    ]
+                ]
+            },
+            "Giulia Lazzarini": {
+                "args": []
+            },
+            "Nanni Moretti": {
+                "args": [
+                    [
+                        "10_mia madre is most poignant when it finds a tone much like moretti's 2001 la stanza del figlio (the son's room).",
+                        0.6386539660582538
+                    ],
+                    [
+                        "17_good, strong, understated filmmaking is enlivened by moretti's characteristic wry blend of drama and humor.",
+                        0.77890761215911
+                    ]
+                ]
+            },
+            "Lorenzo Gioielli": {
+                "args": []
+            },
+            "Enrico Ianniello": {
+                "args": []
+            },
+            "Beatrice Mancini": {
+                "args": []
+            },
+            "Pietro Ragusa": {
+                "args": []
+            },
+            "Margherita Buy": {
+                "args": [
+                    [
+                        "13_as considerable as her gifts may be, buy is ultimately unable to hold \"mia madre\" together.",
+                        -0.5078685037199885
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_italian drama mia madre is an either/or film, a humorous and poignant character study that frequently becomes an ensemble piece.",
+                0.6523342027218142
+            ]
+        ],
+        "entities": {
+            "Francesco Piccolo": {
+                "args": []
+            },
+            "Valia Santella": {
+                "args": []
+            },
+            "Nanni Moretti": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David L. Cunningham": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Nick Boraine": {
+                "args": []
+            },
+            "Matt Dillon": {
+                "args": []
+            },
+            "Ryan Potter": {
+                "args": []
+            },
+            "Juliet Mills": {
+                "args": []
+            },
+            "Jim Caviezel": {
+                "args": []
+            },
+            "Olivia Ritchie": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Christian Parkes": {
+                "args": []
+            },
+            "David L. Cunningham": {
+                "args": []
+            }
+        }
+    }
+}

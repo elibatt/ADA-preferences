@@ -1,0 +1,58 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Karry Wang": {
+                "args": []
+            },
+            "Dong Zijian": {
+                "args": []
+            },
+            "Dilraba Dilmurat": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": []
+            },
+            "Hong-Chi Lee": {
+                "args": []
+            },
+            "Hao Qin": {
+                "args": []
+            },
+            "Duling Chen": {
+                "args": []
+            },
+            "Lei Hao": {
+                "args": []
+            },
+            "Binlong Pan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_namiya is a case of \"if you've seen the first one, don't bother.\"",
+                -0.5250164404316702
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jie Han": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

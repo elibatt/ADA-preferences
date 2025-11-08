@@ -1,0 +1,104 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_it doesn't delve too deeply into its subject's psyche or provide much context for his work, ",
+                -0.5851500269607965
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jared Leto": {
+                "args": []
+            },
+            "Eric West": {
+                "args": []
+            },
+            "Michelle Stein": {
+                "args": []
+            },
+            "Kelly Osbourne": {
+                "args": []
+            },
+            "Devon Aoki": {
+                "args": []
+            },
+            "Eva Chen": {
+                "args": []
+            },
+            "Paris Hilton": {
+                "args": []
+            },
+            "Rihanna": {
+                "args": []
+            },
+            "Jeremy Scott": {
+                "args": [
+                    [
+                        "2_if you've never heard of the l.a.-based fashion designer, adidas collaborator and enthusiastic appropriator of pop culture, then vlad yudin's documentary \"jeremy scott: the people's designer\" offers a good thumbnail sketch.",
+                        0.8534915061534234
+                    ]
+                ]
+            },
+            "Carlyne Cerf deDudzeele": {
+                "args": []
+            },
+            "Nicky Hilton": {
+                "args": []
+            },
+            "Rita Ora": {
+                "args": []
+            },
+            "Arianne Phillips": {
+                "args": []
+            },
+            "Lady Gaga": {
+                "args": []
+            },
+            "Katy Perry": {
+                "args": []
+            },
+            "Perez Hilton": {
+                "args": []
+            },
+            "Rakim Mayers": {
+                "args": []
+            },
+            "Miley Cyrus": {
+                "args": []
+            },
+            "Chairin Lee": {
+                "args": []
+            },
+            "Pablo Olea": {
+                "args": []
+            },
+            "ASAP Rocky": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Vlad Yudin": {
+                "args": [
+                    [
+                        "2_if you've never heard of the l.a.-based fashion designer, adidas collaborator and enthusiastic appropriator of pop culture, then vlad yudin's documentary \"jeremy scott: the people's designer\" offers a good thumbnail sketch.",
+                        0.8534915061534234
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"the family fang\" is kind of messy ",
+                0.6701517107834918
+            ],
+            [
+                "2_ the film doesn't leave a mark.",
+                -0.6702381861253763
+            ],
+            [
+                "5_even when the family fang stretches credulity, we stay with it.",
+                0.5350344248381584
+            ],
+            [
+                "6_there are hints of awkward comedy in the film's surface structure, ",
+                -0.5804855063475767
+            ],
+            [
+                "7_the fang's eccentric pranks are enough to give the movie a fresh and amusing twist on the typical family drama about the psychic wounds of childhood, and the lengths to which kids will go in seeking their parents' approval.",
+                0.8029995318125474
+            ],
+            [
+                "14_while the cast keeps its head down and reaches for genuine emotion, the movie eventually manages to sentimentalize even what it sees as its own tough-mindedness.",
+                0.6045961320750429
+            ],
+            [
+                "15_the family fang plays it straight, knowing that the story is peculiar enough on its own.",
+                0.631960181245637
+            ],
+            [
+                "18_merely \"playing with concepts\" doesn't quite add up to a film, and \"the family fang,\" adapted from kevin wilson's novel, feels like an extended therapy session.",
+                -0.5114878948468395
+            ],
+            [
+                "22_the family fang goes deep into dysfunction, ",
+                0.6087330427173681
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jason Bateman": {
+                "args": [
+                    [
+                        "1_ it's a definite step forward for bateman as a director ...",
+                        0.620231916272735
+                    ],
+                    [
+                        "4_fang is directed by bateman with a sensitivity that the story's sour whimsy doesn't quite deserve.",
+                        -0.6103276683292458
+                    ],
+                    [
+                        "13_jason bateman has an affinity for directing.",
+                        0.5383642231960227
+                    ],
+                    [
+                        "16_mr. bateman's direction of the actors is especially sensitive in this and other tricky scenes, showing a delicacy with emotional textures that isn't always matched by the story.",
+                        0.6908783654308445
+                    ],
+                    [
+                        "20_and bateman - who has his own history as a manipulated teen performer - brings a palpable pain to his character.",
+                        0.7109128911298266
+                    ],
+                    [
+                        "23_jason bateman proves that 'bad words' was no fluke with this sharp and affecting dysfunctional-family portrait.",
+                        0.5780961258959643
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jack McCarthy": {
+                "args": []
+            },
+            "Zariah Singletary": {
+                "args": []
+            },
+            "David Kubicka": {
+                "args": []
+            },
+            "Robbie Tann": {
+                "args": []
+            },
+            "Anthony Ferrara": {
+                "args": []
+            },
+            "Genevieve Adams": {
+                "args": []
+            },
+            "Jason Bateman": {
+                "args": [
+                    [
+                        "1_ it's a definite step forward for bateman as a director ...",
+                        0.620231916272735
+                    ],
+                    [
+                        "4_fang is directed by bateman with a sensitivity that the story's sour whimsy doesn't quite deserve.",
+                        -0.6103276683292458
+                    ],
+                    [
+                        "13_jason bateman has an affinity for directing.",
+                        0.5383642231960227
+                    ],
+                    [
+                        "16_mr. bateman's direction of the actors is especially sensitive in this and other tricky scenes, showing a delicacy with emotional textures that isn't always matched by the story.",
+                        0.6908783654308445
+                    ],
+                    [
+                        "20_and bateman - who has his own history as a manipulated teen performer - brings a palpable pain to his character.",
+                        0.7109128911298266
+                    ],
+                    [
+                        "23_jason bateman proves that 'bad words' was no fluke with this sharp and affecting dysfunctional-family portrait.",
+                        0.5780961258959643
+                    ]
+                ]
+            },
+            "Edward Mitchell": {
+                "args": []
+            },
+            "Josh Pais": {
+                "args": []
+            },
+            "Samantha Hlavacek": {
+                "args": []
+            },
+            "Taylor Rose": {
+                "args": []
+            },
+            "Christopher Walken": {
+                "args": []
+            },
+            "Linda Emond": {
+                "args": []
+            },
+            "Brian Carter": {
+                "args": []
+            },
+            "Jason Butler Harner": {
+                "args": []
+            },
+            "Kent vanKuller": {
+                "args": []
+            },
+            "Claire Glassford": {
+                "args": []
+            },
+            "Maryann Plunkett": {
+                "args": []
+            },
+            "Venus Ariel": {
+                "args": []
+            },
+            "Mackenzie Brooke Smith": {
+                "args": []
+            },
+            "Patrick Mitchell": {
+                "args": []
+            },
+            "Scott Shepherd": {
+                "args": []
+            },
+            "Paige Rossi": {
+                "args": []
+            },
+            "Justin Arnold": {
+                "args": []
+            },
+            "Allison Jean White": {
+                "args": []
+            },
+            "Ethan Coskay": {
+                "args": []
+            },
+            "Frank Harts": {
+                "args": []
+            },
+            "Guy Veryzer": {
+                "args": []
+            },
+            "Frankie Verroca": {
+                "args": []
+            },
+            "Isaac Galizio": {
+                "args": []
+            },
+            "Luca Bello": {
+                "args": []
+            },
+            "Grainger Hines": {
+                "args": []
+            },
+            "Steve Witting": {
+                "args": []
+            },
+            "Joe Lanza": {
+                "args": []
+            },
+            "Ashlynn Alexander": {
+                "args": []
+            },
+            "Suzan Perry": {
+                "args": []
+            },
+            "Adam Shippey": {
+                "args": []
+            },
+            "Jeremy Kruse": {
+                "args": []
+            },
+            "Gabriel Ebert": {
+                "args": []
+            },
+            "Seth Barrish": {
+                "args": []
+            },
+            "Audrey Lynn Weston": {
+                "args": []
+            },
+            "Kevin T. Collins": {
+                "args": []
+            },
+            "Jason Zell": {
+                "args": []
+            },
+            "John Tarry": {
+                "args": []
+            },
+            "Kyle Donnery": {
+                "args": []
+            },
+            "Jaiden Kaine": {
+                "args": []
+            },
+            "Kathryn Hahn": {
+                "args": []
+            },
+            "Danny Burstein": {
+                "args": []
+            },
+            "Marin Ireland": {
+                "args": []
+            },
+            "Nicole Kidman": {
+                "args": [
+                    [
+                        "0_bateman and nicole kidman, too old to convincingly pull off this sibling pair, would have fared better as the parents.",
+                        -0.6189681708505
+                    ],
+                    [
+                        "13_he and kidman make a potent team in a provocative film that questions the limits of art in a world that forgets to be human.",
+                        0.8203609809298424
+                    ]
+                ]
+            },
+            "Michael Chernus": {
+                "args": []
+            },
+            "Abigail Friend": {
+                "args": []
+            },
+            "MaameYaa Boafo": {
+                "args": []
+            },
+            "Eugenia Kuzmina": {
+                "args": []
+            },
+            "Dylan Page": {
+                "args": [
+                    [
+                        "19_bateman has made the kind of adaptation that unintentionally advertises its source material, as in: all of this must have worked so much better on the page.",
+                        0.5663966644795406
+                    ]
+                ]
+            },
+            "Ryan DeLuca": {
+                "args": []
+            },
+            "Brian J. Carter": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_while the cast keeps its head down and reaches for genuine emotion, the movie eventually manages to sentimentalize even what it sees as its own tough-mindedness.",
+                0.6045961320750429
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "David Lindsay-Abaire": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_there's nothing predictable about any of the angles, and mr. abaire's script reveals a surprise around every corner.",
+                -0.631773672812796
+            ],
+            [
+                "20_and bateman - who has his own history as a manipulated teen performer - brings a palpable pain to his character.",
+                0.7109128911298266
+            ]
+        ]
+    }
+}

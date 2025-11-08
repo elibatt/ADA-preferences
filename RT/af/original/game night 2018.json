@@ -1,0 +1,165 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie is a hollow throwback to classic comedy, and it shines only by contrast with dull studio competition.",
+                -0.569919870074303
+            ],
+            [
+                "2_game night is canny enough to go full-throttle with the absurd and not bother trying to do much with its meager dramatic and/or sentimental elements.",
+                -0.7919082403071342
+            ],
+            [
+                "4_\"game night\" is a blast, a sharp adult comedy that earns genuine laughs without going lowbrow or diving into raunchy humor.",
+                0.735892217386548
+            ],
+            [
+                "5_the game night co-directors deliver a stylish and good-looking movie.",
+                0.6743919478040185
+            ],
+            [
+                "13_like a real-life game night, the comedy may not leave a lasting impression, ",
+                0.6907915023650336
+            ],
+            [
+                "16_shouldn't a movie called \"game night\" be entertaining?",
+                0.521181793160151
+            ],
+            [
+                "17_\"this will be a game night to remember,\" intones a character, early on in the film",
+                -0.5783318552631731
+            ],
+            [
+                "17_ this isn't true, as i've already forgotten most of this movie ",
+                -0.689378591288883
+            ],
+            [
+                "18_the fact that game night hits the mark more often than it hits a wall is cause for cheering.",
+                0.5969261366275241
+            ],
+            [
+                "20_this little movie will do just fine.",
+                0.5639525437104406
+            ],
+            [
+                "21_a charismatic ensemble cast, a sharp script and a few well-placed twists make game night one of the more enjoyable big studio comedies in recent memory.",
+                0.8382867346403906
+            ],
+            [
+                "22_lumpy lowbrow humor and characters as thin as a monopoly board mar game night, a comedy with an irresistible premise, ",
+                0.6026520444715414
+            ],
+            [
+                "23_a raucously funny film that has a knack for going right up to the edge of nastiness.",
+                0.8292519272537131
+            ],
+            [
+                "24_snappily paced and cleverly plotted, game night is the rare farce that exceeds low-ish expectations.",
+                0.6023970605705837
+            ],
+            [
+                "27_the whole movie is, actually, even if it pretty much evaporates on impact.",
+                -0.5738819504908984
+            ],
+            [
+                "28_as with any real game night, the company is more important than the game.",
+                0.6621794838551083
+            ],
+            [
+                "29_with a packed lineup of players and a board that covers far more area than you'd expect from a wide-release early spring lark, [game night] is a dark romp for all the players involved.",
+                0.5759688507036576
+            ],
+            [
+                "30_if game night were just a concoction, it might grow tiresome awfully fast.",
+                -0.6769443906709967
+            ],
+            [
+                "30_there's a nagging speck of humanity, or at least reasonably quick and cutting marital satire, that keeps the movie afloat.",
+                -0.5586413378177755
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Francis Daley": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "15_but thanks in part to a terrific cast, expert timing and an all-in aesthetic,",
+                0.8111179021615968
+            ],
+            [
+                "21_a charismatic ensemble cast, a sharp script and a few well-placed twists make game night one of the more enjoyable big studio comedies in recent memory.",
+                0.8382867346403906
+            ]
+        ],
+        "entities": {
+            "Rachel McAdams": {
+                "args": [
+                    [
+                        "10_but it's mcadams who's a pleasant surprise here,",
+                        0.729393480159215
+                    ],
+                    [
+                        "25_ms. mcadams is one of cinema's most accomplished and appealing comic actresses.",
+                        0.8190432152618836
+                    ]
+                ]
+            },
+            "Jason Bateman": {
+                "args": [
+                    [
+                        "3_the back and forth between mcadams and bateman is what makes game night sing (which is not to slight horgan's dry wit or magnussen's elegant idiocy or morris' magnificent denzel washington impression).",
+                        0.6207590498307632
+                    ],
+                    [
+                        "9_a four-hour documentary pitting bateman against mcadams in an epic settlers of catan match-up would have been significantly more interesting ...",
+                        -0.5978694944268068
+                    ],
+                    [
+                        "18_jason bateman and rachel mcadams make sure its always party time.",
+                        0.642879705223335
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_it's very funny, with a script by mark perez, and all the pieces fit together like a perfect rubix cube.",
+                0.8254612168545518
+            ],
+            [
+                "6_screenwriter mark perez knows the difference between simply making a reference and actually writing a joke - and while the jokes come ceaselessly, they are knowingly and (this turns out to be key) lightly offered.",
+                -0.5883443623203595
+            ],
+            [
+                "11_filled with knowing pop-culture references and deriving laughs from every key character, it's the kind of smart, fast-paced entertainment that makes a pretty delicate juggling act look easy.",
+                0.8637028783037841
+            ],
+            [
+                "12_it's not the most sophisticated character-based comedy in town, ",
+                0.591281608228656
+            ],
+            [
+                "17_\"this will be a game night to remember,\" intones a character, early on in the film",
+                -0.5783318552631731
+            ],
+            [
+                "21_a charismatic ensemble cast, a sharp script and a few well-placed twists make game night one of the more enjoyable big studio comedies in recent memory.",
+                0.8382867346403906
+            ]
+        ],
+        "entities": {}
+    }
+}

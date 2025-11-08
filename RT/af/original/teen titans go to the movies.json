@@ -1,0 +1,92 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Aaron Horvath": {
+                "args": []
+            },
+            "Peter Rida Michail": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Hynden Walch": {
+                "args": []
+            },
+            "Kristen Bell": {
+                "args": []
+            },
+            "Khary Payton": {
+                "args": []
+            },
+            "Greg Cipes": {
+                "args": []
+            },
+            "Will Arnett": {
+                "args": []
+            },
+            "Lil Yachty": {
+                "args": []
+            },
+            "Tara Strong": {
+                "args": []
+            },
+            "Halsey": {
+                "args": []
+            },
+            "Scott Menville": {
+                "args": []
+            },
+            "Nicolas Cage": {
+                "args": [
+                    [
+                        "5_to the movies\" is loud, cheery and fairly relentless in its assault on your rib cage.",
+                        -0.5035286091955646
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Michael Jelenic": {
+                "args": []
+            },
+            "Aaron Horvath": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_if this silly, silly movie accomplishes nothing else, it has rendered it utterly impossible for anyone to depict batman's origin onscreen, ever again, with a straight face.",
+                -0.8126251241136327
+            ],
+            [
+                "12_an infectiously goofy film, ",
+                0.6280163619139121
+            ],
+            [
+                "14_it's no small compliment to say that the feature film derived from teen titans go!",
+                0.5431752259995412
+            ],
+            [
+                "16_with its self-aware meta humor the movie is very much a deadpool for kids -- with direct nods to ryan reynolds' franchise for good measure.",
+                0.78962802376814
+            ],
+            [
+                "17_ any parent who tags along will likely chortle as the film gleefully skewers the world of superheroes and the film industry itself.",
+                0.7980687984292852
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

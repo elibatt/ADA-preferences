@@ -1,0 +1,428 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the new movie, as an act of pure storytelling, streams by with fluency and zip.",
+                0.7889038553867401
+            ],
+            [
+                "7_the film looks handmade, and this allows for a greater range of human emotion, too.",
+                0.6186605198586188
+            ],
+            [
+                "8_as with other installments, this is less a movie than an exercise in massaging a juvenile-minded audience that wants the experience to be new and familiar at the same time.",
+                -0.5556236187437288
+            ],
+            [
+                "20_this is a movie you don't want to end, ",
+                -0.6196394402792982
+            ],
+            [
+                "25_this is the film we're looking for. \"",
+                -0.507786488256243
+            ],
+            [
+                "28_it is precisely the star wars movie that you want it to be.",
+                0.6067035722006378
+            ],
+            [
+                "29_\"the force awakens\" feels like a genuine \"star wars\" movie, with well-executed battle scenes, light comic touches and a warm feel for its characters.",
+                0.8723447913526212
+            ],
+            [
+                "37_[the film] is a state-of-the-art throwback, both retro and post-modern in its self-awareness.",
+                0.7608557203251578
+            ],
+            [
+                "40_the force awakens is no more and no less than the movie that made us love it in the first place.",
+                0.5117345532020332
+            ],
+            [
+                "51_and that's just as it should be: a good movie, nothing more.",
+                0.5209171500098393
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "J.J. Abrams": {
+                "args": [
+                    [
+                        "3_that's what's so impressive about the tricky balancing act abrams has pulled off with the force awakens: he's made a movie that's simultaneously gripping and a huge release.",
+                        0.8883563899387337
+                    ],
+                    [
+                        "4_with the force awakens, abrams has begun one of the most important reclamation projects of our time: the complete erasure from cultural memory of the phantom menace and its sequels.",
+                        0.8540167713717912
+                    ],
+                    [
+                        "12_what [abrams has] done is to remake star wars:",
+                        0.5605213984133596
+                    ],
+                    [
+                        "14_somewhere along the way, abrams begins delivering everything we expect, as opposed to those nebulous wonders we didn't know we wanted.",
+                        -0.5533109813954649
+                    ],
+                    [
+                        "18_for the first hour or so of the force awakens, director j. j. abrams gives you everything you hoped for, and even exceeds your expectations.",
+                        0.7213134460730277
+                    ],
+                    [
+                        "23_[abrams ] has made an adoring copy of star wars, seeking to correct its perceived flaws, without understanding that nothing about that movie's context or meaning or enormous cultural impact can be duplicated.",
+                        0.6149435774233074
+                    ],
+                    [
+                        "24_what abrams has done is find and return the ingredient crucial to the original three films in the franchise that was sorely lacking in the second round: fun.",
+                        -0.5595294108716973
+                    ],
+                    [
+                        "45_from the iconic opening crawl through the wordless last frames of star wars: episode vii - the force awakens, director j.j. abrams steers pop-culture's most beloved sci-fi saga in an exhilarating new direction.",
+                        0.8679385653402305
+                    ],
+                    [
+                        "49_for impressive stretches [abrams] achieves the action-packed buoyancy of the old saturday morning serials that partly inspired star wars in the first place.",
+                        0.6417137735671347
+                    ],
+                    [
+                        "52_the rollicking, space-opera spirit of george lucas's original trilogy (you can safely forget the second trio of cynical, tricked-up prequels) emanates from every frame of j.j. abrams euphoric sequel.",
+                        0.7027800884943864
+                    ],
+                    [
+                        "54_the director, j.j. abrams, recaptures the pop lightness that made the first star wars seem simultaneously eternal and effervescent.",
+                        0.8072215638198499
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Michael Arndt": {
+                "args": []
+            },
+            "J.J. Abrams": {
+                "args": []
+            },
+            "Lawrence Kasdan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Matt Johnson": {
+                "args": []
+            },
+            "Claudia Sermbezis": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": []
+            },
+            "Iko Uwais": {
+                "args": []
+            },
+            "Gwendoline Christie": {
+                "args": []
+            },
+            "Simon Pegg": {
+                "args": []
+            },
+            "Nigel Godrich": {
+                "args": []
+            },
+            "Tosin Cole": {
+                "args": []
+            },
+            "Adam Driver": {
+                "args": []
+            },
+            "Kenny Baker": {
+                "args": []
+            },
+            "Morgan Dameron": {
+                "args": []
+            },
+            "Joonas Suotamo": {
+                "args": []
+            },
+            "Jim McGrath": {
+                "args": []
+            },
+            "Harriet Walter": {
+                "args": []
+            },
+            "Lupita Nyong'o": {
+                "args": []
+            },
+            "Dave Chapman": {
+                "args": []
+            },
+            "Kipsang Rotich": {
+                "args": []
+            },
+            "Gerald W. Abrams": {
+                "args": [
+                    [
+                        "3_that's what's so impressive about the tricky balancing act abrams has pulled off with the force awakens: he's made a movie that's simultaneously gripping and a huge release.",
+                        0.8883563899387337
+                    ],
+                    [
+                        "4_with the force awakens, abrams has begun one of the most important reclamation projects of our time: the complete erasure from cultural memory of the phantom menace and its sequels.",
+                        0.8540167713717912
+                    ],
+                    [
+                        "12_what [abrams has] done is to remake star wars:",
+                        0.5605213984133596
+                    ],
+                    [
+                        "14_somewhere along the way, abrams begins delivering everything we expect, as opposed to those nebulous wonders we didn't know we wanted.",
+                        -0.5533109813954649
+                    ],
+                    [
+                        "18_for the first hour or so of the force awakens, director j. j. abrams gives you everything you hoped for, and even exceeds your expectations.",
+                        0.7213134460730277
+                    ],
+                    [
+                        "23_[abrams ] has made an adoring copy of star wars, seeking to correct its perceived flaws, without understanding that nothing about that movie's context or meaning or enormous cultural impact can be duplicated.",
+                        0.6149435774233074
+                    ],
+                    [
+                        "24_what abrams has done is find and return the ingredient crucial to the original three films in the franchise that was sorely lacking in the second round: fun.",
+                        -0.5595294108716973
+                    ],
+                    [
+                        "45_from the iconic opening crawl through the wordless last frames of star wars: episode vii - the force awakens, director j.j. abrams steers pop-culture's most beloved sci-fi saga in an exhilarating new direction.",
+                        0.8679385653402305
+                    ],
+                    [
+                        "49_for impressive stretches [abrams] achieves the action-packed buoyancy of the old saturday morning serials that partly inspired star wars in the first place.",
+                        0.6417137735671347
+                    ],
+                    [
+                        "52_the rollicking, space-opera spirit of george lucas's original trilogy (you can safely forget the second trio of cynical, tricked-up prequels) emanates from every frame of j.j. abrams euphoric sequel.",
+                        0.7027800884943864
+                    ],
+                    [
+                        "54_the director, j.j. abrams, recaptures the pop lightness that made the first star wars seem simultaneously eternal and effervescent.",
+                        0.8072215638198499
+                    ]
+                ]
+            },
+            "Miltos Yerolemou": {
+                "args": []
+            },
+            "Carrie Fisher": {
+                "args": []
+            },
+            "Maisie Richardson-Sellers": {
+                "args": []
+            },
+            "Jessica Henwick": {
+                "args": []
+            },
+            "Pip Torrens": {
+                "args": []
+            },
+            "Hannah John-Kamen": {
+                "args": []
+            },
+            "Andrew Jack": {
+                "args": []
+            },
+            "Leanne Best": {
+                "args": [
+                    [
+                        "22_a triumphant return to form for the franchise - the best of the films since the empire strikes back...",
+                        0.8287367913778103
+                    ],
+                    [
+                        "26_the force awakens isn't just one the finest movies of 2015, it's the best movie of the year, full stop.",
+                        0.7814500808550477
+                    ],
+                    [
+                        "31_the force awakens\" is only at its best in fits and starts, its success dependent on who of its mix of franchise veterans and first-timers is on the screen.",
+                        0.638921520219305
+                    ],
+                    [
+                        "33_the seventh installment in the series, started by george lucas in 1977, is the best star wars sequel yet and one of the best films of 2015.",
+                        0.94087695591706
+                    ],
+                    [
+                        "38_the force awakens is commercial american moviemaking at its best.",
+                        0.7875453333376938
+                    ],
+                    [
+                        "43_this film fits into the franchise's much-debated canon, and is the best installment since the empire strikes back, a long time ago in a galaxy far, far away.",
+                        0.574511393343859
+                    ]
+                ]
+            },
+            "John Boyega": {
+                "args": [
+                    [
+                        "38_ridley, boyega and isaac make equally charismatic heroes, and driver is surprisingly effective as the sinister ren.",
+                        0.7658479806571444
+                    ]
+                ]
+            },
+            "Mark Hamill": {
+                "args": []
+            },
+            "Brian Herring": {
+                "args": []
+            },
+            "Bill Hader": {
+                "args": []
+            },
+            "Billie Lourd": {
+                "args": []
+            },
+            "Warwick Davis": {
+                "args": []
+            },
+            "Stefan Grube": {
+                "args": []
+            },
+            "Richard Riddell": {
+                "args": []
+            },
+            "Sebastian Armesto": {
+                "args": []
+            },
+            "Emun Elliott": {
+                "args": []
+            },
+            "Andy Serkis": {
+                "args": []
+            },
+            "Jack Laskey": {
+                "args": []
+            },
+            "Victor McGuire": {
+                "args": []
+            },
+            "Pip Andersen": {
+                "args": []
+            },
+            "Anthony Daniels": {
+                "args": []
+            },
+            "James McArdle": {
+                "args": []
+            },
+            "Tom Edden": {
+                "args": []
+            },
+            "Crystal Clarke": {
+                "args": []
+            },
+            "Mark Stanley (VI)": {
+                "args": []
+            },
+            "Ben Schwartz": {
+                "args": []
+            },
+            "D.C. Barns": {
+                "args": []
+            },
+            "Jefferson Hall": {
+                "args": []
+            },
+            "Yahan Ruhian": {
+                "args": []
+            },
+            "Thomas Sangster": {
+                "args": []
+            },
+            "Michael Giacchino": {
+                "args": []
+            },
+            "Judah Friedlander": {
+                "args": []
+            },
+            "Sasha Frost": {
+                "args": []
+            },
+            "Brian Vernel Bala": {
+                "args": []
+            },
+            "Francesca Longrigg": {
+                "args": []
+            },
+            "Ken Leung": {
+                "args": []
+            },
+            "Cailey Fleming": {
+                "args": []
+            },
+            "Tim Rose": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Harrison Ford": {
+                "args": []
+            },
+            "Max von Sydow": {
+                "args": []
+            },
+            "Greg Grunberg": {
+                "args": []
+            },
+            "Rocky Marshall": {
+                "args": []
+            },
+            "Kiran Shah": {
+                "args": []
+            },
+            "Daisy Ridley": {
+                "args": [
+                    [
+                        "9_boyega's finn and ridley's rey are brave, funny, and admirable ",
+                        0.7395033808776723
+                    ],
+                    [
+                        "13_we get to spend a lot of fun and/or dramatic time with ford's solo, while ridley's rey and boyega's finn give us a pair of dynamic new heroes to follow in future star wars episodes.",
+                        0.8137408925152607
+                    ]
+                ]
+            },
+            "Mike Quinn": {
+                "args": []
+            },
+            "Erik Bauersfeld": {
+                "args": []
+            },
+            "Kate Fleetwood": {
+                "args": []
+            },
+            "Anna Brewster": {
+                "args": []
+            },
+            "Philicia Saunders": {
+                "args": []
+            },
+            "Dixie Arnold": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_ improving on the acting, the effects, and the dialogue",
+                -0.5110636336023129
+            ],
+            [
+                "36_the force awakens has succeeded where it counts most, in creating a cast of characters that viewers can spend the next several years rooting for, especially the spirited, resourceful heroine at its center.",
+                0.8256785205377593
+            ]
+        ]
+    }
+}

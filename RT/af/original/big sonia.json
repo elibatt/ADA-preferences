@@ -1,0 +1,57 @@
+{
+    "acting": {
+        "entities": {
+            "Caroline Kennedy": {
+                "args": []
+            },
+            "SuEllen Fried": {
+                "args": []
+            },
+            "Regina Kort": {
+                "args": []
+            },
+            "Morrie Warshawski": {
+                "args": []
+            },
+            "Debbie Warshawski": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Eric Frith": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_filmed with great respect and palpable love for its subject, \"big sonia\" is one of those documentaries that seems to bring its own light - just like the woman at its center.",
+                0.8629942928688115
+            ],
+            [
+                "4_ \"big sonia\" brings little perspective to her story.",
+                0.6142191671358918
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Todd Soliday": {
+                "args": []
+            },
+            "Leah Warshawski": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

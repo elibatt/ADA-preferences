@@ -1,0 +1,67 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_a movie that combines kinetic stunts with exotic locations on a very grand scale.",
+                0.8102134762157628
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "0_kung-fu yoga scratches fans' itch for no-nonsense, no-pretense chan fare - in which he isn't second-banana to a western star, or married to a director who thinks vfx are required to make chan's stunts more impressive.",
+                -0.7112685723168357
+            ]
+        ],
+        "entities": {
+            "Stanley Tong": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sonu Sood": {
+                "args": []
+            },
+            "Amyra Dastur": {
+                "args": []
+            },
+            "Aarif Rahman": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": [
+                    [
+                        "0_kung-fu yoga scratches fans' itch for no-nonsense, no-pretense chan fare - in which he isn't second-banana to a western star, or married to a director who thinks vfx are required to make chan's stunts more impressive.",
+                        -0.7112685723168357
+                    ],
+                    [
+                        "2_so miscalculated that it briefly made me forget why i love jackie chan films.",
+                        0.5239796128700012
+                    ],
+                    [
+                        "4_by the time it all culminates in a chan-led classic bollywood production number, the cuteness factor may have been pushed to its limit, ",
+                        0.5378860415189417
+                    ]
+                ]
+            },
+            "Eric Tsang": {
+                "args": []
+            },
+            "Disha Patani": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

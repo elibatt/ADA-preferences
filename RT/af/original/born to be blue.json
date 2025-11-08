@@ -1,0 +1,224 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "6_hawke's performance ably conveys the painful, humble work of climbing back up the mountain, and writer-director robert budreau mostly sticks to beauty over prettiness, and the nature of practice over the magic of talent.",
+                0.7130679199335788
+            ]
+        ],
+        "entities": {
+            "Janine Theriault": {
+                "args": []
+            },
+            "Bruno Rocca": {
+                "args": []
+            },
+            "Dan Lett": {
+                "args": []
+            },
+            "Stephen McHattie": {
+                "args": []
+            },
+            "Kedar Brown": {
+                "args": []
+            },
+            "Barbara Mamabolo": {
+                "args": []
+            },
+            "Tony Nardi": {
+                "args": []
+            },
+            "Daniel Kash": {
+                "args": []
+            },
+            "Kevin Hanchard": {
+                "args": []
+            },
+            "Carmen Ejogo": {
+                "args": [
+                    [
+                        "11_ because ejogo basically has nothing to do.",
+                        -0.7865120891088654
+                    ],
+                    [
+                        "28_hawke and ejogo have phenomenal chemistry, as she plays jane more as a stabilizer than a savior.",
+                        0.7035914160332373
+                    ],
+                    [
+                        "29_hawke and ejogo are both extremely easy on the eye, and share a agreeably warm sexual chemistry.",
+                        0.8176092868760658
+                    ]
+                ]
+            },
+            "Eugene Clark": {
+                "args": []
+            },
+            "Chip Keen": {
+                "args": []
+            },
+            "Tony Nappo": {
+                "args": []
+            },
+            "Janet-Laine Green": {
+                "args": []
+            },
+            "Nat Leone": {
+                "args": []
+            },
+            "Katie Boland": {
+                "args": []
+            },
+            "Natassia Halabi": {
+                "args": []
+            },
+            "Callum Keith Rennie": {
+                "args": []
+            },
+            "Mark Fraser": {
+                "args": []
+            },
+            "Joe Cobden": {
+                "args": []
+            },
+            "Barbara Eve Harris": {
+                "args": []
+            },
+            "Geoff McCausland": {
+                "args": []
+            },
+            "Joe Condren": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": [
+                    [
+                        "3_what it does have - in addition to an immersive performance from ethan hawke as the cool-cat jazz man - is an emotional understanding of who baker was, or may have been.",
+                        -0.5187210049251906
+                    ],
+                    [
+                        "5_when hawke's baker finally slips out of the whiney loser persona and performs \"my funny valentine,\" the scene evokes baker's elusive melancholy and wistful torment, making the earlier fumblings worth the struggle.",
+                        0.7711285462760393
+                    ],
+                    [
+                        "9_fine work from hawke as a self-destructive jazz icon in this uneven ",
+                        -0.5056285861705404
+                    ],
+                    [
+                        "10_by the final act, it's chilling how much hawke has transformed into the late-career musician, looking aged well beyond his years.",
+                        0.6038629840009045
+                    ],
+                    [
+                        "11_though hawke and ejogo both have easygoing screen presences, they are boring together,",
+                        -0.84014003433979
+                    ],
+                    [
+                        "13_the mumbling ineptitude of ethan hawke that makes it impossible to make out half of what he's saying in any given scene.",
+                        -0.7736068372147973
+                    ],
+                    [
+                        "19_its own fascinating beast, bolstered by an inventive, reality-blurring script and a moving performance by ethan hawke.",
+                        0.7992329629158068
+                    ],
+                    [
+                        "21_everything that makes ethan hawke an extraordinary actor - his energy, his empathy, his fearless, vanity-free eagerness to explore the deeper recesses of a character - is on view in his performance as chet baker..",
+                        0.685487214062479
+                    ],
+                    [
+                        "22_the film is given a spark of life by the inspired casting of ethan hawke.",
+                        0.5727418276782515
+                    ],
+                    [
+                        "30_ethan hawke gives one of the best performances of his career in robert budreau's chet baker non-biopic.",
+                        0.9421443620199228
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Robert Budreau": {
+                "args": [
+                    [
+                        "6_hawke's performance ably conveys the painful, humble work of climbing back up the mountain, and writer-director robert budreau mostly sticks to beauty over prettiness, and the nature of practice over the magic of talent.",
+                        0.7130679199335788
+                    ],
+                    [
+                        "18_by keeping the movie's goals and scale modest, budreau makes something that should resonate with baker fans and newcomers alike.",
+                        0.8059323130809677
+                    ],
+                    [
+                        "30_ethan hawke gives one of the best performances of his career in robert budreau's chet baker non-biopic.",
+                        0.9421443620199228
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_hawke's performance ably conveys the painful, humble work of climbing back up the mountain, and writer-director robert budreau mostly sticks to beauty over prettiness, and the nature of practice over the magic of talent.",
+                0.7130679199335788
+            ],
+            [
+                "19_its own fascinating beast, bolstered by an inventive, reality-blurring script and a moving performance by ethan hawke.",
+                0.7992329629158068
+            ],
+            [
+                "21_everything that makes ethan hawke an extraordinary actor - his energy, his empathy, his fearless, vanity-free eagerness to explore the deeper recesses of a character - is on view in his performance as chet baker..",
+                0.685487214062479
+            ]
+        ],
+        "entities": {
+            "Robert Budreau": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_born to be blue doesn't pretend to have all the answers.",
+                -0.7186756342830116
+            ],
+            [
+                "4_the film draws you deeply into baker's fantasy world, to the point that the entreaty of his famous recording, \"let's get lost,\" almost seems like a good idea.",
+                0.6666084151499211
+            ],
+            [
+                "7_long takes, naturalistic dialogue, and a loose narrative structure make for a film that feels as improvised and authentic as its music.",
+                0.5571979318836188
+            ],
+            [
+                "12_it's not necessary to be a jazz fan to get lost in this poetic and poignant film.",
+                -0.5359660886452924
+            ],
+            [
+                "15_it's a strange, unsatisfying, fragmented movie, ",
+                -0.5121058578803768
+            ],
+            [
+                "17_\"born to be blue\" has many of the elements familiar to music biopics, ",
+                0.7944060456385071
+            ],
+            [
+                "25_the movie offers a more dramatic vision of the music business than of baker's art.",
+                0.7823114062961251
+            ],
+            [
+                "27_born to be blue is occasionally ragged ",
+                -0.5640104282621219
+            ],
+            [
+                "29_but the movie around them looks a little flat and televisual: too clean, too bright, too period-perfect,",
+                -0.5739762663449421
+            ]
+        ]
+    }
+}

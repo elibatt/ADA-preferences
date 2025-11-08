@@ -1,0 +1,199 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anthony Hopkins": {
+                "args": []
+            },
+            "Chris Hemsworth": {
+                "args": [
+                    [
+                        "3_ mostly filled with a new, ungrudging respect for hemsworth.",
+                        0.6620876194868617
+                    ],
+                    [
+                        "24_mr. hemsworth looks happier and far more relaxed in \"ragnarok\" than he did in the previous thor vehicles, which is perhaps mr. waititi's truest achievement here.",
+                        0.5575991383342875
+                    ],
+                    [
+                        "35_ director waititi and star hemsworth keep this thor party hopping like it's 1999 and ragnarok will never come.",
+                        -0.6621173414277626
+                    ]
+                ]
+            },
+            "Clancy Brown": {
+                "args": []
+            },
+            "Ray Stevenson": {
+                "args": []
+            },
+            "Benedict Cumberbatch": {
+                "args": []
+            },
+            "Idris Elba": {
+                "args": []
+            },
+            "Tessa Thompson": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "Cate Blanchett": {
+                "args": [
+                    [
+                        "4_cate blanchett's hela is hella mean, hella snarky and hella striking with her hair slicked back into antlers.",
+                        0.5517900166275654
+                    ],
+                    [
+                        "27_none of us doubted that cate blanchett would make a kickass comic-book-movie villain, did we?",
+                        0.6645160944261136
+                    ]
+                ]
+            },
+            "Tom Hiddleston": {
+                "args": []
+            },
+            "Karl Urban": {
+                "args": []
+            },
+            "Mark Ruffalo": {
+                "args": [
+                    [
+                        "36_it's good to see ruffalo liberated from the more masochistic portrait in avengers: the age of ultron, and with a fresh partner in tessa thompson.",
+                        0.8081993332060959
+                    ]
+                ]
+            },
+            "Taika Waititi": {
+                "args": [
+                    [
+                        "0_tessa's got the comedic timing to match taika waititi's thor humor, and the physicality to lead the movie's pack of superheroes.",
+                        0.5223032895392633
+                    ],
+                    [
+                        "10_director taika waititi's take on the god of thunder plays a bit like the rock mockumentary",
+                        0.6631476455392596
+                    ],
+                    [
+                        "15_but hiring waititi, and letting the right actors lean into the comedy, constitutes not a marvel,",
+                        0.6668983730080317
+                    ],
+                    [
+                        "18_thor has always been the most laughable of the avengers, and waititi's approach means we don't have to pretend to take seriously the insane mythology about outer-space vikings ruling over nine galactic realms.",
+                        -0.7821897778824896
+                    ],
+                    [
+                        "32_like the antic entertainer at a children's party, director taiki waititi keeps us distracted with sudden noises, bright objects and silly jokes.",
+                        -0.5682579916875476
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_audiences seem to be smart enough these days to know a good movie when they see it, and to avoid a bad flick ",
+                0.5096970896590945
+            ],
+            [
+                "2_perfectly acceptable as an action movie ",
+                -0.6246753455013341
+            ],
+            [
+                "11_would that every superhero film had so light a touch.",
+                0.6926094655761277
+            ],
+            [
+                "14_at a fundamental level, marvel jams enough high-spirited entertainment into the movie to ensure that it's worthy of the price of admission.",
+                0.773466919697862
+            ],
+            [
+                "16_\"thor: ragnarok\" gives the long-running franchise a fresh bloom of health, fertilizing the comic book roots of the marvel film universe like a dose of satirical miracle-gro.",
+                0.8227550640348578
+            ],
+            [
+                "19_the third film about marvel's superhero based on the norse god of thunder shakes things up drastically, taking the series in a more colorful, more fantastic and more comedic direction.",
+                0.7954896534696505
+            ],
+            [
+                "20_it may sound as if the movie is only for 13-year-old boys, or the marvel faithful, ",
+                0.5805391975261686
+            ],
+            [
+                "26_the film's ability to make fun of itself is just one of the many things that make it a joy to watch.",
+                0.864661815700013
+            ],
+            [
+                "31_in its own weird little way, thor: ragnarok manages to poke fun at the constant churn of myth and entertainment of which the movie itself is a part.",
+                0.7503093416936628
+            ],
+            [
+                "34_ the movie's extravagant excess is more narcotizing than energizing.",
+                0.5518069361179525
+            ],
+            [
+                "35_granted, there are probably more monsters and cgi battles and explosions than the movie needs.",
+                0.553724371944613
+            ],
+            [
+                "37_ it is still very much a thor movie for better or worse.",
+                -0.5445543911163212
+            ],
+            [
+                "40_even tonal issues can't upend the magic this movie taps into putting thor and hulk together as new best buddies, whether they're throwing down in an arena or having a bromantic heart-to-heart.",
+                -0.511617494507371
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Taika Waititi": {
+                "args": [
+                    [
+                        "0_tessa's got the comedic timing to match taika waititi's thor humor, and the physicality to lead the movie's pack of superheroes.",
+                        0.5223032895392633
+                    ],
+                    [
+                        "10_director taika waititi's take on the god of thunder plays a bit like the rock mockumentary",
+                        0.6631476455392596
+                    ],
+                    [
+                        "15_but hiring waititi, and letting the right actors lean into the comedy, constitutes not a marvel,",
+                        0.6668983730080317
+                    ],
+                    [
+                        "18_thor has always been the most laughable of the avengers, and waititi's approach means we don't have to pretend to take seriously the insane mythology about outer-space vikings ruling over nine galactic realms.",
+                        -0.7821897778824896
+                    ],
+                    [
+                        "24_mr. hemsworth looks happier and far more relaxed in \"ragnarok\" than he did in the previous thor vehicles, which is perhaps mr. waititi's truest achievement here.",
+                        0.5575991383342875
+                    ],
+                    [
+                        "32_like the antic entertainer at a children's party, director taiki waititi keeps us distracted with sudden noises, bright objects and silly jokes.",
+                        -0.5682579916875476
+                    ],
+                    [
+                        "35_ director waititi and star hemsworth keep this thor party hopping like it's 1999 and ragnarok will never come.",
+                        -0.6621173414277626
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Eric Pearson": {
+                "args": []
+            }
+        }
+    }
+}

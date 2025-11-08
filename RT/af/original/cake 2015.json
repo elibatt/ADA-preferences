@@ -1,0 +1,219 @@
+{
+    "writer": {
+        "args": [
+            [
+                "10_\"cake\" gives us an interesting character and a fine performance, nestled into a movie that doesn't really work.",
+                -0.5901595664401359
+            ],
+            [
+                "23_had the script been sharper and the direction tighter, she might just have made the oscar list.",
+                -0.5015370337100531
+            ],
+            [
+                "24_ her character's trip from point",
+                -0.5772148443191096
+            ],
+            [
+                "28_the script goes soft, not aniston.",
+                -0.6442312750713106
+            ],
+            [
+                "31_less emotionally potent than it wants to be, and feels as if it might have been overmedicated by script doctoring to make it more palatable to aniston's fan base.",
+                -0.8215667320220437
+            ]
+        ],
+        "entities": {
+            "Patrick Tobin": {
+                "args": [
+                    [
+                        "32_it's a letdown that the film itself, written by patrick tobin and directed by daniel barnz, doesn't take half the chances its leading lady does and is content to paddle around the shallows rather than plunge into the deep end.",
+                        -0.5984156479274219
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_cake could have used more layers.",
+                -0.5052944288844001
+            ],
+            [
+                "9_'cake' is delicious stuff - low key ",
+                0.7634606118906786
+            ],
+            [
+                "10_\"cake\" gives us an interesting character and a fine performance, nestled into a movie that doesn't really work.",
+                -0.5901595664401359
+            ],
+            [
+                "11_the movie hits so many familiar beats that it's impossible not to see what's next.",
+                0.5519453008938957
+            ],
+            [
+                "15_cake starts off like an edgy indie film and wraps up like one of the more serious episodes of friends.",
+                0.5598414666385125
+            ],
+            [
+                "19_i wish the movie were messier, more surprising.",
+                -0.5185533765933461
+            ],
+            [
+                "22_a movie that tries so hard to be edgy that it tips over into silliness.",
+                -0.6282767178126916
+            ],
+            [
+                "25_ the film doesn't press the point.",
+                -0.5413884887034901
+            ],
+            [
+                "33_nothing about cake is remotely tempting or sweet.",
+                -0.5097537947442327
+            ],
+            [
+                "34_for all the pain, grief, sadness and suicide that layers cake, it is a serious treat to see the actress stretch herself.",
+                0.6615206000441273
+            ],
+            [
+                "34_hopefully this film won't turn out to be a single slice.",
+                -0.7255036215045226
+            ],
+            [
+                "35_the movie is actually smart about the seriousness of grief without being oppressive itself.",
+                0.6257060285105726
+            ],
+            [
+                "36_at the last minute, \"cake\" becomes a film not about chronic pain, ",
+                0.5149971284209169
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "1_the slack and purposeless direction leaves the entire cast emoting in a void.",
+                -0.5536109225784136
+            ],
+            [
+                "10_\"cake\" gives us an interesting character and a fine performance, nestled into a movie that doesn't really work.",
+                -0.5901595664401359
+            ]
+        ],
+        "entities": {
+            "Jennifer Aniston": {
+                "args": [
+                    [
+                        "0_whether or not aniston ever gets another role like this one, i have a hard time imagining anyone else in it -- and that's the sign of a genuine actor.",
+                        -0.6235385500630024
+                    ],
+                    [
+                        "2_jennifer aniston burrows into claire's walking-wounded gait and eclipsed mood.",
+                        0.584710832593853
+                    ],
+                    [
+                        "6_worth sitting through just to watch jennifer aniston pull off a performance of a lifetime.",
+                        -0.6982405402253306
+                    ],
+                    [
+                        "14_t i'd string together: jennifer aniston made me cry.",
+                        -0.6265739171283095
+                    ],
+                    [
+                        "15_once aniston's warts 'n' all performance has been highlighted, the movie seems to fizzle out, losing its momentum.",
+                        -0.6549074246442363
+                    ],
+                    [
+                        "18_the good news of \"cake\" is that it proves that aniston can be appealing without being exalted or gorgeous, by simply being average.",
+                        0.6219099014039773
+                    ],
+                    [
+                        "20_there's no doubt that aniston deserves more roles like this one ",
+                        0.5950007515821762
+                    ],
+                    [
+                        "23_alas, \"cake\" can't rise simply from aniston's performance.",
+                        -0.5246914161578485
+                    ],
+                    [
+                        "24_solid performance by aniston, ",
+                        0.5561079739436287
+                    ],
+                    [
+                        "28_the script goes soft, not aniston.",
+                        -0.6442312750713106
+                    ],
+                    [
+                        "29_the sheer courage of ms. aniston grows on you, like a lichen.",
+                        0.7393757319725764
+                    ],
+                    [
+                        "30_it's a drag to see aniston doubling down on the kind of sour, embittered role cake offers, one with very little latitude for her comic chops or her natural way with a seen-it-all sigh.",
+                        0.6522162683067575
+                    ],
+                    [
+                        "31_less emotionally potent than it wants to be, and feels as if it might have been overmedicated by script doctoring to make it more palatable to aniston's fan base.",
+                        -0.8215667320220437
+                    ],
+                    [
+                        "35_and [aniston's] performance is equally intelligent.",
+                        0.7918717212215256
+                    ]
+                ]
+            },
+            "Mamie Gummer": {
+                "args": []
+            },
+            "Chris Messina": {
+                "args": []
+            },
+            "William H. Macy": {
+                "args": []
+            },
+            "Felicity Huffman": {
+                "args": []
+            },
+            "Lucy Punch": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": []
+            },
+            "Adriana Barraza": {
+                "args": []
+            },
+            "Sam Worthington": {
+                "args": []
+            },
+            "Britt Robertson": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "12_perhaps a more imaginative director might have brought some genuine feeling or grace to this bathos, ",
+                0.6499052020335051
+            ]
+        ],
+        "entities": {
+            "Daniel Barnz": {
+                "args": [
+                    [
+                        "7_directed in moody, downbeat tones by daniel barnz, cake doesn't know when to stop piling on the angst.",
+                        -0.5996290380262306
+                    ],
+                    [
+                        "32_it's a letdown that the film itself, written by patrick tobin and directed by daniel barnz, doesn't take half the chances its leading lady does and is content to paddle around the shallows rather than plunge into the deep end.",
+                        -0.5984156479274219
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "3_ the cast is as good as always.",
+                0.8520827412483942
+            ]
+        ],
+        "entities": {
+            "Amanda Smith": {
+                "args": []
+            },
+            "Dean Norris": {
+                "args": []
+            },
+            "Howard Jerome": {
+                "args": []
+            },
+            "James Cade": {
+                "args": []
+            },
+            "Sean Francis": {
+                "args": []
+            },
+            "Martin Landau": {
+                "args": []
+            },
+            "Brendan Gall": {
+                "args": []
+            },
+            "Henry Czerny": {
+                "args": []
+            },
+            "T.J. McGibbon": {
+                "args": []
+            },
+            "Liza Balkan": {
+                "args": []
+            },
+            "Sofia Wells": {
+                "args": []
+            },
+            "Juan Carlos Velis": {
+                "args": []
+            },
+            "Stefani Kimber": {
+                "args": []
+            },
+            "Natalie Krill": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": [
+                    [
+                        "1_there is no actor currently at work capable of embodying the complexity of this character like plummer.",
+                        0.5404180218320132
+                    ],
+                    [
+                        "11_ mr. plummer is never less than convincing.",
+                        -0.5654758095391822
+                    ],
+                    [
+                        "18_remember is not a true story, yet could felt real if the plot had been as convincing as plummer's performance.",
+                        0.613149246855909
+                    ],
+                    [
+                        "19_it's not the disaster that the venice pans made it out to be-plummer is too committed to allow that-",
+                        -0.7165088267236986
+                    ],
+                    [
+                        "21_despite christopher plummer's poignant lead performance,",
+                        0.7013667293744067
+                    ]
+                ]
+            },
+            "Jane Spidell": {
+                "args": []
+            },
+            "Bruno Ganz": {
+                "args": []
+            },
+            "Kristin Kurlander": {
+                "args": [
+                    [
+                        "13_the trashier the movie gets-and each of zev's encounters with a rudy kurlander is more lurid than the one before-the more its implausible, ",
+                        0.5828998726906769
+                    ]
+                ]
+            },
+            "Joshua McGowan": {
+                "args": []
+            },
+            "Jürgen Prochnow": {
+                "args": []
+            },
+            "Peter DaCunha": {
+                "args": []
+            },
+            "Kim Roberts": {
+                "args": []
+            },
+            "Janet Porter": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Atom Egoyan": {
+                "args": [
+                    [
+                        "6_hit-or-miss director atom egoyan is way off here.",
+                        -0.6218827426577827
+                    ],
+                    [
+                        "8_ egoyan ekes out an engaging and meaningful potboiler.",
+                        0.6786437463524749
+                    ],
+                    [
+                        "15_atom egoyan's atypically linear revenge fantasy disingenuously evokes the ghastly legacy of auschwitz as an artsploitation thriller.",
+                        0.6294309937498279
+                    ],
+                    [
+                        "16_flashback-free narrative scripted by benjamin august is the most linear storytelling egoyan has done in ages, and also the most satisfying.",
+                        0.7451764017063673
+                    ],
+                    [
+                        "20_continuing the sad slump in atom egoyan's career after last year's the captive, this plodding new drama is perhaps a shade or two less risible.",
+                        -0.6935143369170618
+                    ],
+                    [
+                        "21_ atom egoyan fails to find form in this nazi-tracking mystery.",
+                        -0.7447991481377053
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_there is no actor currently at work capable of embodying the complexity of this character like plummer.",
+                0.5404180218320132
+            ]
+        ],
+        "entities": {
+            "Benjamin August": {
+                "args": [
+                    [
+                        "6_he telegraphs the story's arc early, and screenwriter benjamin august relies heavily on happenstance to move the story along.",
+                        -0.5199514179363356
+                    ],
+                    [
+                        "16_flashback-free narrative scripted by benjamin august is the most linear storytelling egoyan has done in ages, and also the most satisfying.",
+                        0.7451764017063673
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ often ludicrous remember plays a like a mash-up of the terminator, marathon man and memento, as filtered through the lens of an old twilight zone episode.",
+                0.5394501673091241
+            ],
+            [
+                "2_a shaky premise meets a shaky protagonist in \"remember.\"",
+                -0.5653697753327893
+            ],
+            [
+                "4_plummer is, by far, the best thing about the film.",
+                0.771937646175172
+            ],
+            [
+                "14_you'll never forget \"remember.\"",
+                0.516082542380561
+            ],
+            [
+                "19_ it's a film that frustrates more than it satisfies.",
+                0.745822522007942
+            ]
+        ]
+    }
+}

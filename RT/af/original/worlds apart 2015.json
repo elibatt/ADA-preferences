@@ -1,0 +1,78 @@
+{
+    "acting": {
+        "entities": {
+            "Nikos Chatzopoulos": {
+                "args": []
+            },
+            "Maria Kavoyianni": {
+                "args": []
+            },
+            "Matthaios Korovesis": {
+                "args": []
+            },
+            "Niki Vakali": {
+                "args": []
+            },
+            "Christopher Papakaliatis": {
+                "args": []
+            },
+            "Tawfeek Barhom": {
+                "args": []
+            },
+            "Odysseas Papaspiliopoulos": {
+                "args": []
+            },
+            "Dimitris Lignadis": {
+                "args": []
+            },
+            "Andrea Osvárt": {
+                "args": []
+            },
+            "Minas Hatzisavvas": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Christopher Papakaliatis": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the writer/director [is] so intent on hammering home his thematic points that the situations and characters seem contrived merely to underline them.",
+                -0.6590435559870884
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's an often tender, affecting film that slowly creeps up on you - then completely takes hold.",
+                0.7752850383709807
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Christopher Papakaliatis": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_the writer/director [is] so intent on hammering home his thematic points that the situations and characters seem contrived merely to underline them.",
+                -0.6590435559870884
+            ]
+        ]
+    }
+}

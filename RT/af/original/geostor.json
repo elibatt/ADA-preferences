@@ -1,0 +1,129 @@
+{
+    "writer": {
+        "entities": {
+            "Paul Guyot": {
+                "args": []
+            },
+            "Dean Devlin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_the script, every scene of which you've seen 100 times already, ends with a sermon urging us to unite and salvage the future, ",
+                0.5756090209103117
+            ],
+            [
+                "1_big, dumb and boring, it finds the co-writer of independence day hoping to start a directing career with the same playbook - ",
+                -0.790565988217529
+            ],
+            [
+                "3_\"geostorm\" uses digital technology to lay waste to a bunch of cities and hacky screenwriting to assault the dignity of several fine actors.",
+                -0.5355757509108416
+            ],
+            [
+                "8_disaster movies might have just flatlined with director and co-writer dean devlin's chaotically stupid bid to emulate his old partner, catastrophe peddler roland emmerich.",
+                -0.6982155556966823
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Dean Devlin": {
+                "args": [
+                    [
+                        "8_disaster movies might have just flatlined with director and co-writer dean devlin's chaotically stupid bid to emulate his old partner, catastrophe peddler roland emmerich.",
+                        -0.6982155556966823
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the script, every scene of which you've seen 100 times already, ends with a sermon urging us to unite and salvage the future, ",
+                0.5756090209103117
+            ],
+            [
+                "3_\"geostorm\" uses digital technology to lay waste to a bunch of cities and hacky screenwriting to assault the dignity of several fine actors.",
+                -0.5355757509108416
+            ],
+            [
+                "4_\"geostorm\" has a more clever premise than it needs to get to its ultimate goal of trashing some of our planet's nicest places.",
+                -0.5026171873145621
+            ],
+            [
+                "7_the only thing more reliable than bad weather is bad movies, and in that respect, \"geostorm\" is right on forecast.",
+                -0.6574131020230621
+            ],
+            [
+                "9_geostorm in a nutshell: a bunch of supposedly connected scenes that don't seem to even know each other and were maybe shot years apart.",
+                -0.7569860802815384
+            ],
+            [
+                "10_it's an action movie without an exciting moment.",
+                0.5415877641012771
+            ],
+            [
+                "10_ler vehicle without enough gerard to go around.",
+                -0.6062087153351163
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Robert Sheehan": {
+                "args": []
+            },
+            "Abbie Cornish": {
+                "args": []
+            },
+            "Talitha Bateman": {
+                "args": []
+            },
+            "Alexandra Maria Lara": {
+                "args": []
+            },
+            "Zazie Beetz": {
+                "args": []
+            },
+            "Amr Waked": {
+                "args": []
+            },
+            "Jim Sturgess": {
+                "args": []
+            },
+            "Gerard Butler": {
+                "args": []
+            },
+            "Daniel Wu": {
+                "args": []
+            },
+            "Adepero Oduye": {
+                "args": []
+            },
+            "Ed Harris": {
+                "args": []
+            },
+            "Richard Schiff": {
+                "args": []
+            },
+            "Eugenio Derbez": {
+                "args": []
+            },
+            "Andy Garcia": {
+                "args": []
+            },
+            "Mare Winningham": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "writer": {
+        "args": [
+            [
+                "41_ultimately, beyond is a movie about characters - and character.",
+                -0.5054269133247535
+            ],
+            [
+                "45_the script injects a welcome strain of humor that's true to the original gene roddenberry creation, delivering nostalgia without stiff veneration.",
+                0.8271064096659952
+            ]
+        ],
+        "entities": {
+            "Doug Jung": {
+                "args": [
+                    [
+                        "36_ lin and scriptwriters simon pegg and doug jung made a clever plot move that gives beyond the most breathing room for its characters in years.",
+                        0.7498756567220958
+                    ]
+                ]
+            },
+            "Simon Pegg": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the movie bounces along, hurtling its heroes over colliding wreckage and into currents of artificial gravity, pausing just long enough for a punchline or a knowing exchange of looks.",
+                -0.6883287782359578
+            ],
+            [
+                "4_this movie's is to give us a smooth ride.",
+                0.6377520451528254
+            ],
+            [
+                "6_star trek beyond is a star trek movie, ",
+                0.5756244689621366
+            ],
+            [
+                "7_the actors work so well together that they reinforce the series' central appeal: this crew is like family.",
+                0.5473660454494257
+            ],
+            [
+                "8_the movie never delivers on its considerable promise because it's always in such a hurry to get to the next action scene.",
+                -0.6236857033750908
+            ],
+            [
+                "12_everything you want a post-modern \"trek\" movie to be: funny, poppy, self-referential -- and with captain kirk punching bad guys in rubber masks.",
+                -0.6178022919062399
+            ],
+            [
+                "14_\"star trek beyond\" is better than not-bad.",
+                -0.5506676705579918
+            ],
+            [
+                "15_sci-fi fans will surely see beyond any shortcomings and appreciate a film full of visual dazzle, action and suspense.",
+                0.7473139640725099
+            ],
+            [
+                "18_granted, with all the galaxies at its disposal, and yet another tv series in dry dock, one might hope for a star trek movie with a bit more narrative heft.",
+                -0.52773173986779
+            ],
+            [
+                "21_\"star trek beyond\" is not a stale rehash ...",
+                -0.8701010781511874
+            ],
+            [
+                "22_it may not boldly go where no \"star trek\" film has gone before, ",
+                -0.5211731178540859
+            ],
+            [
+                "23_star trek beyond may not go where no trek has gone before, ",
+                -0.6467171867686465
+            ],
+            [
+                "25_ it's a comfortable film...in which the familiar faces don't go anywhere no man has gone before - boldly or ",
+                -0.5128714066143089
+            ],
+            [
+                "31_star trek beyond is much more than a mere refresh.",
+                0.5510064161987592
+            ],
+            [
+                "34_star trek beyond is a snappy, diverting affair that nevertheless leaves a lingering feeling, like kirk, that something's missing.",
+                -0.8082127572243886
+            ],
+            [
+                "35_star trek beyond, like most of the rebooted properties flying around our movie theaters, delights in nostalgically resurrecting iconic characters and tweaking them anew.",
+                0.6422305577819419
+            ],
+            [
+                "37_lin's movie works best when approached as a relaxed, somewhat playful two-hour expansion of one of the old '60s episodes.",
+                0.8791120040496161
+            ],
+            [
+                "38_what's most notable about the new film is how closely it hews to gene roddenberry's original tv series, at least in spirit.",
+                0.5395112557134323
+            ],
+            [
+                "41_ultimately, beyond is a movie about characters - and character.",
+                -0.5054269133247535
+            ],
+            [
+                "43_\"star trek beyond\" is a somewhat diverting place holder, ",
+                0.5795028686031815
+            ],
+            [
+                "43_ one hopes that the next \"star trek\" movie will have what it takes to boldly go where no \"star trek\" movie has gone before.",
+                -0.6120536404991271
+            ],
+            [
+                "47_while \"star trek beyond\" lacks a center, it compensates with an endless parade of distractions.",
+                -0.5525954106082293
+            ],
+            [
+                "47_when the movie moves along at a breezy clip, it's partly because it feels so purposeless.",
+                0.5384033054685368
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "4_lin and his cast's clear affection for the material helps temper the familiarity.",
+                0.7681962195933854
+            ],
+            [
+                "46_this episode cuts right to the core of the series's original appeal, giving the terrific cast a chance to play against one another in a straightforward story.",
+                0.8165259070948484
+            ]
+        ],
+        "entities": {
+            "Ashley Edner": {
+                "args": []
+            },
+            "Sara Maria Forsberg": {
+                "args": []
+            },
+            "Simon Pegg": {
+                "args": [
+                    [
+                        "36_ lin and scriptwriters simon pegg and doug jung made a clever plot move that gives beyond the most breathing room for its characters in years.",
+                        0.7498756567220958
+                    ]
+                ]
+            },
+            "Andrea Yu": {
+                "args": []
+            },
+            "Lydia Wilson": {
+                "args": []
+            },
+            "Anita Brown": {
+                "args": []
+            },
+            "Shea Whigham": {
+                "args": []
+            },
+            "Alex Rose": {
+                "args": []
+            },
+            "Fiona Vroom": {
+                "args": []
+            },
+            "Doug Jung": {
+                "args": []
+            },
+            "Sara Forsberg": {
+                "args": []
+            },
+            "Kim Kold": {
+                "args": []
+            },
+            "Jeremy Raymond": {
+                "args": []
+            },
+            "Jennifer W. Evans": {
+                "args": []
+            },
+            "Danny Pudi": {
+                "args": []
+            },
+            "Sofia Boutella": {
+                "args": []
+            },
+            "Ian Nsenga": {
+                "args": []
+            },
+            "Jeff Bezos": {
+                "args": []
+            },
+            "Emy Aneke": {
+                "args": []
+            },
+            "Zachary Quinto": {
+                "args": []
+            },
+            "Anton Yelchin": {
+                "args": []
+            },
+            "Lia Lam": {
+                "args": []
+            },
+            "Harry Han": {
+                "args": []
+            },
+            "Matthew MacCaull": {
+                "args": []
+            },
+            "Christian Sloan": {
+                "args": []
+            },
+            "Edwin Rodriguez": {
+                "args": []
+            },
+            "Anthony Shim": {
+                "args": []
+            },
+            "Laurence Richardson": {
+                "args": []
+            },
+            "Shohreh Aghdashloo": {
+                "args": []
+            },
+            "Gina Brinkman": {
+                "args": []
+            },
+            "Tarun Keram": {
+                "args": []
+            },
+            "Karl Urban": {
+                "args": []
+            },
+            "Jennifer Cheon": {
+                "args": []
+            },
+            "Fraser Aitcheson": {
+                "args": []
+            },
+            "Jarod Joseph": {
+                "args": []
+            },
+            "Deep Roy": {
+                "args": []
+            },
+            "Jodi Haynes": {
+                "args": []
+            },
+            "Polina Nikolai": {
+                "args": []
+            },
+            "Joe Taslim": {
+                "args": []
+            },
+            "Idris Elba": {
+                "args": []
+            },
+            "Dan Payne": {
+                "args": []
+            },
+            "J.P. Mulcaster": {
+                "args": []
+            },
+            "Doug Chapman": {
+                "args": []
+            },
+            "Greg Grunberg": {
+                "args": []
+            },
+            "Melissa Roxburgh": {
+                "args": []
+            },
+            "Zoe Saldana": {
+                "args": []
+            },
+            "Jake Huang": {
+                "args": []
+            },
+            "Nathan Jean": {
+                "args": []
+            },
+            "Roxanne Fernandes": {
+                "args": []
+            },
+            "John Cho": {
+                "args": []
+            },
+            "Chris Pine": {
+                "args": []
+            },
+            "Adam DiMarco": {
+                "args": []
+            },
+            "Priya Rajaratnam": {
+                "args": []
+            },
+            "Jake Foy": {
+                "args": []
+            },
+            "Thomas Cadrot": {
+                "args": []
+            },
+            "Luke Hays": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Justin Lin": {
+                "args": [
+                    [
+                        "17_beyond for diehard trekkers to enjoy, and director justin lin guns the action sequences - even if that motocross machine that kirk is ostensibly riding looks totally fake and video-game-ish.",
+                        -0.6017183836749598
+                    ],
+                    [
+                        "31_thanks to lin's steady directorial hand and knack for visualizing improbable set-pieces, the new film is bold, breathless and propulsive, a distillation of the action movie to its purest elements.",
+                        0.6753275504676572
+                    ],
+                    [
+                        "36_ lin and scriptwriters simon pegg and doug jung made a clever plot move that gives beyond the most breathing room for its characters in years.",
+                        0.7498756567220958
+                    ],
+                    [
+                        "41_and lin, who has such a strong track record with vehicular mayhem, doesn't bring his \"a\" game.",
+                        0.519472714551322
+                    ],
+                    [
+                        "42_while he may have seemed like a counterintuitive choice to take over a star trek movie, lin is absolutely in his element whenever the film becomes about bodies and vehicles moving swiftly through space - which is often.",
+                        0.6636886078515747
+                    ]
+                ]
+            }
+        }
+    }
+}

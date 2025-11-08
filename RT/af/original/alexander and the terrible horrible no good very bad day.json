@@ -1,0 +1,248 @@
+{
+    "writer": {
+        "entities": {
+            "Rob Lieber": {
+                "args": []
+            },
+            "Lisa Cholodenko": {
+                "args": []
+            },
+            "Robert H. Lieberman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_alexander is a watchable, affable, pretty good, well-done kids' movie buoyed by a humorous script and talented cast.",
+                0.7340103659383869
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Miguel Arteta": {
+                "args": [
+                    [
+                        "10_director miguel arteta, who's previous work is a mixed bag of television and film, gets almost everything right here, including bringing together a solid cast ...",
+                        0.5604966247313418
+                    ],
+                    [
+                        "15_miguel arteta directs with a deft hand, and the performances charm.",
+                        0.8701035775179844
+                    ],
+                    [
+                        "24_everything that can go wrong does, and while it has its moments, miguel arteta's comedy relies too much on gender-shaming and emasculation jokes.",
+                        -0.6954090036773138
+                    ],
+                    [
+                        "26_it's arteta's ease with generating that slight sense of social awkwardness that makes \"alexander\" a cut above the usual live-action family comedy.",
+                        0.7916184339788953
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_ the mood is so screwball that the film hurtles past its own mistakes.",
+                0.5910856530079706
+            ],
+            [
+                "6_it's a film where you start chuckling as soon as someone says something like, \"i just want everything to be perfect tonight.\"",
+                0.5544244957814932
+            ],
+            [
+                "9_the latest example of a wonderful children's book turned into a mediocre movie.",
+                0.5884850306388609
+            ],
+            [
+                "14_a nice, pleasant, not bad, perfectly fine movie.",
+                0.6208753003166784
+            ],
+            [
+                "18_it turns out the film is not terrible or horrible or very bad.",
+                -0.9474979878140934
+            ],
+            [
+                "19_alexander is a watchable, affable, pretty good, well-done kids' movie buoyed by a humorous script and talented cast.",
+                0.7340103659383869
+            ],
+            [
+                "20_the movie is so over-the-top that it makes little narrative sense, ",
+                -0.6555423408852935
+            ],
+            [
+                "21_can a series of irritating events make a movie?",
+                -0.676628793164473
+            ],
+            [
+                "23_an overall sense of slightness ... prevents this from being a family-film classic.",
+                0.6940938446213345
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kerris Dorsey": {
+                "args": []
+            },
+            "Burn Gorman": {
+                "args": []
+            },
+            "Mekai Matthew Curtis": {
+                "args": []
+            },
+            "Andrew Franklin": {
+                "args": []
+            },
+            "David F. Harris": {
+                "args": []
+            },
+            "Cort Rogers": {
+                "args": []
+            },
+            "Dylan Minnette": {
+                "args": []
+            },
+            "Samantha Logan": {
+                "args": []
+            },
+            "Eric Edelstein": {
+                "args": []
+            },
+            "Scott Takeda": {
+                "args": []
+            },
+            "Rizwan Manji": {
+                "args": []
+            },
+            "Ruben Vernier": {
+                "args": []
+            },
+            "Jesse Garcia (III)": {
+                "args": []
+            },
+            "Martha Hackett": {
+                "args": []
+            },
+            "Zoey Vargas": {
+                "args": []
+            },
+            "Liz Carey": {
+                "args": []
+            },
+            "Jonah Goldman": {
+                "args": []
+            },
+            "Alex Biffin": {
+                "args": []
+            },
+            "Dennison Samaroo": {
+                "args": []
+            },
+            "Michael Blaiklock": {
+                "args": []
+            },
+            "Joey Capone": {
+                "args": []
+            },
+            "Steve Bannos": {
+                "args": []
+            },
+            "Tara Brooks": {
+                "args": []
+            },
+            "Elise Vargas": {
+                "args": []
+            },
+            "Reese C. Hartwig": {
+                "args": []
+            },
+            "Bella Thorne": {
+                "args": []
+            },
+            "Toni Trucks": {
+                "args": []
+            },
+            "Jennifer Garner": {
+                "args": [
+                    [
+                        "2_carell is at his discombobulated best, and garner anchors the proceedings with aplomb.",
+                        0.7587203406733697
+                    ]
+                ]
+            },
+            "Joel Johnstone": {
+                "args": []
+            },
+            "Sidney Fullmer": {
+                "args": []
+            },
+            "Lincoln Melcher": {
+                "args": []
+            },
+            "Alex Désert": {
+                "args": []
+            },
+            "Alina Phelan": {
+                "args": []
+            },
+            "Donald Glover": {
+                "args": []
+            },
+            "Tara Brook": {
+                "args": []
+            },
+            "Cassandra Braden": {
+                "args": []
+            },
+            "Mary Matilyn Mouser": {
+                "args": []
+            },
+            "Jennifer Coolidge": {
+                "args": []
+            },
+            "Angelyna Martinez": {
+                "args": []
+            },
+            "Jonathan Slavin": {
+                "args": []
+            },
+            "Ben Greene": {
+                "args": []
+            },
+            "Ed Oxenbould": {
+                "args": []
+            },
+            "Steve Carell": {
+                "args": []
+            },
+            "Katelyn Hilario": {
+                "args": []
+            },
+            "Megan Mullally": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_director miguel arteta, who's previous work is a mixed bag of television and film, gets almost everything right here, including bringing together a solid cast ...",
+                0.5604966247313418
+            ],
+            [
+                "13_still, its intentions are good and so is its cast ...",
+                0.6655360571259674
+            ],
+            [
+                "19_alexander is a watchable, affable, pretty good, well-done kids' movie buoyed by a humorous script and talented cast.",
+                0.7340103659383869
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

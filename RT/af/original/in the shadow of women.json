@@ -1,0 +1,147 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_garrel uses a panoramic frame to stress the characters' closeness (or lack thereof), and the players waltz through his simple, neatly structured script.",
+                0.6538028461697896
+            ],
+            [
+                "3_is marital fidelity possible when you're bohemian, french and a character in a philippe garrel movie?",
+                0.597989106120412
+            ]
+        ],
+        "entities": {
+            "Arlette Langmann": {
+                "args": []
+            },
+            "Philippe Garrel": {
+                "args": []
+            },
+            "Jean-Claude Carriere": {
+                "args": []
+            },
+            "Caroline Deruas-Garrel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"in the shadow of women\" will appeal to a passionate, ",
+                0.5713846008489859
+            ],
+            [
+                "13_merhar saves in the shadow of women with the simplest of gestures: a smile.",
+                0.7797234543754654
+            ],
+            [
+                "14_initially somewhat wispy-feeling, this 72-minute feature transforms in its final reel from an ironic divertissement to a work of considerable feeling and intensity.",
+                0.6269617281887436
+            ],
+            [
+                "15_ like the couple at the movie's center, suffers from the whiff of staleness.",
+                -0.6483596113135752
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lena Paugam": {
+                "args": []
+            },
+            "Antoinette Moya": {
+                "args": []
+            },
+            "Therese Quentin": {
+                "args": []
+            },
+            "Jean-Bernard Pommier": {
+                "args": []
+            },
+            "Stanislas Merhar": {
+                "args": []
+            },
+            "Louis Garrel": {
+                "args": [
+                    [
+                        "3_is marital fidelity possible when you're bohemian, french and a character in a philippe garrel movie?",
+                        0.597989106120412
+                    ],
+                    [
+                        "8_perhaps, having made so many movies that feel like ghost stories, garrel deserves to take it easy for once.",
+                        0.6330824511673534
+                    ],
+                    [
+                        "11_in so shrewdly exploring the illusions - namely (self-) deception - required to keep a dyad functioning, garrel shows just how much we all remain, consciously or not, in the dark.",
+                        -0.624851008929341
+                    ],
+                    [
+                        "12_in the high-contrast, black-and-white, wide-screen images, garrel captures creative and erotic passions with a spontaneous classicism and a monumental poise.",
+                        0.7203763948898501
+                    ],
+                    [
+                        "16_veteran post-nouvelle vague helmer philippe garrel serves up an exquisite three-hander about life, art and the delusional male ego.",
+                        0.6015899464780993
+                    ]
+                ]
+            },
+            "Vimala Pons": {
+                "args": []
+            },
+            "Clotilde Courau": {
+                "args": [
+                    [
+                        "7_in the shadow of women are its naturalistic performances - especially courau's - and its elegantly composed shots and offhand rhythm.",
+                        0.6892208775255967
+                    ]
+                ]
+            },
+            "Mounir Margoum": {
+                "args": []
+            },
+            "Jean Pommier": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "3_offering further evidence to the contrary is the director's latest broody musing on life, art and l'amour.",
+                0.5470729214792103
+            ]
+        ],
+        "entities": {
+            "Philippe Garrel": {
+                "args": [
+                    [
+                        "3_is marital fidelity possible when you're bohemian, french and a character in a philippe garrel movie?",
+                        0.597989106120412
+                    ],
+                    [
+                        "8_perhaps, having made so many movies that feel like ghost stories, garrel deserves to take it easy for once.",
+                        0.6330824511673534
+                    ],
+                    [
+                        "11_in so shrewdly exploring the illusions - namely (self-) deception - required to keep a dyad functioning, garrel shows just how much we all remain, consciously or not, in the dark.",
+                        -0.624851008929341
+                    ],
+                    [
+                        "12_in the high-contrast, black-and-white, wide-screen images, garrel captures creative and erotic passions with a spontaneous classicism and a monumental poise.",
+                        0.7203763948898501
+                    ],
+                    [
+                        "16_veteran post-nouvelle vague helmer philippe garrel serves up an exquisite three-hander about life, art and the delusional male ego.",
+                        0.6015899464780993
+                    ]
+                ]
+            }
+        }
+    }
+}

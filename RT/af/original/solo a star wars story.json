@@ -1,0 +1,139 @@
+{
+    "film": {
+        "args": [
+            [
+                "11_as a b-movie, \"solo\" delivers, sometimes in a way that reminds a viewer of this franchise's roots in classic saturday matinee adventure serials and sometimes simply as proficient, dutiful, time-passing entertainment.",
+                0.8091920596742842
+            ],
+            [
+                "14_solo: a movie no one was clamoring for that has been made without any distinguishing qualities.",
+                -0.7112576306041809
+            ],
+            [
+                "15_struck me as intellectual property unconvincingly arranged into the shape of a movie.",
+                0.5243725143768595
+            ],
+            [
+                "19_it's tantalizing to wonder what the film that miller and lord would have been.",
+                -0.5385242211824905
+            ],
+            [
+                "23_it's got a couple of gasps, a lot of action and a built-in star wars audience, pretty much everything a movie needs except one: a compelling reason for being.",
+                0.527315409736904
+            ],
+            [
+                "24_solo is also the most lighthearted and fun film so far in the expanded star wars universe.",
+                0.8356347336900718
+            ],
+            [
+                "25_best of all, the movie is different.",
+                0.5188942560270496
+            ],
+            [
+                "34_though \"solo\" finishes with a satisfying sense of arrival, the movie leaves room for a sequel,",
+                0.6361717708428868
+            ],
+            [
+                "34_ and it may be the best measure of this movie's ultimate quality that the idea of another one of these sounds fun.",
+                0.8745107030181705
+            ],
+            [
+                "35_while solo is a star wars movie that gambles on not really being a \"star wars movie,\" it's a winning chapter that only sparingly (",
+                0.6381616224626198
+            ],
+            [
+                "47_though burdened with a slow start and enough thirsty fan-service to power comic-con's hall h for a decade, it has a kicky, kinetic heist movie at its heart,",
+                0.5247915652069207
+            ],
+            [
+                "49_it's his best film in a decade.",
+                0.8879912439821623
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "6_solo is at its best when it's uncoupled from all that heavy lifting, just crammed in a cockpit with its likeable cast and shooting for the stars.",
+                0.6899404638774913
+            ],
+            [
+                "17_its flawed central performance ultimately makes \"solo\" a distinct disappointment.",
+                0.5282920919880885
+            ]
+        ],
+        "entities": {
+            "Joonas Suotamo": {
+                "args": []
+            },
+            "Phoebe Waller-Bridge": {
+                "args": []
+            },
+            "Jon Favreau": {
+                "args": []
+            },
+            "Emilia Clarke": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": []
+            },
+            "Donald Glover": {
+                "args": []
+            },
+            "Linda Hunt": {
+                "args": []
+            },
+            "Alden Ehrenreich": {
+                "args": [
+                    [
+                        "13_the heavy star wars legacy sits lightly on mr. ehrenreich's shoulders in a disney-lucasfilm movie that is finally having fun.",
+                        0.7745195356316487
+                    ],
+                    [
+                        "42_\"solo\" is a straightforward piece of pulpy entertainment with some very agreeable performances from [alden] ehrenreich and [donald] glover, who seems to be having the most fun of all the actors...",
+                        0.8594850009595795
+                    ],
+                    [
+                        "50_ led by an irresistibly charismatic title turn from alden ehrenreich.",
+                        0.6194555658475857
+                    ]
+                ]
+            },
+            "Thandie Newton": {
+                "args": []
+            },
+            "Paul Bettany": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jon Kasdan": {
+                "args": []
+            },
+            "Lawrence Kasdan": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ron Howard": {
+                "args": [
+                    [
+                        "46_the movie's real hero...is howard.",
+                        -0.5146602795865778
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

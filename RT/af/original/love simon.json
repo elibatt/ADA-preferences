@@ -1,0 +1,169 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film is as sweet as bubble-gum-flavored medicine",
+                0.6444917670348735
+            ],
+            [
+                "10_ts-in-seats, it's the film's quieter, deeper coming-out storyline that forms its true emotional center.",
+                0.664830350817678
+            ],
+            [
+                "12_the emotional resonance may be surprising given the movie's relentless gloss, ",
+                0.5778218669124384
+            ],
+            [
+                "14_\"love, simon\" is a sweet, modern romantic comedy that manages to channel the teen movie classics of the late john hughes, ",
+                0.7901965256652064
+            ],
+            [
+                "16_the movie is well-made and likable, without any major missteps.",
+                0.569940868174239
+            ],
+            [
+                "17_the movie ... speaks to another, more precious kind of privilege, one that straight kids have had since movies began: the right to a romantic fantasy served up like ice cream, tart and sweet.",
+                0.7393606291593001
+            ],
+            [
+                "18_it takes what could have been a teen-movie cliché stacked on top of a coming-out cliché like stale wedding cake and turns them into something that feels fresh, even while not saying anything particularly revelatory.",
+                -0.6766221884715794
+            ],
+            [
+                "19_there may be little in this movie that you haven't seen before, ",
+                -0.6203582423096512
+            ],
+            [
+                "20_\" it has the warm winsomeness of \"lady bird\" and the crackling humor of \"mean girls,\" playing with the high school archetypes that film captured so well.",
+                0.84934397605161
+            ],
+            [
+                "22_it's hard for find fault with any film that addresses a changing teenage world with such compassion and decency.",
+                0.7130276253153642
+            ],
+            [
+                "23_this film treats 17-year-old simon spier's quest for love and self-acceptance with the tender, timeless, hollywood touch of john hughes:",
+                0.8603138847576589
+            ],
+            [
+                "27_love, simon is the kind of movie you could easily catch up with on cable tv years later and forget just as quickly-",
+                -0.6031575092213239
+            ],
+            [
+                "28_they don't need this movie.",
+                -0.6683856987233487
+            ],
+            [
+                "30_it's too bad that the movie isn't as vibrant, funny, and entertaining as the community it wishes to represent -",
+                -0.6280050152342298
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Greg Berlanti": {
+                "args": [
+                    [
+                        "2_greg berlanti's groundbreaking gay romcom is an exuberant gift, a john hughes movie for audiences who just got woke and the first mainstream studio release to put a closeted teen front and center.",
+                        0.6534375708117238
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jennifer Garner": {
+                "args": []
+            },
+            "Cassady McClincy": {
+                "args": []
+            },
+            "Mackenzie Lintz": {
+                "args": []
+            },
+            "Logan Miller": {
+                "args": []
+            },
+            "Alex Sgambati": {
+                "args": []
+            },
+            "Katherine Langford": {
+                "args": []
+            },
+            "Jorge Lendeborg Jr.": {
+                "args": []
+            },
+            "Nick Robinson": {
+                "args": [
+                    [
+                        "21_nick robinson crafts an immensely likeable simon - as appealing as any of the teenage protagonists in a john hughes comedy.",
+                        0.6888077661472294
+                    ]
+                ]
+            },
+            "Talitha Bateman": {
+                "args": []
+            },
+            "Alexandra Shipp": {
+                "args": []
+            },
+            "Tony Hale": {
+                "args": []
+            },
+            "Darcy Rose Byrnes": {
+                "args": []
+            },
+            "Keiynan Lonsdale": {
+                "args": []
+            },
+            "Terayle Hill": {
+                "args": []
+            },
+            "Josh Duhamel": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            },
+            "Colton Haynes": {
+                "args": []
+            },
+            "Sean O'Donnell": {
+                "args": []
+            },
+            "Miles Heizer": {
+                "args": []
+            },
+            "Joey Pollari": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Isaac Aptaker": {
+                "args": []
+            },
+            "Elizabeth Berger": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_ts-in-seats, it's the film's quieter, deeper coming-out storyline that forms its true emotional center.",
+                0.664830350817678
+            ],
+            [
+                "11_the casting is high quality, the script - with a tantalizing mystery at its heart - is particularly well-crafted and the story hits all the right emotional notes in delivering a funny, warm-hearted and life-affirming tale.",
+                0.863414591925302
+            ]
+        ]
+    }
+}

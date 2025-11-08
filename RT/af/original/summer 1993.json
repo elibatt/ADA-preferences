@@ -1,0 +1,92 @@
+{
+    "acting": {
+        "entities": {
+            "Jordi Figueras": {
+                "args": []
+            },
+            "Paula Robles": {
+                "args": []
+            },
+            "Fermí Reixach": {
+                "args": []
+            },
+            "David Verdaguer": {
+                "args": []
+            },
+            "Paula Blanco": {
+                "args": []
+            },
+            "Laia Artigas": {
+                "args": []
+            },
+            "Bruna Cusí": {
+                "args": []
+            },
+            "Etna Campillo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Carla Simón": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_not since boyhood has a film shown this much respect and understanding for what it's like to be a child.",
+                0.7415250859850315
+            ],
+            [
+                "2_the immersive \"summer 1993\" is almost free of plot ",
+                0.5244980409427451
+            ],
+            [
+                "3_it's a film entirely lacking in pomp, ",
+                -0.5471429282506526
+            ],
+            [
+                "3_a tender and spare meditation on family unfurls in the stillness of a sleepy, sun-soaked spanish summer.",
+                0.6099616595428825
+            ],
+            [
+                "10_an extraordinary and beautiful work of grief and memory.",
+                0.7993219222231718
+            ],
+            [
+                "11_ the film does meander in a way that makes its deeply personal nature unmistakable.",
+                0.7982231439336119
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Carla Simón": {
+                "args": [
+                    [
+                        "0_first-time director carla simón pipó has made something amazing here.",
+                        0.6391732024023645
+                    ],
+                    [
+                        "4_in this semi-autobiographical period piece, simón achieves the rare feat of faithfully recreating the mysterious consciousness of a child.",
+                        0.7170311713700204
+                    ],
+                    [
+                        "9_rather than adopt an excuse to turn this hardship material into easy sentiment, simón treats this very personal matter with a focused, unhurried wisdom for the ways even a left-turn girlhood can still be a celebration of being young, alive, and open.",
+                        0.779837233166417
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

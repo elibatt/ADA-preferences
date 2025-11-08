@@ -1,0 +1,97 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ he isn't as well known to hindi film fans as that other famously shirtless star salman khan,",
+                -0.556891846196991
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "S.S. Rajamouli": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Prabhakar": {
+                "args": []
+            },
+            "Sudeep": {
+                "args": []
+            },
+            "Tanikella Bharani": {
+                "args": []
+            },
+            "Adivi Sesh": {
+                "args": []
+            },
+            "Anushka Shetty": {
+                "args": []
+            },
+            "Nora Fatehi": {
+                "args": []
+            },
+            "Teja Kakumanu": {
+                "args": []
+            },
+            "Nassar": {
+                "args": []
+            },
+            "Tamannaah Bhatia": {
+                "args": []
+            },
+            "Scarlett Mellish Wilson": {
+                "args": []
+            },
+            "S.S. Rajamouli": {
+                "args": []
+            },
+            "Rana Daggubati": {
+                "args": []
+            },
+            "Rohini": {
+                "args": []
+            },
+            "Sneha Upadhyay": {
+                "args": []
+            },
+            "Charandeep Surneni": {
+                "args": []
+            },
+            "Ramya Krishnan": {
+                "args": []
+            },
+            "Rakesh Varre": {
+                "args": []
+            },
+            "Prabhas": {
+                "args": [
+                    [
+                        "0_ prabhas has a presence grand enough to transcend language.",
+                        0.5965215124469985
+                    ]
+                ]
+            },
+            "Sathyaraj": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Vijayendra Prasad": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

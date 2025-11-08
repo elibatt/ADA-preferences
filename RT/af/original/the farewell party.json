@@ -1,0 +1,112 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_for all its talk of death, the farewell party, featuring a terrific ensemble cast, is a story about life.",
+                0.7411139482139018
+            ],
+            [
+                "1_it's a rare film that can smile while studying suffering.",
+                0.7802992899735016
+            ],
+            [
+                "3_the gags in the movie's first half are so unapologetically mordant that i was disappointed to see them dwindle to nothing in the second, as so often happens in stories like this one.",
+                -0.7900417400953075
+            ],
+            [
+                "4_i can't recall any film ever making me laugh and cry in complete comic and dramatic balance like \"the farewell party.\"",
+                -0.5804476910214927
+            ],
+            [
+                "6_how refreshing for a film to stare death in the face and find compassion reflected in its gaze.",
+                0.6541294906729025
+            ],
+            [
+                "9_ pointed work that walks a particular line to create a specific tone, a consistently warm and comic film about an unmistakably serious subject.",
+                0.7689360728042911
+            ],
+            [
+                "10_it is, quite often, a very funny film, as mischievous as the youth that has long since left its characters, ",
+                0.793870901752438
+            ],
+            [
+                "11_for all its sensitivity to the subject, \"the farewell party\" makes a number of tonal missteps ...",
+                0.6205860518425603
+            ],
+            [
+                "12_ the result is a film that's frank about death without leaving you cold.",
+                -0.5367204429886856
+            ],
+            [
+                "13_the farewell party leaves no doubt as to where it stands on the right to die with dignity when facing terminal illness, ",
+                0.5624226692403891
+            ],
+            [
+                "14_the farewell party makes drama out of right-to-die politics and asserts that just about everyone who makes it past a certain age will have to contend with the issue in one way or another.",
+                0.5522867143710575
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Tal Granit": {
+                "args": []
+            },
+            "Sharon Maymon": {
+                "args": [
+                    [
+                        "2_a bittersweet, wryly comic, keenly observed look at senescence from israeli directors sharon maymon and tal granit.",
+                        0.7487365439779299
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Aliza Rosen": {
+                "args": []
+            },
+            "Levana Finkelstein": {
+                "args": []
+            },
+            "Zeev revah": {
+                "args": []
+            },
+            "Ze'ev Revach": {
+                "args": []
+            },
+            "Ilan Dar": {
+                "args": []
+            },
+            "Aliza Rozen": {
+                "args": []
+            },
+            "Rafael Tabor": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_for all its talk of death, the farewell party, featuring a terrific ensemble cast, is a story about life.",
+                0.7411139482139018
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Tal Granit": {
+                "args": []
+            },
+            "Sharon Maymon": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

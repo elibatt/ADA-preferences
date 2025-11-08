@@ -1,0 +1,104 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_if only \"dior and i\" told us why we should care.",
+                -0.6856815985539348
+            ],
+            [
+                "2_from creating photo files rather than sketching dresses, to fitting them on lithe human pipe cleaners who march them across the catwalk, the film is a serious look at a business containing surprising amounts of tension.",
+                0.644334744456153
+            ],
+            [
+                "3_the movie, not to mention the company, deserves praise for showing the challenges as well as the triumphs",
+                0.7178144213698727
+            ],
+            [
+                "3_ \"dior and i\" doesn't shy away from conflicts when they arise.",
+                -0.7447874139262054
+            ],
+            [
+                "3_it's a real look at a fascinating line of work.",
+                0.7201737133152137
+            ],
+            [
+                "4_this undramatic and flat peek \"inside\" the sewing rooms of christian dior holds little in the way of entertainment.",
+                -0.5084882645411088
+            ],
+            [
+                "10_we get no sense that simons is invested in the work, or concerned about what's at stake for his personal reputation, or has any insight into what he does with his time to balance what presumably are many other responsibilities and pressures.",
+                -0.5790712575144072
+            ],
+            [
+                "11_if the ungodly star-driven media frenzy that surrounds the spring collections of the great paris houses like christian dior is the public face of designer fashion, \"dior and i\" shows us that what goes on behind the scenes is even more intriguing.",
+                0.767275717700929
+            ],
+            [
+                "14_\"dior and i\" intimately demonstrates the tricky balance between art and commerce, between perpetuating a mythology while attending to the bottom line, and doing it with the pressure of a ticking clock.",
+                0.7234705498961478
+            ],
+            [
+                "17_tcheng gets under simons' skin - we see the designer's methods of work, insecurities, vulnerabilities and his ability to cut through the noise.",
+                0.5908432836375338
+            ],
+            [
+                "19_dior and i is a great fashion movie, ",
+                0.7525068840035124
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Frederic Tcheng": {
+                "args": [
+                    [
+                        "16_access to an institution like the house of dior is a rare and precious thing, and mr. tcheng has paid for it with a flattering portrait dressed up to look like cleareyed scrutiny.",
+                        0.7375670000671979
+                    ],
+                    [
+                        "18_for all the seductive imagery of billowing apparel and impossibly angled high heels, tcheng never loses sight of the people overseeing every stitch.",
+                        -0.5361715963857303
+                    ],
+                    [
+                        "20_frederic tcheng's dior and i is a fashion doc with both a sense of history and a feel for the energy of a work in progress.",
+                        0.5757277300998263
+                    ],
+                    [
+                        "21_as carefully crafted as the clothes is tcheng's well-considered direction, privileging the creative process over stereotyped glamour or backstabbing (this is no ready to wear).",
+                        0.6308207840596014
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Frederic Tcheng": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Anna Wintour": {
+                "args": []
+            },
+            "Jennifer Lawrence": {
+                "args": []
+            },
+            "Omar Berrada": {
+                "args": []
+            },
+            "Marion Cotillard": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

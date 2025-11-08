@@ -1,0 +1,232 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film is a journey through outer space, ",
+                0.7190462833456985
+            ],
+            [
+                "6_a space odyssey is some sort of great film, and an unforgettable endeavor.",
+                0.8495198335466453
+            ],
+            [
+                "7_the film's projections of the cold war and antiquated product placements may look quaint now, ",
+                -0.7620690973775098
+            ],
+            [
+                "10_it is an extraordinary, obsessive, beautiful work of art.",
+                0.8470146840377923
+            ],
+            [
+                "16_the film creates its effects essentially out of visuals and music.",
+                0.604691545555517
+            ],
+            [
+                "17_the movie is so completely absorbed in its own problems, its use of color and space, its fanatical devotion to science-fiction detail, that its is somewhere between hypnotic and immensely boring.",
+                -0.5549703312842308
+            ],
+            [
+                "18_a cold, majestic motion picture, a movie that seeks to remind us of the vastness of space and our relatively insignificant place in it.",
+                0.5310369234750383
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stanley Kubrick": {
+                "args": [
+                    [
+                        "2_a small sphere of intellectuals will feel that kubrick has said something, simply because one expected him to say something. ...",
+                        -0.5756417055982466
+                    ],
+                    [
+                        "2_most moviegoers will only wish that mr. kubrick would come back down to earth.",
+                        -0.6261878196594578
+                    ],
+                    [
+                        "4_ stanley kubrick's venture succeeds as dazzling visual art.",
+                        0.8217824165034634
+                    ],
+                    [
+                        "9_for all the essential coldness of kubrick's vision, it demands attention as superior sci-fi, simply because it's more concerned with ideas than with boy's own-style pyrotechnics.",
+                        0.6848736889774556
+                    ],
+                    [
+                        "11_high marks for kubrick the special-effects man",
+                        0.6507257433043281
+                    ],
+                    [
+                        "11_ where was kubrick the director?",
+                        -0.5534321531077123
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Terry Duggan": {
+                "args": []
+            },
+            "Gary Lockwood": {
+                "args": []
+            },
+            "William Sylvester": {
+                "args": []
+            },
+            "David Hines": {
+                "args": []
+            },
+            "Sean Sullivan": {
+                "args": []
+            },
+            "Penny Brahms": {
+                "args": []
+            },
+            "Edwina Carroll": {
+                "args": []
+            },
+            "Robert Beatty": {
+                "args": []
+            },
+            "Richard Wood": {
+                "args": []
+            },
+            "Laurence Marchant": {
+                "args": []
+            },
+            "Bob Wilyman": {
+                "args": []
+            },
+            "Brian Hawley": {
+                "args": []
+            },
+            "Tony Jackson": {
+                "args": []
+            },
+            "Jonathan Daw": {
+                "args": []
+            },
+            "Darryl Paes": {
+                "args": []
+            },
+            "John Jordan": {
+                "args": []
+            },
+            "Leonard Rossiter": {
+                "args": []
+            },
+            "Glenn Beck": {
+                "args": []
+            },
+            "Jimmy Bell": {
+                "args": []
+            },
+            "Keir Dullea": {
+                "args": []
+            },
+            "John Ashley": {
+                "args": []
+            },
+            "Daniel Richter": {
+                "args": []
+            },
+            "Ann Gillis": {
+                "args": []
+            },
+            "Ed Bishop": {
+                "args": []
+            },
+            "David Charkham": {
+                "args": []
+            },
+            "Frank Miller": {
+                "args": []
+            },
+            "Douglas Rain": {
+                "args": []
+            },
+            "Peter Delmar": {
+                "args": []
+            },
+            "Bill Weston": {
+                "args": []
+            },
+            "Mike Lovell": {
+                "args": []
+            },
+            "Margaret Tyzack": {
+                "args": []
+            },
+            "Simon Davis": {
+                "args": []
+            },
+            "Joe Refalo": {
+                "args": []
+            },
+            "Vivian Kubrick": {
+                "args": [
+                    [
+                        "2_a small sphere of intellectuals will feel that kubrick has said something, simply because one expected him to say something. ...",
+                        -0.5756417055982466
+                    ],
+                    [
+                        "2_most moviegoers will only wish that mr. kubrick would come back down to earth.",
+                        -0.6261878196594578
+                    ],
+                    [
+                        "4_ stanley kubrick's venture succeeds as dazzling visual art.",
+                        0.8217824165034634
+                    ],
+                    [
+                        "9_for all the essential coldness of kubrick's vision, it demands attention as superior sci-fi, simply because it's more concerned with ideas than with boy's own-style pyrotechnics.",
+                        0.6848736889774556
+                    ],
+                    [
+                        "11_high marks for kubrick the special-effects man",
+                        0.6507257433043281
+                    ],
+                    [
+                        "11_ where was kubrick the director?",
+                        -0.5534321531077123
+                    ]
+                ]
+            },
+            "David Fleetwood": {
+                "args": []
+            },
+            "Alan Gifford": {
+                "args": []
+            },
+            "Scott MacKee": {
+                "args": []
+            },
+            "Danny Grover": {
+                "args": []
+            },
+            "Andy Wallace": {
+                "args": []
+            },
+            "Heather Downham": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Arthur C. Clarke": {
+                "args": []
+            },
+            "Stanley Kubrick": {
+                "args": []
+            }
+        }
+    }
+}

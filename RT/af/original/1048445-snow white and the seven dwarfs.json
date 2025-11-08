@@ -1,0 +1,164 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film is as charming as it is novel in conception and execution and it is so bound to appeal as strongly to grown-ups as to youngsters.",
+                0.7450854648076944
+            ],
+            [
+                "2_so perfect is the illusion, so tender the romance and fantasy, so emotional are certain portions when the acting of the characters strikes a depth comparable to the sincerity of human players, that the film approaches real greatness.",
+                0.8040888591986425
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David D. Hand": {
+                "args": []
+            },
+            "Merrill de Maris": {
+                "args": []
+            },
+            "Perce Pearce": {
+                "args": []
+            },
+            "Richard Creedon": {
+                "args": []
+            },
+            "David Hand": {
+                "args": []
+            },
+            "William Cottrell": {
+                "args": []
+            },
+            "Webb Smith": {
+                "args": []
+            },
+            "Dorothy Ann Blank": {
+                "args": []
+            },
+            "Ben Sharpsteen": {
+                "args": []
+            },
+            "Walt Disney": {
+                "args": [
+                    [
+                        "4_...the animation itself is top-notch, and in a number of darker sequences (snow white's terrified entry into the forest, for example), disney's adoption of expressionist visual devices makes for genuinely powerful drama.",
+                        0.823454123986415
+                    ],
+                    [
+                        "7_like many of the disney films, from pinocchio to fantasia, this film is a cinematic rite of passage -- for children and adults.",
+                        0.5996746171915295
+                    ]
+                ]
+            },
+            "Larry Morey": {
+                "args": []
+            },
+            "Dick Richard": {
+                "args": []
+            },
+            "Wilfred Jackson": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_so perfect is the illusion, so tender the romance and fantasy, so emotional are certain portions when the acting of the characters strikes a depth comparable to the sincerity of human players, that the film approaches real greatness.",
+                0.8040888591986425
+            ]
+        ],
+        "entities": {
+            "Marion Darlington": {
+                "args": []
+            },
+            "Lucille La Verne": {
+                "args": []
+            },
+            "Marge Champion": {
+                "args": []
+            },
+            "Roy Atwell": {
+                "args": []
+            },
+            "Snow White": {
+                "args": [
+                    [
+                        "1_to say of snow white and the seven dwarfs that it is among the genuine artistic achievements of this country takes no great daring.",
+                        0.6530308564789826
+                    ],
+                    [
+                        "4_...the animation itself is top-notch, and in a number of darker sequences (snow white's terrified entry into the forest, for example), disney's adoption of expressionist visual devices makes for genuinely powerful drama.",
+                        0.823454123986415
+                    ]
+                ]
+            },
+            "Billy Gilbert": {
+                "args": []
+            },
+            "Pinto Colvig": {
+                "args": []
+            },
+            "Harry Stockwell": {
+                "args": []
+            },
+            "Stuart Buchanan": {
+                "args": []
+            },
+            "James MacDonald": {
+                "args": []
+            },
+            "Eddie Collins": {
+                "args": []
+            },
+            "Adriana Caselotti": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dorothy Anne Blank": {
+                "args": []
+            },
+            "Dorothy Ann Blank": {
+                "args": []
+            },
+            "Otto Englander": {
+                "args": []
+            },
+            "Richard Creedon": {
+                "args": []
+            },
+            "Dick Richards": {
+                "args": []
+            },
+            "Merrill de Maris": {
+                "args": []
+            },
+            "Webb Smith": {
+                "args": []
+            },
+            "Ted Sears": {
+                "args": []
+            },
+            "Dick Richard": {
+                "args": []
+            },
+            "Dick Rickard": {
+                "args": []
+            },
+            "Earl Hurd": {
+                "args": []
+            }
+        }
+    }
+}

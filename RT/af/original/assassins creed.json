@@ -1,0 +1,217 @@
+{
+    "writer": {
+        "args": [
+            [
+                "19_despite the tortured writing, kurzel shoots the heck out of the film, especially the flashbacks, when aguilar and his assassin companion maria parkour around ancient andalusia,",
+                0.6979805335458095
+            ]
+        ],
+        "entities": {
+            "Michael Lesslie": {
+                "args": []
+            },
+            "Adam Cooper": {
+                "args": []
+            },
+            "Bill Collage": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_an over-cast video game movie.",
+                -0.7177537529586384
+            ],
+            [
+                "2_i suppose you could say the film made me slightly more likely to play one of the games, ",
+                -0.5605505309228822
+            ],
+            [
+                "2_ only because i'd do just about anything before i saw this movie again.",
+                -0.6568020724230141
+            ],
+            [
+                "3_, it stands as another example of how hard it is to make a good mainstream movie out of a popular computer game.",
+                -0.5896685417101803
+            ],
+            [
+                "5_in the game-to-film genre - which includes such memorable disasters as \"silent hill\" and \"hitman 47\" - this is yet another disorganized, incoherent, nearly unwatchable entry.",
+                -0.5602628112836322
+            ],
+            [
+                "7_so what if philosophical depths are out of the film's reach, there's a seed of ambition in this one that suggests the transfer of a video game to the screen doesn't always have to be a suicide mission.",
+                -0.7896574044976825
+            ],
+            [
+                "8_that the film doesn't know it is agony.",
+                -0.6522904105362022
+            ],
+            [
+                "12_assassin's creed is good evidence that sometimes a video game is the better medium than a movie with which to tell a story.",
+                0.5988373832498122
+            ],
+            [
+                "14_it's just a mediocre action movie, poorly edited and larded with a terrible musical score, based on a video game.",
+                -0.8585226321541524
+            ],
+            [
+                "17_for an ostensible action movie, the cast spends an awful lot of time standing around and looking lost.",
+                -0.7848581194400581
+            ],
+            [
+                "20_the rest of us, i imagine, may come out of this film invigorated with a creed of our own:",
+                0.7692980519498374
+            ],
+            [
+                "28_declaring this to be the best video game movie ever made is the kind of backhanded compliment that sounds like hyperbole, ",
+                0.5473474394649169
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "0_an over-cast video game movie.",
+                -0.7177537529586384
+            ],
+            [
+                "17_for an ostensible action movie, the cast spends an awful lot of time standing around and looking lost.",
+                -0.7848581194400581
+            ]
+        ],
+        "entities": {
+            "Yuric Allison": {
+                "args": []
+            },
+            "Aaron Monaghan": {
+                "args": []
+            },
+            "Angus Brown": {
+                "args": []
+            },
+            "Gertrude Thoma": {
+                "args": []
+            },
+            "Juan Pablo Shuk": {
+                "args": []
+            },
+            "Joe Kennard": {
+                "args": []
+            },
+            "Charlotte Rampling": {
+                "args": []
+            },
+            "Ariane Labed": {
+                "args": []
+            },
+            "Javier Gutiérrez": {
+                "args": []
+            },
+            "Mattias Padin Varela": {
+                "args": []
+            },
+            "Michelle H. Lin": {
+                "args": []
+            },
+            "Khalid Abdalla": {
+                "args": []
+            },
+            "Brendan Gleeson": {
+                "args": []
+            },
+            "Thomas Camilleri": {
+                "args": []
+            },
+            "Crystal Clarke": {
+                "args": []
+            },
+            "Julio Jordan": {
+                "args": []
+            },
+            "Gabriel Andreu": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": [
+                    [
+                        "25_assassin's creed reps fassbender's first film as a producer, ",
+                        0.6234990020299476
+                    ],
+                    [
+                        "27_in \"assassin's creed,\" michael fassbender is like the ultimate special effect.",
+                        0.5440098336049294
+                    ]
+                ]
+            },
+            "Essie Davis": {
+                "args": []
+            },
+            "Callum Turner": {
+                "args": []
+            },
+            "Marysia S. Peres": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "Hovik Keuchkerian": {
+                "args": []
+            },
+            "Denis Ménochet": {
+                "args": []
+            },
+            "Jeremy Irons": {
+                "args": []
+            },
+            "Carlos Bardem": {
+                "args": []
+            },
+            "Marion Cotillard": {
+                "args": [
+                    [
+                        "6_fassbender, one of the producers, and cotillard head a lavishly wasted cast. ...",
+                        -0.698611083397022
+                    ],
+                    [
+                        "24_and cotillard seems particularly unnecessary.",
+                        -0.6632483192110354
+                    ]
+                ]
+            },
+            "Kemaal Deen-Ellis": {
+                "args": []
+            },
+            "Jeff Mash": {
+                "args": []
+            },
+            "James Sobol Kelly": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "17_i can only guess that they were following their director's lead.",
+                -0.698683271001971
+            ]
+        ],
+        "entities": {
+            "Justin Kurzel": {
+                "args": [
+                    [
+                        "19_despite the tortured writing, kurzel shoots the heck out of the film, especially the flashbacks, when aguilar and his assassin companion maria parkour around ancient andalusia,",
+                        0.6979805335458095
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "acting": {
+        "entities": {
+            "Dave Bautista": {
+                "args": []
+            },
+            "Jenny Slate": {
+                "args": []
+            },
+            "Brian Tyree Henry": {
+                "args": []
+            },
+            "Jodie Foster": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "Charlie Day": {
+                "args": []
+            },
+            "Sterling K. Brown": {
+                "args": []
+            },
+            "Sofia Boutella": {
+                "args": []
+            },
+            "Zachary Quinto": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_positive points for trying to achieve something original, and for the quality of the cast.",
+                0.6508690115050714
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Drew Pearce": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_ a kind of shrug of a plot, has character - and characters - to spare, and ",
+                0.6238437539070196
+            ],
+            [
+                "20_[writer and director drew pearce] flaps around for a consistent tone, stunts some potential story lines and kicks out a bunch of cliches.",
+                -0.609657005669189
+            ],
+            [
+                "26_foster finds the damaged, self-medicating core of her character, ",
+                0.6160511448101283
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_ what at first looks like a potential cult classic becomes a movie you might catch on basic cable in a year.",
+                -0.5663885028411063
+            ],
+            [
+                "4_, this moody, bleak film about a secretive hospital for criminals oozes atmosphere ",
+                -0.609845715316944
+            ],
+            [
+                "6_high-concept, low-budget, proudly set-bound, \"hotel artemis\" shouldn't work at all.",
+                -0.8029280797164137
+            ],
+            [
+                "8_sleazy, insanely violent, and reasonably entertaining b-movie trash.",
+                0.5364921694587127
+            ],
+            [
+                "10_\"hotel artemis\" wants to wow you with its sharp look and chic attitude, ",
+                0.6238911062748183
+            ],
+            [
+                "11_the movie's premise is enjoyable, even if stitched together from a pile of dystopian hand-me-downs, and the comic moments are sharp.",
+                0.5371277907186397
+            ],
+            [
+                "13_for all its self-seriousness, \"hotel artemis\" is ultimately a silly story of bad guys, big egos and one good fight sequence.",
+                -0.6970047098642127
+            ],
+            [
+                "16_\"hotel artemis\" is neither a sequel nor a remake, ",
+                -0.7476020798367726
+            ],
+            [
+                "16_ a film of considerable originality.",
+                0.7051988019163737
+            ],
+            [
+                "17_moronic drivel that truly qualifies as the worst movie of the year",
+                -0.8870220642163079
+            ],
+            [
+                "19_ in a confused, jumbled film that never quite gets its story straight.",
+                -0.5774677482361654
+            ],
+            [
+                "21_far too often, hotel artemis even fails to make use of what it has at its disposal.",
+                -0.7531997034466508
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Drew Pearce": {
+                "args": [
+                    [
+                        "5_maybe no one should ever get in pearce's way again.",
+                        -0.6793460930166314
+                    ],
+                    [
+                        "19_writer and director drew pearce makes his feature de",
+                        0.6194556937440012
+                    ],
+                    [
+                        "20_[writer and director drew pearce] flaps around for a consistent tone, stunts some potential story lines and kicks out a bunch of cliches.",
+                        -0.609657005669189
+                    ],
+                    [
+                        "24_there are a lot of moving parts here, and pearce fits them together with admirable skill.",
+                        0.6934890926711026
+                    ],
+                    [
+                        "27_mr. pearce is...well-versed in staging and shooting decent action scenes, and building suspense enough to keep \"hotel artemis\" diverting in its overstuffed ambition.",
+                        -0.5357608480771555
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

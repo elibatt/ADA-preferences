@@ -1,0 +1,244 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_then drop everything and rush to see this movie.",
+                0.513758330799265
+            ],
+            [
+                "5_ his latest concert film won't bowl you over.",
+                -0.5062765146046073
+            ],
+            [
+                "6_if you don't, you're not going to this movie in the first place, are you?",
+                -0.6318756009380715
+            ],
+            [
+                "9_hart has suggested that this may be his final stand-up film.",
+                0.5826256238484111
+            ],
+            [
+                "12_this movie is not quite the comic event it relentlessly advertises in its opening and closing moments.",
+                0.515879482496373
+            ],
+            [
+                "20_hart says \"what now?\" will be his last stand-up film.",
+                0.5169559331016362
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Tim Story": {
+                "args": []
+            },
+            "Leslie Small": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Joey Wells": {
+                "args": []
+            },
+            "Harry Ratchford": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": [
+                    [
+                        "1_are you a kevin hart fan?",
+                        0.5695473303525088
+                    ],
+                    [
+                        "1_are you not a kevin hart fan?",
+                        -0.6107235606234138
+                    ],
+                    [
+                        "3_there's a comfort to be found in hart's skyrocketing mobility that makes america clap and cheer and howl along.",
+                        -0.5221607775952519
+                    ],
+                    [
+                        "5_unless you're a loyal hart fan,",
+                        0.632832648850786
+                    ],
+                    [
+                        "6_if you think kevin hart is funny -- as i do -- you'll laugh frequently, as i did.",
+                        0.584836552375736
+                    ],
+                    [
+                        "7_ by the time comic kevin hart wrapped up his latest standup concert film with a series of tasteless sex jokes, i wanted out.",
+                        -0.596380077236839
+                    ],
+                    [
+                        "8_i would strongly suggest that only those people who are already on-board with hart's profane, raucous, scatological and often rude family humour go to see this film.",
+                        -0.5621617668528753
+                    ],
+                    [
+                        "11_ mostly just raucous, hart generally pulls it off in his third concert film ...",
+                        0.5843917917281914
+                    ],
+                    [
+                        "14_nobody works harder at getting a laugh than kevin hart.",
+                        -0.5779751931169869
+                    ],
+                    [
+                        "15_if you dig hart's stuff, you'll probably love the movie.",
+                        0.6792994230953858
+                    ],
+                    [
+                        "16_the movie is a good representation of mr. hart's comedy, ",
+                        0.6672708389232638
+                    ],
+                    [
+                        "19_ revolves around hart's slightly bratty self-preservation instincts - he digs deep into vulnerabilities and what could be perceived as his flaws as a parent and partner to draw out the laughs.",
+                        0.6864067099774751
+                    ],
+                    [
+                        "21_even if hart has become enough of a big shot to get halle berry and don cheadle to play along with the 007 spoof that opens the movie, he's still frank and funny enough to relate to the folks in the cheap seats.",
+                        0.6183833386736872
+                    ],
+                    [
+                        "22_ hardly justifies the record-setting receipts of hart's 2016 tour.",
+                        0.65304591667223
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Varo Kinsey": {
+                "args": []
+            },
+            "Jeff Baumann (II)": {
+                "args": []
+            },
+            "Will Horton": {
+                "args": []
+            },
+            "Gabriel Tsai": {
+                "args": []
+            },
+            "Magali Amadei": {
+                "args": []
+            },
+            "Peter Mensah": {
+                "args": []
+            },
+            "Sebastian Clay": {
+                "args": []
+            },
+            "John Clausell": {
+                "args": []
+            },
+            "Ed Helms": {
+                "args": []
+            },
+            "Ben Seaward": {
+                "args": []
+            },
+            "Richardson Jones": {
+                "args": []
+            },
+            "Dennis Keiffer": {
+                "args": []
+            },
+            "Daniel Bernhardt": {
+                "args": []
+            },
+            "Halle Berry": {
+                "args": []
+            },
+            "Kevin Hart": {
+                "args": [
+                    [
+                        "1_are you a kevin hart fan?",
+                        0.5695473303525088
+                    ],
+                    [
+                        "1_are you not a kevin hart fan?",
+                        -0.6107235606234138
+                    ],
+                    [
+                        "3_there's a comfort to be found in hart's skyrocketing mobility that makes america clap and cheer and howl along.",
+                        -0.5221607775952519
+                    ],
+                    [
+                        "5_unless you're a loyal hart fan,",
+                        0.632832648850786
+                    ],
+                    [
+                        "6_if you think kevin hart is funny -- as i do -- you'll laugh frequently, as i did.",
+                        0.584836552375736
+                    ],
+                    [
+                        "7_ by the time comic kevin hart wrapped up his latest standup concert film with a series of tasteless sex jokes, i wanted out.",
+                        -0.596380077236839
+                    ],
+                    [
+                        "8_i would strongly suggest that only those people who are already on-board with hart's profane, raucous, scatological and often rude family humour go to see this film.",
+                        -0.5621617668528753
+                    ],
+                    [
+                        "11_ mostly just raucous, hart generally pulls it off in his third concert film ...",
+                        0.5843917917281914
+                    ],
+                    [
+                        "14_nobody works harder at getting a laugh than kevin hart.",
+                        -0.5779751931169869
+                    ],
+                    [
+                        "15_if you dig hart's stuff, you'll probably love the movie.",
+                        0.6792994230953858
+                    ],
+                    [
+                        "16_the movie is a good representation of mr. hart's comedy, ",
+                        0.6672708389232638
+                    ],
+                    [
+                        "19_ revolves around hart's slightly bratty self-preservation instincts - he digs deep into vulnerabilities and what could be perceived as his flaws as a parent and partner to draw out the laughs.",
+                        0.6864067099774751
+                    ],
+                    [
+                        "21_even if hart has become enough of a big shot to get halle berry and don cheadle to play along with the 007 spoof that opens the movie, he's still frank and funny enough to relate to the folks in the cheap seats.",
+                        0.6183833386736872
+                    ],
+                    [
+                        "22_ hardly justifies the record-setting receipts of hart's 2016 tour.",
+                        0.65304591667223
+                    ]
+                ]
+            },
+            "Joey Wells": {
+                "args": []
+            },
+            "David Meunier": {
+                "args": []
+            },
+            "Ashley Dowling": {
+                "args": []
+            },
+            "Don Cheadle": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_t is all you need for an entertaining performance that is funny, angry and sometimes just weird.",
+                0.8067190938729625
+            ],
+            [
+                "20_turning a one-man show into a cast-of-thousands spectacle is one way to go out with a bang.",
+                0.6594160519739164
+            ]
+        ]
+    }
+}

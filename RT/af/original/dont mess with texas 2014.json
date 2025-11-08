@@ -1,0 +1,309 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_neither is most of the movie, which throws these two at a wall of gags and hopes they stick.",
+                0.562422725698003
+            ],
+            [
+                "7_it's a chase film, it's a buddy film, it's a ridiculous, loud and often offensive romp.",
+                -0.5828325026980529
+            ],
+            [
+                "24_as a movie, \"hot pursuit\" can barely be said to exist.",
+                -0.7061984257546372
+            ],
+            [
+                "28_funny ladies do funny cop-movie business.",
+                0.5068047499095225
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_you'd think it was directed by the worst sort of male chauvinist director.",
+                -0.6700863410224815
+            ]
+        ],
+        "entities": {
+            "Anne Fletcher": {
+                "args": [
+                    [
+                        "6_for someone with a background in choreography, fletcher has no idea of how to sell physical comedy.",
+                        -0.7187291345410015
+                    ],
+                    [
+                        "13_while she can make static cinema as well as anybody in the boys club -- hot pursuit is solid evidence of that -- ms. fletcher also monkeys with the conventions enough to make one wonder what kind of mischief she could ultimately commit.",
+                        0.7770492897434997
+                    ],
+                    [
+                        "27_the blame lies with a dopey script, director anne fletcher and a lazy hollywood assumption that female buddy flicks should be as half-assed as their male counterparts.",
+                        -0.5375865185401382
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "29_i am tempted to say it's another sorry example of what women have to do to keep an acting career going today, when all the juicy roles go to men.",
+                -0.7106806593043242
+            ]
+        ],
+        "entities": {
+            "Michael Ray Escamilla": {
+                "args": []
+            },
+            "Jodi Lyn Brockton": {
+                "args": []
+            },
+            "Graham Harley": {
+                "args": []
+            },
+            "Maggie Hance": {
+                "args": []
+            },
+            "Marcus Lyle Brown": {
+                "args": []
+            },
+            "Carol Sutton": {
+                "args": []
+            },
+            "Nicondra Norwood": {
+                "args": []
+            },
+            "Jaylen Moore": {
+                "args": []
+            },
+            "Benny Nieves": {
+                "args": []
+            },
+            "Anne Fletcher": {
+                "args": []
+            },
+            "Rachel Wulff": {
+                "args": []
+            },
+            "Bryce Romero": {
+                "args": []
+            },
+            "Josue Gutierrez": {
+                "args": []
+            },
+            "Reese Witherspoon": {
+                "args": [
+                    [
+                        "4_\"hot pursuit\" features one of the worst and most forced performances of reese witherspoon's career, an irritating performance by sofia vergara(whom i love on 'modern family') and a seemingly endless parade of lazy and arbitrary plot twists and turns.",
+                        -0.6617180966026525
+                    ],
+                    [
+                        "12_reese witherspoon and sofia vergara have great chemistry as a misfit comedy duo in the road movie hot pursuit.",
+                        0.6833000901916007
+                    ],
+                    [
+                        "17_in a pairing of witherspoon and vergara, you might expect vergara to be the funny one.",
+                        0.6261971357506128
+                    ],
+                    [
+                        "17_but the script has witherspoon playing for laughs,",
+                        -0.5900606718472049
+                    ],
+                    [
+                        "18_the trailers for the reese witherspoon-sofia vergara comedy \"hot pursuit\" hint at a movie that's unfunny, insufferable and obvious.",
+                        -0.5915967034774599
+                    ],
+                    [
+                        "19_reese witherspoon delivers a few minutes of superb physical humor in this ",
+                        0.6198355187718514
+                    ],
+                    [
+                        "20_wastes the talents of reese witherspoon and sofia vergara as egregiously as one could possibly imagine, resorting to lame jokes, cliches and incompetent storytelling to pass the time.",
+                        -0.691194752206862
+                    ],
+                    [
+                        "21_the proven comic gifts of witherspoon and vergara have gone mia.",
+                        -0.5119707614033748
+                    ],
+                    [
+                        "31_good for reese witherspoon and sofia vergara for becoming close friends and partners in crime during filming.",
+                        0.5219121005931115
+                    ],
+                    [
+                        "32_[witherspoon] seems unafraid to cut loose, and she and vergara make a terrific team.",
+                        0.6602520304508696
+                    ],
+                    [
+                        "34_isn't this the sort of nitwit comedy reese witherspoon wasn't going to have to make anymore after becoming a producer on the likes of wild and gone girl?",
+                        -0.7810040314330761
+                    ],
+                    [
+                        "35_reese witherspoon and sofia vergara can't save this lazy, unfunny action-comedy.",
+                        -0.8357127956680563
+                    ],
+                    [
+                        "36_if you've ever wondered what an adam sandler film starring reese witherspoon would look like, \"hot pursuit\" is it.",
+                        0.5506729209192863
+                    ]
+                ]
+            },
+            "Noel Rathe": {
+                "args": []
+            },
+            "Peaches Davis": {
+                "args": []
+            },
+            "Mike Birbiglia": {
+                "args": []
+            },
+            "Kathleen Fletcher": {
+                "args": [
+                    [
+                        "6_for someone with a background in choreography, fletcher has no idea of how to sell physical comedy.",
+                        -0.7187291345410015
+                    ],
+                    [
+                        "13_while she can make static cinema as well as anybody in the boys club -- hot pursuit is solid evidence of that -- ms. fletcher also monkeys with the conventions enough to make one wonder what kind of mischief she could ultimately commit.",
+                        0.7770492897434997
+                    ],
+                    [
+                        "27_the blame lies with a dopey script, director anne fletcher and a lazy hollywood assumption that female buddy flicks should be as half-assed as their male counterparts.",
+                        -0.5375865185401382
+                    ]
+                ]
+            },
+            "Phil Anaya": {
+                "args": []
+            },
+            "Janette Sepwa": {
+                "args": []
+            },
+            "Manolo Gonzales": {
+                "args": []
+            },
+            "Joe Camp III": {
+                "args": []
+            },
+            "Evaluna Montaner": {
+                "args": []
+            },
+            "Zachary Woodlee": {
+                "args": []
+            },
+            "Jim Gaffigan": {
+                "args": []
+            },
+            "Joaquín Cosio": {
+                "args": []
+            },
+            "Leslie Ivette Quezada": {
+                "args": []
+            },
+            "Kenneth Kynt Bryan": {
+                "args": []
+            },
+            "Michael Mosley": {
+                "args": []
+            },
+            "John Carroll Lynch": {
+                "args": []
+            },
+            "Abigail James Witherspoon": {
+                "args": []
+            },
+            "María Alejandra Pérez": {
+                "args": []
+            },
+            "Harlon Miller": {
+                "args": []
+            },
+            "Robert Kazinsky": {
+                "args": []
+            },
+            "Keaton Margaret-Marie Luster": {
+                "args": []
+            },
+            "Richard T. Jones": {
+                "args": []
+            },
+            "Matthew Del Negro": {
+                "args": []
+            },
+            "Natalie Legendre": {
+                "args": []
+            },
+            "Kayla Cangiamilla": {
+                "args": []
+            },
+            "Millarel Ormazabal": {
+                "args": []
+            },
+            "Precious Roberson": {
+                "args": []
+            },
+            "Fallingstar Locke": {
+                "args": []
+            },
+            "Dave Jensen": {
+                "args": []
+            },
+            "Leticia Magaña": {
+                "args": []
+            },
+            "Sofía Vergara": {
+                "args": [
+                    [
+                        "17_ and vergara acting as straight man.",
+                        0.5366533651383322
+                    ],
+                    [
+                        "26_witherspoon and vergara are both experienced comedic actors with charisma to spare, and watching them pal around is a perfectly pleasant way to pass some time.",
+                        0.8608031718305668
+                    ]
+                ]
+            },
+            "Kim Collins": {
+                "args": []
+            },
+            "Oscar Gale": {
+                "args": []
+            },
+            "Vincent Laresca": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_witherspoon's character is cornball and annoyingly adrenalized - what was she thinking?",
+                -0.6593029989407142
+            ],
+            [
+                "12_unfortunately, they also have to strut their stuff while battling through a terrible screenplay with a hackneyed plot and dismal dialogue.",
+                -0.8912608995177927
+            ],
+            [
+                "17_but the script has witherspoon playing for laughs,",
+                -0.5900606718472049
+            ],
+            [
+                "27_the blame lies with a dopey script, director anne fletcher and a lazy hollywood assumption that female buddy flicks should be as half-assed as their male counterparts.",
+                -0.5375865185401382
+            ]
+        ],
+        "entities": {
+            "John Quaintance": {
+                "args": []
+            },
+            "David Feeney": {
+                "args": []
+            }
+        }
+    }
+}

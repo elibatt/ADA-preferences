@@ -1,0 +1,203 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "13_this is a powerful if sometimes heavy-handed film.",
+                0.6968769526557211
+            ],
+            [
+                "9_ a film about a woman coming into her own, which has to be satisfying.",
+                0.7867733317357272
+            ],
+            [
+                "18_the people deserve the truth and not to be lied to, ",
+                -0.6344999919095304
+            ],
+            [
+                "17_ the post is a timely and urgent tale for the present.",
+                0.7224967083355966
+            ],
+            [
+                "3_the post was exciting because everyone onscreen and in the audience embraced the premise that the post had news to tell that would turn the world on its ear.",
+                -0.6409471552103223
+            ],
+            [
+                "4_the film wrings a fair amount of tension and nostalgia from what is essentially a string of meetings in smoky rooms, ",
+                0.7451330135487276
+            ],
+            [
+                "7_she owns it because graham is the only character on a journey of self-discovery.",
+                0.6173383800121628
+            ],
+            [
+                "14_the conversations that centre on this point are at the heart of the film, which is timely, timeless and utterly enthralling.",
+                0.6114199580476243
+            ],
+            [
+                "19_in an era in which journalistic outlets are increasingly accused of delivering \"fake news,\" this film is a reminder that few things are as precious - and vital - as the truth.",
+                0.781207312145834
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "1",
+                1
+            ],
+            [
+                "12",
+                1
+            ],
+            [
+                "16",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "12_streep, hanks and spielberg deliver quality news in this journalistic thriller that's out to be this year's spotlight.",
+                0.6116735663229611
+            ],
+            [
+                "16_it's to spielberg's credit that he wanted to tell this story, and that he and his formidable cast tell it so very well.",
+                0.757943990859778
+            ]
+        ],
+        "entities": {
+            "Steven Spielberg": {
+                "unique_args": [
+                    [
+                        "12_streep, hanks and spielberg deliver quality news in this journalistic thriller that's out to be this year's spotlight.",
+                        0.6116735663229611
+                    ],
+                    [
+                        "16_it's to spielberg's credit that he wanted to tell this story, and that he and his formidable cast tell it so very well.",
+                        0.757943990859778
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "7_she owns it because graham is the only character on a journey of self-discovery.",
+                -0.6173383800121628
+            ],
+            [
+                "18_ \"the post\" shows that is easier said than done, and it's harder than just writing a story and sending it to the presses.",
+                -0.6305282250121311
+            ]
+        ],
+        "entities": {
+            "Liz Hannah": {
+                "unique_args": []
+            },
+            "Josh Singer": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "16_it's to spielberg's credit that he wanted to tell this story, and that he and his formidable cast tell it so very well.",
+                0.757943990859778
+            ],
+            [
+                "0_meryl streep gives a truly magnificent performance as katherine graham...",
+                0.9010205766266315
+            ],
+            [
+                "1_[meryl streep and tom hanks'] best scenes together reveal how each journalist was compromised by cozy relationships with powerful democrats (in his case, president kennedy",
+                0.8620452860194048
+            ],
+            [
+                "7_this is streep's movie, and not because she is typically excellent.",
+                0.7335421068467539
+            ],
+            [
+                "12_streep, hanks and spielberg deliver quality news in this journalistic thriller that's out to be this year's spotlight.",
+                0.6116735663229611
+            ]
+        ],
+        "entities": {
+            "Meryl Streep": {
+                "unique_args": [
+                    [
+                        "0_meryl streep gives a truly magnificent performance as katherine graham...",
+                        0.9010205766266315
+                    ],
+                    [
+                        "1_[meryl streep and tom hanks'] best scenes together reveal how each journalist was compromised by cozy relationships with powerful democrats (in his case, president kennedy",
+                        0.8620452860194048
+                    ],
+                    [
+                        "7_this is streep's movie, and not because she is typically excellent.",
+                        0.7335421068467539
+                    ]
+                ]
+            },
+            "Tom Hanks": {
+                "unique_args": [
+                    [
+                        "12_streep, hanks and spielberg deliver quality news in this journalistic thriller that's out to be this year's spotlight.",
+                        0.6116735663229611
+                    ]
+                ]
+            },
+            "Bruce Greenwood": {
+                "unique_args": []
+            },
+            "Matthew Rhys": {
+                "unique_args": []
+            },
+            "Bob Odenkirk": {
+                "unique_args": []
+            },
+            "Michael Stuhlbarg": {
+                "unique_args": []
+            },
+            "Sarah Paulson": {
+                "unique_args": []
+            },
+            "Tracy Letts": {
+                "unique_args": []
+            },
+            "Bradley Whitford": {
+                "unique_args": []
+            },
+            "Alison Brie": {
+                "unique_args": []
+            },
+            "Jessie Mueller": {
+                "unique_args": []
+            },
+            "Jesse Plemons": {
+                "unique_args": []
+            },
+            "David Cross": {
+                "unique_args": []
+            },
+            "Carrie Coon": {
+                "unique_args": []
+            },
+            "Zach Woods": {
+                "unique_args": []
+            },
+            "Jon Donahue": {
+                "unique_args": []
+            },
+            "Frank Ridley": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

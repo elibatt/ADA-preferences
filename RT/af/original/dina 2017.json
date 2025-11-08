@@ -1,0 +1,82 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_sweet without being sappy, the film extends an uncommon empathy to two characters that colder films (and, as we see, people) would treat as a punchline.",
+                0.8858143366283209
+            ],
+            [
+                "1_dina is a story about resilience and a woman's indomitable will to seek out her best life.",
+                0.8025703461379321
+            ],
+            [
+                "2_there are moments of humour in a gently affecting story that celebrates the ordinariness of its subjects.",
+                0.7779306548647245
+            ],
+            [
+                "4_even if approached with more than a few misgivings, \"dina\" is valuable if only to offer viewers an honest, touching, ultimately optimistic portrait of people embracing intimacy and honesty the best way they know how.",
+                0.801931053406125
+            ],
+            [
+                "5_ by the movie's end it's impossible not to wish one for dina and scott.",
+                -0.6733756176956116
+            ],
+            [
+                "8_the film is mostly happy to stay in its sweetly mundane lane, ",
+                0.794822560125908
+            ],
+            [
+                "9_their care for dina and scott is clear in every frame.",
+                0.5367004596455272
+            ],
+            [
+                "12_the rapport between the filmmakers and their principal characters is so comfortable, it occasionally feels as if we are watching a scripted film .",
+                -0.5039732756063792
+            ],
+            [
+                "13_alternately comic and tragic and best when its both at once, dina humanizes a world of people who were only dehumanized because we allowed them to be.",
+                0.6775495349326768
+            ],
+            [
+                "14_a sensitive snapshot of two ordinary people on the autism spectrum who are determined to carve out a meaningful future together.",
+                0.7538005594882049
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dan Sickles": {
+                "args": []
+            },
+            "Antonio Santini": {
+                "args": [
+                    [
+                        "3_co-directors antonio santini and dan sickles tell the story gracefully, doling out dina's tragic backstory in excellent increments.",
+                        0.5802918425176609
+                    ],
+                    [
+                        "9_there are some extremely dark moments in dina, and these are even more powerful because of santini and sickles' humanistic approach.",
+                        0.6237758967881597
+                    ],
+                    [
+                        "15_directors antonio santini and dan sickles never condescend to or coddle their vivacious leading lady, and the result is a fascinating love story.",
+                        0.753355849330287
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

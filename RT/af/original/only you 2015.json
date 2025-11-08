@@ -1,0 +1,51 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"only you\" is served very well by ms. tang (a star of ang lee's \"lust, caution\").",
+                0.6726344183230837
+            ],
+            [
+                "1_whether playing elated, sorrowful, coy or petulant, she consistently provides the spark the movie could use more of.",
+                0.6846095587028087
+            ],
+            [
+                "2_only you is mostly engaging for the ways in which it shows that prophecies reveal more about the receiver's interpretive biases than they do about the secrets of the universe.",
+                0.8213001793304557
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Hao Zhang": {
+                "args": []
+            },
+            "Zhang Hao": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Fan Liao": {
+                "args": []
+            },
+            "Tang Wei": {
+                "args": []
+            },
+            "Su Yan": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

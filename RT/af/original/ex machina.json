@@ -1,0 +1,249 @@
+{
+    "writer": {
+        "entities": {
+            "Alex Garland": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "21_it's hard to imagine another director squeezing as many shades and colors from his screenplay as garland did, and from now on, it would be understandable if he insisted on directing everything he writes.",
+                0.5407190829242304
+            ],
+            [
+                "22_ dazzling meditation on intelligence, consciousness and morality that discreetly uses special effects in service of story, dialogue and character.",
+                0.7674517057503839
+            ],
+            [
+                "24_the writer and director, alex garland, keeps the movie so full of doomy atmosphere that expecting the worst sort of becomes a treat.",
+                -0.6987342635383252
+            ],
+            [
+                "25_tful curiosity of garland's screenplay.",
+                -0.5102511292854653
+            ],
+            [
+                "31_sizzlingly smart and agreeably sententious, mr. garland's film transcends some all-too-human imperfections with gorgeous images, astute writing and memorably strong performances.",
+                0.8785414916867632
+            ],
+            [
+                "35_clever novelist and screenwriter alex garland makes a half-dandy directorial de",
+                0.5232967024918711
+            ],
+            [
+                "45_ synthesizes a dizzy range of the writer's philosophical preoccupations into a sleek, spare chamber piece ...",
+                0.6473422442244441
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Alex Garland": {
+                "args": [
+                    [
+                        "21_it's hard to imagine another director squeezing as many shades and colors from his screenplay as garland did, and from now on, it would be understandable if he insisted on directing everything he writes.",
+                        0.5407190829242304
+                    ],
+                    [
+                        "24_the writer and director, alex garland, keeps the movie so full of doomy atmosphere that expecting the worst sort of becomes a treat.",
+                        -0.6987342635383252
+                    ],
+                    [
+                        "25_tful curiosity of garland's screenplay.",
+                        -0.5102511292854653
+                    ],
+                    [
+                        "28_while mr. garland wants to tease your brain, he's an entertainer, and in time ditches science and philosophy for romance and action.",
+                        0.6128442734204405
+                    ],
+                    [
+                        "31_sizzlingly smart and agreeably sententious, mr. garland's film transcends some all-too-human imperfections with gorgeous images, astute writing and memorably strong performances.",
+                        0.8785414916867632
+                    ],
+                    [
+                        "34_but in the end, for all of garland's ambition,",
+                        -0.5346061701068345
+                    ],
+                    [
+                        "35_clever novelist and screenwriter alex garland makes a half-dandy directorial de",
+                        0.5232967024918711
+                    ],
+                    [
+                        "36_for a first-time director, garland seems assured.",
+                        0.5953680234385064
+                    ],
+                    [
+                        "38_it's the film version of an iphone: small, expensive-looking and a touch overhyped - plus an addictive sales pitch for whatever garland makes next.",
+                        0.5585036832222237
+                    ],
+                    [
+                        "44_for dystopian future-shock fans who can look beyond its basic design flaws, garland's feature de",
+                        0.6718018317915105
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ex machina is a disquieting power struggle waged in terms of human weaknesses, refracted through gender.",
+                0.6821332850968733
+            ],
+            [
+                "1_ex machina has a precise visual sheen that evokes david fincher, and earns the sudden, quiet, powerful scares of his best work.",
+                0.6902787975862315
+            ],
+            [
+                "2_ex machina is the best movie i've seen all year.",
+                0.9007773754642587
+            ],
+            [
+                "6_\"ex machina\" takes its time, wrestling with questions of responsibility, morality and compassion while getting ever weirder.",
+                0.7061549354757755
+            ],
+            [
+                "7_ex machina packs a scientist's brain inside a thrill seeker's body, much like the nubile robot within it.",
+                0.5044740879188201
+            ],
+            [
+                "10_this futuristic take on age-old motivations, jealousy and betrayal among them, makes ex machina clever and engaging throughout.",
+                0.8236961730095722
+            ],
+            [
+                "11_\"ex machina\" is a tense tale of artificial love so intelligently crafted and edgy that i adored it myself.",
+                0.7243983525511712
+            ],
+            [
+                "12_with a stellar cast and seductive look, \"ex machina\" is a sleek contraption for capturing our imagination.",
+                0.6328769230877309
+            ],
+            [
+                "14_it's great when a movie messes with your head.",
+                0.6776856393828724
+            ],
+            [
+                "16_\"ex machina\" is an exquisite puzzle box of a picture.",
+                0.6255470101402241
+            ],
+            [
+                "17_\"ex machina\" isn't quite \"citizen kane\" for an era of internet tycoons, ",
+                -0.5089081857039058
+            ],
+            [
+                "19_\"ex machina\" is a smart, exceptionally stylish head trip.",
+                0.695121705348215
+            ],
+            [
+                "23_in the final analysis, the movie doesn't offer much about the subject that hasn't been previously explored, ",
+                -0.6734430686336486
+            ],
+            [
+                "26_ \"ex machina\" is small and talky - it has just four characters,",
+                -0.5056200775650734
+            ],
+            [
+                "27_shrewdly imagined and persuasively made, \"ex machina\" is a spooky piece of speculative fiction that's completely plausible, capable of both thinking big ",
+                0.7588390353098822
+            ],
+            [
+                "32_this is a classic film.",
+                0.6966342026357664
+            ],
+            [
+                "35_ with ex machina, a sci-fi film that - like much of his work - fakes excitingly in the direction of breaking new ground before turning formulaic so fast.",
+                0.5224243791744718
+            ],
+            [
+                "37_make no mistake, this is a film of ideas-sadder, quieter, more delicate than the hollywood sci-fi standard-where every sliding wall of opaque glass suggests something about technology and the way people would use it.",
+                0.7105249537326088
+            ],
+            [
+                "40_\"ex machina\" shows there's still life left in tales of artificial intelligence.",
+                -0.5739323536213385
+            ],
+            [
+                "41_by going deep on a simple construct, ex machina establishes itself as a unique and deeply unsettling psychological thriller that's both necessary and unforgettable.",
+                0.7934922131500404
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Claire Selby": {
+                "args": []
+            },
+            "Chelsea Li": {
+                "args": []
+            },
+            "Gana Bayarsaikhan": {
+                "args": []
+            },
+            "Elina Alminas": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": [
+                    [
+                        "6_at its heart is ava, played with a fine blend of innocence and quiet panic by vikander.",
+                        0.6874339405918369
+                    ],
+                    [
+                        "9_like stage actors who live and breathe their roles over the course of months, isaac, gleeson, and vikander excel, and cast a spell.",
+                        0.708027154145396
+                    ],
+                    [
+                        "15_the swedish actress alicia vikander (\"the fifth estate\") infuses ava with the just the right mixture of iciness, vulnerability and mystery.",
+                        0.8063514452299522
+                    ]
+                ]
+            },
+            "Corey Johnson": {
+                "args": []
+            },
+            "Tiffany Pisani": {
+                "args": []
+            },
+            "Symara A. Templeman": {
+                "args": []
+            },
+            "Sonoya Mizuno": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": [
+                    [
+                        "5_a clever film with one indelible performance from isaac.",
+                        0.7495975617228102
+                    ],
+                    [
+                        "8_[oscar] isaac - buffed, bald, and bearded - is the film's dramatic center as nathan, a man betrayed by his own genius.",
+                        0.6747158589815591
+                    ],
+                    [
+                        "34_ex machina is beautiful and ominous and features another delicately nuanced performance from isaac, who's quickly making a habit of them.",
+                        0.7153156580457761
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_with a stellar cast and seductive look, \"ex machina\" is a sleek contraption for capturing our imagination.",
+                0.6328769230877309
+            ],
+            [
+                "15_it's a star-making performance.",
+                0.6457749988156551
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

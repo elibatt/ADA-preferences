@@ -1,0 +1,45 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jon Gunn": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Erika Christensen": {
+                "args": []
+            },
+            "Frankie Faison": {
+                "args": []
+            },
+            "Mike Vogel": {
+                "args": []
+            },
+            "Robert Forster": {
+                "args": []
+            },
+            "Faye Dunaway": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Brian Bird": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

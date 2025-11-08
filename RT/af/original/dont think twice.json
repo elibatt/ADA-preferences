@@ -1,0 +1,129 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film is nicely structured, gently witty, and it boasts an excellent cast",
+                0.9052398686463787
+            ],
+            [
+                "9_a smart, wistful and very funny movie in which six friends weather difficult times ",
+                0.6781383570690549
+            ],
+            [
+                "10_a tiny gem, a delightful film as surprising as it is satisfying.",
+                0.8654697120881024
+            ],
+            [
+                "14_it's an ensemble film in the truest sense, one that gives each of its well-drawn, interdependent characters their due.",
+                0.791375177194834
+            ],
+            [
+                "15_it's a movie that fleshes out the people who entertain us, not with bemusement like a christopher guest mockumentary, ",
+                0.6216610812299037
+            ],
+            [
+                "21_\"don't think twice,\" which has a warm heart, could have been a much nastier movie.",
+                -0.5182734247785681
+            ],
+            [
+                "23_\"don't think twice\" really shines as an improv procedural, a film that celebrates, in illuminating detail, the skills and anxieties of this showbiz subgenre.",
+                0.5852796982238329
+            ],
+            [
+                "28_there's a generosity of to spirit that the film that seems to draw directly from improv, with everybody getting a turn in the spotlight.",
+                0.6674041419397639
+            ],
+            [
+                "32_don't think twice are fitting for a movie about artistic expression that's never quite finished.",
+                0.540277727068645
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Mike Birbiglia": {
+                "args": [
+                    [
+                        "20_ birbiglia has also crafted a love letter to improv, capturing the tempestuous and unforgiving art form in a way that only an insider could.",
+                        0.7827852610225405
+                    ],
+                    [
+                        "27_mike birbiglia's don't think twice stands as the best, most revealing film about comedy people and one of the best about artistic collaboration.",
+                        0.8609507686188753
+                    ],
+                    [
+                        "29_i don't know how birbiglia pulled it off, ",
+                        -0.7249073707691014
+                    ],
+                    [
+                        "33_expanding on the behind-the-curtain sleepwalk with me, which focused on the personal life of a stand-up comic, birbiglia displays a feel for his troupe-minded brethren here.",
+                        0.7068034036117776
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_the film is nicely structured, gently witty, and it boasts an excellent cast",
+                0.9052398686463787
+            ]
+        ],
+        "entities": {
+            "Mike Birbiglia": {
+                "args": [
+                    [
+                        "20_ birbiglia has also crafted a love letter to improv, capturing the tempestuous and unforgiving art form in a way that only an insider could.",
+                        0.7827852610225405
+                    ],
+                    [
+                        "27_mike birbiglia's don't think twice stands as the best, most revealing film about comedy people and one of the best about artistic collaboration.",
+                        0.8609507686188753
+                    ],
+                    [
+                        "29_i don't know how birbiglia pulled it off, ",
+                        -0.7249073707691014
+                    ],
+                    [
+                        "33_expanding on the behind-the-curtain sleepwalk with me, which focused on the personal life of a stand-up comic, birbiglia displays a feel for his troupe-minded brethren here.",
+                        0.7068034036117776
+                    ]
+                ]
+            },
+            "Tami Sagher": {
+                "args": []
+            },
+            "Chris Gethard": {
+                "args": []
+            },
+            "Gillian Jacobs": {
+                "args": [
+                    [
+                        "24_amidst its hard truths about the odds of real success in a creative field, it's surprisingly effective at communicating, through jacobs especially, a kind of clear-eyed improv idealism.",
+                        0.8046632279216648
+                    ]
+                ]
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Kate Micucci": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Mike Birbiglia": {
+                "args": []
+            }
+        }
+    }
+}

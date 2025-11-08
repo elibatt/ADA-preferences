@@ -1,0 +1,136 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ultimately the movie is wearying, ",
+                -0.5372914354514715
+            ],
+            [
+                "2_shot in intense close-ups, the better to study the emotions burning off the characters' skin, the film is all talk and gestures, ",
+                0.6179430480349313
+            ],
+            [
+                "2_ it begins to take your breath away like a chase movie would.",
+                0.5003261161779833
+            ],
+            [
+                "9_despite the seemingly uncinematic nature of this inert, even claustrophobic scenario, the film mesmerizes,",
+                0.5052072756987089
+            ],
+            [
+                "11_this may not sound like the merriest way to spend time in a movie theater, ",
+                0.6815332720389353
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ronit Elkabetz": {
+                "args": []
+            },
+            "Shlomi Elkabetz": {
+                "args": [
+                    [
+                        "23_siblings ronit and shlomi elkabetz bring their blistering trilogy of male domination in an israeli family to a rewarding close with gett, the trial of viviane amsalem.",
+                        0.7124735974336183
+                    ],
+                    [
+                        "24_the film never devolves into finger-wagging hysterics thanks to ronit and brother/co-director shlomi elkabetz's keen attention to their actors' performances, especially ronit's star turn.",
+                        0.7749980041038973
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "12_every shot, cut, line, performance, indeed",
+                -0.5631986925968169
+            ]
+        ],
+        "entities": {
+            "Shmil Ben Ari": {
+                "args": []
+            },
+            "Eli Gornstein": {
+                "args": []
+            },
+            "Selektar Avrahram": {
+                "args": []
+            },
+            "Rami Danon": {
+                "args": []
+            },
+            "Menasheh Noy": {
+                "args": [
+                    [
+                        "19_the acting, especially from menash noy as an ineffectual attorney, is phenomenal, resulting in a feminist knockout told in inverse.",
+                        0.6035333164214615
+                    ]
+                ]
+            },
+            "Ruby Porat Shoval": {
+                "args": []
+            },
+            "David Ohayon": {
+                "args": []
+            },
+            "Dalia Malka Beger": {
+                "args": []
+            },
+            "Evelin Hagoel": {
+                "args": []
+            },
+            "Albert Iluz": {
+                "args": []
+            },
+            "Sasson Gabay": {
+                "args": []
+            },
+            "Roberto Pollack": {
+                "args": []
+            },
+            "Gabi Amrani": {
+                "args": []
+            },
+            "Simon Abkarian": {
+                "args": []
+            },
+            "Keren Mor": {
+                "args": []
+            },
+            "Ronit Elkabetz": {
+                "args": [
+                    [
+                        "23_siblings ronit and shlomi elkabetz bring their blistering trilogy of male domination in an israeli family to a rewarding close with gett, the trial of viviane amsalem.",
+                        0.7124735974336183
+                    ],
+                    [
+                        "24_the film never devolves into finger-wagging hysterics thanks to ronit and brother/co-director shlomi elkabetz's keen attention to their actors' performances, especially ronit's star turn.",
+                        0.7749980041038973
+                    ]
+                ]
+            },
+            "Ze'ev Revach": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ronit Elkabetz": {
+                "args": []
+            },
+            "Shlomi Elkabetz": {
+                "args": []
+            }
+        }
+    }
+}

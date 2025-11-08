@@ -1,0 +1,105 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Tyler Perry": {
+                "args": [
+                    [
+                        "0_if nothing else, and there really isn't much else, this feature provides a startling glimpse into the interiors of perry's imagination.",
+                        -0.5797433915775991
+                    ],
+                    [
+                        "1_while its predecessor at least pleased his fans, writer-director-star perry's latest offers few laughs and embarrassing post-production work.",
+                        -0.5477993664890131
+                    ],
+                    [
+                        "2_this movie finds mr. perry, never the most deft at the technical aspect of filmmaking, drastically off whatever his best game is.",
+                        0.7166166845794341
+                    ],
+                    [
+                        "6_even if you're just looking for a tyler perry night out, be very afraid.",
+                        -0.6426052127791534
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Diamond White": {
+                "args": []
+            },
+            "Cassi Davis": {
+                "args": []
+            },
+            "Inanna Sarkis": {
+                "args": []
+            },
+            "Yousef Erakat": {
+                "args": []
+            },
+            "Lexy Panterra": {
+                "args": []
+            },
+            "Taja V. Simpson": {
+                "args": []
+            },
+            "Tyler Perry": {
+                "args": [
+                    [
+                        "0_if nothing else, and there really isn't much else, this feature provides a startling glimpse into the interiors of perry's imagination.",
+                        -0.5797433915775991
+                    ],
+                    [
+                        "1_while its predecessor at least pleased his fans, writer-director-star perry's latest offers few laughs and embarrassing post-production work.",
+                        -0.5477993664890131
+                    ],
+                    [
+                        "2_this movie finds mr. perry, never the most deft at the technical aspect of filmmaking, drastically off whatever his best game is.",
+                        0.7166166845794341
+                    ],
+                    [
+                        "6_even if you're just looking for a tyler perry night out, be very afraid.",
+                        -0.6426052127791534
+                    ]
+                ]
+            },
+            "Tito Ortiz": {
+                "args": []
+            },
+            "Mike Tornabene": {
+                "args": []
+            },
+            "Brock O'Hurn": {
+                "args": []
+            },
+            "Patrice Lovely": {
+                "args": []
+            },
+            "Andre Hall": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_while its predecessor at least pleased his fans, writer-director-star perry's latest offers few laughs and embarrassing post-production work.",
+                -0.5477993664890131
+            ]
+        ],
+        "entities": {
+            "Tyler Perry": {
+                "args": []
+            }
+        }
+    }
+}

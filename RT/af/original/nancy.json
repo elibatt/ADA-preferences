@@ -1,0 +1,146 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Christina Choe": {
+                "args": [
+                    [
+                        "5_ choe's empathy for her protagonist gives the film its distinctive texture - woebegone, with flickers of both hope and dread.",
+                        0.7981913277240513
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Steve Buscemi": {
+                "args": []
+            },
+            "John Leguizamo": {
+                "args": []
+            },
+            "Andrea Riseborough": {
+                "args": [
+                    [
+                        "10_through it all, riseborough remains the film's great engine.",
+                        0.8418113519015176
+                    ]
+                ]
+            },
+            "J. Smith-Cameron": {
+                "args": [
+                    [
+                        "0_smith-cameron and buscemi are both terrific, buscemi for the fullness of his subtlety (so much going on in the looks and silences) and smith-cameron, for the depths of pain",
+                        0.5523253170888272
+                    ]
+                ]
+            },
+            "Ann Dowd": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_prepare yourself: it's not often that a movie presents us with a central character as unremittingly sad as this.",
+                -0.6093960715639901
+            ],
+            [
+                "8_nancy sets its title character up as a lost, lonely woman in an alienating world, then pushes the audience's sympathy for her as far as it can go.",
+                -0.5523654205077315
+            ]
+        ],
+        "entities": {
+            "Christina Choe": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_she can suggest, even when she plays a surface happiness.",
+                0.6733304486179265
+            ],
+            [
+                "1_\"nancy\" possesses an alert, tense sense of atmosphere, ",
+                0.630259780340257
+            ],
+            [
+                "1_ it winds up being as glum and inert as the protagonist herself.",
+                -0.6624117169826955
+            ],
+            [
+                "2_prepare yourself: it's not often that a movie presents us with a central character as unremittingly sad as this.",
+                -0.6093960715639901
+            ],
+            [
+                "3_the movie's narrowly dramatic technique, with its curtly informational scenes, is matched by the emotional overdetermination of the images.",
+                0.7053792587651554
+            ],
+            [
+                "4_\"nancy\" is an eccentric, pungent gift of a film about a woman without identity played by an actress without persona.",
+                0.6798448048056801
+            ],
+            [
+                "5_nancy is a grim piece of work, ",
+                -0.5351295503160927
+            ],
+            [
+                "6_nancy exhibits a seriousness of purpose that's rare in american movies today.",
+                0.8063420362897538
+            ],
+            [
+                "7_rather than defaulting to either condemnation or absolution, \"nancy\" instead holds out the fleeting possibility of love to someone who has never known it before - and asks why we should begrudge her the impulse to seize it.",
+                0.7016867254167897
+            ],
+            [
+                "8_nancy sets its title character up as a lost, lonely woman in an alienating world, then pushes the audience's sympathy for her as far as it can go.",
+                -0.5523654205077315
+            ],
+            [
+                "9_what's left is a strange, sour tale that's neither origin mystery nor journey of self-discovery, ",
+                -0.5256627136183453
+            ],
+            [
+                "9_ a vexing gesture toward damage and delusion that never permits us to peek under its broken heroine's hood.",
+                -0.5424969139475604
+            ],
+            [
+                "10_her eyes speak both of possibility and trepidation - of someone at once taking in the world and deeply fearful of what might be next.",
+                0.6607673700833246
+            ],
+            [
+                "11_much like a play, it forces you to pay attention to the nuances of each of the actors' (very well-done) performances, to sit with the characters quietly as if in a sitting room too formal to do much else.",
+                0.7158832237421837
+            ],
+            [
+                "12_you'll come away knowing you've seen a master at work.",
+                0.6929386080955675
+            ],
+            [
+                "13_nancy has an intellectual savviness to its sadness that works, as it challenges viewers on their compassion and ability to recognize something within someone who is so lost.",
+                0.6927978456384672
+            ],
+            [
+                "14_instead of exploring her actions, and the people they affect, nancy's restraint keeps the film closed-off and grim, as muddy gray as the life she's aching to ditch.",
+                -0.5914239568135248
+            ],
+            [
+                "15_ the trick is, we can't help ",
+                -0.7036166235193623
+            ],
+            [
+                "16_the movie's refusal to ingratiate is admirable, even if you end up wondering whether it was worth all the doom and gloom.",
+                0.5776051246255341
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

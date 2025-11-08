@@ -1,0 +1,158 @@
+{
+    "director": {
+        "args": [
+            [
+                "28_ritchie aspires to be a great british director, ",
+                0.6419969918842172
+            ]
+        ],
+        "entities": {
+            "Guy Ritchie": {
+                "args": [
+                    [
+                        "1_that's one thing that ritchie's legend in the sword shared with excalibur-a vague idea that britain is destined for transformation.",
+                        0.5028572704622282
+                    ],
+                    [
+                        "4_director guy ritchie can turn london crime dramas into cinematic lightning, ",
+                        -0.5348168767996946
+                    ],
+                    [
+                        "5_what's guy ritchie gone and done with king arfur, then?",
+                        -0.5519832723272846
+                    ],
+                    [
+                        "9_well, guy ritchie sure put his stamp on this bit of british mythology.",
+                        -0.5234858774687323
+                    ],
+                    [
+                        "12_while making a hash of a national legend, ritchie is at least enough of a patriot to have filmed king arthur entirely in the u.k.",
+                        -0.5482270540494913
+                    ],
+                    [
+                        "19_after directing a number of british crime comedies, guy ritchie applied his rapid-fire wisecracks, gleeful violence, and flashy cutting and camera moves to the sherlock holmes franchise",
+                        -0.5508164525257973
+                    ],
+                    [
+                        "21_it boasts the usual ritchie touches - smart-aleck banter, super-stylized action scenes and a hipper-than-thou vibe that does not seem destined to age particularly well.",
+                        0.6919972299516038
+                    ],
+                    [
+                        "32_the film's biggest problem is ritchie's twitchy edit finger, the perpetual enemy of silence and stillness.",
+                        -0.6352536784137472
+                    ],
+                    [
+                        "34_ ritchie can barely muster any behind-the-camera enthusiasm for the high-fantasy elements.",
+                        -0.5326467361832277
+                    ],
+                    [
+                        "35_king arthur is neither guy ritchie's worst film nor his best, ",
+                        -0.7585394117437112
+                    ],
+                    [
+                        "36_optimism is nowhere to be found in ritchie's movie itself.",
+                        -0.7433783999410001
+                    ],
+                    [
+                        "43_part game of thrones, part snatch, and almost all bad, guy ritchie's latest is one of those generic blockbusters that has nothing to say and no idea how to say it.",
+                        -0.8390147643535921
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jude Law": {
+                "args": [
+                    [
+                        "16_jude law almost manages to chew his way through the cgi scenery and create a gloriously wicked villain, ",
+                        0.6234495325642234
+                    ]
+                ]
+            },
+            "Charlie Hunnam": {
+                "args": []
+            },
+            "Eric Bana": {
+                "args": []
+            },
+            "Astrid Bergès-Frisbey": {
+                "args": []
+            },
+            "Djimon Hounsou": {
+                "args": []
+            },
+            "Aidan Gillen": {
+                "args": []
+            },
+            "Annabelle Wallis": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "23_ritchie keeps rushing us along for two hours, as if to make absolutely certain that we never have time to absorb any character or moment, much less revel in the glorious, cheeky ridiculousness of the whole thing.",
+                -0.7786355743033708
+            ],
+            [
+                "27_ those things come at the expense of plot and character development, making it a fairly typical summer popcorn movie.",
+                0.5767447444740851
+            ]
+        ],
+        "entities": {
+            "Lionel Wigram": {
+                "args": []
+            },
+            "Joby Harold": {
+                "args": []
+            },
+            "Guy Ritchie": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "17_unlike any other medieval warfare and sorcery movie ever committed to film, ",
+                -0.5347888605024099
+            ],
+            [
+                "18_it's a mastodon of a movie, wrecking pleasure wherever it plods.",
+                -0.5134154474183745
+            ],
+            [
+                "20_relentlessly incoherent, more a gaudy, tacky, british-themed pinball machine than a carefully coordinated movie.",
+                -0.5479713629960183
+            ],
+            [
+                "27_ those things come at the expense of plot and character development, making it a fairly typical summer popcorn movie.",
+                0.5767447444740851
+            ],
+            [
+                "30_ this is not a film that is likely to stick with you even past the movie theater parking lot.",
+                -0.6018587144555585
+            ],
+            [
+                "36_ plans for a six-film franchise may be optimistic.",
+                -0.530356759784355
+            ],
+            [
+                "37_loud, bombastic and thuddingly obvious, this is a vulgar movie for vulgar times.",
+                -0.5670491299436912
+            ],
+            [
+                "39_verily, this film's inspiration seems to be not so much \"le morte d'arthur\" as the leavings of an old game of dungeons & dragons, recollected after many years and much mead.",
+                0.6429123640660904
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

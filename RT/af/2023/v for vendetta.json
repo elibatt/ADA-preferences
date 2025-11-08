@@ -1,0 +1,122 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "1_in the face of this film something adolescent in me surged to the surface and i mean that as a great compliment: adolescence is a state i hold in high regard.",
+                0.7519426481214816
+            ],
+            [
+                "3_ far from being sensual, let alone erotic, the movie proves to be not much fun at all.",
+                -0.6954625735438802
+            ],
+            [
+                "5_the dark and stylized v for vendetta is visually exhilarating, provocative and disturbing.",
+                0.6907829575494367
+            ],
+            [
+                "6_just when we were ready to give up mainstream movies as braindead,along comes the controversial and gleefully subversive v for vendetta, a piece of corporate-sponsored art that will have audiences rooting for a bomb-throwing anarchist.",
+                0.6952228322582691
+            ],
+            [
+                "16_v for vendetta's strength beyond its substantial movie-movie value is not in how it pitches its ideas, ",
+                -0.7291913488130385
+            ],
+            [
+                "18_yes, the movie is too long, and given to repetition, ",
+                -0.6298570231183063
+            ],
+            [
+                "10",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "10_by the movie's midpoint, the wachowski brothers' screenplay has gotten so bogged down in back story that it takes 40 minutes for director james mctiegue to get back to the explosions that his 16-year-old target audience assumes will solve everything.",
+                -0.6197024870929897
+            ]
+        ],
+        "entities": {
+            "James McTeigue": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "10_by the movie's midpoint, the wachowski brothers' screenplay has gotten so bogged down in back story that it takes 40 minutes for director james mctiegue to get back to the explosions that his 16-year-old target audience assumes will solve everything.",
+                -0.6197024870929897
+            ]
+        ],
+        "entities": {
+            "Lilly Wachowski": {
+                "unique_args": [
+                    [
+                        "10_by the movie's midpoint, the wachowski brothers' screenplay has gotten so bogged down in back story that it takes 40 minutes for director james mctiegue to get back to the explosions that his 16-year-old target audience assumes will solve everything.",
+                        -0.6197024870929897
+                    ]
+                ]
+            },
+            "Lana Wachowski": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Natalie Portman": {
+                "unique_args": []
+            },
+            "Hugo Weaving": {
+                "unique_args": []
+            },
+            "Stephen Rea": {
+                "unique_args": []
+            },
+            "John Hurt": {
+                "unique_args": []
+            },
+            "Rupert Graves": {
+                "unique_args": []
+            },
+            "Stephen Fry": {
+                "unique_args": []
+            },
+            "Ben Miles": {
+                "unique_args": []
+            },
+            "Tim Pigott-Smith": {
+                "unique_args": []
+            },
+            "Sinead Cusack": {
+                "unique_args": []
+            },
+            "Cosima Shaw": {
+                "unique_args": []
+            },
+            "Natasha Wightman": {
+                "unique_args": []
+            },
+            "Roger Allam": {
+                "unique_args": []
+            },
+            "Selina Giles": {
+                "unique_args": []
+            },
+            "John Standing": {
+                "unique_args": []
+            },
+            "Clive Ashborn": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

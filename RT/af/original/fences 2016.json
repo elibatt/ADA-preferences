@@ -1,0 +1,363 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "17_regardless of whether its controlled style and emotionally rich cast introduce this scalding drama of family discord to new audiences or revive it for longtime followers, it's tightrope-taut theater.",
+                0.8173700607875716
+            ],
+            [
+                "22_\"fences\" is a feast of brilliant acting, in a story that's sometimes as difficult as it is powerful.",
+                0.8418381515596275
+            ],
+            [
+                "25_washington's performance -- as big as it gets -- is all wrong for the movies, where even a self-aggrandizing character like troy maxson, a former negro leagues star ballplayer turned '50s pittsburgh garbageman, needs to be scaled back to feel realistic.",
+                -0.6591981233277215
+            ],
+            [
+                "27_it's as good as screen acting gets.",
+                0.6273058907337835
+            ],
+            [
+                "30_you don't get writing or acting of this caliber every day, and in this particularly dreary year of second-rate everything, this movie is something special.",
+                -0.7689984807715009
+            ],
+            [
+                "31_washington gives a magnetic, layered performance, backed by a largely superb cast, most of whom reprise their roles from the broadway revival of wilson's classic.",
+                0.8707231648623343
+            ],
+            [
+                "33_with the level of acting talent involved, fences could have been filmed in the parking lot of a pet store and still been just as effective.",
+                -0.6920232613540428
+            ],
+            [
+                "35_what he does here is both sizzling and subtle, a star performance that does equal justice to the play's poetry and kitchen-sink reality.",
+                0.6206827850530335
+            ],
+            [
+                "37_ in a performance tailor-made for her.",
+                0.5728768118251586
+            ],
+            [
+                "38_the combination of top acting and the powerful rhythm of the language in the drama's celebrated high spots absolutely holds us.",
+                0.7181840022745329
+            ],
+            [
+                "40_it ... stands as an aching, lyrical, performance-driven masterpiece in its own right, a film so intense and engrossing that movie houses really should screen it with an intermission.",
+                0.8151820640908498
+            ],
+            [
+                "44_not when the writing is this richly evocative, and the cast so often soars with it.",
+                0.6187793655241154
+            ]
+        ],
+        "entities": {
+            "Jason Silvis": {
+                "args": []
+            },
+            "Theresa Cook": {
+                "args": []
+            },
+            "Mykelti Williamson": {
+                "args": []
+            },
+            "Saniyya Sidney": {
+                "args": []
+            },
+            "Tra'Waan Coles": {
+                "args": []
+            },
+            "Malik Abdul Khaaliq": {
+                "args": []
+            },
+            "Aristle Jones, IV": {
+                "args": []
+            },
+            "Russell Hornsby": {
+                "args": []
+            },
+            "Stephen Henderson": {
+                "args": []
+            },
+            "Viola Davis": {
+                "args": [
+                    [
+                        "1_ it's davis - hurt, proud, determined - who's the star of this show.",
+                        0.5916966923865407
+                    ],
+                    [
+                        "11_ so loud and proud is his performance - it is davis who walks away with the production.",
+                        0.5281149953259541
+                    ],
+                    [
+                        "27_washington and davis' performances... invite us in to an intimate place that's messy and painful and hard to shake.",
+                        0.5850745632903749
+                    ],
+                    [
+                        "37_but it's davis, not surprisingly, who really shakes the rafters,",
+                        -0.629806717440523
+                    ]
+                ]
+            },
+            "Christopher Mele": {
+                "args": []
+            },
+            "Dontez James": {
+                "args": []
+            },
+            "Chris McCail": {
+                "args": []
+            },
+            "Toussaint Raphael Abessolo": {
+                "args": []
+            },
+            "Jovan Adepo": {
+                "args": []
+            },
+            "Kameron Peters": {
+                "args": []
+            },
+            "Joshua Tronoski": {
+                "args": []
+            },
+            "Denzel Washington": {
+                "args": [
+                    [
+                        "0_directed by denzel washington, who also appears in the movie as its lead, fences offers a startlingly detailed look into the black relationship - and touches upon the destructive nature of black masculinity, particularly when it involves the black woman.",
+                        0.7589766079843785
+                    ],
+                    [
+                        "6_it's a privilege to watch washington and davis lay it all on the line.",
+                        0.7123045935843036
+                    ],
+                    [
+                        "9_the masterful thing about denzel washington's direction here is that he doesn't exactly open up the play.",
+                        0.5719560867991326
+                    ],
+                    [
+                        "19_\"fences\" is perhaps best appreciated as a showcase for the brilliant acting of washington and davis.",
+                        0.8164999684116963
+                    ],
+                    [
+                        "21_ washington's close-up focus on the characters only heightens the dignity wilson bestowed on them.",
+                        -0.6953176434761132
+                    ],
+                    [
+                        "32_i respect [washington] for not attempting to \"open up\" the play just to make it seem more \"cinematic.\"",
+                        0.5702737650424922
+                    ],
+                    [
+                        "35_it will not come as a news flash that mr. washington is a movie star of the first rank...",
+                        -0.5503276981379258
+                    ],
+                    [
+                        "36_in bringing august wilson to the screen for the first time, director-star washington does the playwright proud by refusing to slice fences into small pieces and serve it to short attention spans",
+                        0.6693008297373538
+                    ],
+                    [
+                        "43_under washington's earnest ",
+                        0.5560567051001648
+                    ]
+                ]
+            },
+            "Lesley Boone": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "11_ fences can be charitably viewed as a star vehicle for the actor-director - and he does reach for the rafters in certain parts,",
+                0.5935384881409627
+            ]
+        ],
+        "entities": {
+            "Denzel Washington": {
+                "args": [
+                    [
+                        "0_directed by denzel washington, who also appears in the movie as its lead, fences offers a startlingly detailed look into the black relationship - and touches upon the destructive nature of black masculinity, particularly when it involves the black woman.",
+                        0.7589766079843785
+                    ],
+                    [
+                        "6_it's a privilege to watch washington and davis lay it all on the line.",
+                        0.7123045935843036
+                    ],
+                    [
+                        "9_the masterful thing about denzel washington's direction here is that he doesn't exactly open up the play.",
+                        0.5719560867991326
+                    ],
+                    [
+                        "19_\"fences\" is perhaps best appreciated as a showcase for the brilliant acting of washington and davis.",
+                        0.8164999684116963
+                    ],
+                    [
+                        "21_ washington's close-up focus on the characters only heightens the dignity wilson bestowed on them.",
+                        -0.6953176434761132
+                    ],
+                    [
+                        "32_i respect [washington] for not attempting to \"open up\" the play just to make it seem more \"cinematic.\"",
+                        0.5702737650424922
+                    ],
+                    [
+                        "35_it will not come as a news flash that mr. washington is a movie star of the first rank...",
+                        -0.5503276981379258
+                    ],
+                    [
+                        "36_in bringing august wilson to the screen for the first time, director-star washington does the playwright proud by refusing to slice fences into small pieces and serve it to short attention spans",
+                        0.6693008297373538
+                    ],
+                    [
+                        "43_under washington's earnest ",
+                        0.5560567051001648
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "25_washington's performance -- as big as it gets -- is all wrong for the movies, where even a self-aggrandizing character like troy maxson, a former negro leagues star ballplayer turned '50s pittsburgh garbageman, needs to be scaled back to feel realistic.",
+                -0.6591981233277215
+            ],
+            [
+                "30_you don't get writing or acting of this caliber every day, and in this particularly dreary year of second-rate everything, this movie is something special.",
+                -0.7689984807715009
+            ],
+            [
+                "44_not when the writing is this richly evocative, and the cast so often soars with it.",
+                0.6187793655241154
+            ]
+        ],
+        "entities": {
+            "August Wilson": {
+                "args": [
+                    [
+                        "7_based on the 1983 august wilson play, fences is little more than a filmed version of the 2010 broadway revival.",
+                        -0.5806888099533005
+                    ],
+                    [
+                        "21_ washington's close-up focus on the characters only heightens the dignity wilson bestowed on them.",
+                        -0.6953176434761132
+                    ],
+                    [
+                        "31_washington gives a magnetic, layered performance, backed by a largely superb cast, most of whom reprise their roles from the broadway revival of wilson's classic.",
+                        0.8707231648623343
+                    ],
+                    [
+                        "36_in bringing august wilson to the screen for the first time, director-star washington does the playwright proud by refusing to slice fences into small pieces and serve it to short attention spans",
+                        0.6693008297373538
+                    ],
+                    [
+                        "39_even as it properly foregrounds wilson's dialogue - few playwrights have approached his genius for turning workaday vernacular into poetry - \"fences\" is much more than a filmed reading.",
+                        0.5056083632761019
+                    ],
+                    [
+                        "47_washington doesn't try to improve upon august wilson's pulitzer prize-winning masterpiece, ",
+                        -0.5560823918858381
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_yes, fences suffers somewhat from the bare-bones transferal of the \"action\" from stage to screen ",
+                -0.805218148942527
+            ],
+            [
+                "3_ the material is so compelling that viewers can easily lose sight of the movie's \"play nature.\"",
+                0.5211486990717502
+            ],
+            [
+                "10_ringing with both ancient wisdom and searing relevance, \"fences\" feels as if it's been crafted for the ages, and for this very minute.",
+                0.648276920998348
+            ],
+            [
+                "11_ fences can be charitably viewed as a star vehicle for the actor-director - and he does reach for the rafters in certain parts,",
+                0.5935384881409627
+            ],
+            [
+                "12_\"fences\" is an effective drama, ",
+                0.7530348992803633
+            ],
+            [
+                "13_if fences barely escapes the confines of its titular enclosure, the performances all sound to the skies like gabriel's trumpet.",
+                -0.5899525337162579
+            ],
+            [
+                "15_but a serious film such as fences is a privilege to see,",
+                0.5953015988317999
+            ],
+            [
+                "16_\"fences\" wraps you and whirls you in a heady cyclone of words, ultimately dropping you gently on the ground, moved and changed and unexpectedly uplifted by the journey.",
+                0.7443887694105193
+            ],
+            [
+                "18_watching it is like getting a front-row seat to the beautifully mounted revival of a classic work of american drama, starring two stars who know and understand that text as well as any actors in the world.",
+                0.7775260796330842
+            ],
+            [
+                "20_you don't get groundbreaking cinema from \"fences,\" ",
+                -0.6039491477110944
+            ],
+            [
+                "21_fences may never lose the look and sound of a play, ",
+                0.6732528273190757
+            ],
+            [
+                "22_\"fences\" is a feast of brilliant acting, in a story that's sometimes as difficult as it is powerful.",
+                0.8418381515596275
+            ],
+            [
+                "24_by themselves, [the actors] make the movie worth seeing, ",
+                0.6650216966951562
+            ],
+            [
+                "26_the intensity of the bonds between the actors here, forged when many of them starred together on broadway, deepens the ache of this tragic tale and makes this fences so formidable.",
+                0.6915171919787594
+            ],
+            [
+                "30_fences is a labor of love and attention must be paid.",
+                0.7906876393455332
+            ],
+            [
+                "30_you don't get writing or acting of this caliber every day, and in this particularly dreary year of second-rate everything, this movie is something special.",
+                -0.7689984807715009
+            ],
+            [
+                "33_with the level of acting talent involved, fences could have been filmed in the parking lot of a pet store and still been just as effective.",
+                -0.6920232613540428
+            ],
+            [
+                "34_fences is moviemaking as public service, like pbs's masterpiece theater: an accessible adaptation of a necessary literary work that few will ever have the opportunity to see onstage.",
+                0.6906252091625303
+            ],
+            [
+                "40_it ... stands as an aching, lyrical, performance-driven masterpiece in its own right, a film so intense and engrossing that movie houses really should screen it with an intermission.",
+                0.8151820640908498
+            ],
+            [
+                "41_honorable, worthy and windy, \"fences\" is essentially a pbs episode of \"great performances\" that is inflated for the big screen without ever quite belonging there.",
+                0.5868420181383516
+            ],
+            [
+                "42_it's not a movie, not really.",
+                -0.6997674596736231
+            ],
+            [
+                "46_as you watch \"fences,\" there's never a doubt that these lives matter, and that's a good and noble thing, ",
+                0.7924192715546732
+            ],
+            [
+                "46_ you're also aware (maybe too aware) of how much the movie itself wants to matter.",
+                -0.5481734978317958
+            ]
+        ]
+    }
+}

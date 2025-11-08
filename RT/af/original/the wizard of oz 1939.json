@@ -1,0 +1,221 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Florence Ryerson": {
+                "args": []
+            },
+            "Noel Langley": {
+                "args": []
+            },
+            "Edgar Allan Woolf": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_in truth, any opportunity to see the film on the big screen is welcome.",
+                0.6615196815626287
+            ],
+            [
+                "2_the greatest american movie fantasy.",
+                0.7404294645157233
+            ],
+            [
+                "6_any reason to show your children \"the wizard of oz\" on a big screen seems like a good one.",
+                -0.519188676533424
+            ],
+            [
+                "8_\"the wizard of oz\" celebrates its 75th anniversary looking younger and more vital than ever, simultaneously advertising good old-fashioned storytelling and the most advanced technology available.",
+                0.8357269292669502
+            ],
+            [
+                "10_a work of almost staggering iconographic, mythological, creative and simple emotional meaning, at least for american audiences, this is one vintage film that fully lives up to its classic status.",
+                0.7634096347952967
+            ],
+            [
+                "16_i don't find the film light or joyful in the least -- an air of primal menace hangs about it, which may be why i love it.",
+                -0.5259241726784101
+            ],
+            [
+                "18_warner home video's dvd invites you to watch the movie a dozen more times on top of the many dozens of times you've already seen it.",
+                -0.517110869178433
+            ],
+            [
+                "23_this wonderful romp of a movie looks magical on the big screen: colors are a picnic for the eyes, details loom so clearly you can practically touch them and there's a sense of the larger-than-life with a film that's already larger than life.",
+                0.8621188064063883
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "21_magnificent sets and costumes, vivid technicolor, and every resource of trick photography -- including a realistically contrived cyclone -- bolster the competent cast that strikes a happy medium between humor and make-believe.",
+                0.7790410197017666
+            ]
+        ],
+        "entities": {
+            "Major Doyle": {
+                "args": []
+            },
+            "Harlan Briggs": {
+                "args": []
+            },
+            "The Singer Midgets": {
+                "args": [
+                    [
+                        "0_she is as clever a little actress as she is a singer and her special style of vocalizing is ideally adapted to the music of the picture.",
+                        0.8078747942079688
+                    ]
+                ]
+            },
+            "Frank Packard": {
+                "args": []
+            },
+            "Tyler Brooke": {
+                "args": []
+            },
+            "Lillian Porter": {
+                "args": []
+            },
+            "Billy Curtis": {
+                "args": []
+            },
+            "Pinto Colvig": {
+                "args": []
+            },
+            "The Munchkins": {
+                "args": []
+            },
+            "Margaret Hamilton": {
+                "args": []
+            },
+            "Carol Tevis": {
+                "args": []
+            },
+            "Harry Earles": {
+                "args": []
+            },
+            "Abe Dinovitch": {
+                "args": []
+            },
+            "Pat Walshe": {
+                "args": []
+            },
+            "Adriana Caselotti": {
+                "args": []
+            },
+            "Lois January": {
+                "args": []
+            },
+            "Billie Burke": {
+                "args": []
+            },
+            "Meinhardt Raabe": {
+                "args": []
+            },
+            "Clara Blandick": {
+                "args": []
+            },
+            "Jerry Maren": {
+                "args": []
+            },
+            "Lee Murray": {
+                "args": []
+            },
+            "Clarence Swensen": {
+                "args": []
+            },
+            "Buddy Ebsen": {
+                "args": []
+            },
+            "Charley Grapewin": {
+                "args": []
+            },
+            "Yvonne Moray": {
+                "args": []
+            },
+            "Harry Monty": {
+                "args": []
+            },
+            "Karl Slover": {
+                "args": []
+            },
+            "Jimmy Rosen": {
+                "args": []
+            },
+            "George Ministeri": {
+                "args": []
+            },
+            "Oliver Smith": {
+                "args": []
+            },
+            "Jack Haley": {
+                "args": []
+            },
+            "Terry": {
+                "args": []
+            },
+            "Gus Wayne": {
+                "args": []
+            },
+            "Ray Bolger": {
+                "args": [
+                    [
+                        "7_even swollen to imax size, the movie is sharper than you've ever seen it, and the vaudevillian brilliance of the choreography (and ray bolger's straw-boned tumbling) is entirely undiminished.",
+                        0.7932112969212913
+                    ]
+                ]
+            },
+            "Charles Irwin": {
+                "args": []
+            },
+            "Mitchell Lewis": {
+                "args": []
+            },
+            "Bobby Watson": {
+                "args": []
+            },
+            "Judy Garland": {
+                "args": [
+                    [
+                        "0_judy garland is perfectly cast as dorothy.",
+                        0.6591591448308193
+                    ]
+                ]
+            },
+            "Mickey Carroll": {
+                "args": []
+            },
+            "Bert Lahr": {
+                "args": []
+            },
+            "Billy Bletcher": {
+                "args": []
+            },
+            "Walter Miller": {
+                "args": []
+            },
+            "Daisy Earles": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Victor Fleming": {
+                "args": []
+            },
+            "King Vidor": {
+                "args": []
+            }
+        }
+    }
+}

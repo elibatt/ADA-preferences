@@ -1,0 +1,99 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Jacques Cluzaud": {
+                "args": [
+                    [
+                        "3_perrin and cluzaud let their camera do the talking, which is a wise decision - it speaks volumes.",
+                        0.6926030619277881
+                    ],
+                    [
+                        "8_through gorgeous cinematography and understated musical cues, perrin and cluzaud find a note of serenity that's notably absent from youtube cat videos.",
+                        0.7644451852388876
+                    ],
+                    [
+                        "9_perrin and cluzaud struggle to find a footing in their vast cinematic terrain.",
+                        0.6474793493317567
+                    ]
+                ]
+            },
+            "Jacques Perrin": {
+                "args": [
+                    [
+                        "2_jacques perrin's stunning nature film teems with life and death, working its way from the end of the ice age to the present and from the bottom of the food chain to the top.",
+                        0.780262446804321
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "François Sarano": {
+                "args": []
+            },
+            "Philippe Descola": {
+                "args": []
+            },
+            "Gilles Boeuf": {
+                "args": []
+            },
+            "Jean-Marie Pelt": {
+                "args": []
+            },
+            "Yves Coppens": {
+                "args": []
+            },
+            "Allain Bougrain-Dubourg": {
+                "args": []
+            },
+            "Jesse Ausubel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stéphane Durand": {
+                "args": []
+            },
+            "Jacques Cluzaud": {
+                "args": []
+            },
+            "Jacques Perrin": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"seasons\" paints a beautiful picture and then takes a somewhat obvious hammer to it, leaving its upbeat after",
+                0.7032796472338418
+            ],
+            [
+                "4_at its best, \"seasons\" shakes off its predecessors and captures the simple, grand ideas it's after purely visually.",
+                0.8211626151776192
+            ],
+            [
+                "5_ \"seasons\" has the advantage of its focus on a timeline, showing the gradual incursion of man into this earthly paradise.",
+                -0.5939192779397386
+            ],
+            [
+                "7_it's entrancing enough that, for most of the film, i wasn't worrying over what was staged and what wasn't.",
+                -0.7002768174130606
+            ],
+            [
+                "11_the film's strong point is the unquestionable beauty of the imagery, filmed over a four-year period in the national parks and animal reserves of poland, romania, norway, holland and scotland.",
+                0.7591836272833562
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

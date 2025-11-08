@@ -1,0 +1,251 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "11_ the cast do what they can to eke some charm out of the material.",
+                -0.6406142091535088
+            ],
+            [
+                "20_this is a terrific cast, ",
+                0.69022900925667
+            ],
+            [
+                "27_it is an insult to tidings of comfort as well as joy, and a complete waste of the time and talents of its ensemble cast.",
+                -0.5259589371417872
+            ]
+        ],
+        "entities": {
+            "Blake Baumgartner": {
+                "args": []
+            },
+            "Marc Moore, Jr.": {
+                "args": []
+            },
+            "Samuel Mancini": {
+                "args": []
+            },
+            "Quinn McColgan": {
+                "args": []
+            },
+            "Ralph Browning": {
+                "args": []
+            },
+            "John Luoma": {
+                "args": []
+            },
+            "Dorothy Silver": {
+                "args": []
+            },
+            "Jon Tenney": {
+                "args": []
+            },
+            "Lev Pakman": {
+                "args": []
+            },
+            "Sylvia Kauders": {
+                "args": []
+            },
+            "Timothée Chalamet": {
+                "args": []
+            },
+            "Diane Keaton": {
+                "args": []
+            },
+            "Molly Gordon": {
+                "args": []
+            },
+            "Amanda Seyfried": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": []
+            },
+            "Jake Lacy": {
+                "args": []
+            },
+            "Michael R. Wilson": {
+                "args": []
+            },
+            "Cady Huffman": {
+                "args": []
+            },
+            "Dan Amboyer": {
+                "args": []
+            },
+            "Elisabeth Evans": {
+                "args": []
+            },
+            "Rory Wilson": {
+                "args": []
+            },
+            "Sean McGee": {
+                "args": []
+            },
+            "Kristin Slaysman": {
+                "args": []
+            },
+            "Krista Marie Yu": {
+                "args": []
+            },
+            "Ryan Borgo": {
+                "args": []
+            },
+            "Maxwell Simkins": {
+                "args": []
+            },
+            "Mike Pusateri": {
+                "args": []
+            },
+            "Larry McKay": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "Channing Sebetich": {
+                "args": []
+            },
+            "Alex Borstein": {
+                "args": []
+            },
+            "Justin Lonesome": {
+                "args": []
+            },
+            "John Goodman": {
+                "args": []
+            },
+            "Olivia Wilde": {
+                "args": []
+            },
+            "Alan Arkin": {
+                "args": []
+            },
+            "Keenan Jolliff": {
+                "args": []
+            },
+            "Kanani Rose": {
+                "args": []
+            },
+            "Scott Garan": {
+                "args": []
+            },
+            "June Squibb": {
+                "args": [
+                    [
+                        "2_if you've been wishing and hoping for a movie in which june squibb - here playing a dementia-riddled relative named aunt fishy - shows her underpants yet again, you'll love love the coopers.",
+                        0.6016812160804773
+                    ]
+                ]
+            },
+            "Ed Helms": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jessie Nelson": {
+                "args": [
+                    [
+                        "0_ jessie nelson's film sells itself well.",
+                        0.539869072873039
+                    ],
+                    [
+                        "9_unfortunately, director jessie nelson gradually turns the script into marzipan.",
+                        0.5093861808859077
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_unfortunately, director jessie nelson gradually turns the script into marzipan.",
+                0.5093861808859077
+            ]
+        ],
+        "entities": {
+            "Steven Rogers": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_holiday entertainment that feels more like a horror movie.",
+                0.5474578680839577
+            ],
+            [
+                "5_, love the coopers focuses too much on interfamily drama to salvage the real christmas spirit.",
+                -0.6590689616966002
+            ],
+            [
+                "7_some of the members of the cooper clan are interesting enough, and the movie's tearjerking heart is in the right place, ",
+                0.7956401599827053
+            ],
+            [
+                "7_ love the coopers is a horrible mess.",
+                -0.7922369786661607
+            ],
+            [
+                "10_the film's uneven tone doesn't help: it wavers between whimsical, snarky and dopey.",
+                -0.7237023288046073
+            ],
+            [
+                "12_even with such a talented ensemble, love the coopers' convoluted narrative and overreliance on christmas clichés keeps it from sparking any real holiday magic.",
+                0.7457001148776456
+            ],
+            [
+                "14_ \"love the coopers\" desperately tries to do just that.",
+                -0.5870064009701033
+            ],
+            [
+                "15_enjoy the sense of never quite knowing when the movie is going to stick another pin in its balloon of sincerity, and you'll like the coopers well enough.",
+                0.5626719825201766
+            ],
+            [
+                "16_watching people be miserable with each other for the movie's run-time does not always make for a pleasant experience.",
+                0.6404320498974871
+            ],
+            [
+                "17_in the fractured-family holiday movie \"love the coopers,\" hackneyed humor and warmed-over life lessons are strewn like so much overused tinsel.",
+                0.5842733109545939
+            ],
+            [
+                "18_the coopers is a sorry excuse for a christmas movie, ",
+                -0.7975245074275099
+            ],
+            [
+                "19_big, fat, fluffy flakes of snow fall relentlessly in love the coopers, ",
+                0.5617767999118148
+            ],
+            [
+                "22_when it's all said and done, you might not exactly love the coopers, ",
+                0.7119850596139686
+            ],
+            [
+                "23_ love the coopers does come together in the end.",
+                0.7093406217755744
+            ],
+            [
+                "26_it should say something about the film that one of the least unhappy characters in it is the one who has attempted suicide.",
+                -0.5760041567668761
+            ],
+            [
+                "27_\"love the coopers\" is one of the most jumbled, tonally misguided holiday movies in recent memory.",
+                0.8180971184133797
+            ],
+            [
+                "29_decked out in the usual tinsel-and-mistletoe trappings, the film lurches awkwardly between gloominess and giddiness, never hitting the boisterously bittersweet groove it seeks.",
+                -0.5013852054124851
+            ]
+        ]
+    }
+}

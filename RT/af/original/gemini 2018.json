@@ -1,0 +1,151 @@
+{
+    "writer": {
+        "entities": {
+            "Aaron Katz (II) ": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Aaron Katz (II) ": {
+                "args": [
+                    [
+                        "8_there's a ghostly aura over katz's l.a., even in broad daylight",
+                        0.5276051334135284
+                    ],
+                    [
+                        "19_ katz builds tension so brilliantly that it's hard to watch it and think about anything other than the mystery at hand.",
+                        0.5244060881903526
+                    ],
+                    [
+                        "21_there's suspense in the movie's central mystery, enough to sustain the characters katz has created.",
+                        -0.5993202370208954
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film's sense of tension is real, and built on realistic moments.",
+                0.6958202600555938
+            ],
+            [
+                "1_gemini feels like the first draft of a movie that could have been developed into something more resonant.",
+                -0.5954060071263794
+            ],
+            [
+                "7_gemini is a shimmering puzzler that begins with an act of land ho!-esque palling-around before warping into an unlikely detective story in the cold weather vein.",
+                0.6687458169794596
+            ],
+            [
+                "9_there is no doubt that the film is more than just a monochromatic pinterest mood board.",
+                0.5062885396113448
+            ],
+            [
+                "10_gemini is a decent little thriller that's been spruced up by a very impressive instagram filter.",
+                0.7149848745031047
+            ],
+            [
+                "11_what does it mean when a movie's setting is so rapturously rendered that its characters, its plot and even the merest whiff of suspense evaporates into a haze?",
+                -0.816313205439623
+            ],
+            [
+                "11_in the case of gemini, that's not entirely a bad thing.",
+                -0.84676423689729
+            ],
+            [
+                "14_ so much about \"gemini\" is so contrived that here she looks a little lost in the story at times.",
+                -0.7058536948109756
+            ],
+            [
+                "17_the cracking of the mystery, at the conclusion of \"gemini,\" is daft and unsatisfying ...",
+                0.6243309439163991
+            ],
+            [
+                "18_an uncanny, exquisite synthesis of naturalism and genre, the film is a heady cocktail of high style and lo-fi whose sum effect is irresistible.",
+                0.8364546689482869
+            ],
+            [
+                "19_there's smart commentary about fame, gender and celebrity in \"gemini,\" ",
+                0.7636601964308221
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michelle Forbes": {
+                "args": []
+            },
+            "Zoë Kravitz": {
+                "args": []
+            },
+            "Gabriela Flores": {
+                "args": []
+            },
+            "Marianne Rendón": {
+                "args": []
+            },
+            "John Cho": {
+                "args": [
+                    [
+                        "3_kirke, so wonderful in \"mistress america,\" and cho, of the underappreciated \"columbus,\" are endlessly fascinating to watch, ",
+                        0.8956101326461468
+                    ]
+                ]
+            },
+            "Todd Louiso": {
+                "args": []
+            },
+            "Ricki Lake": {
+                "args": []
+            },
+            "Ted Stavros": {
+                "args": []
+            },
+            "Jessica Parker Kennedy": {
+                "args": []
+            },
+            "Greta Lee": {
+                "args": []
+            },
+            "James Ransone": {
+                "args": []
+            },
+            "Reeve Carney": {
+                "args": []
+            },
+            "Nelson Franklin": {
+                "args": []
+            },
+            "Abraham Lim": {
+                "args": []
+            },
+            "Lola Kirke": {
+                "args": [
+                    [
+                        "4_[kirke] possesses an endearing, thoroughly non-actressy quality.",
+                        0.6379504405477137
+                    ],
+                    [
+                        "15_as visually appealing as much of gemini is, it wouldn't work nearly so well without lola kirke playing jill.",
+                        -0.609961471830616
+                    ],
+                    [
+                        "22_while the payoff could have used some extra punch, the teasing path that leads there is bewitching, with lola kirke serving as an enigmatic guide.",
+                        0.628353088913934
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

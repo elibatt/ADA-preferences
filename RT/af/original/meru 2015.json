@@ -1,0 +1,111 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jimmy Chin": {
+                "args": []
+            },
+            "Elizabeth Chai Vasarhelyi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_meru is a picture that appeals to novices and masters of the sport alike, a harrowing look at the dangers, motivations, stakes and spirituality involved in the craft of climbing.",
+                0.7029951783783179
+            ],
+            [
+                "2_visuals, meru is a climbing story with context",
+                0.5793275290297125
+            ],
+            [
+                "3_\"meru\" may not answer the question completely - likely nothing can - ",
+                -0.6670128396309756
+            ],
+            [
+                "8_the movie is a packed 90 minutes and the familiar critical superlatives don't capture it.",
+                -0.6058286325829907
+            ],
+            [
+                "8_the movie, i mean, not the climb.",
+                -0.6620408898301356
+            ],
+            [
+                "10_\"meru\" can evoke a sense of claustrophobia (and other fears) in the viewer.",
+                0.5103120788268476
+            ],
+            [
+                "12_though the \"meru\" climbing and outdoor footage is spectacular, it is the personal struggle of each of the climbers, and the candid way they talk about them on camera,",
+                0.7813920838000774
+            ],
+            [
+                "12_ that give this film its considerable impact.",
+                0.6930531307121035
+            ],
+            [
+                "14_thankfully free of the usual triumph-of-the-will score, \"meru\" is an ultrasmooth blend of conventional documentary techniques - the talking-head interview",
+                0.7989870312632246
+            ],
+            [
+                "16_whether or not mountain-climbing documentaries are your thing, \"meru\" is likely to draw you in.",
+                0.5138056360596976
+            ],
+            [
+                "17_how one responds to meru will largely depend on whether its three subjects come across as heroically courageous or suicidally reckless.",
+                -0.503846552264656
+            ],
+            [
+                "18_there's steady, scary thrill in the final third of meru, the latest attempt to conquer the climb-and-tweak-the-nose-of-god mountaineering documentary, a genre that has yet to reach its apex.",
+                -0.6875073002546417
+            ],
+            [
+                "19_meru is an engaging and cumulatively exhilarating de",
+                0.7852547528385492
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Renan Ozturk": {
+                "args": [
+                    [
+                        "4_chin and ozturk capture both the astonishing views from the top of the world and soul-searching moments inside a cramped tent dangling from the side of the mountain like a used tea bag.",
+                        0.819702181435632
+                    ]
+                ]
+            },
+            "Jon Krakauer": {
+                "args": []
+            },
+            "Jennifer Lowe-Anker": {
+                "args": []
+            },
+            "Jeremy Jones": {
+                "args": []
+            },
+            "Jimmy Chin": {
+                "args": []
+            },
+            "Grace Chin": {
+                "args": []
+            },
+            "Conrad Anker": {
+                "args": []
+            },
+            "Amee Hinkley": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

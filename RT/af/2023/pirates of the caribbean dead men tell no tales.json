@@ -1,0 +1,529 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_the subtitle of the new pirates of the caribbean movie is 'dead men tell no tales.'",
+                -0.03181818181818183
+            ],
+            [
+                "3_the moral of the movie, alas, is that the same cannot be said of dead franchises.",
+                -0.15000000000000002
+            ],
+            [
+                "7_if 30 minutes of jumbled mythology and cheesy writing had been cut, the movie would have had an action beat as driving as the heart-pounding score by geoff zanelli.",
+                -0.2
+            ],
+            [
+                "10_i daresay it is the very best fourth sequel ever made to a movie based on a 50-year-old theme park ride.",
+                0.5
+            ],
+            [
+                "20_ they are self-fulfilling prophecies, and dire ones, about the future of the theatrical movie business.",
+                0.0
+            ],
+            [
+                "21_that's how i'd describe the latest pirates film.",
+                0.5
+            ],
+            [
+                "25_[it] tries to turn back time, seeking to replicate the first 2003 film's chemistry.",
+                0.049999999999999996
+            ],
+            [
+                "25_that attempt to swim against the tide doesn't entirely work, ",
+                0.0
+            ],
+            [
+                "28_depp, who once was among the most risk-taking actors in film, seems to be merely going through the motions.",
+                0.0
+            ],
+            [
+                "30_second best pirates of the caribbean movie!",
+                1.0
+            ],
+            [
+                "34_the dead tell a tale in the latest pirates of the caribbean movie, ",
+                0.15
+            ],
+            [
+                "36_does the world really need a fifth pirates of the caribbean movie?",
+                0.2
+            ],
+            [
+                "44_ never has a 'pirates' film felt this inessential, this depressingly pro forma.",
+                -0.6
+            ]
+        ],
+        "unique_args": [
+            [
+                "3_the moral of the movie, alas, is that the same cannot be said of dead franchises.",
+                -0.15000000000000002
+            ],
+            [
+                "25_[it] tries to turn back time, seeking to replicate the first 2003 film's chemistry.",
+                0.049999999999999996
+            ],
+            [
+                "7_if 30 minutes of jumbled mythology and cheesy writing had been cut, the movie would have had an action beat as driving as the heart-pounding score by geoff zanelli.",
+                -0.2
+            ],
+            [
+                "10_i daresay it is the very best fourth sequel ever made to a movie based on a 50-year-old theme park ride.",
+                0.5
+            ],
+            [
+                "20_ they are self-fulfilling prophecies, and dire ones, about the future of the theatrical movie business.",
+                0.0
+            ],
+            [
+                "21_that's how i'd describe the latest pirates film.",
+                0.5
+            ],
+            [
+                "28_depp, who once was among the most risk-taking actors in film, seems to be merely going through the motions.",
+                0.0
+            ],
+            [
+                "30_second best pirates of the caribbean movie!",
+                1.0
+            ],
+            [
+                "34_the dead tell a tale in the latest pirates of the caribbean movie, ",
+                0.15
+            ],
+            [
+                "36_does the world really need a fifth pirates of the caribbean movie?",
+                0.2
+            ],
+            [
+                "44_ never has a 'pirates' film felt this inessential, this depressingly pro forma.",
+                -0.6
+            ],
+            [
+                "2",
+                -1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "8",
+                1
+            ],
+            [
+                "9",
+                1
+            ],
+            [
+                "15",
+                -1
+            ],
+            [
+                "16",
+                -1
+            ],
+            [
+                "35",
+                -1
+            ],
+            [
+                "39",
+                -1
+            ],
+            [
+                "41",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Joachim R�nning": {
+                "args": [
+                    [
+                        "9_directors joachim r�nning and espen sandberg work up a stormy sea-parting finale that is better than anything in the ten commandments.",
+                        0.25
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "9_directors joachim r�nning and espen sandberg work up a stormy sea-parting finale that is better than anything in the ten commandments.",
+                        0.25
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "9_directors joachim r�nning and espen sandberg work up a stormy sea-parting finale that is better than anything in the ten commandments.",
+                0.25
+            ]
+        ]
+    },
+    "writer": {
+        "args": [
+            [
+                "7_if 30 minutes of jumbled mythology and cheesy writing had been cut, the movie would have had an action beat as driving as the heart-pounding score by geoff zanelli.",
+                -0.2
+            ]
+        ],
+        "entities": {
+            "Jeff Nathanson": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "7_if 30 minutes of jumbled mythology and cheesy writing had been cut, the movie would have had an action beat as driving as the heart-pounding score by geoff zanelli.",
+                -0.2
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Johnny Depp": {
+                "args": [
+                    [
+                        "2_and then there's depp's panto drunkenness.",
+                        0.0
+                    ],
+                    [
+                        "15_to accuse depp of phoning it in would be to flatter him.",
+                        0.0
+                    ],
+                    [
+                        "16_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                        -0.13333333333333333
+                    ],
+                    [
+                        "35_a cartoonish depp and a muddled plot send this fifth 'pirates' film to the bottom.",
+                        0.0
+                    ],
+                    [
+                        "41_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                        0.0
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "2_and then there's depp's panto drunkenness.",
+                        0.0
+                    ],
+                    [
+                        "15_to accuse depp of phoning it in would be to flatter him.",
+                        0.0
+                    ],
+                    [
+                        "16_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                        -0.13333333333333333
+                    ],
+                    [
+                        "35_a cartoonish depp and a muddled plot send this fifth 'pirates' film to the bottom.",
+                        0.0
+                    ],
+                    [
+                        "41_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                        0.0
+                    ]
+                ]
+            },
+            "Javier Bardem": {
+                "args": [
+                    [
+                        "8_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                        0.04999999999999999
+                    ]
+                    
+                ],
+                "unique_args": [
+                    [
+                        "8_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                        0.04999999999999999
+                    ]
+                ]
+            },
+            "Brenton Thwaites": {
+                "args": [],
+                "unique_args": []
+            },
+            "Kaya Scodelario": {
+                "args": [],
+                "unique_args": []
+            },
+            "Orlando Bloom": {
+                "args": [],
+                "unique_args": []
+            },
+            "Kevin R. McNally": {
+                "args": [],
+                "unique_args": []
+            },
+            "Golshifteh Farahani": {
+                "args": [],
+                "unique_args": []
+            },
+            "Stephen Graham": {
+                "args": [],
+                "unique_args": []
+            },
+            "Keira Knightley": {
+                "args": [],
+                "unique_args": []
+            },
+            "Martin Klebba": {
+                "args": [],
+                "unique_args": []
+            },
+            "Paul McCartney": {
+                "args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ]
+                ]
+            },
+            "David Wenham": {
+                "args": [],
+                "unique_args": []
+            },
+            "Adam Brown": {
+                "args": [],
+                "unique_args": []
+            },
+            "Danny Kirrane": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "2_and then there's depp's panto drunkenness.",
+                0.0
+            ],
+            [
+                "15_to accuse depp of phoning it in would be to flatter him.",
+                0.0
+            ],
+            [
+                "16_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                -0.13333333333333333
+            ],
+            [
+                "35_a cartoonish depp and a muddled plot send this fifth 'pirates' film to the bottom.",
+                0.0
+            ],
+            [
+                "41_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                0.0
+            ],
+            [
+                "39_we have oscar winners geoffrey rush and javier bardem hamming it up beneath all the makeup and cgi trickery, and that's a hoot.",
+                0.0
+            ],
+            [
+                "8_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                0.04999999999999999
+            ],
+            [
+                "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                0.25
+            ]
+        ]
+    },
+    "themes": {
+        "args": [
+            [
+                "2_and then there's depp's panto drunkenness.",
+                1.0
+            ],
+            [
+                "15_to accuse depp of phoning it in would be to flatter him.",
+                1.0
+            ],
+            [
+                "16_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                -0.13333333333333333
+            ],
+            [
+                "35_a cartoonish depp and a muddled plot send this fifth 'pirates' film to the bottom.",
+                1.0
+            ],
+            [
+                "41_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                1.0
+            ],
+            [
+                "39_we have oscar winners geoffrey rush and javier bardem hamming it up beneath all the makeup and cgi trickery, and that's a hoot.",
+                1.0
+            ],
+            [
+                "8_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                0.04999999999999999
+            ],
+            [
+                "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                0.25
+            ]
+        ],
+        "entities": {
+            "Legacy": {
+                "args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ]
+                ]
+            },
+            "Betrayal": {
+                "args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ]
+                ]
+            },
+            "Adventure": {
+                "args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ]
+                ],
+                "unique_args": [
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        0.25
+                    ],
+                    [
+                        "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                        -0.25
+                    ]
+                ]
+            }
+        },
+        "unique_args": [
+            [
+                "2_and then there's depp's panto drunkenness.",
+                1.0
+            ],
+            [
+                "15_to accuse depp of phoning it in would be to flatter him.",
+                1.0
+            ],
+            [
+                "16_now in its fifth outing and trying to press reset after an unnecessary fourth movie, depp's campy performance in that role is losing crucial energy and humour.",
+                -0.13333333333333333
+            ],
+            [
+                "35_a cartoonish depp and a muddled plot send this fifth 'pirates' film to the bottom.",
+                1.0
+            ],
+            [
+                "41_whatever charm and charisma johnny depp once had is well and truly lost at sea.",
+                1.0
+            ],
+            [
+                "39_we have oscar winners geoffrey rush and javier bardem hamming it up beneath all the makeup and cgi trickery, and that's a hoot.",
+                1.0
+            ],
+            [
+                "8_except for javier bardem, who brings a dollop of fresh mischief to this paycheck party, dead men has all the flavor of rotting leftovers.",
+                0.04999999999999999
+            ],
+            [
+                "5_the plot is nominal, and so are the film's first 90 minutes (paul mccartney cameo included).",
+                0.25
+            ]
+        ]
+    }
+}

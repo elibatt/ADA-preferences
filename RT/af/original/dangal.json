@@ -1,0 +1,111 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_that's more than you can say for dangal, a one-trick domestic sports drama that drags on for two hours and 40 minutes.",
+                -0.555915793762565
+            ],
+            [
+                "1_let it never be said that if you've seen one inspirational sports movie, you've seen them all.",
+                0.6404829642611994
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Nitesh Tiwari": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Nitesh Tiwari": {
+                "args": []
+            },
+            "Shreyas Jain": {
+                "args": []
+            },
+            "Nikhil Mehrotra": {
+                "args": []
+            },
+            "Piyush Gupta": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Olamilekan Akanbi Jason": {
+                "args": []
+            },
+            "Zaira Wasim": {
+                "args": []
+            },
+            "Hafiz Khan": {
+                "args": []
+            },
+            "Mahesh Balraj": {
+                "args": []
+            },
+            "Sanya Malhotra": {
+                "args": []
+            },
+            "Ravi Aneja": {
+                "args": []
+            },
+            "Anmol Charan": {
+                "args": []
+            },
+            "Rohit Shankarwar": {
+                "args": []
+            },
+            "Aamir Khan": {
+                "args": []
+            },
+            "Aparshakti Khurana": {
+                "args": []
+            },
+            "Gurpreet Toti": {
+                "args": []
+            },
+            "Vivan Bhatena": {
+                "args": []
+            },
+            "Suhani Bhatnagar": {
+                "args": []
+            },
+            "Shishir Sharma": {
+                "args": []
+            },
+            "Meenu Prajapati": {
+                "args": []
+            },
+            "Anurag Arora": {
+                "args": []
+            },
+            "Jagbir": {
+                "args": []
+            },
+            "Badrul Islam": {
+                "args": []
+            },
+            "Ritvik Sahore": {
+                "args": []
+            },
+            "Ansh Rathore": {
+                "args": []
+            },
+            "Girish Kulkarni": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

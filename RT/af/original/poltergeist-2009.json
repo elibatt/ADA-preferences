@@ -1,0 +1,150 @@
+{
+    "writer": {
+        "entities": {
+            "Steven Spielberg": {
+                "args": [
+                    [
+                        "15_this has more in common with slick, audience-goosing modern spookers like 'insidious' than with hooper & spielberg's imaginative original.",
+                        0.8130051017606427
+                    ]
+                ]
+            },
+            "David Lindsay-Abaire": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Nicholas Braun": {
+                "args": []
+            },
+            "Rosemarie DeWitt": {
+                "args": []
+            },
+            "Jane Adams (II)": {
+                "args": []
+            },
+            "Sam Rockwell": {
+                "args": []
+            },
+            "L.A. Lopes": {
+                "args": []
+            },
+            "Kennedi Clements": {
+                "args": []
+            },
+            "Karen Ivany": {
+                "args": []
+            },
+            "Susan Heyward": {
+                "args": []
+            },
+            "Kyle Catlett": {
+                "args": []
+            },
+            "Soma Bhatia": {
+                "args": []
+            },
+            "Saxon Sharbino": {
+                "args": []
+            },
+            "Jared Harris": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ the cast acquit themselves well enough.",
+                0.5525045847992652
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_there's little doubt that nostalgia played a part in fox's decision to remake poltergeist, ",
+                0.5676732383703995
+            ],
+            [
+                "2_it's not exactly a scary film, ",
+                -0.7522425629683465
+            ],
+            [
+                "3_the original film was promoted with the tagline \"",
+                0.5235173196481469
+            ],
+            [
+                "3_if there was a truth-in-advertising law regarding films, this movie's ad copy would read: \"poltergeist: meh.\"",
+                0.5137678487920317
+            ],
+            [
+                "4_the new \"poltergeist\" might well be the scariest movie 13-or-unders have yet seen, just as the original was for their parents back in 1982.",
+                0.7182078072905245
+            ],
+            [
+                "5_poltergeist does benefit from briskness-",
+                0.5235610621949919
+            ],
+            [
+                "5_it's actually 20 minutes shorter than hooper's film-and there is a nice, evil dead 2-esque sequence involving a power drill.",
+                0.5876209728339171
+            ],
+            [
+                "7_this new poltergeist isn't anything special ...",
+                -0.593466529483049
+            ],
+            [
+                "8_rarely has a remake felt more contractually obligated than the 2015 version of \"poltergeist.\"",
+                0.5839829338187971
+            ],
+            [
+                "9_ poltergeist is a solid, surprisingly effective chiller that's respectful towards its 1982 predecessor while acquitting itself as a proficient update.",
+                0.8172326092640272
+            ],
+            [
+                "11_this remake is over 20 minutes shorter than the original \"poltergeist,\" and it saved most of that time by sacrificing the beginning and end.",
+                0.6632240466904318
+            ],
+            [
+                "13_ it also pales next to the scores of subsequent movies - \"the conjuring,\" \"insidious,\" and \"paranormal activity\" - that already stripped the original \"poltergeist\" for parts.",
+                0.50464792110669
+            ],
+            [
+                "16_[a] professionally executed yet bloodless film ... an act of homage that hews reverently to its source material while missing the essential spirit and vitality that once powered it.",
+                0.710321370640838
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gil Kenan": {
+                "args": [
+                    [
+                        "0_director gil kenan ruins the pacing with too many half-baked, awkwardly staged horror set pieces, ",
+                        -0.6279055186742764
+                    ],
+                    [
+                        "1_ that's a poor reason for any film's existence and no excuse for how uninspired gil kenan's re-imagining of this one turned out.",
+                        -0.8306890391011442
+                    ],
+                    [
+                        "14_leaving behind the youth-skewing perspectives of monster house and city of ember, director gil kenan not only delivers on the promise of hooper's poltergeist, ",
+                        0.6280937352505772
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_ few legitimate scares, unlike director tobe hooper's original, which, ",
+                0.5576304361716757
+            ]
+        ]
+    }
+}

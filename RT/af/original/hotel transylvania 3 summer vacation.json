@@ -1,0 +1,86 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the film is pleasingly mild and distracting.",
+                0.5672153366588205
+            ],
+            [
+                "8_tartakovsky is a talented visual filmmaker, and \"hotel transylvania 3\" showcases some of the best work of his career.",
+                0.8507976868883157
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Genndy Tartakovsky": {
+                "args": [
+                    [
+                        "11_returning a third time as director, genndy tartakovsky lends his usual graphic savvy, providing a not-quite-saving grace.",
+                        0.617939875075399
+                    ],
+                    [
+                        "19_genndy tartakovsky keeps the slapstick coming at enough of a relentless pace to make this animated sequel a midsummer delight.",
+                        0.6892235054335992
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Michael McCullers": {
+                "args": []
+            },
+            "Genndy Tartakovsky": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Steve Buscemi": {
+                "args": []
+            },
+            "Molly Shannon": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Fran Drescher": {
+                "args": []
+            },
+            "David Spade": {
+                "args": []
+            },
+            "Andy Samberg": {
+                "args": []
+            },
+            "Selena Gomez": {
+                "args": []
+            },
+            "Kevin James": {
+                "args": []
+            },
+            "Mel Brooks": {
+                "args": []
+            },
+            "Adam Sandler": {
+                "args": [
+                    [
+                        "12_between the goofy humor, adam sandler's hallmark gibberish and an unfortunate return of the macarena, \"hotel transylvania 3: summer vacation\" houses an unexpectedly affecting story of modern love with a creaky vampire dad.",
+                        0.6894371806947278
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

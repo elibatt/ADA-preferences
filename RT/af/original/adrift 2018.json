@@ -1,0 +1,189 @@
+{
+    "director": {
+        "args": [
+            [
+                "21_it's all done expertly and with an unexpectedly deft sleight-of-hand twist in the homestretch that proves once again that kormakur is the kind of overachieving director that one pigeonholes at their own risk.",
+                0.7354438976863793
+            ],
+            [
+                "22_ director kormakur toggles well enough.",
+                0.5441384452548493
+            ]
+        ],
+        "entities": {
+            "Baltasar Kormákur": {
+                "args": [
+                    [
+                        "10_ the surface appeal of the stars and kormákur's and cinematographer robert richardson's visuals - keeps adrift from making true waves.",
+                        0.7326271101603947
+                    ],
+                    [
+                        "24_the movie has a little more up its sleeves, narratively speaking, than first appears, and kormákur converges the two timelines effectively.",
+                        0.6151196169110805
+                    ],
+                    [
+                        "30_try as he might, kormákur simply can't get around the fact that his haggard, despairing subject spends all that time at sea with a whole lotta nothing going on.",
+                        -0.784215446085675
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tami Ashcraft": {
+                "args": []
+            },
+            "Jeffrey Thomas": {
+                "args": []
+            },
+            "Luna Campbell": {
+                "args": []
+            },
+            "Apakuki Nalawa": {
+                "args": []
+            },
+            "Elizabeth Hawthorne": {
+                "args": []
+            },
+            "Kael Damlamian": {
+                "args": []
+            },
+            "Sam Claflin": {
+                "args": []
+            },
+            "Tim Solomon": {
+                "args": []
+            },
+            "Lei-Ming Caine": {
+                "args": []
+            },
+            "Grace Palmer": {
+                "args": []
+            },
+            "Shailene Woodley": {
+                "args": [
+                    [
+                        "4_ woodley makes it more emotionally satisfying than it would be ",
+                        0.6704355720194584
+                    ],
+                    [
+                        "5_a well-tailored vehicle for woodley to showcase her grit and her hippie-dippie appeal.",
+                        0.5287479860656594
+                    ],
+                    [
+                        "9_shailene woodley is fully committed as a sailor lost at sea in \"adrift,\" and she keeps what is ",
+                        -0.5798400001225288
+                    ],
+                    [
+                        "22_and woodley sees it through.",
+                        0.5723162843313416
+                    ],
+                    [
+                        "28_all is lost, it at least gives woodley the opportunity to convincingly sink her teeth into a plum dramatic lead role...",
+                        -0.7412959451206795
+                    ],
+                    [
+                        "29_[woodley] knows how to play an ordinary woman who's wild at heart, and she keeps you captivated, even when the film itself is watchable in a perfectly competent, touching, and standard way.",
+                        0.6614768377487346
+                    ]
+                ]
+            },
+            "Marisiale Tunoka": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_to adopt the old cliché, the ocean isn't just a character in this film - it's the best one.",
+                0.5941856314999768
+            ],
+            [
+                "22_they never quite got the script right, ",
+                -0.5639366454841489
+            ]
+        ],
+        "entities": {
+            "David Branson Smith": {
+                "args": []
+            },
+            "Jordan Kandell": {
+                "args": []
+            },
+            "Aaron Kandell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_to adopt the old cliché, the ocean isn't just a character in this film - it's the best one.",
+                0.5941856314999768
+            ],
+            [
+                "3_it's worth noting, too, that while the particulars are easily found via a google search, given the slim nature of the story, the less one knows going into the movie -- other than the fact that tami lived to write a book about it -- the better.",
+                0.6053857375818237
+            ],
+            [
+                "4_adrift is enough of a boilerplate piece of survival drama that you know to expect those beats more or less coming on schedule, ",
+                0.6104002211319552
+            ],
+            [
+                "7_what keeps adrift from feeling like just a travelogue tacked on to a tragi-sploitive star vehicle is, ironically enough, its star.",
+                -0.7597524811857848
+            ],
+            [
+                "8_adrift is a movie throbbing with an audience's anxiety - and yet it is not particularly dramatic.",
+                0.5217389954360012
+            ],
+            [
+                "11_what might have been a typical disaster movie about perfunctorily established characters heading into peril together...instead becomes a love story that keeps asserting and reinforcing itself as the film goes along.",
+                -0.7090009916850137
+            ],
+            [
+                "12_you can consume only so much gooey romanticism before someone gets seasick, and it's precisely the soggy love story at the center of \"adrift\"... that prevents this storm-tossed vehicle from achieving maximum upthrust.",
+                -0.7033026212658535
+            ],
+            [
+                "14_stop googling and see the film first.",
+                0.663081584524508
+            ],
+            [
+                "17_the result is a film that will draw you into an absorbing tale of two lovers forced to test their mettle to the limit in a high-stakes, high-seas adventure.",
+                0.7905745778288278
+            ],
+            [
+                "18_as a sea saga, \"adrift\" is a minor-league addition to the genre.",
+                0.7027597432054582
+            ],
+            [
+                "19_at its best, she wills \"adrift\" into a moving story about a natural born wanderer who needs an anchor to know her own strength.",
+                0.8680319470956677
+            ],
+            [
+                "20_\"adrift\" takes viewers on a trip through beautiful cinematography and gut-wrenching performances that are worth seeing.",
+                0.8728047662735143
+            ],
+            [
+                "26_\"adrift\" is worth a watch, even if its drama (perhaps inevitably) pales in comparison to the source material.",
+                0.6183538602951704
+            ],
+            [
+                "27_the film is a notch below average.",
+                0.6165624853855413
+            ],
+            [
+                "28_if the part of the film devoted to endurance lacks the harrowing power of, say,",
+                0.6400206530095544
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

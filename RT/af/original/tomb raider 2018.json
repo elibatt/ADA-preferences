@@ -1,0 +1,237 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "10_vikander, who won an oscar for her performance in \"the danish girl,\" has more than enough charisma to carry the film.",
+                0.8062104855623584
+            ]
+        ],
+        "entities": {
+            "Daniel Wu": {
+                "args": [
+                    [
+                        "1_i longed for [daniel] wu to return to the screen whenever he left it.",
+                        -0.6009214897362787
+                    ]
+                ]
+            },
+            "Hannah John-Kamen": {
+                "args": []
+            },
+            "Emily Carey": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": [
+                    [
+                        "2_it's about alicia vikander.",
+                        -0.5427130958261879
+                    ],
+                    [
+                        "4_[vikander] invests herself in lara croft, and the filmmakers, unlike the ones jolie got saddled with, frame her with awe rather than lust.",
+                        -0.537450901244731
+                    ],
+                    [
+                        "6_tomb raider, sloppily directed by roar uthaug, would not be worth watching without vikander, who darts, leaps, and pummels her way through this mediocre escapade with a winning fierceness",
+                        0.5117393362982816
+                    ],
+                    [
+                        "15_while vikander plays a competent lara croft, she's also a surprisingly joyless one.",
+                        0.5729884756784374
+                    ],
+                    [
+                        "17_if the future chapters are to be this silly and disposable, one hopes vikander moves on as quickly from this film as i did as a viewer.",
+                        -0.6575142161344788
+                    ],
+                    [
+                        "20_ms. vikander certainly looks the role, with flowing hair and a washboard stomach you could play the blues on.",
+                        0.5316483070309672
+                    ],
+                    [
+                        "32_what makes vikander's interpretation work is that this new-and-somewhat-improved \"tomb raider\" has been conceived as both a back-to-basics origin story and a smart, forward-thinking spin on a character with a tricky representational history.",
+                        0.622698400424131
+                    ],
+                    [
+                        "33_alicia vikander worked herself into hardbody shape for tomb raider, which by contrast is a flabby, lazy mess.",
+                        -0.6952549585923697
+                    ],
+                    [
+                        "41_alicia vikander gamely steps into the kick-ass role twice played by angelina jolie, ",
+                        0.5528855560346606
+                    ]
+                ]
+            },
+            "Kristin Scott Thomas": {
+                "args": []
+            },
+            "Walton Goggins": {
+                "args": []
+            },
+            "Nick Frost": {
+                "args": []
+            },
+            "Michael Obiora": {
+                "args": []
+            },
+            "Dominic West": {
+                "args": []
+            },
+            "Alexandre Willaume": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Roar Uthaug": {
+                "args": [
+                    [
+                        "5_for a while, it looked like director roar uthaug was going to deliver a video game movie that transcended the genre, mostly through the neat trick of having his ass-kicking heroine be driven by the thoroughly human desire to be daddy's little girl again.",
+                        -0.5785628708464747
+                    ],
+                    [
+                        "6_tomb raider, sloppily directed by roar uthaug, would not be worth watching without vikander, who darts, leaps, and pummels her way through this mediocre escapade with a winning fierceness",
+                        0.5117393362982816
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "24_vikander doesn't have much to play, script-wise, ",
+                -0.7459062177490172
+            ],
+            [
+                "32_what makes vikander's interpretation work is that this new-and-somewhat-improved \"tomb raider\" has been conceived as both a back-to-basics origin story and a smart, forward-thinking spin on a character with a tricky representational history.",
+                0.622698400424131
+            ],
+            [
+                "35_such a uniquely interesting character deserves more than a run-of-the-mill action franchise, ",
+                -0.5472616573638236
+            ]
+        ],
+        "entities": {
+            "Geneva Robertson-Dworet": {
+                "args": []
+            },
+            "Alastair Siddons": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ tomb raider could best be described as a solid step forward, away from past wrongs.",
+                0.6197499302004308
+            ],
+            [
+                "3_there's no way to hate a movie that has spiked poles, booby-trapped caves and zombies, ",
+                -0.7851905067834701
+            ],
+            [
+                "7_like your copy of the original playstation game, this \"tomb raider\" already feels like it's covered in dust.",
+                -0.7043223835353896
+            ],
+            [
+                "8_if your movie makes people want to play the game instead, that's a sign of deficient filmmaking - or an extremely overpriced advertisement.",
+                -0.5865204814446485
+            ],
+            [
+                "10_vikander, who won an oscar for her performance in \"the danish girl,\" has more than enough charisma to carry the film.",
+                0.8062104855623584
+            ],
+            [
+                "11_the greatest distinction of \"tomb raider\" may be its trombones.",
+                0.5715313636511684
+            ],
+            [
+                "13_it all feels depressingly generic, and as the fun leaks out over the course of two long hours, a viewer starts to push back against the film's rickety suspension of disbelief.",
+                -0.5873583830852706
+            ],
+            [
+                "14_i wouldn't mind playing the game based on the movie ",
+                -0.5764187171383426
+            ],
+            [
+                "14_ was less enthused about the movie based on the game.",
+                -0.5414562090025128
+            ],
+            [
+                "15_and if you can't have fun at a movie like this, what's the point?",
+                -0.517273807466127
+            ],
+            [
+                "19_a film so rife with plot holes that it would make a decent pasta strainer.",
+                -0.5362630133362413
+            ],
+            [
+                "21_tomb raiders gonna tomb raid!",
+                -0.507893994851239
+            ],
+            [
+                "22_this is ... not just a reboot of a film franchise based on a video game.",
+                -0.7396630548599928
+            ],
+            [
+                "22_it's also a movie based on a reboot of that video game.",
+                -0.5712870366411085
+            ],
+            [
+                "23_this lara croft is a capable, intelligent action-movie heroine, not an excuse to flaunt boobs and guns.",
+                -0.560529929371053
+            ],
+            [
+                "25_ what does it matter in a movie that's dull when it's not inexplicable, and is riddled with bad dialogue and worse special effects?",
+                -0.8223205791539981
+            ],
+            [
+                "26_story problems tank the new \"tomb raider\" - small, essential things like lack of motivation, lack of reasons for people to do the things they do, and lack of any reason for the audience to keep watching.",
+                -0.7954096289931233
+            ],
+            [
+                "28_\"tomb raider\" is an often fun and visually compelling action pic, that is also sometimes unintentionally silly, with a great actress leading the whole thing.",
+                0.6972111972665798
+            ],
+            [
+                "29_\"tomb raider\" is no masterpiece, ",
+                -0.5727586647244993
+            ],
+            [
+                "30_without the interactive component, we're just watching moldy movie tropes retranslated back into movie form.",
+                -0.5417402941898797
+            ],
+            [
+                "31_ next time, maybe the whole thing can feel just a smidge more like its own film.",
+                -0.5668760727301748
+            ],
+            [
+                "37_vikander, who has clearly been put through the brutal pullups-and-jump-squats gauntlet of action-movie bootcamp, is tiny ",
+                -0.7682093140389701
+            ],
+            [
+                "38_ the film should stay buried.",
+                0.5027710744739764
+            ],
+            [
+                "39_ until then, tomb raider feels like a perfectly paced trio of espresso shots, with a shot of adrenaline to the heart as a chaser.",
+                -0.538950241796684
+            ],
+            [
+                "40_the movie is full of vine-swinging, bow-and-arrow-shooting, ancient-spirit-meeting action, ",
+                0.6093141170859544
+            ],
+            [
+                "41_ the derivative story and cardboard supporting characters are straight out of 1930s movie serials.",
+                -0.5945018414710981
+            ]
+        ]
+    }
+}

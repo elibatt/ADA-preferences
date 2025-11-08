@@ -1,0 +1,171 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_it takes a mediocre movie like before i fall to illustrate how brilliant harold ramis' groundhog day is.",
+                -0.6406208031240548
+            ],
+            [
+                "5_before i fall would do better to understand its corrupted little angels before it tries to teach them something.",
+                -0.6072495604672202
+            ],
+            [
+                "7_while it's far from subtle getting there, \"before i fall\" sticks its landing in its final moments.",
+                -0.6509243719009772
+            ],
+            [
+                "8_a collision of sci-fi, drama and horror, \"before i fall\" earns points for ambition.",
+                -0.5377536980079551
+            ],
+            [
+                "9_before i fall is a young-adult thriller that goes far beyond the surface level.",
+                -0.5525362164016772
+            ],
+            [
+                "10_before i fall above the ya herd.",
+                0.5392883555250481
+            ],
+            [
+                "16_the filmmakers have crafted a canny delivery system for their life lessons, by way of a movie that balances escapism, candor and ethics with admirable aplomb.",
+                0.7286456871040795
+            ],
+            [
+                "18_while before i fall might not be for every grown-up - for starters, those put off by the word \"bae\"- it does work for teens looking for authenticity and a high-concept story that reflects their insular world.",
+                0.6496435256880118
+            ],
+            [
+                "20_it's a strong performance in a movie that sneaks up on you, and wins you over.",
+                0.7449252307972161
+            ],
+            [
+                "21_you have seen this movie before.",
+                0.5129764862777637
+            ],
+            [
+                "22_before i fall\" is tactful rather than maudlin, tasteful rather than lurid, soothing rather than creepy.",
+                -0.7044418167551506
+            ],
+            [
+                "23_it's a well-meaning film, ",
+                0.6257605709028593
+            ],
+            [
+                "26_the movie might be little more than a groundhog day remake set in high school, ",
+                -0.5082421195032214
+            ],
+            [
+                "27_former high-schoolers might be a bit bored by the movie's ultimate goal of teaching a lesson, ",
+                0.5093201575193764
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "3_deutch's naturalistic performance grounds the various layers of the story in a manner that keeps it from becoming either boring or wildly unrealistic.",
+                -0.5814841776485277
+            ],
+            [
+                "20_it's a strong performance in a movie that sneaks up on you, and wins you over.",
+                0.7449252307972161
+            ],
+            [
+                "28_this neatly written heathers-meets-groundhog day high-concept package delivers both technical polish and a toothsome yet likeable cast.",
+                0.7752644254886426
+            ]
+        ],
+        "entities": {
+            "Cynthy Wu": {
+                "args": []
+            },
+            "Medalion Rahimi": {
+                "args": []
+            },
+            "Diego Boneta": {
+                "args": []
+            },
+            "Elena Kampouris": {
+                "args": []
+            },
+            "Kian Lawley": {
+                "args": []
+            },
+            "Jennifer Beals": {
+                "args": []
+            },
+            "Zoey Deutch": {
+                "args": [
+                    [
+                        "14_a fine actress, deutch makes a compelling and empathetic protagonist, even as the story veers closer into the supernatural.",
+                        0.8354303547040687
+                    ],
+                    [
+                        "19_it says something about deutch's appeal that she does manage to pull the story from the vexing hole it digs itself into.",
+                        -0.5566185255645029
+                    ],
+                    [
+                        "24_russo-young gives this teen parable the thriller treatment to ward off any cheese, and watching deutch learn her lesson with that expressive face of hers is a singular, moving experience.",
+                        0.8309295092590492
+                    ],
+                    [
+                        "25_the film mostly retains its humanity, largely thanks to deutch's performance and russo-young's insistence on keeping her at the forefront of almost every shot.",
+                        0.7879287241577738
+                    ]
+                ]
+            },
+            "Halston Sage": {
+                "args": []
+            },
+            "Logan Miller": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "20_deutch gives us a character to root for.",
+                -0.5332233540196685
+            ]
+        ],
+        "entities": {
+            "Maria Maggenti": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "15_ director ry-russo young refuses to stereotype them",
+                0.5340007222292389
+            ]
+        ],
+        "entities": {
+            "Ry Russo-Young": {
+                "args": [
+                    [
+                        "0_director ry russo-young seems genuinely interested in tapping into these characters and reminding us what fresh hell adolescence brings each day, ",
+                        0.8035084636825935
+                    ],
+                    [
+                        "1_there's little that the director, ry russo-young, can do with the material's sentimental thinness, ",
+                        -0.5965135286433745
+                    ],
+                    [
+                        "2_being spineless is its own form of evil, yet russo-young makes samantha such a languid, lovely waif that you forgive her as soon as she smiles.",
+                        0.7409507790819772
+                    ],
+                    [
+                        "25_the film mostly retains its humanity, largely thanks to deutch's performance and russo-young's insistence on keeping her at the forefront of almost every shot.",
+                        0.7879287241577738
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_there isn't an honest moment in all 96 minutes of traffik.",
+                -0.6393801390346016
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Deon Taylor": {
+                "args": [
+                    [
+                        "1_an effective weekend-from-hell thriller with a vital message, a terrific lead performance by paula patton and some unexpectedly dimensional storytelling from writer-director deon taylor.",
+                        0.7832835341325164
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_attempts to marry cheap genre thrills with an unflinching depiction of the horrors of international sex trafficking, only to cheapen the latter and cast a grimy pall over the former.",
+                0.675917240174988
+            ]
+        ],
+        "entities": {
+            "Ramsey Hanchette": {
+                "args": []
+            },
+            "Noel Farmer": {
+                "args": []
+            },
+            "Johann Tate": {
+                "args": []
+            },
+            "Lorin McCraley": {
+                "args": []
+            },
+            "Jenny Slenter": {
+                "args": []
+            },
+            "Scott Free": {
+                "args": []
+            },
+            "Scott Anthony Leet": {
+                "args": []
+            },
+            "Paula Patton": {
+                "args": [
+                    [
+                        "0_while patton almost single-handedly makes you want to take the film a little more seriously than is in any way warranted, it's impossible to do so on any level...",
+                        -0.6801046704008572
+                    ],
+                    [
+                        "1_an effective weekend-from-hell thriller with a vital message, a terrific lead performance by paula patton and some unexpectedly dimensional storytelling from writer-director deon taylor.",
+                        0.7832835341325164
+                    ]
+                ]
+            },
+            "Luke Goss": {
+                "args": []
+            },
+            "Roselyn Sanchez": {
+                "args": []
+            },
+            "Angelica Tesla": {
+                "args": []
+            },
+            "William Fichtner": {
+                "args": []
+            },
+            "Mike Betancourt": {
+                "args": []
+            },
+            "D. Brad St. Cyr": {
+                "args": []
+            },
+            "Lindsay Vanina": {
+                "args": []
+            },
+            "Tiffany Chen": {
+                "args": []
+            },
+            "John Lobato": {
+                "args": []
+            },
+            "Jim O'Reilly": {
+                "args": []
+            },
+            "September D'Angelo": {
+                "args": []
+            },
+            "Missi Pyle": {
+                "args": []
+            },
+            "Laz Alonso": {
+                "args": []
+            },
+            "Lisa Hitchcock Kallstrom": {
+                "args": []
+            },
+            "Meinhard St. John": {
+                "args": []
+            },
+            "Kelly Symone": {
+                "args": []
+            },
+            "Rick Richardson": {
+                "args": []
+            },
+            "Jordan Potch": {
+                "args": []
+            },
+            "Leah M. Pears": {
+                "args": []
+            },
+            "Dawn Olivieri": {
+                "args": []
+            },
+            "Omar Epps": {
+                "args": []
+            },
+            "Steven Orcino": {
+                "args": []
+            },
+            "Stacey Arwen Raab": {
+                "args": []
+            },
+            "Claude Duhamel": {
+                "args": []
+            },
+            "Jeanne Young": {
+                "args": []
+            },
+            "Jeff Wiesen": {
+                "args": []
+            },
+            "Adrian Bustamante": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_an effective weekend-from-hell thriller with a vital message, a terrific lead performance by paula patton and some unexpectedly dimensional storytelling from writer-director deon taylor.",
+                0.7832835341325164
+            ]
+        ],
+        "entities": {
+            "Deon Taylor": {
+                "args": []
+            }
+        }
+    }
+}

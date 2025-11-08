@@ -1,0 +1,619 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_affleck himself turns in a quietly impressive movie star performance.",
+                0.8358420568136192
+            ],
+            [
+                "5_for 100 minutes, 'argo' is close to flawless.",
+                -0.5111550110742588
+            ],
+            [
+                "6_'argo' is one of the best movies of the year.",
+                0.9272421222095499
+            ],
+            [
+                "7_argo has that solid, kick-the-tires feel of those studio films from the 70s that were about something ",
+                -0.548882123348638
+            ],
+            [
+                "11_the film is a whopper of a tale, one designed for oscar nominations, best picture and best director among them.",
+                0.9062322035299257
+            ],
+            [
+                "12_argo is a movie of many parts, the sum of which can probably be best described as enjoyable hollywood hokum.",
+                0.5831841344825048
+            ],
+            [
+                "14_ the story is undeniably a doozy, and the movie is a blast.",
+                0.7606493489543825
+            ],
+            [
+                "15_, you'd swear this was the work of a veteran master like steven soderbergh.",
+                0.6271165517102183
+            ],
+            [
+                "17_ most people know the outcome, this movie still will have you on the edge of your seat.",
+                0.8879637215314153
+            ],
+            [
+                "18_the movie is accomplished enough to stand alongside the 1970s political thrillers that inspired it, right down to the vintage red-and-black warner bros. logo that opens the film.",
+                0.6866662287718258
+            ],
+            [
+                "19_ argo is more than up to the task.",
+                0.5908543733718514
+            ],
+            [
+                "21_\"argo\" exults in what a movie can do when its story has a compelling core.",
+                0.533595180542176
+            ],
+            [
+                "22_\"argo\" is both an inspiring tale of risk and heroism, and a crackling piece of entertainment.",
+                0.7231296415792374
+            ],
+            [
+                "23_with america's tormented relationship with iran back on the global front burner, \"argo\" is also a crafty, reflective mood piece that will leave you thinking about the resounding echoes of that tormented and not-so-distant era.",
+                0.7912615486253742
+            ],
+            [
+                "24_it's high-class hollywood, not the low-rent and exploitative route that the make-believe movie at the heart of this tale would have taken.",
+                -0.6646137184435563
+            ],
+            [
+                "26_affleck easily orchestrates this complex film with 120 speaking parts as it moves from inside-the-beltway espionage thriller to inside hollywood dark comedy to gripping international hostage drama, all without missing a step.",
+                0.7295918096470614
+            ],
+            [
+                "34_argo navigates these familiar qualities through a nice calibration of performances and breezy pace that pulls you along with the increasingly risky stakes.",
+                0.892866849633187
+            ],
+            [
+                "35_\"argo\" is his dream come true.",
+                0.7249605144593074
+            ],
+            [
+                "43_\"'argo' is quite a satisfactory impossible mission indeed.\"",
+                -0.602735983308393
+            ],
+            [
+                "47_while steeped in the trends and filmmaking style of the decade, \"argo\" still feels immediate and relevant.",
+                0.6353554505327379
+            ],
+            [
+                "47_affleck's best film yet is also one of the best films of the year.",
+                0.9406209564390955
+            ],
+            [
+                "48_argo is never less than wildly entertaining, ",
+                -0.528738111389699
+            ],
+            [
+                "52_argo is a crackerjack political thriller told with intelligence, great period detail and a surprising amount of nutty humor for a serious look at the iran hostage crisis of 1979-81.",
+                0.8376018777856362
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_ a part of me wishes the director hadn't cast himself in the lead role.",
+                -0.6712425448913248
+            ],
+            [
+                "11_the film is a whopper of a tale, one designed for oscar nominations, best picture and best director among them.",
+                0.9062322035299257
+            ]
+        ],
+        "entities": {
+            "Ben Affleck": {
+                "args": [
+                    [
+                        "1_let's just say that the movie's final section is so nail-bitingly tense, thanks to a skillful combination of acting, writing and crosscutting, that it puts affleck in the big leagues as a director.",
+                        0.6308980294228111
+                    ],
+                    [
+                        "4_with affleck's continued growth as a director, it makes you want to see what he will deliver next.",
+                        0.6898864351500364
+                    ],
+                    [
+                        "9_argo is a rollicking yarn, easily the most cohesive and technically accomplished of affleck's three films so far, ",
+                        0.7210767097863706
+                    ],
+                    [
+                        "20_ben affleck doesn't merely direct argo",
+                        -0.6884334623241853
+                    ],
+                    [
+                        "25_ the real accomplishment here is how affleck, who both stars in and directs argo, manages to segue from ocean's 11-style repartee to pulse-pounding tension and back again.",
+                        0.6946364161982334
+                    ],
+                    [
+                        "27_[affleck's] ambition for the thriller has gone international, it's gone important, ",
+                        -0.5815173475258446
+                    ],
+                    [
+                        "32_it's an embodiment of the kind of quality adult film that really shouldn't be an endangered species, and a love letter from affleck to the industry that made him, shunned him, and loves nothing more than to be loved.",
+                        0.5682108450647061
+                    ],
+                    [
+                        "35_before he was a middle eastern studies major, ben affleck dreamed of directing a movie that mattered.",
+                        -0.5391402715185385
+                    ],
+                    [
+                        "36_the propulsive hostage thriller \"argo,\" the third feature directed by ben affleck, just plain works.",
+                        -0.5417777173471297
+                    ],
+                    [
+                        "50_kudos to ben affleck, actor and director, for delivering a vital and thrilling political actioner.",
+                        0.5642990274387145
+                    ],
+                    [
+                        "51_white-knuckle tense and less self-congratulatory than it sounds, ben affleck's unexpectedly comedic third feature has the vital elements to delight adult auds.",
+                        0.5279868910881929
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_affleck himself turns in a quietly impressive movie star performance.",
+                0.8358420568136192
+            ],
+            [
+                "9_ a part of me wishes the director hadn't cast himself in the lead role.",
+                -0.6712425448913248
+            ]
+        ],
+        "entities": {
+            "Ray Haratian": {
+                "args": []
+            },
+            "Rob Tepper": {
+                "args": []
+            },
+            "Tom Lenk": {
+                "args": []
+            },
+            "Ali Saam": {
+                "args": []
+            },
+            "Maz Siam": {
+                "args": []
+            },
+            "Kelly Curran": {
+                "args": []
+            },
+            "Sharareh Sedghi": {
+                "args": []
+            },
+            "Alison Fiori": {
+                "args": []
+            },
+            "Taies Farzan": {
+                "args": []
+            },
+            "Lindsey Ginter": {
+                "args": []
+            },
+            "Bob Gunton": {
+                "args": []
+            },
+            "Chris Messina": {
+                "args": []
+            },
+            "Bill Tangradi": {
+                "args": []
+            },
+            "Hans Tester": {
+                "args": []
+            },
+            "Victor Garber": {
+                "args": []
+            },
+            "J.R. Cacia": {
+                "args": []
+            },
+            "Ruty Rutenberg": {
+                "args": []
+            },
+            "Kyle Chandler": {
+                "args": []
+            },
+            "Titus Welliver": {
+                "args": []
+            },
+            "Dorianne Pahlavan": {
+                "args": []
+            },
+            "Nelson Franklin": {
+                "args": []
+            },
+            "Baris Deli": {
+                "args": []
+            },
+            "Tate Donovan": {
+                "args": []
+            },
+            "Zeljko Ivanek": {
+                "args": []
+            },
+            "Mehrdad Sarlak": {
+                "args": []
+            },
+            "Scoot McNairy": {
+                "args": []
+            },
+            "Leyla Beysulen": {
+                "args": []
+            },
+            "Michael Cassidy": {
+                "args": []
+            },
+            "Richard Kind": {
+                "args": [
+                    [
+                        "3_tony mendez is a kind of anti-bourne, comfortable with his anonymity, living off his wits, not his fists.",
+                        0.8053148937027681
+                    ],
+                    [
+                        "45_out in the audience, you never shake the feeling-partly intentional-that argo itself is swaddled in a kind of phony ersatzness.",
+                        -0.5597590531705308
+                    ]
+                ]
+            },
+            "Ryan Ahern": {
+                "args": []
+            },
+            "Amir Kamyab": {
+                "args": []
+            },
+            "Fanshen Cox": {
+                "args": []
+            },
+            "Bobby Naderi": {
+                "args": []
+            },
+            "Alex Schemmer": {
+                "args": []
+            },
+            "Danilo DiJulio": {
+                "args": []
+            },
+            "Michael Woolston": {
+                "args": []
+            },
+            "Jamie McShane": {
+                "args": []
+            },
+            "Araz Vahid Ebrahim Nia": {
+                "args": []
+            },
+            "Scott Anthony Leet": {
+                "args": []
+            },
+            "Deborah Deimel Bean": {
+                "args": []
+            },
+            "Soheil Tasbihchi": {
+                "args": []
+            },
+            "Tehmina Sunny": {
+                "args": []
+            },
+            "Ali Farkhonde": {
+                "args": []
+            },
+            "Barry Livingston": {
+                "args": []
+            },
+            "Ken Edling": {
+                "args": []
+            },
+            "Fahim Fazli": {
+                "args": []
+            },
+            "Matt Nolan": {
+                "args": []
+            },
+            "Ray Porter": {
+                "args": []
+            },
+            "Michael Parks": {
+                "args": []
+            },
+            "Danielle Barbosa": {
+                "args": []
+            },
+            "Michael Chieffo": {
+                "args": []
+            },
+            "Billy Blair": {
+                "args": []
+            },
+            "Rory Cochrane": {
+                "args": []
+            },
+            "Yuriy Sardarov": {
+                "args": []
+            },
+            "Bobby Zegar": {
+                "args": []
+            },
+            "Seyed Reza Mir Karimi": {
+                "args": []
+            },
+            "Keith Szarabajka": {
+                "args": []
+            },
+            "Victor McCay": {
+                "args": []
+            },
+            "Hooshang Tooze": {
+                "args": []
+            },
+            "Christopher Denham": {
+                "args": []
+            },
+            "Hovik Gharibian": {
+                "args": []
+            },
+            "Karina Logue": {
+                "args": []
+            },
+            "Bill Kalmenson": {
+                "args": []
+            },
+            "Ashley Wood": {
+                "args": []
+            },
+            "Rafi Pitts": {
+                "args": []
+            },
+            "Peter Henry Schroeder": {
+                "args": []
+            },
+            "Eric Scott Cooper": {
+                "args": []
+            },
+            "Nikka Far": {
+                "args": []
+            },
+            "Adrienne Barbeau": {
+                "args": []
+            },
+            "Sahm McGlynn": {
+                "args": []
+            },
+            "Jon Woodward Kirby": {
+                "args": []
+            },
+            "Mark Rhino Smith": {
+                "args": []
+            },
+            "John Goodman": {
+                "args": []
+            },
+            "Stephen J. Lattanzi": {
+                "args": []
+            },
+            "Florans Atlantis": {
+                "args": []
+            },
+            "Matthew Glave": {
+                "args": []
+            },
+            "Dan Dijulio": {
+                "args": []
+            },
+            "Allegra Carpenter": {
+                "args": []
+            },
+            "Cas Anvar": {
+                "args": []
+            },
+            "Amitis Frances Ariano": {
+                "args": []
+            },
+            "Larry Sullivan": {
+                "args": []
+            },
+            "Brandon Tabassi": {
+                "args": []
+            },
+            "Alexandre Desplat": {
+                "args": []
+            },
+            "Daston Kalili": {
+                "args": []
+            },
+            "Christopher Stanley": {
+                "args": []
+            },
+            "Nancy Stelle": {
+                "args": []
+            },
+            "Puya Abbassi": {
+                "args": []
+            },
+            "Scott Elrod": {
+                "args": []
+            },
+            "Farshad Farahat": {
+                "args": []
+            },
+            "Alborz Basiratmand": {
+                "args": []
+            },
+            "Andrew Varenhorst": {
+                "args": []
+            },
+            "Ben Affleck": {
+                "args": [
+                    [
+                        "1_let's just say that the movie's final section is so nail-bitingly tense, thanks to a skillful combination of acting, writing and crosscutting, that it puts affleck in the big leagues as a director.",
+                        0.6308980294228111
+                    ],
+                    [
+                        "4_with affleck's continued growth as a director, it makes you want to see what he will deliver next.",
+                        0.6898864351500364
+                    ],
+                    [
+                        "9_argo is a rollicking yarn, easily the most cohesive and technically accomplished of affleck's three films so far, ",
+                        0.7210767097863706
+                    ],
+                    [
+                        "20_ben affleck doesn't merely direct argo",
+                        -0.6884334623241853
+                    ],
+                    [
+                        "25_ the real accomplishment here is how affleck, who both stars in and directs argo, manages to segue from ocean's 11-style repartee to pulse-pounding tension and back again.",
+                        0.6946364161982334
+                    ],
+                    [
+                        "27_[affleck's] ambition for the thriller has gone international, it's gone important, ",
+                        -0.5815173475258446
+                    ],
+                    [
+                        "32_it's an embodiment of the kind of quality adult film that really shouldn't be an endangered species, and a love letter from affleck to the industry that made him, shunned him, and loves nothing more than to be loved.",
+                        0.5682108450647061
+                    ],
+                    [
+                        "35_before he was a middle eastern studies major, ben affleck dreamed of directing a movie that mattered.",
+                        -0.5391402715185385
+                    ],
+                    [
+                        "36_the propulsive hostage thriller \"argo,\" the third feature directed by ben affleck, just plain works.",
+                        -0.5417777173471297
+                    ],
+                    [
+                        "50_kudos to ben affleck, actor and director, for delivering a vital and thrilling political actioner.",
+                        0.5642990274387145
+                    ],
+                    [
+                        "51_white-knuckle tense and less self-congratulatory than it sounds, ben affleck's unexpectedly comedic third feature has the vital elements to delight adult auds.",
+                        0.5279868910881929
+                    ]
+                ]
+            },
+            "Sheila Vand": {
+                "args": []
+            },
+            "Bahram Khosraviani": {
+                "args": []
+            },
+            "Richard Dillane": {
+                "args": []
+            },
+            "Roberto García Suárez": {
+                "args": []
+            },
+            "Clea DuVall": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": [
+                    [
+                        "0_and is it me, or should bryan cranston be in every film released?",
+                        -0.714868469374317
+                    ]
+                ]
+            },
+            "Asghar Allah Veirdi Zadeh": {
+                "args": []
+            },
+            "Annie Little": {
+                "args": [
+                    [
+                        "16_it's serious and substantive, an ingeniously written and executed drama fashioned from a fascinating, little-known chapter of recent history.",
+                        0.6954003518212499
+                    ],
+                    [
+                        "40_ few have done it so forcefully and with so little application of kitsch.",
+                        -0.7048900324441928
+                    ]
+                ]
+            },
+            "Tim Quill": {
+                "args": []
+            },
+            "Jean Carol": {
+                "args": []
+            },
+            "Jozef Fahey": {
+                "args": []
+            },
+            "Alan Arkin": {
+                "args": [
+                    [
+                        "0_the cast helps to keep things moving -- particularly the hilarious interplay between arkin and goodman.",
+                        0.8771507033726604
+                    ],
+                    [
+                        "8_schlock has never seemed so patriotic, and arkin and goodman have rarely been so good.",
+                        0.5602284318728132
+                    ]
+                ]
+            },
+            "Kerry Bishé": {
+                "args": []
+            },
+            "Aidan Sussman": {
+                "args": []
+            },
+            "Joseph S. Griffo": {
+                "args": []
+            },
+            "Sam Sheikholeslami": {
+                "args": []
+            },
+            "Muhammad Cangoren": {
+                "args": []
+            },
+            "Yan Feldman": {
+                "args": []
+            },
+            "Page Leong": {
+                "args": []
+            },
+            "David Sullivan": {
+                "args": []
+            },
+            "Saba Sarem": {
+                "args": []
+            },
+            "Rob Brownstein": {
+                "args": []
+            },
+            "John Boyd": {
+                "args": []
+            },
+            "Omid Abtahi": {
+                "args": []
+            },
+            "Taylor Schilling": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_let's just say that the movie's final section is so nail-bitingly tense, thanks to a skillful combination of acting, writing and crosscutting, that it puts affleck in the big leagues as a director.",
+                0.6308980294228111
+            ]
+        ],
+        "entities": {
+            "Chris Terrio": {
+                "args": []
+            }
+        }
+    }
+}

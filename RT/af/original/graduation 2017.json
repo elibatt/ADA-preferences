@@ -1,0 +1,174 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_ the film is set in romania, its moral quandaries could be taking place anywhere.",
+                -0.5165942040691702
+            ],
+            [
+                "5_\"graduation\" has a lot on its mind, ",
+                -0.5443815644006043
+            ],
+            [
+                "6_while it is shot in near-documentary form amid authentically grim locales, the movie is an exquisitely plotted, jarringly presented moral puzzle.",
+                0.5724056762900271
+            ],
+            [
+                "7_this is a tough film that deals with serious issues, and that may hurt its box-office chances.",
+                0.5673634876846423
+            ],
+            [
+                "7_ \"graduation\" will probably be around long after less challenging fare is forgotten.",
+                -0.6215445970238175
+            ],
+            [
+                "13_bleak, naturalistic and flawlessly acted, \"graduation\" distills the mood and moral decay of a place whose gray skies and nondescript housing blocks feel like permanent reminders of its dark history.",
+                0.7814256119897952
+            ],
+            [
+                "14_the power of the film is cumulative, as the filmmaker spins a mesmerizing morality tale from the dross of daily life.",
+                0.8103699268465505
+            ],
+            [
+                "16_ the film never folds under the weight. \"",
+                -0.6568565173588679
+            ],
+            [
+                "17_graduation is about relatively mundane occurrences, ",
+                -0.5442418862431488
+            ],
+            [
+                "17_ as romeo is pulled further and further from his moral certainty, the film becomes incredibly gripping and unsettling.",
+                0.6139775631784795
+            ],
+            [
+                "19_a thoroughgoing masterpiece which offers proof that romania's cinematic upsurge remains the most vital and important national film movement of the current century.",
+                0.8299062453267426
+            ],
+            [
+                "20_\"graduation\" is long and intense, a rigorously naturalistic film that at times feels as claustrophobic and suspenseful as a horror movie.",
+                0.6627491398516545
+            ],
+            [
+                "21_graduation opens with a brick thrown through an apartment window, and unfolds with that same kind of propulsive force.",
+                0.7554998838654965
+            ],
+            [
+                "23_ even a restrained, emotionally measured work like this is more interesting and provocative than many another director's best effort.",
+                0.7379660596806688
+            ],
+            [
+                "25_graduation shares with [4 months, 3 weeks, and 2 days] a sense of how personal morality can be misshapen by the institutions of an immoral society.",
+                0.6770687063331047
+            ],
+            [
+                "26_a brutally honest movie.",
+                0.6207175496448212
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Cristian Mungiu": {
+                "args": [
+                    [
+                        "3_writer-director cristian mungiu continues his expert evisceration of his native romania, and by extension, this whole rotten world and the people who make it that way, even as they convince themselves ",
+                        0.6654919890201633
+                    ],
+                    [
+                        "4_to mungiu's credit, he makes it clear that, ",
+                        0.7376807498370037
+                    ],
+                    [
+                        "8_ mungiu's straightforward dialogue and naturalistic shooting make for a movie that feels genuine, with no false steps.",
+                        -0.5891165348055366
+                    ],
+                    [
+                        "10_it's consistently absorbing and well-acted, and mungiu's camera makes even simple police station interrogations or drive-around sequences unassuming things of beauty.",
+                        0.8028444864112172
+                    ],
+                    [
+                        "12_the writer-director, mr. mungiu, is a master of ramification",
+                        0.7117224607048633
+                    ],
+                    [
+                        "18_to director cristian mungiu, romania is not just a country - it's a state of mind.",
+                        -0.5557199695395175
+                    ],
+                    [
+                        "22_what it lacks is the nerve-fraying immediacy of mungiu's earlier work.",
+                        0.5261705700118582
+                    ],
+                    [
+                        "23_graduation isn't one of mungiu's finest, ",
+                        -0.5356807881306773
+                    ],
+                    [
+                        "28_a doctor greases the system in order to ensure his daughter aces her finals in cristian mungiu's beautifully structured yet familiar look at a dysfunctional society.",
+                        0.6704063672741399
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "23_ even a restrained, emotionally measured work like this is more interesting and provocative than many another director's best effort.",
+                0.7379660596806688
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Cristian Mungiu": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_the writer-director, mr. mungiu, is a master of ramification",
+                0.7117224607048633
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Malina Manovici": {
+                "args": []
+            },
+            "Rares Andrici": {
+                "args": []
+            },
+            "Maria-Victoria Dragus": {
+                "args": []
+            },
+            "Lia Bugnar": {
+                "args": []
+            },
+            "Vlad Ivanov": {
+                "args": []
+            },
+            "Adrian Titieni": {
+                "args": [
+                    [
+                        "0_the cinematography, the dialogue and the performances, especially adrian titieni's as an earnest and anxious mr. fix-it, are impressively naturalistic.",
+                        -0.5078784440644699
+                    ],
+                    [
+                        "16_graduation\" is compelling throughout because titieni conveys romeo's anxieties through body language and facial expression.",
+                        0.6536945373294341
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "8_the acting is outstanding",
+                0.6451690992456303
+            ]
+        ]
+    }
+}

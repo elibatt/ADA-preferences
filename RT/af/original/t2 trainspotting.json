@@ -1,0 +1,143 @@
+{
+    "writer": {
+        "entities": {
+            "John Hodge": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_trainspotting\" is mostly a character study of damaged people trying to reconcile their troubled pasts and find a motivation to move forward.",
+                0.5608554508186117
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Danny Boyle": {
+                "args": [
+                    [
+                        "6_trainspotting has one foot firmly planted in nostalgia and the other rooted in the present, and thanks in great part to boyle's unique, world-class talent, everything old feels new again.",
+                        0.7827527829494643
+                    ],
+                    [
+                        "17_trainspotting has a melancholy streak, a nostalgia for a time of crazy energy and resiliency, boyle seems desperate to prove he has lost none of his youthful giddiness and that he can go home again.",
+                        -0.6219016448849177
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the final shot of the film is desperately pathetic.",
+                -0.8110988331566866
+            ],
+            [
+                "2_a film nowhere near as revelatory as the original, ",
+                0.5010589519607902
+            ],
+            [
+                "4_improbably, the film vaults over most pitfalls of long-threatened sequels while evolving the delicately crafted world in the original.",
+                0.7701280654797187
+            ],
+            [
+                "4_it's a more sober, mature film, ",
+                0.6489020568686386
+            ],
+            [
+                "7_bad sequels try to re-create the original movie",
+                0.513401236007764
+            ],
+            [
+                "8_it rewards a cult-like obsession with the first film, incorporating copious visual callbacks to trainspotting and nuggets of the original's soundtrack into its dna.",
+                0.7368640635172976
+            ],
+            [
+                "10_\"t2\" is not a great film, ",
+                0.6896920060926554
+            ],
+            [
+                "14_the follow-up is as wistful as the first film was wild, which is another way of saying \"t2\" feels like a ghost of its former self.",
+                -0.5768160826702635
+            ],
+            [
+                "15_the movie becomes - unexpectedly, and unhappily for those looking for another generational anthem - a rueful song about failure.",
+                -0.5737443711930761
+            ],
+            [
+                "16_that interrogation becomes a quicksand in which the film is repeatedly and unfortunately bogged down.",
+                -0.7382420903628053
+            ],
+            [
+                "19_still, there's a hard-won wisdom at work here, as well as an aching sense of loss. .",
+                0.5713508502045525
+            ],
+            [
+                "26_the first film was revolutionary.",
+                0.5240868209071792
+            ],
+            [
+                "28_the film's four lead actors all slip seamlessly back into their onscreen alter egos as if they've been keeping tabs on them all these years.",
+                0.5500936684411478
+            ],
+            [
+                "32_trainspotting\" should not work as well as it does.",
+                0.6059238379902036
+            ],
+            [
+                "32_in fact, it shouldn't work at all.",
+                -0.7884152229680572
+            ],
+            [
+                "35_when they're not busy self-referencing, t2's creators have no idea what kind of movie they want this to be.",
+                -0.7965701862327851
+            ],
+            [
+                "38_it has just enough of those two ingredients that made the first film such a gem: style and soul.",
+                0.7399428846370072
+            ],
+            [
+                "39_ it too often drags in a pool of its own despondency, a miserable and melancholy movie that almost looks a bit embarrassed to be so.",
+                -0.5975217429568634
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Shirley Henderson": {
+                "args": []
+            },
+            "Ewen Bremner": {
+                "args": []
+            },
+            "Ewan McGregor": {
+                "args": [
+                    [
+                        "27_t2 squeaks by on the charm of its actors, all of whom still look pretty damn good--especially mcgregor, who remains a charismatic wag.",
+                        0.7427437526537897
+                    ]
+                ]
+            },
+            "Jonny Lee Miller": {
+                "args": []
+            },
+            "Kelly Macdonald": {
+                "args": []
+            },
+            "Steven Robertson": {
+                "args": []
+            },
+            "Robert Carlyle": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Glenne Headly": {
+                "args": []
+            },
+            "Karen Gillan": {
+                "args": []
+            },
+            "Patton Oswalt": {
+                "args": []
+            },
+            "Ellar Coltrane": {
+                "args": []
+            },
+            "John Boyega": {
+                "args": []
+            },
+            "Tom Hanks": {
+                "args": []
+            },
+            "Emma Watson": {
+                "args": []
+            },
+            "Bill Paxton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_even as it focuses on why information just wants to be free, \"the circle\" is stuck in a loop.",
+                -0.7096173804009858
+            ],
+            [
+                "2_as a satire, the circle might have been worth a few giggles, ",
+                -0.6347966799255008
+            ],
+            [
+                "3_from its beginning, the movie has difficulty wedding its collage of ideas with a compelling narrative.",
+                0.6828271825940195
+            ],
+            [
+                "4_too bad the circle isn't.",
+                -0.8452558907838308
+            ],
+            [
+                "8_the circle is a big honking sloppy mess of a movie, one that flops around so aimlessly that it's baffling so many intelligent people had a hand in making it.",
+                -0.6147769519709392
+            ],
+            [
+                "11_the circle feels dull, dated and ripped from yesterday's headlines.",
+                -0.7440242632374663
+            ],
+            [
+                "12_we'll probably still think the movie isn't very good, ",
+                -0.5223523847193057
+            ],
+            [
+                "13_ this movie arrives when people are actually backing up from social media.",
+                0.5686632142200401
+            ],
+            [
+                "14_the circle has a polished, handsome surface, ",
+                0.6621741451112332
+            ],
+            [
+                "14_that would be ok, probably-if the movie at least knew what it was selling.",
+                -0.5688929987808803
+            ],
+            [
+                "15_it's hard to make a film that's critical of digital technology without sounding like a square.",
+                -0.541975997629581
+            ],
+            [
+                "16_the movie's characterizations are broad and bland, and the haphazard editing leaves apparently major figures stranded for long stretches of the story ...",
+                -0.6666866533635827
+            ],
+            [
+                "17_and it's simply incoherent in the movie.",
+                -0.6415162935913381
+            ],
+            [
+                "19_ponsoldt's film is caught between comedy and paranoid thriller.",
+                0.6259551725135198
+            ],
+            [
+                "21_what makes \"the circle\" so valuable is not only that it's showing us a ghastly possible path that the world may take, ",
+                0.5639700920865623
+            ],
+            [
+                "22_\"the circle\" is a swankly sinister little mind teaser of a thriller.",
+                0.6047286786150544
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Ponsoldt": {
+                "args": [
+                    [
+                        "9_director ponsoldt excels directing women (think mary elizabeth winstead in smash).",
+                        0.5389627853844321
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dave Eggers": {
+                "args": [
+                    [
+                        "17_lampooning the simple-mindedness of utopian web clichés was arguably part of mr. eggers's point, ",
+                        0.6638577522841188
+                    ]
+                ]
+            },
+            "James Ponsoldt": {
+                "args": []
+            }
+        }
+    }
+}

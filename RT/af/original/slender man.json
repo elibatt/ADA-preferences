@@ -1,0 +1,106 @@
+{
+    "writer": {
+        "entities": {
+            "David Birke": {
+                "args": [
+                    [
+                        "1_ birke's screenplay is as devoid of personality as the faceless cipher stalking its heroes.",
+                        -0.6138406305138622
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_ it disappears like the title character's victims.",
+                -0.5727836028713268
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Julia Goldani Telles": {
+                "args": []
+            },
+            "Annalise Basso": {
+                "args": []
+            },
+            "Jaz Sinclair": {
+                "args": []
+            },
+            "Taylor Richardson": {
+                "args": []
+            },
+            "Alex Fitzalan": {
+                "args": []
+            },
+            "Javier Botet": {
+                "args": []
+            },
+            "Joey King": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the problem with slender man is that it's simply not a good movie...",
+                -0.6184057226021162
+            ],
+            [
+                "0_there was a chance here to make a truly frightening film about a popular urban legend, ",
+                0.6757691020576896
+            ],
+            [
+                "0_ it comes too late and marked by too much tragedy for it to work.",
+                -0.8146208104482202
+            ],
+            [
+                "2_perhaps that's one way to kill off slender man: make his story so dull that no one cares.",
+                -0.8384300884048412
+            ],
+            [
+                "3_sporadically, one can see the movie that slender man could have been, ",
+                -0.5492543024845157
+            ],
+            [
+                "4_slender man feels as used up as any years-old meme, like trying to explain what's funny about dat boi a decade late.",
+                -0.5032794304166613
+            ],
+            [
+                "5_it turns its boogeyman into a generic figure of menace who doesn't feel ready for his moment in the horror movie spotlight.",
+                -0.7421642675446757
+            ],
+            [
+                "6_a tasteless and inedibly undercooked serving of the internet's stalest creepypasta, \"slender man\" aspires to be for the youtube era what \"the ring\" was to the last gasps of the vhs generation.",
+                -0.6276715589350347
+            ],
+            [
+                "7_\"slender man\" bravely goes against the well-established notion that scary movies should be scary.",
+                -0.5479547579402154
+            ],
+            [
+                "9_the movie fails to understand that it's the characters' fixation on slender man -- and not the phantom himself -- that should be driving the terror.",
+                -0.7179366301778858
+            ],
+            [
+                "10_apart from its occasionally spooky images, \"slender man\" is a fundamentally derivative and empty-headed horror film.",
+                -0.597219710646343
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sylvain White": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

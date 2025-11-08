@@ -1,0 +1,160 @@
+{
+    "acting": {
+        "entities": {
+            "Joel Murray": {
+                "args": []
+            },
+            "Ross Partridge": {
+                "args": [
+                    [
+                        "2_equally fascinating and frustrating, writer/director/actor ross partridge's \"lamb\" explores a threatening february and november relationship between odd kindred spirits.",
+                        0.7648214265246563
+                    ],
+                    [
+                        "4_mr. partridge never figures out how to complicate his version and its voices, or maybe doesn't want to.",
+                        -0.7171749701790868
+                    ]
+                ]
+            },
+            "Mackenzie Paige": {
+                "args": []
+            },
+            "Maggie Raymond": {
+                "args": []
+            },
+            "Mark Kelly": {
+                "args": []
+            },
+            "Ron Burkhardt": {
+                "args": []
+            },
+            "Betty Richardson": {
+                "args": []
+            },
+            "Scoot McNairy": {
+                "args": []
+            },
+            "Lindsay Pulsipher": {
+                "args": []
+            },
+            "Jennifer Spriggs": {
+                "args": []
+            },
+            "John Kemp": {
+                "args": []
+            },
+            "Erin Kennedy Portress": {
+                "args": []
+            },
+            "Jennifer LaFleur": {
+                "args": []
+            },
+            "Tom Bower": {
+                "args": []
+            },
+            "Robert Longstreet": {
+                "args": []
+            },
+            "Kathleen Vernon": {
+                "args": []
+            },
+            "Matt Oberg": {
+                "args": []
+            },
+            "Jess Weixler": {
+                "args": []
+            },
+            "Kay Kemp": {
+                "args": []
+            },
+            "Amirah N. Griffin": {
+                "args": []
+            },
+            "Iris Elliot": {
+                "args": []
+            },
+            "Oona Laurence": {
+                "args": [
+                    [
+                        "7_throughout lamb, laurence makes sure that every one of the character's bad choices makes sense.",
+                        -0.5363225877124347
+                    ]
+                ]
+            },
+            "Drew Langer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ross Partridge": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_we feel for the character's pain, ",
+                -0.5100186104366794
+            ],
+            [
+                "2_equally fascinating and frustrating, writer/director/actor ross partridge's \"lamb\" explores a threatening february and november relationship between odd kindred spirits.",
+                0.7648214265246563
+            ],
+            [
+                "7_throughout lamb, laurence makes sure that every one of the character's bad choices makes sense.",
+                -0.5363225877124347
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_that's when we figure out that this film doesn't know exactly what it wants to say.",
+                -0.658317417215632
+            ],
+            [
+                "3_\"lamb\" is empathetic and untrustworthy, haunting ",
+                0.586946795215162
+            ],
+            [
+                "3_in the end it's hard to say what the film's point is.",
+                -0.6487344600278858
+            ],
+            [
+                "6_the film shifts from daniel's to tommie's point of view in a remarkably subtle fashion, altering the makeup of the story and the ways we're forced to wrestle with it.",
+                0.7407060581664761
+            ],
+            [
+                "7_that's what makes the movie so sad.",
+                -0.520918074087109
+            ],
+            [
+                "10_lamb proves itself a deeply intriguing psychological drama that should inspire much spirited debate.",
+                0.808087249952365
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ross Partridge": {
+                "args": [
+                    [
+                        "2_equally fascinating and frustrating, writer/director/actor ross partridge's \"lamb\" explores a threatening february and november relationship between odd kindred spirits.",
+                        0.7648214265246563
+                    ],
+                    [
+                        "4_mr. partridge never figures out how to complicate his version and its voices, or maybe doesn't want to.",
+                        -0.7171749701790868
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

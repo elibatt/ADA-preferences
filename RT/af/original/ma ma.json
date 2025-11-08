@@ -1,0 +1,179 @@
+{
+    "acting": {
+        "entities": {
+            "Samuel Viyuela": {
+                "args": []
+            },
+            "Silvia Abascal": {
+                "args": []
+            },
+            "Asier Etxeandia": {
+                "args": []
+            },
+            "Javier Martos": {
+                "args": []
+            },
+            "Anabel Maurin": {
+                "args": []
+            },
+            "Alex Brendemühl": {
+                "args": []
+            },
+            "Miguel Mota": {
+                "args": []
+            },
+            "Nicolas DeVicente": {
+                "args": []
+            },
+            "Anna Jimenez": {
+                "args": []
+            },
+            "Monica Sagrera": {
+                "args": []
+            },
+            "Safi": {
+                "args": []
+            },
+            "Teo Planell": {
+                "args": []
+            },
+            "Elena Carranza": {
+                "args": []
+            },
+            "Penelope Cruz": {
+                "args": [
+                    [
+                        "5_though it stars the versatile, always watchable penélope cruz, who shows an expected flair for charismatic saintliness,",
+                        0.6216842158364366
+                    ],
+                    [
+                        "9_ ms. cruz (who also produced the film) is so persuasive that she makes even the most sentimental moments credible.",
+                        0.5960867792036583
+                    ]
+                ]
+            },
+            "Virginia Avila": {
+                "args": []
+            },
+            "Luis Tosar": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_cruz's aces performance apart, very little about this extremely disappointing film feels real, and some of it is risible.",
+                -0.7833370324769682
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Julio Medem": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_the script is contrived and tedious, ",
+                -0.6933505248620742
+            ],
+            [
+                "10_ the level of originality and creativity he applied to how this movie looks would've been better spent on his script.",
+                -0.581637113563525
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_pah to logic and believability!",
+                -0.5745198077762907
+            ],
+            [
+                "1_not unlike ali macgraw in the equally apocryphal love story, the closer our heroine inches toward death's door, the more physically attractive she becomes.",
+                0.8082592319544308
+            ],
+            [
+                "3_long before anyone in \"ma ma\" expires, the movie does.",
+                -0.5784312330381807
+            ],
+            [
+                "4_\"ma ma\" clearly wants to be tearjerker, ",
+                -0.6476500138097399
+            ],
+            [
+                "4_ there's no need to have tissues handy for this one.",
+                -0.546823446346564
+            ],
+            [
+                "5_ even she can't rescue this impossibly beatific melodrama.",
+                -0.8053502267031648
+            ],
+            [
+                "6_for all its missteps and machinations, the film mostly achieves its goals.",
+                0.7177186930176418
+            ],
+            [
+                "6_in other words, have some kleenex ready at the theater.",
+                -0.5826793360019
+            ],
+            [
+                "7_cruz ... single-handedly breathes a sense of genuineness into this maudlin exercise even if she can't cure all of its flaws.",
+                0.5610670559810679
+            ],
+            [
+                "8_a melodrama only glancing at profundity.",
+                -0.6794795968256507
+            ],
+            [
+                "9_the script is contrived and tedious, ",
+                -0.6933505248620742
+            ],
+            [
+                "10_ the level of originality and creativity he applied to how this movie looks would've been better spent on his script.",
+                -0.581637113563525
+            ],
+            [
+                "11_cancer is some nasty business.",
+                -0.5702087117991474
+            ],
+            [
+                "12_the dopey symbolism of magda staring down a menacing crab on the beach (get it?) may be the film's biggest takeaway - even a grande dame of the screen can be taken down by stale poetry.",
+                -0.8110487826584316
+            ],
+            [
+                "13_cruz's ample star appeal buoys this flimsy vehicle to a point, ",
+                -0.6329417914684625
+            ],
+            [
+                "13_ even that quality isn't infallible.",
+                -0.741126271508575
+            ],
+            [
+                "14_cruz's aces performance apart, very little about this extremely disappointing film feels real, and some of it is risible.",
+                -0.7833370324769682
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Julio Medem": {
+                "args": [
+                    [
+                        "10_give credit to medem for trying to make a routine weepie more memorable, ",
+                        0.5071159843581857
+                    ],
+                    [
+                        "11_, it's sterile and serene, as medem disastrously isolates the emotional gauntlet of this terrible disease away from the physical ordeal that defines it.",
+                        -0.5472526285659799
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

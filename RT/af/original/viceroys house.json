@@ -1,0 +1,151 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ it just isn't enough movie for the subject matter.",
+                -0.7210061239018315
+            ],
+            [
+                "4_and so we're offered, on the 70th anniversary of the partition (give or take a couple of weeks), another film about how brown suffering makes nice white people sad.",
+                0.5047581172015776
+            ],
+            [
+                "8_the film carries a trace of the sweep of a great screen epic along with the straightforward, explanatory qualities of mass-audience tv, and is never less than absorbing.",
+                0.6008501630713845
+            ],
+            [
+                "11_this material could make for a powerful work, ",
+                0.54534485271114
+            ],
+            [
+                "11_the film's chief offense is its bland inoffensiveness.",
+                -0.5496292994498637
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Gurinder Chadha": {
+                "args": [
+                    [
+                        "9_using the trappings of old-fashioned romanticism, chadha envisions the cataclysmic upheaval of millions in the traumatic lives of a few.",
+                        0.5199282633510968
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_ generously non-partisan epic, a moving coda reveals the director's personal stake in telling the story her way.",
+                0.7506902522269793
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Paul Mayeda Berges": {
+                "args": []
+            },
+            "Gurinder Chadha": {
+                "args": []
+            },
+            "Moira Buffini": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Denzil Smith": {
+                "args": []
+            },
+            "Lily Travers": {
+                "args": []
+            },
+            "Manish Dayal": {
+                "args": []
+            },
+            "Huma Qureshi": {
+                "args": []
+            },
+            "Rajendranath Zutshi": {
+                "args": []
+            },
+            "Arunoday Singh": {
+                "args": []
+            },
+            "Sarah-Jane Dias": {
+                "args": []
+            },
+            "Om Puri": {
+                "args": []
+            },
+            "Darshan Jariwala": {
+                "args": []
+            },
+            "Samrat Chakrabarti": {
+                "args": []
+            },
+            "Gillian Anderson": {
+                "args": []
+            },
+            "Roberta Taylor": {
+                "args": []
+            },
+            "Terence Harvey": {
+                "args": []
+            },
+            "Yusuf Khurram": {
+                "args": []
+            },
+            "Simon Williams": {
+                "args": []
+            },
+            "Robin Soans": {
+                "args": []
+            },
+            "Gerry George": {
+                "args": []
+            },
+            "Tanveer Ghani": {
+                "args": []
+            },
+            "Nicholas Blane": {
+                "args": []
+            },
+            "Marcus Jean Pirae": {
+                "args": []
+            },
+            "Simon Callow": {
+                "args": []
+            },
+            "Hugh Bonneville": {
+                "args": []
+            },
+            "Jaz Deol": {
+                "args": []
+            },
+            "Lucy Fleming": {
+                "args": []
+            },
+            "Noah Zeiler": {
+                "args": []
+            },
+            "Huma Quershi": {
+                "args": []
+            },
+            "Neeraj Kabi": {
+                "args": []
+            },
+            "Michael Gambon": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

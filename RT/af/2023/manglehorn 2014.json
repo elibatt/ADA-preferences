@@ -1,0 +1,186 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_even set against this chequered history, manglehorn is an extremely odd picture.",
+                0.617606242411694
+            ],
+            [
+                "8_we may not understand why this story appealed to them, except for the fact that it gave them a chance to work together.",
+                -0.7954150113765203
+            ],
+            [
+                "10_if manglehorn is to be remembered at all, it shall be for the excruciating first date that its title character goes on with a chirpy bank clerk he has long been chatting up.",
+                -0.6749476184771426
+            ],
+            [
+                "12_while manglehorn eschews the traditional third-act redemption you've seen ad nauseam in films that neatly wrap things up right before the end credits roll, it's nevertheless refreshingly optimistic about people's ability to change.",
+                0.837241589237818
+            ],
+            [
+                "17_there's a powerful austerity to manglehorn the man's tale that manglehorn the film itself - well-acted and touching ",
+                0.8452816576707827
+            ],
+            [
+                "18_every shot of manglehorn's grizzled face is weighted with unearned gravitas, the kind that comes with designing a film around an actor instead of a character or a narrative.",
+                0.655139241224495
+            ],
+            [
+                "2",
+                -1
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "15",
+                1
+            ],
+            [
+                "19",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "2_ green just packs the screen with interesting things.",
+                -0.6235502078727606
+            ]
+        ],
+        "entities": {
+            "David Gordon Green": {
+                "unique_args": [
+                    [
+                        "2_ green just packs the screen with interesting things.",
+                        -0.6235502078727606
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "10_if manglehorn is to be remembered at all, it shall be for the excruciating first date that its title character goes on with a chirpy bank clerk he has long been chatting up.",
+                -0.6749476184771426
+            ],
+            [
+                "15_pacino easily captures the character's longtime frustration, ",
+                0.6900649117759106
+            ],
+            [
+                "18_every shot of manglehorn's grizzled face is weighted with unearned gravitas, the kind that comes with designing a film around an actor instead of a character or a narrative.",
+                0.655139241224495
+            ],
+            [
+                "9_ the syrupy, symbol-heavy script by first-time feature writer paul logan is weighed down further by cliches and false notes.",
+                -0.6296103379786904
+            ]
+        ],
+        "entities": {
+            "Paul Logan": {
+                "unique_args": [
+                    [
+                        "9_ the syrupy, symbol-heavy script by first-time feature writer paul logan is weighed down further by cliches and false notes.",
+                        -0.6296103379786904
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "3_there is a soulfulness to pacino's performance, ",
+                0.6534361093717108
+            ],
+            [
+                "4_holly hunter goes toe-to-toe nicely with the superbly understated al pacino loner obsessed with a long-lost love - one of his most rewarding outings in a very long time.",
+                0.6930558901893762
+            ],
+            [
+                "5_there's a terrifying moment in al pacino's new movie.",
+                0.672076270306992
+            ],
+            [
+                "9_sure, there's an undeniable pleasure from watching pacino and hunter work the screen, ",
+                0.6320598881438866
+            ],
+            [
+                "19_in the hands of mr. pacino, a story of self-realization has a bit more groove in its step than it usually does (and shades of darker moods).",
+                0.6841399550151281
+            ],
+            [
+                "15_ it's holly hunter who supplies the story's heartbreak.",
+                0.6122984792524073
+            ]
+        ],
+        "entities": {
+            "Al Pacino": {
+                "unique_args": [
+                    [
+                        "3_there is a soulfulness to pacino's performance, ",
+                        0.6534361093717108
+                    ],
+                    [
+                        "4_holly hunter goes toe-to-toe nicely with the superbly understated al pacino loner obsessed with a long-lost love - one of his most rewarding outings in a very long time.",
+                        0.6930558901893762
+                    ],
+                    [
+                        "5_there's a terrifying moment in al pacino's new movie.",
+                        0.672076270306992
+                    ],
+                    [
+                        "9_sure, there's an undeniable pleasure from watching pacino and hunter work the screen, ",
+                        0.6320598881438866
+                    ],
+                    [
+                        "19_in the hands of mr. pacino, a story of self-realization has a bit more groove in its step than it usually does (and shades of darker moods).",
+                        0.6841399550151281
+                    ]
+                ]
+            },
+            "Holly Hunter": {
+                "unique_args": [
+                    [
+                        "15_ it's holly hunter who supplies the story's heartbreak.",
+                        0.6122984792524073
+                    ]
+                ]
+            },
+            "Harmony Korine": {
+                "unique_args": []
+            },
+            "Chris Messina": {
+                "unique_args": []
+            },
+            "Natalie Wilemon": {
+                "unique_args": []
+            },
+            "Marisa Varela": {
+                "unique_args": []
+            },
+            "Luis Olmeda": {
+                "unique_args": []
+            },
+            "Edrick Browne": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

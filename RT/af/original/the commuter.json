@@ -1,0 +1,179 @@
+{
+    "writer": {
+        "entities": {
+            "Phil de Blasi": {
+                "args": []
+            },
+            "Byron Willinger": {
+                "args": []
+            },
+            "Ryan Engle": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "28_the commuter's script may not be an exercise in fool-proof logic (the actual plot makes almost no sense in retrospect), ",
+                -0.6247390740352827
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Patrick Wilson": {
+                "args": []
+            },
+            "Sam Neill": {
+                "args": []
+            },
+            "Elizabeth McGovern": {
+                "args": []
+            },
+            "Liam Neeson": {
+                "args": [
+                    [
+                        "3_if you don't think too hard about why neeson gets brought in or how the baddies operate or what the point is, you may be able to enjoy yourself.",
+                        -0.563721774151428
+                    ],
+                    [
+                        "6_[liam] neeson lands plenty of punches, ",
+                        0.6251155439854342
+                    ],
+                    [
+                        "7_with collet-sera in the conductor's seat, and neeson his increasingly eager attendant, the film stays on track.",
+                        0.6060281899527082
+                    ],
+                    [
+                        "9_ the star gives it the ol' liam neeson, which liam neeson can do better than anybody.",
+                        0.5799770291829106
+                    ],
+                    [
+                        "13_it's neeson time, and it's not in the man to let us down.",
+                        -0.6275537523771275
+                    ],
+                    [
+                        "27_jaume collet-serra's gleefully absurd thriller gives star liam neeson a chance to play 'taken' on a train and the tension flames on such a high burner that you won't realize the whole thing doesn't add up until after you leave the theater.",
+                        -0.6095710239922163
+                    ],
+                    [
+                        "32_through it all, neeson - strapping, grizzled, growling and, after the \"taken\" series and deep immersion in the action genre - gets the job done.",
+                        -0.5407828574820435
+                    ]
+                ]
+            },
+            "Jonathan Banks": {
+                "args": [
+                    [
+                        "19_with pandering references to the big banks throughout, \"the commuter,\" has just enough smarts to make its final destination disappointing.",
+                        -0.5261138527377274
+                    ]
+                ]
+            },
+            "Vera Farmiga": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_at least until the final act, when the film goes off the rails.",
+                -0.744410904764675
+            ],
+            [
+                "6_ the movie works best when he's fighting shadows or fighting himself.",
+                0.8149805945089748
+            ],
+            [
+                "8_the skeletal, b-movie plotting is supposed to be self-propelling, ",
+                -0.7618111913982433
+            ],
+            [
+                "8_ \"the commuter\" is too ridiculous to get by on its own momentum.",
+                -0.743249307066376
+            ],
+            [
+                "9_the movie goes off the rails somewhat before the train does, ",
+                -0.6445837247158874
+            ],
+            [
+                "10_the commuter is the kind of passable potboiler that may satisfy your junk-food sweet tooth on late-night cable a year from now.",
+                -0.6428752754518032
+            ],
+            [
+                "12_the most obvious thing to say about \"the commuter\" is that it's a train wreck",
+                -0.5240315213253146
+            ],
+            [
+                "17_unfortunately, the film soon goes off the rails.",
+                -0.5939278312617007
+            ],
+            [
+                "18_even with its conspicuous bumps, by the time it's over the commuter delivers on a basic level, in what feels like a throwback to old-style, low-octane thrillers.",
+                -0.6615193332250238
+            ],
+            [
+                "21_in the end, \"the commuter\" feels both overstuffed and empty.",
+                -0.7573909659129063
+            ],
+            [
+                "23_\"the commuter\" may be set on the way home after a long, hard day at the office, ",
+                -0.6230639027089315
+            ],
+            [
+                "23_ this movie feels less like happy hour than work - and uncompensated overtime at that.",
+                -0.5325660059580414
+            ],
+            [
+                "24_this is a winning formula, and if the ocean liner version of this movie were to open next week, i'd be happy to see it.",
+                0.7040295343603212
+            ],
+            [
+                "28_the commuter's script may not be an exercise in fool-proof logic (the actual plot makes almost no sense in retrospect), ",
+                -0.6247390740352827
+            ],
+            [
+                "33_it's a completely forgettable movie, ",
+                -0.6267335083787672
+            ],
+            [
+                "34_the commuter forfeits a good movie about why an everyman might get ensnared in some lite hitchcockian mishegoss for a mediocre one about how he might weasel his way out of it",
+                -0.6640661870840484
+            ],
+            [
+                "35_thoroughly enjoyable to watch if totally forgettable once you leave the theater, the commuter feels like one of those films they simply don't make anymore, at least in hollywood.",
+                -0.6939213976520686
+            ],
+            [
+                "36_delaying the exposition means that the movie comes to a halt in the third act so that conspiracies can be explained and double-crosses can be crossed.",
+                -0.5374754511472734
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jaume Collet-Serra": {
+                "args": [
+                    [
+                        "1_the good cheer with which collet-serra defines the supporting players ameliorates the commuter's nightmarish premise and draws viewers deeper into its spell.",
+                        0.774962742503578
+                    ],
+                    [
+                        "5_jaume collet-serra has always exulted in details-",
+                        0.6210683488527746
+                    ],
+                    [
+                        "27_jaume collet-serra's gleefully absurd thriller gives star liam neeson a chance to play 'taken' on a train and the tension flames on such a high burner that you won't realize the whole thing doesn't add up until after you leave the theater.",
+                        -0.6095710239922163
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

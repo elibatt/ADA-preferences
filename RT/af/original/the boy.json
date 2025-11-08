@@ -1,0 +1,118 @@
+{
+    "writer": {
+        "entities": {
+            "Stacey Menear": {
+                "args": [
+                    [
+                        "5_if only writer stacey menear and director william brent bell took the very real horrors of domestic abuse as seriously as they do the virtual horror of paranormal activity.",
+                        -0.568002224734046
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "William Brent Bell": {
+                "args": [
+                    [
+                        "5_if only writer stacey menear and director william brent bell took the very real horrors of domestic abuse as seriously as they do the virtual horror of paranormal activity.",
+                        -0.568002224734046
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_there's only so much she can do once the movie around her devolves into the usual barrage of jump scares, ",
+                -0.7060561811107262
+            ],
+            [
+                "1_[it] aims to set itself squarely in the fictional canon of chucky and its brethren, ",
+                -0.5565147355573683
+            ],
+            [
+                "1_ it ends up trying to do so much that it forgets to scare us.",
+                -0.7594926576817692
+            ],
+            [
+                "2_\"the boy\" didn't screen for critics, ",
+                -0.7476769615964471
+            ],
+            [
+                "2_[the film] is careful and clever about revealing what brahms really is, for he's certainly got a mind and will of his own.",
+                0.6564765221783407
+            ],
+            [
+                "3_ never shamelessly over-the-top enough to serve as a guilty pleasure.",
+                -0.572394697607568
+            ],
+            [
+                "4_ you're left wondering whether it might have been more disturbing had it stayed on its original path.",
+                -0.761337592439759
+            ],
+            [
+                "6_despite game efforts by the cast,",
+                0.5075270759858236
+            ],
+            [
+                "6_ this tepid horror opus is never scary enough to overcome its silly premise.",
+                -0.821297939408226
+            ],
+            [
+                "7_the story takes a couple of major turns, both so blatantly lifted from other horror films that to name their titles would give away the end of the movie.",
+                0.5867725534896506
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Matthew Walker": {
+                "args": []
+            },
+            "Lauren Cohan": {
+                "args": [
+                    [
+                        "0_ cohan maintains her composure even as greta loses hers.",
+                        0.5254614167174508
+                    ]
+                ]
+            },
+            "Diana Hardcastle": {
+                "args": []
+            },
+            "Ben Robson": {
+                "args": []
+            },
+            "Rupert Evans": {
+                "args": []
+            },
+            "Jett Klyne": {
+                "args": []
+            },
+            "Stephanie Nicole Lemelin": {
+                "args": []
+            },
+            "Jim Norton": {
+                "args": []
+            },
+            "Lily Pater": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_despite game efforts by the cast,",
+                0.5075270759858236
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

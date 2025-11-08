@@ -1,0 +1,71 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Ceyda Torun": {
+                "args": [
+                    [
+                        "1_at 80 minutes, torun's film feels a bit overlong, ",
+                        -0.5576228037386904
+                    ],
+                    [
+                        "5_those who don't especially like cats - or istanbul, for that matter - might not get a lot out of turkish director ceyda torun's love letter to the feline population of her native city.",
+                        -0.5532839210761263
+                    ],
+                    [
+                        "11_though technically a sophisticated, artful documentary from turkish filmmaker ceyda torun,",
+                        0.6657825408978026
+                    ],
+                    [
+                        "13_ torun's affectionate portrait of these cats-and the people who love them-makes it seem like the most important thing in the world.",
+                        0.8570744665944706
+                    ],
+                    [
+                        "14_kedi, an enchanting documentary by ceyda torun, operates on three levels, and we're not speaking metaphorically here.",
+                        0.5814488347899404
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bülent Üstün": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "8_by the time \"kedi\" puts these animals through their paces, only one essential question remains unanswered:",
+                -0.6489634569328551
+            ],
+            [
+                "11_ kedi will automatically find devout fans among anyone who delights at all things feline.",
+                -0.5398085245314571
+            ],
+            [
+                "12_kedi stands as a subtle, gentle rebuke to such politico-architectural folly.",
+                0.7350872030475157
+            ],
+            [
+                "16_the movie is replete with ingeniously constructed mini-narratives, including a turf war.",
+                0.5956047616487897
+            ],
+            [
+                "20_kedi will make you a believer.",
+                0.6542796964106441
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

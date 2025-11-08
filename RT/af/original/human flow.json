@@ -1,0 +1,80 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {},
+        "args": [
+            [
+                "6_an artful, solemn globe-hop epic of the refugee crisis with an unfortunate cast of millions.",
+                0.6368677174150192
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_ai's film becomes more digressive than discursive.",
+                0.549700096030542
+            ],
+            [
+                "3_rather than contending with the information saturation around the crisis, human flow falls prey to it.",
+                0.6634440133654482
+            ],
+            [
+                "4_the film is all the more powerful for being so calm and unhurried.",
+                0.7828348785814685
+            ],
+            [
+                "8_ he vividly illustraes - in straightforward yet artistic terms - the scale of the problem without compromising the dignity or humanity of the survivors.",
+                0.6440579388287035
+            ],
+            [
+                "13_this movie, a testament to the power of seeing, provides a long and uncommonly vivid look at a human crisis that's changing the face of our planet.",
+                0.7965915650254531
+            ],
+            [
+                "16_in this respect, human flow stuns: it reveals the full breadth of a catastrophe that we might usually think of as piecemeal.",
+                0.6488331540133884
+            ],
+            [
+                "17_ human flow distinguishes itself from the pack with how handsome it looks.",
+                0.7018984858907321
+            ],
+            [
+                "18_ai simply bears witness in a film that, like many of his sculptural pieces, establishes a creative tension between its giant scale and its individual pieces.",
+                0.7479055287688999
+            ],
+            [
+                "19_ this is the rare film that reckons with how hard it can be to sustain it.",
+                -0.5425150181526862
+            ],
+            [
+                "21_is the work of the most recognizable living artist of the moment.",
+                0.8364005795444173
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ai Weiwei": {
+                "args": [
+                    [
+                        "5_ai weiwei has made something beautiful: human flow is neither indulgent nor pedantic, ",
+                        -0.5570033517761832
+                    ],
+                    [
+                        "9_ai [weiwei] clearly wants to take a macro view of an impossible problem, to find some clarity in abstraction.",
+                        -0.6998525578002386
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

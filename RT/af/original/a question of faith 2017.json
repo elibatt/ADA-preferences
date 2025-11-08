@@ -1,0 +1,55 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ty Manns": {
+                "args": [
+                    [
+                        "2_ty manns' script ... plays like a first draft, one written from a manual and riddled with two-dimensional characters and on-the-nose dialogue.",
+                        -0.5023811729613875
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "C. Thomas Howell": {
+                "args": []
+            },
+            "Richard T. Jones": {
+                "args": []
+            },
+            "Kim Fields": {
+                "args": []
+            },
+            "Gregory Alan Williams": {
+                "args": []
+            },
+            "Renée O'Connor": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kevan Otto": {
+                "args": [
+                    [
+                        "0_while otto demonstrates a good deal of passion for his project, it isn't matched by a similar level of creativity.",
+                        0.7111321975665736
+                    ]
+                ]
+            }
+        }
+    }
+}

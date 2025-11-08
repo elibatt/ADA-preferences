@@ -1,0 +1,190 @@
+{
+    "acting": {
+        "entities": {
+            "Bria Vinaite": {
+                "args": []
+            },
+            "Christopher Rivera": {
+                "args": []
+            },
+            "Valeria Cotto": {
+                "args": []
+            },
+            "Willem Dafoe": {
+                "args": [
+                    [
+                        "16_willem dafoe knows from tortured roles (platoon, the last temptation of christ), ",
+                        0.68530263411316
+                    ],
+                    [
+                        "24_director sean baker crafts one of the best and toughest films about childhood ever and gives a never-better willem dafoe a clear shot at an oscar.",
+                        0.8634332828827164
+                    ],
+                    [
+                        "27_... dafoe's warm and generous performance is simply astonishing.",
+                        0.7547188089941749
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_this is a story told with authenticity and power, helped along by its cast of newcomers.",
+                0.7182321160475197
+            ],
+            [
+                "10_dafoe delivers his finest performance in recent memory, bringing to levelheaded, unsanctimonious life a character who offers a glimmer of hope and caring within a world markedly short on both.",
+                0.8322669039523181
+            ],
+            [
+                "19_dafoe's sensitive performance anchors the movie's slippery adult world, and baker builds a cinematic mood beautifully",
+                0.7652998647273664
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Sean Baker (II) ": {
+                "args": []
+            },
+            "Chris Bergoch": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_dafoe delivers his finest performance in recent memory, bringing to levelheaded, unsanctimonious life a character who offers a glimmer of hope and caring within a world markedly short on both.",
+                0.8322669039523181
+            ],
+            [
+                "12_rarely in a movie will you want a character to succeed more than moonee.",
+                -0.5030384591560169
+            ],
+            [
+                "20_ baker has created an indomitable character who's at least got a fighting chance.",
+                -0.6091727398173243
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a film that pays attention to the little details that communicate huge feelings.",
+                0.7651002519688342
+            ],
+            [
+                "7_it's film that'll make you wince at times, and you'll most likely not want to see twice, ",
+                0.5795806181191882
+            ],
+            [
+                "9_the sun-washed reality of the florida project, which concludes with a touch of poetry that might break you in two.",
+                0.7168159785278317
+            ],
+            [
+                "9_ it is, like the rest of the film, pretty much perfect.",
+                0.6214293125155704
+            ],
+            [
+                "12_rarely in a movie will you want a character to succeed more than moonee.",
+                -0.5030384591560169
+            ],
+            [
+                "13_\"the florida project\" is - in nerve, guts, heart, and mind - one of the finest films of 2017.",
+                0.801176264723968
+            ],
+            [
+                "15_still, this is an original piece of work, and no one who sees it will forget it.",
+                0.5699212217301076
+            ],
+            [
+                "16_ this creation -- a delicate blend of protector, fusspot and secret survivor -- is his richest, most lovable piece of work.",
+                0.7692491878733657
+            ],
+            [
+                "17_baker has imbued this whole terrific movie with a child's sense of discovery - the sort that can turn a decrepit, pastel corner of orlando into a vibrant cinematic playground.",
+                0.8232421379264137
+            ],
+            [
+                "21_the florida project achieves something rare and magical: presenting existence from the perspective of a young child while, at the same time, providing enough \"clues\" that viewers are able to decipher what's really going on.",
+                0.7602400386977378
+            ],
+            [
+                "26_the florida project is both radiant and unsentimental.",
+                0.676066307669251
+            ],
+            [
+                "31_a film of small notes that combine to form something major, the kind of movie that sneaks up on you and sticks with you",
+                0.7995220525178944
+            ],
+            [
+                "37_[a] brilliant, buoyant, and ultimately heart-wrenching film.",
+                0.8691621119692183
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sean Baker (II) ": {
+                "args": [
+                    [
+                        "2_[director sean baker's] frantic depiction of moonee's final fantasy verges on both brilliance and heartbreak.",
+                        0.5656379253973672
+                    ],
+                    [
+                        "12_yet baker doesn't sugarcoat the odds, which, ",
+                        -0.6395900015571255
+                    ],
+                    [
+                        "14_the impression is a disturbing film of energy and compassion that left me with an inescapable sadness, from which director baker offers no way out.",
+                        0.6872974774870511
+                    ],
+                    [
+                        "18_it is because baker views the world without blinders that the moments of lyricism in the florida project are so piercing.",
+                        0.7466257048000505
+                    ],
+                    [
+                        "19_dafoe's sensitive performance anchors the movie's slippery adult world, and baker builds a cinematic mood beautifully",
+                        0.7652998647273664
+                    ],
+                    [
+                        "20_ baker has created an indomitable character who's at least got a fighting chance.",
+                        -0.6091727398173243
+                    ],
+                    [
+                        "22_all childhoods must come to an end, few of them as piercingly as the one in \"the florida project,\" sean baker's raw, exuberant and utterly captivating new movie.",
+                        0.5723448751145848
+                    ],
+                    [
+                        "23_as in previous films, mr. baker mixes amateur and professional actors to exceptional effect.",
+                        0.6764197166910129
+                    ],
+                    [
+                        "24_director sean baker crafts one of the best and toughest films about childhood ever and gives a never-better willem dafoe a clear shot at an oscar.",
+                        0.8634332828827164
+                    ],
+                    [
+                        "25_to balance joy and desperation as gracefully as mr. baker does - to interweave giddiness and heartbreak - is no easy feat.",
+                        0.7374359023113977
+                    ],
+                    [
+                        "28_sean baker's beautiful heartbreaker scratches just below the cheery lilac and bubblegum pink to expose the layers of privation festering in this sunshiny state.",
+                        0.7389769733473317
+                    ],
+                    [
+                        "34_as a filmmaker, baker is a graceful neorealist voyeur who thrives on improvisation, and his storytelling, in the florida project, is mostly just a series of anecdotes.",
+                        0.6023674982655609
+                    ],
+                    [
+                        "35_the florida project further cements baker's status as one of the most innovative american directors working today, ",
+                        0.6271476184873878
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

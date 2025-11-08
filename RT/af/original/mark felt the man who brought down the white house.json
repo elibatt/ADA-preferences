@@ -1,0 +1,220 @@
+{
+    "writer": {
+        "entities": {
+            "Peter Landesman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_filmed in bleak green-gray hues, writer-director peter landesman's movie depicts d.c. as a nest of vipers, of conspiracies within conspiracies, of paranoia begetting paranoia.",
+                0.5494607668651643
+            ],
+            [
+                "5_landesman has wrangled a murderer's row of character actors here - tom sizemore!",
+                0.5204248751533748
+            ],
+            [
+                "5_ his script and direction lack a distinct killer instinct.",
+                0.5093294838836248
+            ],
+            [
+                "19_ he is no more complex a character at the end than at the beginning.",
+                -0.6378389993736816
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jeff Sprauve": {
+                "args": []
+            },
+            "Diane Lane": {
+                "args": []
+            },
+            "Liam Neeson": {
+                "args": [
+                    [
+                        "1_the cast is first-rate, notably neeson in the title role. \"",
+                        -0.5708754038892143
+                    ],
+                    [
+                        "12_a dry, talky affair that even liam neeson in full glower can't bring to life.",
+                        -0.6718817857633845
+                    ],
+                    [
+                        "15_liam neeson is quietly devastating in a sluggish biopic of watergate's deep throat that is eerily relevant if you wonder if they'll be a modern-day felt to bring down the white house.",
+                        0.7677741620950725
+                    ],
+                    [
+                        "18_liam neeson is excellent.",
+                        0.8058265977057614
+                    ]
+                ]
+            },
+            "Kate Walsh": {
+                "args": []
+            },
+            "Stephen Michael Ayers": {
+                "args": []
+            },
+            "Kandace Michelle Howard": {
+                "args": []
+            },
+            "Darryl Cox": {
+                "args": []
+            },
+            "Marton Csokas": {
+                "args": []
+            },
+            "Jeffrey Dezenski": {
+                "args": []
+            },
+            "Maika Monroe": {
+                "args": []
+            },
+            "Michael Crider": {
+                "args": []
+            },
+            "Michael C. Hall": {
+                "args": []
+            },
+            "Charles Green": {
+                "args": [
+                    [
+                        "2_filmed in bleak green-gray hues, writer-director peter landesman's movie depicts d.c. as a nest of vipers, of conspiracies within conspiracies, of paranoia begetting paranoia.",
+                        0.5494607668651643
+                    ]
+                ]
+            },
+            "Wendi McLendon-Covey": {
+                "args": []
+            },
+            "Brian d'Arcy James": {
+                "args": []
+            },
+            "Ike Barinholtz": {
+                "args": []
+            },
+            "Ricky Wayne": {
+                "args": []
+            },
+            "Josh Lucas": {
+                "args": []
+            },
+            "Eddie Marsan": {
+                "args": []
+            },
+            "Wayne Pére": {
+                "args": []
+            },
+            "Noah Wyle": {
+                "args": []
+            },
+            "L. Warren Young": {
+                "args": []
+            },
+            "Julian Morris": {
+                "args": []
+            },
+            "Frank Hoyt Taylor": {
+                "args": []
+            },
+            "Tom Sizemore": {
+                "args": [
+                    [
+                        "5_landesman has wrangled a murderer's row of character actors here - tom sizemore!",
+                        0.5204248751533748
+                    ]
+                ]
+            },
+            "Tony Goldwyn": {
+                "args": []
+            },
+            "Scott Poythress": {
+                "args": []
+            },
+            "Bruce Greenwood": {
+                "args": []
+            },
+            "Jessica Young": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_mark felt\" benefits mightily from his very particular set of acting skills.",
+                0.6234191427329269
+            ],
+            [
+                "19_neeson's performance is all steel-spined bearing and resonant intonation.",
+                0.6960804004420426
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_the film has all the subtlety of a term paper, even if the earliest scenes suggest ",
+                -0.5856090004906733
+            ],
+            [
+                "4_the furtive figure history knows best as watergate snitch deep throat gets a movie treatment more suited to the printed page than the big screen.",
+                0.6295692497362574
+            ],
+            [
+                "6_ drama-poor film, constructed with professionalism ",
+                -0.5808133342114576
+            ],
+            [
+                "7_why does this movie feel so tentative, so conflicted?",
+                -0.5521984435472
+            ],
+            [
+                "10_through it all, felt himself is so steadfastly opaque that the audience feels more distant from him at the end of the film than at the beginning.",
+                0.5464995908630564
+            ],
+            [
+                "22_mark felt pulls its subject out of the shadows, without providing the sort of focus that would truly shed light on its subject matter -- or deliver a movie as compelling as the history that inspired it.",
+                0.6935487360456332
+            ],
+            [
+                "23_even for die-hard watergate nerds, the movie can be a tough slog.",
+                -0.6974466224541639
+            ],
+            [
+                "24_mark felt the movie just never rises to the level of its own story.",
+                0.5409261094018655
+            ],
+            [
+                "26_skip this film, and re-watch \"all the president's men\" instead.",
+                0.5661931411622831
+            ],
+            [
+                "29_what might, theoretically, have been \"all the president's men\" told from a reverse angle feels more like a prosaically engrossing tv-movie that whets your appetite for a more definitive treatment of the subject.",
+                0.5567794495764251
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peter Landesman": {
+                "args": [
+                    [
+                        "2_filmed in bleak green-gray hues, writer-director peter landesman's movie depicts d.c. as a nest of vipers, of conspiracies within conspiracies, of paranoia begetting paranoia.",
+                        0.5494607668651643
+                    ],
+                    [
+                        "16_as written and directed by peter landesman, the movie is a straightforward nuts-and-bolts affair of no particular consequence.",
+                        -0.5256378046045955
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

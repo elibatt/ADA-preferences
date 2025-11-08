@@ -1,0 +1,183 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_maggie's plan may or may not work out.",
+                0.587161021576001
+            ],
+            [
+                "6_if you're tired of movie business as usual, this should make you happy.",
+                0.5211526240866188
+            ],
+            [
+                "10_the movie flunks the bechdel test with abandon ",
+                -0.5251231720313245
+            ],
+            [
+                "13_true to its title, \"maggie's plan\" is so crazy that it just might work - and it does.",
+                -0.7345775415329343
+            ],
+            [
+                "21_\"maggie's plan\" is a modest movie, reluctant, like its heroine, to make large claims or excessive demands.",
+                -0.5980825251938395
+            ],
+            [
+                "24_maggie's plan feels caught in a kind of dramedy dead zone, too broad to work as a straight love triangle and too restrained to do wonders with its high concept.",
+                -0.5516082328553708
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rebecca Miller": {
+                "args": [
+                    [
+                        "19_though miller is a bit lighter on her feet here than in some of her other movies,",
+                        0.5705836334284499
+                    ],
+                    [
+                        "22_ miller's clearly got her finger on the pulse of the new york intellectual comedy.",
+                        0.5528505326926754
+                    ],
+                    [
+                        "23_but ms. miller proves to be an original,",
+                        0.6875481401280528
+                    ],
+                    [
+                        "25_buoyed by faultless actors who mesh beautifully, miller's film tickles you with laughs that can - suddenly or even days later - choke you up with emotion.",
+                        0.7228865687250262
+                    ],
+                    [
+                        "27_maggie's plan is a fun light comedy with memorable characters, from a writer-director who lives up to her lineage (arthur miller's her dad), ",
+                        0.7399723943780077
+                    ],
+                    [
+                        "27_ it relies heavily on gerwig's predictable charm and sometimes seems more woody allen than rebecca miller.",
+                        0.5752786803092262
+                    ],
+                    [
+                        "28_ miller makes them and their flaws appealing.",
+                        0.7159171771051006
+                    ],
+                    [
+                        "31_greta gerwig, ethan hawke and julianne moore make a pleasing triangle in rebecca miller's offbeat romantic comedy.",
+                        0.6815271835897301
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Wallace Shawn": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Alex Morf": {
+                "args": []
+            },
+            "Travis Fimmel": {
+                "args": []
+            },
+            "Fredi Walker-Browne": {
+                "args": []
+            },
+            "Angela Trento": {
+                "args": []
+            },
+            "Ida Rohatyn": {
+                "args": []
+            },
+            "George Ashiotis": {
+                "args": []
+            },
+            "Tommy Buck": {
+                "args": []
+            },
+            "Sue Jean Kim": {
+                "args": []
+            },
+            "Monte Greene": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": [
+                    [
+                        "8_gerwig and hawke are outstanding reasons to see this movie, ",
+                        0.6875022312394952
+                    ]
+                ]
+            },
+            "Bill Hader": {
+                "args": []
+            },
+            "Jackson Frazer": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": [
+                    [
+                        "2_\"maggie's plan\" is gerwig's show, and once again she proves to be one of the screen's most engaging presences.",
+                        0.6408926825994212
+                    ],
+                    [
+                        "14_it would be so easy, and so wrong, to think of greta gerwig as merely a charming personality, someone quirky and appealing, who just stands in front of the camera and acts like herself.",
+                        0.610393766161229
+                    ],
+                    [
+                        "27_ it relies heavily on gerwig's predictable charm and sometimes seems more woody allen than rebecca miller.",
+                        0.5752786803092262
+                    ],
+                    [
+                        "29_miller applies gerwig to the center of a busy story with simple themes, ",
+                        0.623876569679747
+                    ],
+                    [
+                        "30_the picture is one part vintage woody allen, a few parts screwball-era comedy of remarriage and a vigorous shake of gerwig herself, without whose particular spirit this scenario might have trouble getting off the ground.",
+                        -0.7608500274144381
+                    ],
+                    [
+                        "31_greta gerwig, ethan hawke and julianne moore make a pleasing triangle in rebecca miller's offbeat romantic comedy.",
+                        0.6815271835897301
+                    ]
+                ]
+            },
+            "Mina Sundwall": {
+                "args": []
+            },
+            "Brendan Titley": {
+                "args": []
+            },
+            "Stephen Lin": {
+                "args": []
+            },
+            "Kathleen Hanna": {
+                "args": []
+            },
+            "Julianne Moore": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "27_maggie's plan is a fun light comedy with memorable characters, from a writer-director who lives up to her lineage (arthur miller's her dad), ",
+                0.7399723943780077
+            ]
+        ],
+        "entities": {
+            "Rebecca Miller": {
+                "args": []
+            }
+        }
+    }
+}

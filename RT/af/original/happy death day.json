@@ -1,0 +1,120 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Israel Broussard": {
+                "args": []
+            },
+            "Charles Aitken": {
+                "args": []
+            },
+            "Laura Clifton": {
+                "args": []
+            },
+            "Jessica Rothe": {
+                "args": [
+                    [
+                        "6_what makes death day feel so fresh is that this is all played with a whopper of a wink, pulled off by the considerable comedic talents of star jessica rothe, who successfully juggles the horror/comedy mash-up.",
+                        0.707565579427764
+                    ]
+                ]
+            },
+            "Ruby Modine": {
+                "args": []
+            },
+            "Rachel Matthews": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Christopher Landon": {
+                "args": [
+                    [
+                        "1_director christopher landon and screenwriter and comics veteran scott lobdell maintain modest tension and humor as they deliver tried-and-true genre standbys like loud music jump-scares, an unnaturally deserted hospital and red-herring suspects.",
+                        0.5928876091673747
+                    ],
+                    [
+                        "12_ landon does demonstrate some enticing visual flair that gets rather diminished by the repetitiveness of the plot.",
+                        0.5811253306367955
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Scott Lobdell": {
+                "args": [
+                    [
+                        "0_landon and lobdell revel in how their story could only happen in the movies, piling on preposterous complications with self-aware glee.",
+                        0.5073696783980837
+                    ],
+                    [
+                        "1_director christopher landon and screenwriter and comics veteran scott lobdell maintain modest tension and humor as they deliver tried-and-true genre standbys like loud music jump-scares, an unnaturally deserted hospital and red-herring suspects.",
+                        0.5928876091673747
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_on another level, happy death day is a low-key celebration of cinema.",
+                0.8550812070642488
+            ],
+            [
+                "2_ the film doesn't just find a clever way to refresh a maybe-calcified genre.",
+                -0.5004396826717915
+            ],
+            [
+                "3_happy death day is about 90 minutes long and, past the first half-hour, every minute is dumber than the one before it.",
+                -0.754428868771175
+            ],
+            [
+                "4_there's a spunky charm to the scream-meets-groundhog day thing, and the film is well-built.",
+                0.7507311729671637
+            ],
+            [
+                "5_the movie is no big deal, ",
+                -0.6874100388178621
+            ],
+            [
+                "7_this is one movie that no one needs to relive.",
+                -0.7105886603541876
+            ],
+            [
+                "9_becoming a decent person requires an awful lot of dying in \"happy death day,\" a snappy horror-comedy with a gentle romantic spine.",
+                0.6415387570164801
+            ],
+            [
+                "13_\"happy death day\" is \"groundhog day\" dipped in blood, and if the movie isn't all that clever, it's just clever enough to get by.",
+                -0.5640939938011773
+            ],
+            [
+                "14_once you get past the premise - and granted, that takes some doing - \"happy death day\" turns out to be goofy good fun.",
+                0.7960116024624154
+            ],
+            [
+                "15_the film's biggest issue is not knowing exactly what kind of movie it wants to be - and ends up being a hodgepodge.",
+                -0.7476448279794141
+            ],
+            [
+                "16_it's hard to tell if happy death day is a smart movie masquerading as a dumb one or vice versa.",
+                0.7215008436605816
+            ],
+            [
+                "17_happy death day may actually be too beholden to its forebears, if only because this horror film is at its very best when it's being funny.",
+                0.5804695786535339
+            ]
+        ]
+    }
+}

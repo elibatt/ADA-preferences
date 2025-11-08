@@ -1,0 +1,68 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jane Jacobs": {
+                "args": [
+                    [
+                        "5_in the context of today's stymied political trench wars, there is inspiration to be found in jacobs' example of local activism, original thinking, and rational argument blossoming into useful change.",
+                        0.7792013815170912
+                    ],
+                    [
+                        "8_tyrnauer transforms what could be a staid profile film into an urgent story about the dangers of \"urban renewal,\" something jacobs herself would admire.",
+                        0.7059285363712927
+                    ],
+                    [
+                        "12_it's a story that needs periodic retelling, and mr. tyrnauer has heightened the human drama by focusing on jacobs, an improbable david to moses's goliath.",
+                        0.6775176428551971
+                    ],
+                    [
+                        "15_a fascinating documentary captures the showdown, half a century ago, between the activist jane jacobs and the trumpian urban planner robert moses: a fight for the future of new york.",
+                        0.8257986349429411
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_the movie is scored like a thriller, seemingly building to some terrifying conclusion.",
+                -0.5374933611728587
+            ],
+            [
+                "7_it's a complicated tale, and at 92 minutes, the film is a very brief summary.",
+                0.722627647333814
+            ],
+            [
+                "11_[a] gorgeous, tightly written and entertaining film.",
+                0.8554161824675235
+            ],
+            [
+                "13_anyone interested in the way cities work should ... go to see this.",
+                0.5509993584852854
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Matt Tyrnauer": {
+                "args": [
+                    [
+                        "12_it's a story that needs periodic retelling, and mr. tyrnauer has heightened the human drama by focusing on jacobs, an improbable david to moses's goliath.",
+                        0.6775176428551971
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

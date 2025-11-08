@@ -1,0 +1,183 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ the movie doesn't offer much in the way of characterization, its cheap thrills are manufactured effectively,",
+                -0.6389924232134538
+            ],
+            [
+                "3_at 81 minutes, unfolding in a handful of key locations, and opting for practical effects and clever framing over computer-generated imagery, lights out is still lean and concentrated, and it benefits from that spareness.",
+                0.6225620682428653
+            ],
+            [
+                "5_, the film is just a tired tread through the usual elements.",
+                -0.6254969728760135
+            ],
+            [
+                "8_spackling over any copycat cracks with strong acting and fleet editing, \"lights out\" delivers minimalist frights in old-school ways.",
+                0.6510834937661051
+            ],
+            [
+                "9_unfortunately, the film stumbles, offering too few legitimate scares and displaying an overreliance on traditional horror movie clichés.",
+                -0.5065820471641658
+            ],
+            [
+                "12_\"lights out\" is an effective, tidy little chiller",
+                0.6651274019389476
+            ],
+            [
+                "13_like the most enjoyable horror movies, lights out is almost a physical experience, carrying viewers from stress and terror to even some tension-breaking hilarity.",
+                0.6948756865918588
+            ],
+            [
+                "14_the tale of a restless evil spirit who suffers from an extreme aversion to light, this nifty little chiller may be the first movie of its kind to unite the pleasure of a good haunting with the horror of an unpaid electricity bill.",
+                0.8192183326361108
+            ],
+            [
+                "16_in the end, it's just a little horror movie, ",
+                -0.6187832803300272
+            ],
+            [
+                "17_\"lights out\" deserves to be considered in the company of such recent horror standouts as \"it follows,\" \"the babadook,\" \"goodnight mommy\" and \"the witch.\"",
+                0.722394366793042
+            ],
+            [
+                "19_even the most cynical, jaded, seen-it-all-before critic cannot deny certain visceral reactions to a film.",
+                0.7985485322973399
+            ],
+            [
+                "19_lights out gave me the chills.",
+                -0.6632608475932804
+            ],
+            [
+                "22_the film is blatantly, unmistakably about mental illness, and that makes it hard to ignore or forgive what it ends up saying (hopefully by accident) on the subject.",
+                -0.6416847940233955
+            ],
+            [
+                "23_a small, pitch-black treat, \"lights out\" takes a common childhood terror and uses it to spin a horror story with a new kind of ghost and some familiar, ",
+                0.7260871309912187
+            ],
+            [
+                "24_in some ways the film is like an amusement park ride.",
+                0.7170741370690968
+            ],
+            [
+                "25_once the film runs out of unusual lighting schemes to exploit (violet-hued goth black lighting, random blasts of car headlights, etc.), it loses power faster than a millennial with a long-overdue electric bill.",
+                -0.8007231521811361
+            ],
+            [
+                "26_built on a clever premise, the film is executed seamlessly.",
+                0.6108055879614647
+            ],
+            [
+                "28_lights out needs to be seen in a darkened theater next to someone who won't judge you for jumping out of your seat.",
+                -0.5249841541448753
+            ],
+            [
+                "30_a surprisingly maternal horror movie that relies as much on fraying emotional bonds as supernatural suspense to create tension.",
+                -0.542019988588117
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "David F. Sandberg": {
+                "args": [
+                    [
+                        "10_swedish filmmaker david f. sandberg makes an impressive feature de",
+                        0.8864623359040124
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "16_ the director knows that and doesn't overplay his hand.",
+                -0.6153290066725381
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Billy Burke": {
+                "args": []
+            },
+            "Teresa Palmer": {
+                "args": [
+                    [
+                        "6_ the script is rich, and having teresa palmer as a badass adult daughter with commitment issues - typically a male role - is refreshing.",
+                        0.7763413442605334
+                    ]
+                ]
+            },
+            "Maria Russell": {
+                "args": []
+            },
+            "Amiah Miller": {
+                "args": []
+            },
+            "Andi Osho": {
+                "args": []
+            },
+            "Ava Cantrell": {
+                "args": []
+            },
+            "Emily Alyn Lind": {
+                "args": []
+            },
+            "Alexander DiPersia": {
+                "args": []
+            },
+            "Elizabeth Pan": {
+                "args": []
+            },
+            "Gabriel Bateman": {
+                "args": []
+            },
+            "Maria Bello": {
+                "args": [
+                    [
+                        "27_palmer and bello really do seem like world-weary, spook-addled daughter and mother, and they play the stakes just so, favoring neither blase understatement nor yellow-highlighter melodrama.",
+                        -0.6567648627156437
+                    ]
+                ]
+            },
+            "Rolando Boyce": {
+                "args": []
+            },
+            "Alicia Vela-Bailey": {
+                "args": []
+            },
+            "Lotta Losten": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_spackling over any copycat cracks with strong acting and fleet editing, \"lights out\" delivers minimalist frights in old-school ways.",
+                0.6510834937661051
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Eric Heisserer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ the script is rich, and having teresa palmer as a badass adult daughter with commitment issues - typically a male role - is refreshing.",
+                0.7763413442605334
+            ],
+            [
+                "26_it's the best expression of a low-budget horror flick: resourceful and smart, where the most charismatic character is the ghoul itself.",
+                0.7690101367273374
+            ]
+        ]
+    }
+}

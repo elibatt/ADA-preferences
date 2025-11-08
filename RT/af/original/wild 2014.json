@@ -1,0 +1,400 @@
+{
+    "writer": {
+        "args": [
+            [
+                "6_the line has witherspoon been so present to a character.",
+                -0.6017487095557938
+            ],
+            [
+                "8_it's a trip worth taking, not the least because you get to spend it in the character of cheryl, played on screen by reese witherspoon in an unshowy ",
+                0.5184866464669112
+            ],
+            [
+                "50_-plain parts for actresses to play, seeing a complicated female character on-screen here is even better.",
+                -0.593248820081294
+            ]
+        ],
+        "entities": {
+            "Nick Hornby": {
+                "args": [
+                    [
+                        "35_with the help of a scrappy script by nick hornby that allows bursts of humor to break through the darkness, witherspoon cuts to the bruised core of cheryl's heart, rattling between desperation and determination.",
+                        0.7588373087253044
+                    ],
+                    [
+                        "41_ hornby, vallée, witherspoon and dern lead the charge in taking the material to a higher elevation.",
+                        0.6558390510497057
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_if nothing else, wild offers a first-rate advertisement for the purifying abilities of the great outdoors.",
+                0.6595132345461625
+            ],
+            [
+                "4_wild may sound like a film about redemption, ",
+                0.6995975254474287
+            ],
+            [
+                "5_make a film about her that is both painful and uplifting.",
+                0.6464634390544032
+            ],
+            [
+                "10_a moving (literally and figuratively) experience, a road movie where the road is a trail that sometimes disappears into the trees, or takes a turn onto a jagged precipice.",
+                -0.6384491863758442
+            ],
+            [
+                "11_what the book communicates better than the movie is just how grueling the pacific coast trail can be...",
+                0.5091622879667176
+            ],
+            [
+                "11_like the book, the movie inspires wanderlust, whether the quest is for your body or your psyche.",
+                0.5247375822167788
+            ],
+            [
+                "12_the movie gets much of the book and has the added benefit of scenery - lots of it, deserts and mountains and forests spreading out to the far horizons.",
+                -0.5280135171176845
+            ],
+            [
+                "14_a rare on-the-road movie from a female point of view.",
+                0.6366090326188407
+            ],
+            [
+                "20_if wild is an interesting trek, for both its star and its viewers, it's hardly a feral one.",
+                0.6641433322083283
+            ],
+            [
+                "21_it's a movie in which you can feel the spirit of the material infusing the filmmaker both as an artist and as a human being, and what results is that thing that occurs when even the simplest of songs sends sparks to the soul.",
+                0.7924026703475526
+            ],
+            [
+                "25_the story wild cares about, and tells with admirable honesty and cinematic grace, has less to do with the out-of-doors than with the inside-of-head.",
+                0.5040634047405579
+            ],
+            [
+                "27_\"wild\" is an accomplished movie, and often a beautiful and moving one, ",
+                0.8606683425375394
+            ],
+            [
+                "30_\"wild\" meanders a bit, in its trips from present to past and back, ",
+                0.5401385745317511
+            ],
+            [
+                "32_in general, wild's ratio of dramatic incident ... to \"just existing in nature\" is nicely judged.",
+                0.6029886296805727
+            ],
+            [
+                "33_\"wild\" is ultimately unique for its twist, even if it comes by an unfortunately intrusive narration.",
+                -0.5421834192272275
+            ],
+            [
+                "38_even when \"wild\" occasionally stumbles, it gets back on track with relative ease.",
+                -0.5242705128319292
+            ],
+            [
+                "40_ the peaks in \"wild\" make the journey more than worth it.",
+                0.7234819461617192
+            ],
+            [
+                "41_in less sensitive hands, wild could have easily wound up being an oprah's book club episode writ large, ",
+                -0.5556461760550385
+            ],
+            [
+                "43_what makes its heroine worth caring about - what makes her a rare and exciting presence in present-day american film - is not that she's tidy or sensible or even especially nice.",
+                0.8545937902131627
+            ],
+            [
+                "44_it's a fine film, made with poetry and intelligence.",
+                0.7803834539410047
+            ],
+            [
+                "47_\"wild\" is about the renewal of self, ",
+                -0.5715078729867495
+            ],
+            [
+                "47_ it's a film made without sanctimony or piety.",
+                -0.5082738509510119
+            ],
+            [
+                "49_vallee has crafted a vivid wilderness adventure film that is also a powerful story of family anguish and survival.",
+                0.8311732693697524
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "28_witherspoon does the least acting of her career, and it works.",
+                0.6588651746951187
+            ],
+            [
+                "46_it's a stripped-down performance on every level.",
+                -0.6090569903273587
+            ]
+        ],
+        "entities": {
+            "Jeanine Jackson": {
+                "args": []
+            },
+            "Cathryn de Prume": {
+                "args": []
+            },
+            "Jason Newell": {
+                "args": []
+            },
+            "William Nelson": {
+                "args": []
+            },
+            "Nick Eversman": {
+                "args": []
+            },
+            "Henry Shotwell": {
+                "args": []
+            },
+            "Beth Hall": {
+                "args": []
+            },
+            "Eric D. Johnson": {
+                "args": []
+            },
+            "Lorraine Bahr": {
+                "args": []
+            },
+            "Richard Morris": {
+                "args": []
+            },
+            "Randy Schulman": {
+                "args": []
+            },
+            "Thomas Sadoski": {
+                "args": []
+            },
+            "Keene McRae": {
+                "args": []
+            },
+            "Kevin Michael Moore": {
+                "args": []
+            },
+            "Evan O'Toole": {
+                "args": []
+            },
+            "Gray Eubank": {
+                "args": []
+            },
+            "Will Cuddy": {
+                "args": []
+            },
+            "Robert Alan Barnett": {
+                "args": []
+            },
+            "W. Earl Brown": {
+                "args": []
+            },
+            "Tony Doupe": {
+                "args": []
+            },
+            "Leigh Parker": {
+                "args": []
+            },
+            "Ted DeChatelet": {
+                "args": []
+            },
+            "Laura Dern": {
+                "args": []
+            },
+            "Gaby Hoffmann": {
+                "args": []
+            },
+            "Charles Baker (II)": {
+                "args": []
+            },
+            "Edric Carter": {
+                "args": []
+            },
+            "Dan Considine": {
+                "args": []
+            },
+            "Michiel Huisman": {
+                "args": []
+            },
+            "J.D. Evermore": {
+                "args": []
+            },
+            "Matthew Noyes": {
+                "args": []
+            },
+            "Anne Gee Byrd": {
+                "args": []
+            },
+            "Kurt Conroyd": {
+                "args": []
+            },
+            "Cliff De Young": {
+                "args": []
+            },
+            "Jerry Carlton": {
+                "args": []
+            },
+            "Orianna Herrman": {
+                "args": []
+            },
+            "Brian Borcherdt": {
+                "args": []
+            },
+            "Carlee McManus": {
+                "args": []
+            },
+            "John Dickerson, Jr.": {
+                "args": []
+            },
+            "Mo McRae": {
+                "args": []
+            },
+            "Barry O'Neil": {
+                "args": []
+            },
+            "Greg James (XII)": {
+                "args": []
+            },
+            "Denise McSweeny": {
+                "args": []
+            },
+            "Reese Witherspoon": {
+                "args": [
+                    [
+                        "6_the line has witherspoon been so present to a character.",
+                        -0.6017487095557938
+                    ],
+                    [
+                        "7_strayed comes across as a real person, witherspoon is a real actor, and the film is a real showcase.",
+                        0.5503904534656043
+                    ],
+                    [
+                        "8_it's a trip worth taking, not the least because you get to spend it in the character of cheryl, played on screen by reese witherspoon in an unshowy ",
+                        0.5184866464669112
+                    ],
+                    [
+                        "9_there's nothing particularly wild about \"wild,\" a forward-plodding story of redemption that follows reese witherspoon's determined march toward a best actress oscar nomination.",
+                        0.6533412793509056
+                    ],
+                    [
+                        "16_\"wild\" for the most part works just fine, and should serve as a terrific career boost for reese witherspoon, who's a producer of the film as well as its star.",
+                        0.8730860688206041
+                    ],
+                    [
+                        "24_ms. witherspoon carries the whole movie.",
+                        0.599355780503312
+                    ],
+                    [
+                        "29_this pensive, reflective, complicated witherspoon feels more real than the one she left behind - and more in keeping with how she started, in hard-hitting independent movies 20 years ago.",
+                        0.5527265546571494
+                    ],
+                    [
+                        "30_ witherspoon remains the constant, doing what sounds simple enough ",
+                        0.6190008543590263
+                    ],
+                    [
+                        "35_with the help of a scrappy script by nick hornby that allows bursts of humor to break through the darkness, witherspoon cuts to the bruised core of cheryl's heart, rattling between desperation and determination.",
+                        0.7588373087253044
+                    ],
+                    [
+                        "37_fueled by the centrifugal force of ms. witherspoon's dynamic, award-worthy centerpiece performance, it's one of the year's most galvanizing cinematic experiences.",
+                        0.8571152586604733
+                    ],
+                    [
+                        "41_ hornby, vallée, witherspoon and dern lead the charge in taking the material to a higher elevation.",
+                        0.6558390510497057
+                    ],
+                    [
+                        "42_for the time being, witherspoon - sometimes a wonderful actress and sometimes a maddening one - has found herself.",
+                        0.9277970800501674
+                    ],
+                    [
+                        "48_reese witherspoon delivers her best performance since she won the best actress oscar for 'walk the line' a decade ago.",
+                        0.9192673429774857
+                    ]
+                ]
+            },
+            "Andrew Saunderson": {
+                "args": []
+            },
+            "Cheryl Strayed": {
+                "args": []
+            },
+            "Barry O'Neill": {
+                "args": []
+            },
+            "Kevin Rankin": {
+                "args": []
+            },
+            "Art Alexakis": {
+                "args": []
+            },
+            "Debra Pralle": {
+                "args": []
+            },
+            "Brian Van Holt": {
+                "args": []
+            },
+            "Matt Pascua": {
+                "args": []
+            },
+            "Jan Hoag": {
+                "args": []
+            },
+            "Bobbi Strayed Lindstrom": {
+                "args": [
+                    [
+                        "1_there's neither cinematic majesty to the vistas (and i saw the movie on a very big screen and sat very close to it) nor intimacy to the ground that strayed treads.",
+                        -0.765433083034697
+                    ],
+                    [
+                        "3_witherspoon et al have done justice to strayed's story.",
+                        -0.5603410376765707
+                    ],
+                    [
+                        "23_witherspoon uses her own undoubted discomfort with the physical demands of the role to make us feel strayed's predicament in our bones.",
+                        0.63236914023783
+                    ],
+                    [
+                        "34_\"wild\" is a moving, engaging and deeply sincere story, set against some of the most magnificent scenery on the planet, and most of strayed's fans should be reasonably content.",
+                        0.8621633878092126
+                    ]
+                ]
+            },
+            "Alina Gatti": {
+                "args": []
+            },
+            "Ray Mist": {
+                "args": []
+            },
+            "Anne Sorce": {
+                "args": []
+            },
+            "Jeffree Newman": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jean-Marc Vallée": {
+                "args": [
+                    [
+                        "41_ hornby, vallée, witherspoon and dern lead the charge in taking the material to a higher elevation.",
+                        0.6558390510497057
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_largely devoid of sensationalism, a film that delves quietly into substantive issues of belief and forgiveness.",
+                0.6265524215281477
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Hyatt": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_a few minutes of thriller-like tension early on gives way to a lot of tediously scripted scenes of whisper-acting that rarely breathe life and humanity into what should be a potent turning point story in a religion's history.",
+                0.5619013459853917
+            ],
+            [
+                "4_caviezel gives a stoic performance as the brave and selfless luke.",
+                0.7988126593071003
+            ]
+        ],
+        "entities": {
+            "Jim Caviezel": {
+                "args": []
+            },
+            "Joanne Whalley": {
+                "args": [
+                    [
+                        "4_lynch and whalley are excellent as the husband and wife christian community leaders aquila and priscilla.",
+                        0.8125711448208159
+                    ]
+                ]
+            },
+            "Olivier Martinez": {
+                "args": []
+            },
+            "John Lynch": {
+                "args": []
+            },
+            "James Faulkner": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andrew Hyatt": {
+                "args": []
+            }
+        }
+    }
+}

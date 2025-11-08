@@ -1,0 +1,256 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_crimson peak is an effort to make a throwback movie with modern effects and modern sex scenes, ",
+                0.7513569737699654
+            ],
+            [
+                "7_crimson peak is a fascinating conundrum of a movie.",
+                0.6802488791658602
+            ],
+            [
+                "9_though crimson peak's tone is arch enough that it won't be for everyone, there's definitely a gory,",
+                0.6266827494313182
+            ],
+            [
+                "10_the film is too busy, and in some ways too gross, to sustain an effective atmosphere of dread.",
+                -0.521715851651218
+            ],
+            [
+                "12_this is a film that believes deeply in ghosts, and half of them are in its director's head.",
+                0.5448332611193416
+            ],
+            [
+                "19_the old-fashioned good intentions of \"crimson peak,\" like the house at the center of the film, quickly get swallowed up by puddles of bright red goo.",
+                0.5192597550864244
+            ],
+            [
+                "20_\"crimson peak\" is frustrating from nearly every angle.",
+                -0.6198143214284177
+            ],
+            [
+                "23_\"crimson peak\" is more creepy than scary (",
+                -0.5851837113794796
+            ],
+            [
+                "24_, crimson peak is a cobwebs-and-candelabras chamber piece that's so preoccupied with being visually stunning it forgets to be scary.",
+                0.5944426724237786
+            ],
+            [
+                "26_the risk is that audiences who don't share that love won't appreciate the work, like the world's best cover band nailing obscure nu-metal hits",
+                0.8834705588925533
+            ],
+            [
+                "30_this often entertaining film feels like a mish-mash of overfamiliar elements, falling way short in the wild, weird, what-the-f----was-that department.",
+                -0.6231846896188471
+            ],
+            [
+                "31_at its worst, and best, \"crimson peak\" exists in a weird parallel world where very separate rules of logic apply.",
+                0.5449566310736413
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Guillermo del Toro": {
+                "args": [
+                    [
+                        "1_del toro builds a tight plot ",
+                        0.5637099239090892
+                    ],
+                    [
+                        "4_del toro just goes for effect, and the effect he seems to be going for here is something like, \"ew, guillermo, that's really gross.\"",
+                        -0.8073548321889465
+                    ],
+                    [
+                        "5_guillermo del toro's latest dive into the darkness is a sumptuous, beautifully constructed tale that feels both archaic and inviting.",
+                        0.7337500348111053
+                    ],
+                    [
+                        "6_guillermo del toro doesn't merely direct movies.",
+                        -0.669537869818508
+                    ],
+                    [
+                        "8_director guillermo del toro's unique visual style is on display ",
+                        0.7562079024011582
+                    ],
+                    [
+                        "12_del toro's creativity, the joy he finds in splicing together pieces of the movies and books and characters he loves, is hard to resist.",
+                        0.7867190461473846
+                    ],
+                    [
+                        "18_you don't go to a del toro movie for the story (he co-wrote this one with matthew robins) or even the characters.",
+                        -0.5627687438024743
+                    ],
+                    [
+                        "22_watching del toro's films is a pleasure because his vision is evident in every frame.",
+                        0.7966208382553364
+                    ],
+                    [
+                        "23_ del toro's imagination blooms in every frame.",
+                        0.5323965214846511
+                    ],
+                    [
+                        "25_as even [del toro's] last film, the kaiju monster movie pacific rim, proved, there may be no better conjurer of color in movies right now.",
+                        -0.5860403923800926
+                    ],
+                    [
+                        "29_kudos to del toro for bucking the minimalist trend in spooky movies, ",
+                        0.5496859042415927
+                    ],
+                    [
+                        "34_unsurprisingly for a del toro film, the production design is the real star of crimson peak.",
+                        0.55663967806559
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "12_this is a film that believes deeply in ghosts, and half of them are in its director's head.",
+                0.5448332611193416
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jessica Chastain": {
+                "args": []
+            },
+            "Leslie Hope": {
+                "args": []
+            },
+            "Myrna Moretti": {
+                "args": []
+            },
+            "Emily Coutts": {
+                "args": []
+            },
+            "Jim Watson": {
+                "args": []
+            },
+            "Sean Hewitt (II)": {
+                "args": []
+            },
+            "Bill Lake": {
+                "args": []
+            },
+            "Shane McPherson": {
+                "args": []
+            },
+            "Alec Stockwell": {
+                "args": []
+            },
+            "Peter Spence": {
+                "args": []
+            },
+            "Richard Kerr": {
+                "args": []
+            },
+            "Bruce Gray": {
+                "args": []
+            },
+            "Daryn Pancer": {
+                "args": []
+            },
+            "Brian Kaulback": {
+                "args": []
+            },
+            "Tamara Hope": {
+                "args": []
+            },
+            "Burn Gorman": {
+                "args": []
+            },
+            "Karen Glave": {
+                "args": []
+            },
+            "William K. Healy": {
+                "args": []
+            },
+            "Mia Wasikowska": {
+                "args": []
+            },
+            "Khadijah Roberts-Abdullah": {
+                "args": []
+            },
+            "Jim Beaver": {
+                "args": []
+            },
+            "Tim Blake": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": []
+            },
+            "Gillian Ferrier": {
+                "args": []
+            },
+            "Javier Botet": {
+                "args": []
+            },
+            "Matia Jackett": {
+                "args": []
+            },
+            "Kimberly-Sue Murray": {
+                "args": []
+            },
+            "Jonathan Hyde": {
+                "args": []
+            },
+            "John Carter Craig": {
+                "args": []
+            },
+            "Doug Jones": {
+                "args": []
+            },
+            "Thomas Dorey": {
+                "args": []
+            },
+            "Amanda Smith": {
+                "args": []
+            },
+            "Martin Julien": {
+                "args": []
+            },
+            "Sofia Wells": {
+                "args": []
+            },
+            "Joanna Douglas": {
+                "args": []
+            },
+            "Laura Waddell": {
+                "args": []
+            },
+            "Danny Waugh": {
+                "args": []
+            },
+            "Brigitte Robinson": {
+                "args": []
+            },
+            "Charlie Hunnam": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Matthew Robbins": {
+                "args": []
+            },
+            "Lucinda Coxon": {
+                "args": []
+            },
+            "Guillermo del Toro": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

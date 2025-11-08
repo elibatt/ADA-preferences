@@ -1,0 +1,96 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_a significant influence on peckinpah's the wild bunch, this grueling pile driver of a movie will keep you on the edge of your seat.",
+                0.8309165971720441
+            ],
+            [
+                "4_a reeking bandana movie, with all the expected thrills, ",
+                -0.5357638362769315
+            ],
+            [
+                "7_an expertly directed, personally felt film.",
+                0.6277648907535286
+            ],
+            [
+                "8_the film's extended suspense sequences deserve a place among the great stretches of cinema.",
+                0.8873197199180405
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Henri-Georges Clouzot": {
+                "args": [
+                    [
+                        "0_turning the screws with a relentlessness that impresses even in this age of the ruthless, high-tech thriller, clouzot strings together situations of vividly, almost sadistically imagined danger.",
+                        0.5778663228808587
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Luis De Lima": {
+                "args": []
+            },
+            "Jo Dest": {
+                "args": []
+            },
+            "Yves Montand": {
+                "args": []
+            },
+            "William Tubbs": {
+                "args": []
+            },
+            "Charles Vanel": {
+                "args": []
+            },
+            "Antonio Centa": {
+                "args": []
+            },
+            "Jeronimo Mitchell Melendez": {
+                "args": []
+            },
+            "Véra Clouzot": {
+                "args": [
+                    [
+                        "0_turning the screws with a relentlessness that impresses even in this age of the ruthless, high-tech thriller, clouzot strings together situations of vividly, almost sadistically imagined danger.",
+                        0.5778663228808587
+                    ]
+                ]
+            },
+            "Folco Lulli": {
+                "args": []
+            },
+            "Darío Moreno": {
+                "args": []
+            },
+            "Peter van Eyck": {
+                "args": []
+            },
+            "Mario Moreno": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Henri-Georges Clouzot": {
+                "args": []
+            },
+            "Jerome Geronimi": {
+                "args": []
+            }
+        }
+    }
+}

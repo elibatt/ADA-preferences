@@ -1,0 +1,88 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Toni Myers": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Leonardo DiCaprio": {
+                "args": [
+                    [
+                        "8_leonardo dicaprio, as narrator, sounds very nearly reverent, and not without reason.",
+                        -0.6728072512414105
+                    ]
+                ]
+            },
+            "Gregory C. Johnson": {
+                "args": []
+            },
+            "John M. Grunsfeld": {
+                "args": []
+            },
+            "K. Megan McArthur": {
+                "args": []
+            },
+            "Michael T. Good": {
+                "args": []
+            },
+            "Andrew J. Feustel": {
+                "args": []
+            },
+            "Scott D. Altman": {
+                "args": []
+            },
+            "Michael J. Massimino": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_ this 43-minute film is utterly gripping.",
+                0.535789557706161
+            ],
+            [
+                "1_a movie like this can get you thinking.",
+                -0.5836103937714316
+            ],
+            [
+                "2_i've been to two launches, apollo 11 and apollo 12, and hubble 3d is the first film i've seen -- and felt -- that does more than hint at the skeleton-rattling power of those stupendous rockets.",
+                0.5355557944908318
+            ],
+            [
+                "5_the daring mission by astronauts to repair and upgrade the hubble space telescope in may 2009 is the perfect subject for a brilliant, thrilling 3-d imax movie.",
+                0.8741969499595031
+            ],
+            [
+                "5_such a movie, alas, has yet to be made.",
+                -0.8129948297250482
+            ],
+            [
+                "6_it's a movie that not only puts you in space ",
+                0.5732951206474813
+            ],
+            [
+                "7_a typical imax spectacle of enormous proportions, the film is both a fantastic summary of the knowledge we've gained through hubble and an often edge-of-your-seat documentary about some of the specialists who've serviced the telescope five times.",
+                0.8441493291191952
+            ],
+            [
+                "9_the imax screen is the ultimate planetarium in the awesome documentary hubble 3d.",
+                0.6449947091678049
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

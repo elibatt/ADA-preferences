@@ -1,0 +1,165 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "3_able in part to a cast made up of local non-actors) to this universally resonant story, rendering it unique and specific in a meticulously detailed setting.",
+                0.695643380428101
+            ]
+        ],
+        "entities": {
+            "Menashe Lustig": {
+                "args": [
+                    [
+                        "18_what keeps menashe from just being outside-in ethnography is how much nuance weinstein and lustig bring to the main character.",
+                        0.5459457076451064
+                    ]
+                ]
+            },
+            "Ruben Niborski": {
+                "args": []
+            },
+            "Yoel Weisshaus": {
+                "args": []
+            },
+            "Meyer Schwartz": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Joshua Z. Weinstein": {
+                "args": [
+                    [
+                        "5_delicately woven and sensitively told, director-writer joshua z weinstein's ode to a shlemiel rings true.",
+                        0.7819446309187581
+                    ],
+                    [
+                        "7_ unforced) that speaks well of weinstein's future in narrative storytelling.",
+                        0.7365675425422288
+                    ],
+                    [
+                        "8_this is weinstein's first dramatic feature",
+                        0.6343500469701777
+                    ],
+                    [
+                        "18_what keeps menashe from just being outside-in ethnography is how much nuance weinstein and lustig bring to the main character.",
+                        0.5459457076451064
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_delicately woven and sensitively told, director-writer joshua z weinstein's ode to a shlemiel rings true.",
+                0.7819446309187581
+            ],
+            [
+                "18_what keeps menashe from just being outside-in ethnography is how much nuance weinstein and lustig bring to the main character.",
+                0.5459457076451064
+            ]
+        ],
+        "entities": {
+            "Alex Lipschultz": {
+                "args": []
+            },
+            "Musa Syeed": {
+                "args": []
+            },
+            "Joshua Z. Weinstein": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"menashe\" is a little slice of life, delivered with a knowing sense of truth.",
+                0.7016862064850496
+            ],
+            [
+                "1_the curious are welcome, ",
+                0.6725310579209862
+            ],
+            [
+                "2_weinstein normally directs documentaries, and \"menashe\" has a fly-on-the-wall feel at times, particularly in the warmly believable interplay between father and son.",
+                0.6380742672412074
+            ],
+            [
+                "2_the movie was filmed in borough park, n.y., which adds to the atmosphere.",
+                -0.5172008025746226
+            ],
+            [
+                "3_able in part to a cast made up of local non-actors) to this universally resonant story, rendering it unique and specific in a meticulously detailed setting.",
+                0.695643380428101
+            ],
+            [
+                "6_in scene after scene, \"menashe\" strikes complex notes without telegraphing how the audience should feel.",
+                -0.570038866261326
+            ],
+            [
+                "7_some of the narrative developments and conversational tangents feel contrived, ",
+                -0.6635421980942464
+            ],
+            [
+                "9_ never patronizing, menashe examines a world that might seem foreign or oppressive without ever turning its inhabitants into caricatures or figures of fun.",
+                0.7576551002584362
+            ],
+            [
+                "10_ menashe still plays like a more culturally specific kramer vs. kramer, setting up a testy, fascinating dynamic between micromanaging rabbis and a naturally warm dad with wisdom of his own.",
+                0.6851339851264007
+            ],
+            [
+                "11_this is not a melodramatic movie - there's not so much as a fistfight, and the ending will be too quiet for some - yet at times its sadness is almost overwhelming.",
+                -0.6179425485382598
+            ],
+            [
+                "12_menashe is full of lovely grace notes in which nothing much happens, ",
+                -0.6233580739064641
+            ],
+            [
+                "13_my heart broke a little near the end of \"menashe,\" a sweet comedy that's not without a bit of sadness.",
+                0.6121778880418652
+            ],
+            [
+                "13_for sure, this funny and tender film prompts cheerful smiles, ",
+                0.8122079002971692
+            ],
+            [
+                "14_the film ends up getting stuck in a no man's land between fiction and documentary, never quite coming together as a complete narrative.",
+                -0.5449397259451808
+            ],
+            [
+                "15_it's a gentle, melancholy father-and-son story that's as notable for an evocation of its self-contained world as it is for its drama.",
+                0.8633944826426734
+            ],
+            [
+                "16_weinstein has created a work of interest partially because he is aware of his own distance from his subject matter.",
+                0.8199272968313837
+            ],
+            [
+                "17_the film has an unpolished intimacy, peeling back the surface exoticism of a cloistered faith to reveal the poignantly ordinary struggle of being an imperfect person in the world.",
+                0.7447972171880756
+            ],
+            [
+                "20_the film winds up compelling both from a cultural and sociological angle and as a universal story of a parent yearning to be with his son.",
+                0.7943122537561644
+            ],
+            [
+                "22_the real strength of menashe lies with its ability to be a fly on the wall of a fragile existence that can take any number of unexpected turns.",
+                0.6817844595608548
+            ],
+            [
+                "23_menashe immerses us in an authentic environment of ultra-orthodox judaism and makes it relatable by weaving a sweet story familiar in its general contours, of a single father struggling to hold onto the son he loves.",
+                0.833314339757546
+            ]
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_now, taxi driver is auteurist psychodrama.",
+                -0.5116649003526859
+            ],
+            [
+                "6_ taxi driver is as powerful and painful as ever.",
+                0.578503877580676
+            ],
+            [
+                "7_which is to say, imagine a like-minded film of this decade killing at the box office and getting nommed for best picture.",
+                0.6987280520075294
+            ],
+            [
+                "8_you may want to argue with taxi driver at the end, and with good reason, ",
+                0.5890675874397
+            ],
+            [
+                "9_since the mid-1970s, the movie has become presciently emblematic of our emotionally diseased, violence-prone culture.",
+                0.649629267371007
+            ],
+            [
+                "10_the heart and soul of taxi driver are twisted in a way that can't be faked or copied.",
+                0.5615207246296997
+            ],
+            [
+                "11_taxi driver is a brilliant nightmare and like all nightmares it doesn't tell us half of what we want to know.",
+                -0.5149245981950061
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Martin Scorsese": {
+                "args": [
+                    [
+                        "0_martin scorsese's unflinching plunge into the darkest recesses of the human soul feels painfully relevant.",
+                        0.7554120821881602
+                    ],
+                    [
+                        "5_[scorsese] seems to need scripts with well-designed humor and performers with the spirit of ellen burstyn to compensate for what seems to be a fundamentally depressed view of life and the belief that sobriety is the equivalent of seriousness.",
+                        0.5327683292020492
+                    ],
+                    [
+                        "7_martin scorsese's history-making scald is truly a phenomenon from another day and age.",
+                        0.6556986790912955
+                    ],
+                    [
+                        "12_perhaps the most formally ravishing-as well as the most morally and ideologically problematic-film ever directed by martin scorsese, the 1976 taxi driver remains a disturbing landmark for the kind of voluptuous doublethink it helped ratify.",
+                        0.8105051615606178
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Paul Schrader": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Peter Boyle": {
+                "args": []
+            },
+            "Brenda Dickson": {
+                "args": []
+            },
+            "Jason Holt": {
+                "args": []
+            },
+            "Beau Kayser": {
+                "args": []
+            },
+            "Peter Savage": {
+                "args": []
+            },
+            "Copper Cunningham": {
+                "args": []
+            },
+            "Cybill Shepherd": {
+                "args": []
+            },
+            "Jodie Foster": {
+                "args": []
+            },
+            "Harry Northrup": {
+                "args": []
+            },
+            "Frank Adu": {
+                "args": []
+            },
+            "Debbie Morgan": {
+                "args": []
+            },
+            "Diahnne Abbott": {
+                "args": []
+            },
+            "Leonard Harris": {
+                "args": []
+            },
+            "Gino Ardito": {
+                "args": []
+            },
+            "Carey Poe": {
+                "args": []
+            },
+            "Robert De Niro": {
+                "args": [
+                    [
+                        "1_de niro ... manages to be as sad as he is frightening.",
+                        -0.5753590322750324
+                    ],
+                    [
+                        "2_it's a powerful film and a terrific showcase for the versatility of star robert de niro.",
+                        0.8023490930367165
+                    ]
+                ]
+            },
+            "Harry Fischler": {
+                "args": []
+            },
+            "Albert Brooks": {
+                "args": []
+            },
+            "Martin Scorsese": {
+                "args": [
+                    [
+                        "0_martin scorsese's unflinching plunge into the darkest recesses of the human soul feels painfully relevant.",
+                        0.7554120821881602
+                    ],
+                    [
+                        "5_[scorsese] seems to need scripts with well-designed humor and performers with the spirit of ellen burstyn to compensate for what seems to be a fundamentally depressed view of life and the belief that sobriety is the equivalent of seriousness.",
+                        0.5327683292020492
+                    ],
+                    [
+                        "7_martin scorsese's history-making scald is truly a phenomenon from another day and age.",
+                        0.6556986790912955
+                    ],
+                    [
+                        "12_perhaps the most formally ravishing-as well as the most morally and ideologically problematic-film ever directed by martin scorsese, the 1976 taxi driver remains a disturbing landmark for the kind of voluptuous doublethink it helped ratify.",
+                        0.8105051615606178
+                    ]
+                ]
+            },
+            "Robin Utt": {
+                "args": []
+            },
+            "Joe Spinell": {
+                "args": []
+            },
+            "Richard Higgs": {
+                "args": []
+            },
+            "Garth Avery": {
+                "args": []
+            },
+            "Harvey Keitel": {
+                "args": []
+            },
+            "Victor Argo": {
+                "args": []
+            },
+            "Bob Maroff": {
+                "args": []
+            },
+            "Maria Turner": {
+                "args": []
+            },
+            "Robert Shields": {
+                "args": []
+            },
+            "Vic Magnotta": {
+                "args": []
+            },
+            "Harry Cohn": {
+                "args": []
+            },
+            "Murray Moston": {
+                "args": []
+            },
+            "Norman Matlock": {
+                "args": []
+            },
+            "Bill Minkin": {
+                "args": []
+            },
+            "Jack Hayes": {
+                "args": []
+            },
+            "Gene Palma": {
+                "args": []
+            },
+            "Nat Grant": {
+                "args": []
+            },
+            "Steven Prince": {
+                "args": []
+            },
+            "Ralph S. Singleton": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

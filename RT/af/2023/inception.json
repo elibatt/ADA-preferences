@@ -1,0 +1,171 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_ that isn't to say that film didn't pack an emotional impact.",
+                -0.6166907906439386
+            ],
+            [
+                "1_inception is an intriguing, frustrating film, ",
+                0.6356674850859617
+            ],
+            [
+                "6_the film's imaginative freefall is ruinously anchored to a bogus sense of deep feeling.",
+                0.755460856428446
+            ],
+            [
+                "13_a heist film of thrilling, almost delirious complexity.",
+                0.6710538914995817
+            ],
+            [
+                "14_even as you tick off the film's overload of references, ",
+                0.6107411655518443
+            ],
+            [
+                "17_intelligent and imaginative inception is eye bending and mind bending in equal measures.",
+                0.711789214669199
+            ],
+            [
+                "18_nolan is having the time of his life in his own personal playground and, for all its heavy technical and narrative machinery, inception remains one of his lightest films.",
+                0.8053590603475036
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "10",
+                1
+            ],
+            [
+                "11",
+                -1
+            ],
+            [
+                "15",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "2_this endlessly fascinating swirl of a film could have come only from nolan, who blends the cerebral twistiness of memento (his thriller that moves backward in time) with the spectacular action of his batman megahit, the dark knight.",
+                0.7834755700640096
+            ],
+            [
+                "4_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                0.8167977378147315
+            ],
+            [
+                "11_, is why nolan should have embraced technocratic complexity in the service of such a puny story.",
+                -0.7476260600892289
+            ],
+            [
+                "15_ it's another to come up with a scenario and actually make it feel real and that's exactly what nolan achieves here.",
+                0.6219509635649546
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": [
+                    [
+                        "2_this endlessly fascinating swirl of a film could have come only from nolan, who blends the cerebral twistiness of memento (his thriller that moves backward in time) with the spectacular action of his batman megahit, the dark knight.",
+                        0.7834755700640096
+                    ],
+                    [
+                        "4_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                        0.8167977378147315
+                    ],
+                    [
+                        "11_, is why nolan should have embraced technocratic complexity in the service of such a puny story.",
+                        -0.7476260600892289
+                    ],
+                    [
+                        "15_ it's another to come up with a scenario and actually make it feel real and that's exactly what nolan achieves here.",
+                        0.6219509635649546
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "4_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                0.8167977378147315
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "10_inception is a grown-up thriller ride through the dreamscapes of the mind, with leonardo dicaprio in the lead.",
+                0.6345939835225087
+            ]
+        ],
+        "entities": {
+            "Leonardo DiCaprio": {
+                "unique_args": [
+                    [
+                        "10_inception is a grown-up thriller ride through the dreamscapes of the mind, with leonardo dicaprio in the lead.",
+                        0.6345939835225087
+                    ]
+                ]
+            },
+            "Joseph Gordon-Levitt": {
+                "unique_args": []
+            },
+            "Elliot Page": {
+                "unique_args": []
+            },
+            "Tom Hardy": {
+                "unique_args": []
+            },
+            "Ken Watanabe": {
+                "unique_args": []
+            },
+            "Dileep Rao": {
+                "unique_args": []
+            },
+            "Cillian Murphy": {
+                "unique_args": []
+            },
+            "Tom Berenger": {
+                "unique_args": []
+            },
+            "Marion Cotillard": {
+                "unique_args": []
+            },
+            "Michael Caine": {
+                "unique_args": []
+            },
+            "Pete Postlethwaite": {
+                "unique_args": []
+            },
+            "Lukas Haas": {
+                "unique_args": []
+            },
+            "Tai-Li Lee": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {
+            "dream": {
+                "unique_args": []
+            }
+        }
+    }
+}

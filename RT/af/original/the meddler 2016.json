@@ -1,0 +1,264 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ the movie coasts on the charm of the actors, whom the director coaxes to mug ...",
+                0.5114840552799179
+            ],
+            [
+                "1_much like its main character, \"the meddler\" exudes an irresistible charm.",
+                0.7175067922022635
+            ],
+            [
+                "3_the beauty of the meddler is in its insistence that grief passes - even if you can't buy your way to happiness.",
+                0.7668594100322272
+            ],
+            [
+                "9_this is a sunny little gem of a film.",
+                0.7285065905948256
+            ],
+            [
+                "11_what seems cringe-worthy at first in the meddler winds up as a warm, forgiving embrace -- of the movie's characters and audience, as well.",
+                0.8484974555416575
+            ],
+            [
+                "14_the movie feels authentic, not like it's following a screenplay going through the motions, ",
+                -0.6819400811963933
+            ],
+            [
+                "15_the movie is called \"the meddler,\" ",
+                -0.5896191751300607
+            ],
+            [
+                "20_the charm of \"the meddler\" isn't the kind that benefits from big pushes forward in narrative or massive plot movements, ",
+                0.5214764587386305
+            ],
+            [
+                "22_\"the meddler\" is agreeably (unusually) optimistic about human relationships, ",
+                0.6983821048542388
+            ],
+            [
+                "26_the meddler is warm and funny and astutely observant of the way so many mothers and daughters push and pull at each other and drive each other crazy, and never let go.",
+                0.6624682845638952
+            ],
+            [
+                "29_scarfaria has made a kind, smart, special film.",
+                0.7916881692094133
+            ],
+            [
+                "31_it's a fun and funny movie that delivers an honest portrayal of a mother-daughter relationship and the heartache that comes not just from losing someone ",
+                0.8627844155009035
+            ],
+            [
+                "34_scafaria has made a deeply personal, unquestionably sincere movie -- which, alas, isn't exactly the same as a very good one.",
+                0.5829413662435012
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lorene Scafaria": {
+                "args": [
+                    [
+                        "5_talent is squandered by writer/director scafaria's penchant for shallow contrivance over emotional depth.",
+                        -0.549166469171759
+                    ],
+                    [
+                        "7_with sarandon in the title role, scafaria has a winner:",
+                        -0.5059384490432275
+                    ],
+                    [
+                        "8_\"the meddler\" is a disappointment after the talent scafaria demonstrated in her 2012 feature de",
+                        -0.6529070353523978
+                    ],
+                    [
+                        "19_susan sarandon is a star shining on her highest beams in a movie that the gifted writer-director lorene scafaria turns into something far less clichéd and more nuanced than the anatomy of a bossypants. -",
+                        0.7145230957509934
+                    ],
+                    [
+                        "23_not enough can be said about the terrific sarandon, whose marnie is reportedly based on scafaria's own widowed mother.",
+                        0.6774162032533996
+                    ],
+                    [
+                        "27_susan sarandon has one of her juiciest parts in years in lorene scafaria's comedy about an overbearing widow, which turns out to be far funnier and more charming than the synopsis suggests.",
+                        0.7132194553996253
+                    ],
+                    [
+                        "35_susan sarandon is great at being good in writer-director lorene scafaria's loving homage to her mother's uncommonly generous personality.",
+                        0.8791881786439439
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "0_ the movie coasts on the charm of the actors, whom the director coaxes to mug ...",
+                0.5114840552799179
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jerrod Carmichael": {
+                "args": []
+            },
+            "Harry Hamlin": {
+                "args": []
+            },
+            "Bill Fagerbakke": {
+                "args": []
+            },
+            "Marques Ray": {
+                "args": []
+            },
+            "Tony Amendola": {
+                "args": []
+            },
+            "Megalyn Echikunwoke": {
+                "args": []
+            },
+            "Rebecca Drysdale": {
+                "args": []
+            },
+            "Cecily Strong": {
+                "args": []
+            },
+            "Shiri Appleby": {
+                "args": []
+            },
+            "Billy Magnussen": {
+                "args": []
+            },
+            "Laura San Giacomo": {
+                "args": []
+            },
+            "Roger Aaron Brown": {
+                "args": []
+            },
+            "Irina Maleeva": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "Casey Wilson": {
+                "args": []
+            },
+            "Jason Ritter": {
+                "args": []
+            },
+            "Robert Picardo": {
+                "args": []
+            },
+            "Lucy Punch": {
+                "args": []
+            },
+            "Rose Byrne": {
+                "args": []
+            },
+            "Amy Landecker": {
+                "args": []
+            },
+            "Sarah Baker": {
+                "args": []
+            },
+            "Michael McKean": {
+                "args": []
+            },
+            "Susan Sarandon": {
+                "args": [
+                    [
+                        "7_with sarandon in the title role, scafaria has a winner:",
+                        -0.5059384490432275
+                    ],
+                    [
+                        "12_taken as a whole, sarandon's performance is something to behold.",
+                        0.7168601671729463
+                    ],
+                    [
+                        "19_susan sarandon is a star shining on her highest beams in a movie that the gifted writer-director lorene scafaria turns into something far less clichéd and more nuanced than the anatomy of a bossypants. -",
+                        0.7145230957509934
+                    ],
+                    [
+                        "23_not enough can be said about the terrific sarandon, whose marnie is reportedly based on scafaria's own widowed mother.",
+                        0.6774162032533996
+                    ],
+                    [
+                        "27_susan sarandon has one of her juiciest parts in years in lorene scafaria's comedy about an overbearing widow, which turns out to be far funnier and more charming than the synopsis suggests.",
+                        0.7132194553996253
+                    ],
+                    [
+                        "28_the meddler does successfully untether itself from formula, and gives sarandon a surprisingly great role in the process.",
+                        0.8689480979720828
+                    ],
+                    [
+                        "30_the movie really does hang on sarandon.",
+                        -0.5399181634228504
+                    ],
+                    [
+                        "35_susan sarandon is great at being good in writer-director lorene scafaria's loving homage to her mother's uncommonly generous personality.",
+                        0.8791881786439439
+                    ]
+                ]
+            },
+            "Lou Volpe": {
+                "args": []
+            },
+            "Jo Jordan": {
+                "args": []
+            },
+            "Corey Reynolds": {
+                "args": []
+            },
+            "Jae Suh Park": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "31_it's a fun and funny movie that delivers an honest portrayal of a mother-daughter relationship and the heartache that comes not just from losing someone ",
+                0.8627844155009035
+            ],
+            [
+                "33_sarandon's exuberant performance is delivered with care and conviction.",
+                0.6612514487299957
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Lorene Scafaria": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_much like its main character, \"the meddler\" exudes an irresistible charm.",
+                0.7175067922022635
+            ],
+            [
+                "5_talent is squandered by writer/director scafaria's penchant for shallow contrivance over emotional depth.",
+                -0.549166469171759
+            ],
+            [
+                "14_the movie feels authentic, not like it's following a screenplay going through the motions, ",
+                -0.6819400811963933
+            ],
+            [
+                "19_susan sarandon is a star shining on her highest beams in a movie that the gifted writer-director lorene scafaria turns into something far less clichéd and more nuanced than the anatomy of a bossypants. -",
+                0.7145230957509934
+            ],
+            [
+                "35_susan sarandon is great at being good in writer-director lorene scafaria's loving homage to her mother's uncommonly generous personality.",
+                0.8791881786439439
+            ]
+        ]
+    }
+}

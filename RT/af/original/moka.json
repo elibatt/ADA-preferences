@@ -1,0 +1,157 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Diane Rouxel": {
+                "args": []
+            },
+            "Emmanuelle Devos": {
+                "args": [
+                    [
+                        "0_the real delight comes in watching baye play mouse to devos' cat.",
+                        0.6195034594263036
+                    ],
+                    [
+                        "1_instead, it excels as a character study and a dynamic face-off between two formidable actresses: emmanuelle devos and nathalie baye.",
+                        0.6393700488702245
+                    ],
+                    [
+                        "3_a tense psychological thriller whose twisty plot benefits from a bravura performance by emmanuelle devos.",
+                        0.7048432319144053
+                    ],
+                    [
+                        "6_ from the anticipation of the next exquisitely calibrated response by emmanuelle devos, the film's star, who appears in every scene.",
+                        0.6579048800541004
+                    ]
+                ]
+            },
+            "Samuel Labarthe": {
+                "args": []
+            },
+            "Jean-Philippe Écoffey": {
+                "args": []
+            },
+            "Olivier Chantreau": {
+                "args": []
+            },
+            "Nathalie Baye": {
+                "args": []
+            },
+            "Marion Reymond": {
+                "args": []
+            },
+            "David Clavel": {
+                "args": []
+            },
+            "Paulin Jaccoud": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Frédéric Mermoud": {
+                "args": [
+                    [
+                        "4_ screenwriters antonin martin-hilbert and frédéric mermoud tease it out so gradually that you may find yourself hooked anyway.",
+                        -0.5267128307672673
+                    ],
+                    [
+                        "5_director frederic mermoud, working from a script based on a novel by tatiana de rosnay, mixes slow-burn tension with devastating emotion.",
+                        -0.7776718209389795
+                    ],
+                    [
+                        "8_an elegantly lean, low-temperature thriller from swiss writer-director frédéric mermoud.",
+                        0.6555744457175787
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_instead, it excels as a character study and a dynamic face-off between two formidable actresses: emmanuelle devos and nathalie baye.",
+                0.6393700488702245
+            ],
+            [
+                "2_ a slow-burning one, and a film that's driven by character, not plot points.",
+                -0.550624365732351
+            ],
+            [
+                "5_director frederic mermoud, working from a script based on a novel by tatiana de rosnay, mixes slow-burn tension with devastating emotion.",
+                -0.7776718209389795
+            ],
+            [
+                "8_an elegantly lean, low-temperature thriller from swiss writer-director frédéric mermoud.",
+                0.6555744457175787
+            ],
+            [
+                "9_ skillful adaptation of the eponymous novel by anglo-french writer tatiana de rosnay.",
+                0.6631046706608777
+            ]
+        ],
+        "entities": {
+            "Antonin Martin-Hilbert": {
+                "args": [
+                    [
+                        "4_ screenwriters antonin martin-hilbert and frédéric mermoud tease it out so gradually that you may find yourself hooked anyway.",
+                        -0.5267128307672673
+                    ]
+                ]
+            },
+            "Frédéric Mermoud": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_around the 77-minute mark, the film appears to reach its logical conclusion, and then proceeds to hit the audience with another satisfying 10 minutes of twists.",
+                0.5812446588798074
+            ],
+            [
+                "1_\"moka\" is a stark, moody mystery that doesn't actually contain much mystery.",
+                -0.572700472395054
+            ],
+            [
+                "2_you could rightly call it a thriller, ",
+                0.5067945002725415
+            ],
+            [
+                "2_ a slow-burning one, and a film that's driven by character, not plot points.",
+                -0.550624365732351
+            ],
+            [
+                "4_the premise is hardly fresh, ",
+                -0.5108168087862179
+            ],
+            [
+                "6_tense moments arise not from any plot machinations ",
+                -0.5924737332265462
+            ],
+            [
+                "7_the movie's climax has sufficient twists and turns for a conventional payoff.",
+                -0.5597953538066776
+            ],
+            [
+                "7_but the movie, adapted from a novel by tatiana de rosnay,",
+                -0.5113707771642508
+            ],
+            [
+                "7_ is ultimately more concerned with the genuinely tragic dimensions of the story than its suspense angles.",
+                0.5388724693868825
+            ],
+            [
+                "9_ skillful adaptation of the eponymous novel by anglo-french writer tatiana de rosnay.",
+                0.6631046706608777
+            ]
+        ]
+    }
+}

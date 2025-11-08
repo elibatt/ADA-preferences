@@ -1,0 +1,168 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_blair witch follows the original's beats so precisely that at times it seems the film is more eager to elicit memories of its predecessor than to stand on its own at all.",
+                0.5672689341750846
+            ],
+            [
+                "4_perhaps for someone who never saw the blair witch project, this might represent an adequate scary movie.",
+                -0.7613077498444476
+            ],
+            [
+                "5_blair witch nods to the first film ",
+                0.5703315056517876
+            ],
+            [
+                "7_everyone else moved on from \"blair witch,\" with good reason, a long time ago.",
+                -0.6601905629955432
+            ],
+            [
+                "8_ as \"blair witch\" shows, they're not scary in themselves.",
+                -0.8210617829057557
+            ],
+            [
+                "10_ unwatchable in its final half-hour, the movie feels interminable at a barely-feature-length 89 minutes.",
+                -0.7544267889071824
+            ],
+            [
+                "11_it's nothing more than a sophisticated clone of the original, and it really overdoes the shaky-camera thing - even more than in some of the worst found-footage movies the blair witch project spawned.",
+                -0.7816204124932951
+            ],
+            [
+                "12_\"blair witch\" runs only eight minutes past the original, yet it feels about a half-hour longer.",
+                -0.7344258469516692
+            ],
+            [
+                "13_this sequel gets progressively messy while the blair witch project grew progressively taut.",
+                -0.6234610497223421
+            ],
+            [
+                "15_blair witch's comparatively maximalist approach shows too much and scares too little.",
+                -0.7104963288726267
+            ],
+            [
+                "16_all in all, blair witch was quite satisfying and made me think:",
+                0.5867619572459605
+            ],
+            [
+                "16_this is what the first sequel to the original film should have accomplished.",
+                -0.5060587669109162
+            ],
+            [
+                "17_while blair witch does have a few moments of tension and dread, it simply doesn't recapture the once-in-a-lifetime terror that made the original film so unforgettable.",
+                -0.5406369253580631
+            ],
+            [
+                "18_blair witch manages to strike a balance between pleasing the fans of the 1999 found-footage film and working as a friday night at the multiplex, mainly by sticking to the principle that what you don't see will always be scarier.",
+                0.8176510194963308
+            ],
+            [
+                "20_\"blair witch\" comes to the party very late and very tired, and it doesn't improve from there.",
+                -0.77272921564559
+            ],
+            [
+                "23_wingard's movie, for all its abundant mischief, doesn't trust the power of its own illusion.",
+                0.5414630500226318
+            ],
+            [
+                "24_without real innovation or story evolution, \"blair witch\" becomes a trip down a rabbit hole of misery and suffering.",
+                -0.5925983908883772
+            ],
+            [
+                "28_at least a third of \"blair witch\" consists of people running through the woods with flashlights, shouting out each other's names.",
+                -0.5691359238564564
+            ],
+            [
+                "29_and \"blair witch\" often falls on the wrong side.",
+                -0.7480982140459352
+            ],
+            [
+                "30_the set-up is the same, and while that felt fresh in the first film, it now just kind of drains the piece of tension because we know no one is making it out alive.",
+                0.7881394434098113
+            ],
+            [
+                "31_with nothing new to add to the \"blair witch\" mythos, this is one found footage movie that should have been left lost in the woods.",
+                -0.7949610862105603
+            ],
+            [
+                "32_a significantly more accomplished and entertaining sequel than 2000's woeful cash-in book of shadows: blair witch 2, [this",
+                0.7072518778209584
+            ],
+            [
+                "33_by sticking so slavishly to the original blair witch film's template, the result is a dull retread rather than a full-on reinvention, enlarging the cast numbers this time ",
+                -0.6427766782135511
+            ],
+            [
+                "34_compared to the ill-fated \"book of shadows: blair witch 2 -- the first follow-up which was rushed to market for financial reasons -- this new iteration still comes across as downright inspiring.",
+                -0.5310299302221408
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Adam Wingard": {
+                "args": [
+                    [
+                        "1_barrett and wingard slavishly reprise the beats of the original movie and suffer gravely by comparison.",
+                        0.557269419082378
+                    ],
+                    [
+                        "27_barrett and wingard guide us on a slightly different path, ",
+                        0.6630805912161626
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Valorie Curry": {
+                "args": []
+            },
+            "Brandon Scott": {
+                "args": []
+            },
+            "James Allen McCune": {
+                "args": []
+            },
+            "Callie Hernandez": {
+                "args": []
+            },
+            "Wes Robinson": {
+                "args": []
+            },
+            "Corbin Reid": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_the acting and filmmaking are too crude to make you care about what happens ... even ",
+                -0.7753068802555274
+            ],
+            [
+                "33_by sticking so slavishly to the original blair witch film's template, the result is a dull retread rather than a full-on reinvention, enlarging the cast numbers this time ",
+                -0.6427766782135511
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Simon Barrett": {
+                "args": [
+                    [
+                        "19_wingard and barrett aren't trying to reinvent the wail here, which is mostly a good thing.",
+                        -0.6079444252036426
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

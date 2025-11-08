@@ -1,0 +1,154 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "George \"Slim\" Summerville": {
+                "args": []
+            },
+            "Yola d'Avril": {
+                "args": []
+            },
+            "Edwin Maxwell": {
+                "args": []
+            },
+            "Louis Wolheim": {
+                "args": []
+            },
+            "Marion Clayton": {
+                "args": []
+            },
+            "Raymond Griffith": {
+                "args": []
+            },
+            "Russell Gleason": {
+                "args": []
+            },
+            "John Wray": {
+                "args": []
+            },
+            "Bertha Mann": {
+                "args": []
+            },
+            "Bill Irving": {
+                "args": []
+            },
+            "Lew Ayres": {
+                "args": [
+                    [
+                        "6_ highly simplistic utterances about war as waste, than from a generally excellent set of performances (ayres especially) and an almost total reluctance to follow normal plot structure.",
+                        0.7568387307991806
+                    ]
+                ]
+            },
+            "G. Pat Collins": {
+                "args": []
+            },
+            "Fred Zinnemann": {
+                "args": []
+            },
+            "Bodil Rosing": {
+                "args": []
+            },
+            "Renee Damonde": {
+                "args": []
+            },
+            "Poupee Andriot": {
+                "args": []
+            },
+            "Owen Davis Jr.": {
+                "args": []
+            },
+            "Walter B. Rodgers": {
+                "args": []
+            },
+            "Arnold Lucy": {
+                "args": []
+            },
+            "Harold Goodwin": {
+                "args": []
+            },
+            "Heinie Conklin": {
+                "args": []
+            },
+            "Scott Kolk": {
+                "args": []
+            },
+            "Edmund Breese": {
+                "args": []
+            },
+            "Richard Alexander": {
+                "args": []
+            },
+            "Beryl Mercer": {
+                "args": []
+            },
+            "Walter Browne Rogers": {
+                "args": []
+            },
+            "William Bakewell": {
+                "args": []
+            },
+            "Ben Alexander": {
+                "args": []
+            },
+            "Joan Marsh": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lewis Milestone": {
+                "args": [
+                    [
+                        "7_messrs. milestone, abbott and anderson in this film have contri",
+                        0.5292319436232891
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "George Abbott": {
+                "args": []
+            },
+            "Lewis Milestone": {
+                "args": []
+            },
+            "Del Andrews": {
+                "args": []
+            },
+            "Maxwell Anderson": {
+                "args": [
+                    [
+                        "7_messrs. milestone, abbott and anderson in this film have contri",
+                        0.5292319436232891
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the film is monumental in the courage that risked its manufacture.",
+                0.6423981904301578
+            ],
+            [
+                "6_the film's strength now derives less from its admittedly powerful ",
+                0.737754564543141
+            ],
+            [
+                "7_ed a memorable piece of work to the screen.",
+                0.6552169079122662
+            ]
+        ]
+    }
+}

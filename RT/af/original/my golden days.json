@@ -1,0 +1,181 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the easiest way to describe \"my golden days\" is as a coming-of-age romance, ",
+                0.7303570368229519
+            ],
+            [
+                "5_...you don't need to see \"my sex life\" to enjoy \"my golden days,\" which is wonderful by merit for several reasons, including young stars...",
+                0.8642145412171571
+            ],
+            [
+                "6_ overall this overlong movie is too knowingly coy for its own good.",
+                0.5372004014568486
+            ],
+            [
+                "9_the movie masterfully crystallizes the unruly, episodic nature of memories, re-creating the way certain small things stay with us while other, much larger events recede into a haze of cigarette smoke.",
+                0.7373443871338112
+            ],
+            [
+                "10_will my golden days... come to be considered a classic?",
+                0.6477700046334032
+            ],
+            [
+                "10_i'd like to think so, and not only because of the film's winning grace and buoyancy.",
+                0.6718033452379767
+            ],
+            [
+                "11_the movie runs along a well-worn groove, both in its fealty to adolescent sorrows and in its stout conviction that cigarettes constitute a major food group.",
+                0.5667331378803041
+            ],
+            [
+                "12_\"my golden days\" exists simultaneously within and outside of its characters' headspace, a testament to deplechin's powers of imaginative sensitivity.",
+                0.649607779317499
+            ],
+            [
+                "13_my golden days as if he'd never made a movie before, as if youthful emotions were spilling all over it.",
+                0.5199997066969612
+            ],
+            [
+                "14_\"my golden days\" contains an intoxicatingly realistic portrayal of the intense emotionality, the intertwined joy and pain, of first love.",
+                0.8105746323600893
+            ],
+            [
+                "14_it's not the whole film, ",
+                -0.5953959007364997
+            ],
+            [
+                "16_it's impossible to say how autobiographical my golden days is, ",
+                -0.6370331714343069
+            ],
+            [
+                "18_there is serious pain in this movie - pain that endures throughout the years - ",
+                -0.532944526492817
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Arnaud Desplechin": {
+                "args": [
+                    [
+                        "0_ arnaud desplechin's film, with its memories and carefully nursed grudges and moments of heartbreak and betrayal, feels weightier than that.",
+                        0.7165785319991362
+                    ],
+                    [
+                        "11_as in all desplechin films, ",
+                        0.5719869536136917
+                    ],
+                    [
+                        "19_arnaud desplechin and mathieu amalric revisit the adventures of paul dedalus in this marvelously vivid coming-of-age drama.",
+                        0.7366073719250578
+                    ],
+                    [
+                        "20_all the actors ― from amalric, here in his sixth collaboration with desplechin ― to the entire cast of youngsters, most with next to no film experience, inhabit their roles fully.",
+                        0.6140774812099044
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Raphaël Cohen": {
+                "args": []
+            },
+            "Mélodie Richard": {
+                "args": []
+            },
+            "Dinara Drukarova": {
+                "args": []
+            },
+            "Théo Fernandez": {
+                "args": []
+            },
+            "Yassine Douighi": {
+                "args": []
+            },
+            "Olivier Rabourdin": {
+                "args": []
+            },
+            "Mathieu Amalric": {
+                "args": [
+                    [
+                        "19_arnaud desplechin and mathieu amalric revisit the adventures of paul dedalus in this marvelously vivid coming-of-age drama.",
+                        0.7366073719250578
+                    ],
+                    [
+                        "20_all the actors ― from amalric, here in his sixth collaboration with desplechin ― to the entire cast of youngsters, most with next to no film experience, inhabit their roles fully.",
+                        0.6140774812099044
+                    ]
+                ]
+            },
+            "Lily Taieb": {
+                "args": []
+            },
+            "Cecile Garcia-Fogel": {
+                "args": []
+            },
+            "Elyot Milshtein": {
+                "args": []
+            },
+            "Françoise Lebrun": {
+                "args": []
+            },
+            "Lou Roy-Lecollinet": {
+                "args": []
+            },
+            "Irina Vavilova": {
+                "args": []
+            },
+            "Quentin Dolmaire": {
+                "args": []
+            },
+            "Eric Ruf": {
+                "args": []
+            },
+            "Anne Benoît": {
+                "args": []
+            },
+            "Clemence Le Gall": {
+                "args": []
+            },
+            "Eve Doe-Bruce": {
+                "args": []
+            },
+            "Kheifets Gregory": {
+                "args": []
+            },
+            "Pierre Andrau": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_desplechin draws uniformly superb performances from his young cast, making the coming-of-age genre seem fresh and vital.",
+                0.8650236971541895
+            ],
+            [
+                "14_\"my golden days\" contains an intoxicatingly realistic portrayal of the intense emotionality, the intertwined joy and pain, of first love.",
+                0.8105746323600893
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Arnaud Desplechin": {
+                "args": []
+            },
+            "Julie Peyr": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

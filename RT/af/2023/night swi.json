@@ -1,0 +1,109 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "6_while diverting enough for its forgiving 98-minute runtime, night swim neither sinks nor floats.",
+                -0.7361663412028719
+            ],
+            [
+                "9_the movie seems destined to sink quickly to the bottom of our cultural memory and, like a few swimmers in this demented pool, vanish altogether.",
+                -0.6016522029616395
+            ],
+            [
+                "10_condon’s fierce yet heartfelt performance and the underwater sequences keep night swim treading water, ",
+                0.6385577486382001
+            ],
+            [
+                "13_the worst movie i’ve seen in years.",
+                -0.7029789559698724
+            ],
+            [
+                "14_as the mysteries behind the strange occurrences are slowly revealed, this underpowered horror film starts to drown in cliches and predictable plot twists.",
+                -0.6812978853154351
+            ],
+            [
+                "16_it may be damning with faint praise to describe night swim as a solid movie, ",
+                0.7237829414371577
+            ],
+            [
+                "19_i can think of many, many better ways to usher in a new year than the very damp effort that is “night swim” — aren’t wet ghosts inherently more sad than scary?",
+                -0.6119497575840253
+            ],
+            [
+                "4",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Bryce McGuire": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "4_ not before it weds some sneaky character development to a few good, solid jump moments.",
+                -0.665442321135862
+            ]
+        ],
+        "entities": {
+            "Bryce McGuire": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "10_condon’s fierce yet heartfelt performance and the underwater sequences keep night swim treading water, ",
+                0.6385577486382001
+            ]
+        ],
+        "entities": {
+            "Wyatt Russell": {
+                "unique_args": []
+            },
+            "Kerry Condon": {
+                "unique_args": []
+            },
+            "Amélie Hoeferle": {
+                "unique_args": []
+            },
+            "Gavin Warren": {
+                "unique_args": []
+            },
+            "Nancy Lenehan": {
+                "unique_args": []
+            },
+            "Jodi Long": {
+                "unique_args": []
+            },
+            "Eddie Martinez": {
+                "unique_args": []
+            },
+            "Preston Galli": {
+                "unique_args": []
+            },
+            "Ellie Araiza": {
+                "unique_args": []
+            },
+            "Aivan Uttapa": {
+                "unique_args": []
+            },
+            "Elijah Roberts": {
+                "unique_args": []
+            },
+            "Eleanor T. Threatt": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

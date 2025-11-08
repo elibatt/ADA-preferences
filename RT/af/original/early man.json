@@ -1,0 +1,163 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_early man contains a nice anti-sexism message, ",
+                0.7330510474937826
+            ],
+            [
+                "1_early man is not so much a return to form as it is a long overdue comeback -- and a welcome one at that.",
+                0.6642524148648111
+            ],
+            [
+                "4_mostly, \"early man\" plays like an overstuffed episode of \"the flintstones,\" riffing on caveman accessories, as well as soccer fandom and hooliganism.",
+                -0.6232837958385213
+            ],
+            [
+                "6_you know full well whether or not you're the audience for this film.",
+                0.6407673932376334
+            ],
+            [
+                "7_there's a quaintness about the film, from the animation style to the wholesome jokes, that is refreshing for this pop-culture-obsessed animation era.",
+                0.8691657598734454
+            ],
+            [
+                "8_\"early man\" is lovingly crafted down to the smallest detail.",
+                0.5026103784171893
+            ],
+            [
+                "8_but its story, a farcical tribute to the early origins of soccer,",
+                0.5610799836656248
+            ],
+            [
+                "8_ isn't nearly as sturdy as its presentation.",
+                -0.6628043343792498
+            ],
+            [
+                "16_\"early man\" isn't the most original movie ever made, ",
+                -0.568476026317917
+            ],
+            [
+                "18_if you've already devoured the wallace and gromit canon, as well as chicken run and shaun the sheep, early man is a wonderful way of extending their giddy glow, even if it feels like a small step backward.",
+                0.7947682964487088
+            ],
+            [
+                "20_the film treads familiar ground by pitting a bunch of davids vs. egotistical goliaths on the soccer pitch.",
+                -0.5327046268444685
+            ],
+            [
+                "21_there's a sense of innocence and ingenuity and a central wholesomeness that remains throughout the film.",
+                0.7525151429058525
+            ],
+            [
+                "21_\"early man\" is escapist fun.",
+                0.6135247745179822
+            ],
+            [
+                "22_diversions don't entirely distract from a sense that we've seen \"early man\" before.",
+                0.5932201933146783
+            ],
+            [
+                "24_it seems a strange thing to say about a film featuring a giant man-eating mallard, ",
+                0.5300812575926747
+            ],
+            [
+                "26_early man is as charming as they come, bursting with the kind of daffy humor and off-kilter characters that have earned the company a worldwide following.",
+                0.6573862329167466
+            ],
+            [
+                "28_overall the movie collapses in a heap of familiarity and lackadaisicalness.",
+                0.5705660741298855
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Nick Park": {
+                "args": [
+                    [
+                        "3_at least there's director nick park's playful silly putty visual imagination to take your mind off just how thin the story is.",
+                        -0.5484473787396837
+                    ],
+                    [
+                        "9_among its abundant delights, early man doubles as park's sly statement about his own process, which may seem exceedingly crude and outdated, ",
+                        0.6749931937542414
+                    ],
+                    [
+                        "10_if just hearing animator nick park's name doesn't bring an anticipatory smile to your face, watching a few minutes of the thoroughly amusing \"early man\" will do the trick.",
+                        -0.5649720489107553
+                    ],
+                    [
+                        "12_as always, park is delightfully absurd with his stop-motion tomfoolery, ",
+                        0.5470753889718185
+                    ],
+                    [
+                        "15_i'm a little sorry that this utterly silly feature from nick park and aardman animations was not around when i was 7 or 8 years old, or when my children were wearing out the wallace and gromit videocassettes that someone had given them for christmas.",
+                        -0.6442727794527843
+                    ],
+                    [
+                        "23_for all its humor, early man can't overcome the limitations of its premise-one of park's less fruitful genre mashups.",
+                        -0.519883655375882
+                    ],
+                    [
+                        "27_early man, the latest animated feature from the aardman studio's star director nick park, is about as warming, homey and distinctly british as a mug of hot, sweet, milky tea on a rainy day.",
+                        0.6108804011504492
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "James Higginson": {
+                "args": []
+            },
+            "Mark Burton": {
+                "args": [
+                    [
+                        "12_ the story by mark burton and james higginson only occasionally reaches the heights of aardman films past.",
+                        0.5604787096730932
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Timothy Spall": {
+                "args": []
+            },
+            "Miriam Margolyes": {
+                "args": []
+            },
+            "Mark Williams": {
+                "args": []
+            },
+            "Kayvan Novak": {
+                "args": []
+            },
+            "Richard Ayoade": {
+                "args": []
+            },
+            "Rob Brydon": {
+                "args": []
+            },
+            "Maisie Williams": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": []
+            },
+            "Eddie Redmayne": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

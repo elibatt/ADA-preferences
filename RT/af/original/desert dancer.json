@@ -1,0 +1,156 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_there would seem to be only one thing that the act of dancing cannot free the characters in desert dancer from, and that's the movie they're in.",
+                -0.5838436160636746
+            ],
+            [
+                "1_desert dancer strays too frequently into melodrama to have much sticking power.",
+                -0.7024514568494489
+            ],
+            [
+                "5_\"desert dancer\" explores fascinating aspects of present-day iran ",
+                0.8220859509608066
+            ],
+            [
+                "7_\"desert dancer\" does manage to movingly convey the chilling, ultimately triumphant experience of ghaffarian's struggle for creative expression under a regime that tried to crush it.",
+                0.7168279130887166
+            ],
+            [
+                "9_ \"desert dancer\" escapes the usual drawbacks - corniness and bad dancing - by the urgency of the context.",
+                0.5143400198987373
+            ],
+            [
+                "11_\"desert dancer\" is a conventional protest drama, ",
+                0.541645947537571
+            ],
+            [
+                "12_desert dancer too often lapses into generic cinematic clichés, failing to live up to the dramatic potential of its subject matter.",
+                -0.5672852226229564
+            ],
+            [
+                "15_the film plays too safe with its narrative.",
+                0.6260215504206432
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Richard Raymond": {
+                "args": [
+                    [
+                        "2_, director richard raymond keeps the story moving ",
+                        0.654911499962773
+                    ],
+                    [
+                        "13_as with so many \"extraordinary\" true stories, british director richard raymond's de",
+                        0.7656833938107153
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Reece Ritchie": {
+                "args": [
+                    [
+                        "4_reece ritchie brings heart to the lead role, particularly in the decisive solo performance that caps the film.",
+                        0.6408906306045646
+                    ],
+                    [
+                        "11_ it offers many magic moments - especially when co-stars freida pinto and reece ritchie perform sinuous routines.",
+                        -0.5214393780593984
+                    ]
+                ]
+            },
+            "Tariq Jordan": {
+                "args": []
+            },
+            "Neet Mohan": {
+                "args": []
+            },
+            "Simon Kassianides": {
+                "args": []
+            },
+            "Bethan Hanks": {
+                "args": []
+            },
+            "Bamshad Abedi-Amin": {
+                "args": []
+            },
+            "Makram Khoury": {
+                "args": []
+            },
+            "Inen Nuiga": {
+                "args": []
+            },
+            "Davood Ghadami": {
+                "args": []
+            },
+            "Fadoua Lahlou": {
+                "args": []
+            },
+            "Sam Kordbacheh": {
+                "args": []
+            },
+            "Richard David-Caine": {
+                "args": []
+            },
+            "Dana Haqjoo": {
+                "args": []
+            },
+            "Tom Cullen": {
+                "args": []
+            },
+            "Hamza Kadri": {
+                "args": []
+            },
+            "Daniel Bass": {
+                "args": []
+            },
+            "Khalid Benchegra": {
+                "args": []
+            },
+            "Nazanin Boniadi": {
+                "args": []
+            },
+            "Alex Claus": {
+                "args": []
+            },
+            "Abdellatif Chaouki": {
+                "args": []
+            },
+            "Freida Pinto": {
+                "args": []
+            },
+            "Omid Gholami": {
+                "args": []
+            },
+            "Marama Corlett": {
+                "args": []
+            },
+            "Tolga Safer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jon Crocker": {
+                "args": []
+            },
+            "Jon Croker": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

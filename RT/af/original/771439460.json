@@ -1,0 +1,47 @@
+{
+    "writer": {
+        "entities": {
+            "Qing Yang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Qing Yang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_it's a tasty notion, if not enough to nourish an entire movie.",
+                -0.644156833432352
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Baihe Bai": {
+                "args": []
+            },
+            "Kun Chen": {
+                "args": []
+            },
+            "Entai Yu": {
+                "args": []
+            },
+            "Hao Qin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

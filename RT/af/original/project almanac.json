@@ -1,0 +1,158 @@
+{
+    "writer": {
+        "entities": {
+            "Jason Pagan": {
+                "args": [
+                    [
+                        "1_ screenwriters andrew stark and jason pagan give it a fresh and pleasant spin by using it as a vehicle for adolescent wish fulfillment",
+                        0.8270555873708209
+                    ]
+                ]
+            },
+            "Andrew Stark": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Ginny Gardner": {
+                "args": []
+            },
+            "Sam Lerner": {
+                "args": []
+            },
+            "Mani Yarosh": {
+                "args": []
+            },
+            "Katie Garfield": {
+                "args": []
+            },
+            "Patrick Johnson": {
+                "args": []
+            },
+            "André Nemec": {
+                "args": []
+            },
+            "Anthony Reynolds": {
+                "args": []
+            },
+            "Gary Grubbs": {
+                "args": []
+            },
+            "Joshua Brady": {
+                "args": []
+            },
+            "Jonny Weston": {
+                "args": []
+            },
+            "Jamila Thompson": {
+                "args": []
+            },
+            "Amy Landecker": {
+                "args": []
+            },
+            "Onira Tares": {
+                "args": []
+            },
+            "Ben McKee": {
+                "args": []
+            },
+            "Michelle DeFraites": {
+                "args": []
+            },
+            "Allen Evangelista": {
+                "args": []
+            },
+            "Daniel Platzman": {
+                "args": []
+            },
+            "Aaron Marcus": {
+                "args": []
+            },
+            "Andrew Benator": {
+                "args": []
+            },
+            "Wayne Sermon": {
+                "args": []
+            },
+            "Dan Kay Reynolds": {
+                "args": []
+            },
+            "Mychael Bates": {
+                "args": []
+            },
+            "Macsen Lintz": {
+                "args": []
+            },
+            "Hillary Harley": {
+                "args": []
+            },
+            "Gary Weeks (II)": {
+                "args": []
+            },
+            "Sofia Black-D'Elia": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_project almanac has enough heart and brains to keep it steady even as the camera isn't, and its wires-and-widgets variation on \"the monkey's paw\" is very much informed and improved by the charm and capabilities of its young cast.",
+                0.7537991614862072
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_ugly, unfocused photography makes it impossible to enjoy the film beyond its theoretical novelty.",
+                0.5177580152917433
+            ],
+            [
+                "4_maybe it will work better on home video where unrestrained camera movement is less likely to provoke nausea ",
+                -0.5870364239336234
+            ],
+            [
+                "4_ it certainly doesn't work on a big screen.",
+                -0.7704646396180939
+            ],
+            [
+                "5_on the whole, this is a good b-movie that hits it modest marks.",
+                0.728209519902013
+            ],
+            [
+                "9_ making it work on screen is even harder.",
+                -0.6157628009350588
+            ],
+            [
+                "10_self-awareness doesn't save the film from fizzling.",
+                -0.7031209281254633
+            ],
+            [
+                "12_\"project almanac\" feels like a leap backward.",
+                -0.6756315769843627
+            ],
+            [
+                "19_what have we done to deserve another found-footage movie?",
+                -0.5759127768688189
+            ],
+            [
+                "20_project almanac has enough heart and brains to keep it steady even as the camera isn't, and its wires-and-widgets variation on \"the monkey's paw\" is very much informed and improved by the charm and capabilities of its young cast.",
+                0.7537991614862072
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dean Israelite": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

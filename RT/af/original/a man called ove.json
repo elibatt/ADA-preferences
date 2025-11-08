@@ -1,0 +1,150 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_a man called ove hits all of the genre's sweet spots, without ever tipping into the saccharine.",
+                0.7768626906841138
+            ],
+            [
+                "5_lassgard manages to keep us from completely hating and giving up on him at the beginning of the film - no small trick - and allows us to care for him without engaging in maudlin sentimentality at the end.",
+                0.5026036564649435
+            ],
+            [
+                "7_\"a man called ove\" starts out gruff and unlikable and more than a bit stereotypical.",
+                -0.6741436968249246
+            ],
+            [
+                "10_holm tweaks expectations with the way he presents the material, and his grip on the film's tricky, tragicomic tone is masterful.",
+                0.8586121211500773
+            ],
+            [
+                "11_holm assumes the audience requires ample evidence of ove's goodness, and the film loses its footing in backstory melodrama.",
+                0.5201936310444918
+            ],
+            [
+                "13_two of the most hackneyed scenes in any movie are the comically interrupted suicide attempt and the lonely soliloquy addressed to a dead spouse's headstone",
+                -0.5990709723375216
+            ],
+            [
+                "15_ he's most of it, and he's rock steady without being predictable, or falling into easy caricature, even when the movie veers that way.",
+                0.7422563152801469
+            ],
+            [
+                "17_\"a man called ove\" has some tear-jerking moments, ",
+                0.591497364480052
+            ],
+            [
+                "17_ the film is so carefully designed - with long, circular takes that seem to surround the main characters at crucial fateful points - that technique often triumphs over sentimentality.",
+                0.503531732152465
+            ],
+            [
+                "19_a man called ove - preaching tolerant togetherness as the key to happiness - earns its sentimentality by striking a delicate balance between barking-mad comedy and syrupy melodrama.",
+                0.6451105256528225
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Hannes Holm": {
+                "args": [
+                    [
+                        "12_this modest dramedy, deftly directed by hannes holm from the best-selling novel by fredrik backman, is as sweetly sincere as it is market-driven, with gusts of saving black comedy rolling in to rescue it from excess goo.",
+                        0.7842756904211976
+                    ],
+                    [
+                        "18_incorporating fluid flashbacks and snippets of narration that refreshingly serve to enhance rather than distract, director-writer hannes holm maintains a gentle, lyrical flow while coaxing fine performances from a diverse cast.",
+                        0.813001778965576
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "18_incorporating fluid flashbacks and snippets of narration that refreshingly serve to enhance rather than distract, director-writer hannes holm maintains a gentle, lyrical flow while coaxing fine performances from a diverse cast.",
+                0.813001778965576
+            ]
+        ],
+        "entities": {
+            "Poyan Karimi": {
+                "args": []
+            },
+            "Rolf Lassgård": {
+                "args": [
+                    [
+                        "8_a man called ove won me over - if for no other reason than lassgård's formidable talent for playing such an utterly pitiless, nihilistic jerk.",
+                        0.5161384515430363
+                    ]
+                ]
+            },
+            "Stefan Godicke": {
+                "args": []
+            },
+            "Johan Widerberg": {
+                "args": []
+            },
+            "Simeon Lindgren": {
+                "args": []
+            },
+            "Poyan Kamiri": {
+                "args": []
+            },
+            "Chatarina Larsson": {
+                "args": []
+            },
+            "Tobias Almborg": {
+                "args": []
+            },
+            "Ida Engvoll": {
+                "args": []
+            },
+            "Filip Berg": {
+                "args": []
+            },
+            "Anna-Lena Bergelin": {
+                "args": []
+            },
+            "Fredrik Evers": {
+                "args": []
+            },
+            "Klas Wiljergard": {
+                "args": []
+            },
+            "Stefan Gödicke": {
+                "args": []
+            },
+            "Borje Lundberg": {
+                "args": []
+            },
+            "Bahar Pars": {
+                "args": []
+            },
+            "Maja Rung": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_ the title character gets them both, multiple times, in this slow and obvious swedish drama.",
+                -0.6758501927758293
+            ],
+            [
+                "18_incorporating fluid flashbacks and snippets of narration that refreshingly serve to enhance rather than distract, director-writer hannes holm maintains a gentle, lyrical flow while coaxing fine performances from a diverse cast.",
+                0.813001778965576
+            ]
+        ],
+        "entities": {
+            "Hannes Holm": {
+                "args": []
+            }
+        }
+    }
+}

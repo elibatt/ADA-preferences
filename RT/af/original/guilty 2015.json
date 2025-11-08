@@ -1,0 +1,78 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "0_playing a familiar character type, the world-weary detective, he gives a performance, full of small, sly details, that doesn't seem familiar at all.",
+                0.638914327247867
+            ]
+        ],
+        "entities": {
+            "Konkona Sen Sharma": {
+                "args": []
+            },
+            "Neeraj Kabi": {
+                "args": []
+            },
+            "Ayesha Parveen": {
+                "args": []
+            },
+            "Prakash Belawadi": {
+                "args": []
+            },
+            "Atul Kumar": {
+                "args": []
+            },
+            "Sohum Shah": {
+                "args": []
+            },
+            "Gajraj Rao": {
+                "args": []
+            },
+            "Irrfan Khan": {
+                "args": [
+                    [
+                        "0_mr. khan is this movie's best weapon.",
+                        0.6702219903061535
+                    ]
+                ]
+            },
+            "Shishir Sharma": {
+                "args": []
+            },
+            "Sumit Gulati": {
+                "args": []
+            },
+            "Tabu": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Meghna Gulzar": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_playing a familiar character type, the world-weary detective, he gives a performance, full of small, sly details, that doesn't seem familiar at all.",
+                0.638914327247867
+            ]
+        ],
+        "entities": {
+            "Vishal Bhardwaj": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    }
+}

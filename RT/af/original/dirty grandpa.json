@@ -1,0 +1,210 @@
+{
+    "writer": {
+        "entities": {
+            "John Phillips": {
+                "args": []
+            },
+            "John Philips": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_\"dirty grandpa\" gets ugly-drunk on its title character's preening smugness:",
+                -0.6704847371114466
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Dan Mazer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a movie that desperately wants to be a raunchy, politically incorrect, gross-out comedy.",
+                -0.7854019376356653
+            ],
+            [
+                "1_therefore, the film isn't actually offensive because it's trying so hard to be and failing miserably.",
+                -0.8228444919390955
+            ],
+            [
+                "3_\"dirty grandpa\" is like watching a friend's mediocre improv troupe do an extended spring-break sketch.",
+                -0.6657851720997904
+            ],
+            [
+                "4_crude in nearly every sense of the word, \"dirty grandpa\" is a nasty-humored, poorly made and desperately unfunny film.",
+                -0.6426496139513035
+            ],
+            [
+                "8_dirty grandpa feels like spending 100-plus minutes with a scatalogical toddler, proudly showing you what he made in his diaper.",
+                -0.5452536093207601
+            ],
+            [
+                "9_\"dirty grandpa\" gets ugly-drunk on its title character's preening smugness:",
+                -0.6704847371114466
+            ],
+            [
+                "11_dirty grandpa does have one distinction.",
+                -0.5980505933777952
+            ],
+            [
+                "13_it can be definitively stated that dirty grandpa is utterly unfunny.",
+                -0.799491221902253
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Amelia Brain": {
+                "args": []
+            },
+            "Blaque Fowler": {
+                "args": []
+            },
+            "Shawn Shepard": {
+                "args": []
+            },
+            "Michaele Chappell": {
+                "args": []
+            },
+            "Aubrey Plaza": {
+                "args": []
+            },
+            "Chandler Darby": {
+                "args": []
+            },
+            "Gavin Munn": {
+                "args": []
+            },
+            "Nelson Bonilla": {
+                "args": []
+            },
+            "Adam Pally": {
+                "args": []
+            },
+            "DeRon Horton": {
+                "args": []
+            },
+            "Jeffrey Bowyer-Chapman": {
+                "args": []
+            },
+            "Eric Goins": {
+                "args": []
+            },
+            "Eugenia Kuzmina": {
+                "args": []
+            },
+            "Catherine Dyer": {
+                "args": []
+            },
+            "Brandon Mychal Smith": {
+                "args": []
+            },
+            "Henry Zebrowski": {
+                "args": []
+            },
+            "Stephanie Astalos-Jones": {
+                "args": []
+            },
+            "Jake Picking": {
+                "args": []
+            },
+            "Zac Efron": {
+                "args": []
+            },
+            "Wiley Rinaldi": {
+                "args": []
+            },
+            "Matthew Cornwell": {
+                "args": []
+            },
+            "Lane Carlock": {
+                "args": []
+            },
+            "Mo Collins": {
+                "args": []
+            },
+            "Julianne Hough": {
+                "args": []
+            },
+            "Paul Manzella": {
+                "args": []
+            },
+            "Salley Hooks": {
+                "args": []
+            },
+            "Dermot Mulroney": {
+                "args": []
+            },
+            "Warren Steele": {
+                "args": []
+            },
+            "Zoey Deutch": {
+                "args": []
+            },
+            "Deena Dill": {
+                "args": []
+            },
+            "Chris Setticase": {
+                "args": []
+            },
+            "Michael H. Cole": {
+                "args": []
+            },
+            "Michael Hudson": {
+                "args": []
+            },
+            "Robert De Niro": {
+                "args": [
+                    [
+                        "3_and your friend just happens to be robert de niro.",
+                        -0.5068836424887558
+                    ],
+                    [
+                        "5_late-era de niro forever, y'all.",
+                        0.6011339639727733
+                    ],
+                    [
+                        "7_if dirty grandpa does anything, it should be to make you stop weeping for de niro's lost greatness.",
+                        -0.6737391449650015
+                    ],
+                    [
+                        "11_it makes de niro's previous comedy low point meet the fockers look good by comparison.",
+                        -0.5124411451160595
+                    ],
+                    [
+                        "12_there's little chemistry between a sadly unfunny efron and a sleepwalking de niro, and both jason's awakening and dick's plotting feel forced.",
+                        -0.6850456822586231
+                    ],
+                    [
+                        "14_robert de niro hits rock-bottom opposite zac efron in this atrocious excuse for a comedy.",
+                        -0.6994222222711672
+                    ]
+                ]
+            },
+            "Amy Parrish": {
+                "args": []
+            },
+            "Joshua Mikel": {
+                "args": []
+            },
+            "Jason Mantzoukas": {
+                "args": []
+            },
+            "Danny Glover": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "acting": {
+        "args": [
+            [
+                "4_a flat-out disaster, the kind of film that its cast and crew hope gets buried as quickly as possible as they race to move on to other projects.",
+                -0.7205111994630192
+            ]
+        ],
+        "entities": {
+            "Mark O'Neal": {
+                "args": []
+            },
+            "Christian McKay": {
+                "args": []
+            },
+            "Bradley Cooper": {
+                "args": [
+                    [
+                        "19_worse is bradley cooper, whose pemberton comes off like an entitled scion, not a clear-cut timber king.",
+                        -0.6275468770575874
+                    ],
+                    [
+                        "21_ the credible, bulked-up pain that cooper brought to \"american sniper\" seems a world away.",
+                        0.5240551971769716
+                    ]
+                ]
+            },
+            "Charity Wakefield": {
+                "args": []
+            },
+            "Sean Harris": {
+                "args": []
+            },
+            "Jennifer Lawrence": {
+                "args": [
+                    [
+                        "8_what were bradley cooper and jennifer lawrence thinking?",
+                        -0.6667966574556471
+                    ],
+                    [
+                        "26_a depression-era potboiler starring bradley cooper and jennifer lawrence that never manages to get past the feeling of a calculated hollywood reunion.",
+                        -0.7192585399938952
+                    ]
+                ]
+            },
+            "David Dencik": {
+                "args": []
+            },
+            "Blake Ritson": {
+                "args": []
+            },
+            "Jim High": {
+                "args": []
+            },
+            "Rhys Ifans": {
+                "args": []
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "Michael Ryan": {
+                "args": []
+            },
+            "Ned Dennehy": {
+                "args": []
+            },
+            "Sam Reid": {
+                "args": []
+            },
+            "Ana Ularu": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_and the only thing gleaned from the lumber industry is that you can build an entire movie from performances made of wood.",
+                -0.6152033595458073
+            ],
+            [
+                "4_a flat-out disaster, the kind of film that its cast and crew hope gets buried as quickly as possible as they race to move on to other projects.",
+                -0.7205111994630192
+            ],
+            [
+                "9_\" it's not her best film, ",
+                0.7838605001349159
+            ],
+            [
+                "10_beating a dead horse barely begins to describe the task of writing about \"serena\"",
+                -0.7903188828067972
+            ],
+            [
+                "12_ \"serena\" uses muscles the costars of \"silver linings playbook\" and \"american hustle\" stars don't often get to flex.",
+                -0.5340318138686402
+            ],
+            [
+                "16_left for dead since 2012, serena would better serve its stars by burial, not resurrection.",
+                -0.7294868670590398
+            ],
+            [
+                "20_the film is haunted by a sense that something was overlooked in translation from the book.",
+                -0.5161282656149991
+            ],
+            [
+                "22_filmed in 2012 and finally limping into theaters like a glamorous zombie, the movie has star wattage ",
+                0.6306903561199775
+            ],
+            [
+                "24_the choppily edited and thoroughly wooden \"serena'' fails to catch fire, even when everything literally goes up in flames.",
+                -0.8397687464872992
+            ],
+            [
+                "27_we don't invest anything in either character, and with barely any tension, 'serena' grabs neither head nor heart.",
+                -0.8273757104927173
+            ],
+            [
+                "28_serena only has one key flaw: it is difficult to believe a single word of it, still less to care about these relentlessly selfish and short-sighted characters.",
+                -0.8169924702599882
+            ],
+            [
+                "29_this is a film full of unremarkable compromises - the kind that result in a bland film rather than a bad one.",
+                -0.7910739302371886
+            ],
+            [
+                "30_bier's danish-language work, usually structurally and emotionally cohesive to a fault, has rarely been this compellingly untidy.",
+                -0.5263643888104568
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Susanne Bier": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_beating a dead horse barely begins to describe the task of writing about \"serena\"",
+                -0.7903188828067972
+            ],
+            [
+                "27_we don't invest anything in either character, and with barely any tension, 'serena' grabs neither head nor heart.",
+                -0.8273757104927173
+            ]
+        ],
+        "entities": {
+            "Christopher Kyle": {
+                "args": []
+            }
+        }
+    }
+}

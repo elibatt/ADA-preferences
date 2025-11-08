@@ -1,0 +1,95 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"an honest liar\" is a fascinating look at what the truth means, and how it means different things to different people.",
+                0.6930617028850073
+            ],
+            [
+                "4_randi's a sly charmer, and an engaging guide through the film ...",
+                0.8131258869274716
+            ],
+            [
+                "7_their film is as smooth as randi's patter and demonstrates how the documentarian's camera is quicker than the eye.",
+                0.7397713711420837
+            ],
+            [
+                "8_in the end, \"an honest liar\" becomes a far more layered tale than it starts out to be.",
+                0.5470076011383153
+            ],
+            [
+                "10_\"an honest liar\" isn't simply a career recap or a fond portrait",
+                0.560910647167283
+            ],
+            [
+                "12_the film deserves to be seen, and admired, for its own revelations, and for its unlikely, yet deeply affecting, transformation into a story of abiding love that, in its own turn, involves a deception.",
+                0.8242210627839
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Justin Weinstein": {
+                "args": [
+                    [
+                        "7_it would violate a taboo to relate how this movie magic, masterfully orchestrated by weinstein and measom, is done.",
+                        0.6340698229542547
+                    ],
+                    [
+                        "10_ the movie takes exhilarating turns as directors justin weinstein and tyler measom follow present-day developments in randi's personal life.",
+                        0.8049742745466766
+                    ],
+                    [
+                        "11_documenting a lifetime spent gulling audiences and pursuing con men, the directors justin weinstein and tyler measom have produced a jaunty, jovial portrait with a surprising sting in its tail.",
+                        0.793659365235749
+                    ],
+                    [
+                        "18_directors tyler measom and justin weinstein turn a standard bio-doc about an extraordinary man into a rumination on the blurred line between trickery and truth.",
+                        0.6971217847984752
+                    ]
+                ]
+            },
+            "Tyler Measom": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "9_a worthwhile portrayal of an intelligent and skilled old-school conjuror who can look the audience in the eye and say, \"i'm a deceiver and i'm going to deceive you,\" and then do just that.",
+                0.8233061683566392
+            ]
+        ],
+        "entities": {
+            "Alice Cooper": {
+                "args": []
+            },
+            "Adam Savage": {
+                "args": []
+            },
+            "Bill Nye": {
+                "args": []
+            },
+            "Penn Jillette": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Greg O'Toole": {
+                "args": []
+            },
+            "Tyler Measom": {
+                "args": []
+            }
+        }
+    }
+}

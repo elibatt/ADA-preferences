@@ -1,0 +1,160 @@
+{
+    "writer": {
+        "entities": {
+            "Anna Rose Holmer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_ narrative film from writer-director anna rose holmer possesses a refreshingly intimate, honest tone about adolescence.",
+                0.8437387411467523
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Anna Rose Holmer": {
+                "args": [
+                    [
+                        "3_[holmer] and cinematographer paul yee infuse the community center, in and around which the entire film takes place, with elements of magical realism to accentuate the protagonist's passage from childhood into adolescence.",
+                        0.6077605652645779
+                    ],
+                    [
+                        "15_a singular first feature from the young director anna rose holmer, who's made a movie that can feel like a memory.",
+                        0.7950111289215428
+                    ],
+                    [
+                        "19_ narrative film from writer-director anna rose holmer possesses a refreshingly intimate, honest tone about adolescence.",
+                        0.8437387411467523
+                    ],
+                    [
+                        "23_even at its conclusion, holmer's film refuses to provide easy answers regarding its meaning, instead using poised formal techniques to impart that which is not spoken.",
+                        0.7712485014458738
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_what the movie lacks in narrative it makes up for in mood and invention.",
+                0.7784408215849526
+            ],
+            [
+                "2_using a lot of real-life west end of cincinnati dancers and athletes in the cast lends the film an authentic feel without ever feeling amateurish, and the specificity of toni's story resonates outward.",
+                0.7398770148132287
+            ],
+            [
+                "4_the movie is a nearly perfect thing, made with such assurance that every shot holds weight and widens your heart.",
+                0.7228813027981871
+            ],
+            [
+                "6_it's gorgeous, poetic, and opaque, and i've never seen any other movie like it.",
+                -0.5507880757580997
+            ],
+            [
+                "7_\"the fits\" and its electrifying young star give getting in formation renewed meaning, with inspiring, self-assured verve.",
+                0.7379819731880987
+            ],
+            [
+                "8_you honestly don't know what to expect, and when the film is done, you're not exactly sure what has happened.",
+                -0.6102708308958894
+            ],
+            [
+                "10_watching the girls defy gravity as they whirl into scary, seductive, hallucinatory patterns, you realize the fits is more than a transporting film experience.",
+                0.5847611559160392
+            ],
+            [
+                "11_\"the fits\" pulls you in and won't let go.",
+                0.5274620537101987
+            ],
+            [
+                "12_the fits is a movie that, if examined scene by scene and frame by frame, confirms its own uniqueness the way a conservationist might identify a member of an endangered species.",
+                0.650556680556232
+            ],
+            [
+                "14_\"the fits\" is the kind of film that asks more questions than it answers.",
+                0.7891492366668328
+            ],
+            [
+                "17_the fits riffs on the power and mystery of adolescent beauty, and on the joy of what it means to move.",
+                0.8373469076628088
+            ],
+            [
+                "18_part of what's so terrific about the fits is that so much of it is open to interpretation, even ",
+                0.6602563284222396
+            ],
+            [
+                "18_ the film as a whole isn't that oblique.",
+                -0.5965394490085019
+            ],
+            [
+                "19_the modesty of this movie's design has its own sneaky power.",
+                -0.5113977228797256
+            ],
+            [
+                "22_the movie's natural sweetness vibrates with mysteries.",
+                0.6975943566452698
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Lauren Gibson": {
+                "args": []
+            },
+            "Alexis Neblett": {
+                "args": []
+            },
+            "Inayah Rodgers": {
+                "args": []
+            },
+            "Antonio A.B. Grant Jr.": {
+                "args": []
+            },
+            "The Q-Kidz Dance Team": {
+                "args": [
+                    [
+                        "21_holmer films the story as if it were a dance performance, one where differences in movement and posture say more than words ever could.",
+                        0.6526350323174066
+                    ]
+                ]
+            },
+            "Royalty Hightower": {
+                "args": [
+                    [
+                        "5_it's a curious world that toni is entering, and hightower's quiet watchfulness takes it all in.",
+                        0.7473926705407129
+                    ],
+                    [
+                        "6_like its lead royalty hightower, whose performance is just as spectacular as her name, the fits is impossible to look away from.",
+                        0.739174401061091
+                    ]
+                ]
+            },
+            "Makyla Burnam": {
+                "args": []
+            },
+            "De'Sean Minor": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_using a lot of real-life west end of cincinnati dancers and athletes in the cast lends the film an authentic feel without ever feeling amateurish, and the specificity of toni's story resonates outward.",
+                0.7398770148132287
+            ],
+            [
+                "13_a confident blend of performance, kineticism, and tone",
+                0.7246511537257393
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

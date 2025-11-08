@@ -1,0 +1,166 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Eric Toledano": {
+                "args": []
+            },
+            "Olivier Nakache": {
+                "args": [
+                    [
+                        "10_mr. toledano and mr. nakache, who wrote the scattered screenplay, have a well-honed touch for comic beats and a feel for workaday details.",
+                        0.7088553883405595
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "6_it's easy to enjoy what the cast does on screen",
+                0.6924720199975601
+            ]
+        ],
+        "entities": {
+            "Omar Sy": {
+                "args": [
+                    [
+                        "4_gainsbourg and sy play off each other wonderfully, emphasizing how these characters relate to each other as people",
+                        0.6851130308057213
+                    ],
+                    [
+                        "8_one needs only to watch his performance in \"samba\" to see sy's old-school natural star power in its purest form.",
+                        0.5427183365453588
+                    ]
+                ]
+            },
+            "Youngar Fall": {
+                "args": []
+            },
+            "Boubacar Joseph Ndiaye": {
+                "args": []
+            },
+            "Jaleleddine Abidi": {
+                "args": []
+            },
+            "Tahar Rahim": {
+                "args": []
+            },
+            "Sabine Pakora": {
+                "args": []
+            },
+            "Mohammed Guelt": {
+                "args": []
+            },
+            "Oumar Makalou": {
+                "args": []
+            },
+            "Izïa Higelin": {
+                "args": []
+            },
+            "Charlotte Gainsbourg": {
+                "args": [
+                    [
+                        "6_ it's harder to buy the nutty mood swings and, as written, gainsbourg's generic trainwreck of a character.",
+                        -0.662851679114613
+                    ]
+                ]
+            },
+            "Jacqueline Jehanneuf": {
+                "args": []
+            },
+            "Sacha Petronijevic": {
+                "args": []
+            },
+            "Issaka Sawadogo": {
+                "args": []
+            },
+            "Eduardo Sainz": {
+                "args": []
+            },
+            "Hélène Vincent": {
+                "args": []
+            },
+            "Roukiata Ouedraogo": {
+                "args": []
+            },
+            "Victor Loukianenko": {
+                "args": []
+            },
+            "Liya Kebede": {
+                "args": []
+            },
+            "Clotilde Mollet": {
+                "args": []
+            },
+            "Christiane Millet": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_ it's harder to buy the nutty mood swings and, as written, gainsbourg's generic trainwreck of a character.",
+                -0.662851679114613
+            ],
+            [
+                "10_mr. toledano and mr. nakache, who wrote the scattered screenplay, have a well-honed touch for comic beats and a feel for workaday details.",
+                0.7088553883405595
+            ]
+        ],
+        "entities": {
+            "Eric Toledano": {
+                "args": []
+            },
+            "Olivier Nakache": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_samba finds a much stronger rhythm when it stops contriving and simply shines a light on the joy and pain (and musical interludes) of lives lived in the margins.",
+                0.7015518713614199
+            ],
+            [
+                "3_\"samba\" tries to be too many things to too many people, ",
+                -0.6832836960342961
+            ],
+            [
+                "5_\"samba\" is loosely plotted and is at least 20 minutes too long.",
+                -0.7724298998621406
+            ],
+            [
+                "5_it seems ready to end half a dozen times before it finally does, with ironic payoffs for samba and alice that are too glib to be satisfying.",
+                -0.5240212952071296
+            ],
+            [
+                "7_as samba, he just seems like a really good guy - honest, hardworking, ethical and also emotionally strong.",
+                0.6556762397612818
+            ],
+            [
+                "11_as would-be crowd pleasers go, \"samba\" tries to please multiple crowds with negligible success.",
+                -0.5821992113756905
+            ],
+            [
+                "12_this is a movie that thinks the deepest way to engage with the race and class issues it raises is by showing an enlightened white woman ... quoting and then dancing to bob marley.",
+                0.6378271839690376
+            ],
+            [
+                "16_a highly polished, widely appealing big-budget french movie.",
+                0.6805592440735847
+            ],
+            [
+                "17_the film's message is lost amid too many plot contrivances.",
+                -0.6310123092870769
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

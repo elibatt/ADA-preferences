@@ -1,0 +1,359 @@
+{
+    "director": {
+        "args": [
+            [
+                "24_hopkins, a prolific producer/director of b movies, moves things at a steady pace through the film's two-plus hours, getting many facts right, fudging a few and ignoring some.",
+                0.7285774094232588
+            ]
+        ],
+        "entities": {
+            "Stephen Hopkins": {
+                "args": [
+                    [
+                        "33_directed by stephen hopkins from a screenplay by joe shrapnel and anna waterhouse, \"race\" is a well-made biopic about owens at the berlin games and the events leading up to his extraordinary accomplishment.",
+                        0.8033011247333016
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stefan Mennekes": {
+                "args": []
+            },
+            "William Hurt": {
+                "args": []
+            },
+            "Jacquy Bidjeck": {
+                "args": []
+            },
+            "Michael Bornhütter": {
+                "args": []
+            },
+            "Jonathan Higgins": {
+                "args": []
+            },
+            "Milo Larratt": {
+                "args": []
+            },
+            "Larry Day": {
+                "args": []
+            },
+            "Jeremy Ferdman": {
+                "args": []
+            },
+            "Rodney Ramsey": {
+                "args": []
+            },
+            "Arthur Holden": {
+                "args": []
+            },
+            "Eli Goree": {
+                "args": []
+            },
+            "Matthew Keyes": {
+                "args": []
+            },
+            "Andrea Carter": {
+                "args": []
+            },
+            "Marcus Bluhm": {
+                "args": []
+            },
+            "Jon McLaren": {
+                "args": []
+            },
+            "Stefan Langel": {
+                "args": []
+            },
+            "Michele Lonsdale Smith": {
+                "args": []
+            },
+            "Carice van Houten": {
+                "args": []
+            },
+            "Jonathan Aris": {
+                "args": []
+            },
+            "Matthias Günther": {
+                "args": []
+            },
+            "Anthony Sherwood": {
+                "args": []
+            },
+            "Kimberly Youance": {
+                "args": []
+            },
+            "John Maclaren": {
+                "args": []
+            },
+            "Bruno Bruni": {
+                "args": []
+            },
+            "Karl Graboshas": {
+                "args": []
+            },
+            "Jacob Andrew Kerr": {
+                "args": []
+            },
+            "Nicholas Woodeson": {
+                "args": []
+            },
+            "Jaa Smith-Johnson": {
+                "args": []
+            },
+            "Aiza Ntibarikure": {
+                "args": []
+            },
+            "James R. Murray": {
+                "args": []
+            },
+            "Jeremy Irons": {
+                "args": []
+            },
+            "Tim Post": {
+                "args": []
+            },
+            "Vlasta Vrana": {
+                "args": []
+            },
+            "Jeff Burrell": {
+                "args": []
+            },
+            "Andrew Moodie": {
+                "args": []
+            },
+            "Dondre Octave": {
+                "args": []
+            },
+            "Jason Sudeikis": {
+                "args": [
+                    [
+                        "26_james makes for a charismatic hero, and former \"saturday night live\" star sudeikis is a revelation as the steadfast snyder.",
+                        0.5384865138606798
+                    ]
+                ]
+            },
+            "Justus Carrière": {
+                "args": []
+            },
+            "Ricky Watson": {
+                "args": []
+            },
+            "Frank Schorpion": {
+                "args": []
+            },
+            "Glynn E. Turman": {
+                "args": []
+            },
+            "Jana Reinhardt": {
+                "args": []
+            },
+            "Jesse Bostick": {
+                "args": []
+            },
+            "Lucinda Davis": {
+                "args": []
+            },
+            "Eric Davis": {
+                "args": []
+            },
+            "Tony Curran": {
+                "args": []
+            },
+            "Moe Jeudy-Lamour": {
+                "args": []
+            },
+            "Anian Zollner": {
+                "args": []
+            },
+            "Barnaby Metschurat": {
+                "args": []
+            },
+            "Gaetan Normandin": {
+                "args": []
+            },
+            "Hank Palmer": {
+                "args": []
+            },
+            "Amanda Crew": {
+                "args": []
+            },
+            "Stephan James": {
+                "args": [
+                    [
+                        "14_ stephan james makes for an appealing star ...",
+                        0.7083368396564047
+                    ]
+                ]
+            },
+            "Shamier Anderson": {
+                "args": []
+            },
+            "David Kross": {
+                "args": []
+            },
+            "Carlo Mestroni": {
+                "args": []
+            },
+            "Kayla Stewart": {
+                "args": []
+            },
+            "Tim McInnerny": {
+                "args": []
+            },
+            "Manuel Sinor": {
+                "args": []
+            },
+            "Chantel Riley": {
+                "args": []
+            },
+            "Yvanna-Rose Leblanc": {
+                "args": []
+            },
+            "Daniel Harroch": {
+                "args": []
+            },
+            "Shanice Banton": {
+                "args": []
+            },
+            "Giacomo Gianniotti": {
+                "args": []
+            },
+            "Adrian Zwicker": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_while the film itself is a sometimes mediocre feel-good sports biography, it's hard not to be swept up by owens' strength of character and seeing his incredible story on screen.",
+                0.5536511460199163
+            ],
+            [
+                "21_the script and direction of \"race\" are both workmanlike and serve the film well, helping us to see owens and snyder as ordinary people with extraordinary gifts.",
+                0.8383759381560812
+            ]
+        ],
+        "entities": {
+            "Anna Waterhouse": {
+                "args": [
+                    [
+                        "33_directed by stephen hopkins from a screenplay by joe shrapnel and anna waterhouse, \"race\" is a well-made biopic about owens at the berlin games and the events leading up to his extraordinary accomplishment.",
+                        0.8033011247333016
+                    ]
+                ]
+            },
+            "Joe Shrapnel": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a glossy, superficial biopic set in a historical context that begs for more, race can at least claim to be one of the two best movies ever made about olympic hero/hitler-embarrasser jesse owens.",
+                0.6661979832182089
+            ],
+            [
+                "2_ race suffers from a lack of ambition.",
+                -0.8481713760835388
+            ],
+            [
+                "3_race is the most timid, lackadaisical movie that could have been made out of potentially classic material.",
+                -0.5830543005013094
+            ],
+            [
+                "4_by the end of race, we don't know much more about him as an individual than we did when the movie began.",
+                -0.5899536786717676
+            ],
+            [
+                "5_race follows the pattern of so many other sports biopics in which it's white patronage that makes black triumphs possible.",
+                -0.5164301884036684
+            ],
+            [
+                "7_ for a film with so much dark, unexplored potential, it's an unsatisfying finish line to cross.",
+                0.5789869683902895
+            ],
+            [
+                "8_hopkins films all the races with suitable élan - since owens was a sprinter, accomplishing his feats in a matter of seconds",
+                0.5329515590330379
+            ],
+            [
+                "9_a so-so movie about an extraordinary athlete.",
+                0.6913217508070493
+            ],
+            [
+                "10_\"race\" tells the story of a brave and gifted and determined man who accomplished great feats during a pivotal moment in world history - ",
+                0.84232480239395
+            ],
+            [
+                "11_while the film itself is a sometimes mediocre feel-good sports biography, it's hard not to be swept up by owens' strength of character and seeing his incredible story on screen.",
+                0.5536511460199163
+            ],
+            [
+                "13_\"race\" wants so badly to get every last bit of the big picture that it dashes past the little details that actually tell a story.",
+                -0.6316624358374168
+            ],
+            [
+                "13_like an over-trained athlete who pulls a hamstring in the big race, the movie tries to do it all and comes up short.",
+                0.5133423412020012
+            ],
+            [
+                "14_\"race\" is disappointing in parts, ",
+                -0.6723203875039379
+            ],
+            [
+                "15_ race isn't as strong as it could be, even if it does include a larger narrative than one man's rise to greatness.",
+                0.544510343223819
+            ],
+            [
+                "16_ jesse owens is a great movie subject.",
+                0.7101644856547041
+            ],
+            [
+                "18_\"race\" reminds us that long before television elevated black sports heroes into gods, there were athletes like jesse owens who paved the way.",
+                0.5582642236798744
+            ],
+            [
+                "19_the film delivers what it promises - an education and a thrill.",
+                0.7006432620823948
+            ],
+            [
+                "20_making a few admirable attempts to complicate what could have been a standard-issue inspirational sports narrative, \"race\" is better than it has to be, ",
+                -0.63674462482072
+            ],
+            [
+                "21_the script and direction of \"race\" are both workmanlike and serve the film well, helping us to see owens and snyder as ordinary people with extraordinary gifts.",
+                0.8383759381560812
+            ],
+            [
+                "23_ \"race\" accomplishes just that.",
+                0.6198662945177421
+            ],
+            [
+                "24_hopkins, a prolific producer/director of b movies, moves things at a steady pace through the film's two-plus hours, getting many facts right, fudging a few and ignoring some.",
+                0.7285774094232588
+            ],
+            [
+                "29_at a time when the oscars and movies, in general, struggle with finding racial balance, two guys of different skin colors coming together for some sports-movie magic is a fitting and truly welcoming lapping of the competition.",
+                0.7944886932850677
+            ],
+            [
+                "34_there are reasons to wish that race...offered a broader, deeper portrait of the man.",
+                0.5820443056517371
+            ],
+            [
+                "35_\"race\" is the story of owens in his finest moments, and it succeeds in telling it.",
+                0.862843159600579
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Steve Jobs": {
+                "args": [
+                    [
+                        "0_despite the movie's journalistic substance, the pleasure-free banality of its style gets in the way of a view of jobs himself,",
+                        0.5935231206792633
+                    ],
+                    [
+                        "2_there is practically nothing in this film that was not already raked over in walter isaacson's 2013 biography or in the many thousands of articles about jobs over the years.",
+                        -0.6169285120104159
+                    ],
+                    [
+                        "4_a complex portrait that gives as much weight to jobs' world-changing talents as to his personal flaws.",
+                        0.7154673803721977
+                    ],
+                    [
+                        "7_mr. gibney, a prolific documentarian, not only charts mr. jobs's extraordinary record of marketing and innovation, ",
+                        0.6822442410455682
+                    ],
+                    [
+                        "8_gibney is certainly good at what he does, and \"steve jobs\" is at its best in providing a brisk summation of the man's life.",
+                        0.9058349965184614
+                    ],
+                    [
+                        "8_or, more accurately, lives, for jobs seemed to have been more people than one would have ",
+                        -0.5178644936034206
+                    ],
+                    [
+                        "10_the fact is that jobs is a slippery subject who often attempted to windowshade the truth.",
+                        0.5807002799834673
+                    ],
+                    [
+                        "11_gibney, much like jobs, takes a lot of existing information and packages it attractively.",
+                        -0.5387460948961824
+                    ],
+                    [
+                        "13_technology was [jobs'] means for engaging the world and fulfilling himself, and he figured out how to make it ours.",
+                        0.6189591934063428
+                    ],
+                    [
+                        "16_it's a necessary corrective to the myths that have grown around steve jobs, obscuring a man who many of us never knew existed.",
+                        0.6323623981475859
+                    ],
+                    [
+                        "19_curiously, the more the film testifies to the unique velocity of jobs's persona, the more routine his story feels.",
+                        0.7468783991496896
+                    ],
+                    [
+                        "25_alex gibney takes on steve jobs and society's ongoing apple addiction in this deeply critical biographical portrait.",
+                        0.6312386709715115
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alex Gibney": {
+                "args": [
+                    [
+                        "1_ the archival footage is well chosen, the interviewees are illuminating, and gibney, as usual, potently synthesizes what's out there.",
+                        0.694819506345751
+                    ],
+                    [
+                        "6_ as gibney's always are.",
+                        0.6431712748768744
+                    ],
+                    [
+                        "7_mr. gibney, a prolific documentarian, not only charts mr. jobs's extraordinary record of marketing and innovation, ",
+                        0.6822442410455682
+                    ],
+                    [
+                        "11_ if the story is familiar, gibney at least tells it in an interesting way.",
+                        0.5375739859660446
+                    ],
+                    [
+                        "18_though gibney doesn't seem to come up with anything truly groundbreaking,",
+                        -0.6942230284108735
+                    ],
+                    [
+                        "25_alex gibney takes on steve jobs and society's ongoing apple addiction in this deeply critical biographical portrait.",
+                        0.6312386709715115
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_ also presents a merciless anatomy of a complicated public character.",
+                -0.5966714394171169
+            ]
+        ],
+        "entities": {
+            "Alex Gibney": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ whose work is as much aesthetic as it is industrial.",
+                0.7026914859441744
+            ],
+            [
+                "6_but it's nonetheless a fascinating film,",
+                0.8353702391040044
+            ],
+            [
+                "14_gibney creates a film that is as visually stunning as it is dramatically charged.",
+                0.8643380645254564
+            ],
+            [
+                "17_the movie feels like an info dump, and since so much of that information is intended to bolster an argument, the man",
+                -0.5869555444180079
+            ],
+            [
+                "20_ the film makes it abundantly clear that he could also be a hardhearted and self-centered s.o.b.",
+                0.7498603977979623
+            ]
+        ]
+    }
+}

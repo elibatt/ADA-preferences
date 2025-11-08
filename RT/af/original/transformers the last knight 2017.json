@@ -1,0 +1,142 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it will not, alas, be the last transformers movie.",
+                -0.708585077339311
+            ],
+            [
+                "4_a movie that's cut like the world's longest and most tedious trailer, pinballing from scene to scene and rarely spending more than a few seconds on any single shot.",
+                -0.7397654596117529
+            ],
+            [
+                "6_all the best moments in the movie-pure images, devoid of symbol and, for that matter, nearly empty of sense-go by too fast, are held too briefly, are developed too little.",
+                -0.5496605477466388
+            ],
+            [
+                "9_a movie that is at once loud yet incoherent, complex yet idiotic, and expensive yet worthless.",
+                -0.801368574424166
+            ],
+            [
+                "11_the movie is shorter than the last one, ",
+                -0.5437534580047466
+            ],
+            [
+                "12_ler and attempt to wring out laughs by uttering the word \"dude\" is painful -- even for a transformers movie.",
+                -0.8152271657123756
+            ],
+            [
+                "14_as if this watered-down independence day scenario weren't enough, the movie keeps veering off in jagged directions.",
+                -0.8201414311594308
+            ],
+            [
+                "23_the grim suspicion grows that the intention here was to make a 2 1/2-hour movie at any cost, even with only 90 minutes worth of material.",
+                -0.8787038636215311
+            ],
+            [
+                "31_the movie redlines its engines throughout, ",
+                0.5712031281865104
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Bay": {
+                "args": [
+                    [
+                        "1_michael bay has promised that this is the last transformers movie he will direct, which is no small relief.",
+                        -0.5831694307837075
+                    ],
+                    [
+                        "2_regardless of our opinions, we all know what a michael bay film is.",
+                        0.6632469960131675
+                    ],
+                    [
+                        "8_every time michael bay directs another transformers abomination (this is the fifth), the movies die a little.",
+                        -0.7112012519358859
+                    ],
+                    [
+                        "33_the kind of dramatic structure james cameron used in his masterful terminator films is an unknown language to bay.",
+                        0.6115010364093554
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Turturro": {
+                "args": []
+            },
+            "Peter Cullen": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": [
+                    [
+                        "20_bay and wahlberg have said this will be their last installment in the franchise.",
+                        -0.5292739833014307
+                    ]
+                ]
+            },
+            "Anthony Hopkins": {
+                "args": [
+                    [
+                        "12_watching an actor of hopkins' caliber swear at his robo-",
+                        -0.5444286098708654
+                    ]
+                ]
+            },
+            "Josh Duhamel": {
+                "args": []
+            },
+            "Ken Watanabe": {
+                "args": []
+            },
+            "Stanley Tucci": {
+                "args": []
+            },
+            "Tyrese Gibson": {
+                "args": []
+            },
+            "Isabela Moner": {
+                "args": []
+            },
+            "Laura Haddock": {
+                "args": []
+            },
+            "John Goodman": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "17_it's hard to imagine anyone reading, let alone writing, the script and believing that it made any sort of sense at all.",
+                -0.6659448262369884
+            ],
+            [
+                "30_anyone capable of explaining the near-incomprehensible storyline deserves a prize of some sort.",
+                -0.5807765836749056
+            ]
+        ],
+        "entities": {
+            "Matt Holloway": {
+                "args": []
+            },
+            "Art Marcum": {
+                "args": []
+            },
+            "Ken Nolan": {
+                "args": []
+            }
+        }
+    }
+}

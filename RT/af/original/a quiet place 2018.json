@@ -1,0 +1,250 @@
+{
+    "writer": {
+        "entities": {
+            "John Krasinski": {
+                "args": []
+            },
+            "Bryan Woods": {
+                "args": [
+                    [
+                        "17_working from a script he wrote with bryan woods and scott beck, director krasinski exhibits a sure sense of what will hold the audience, moment to moment.",
+                        0.590914250490068
+                    ]
+                ]
+            },
+            "Scott Beck": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Noah Jupe": {
+                "args": []
+            },
+            "Millicent Simmonds": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": [
+                    [
+                        "21_emily blunt delivers a tour de force of silent emotion as approaching monsters fry your nerves to a frazzle.",
+                        0.6592471743258977
+                    ],
+                    [
+                        "29_but he wisely throws most of the movie to emily blunt,",
+                        0.6204922772515166
+                    ],
+                    [
+                        "31_a quiet place is completely gripping, and in a film fully reliant on facial communication, exquisitely acted by those amazing kids, and by krasinski and blunt, who've never been better.",
+                        0.8005914341564057
+                    ]
+                ]
+            },
+            "Leon Russom": {
+                "args": []
+            },
+            "Cade Woodward": {
+                "args": []
+            },
+            "John Krasinski": {
+                "args": [
+                    [
+                        "8_like aliens retooled as a militant librarian's fantasy, john krasinski's relentless shocker thrives on a nifty premise.",
+                        -0.5520112633161482
+                    ],
+                    [
+                        "16_a creeping, increasingly queasy sense of dread pervades \"a quiet place,\" john krasinski's nervy thriller that marks a notable addition to the recent spate of smart, timely genre pictures.",
+                        0.8394182912719563
+                    ],
+                    [
+                        "17_working from a script he wrote with bryan woods and scott beck, director krasinski exhibits a sure sense of what will hold the audience, moment to moment.",
+                        0.590914250490068
+                    ],
+                    [
+                        "21_director-star krasinski creates a new horror classic about a family that can only stay alive if no one makes a sound.",
+                        0.5854965882274745
+                    ],
+                    [
+                        "24_ krasinski's treatment of it is unadorned and fresh.",
+                        0.6224803727612495
+                    ],
+                    [
+                        "38_directed with first-rate visual flair by john krasinski (who knew?), this riveting near-silent thriller exudes the despair of a broken world with the concision of a cormac mccarthy novel folded into a simplistic b-movie premise.",
+                        0.5615709436793911
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "25_in its convincing portrayal of a situation where a rusty nail is as lethal as an unexploded bomb, and the few remaining inhabitants seem - much like the audience - more likely to die of stress than anything else, the movie rocks.",
+                -0.6761664628746211
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_this is a movie about the sound of fear, ",
+                0.5802440377002194
+            ],
+            [
+                "2_but there are moments when the movie takes us firmly by the hand and escorts us down a darkened path,",
+                0.6649019467555797
+            ],
+            [
+                "2_ and they lead to one of the most profound of communal pleasures: the sound of a movie audience screaming as one.",
+                0.5564410939336614
+            ],
+            [
+                "3_a quiet place is a superb exercise in understated terror that puts to shame \"horror\" films that rely on jump scares and cheap theatrics.",
+                0.6231350622438384
+            ],
+            [
+                "4_a quiet place is an undoubtedly taxing affair for the nerves",
+                0.6742814608523635
+            ],
+            [
+                "7_\"a quiet place\" is a bold experiment in fear with a triumphant payoff.",
+                0.7252441157667289
+            ],
+            [
+                "9_this is the kind of film that delivers on about 75 percent of its promise and has you looking forward to the time when the director hits something all the way out of the park.",
+                0.680731908616542
+            ],
+            [
+                "13_i can't recall the last time i found myself caring as intently for the characters in a horror picture as i did for the family in \"a quiet place\"...",
+                0.5430606723629685
+            ],
+            [
+                "14_\"a quiet place\" is a jalapeño popper of a movie - fast, filling and punchy - and a likable throwback to the films of m. night shyamalan.",
+                0.7706677747863221
+            ],
+            [
+                "15_krasinski's film is also as much or more about a family in crisis, making it a powerful ride that never forgets its b-movie roots (that's a good thing).",
+                0.8824571651632244
+            ],
+            [
+                "19_if you're looking for a film that will keep you thrillingly off-balance, this is the place.",
+                0.6671462079189125
+            ],
+            [
+                "20_a quiet place amps its fear with a simple \"shhh.\"",
+                0.735081392369293
+            ],
+            [
+                "22_despite a somewhat too tidy ending, it's a terrific movie,",
+                0.6371206206057407
+            ],
+            [
+                "23_a quiet place is brief, taut and often quite terrifying.",
+                0.7324776242270622
+            ],
+            [
+                "24_the movie grabs you at the start and never lets go.",
+                0.682504491651353
+            ],
+            [
+                "25_in its convincing portrayal of a situation where a rusty nail is as lethal as an unexploded bomb, and the few remaining inhabitants seem - much like the audience - more likely to die of stress than anything else, the movie rocks.",
+                -0.6761664628746211
+            ],
+            [
+                "27_what makes a quiet place such a terrifying entry in the genre is that you need to know when to cover your ears.",
+                0.7738887871265324
+            ],
+            [
+                "28_it is smart, it moves fast, it has a hugely satisfying ending -- and it deserves to attract a much broader audience than the usual horror film devotees.",
+                0.7364673721584559
+            ],
+            [
+                "29_ who turns out to be a strong silent film actress.",
+                0.6943908338106282
+            ],
+            [
+                "30_at just 90 minutes, a quiet place is brisk, ",
+                0.5454411695680591
+            ],
+            [
+                "32_\"a quiet place\" is the one film where, if you are surrounded by popcorn-crunching, cellophane rattling and cell-phone-chatting neighbors, you will wish these monsters were real.",
+                0.7911314339133099
+            ],
+            [
+                "35_when a quiet place has one finger on the panic ",
+                0.6523280720283193
+            ],
+            [
+                "36_a tight thrill ride-the kind of movie that quickens the heart rate and plays with the expectations of the audience, while never treating them like idiots.",
+                0.7075362229564167
+            ],
+            [
+                "36_in other words, it's a really good horror movie.",
+                0.6965551231952943
+            ],
+            [
+                "37_sometimes, getting on the clever/whatever wavelength of a horror film and just rolling with can be a part of the fun. \"",
+                0.7637739983918783
+            ],
+            [
+                "37_a quiet place\" is that kind of movie.",
+                0.6719104960592429
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {
+            "terror": {
+                "args": [
+                    [
+                        "3_a quiet place is a superb exercise in understated terror that puts to shame \"horror\" films that rely on jump scares and cheap theatrics.",
+                        0.6231350622438384
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Krasinski": {
+                "args": [
+                    [
+                        "8_like aliens retooled as a militant librarian's fantasy, john krasinski's relentless shocker thrives on a nifty premise.",
+                        -0.5520112633161482
+                    ],
+                    [
+                        "16_a creeping, increasingly queasy sense of dread pervades \"a quiet place,\" john krasinski's nervy thriller that marks a notable addition to the recent spate of smart, timely genre pictures.",
+                        0.8394182912719563
+                    ],
+                    [
+                        "17_working from a script he wrote with bryan woods and scott beck, director krasinski exhibits a sure sense of what will hold the audience, moment to moment.",
+                        0.590914250490068
+                    ],
+                    [
+                        "21_director-star krasinski creates a new horror classic about a family that can only stay alive if no one makes a sound.",
+                        0.5854965882274745
+                    ],
+                    [
+                        "24_ krasinski's treatment of it is unadorned and fresh.",
+                        0.6224803727612495
+                    ],
+                    [
+                        "31_a quiet place is completely gripping, and in a film fully reliant on facial communication, exquisitely acted by those amazing kids, and by krasinski and blunt, who've never been better.",
+                        0.8005914341564057
+                    ],
+                    [
+                        "38_directed with first-rate visual flair by john krasinski (who knew?), this riveting near-silent thriller exudes the despair of a broken world with the concision of a cormac mccarthy novel folded into a simplistic b-movie premise.",
+                        0.5615709436793911
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "9_this is the kind of film that delivers on about 75 percent of its promise and has you looking forward to the time when the director hits something all the way out of the park.",
+                0.680731908616542
+            ]
+        ]
+    }
+}

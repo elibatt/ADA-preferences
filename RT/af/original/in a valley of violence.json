@@ -1,0 +1,115 @@
+{
+    "writer": {
+        "entities": {
+            "Ti West": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Burn Gorman": {
+                "args": []
+            },
+            "Michael Davis": {
+                "args": []
+            },
+            "James Ransone": {
+                "args": []
+            },
+            "Kharrison Sweeney": {
+                "args": []
+            },
+            "Tommy Nohilly": {
+                "args": []
+            },
+            "Jeff Bairstow": {
+                "args": []
+            },
+            "Taissa Farmiga": {
+                "args": []
+            },
+            "Toby Huss": {
+                "args": []
+            },
+            "Karen Gillan": {
+                "args": []
+            },
+            "James E. Lane": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": []
+            },
+            "John Travolta": {
+                "args": []
+            },
+            "James Cady": {
+                "args": []
+            },
+            "Larry Fessenden": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_this smartly cast, vengeance-fueled oater proves mighty entertaining in its own right.",
+                0.7200339469919446
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_announces itself as an unabashed b-movie from its pre-credits scene ... and never worries itself about being anything deeper than that.",
+                0.5565062487894827
+            ],
+            [
+                "2_in a valley of violence does not take itself too seriously (a great asset), ",
+                -0.6011545682595404
+            ],
+            [
+                "3_spiked with dryly funny exchanges and lovingly shot by eric robbins on 35-millimeter film, \"in a valley of violence\" nevertheless feels exasperatingly two-dimensional.",
+                0.6570182647381239
+            ],
+            [
+                "7_in a valley of violence juggles western tropes with the skill of wyatt earp in a gunfight.",
+                0.5592498056386273
+            ],
+            [
+                "13_in a valley of violence plays like a grim, eastwood-style genre revival before some conspicuous tarantino-influenced humor infects its climactic showdown.",
+                -0.5659585798559168
+            ],
+            [
+                "14_ he never seems to find a film worth telling within it.",
+                0.6787923226040284
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ti West": {
+                "args": [
+                    [
+                        "6_writer-director ti west brings not an iota of originality to his handling of this material.",
+                        -0.5060399551466715
+                    ],
+                    [
+                        "9_ west doesn't give his leads enough close-ups for their emotions, desires and fears to be clearly discerned.",
+                        -0.5893651950383366
+                    ],
+                    [
+                        "10_in the final 20 minutes, west seems to finally figure out what kind of a movie he wanted to make.",
+                        -0.7766340384144323
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

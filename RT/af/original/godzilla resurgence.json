@@ -1,0 +1,63 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Shinji Higuchi": {
+                "args": [
+                    [
+                        "3_anno & higuchi's vision of the character is ",
+                        0.591829346660267
+                    ]
+                ]
+            },
+            "Hideaki Anno": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Satomi Ishihara": {
+                "args": []
+            },
+            "Ren Osugi": {
+                "args": []
+            },
+            "Yutaka Takenouchi": {
+                "args": []
+            },
+            "Hiroki Hasegawa": {
+                "args": []
+            },
+            "Akira Emoto": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_anno & higuchi's vision of the character is ",
+                0.591829346660267
+            ]
+        ],
+        "entities": {
+            "Hideaki Anno": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_the film is at its best when it's in parody mode, ",
+                0.766136895514844
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

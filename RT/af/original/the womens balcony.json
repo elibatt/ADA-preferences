@@ -1,0 +1,108 @@
+{
+    "writer": {
+        "entities": {
+            "Shlomit Nehama": {
+                "args": [
+                    [
+                        "1_subtly handled by director emil ben-shimon and screenwriter shlomit nehama and rendered heartfelt and compelling by an outstanding cast.",
+                        0.7042937360492446
+                    ],
+                    [
+                        "7_shlomit nehama's lighthearted and topical script ensure the proceedings not only hit all the right notes, ",
+                        0.5003116057712982
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Orna Banai": {
+                "args": []
+            },
+            "Itzik Cohen": {
+                "args": []
+            },
+            "Haim Zanati": {
+                "args": []
+            },
+            "Einat Sarouf": {
+                "args": []
+            },
+            "Sharon Elimeleh": {
+                "args": []
+            },
+            "Yafit Asulin": {
+                "args": []
+            },
+            "Herzl Tobey": {
+                "args": []
+            },
+            "Igal Naor": {
+                "args": []
+            },
+            "Evelin Hagoel": {
+                "args": []
+            },
+            "Aviv Alush": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_subtly handled by director emil ben-shimon and screenwriter shlomit nehama and rendered heartfelt and compelling by an outstanding cast.",
+                0.7042937360492446
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_it's impossible to resist a film that has such rich characters, and makes a complicated subject both enlightening and entertaining.",
+                0.6745845788440318
+            ],
+            [
+                "6_while the mood is that of a gentle and affectionate comedy, the film makes some extremely sharp points about fanaticism, sexism masked as holiness, and tolerance among the faithful.",
+                0.6926171436718749
+            ],
+            [
+                "8_this light and predictable movie, with its overwhelming box office success, still offers tremendous insight into day-to-day israeli society.",
+                0.7857588242560635
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Emil Ben-Shimon": {
+                "args": [
+                    [
+                        "1_subtly handled by director emil ben-shimon and screenwriter shlomit nehama and rendered heartfelt and compelling by an outstanding cast.",
+                        0.7042937360492446
+                    ],
+                    [
+                        "4_with an eye for artful detail, director emil ben-shimon orchestrates a resolution both plausible and jubilant.",
+                        0.7827995917732029
+                    ],
+                    [
+                        "5_director emil ben-shimon creates a bustling sense of community and injects most scenes with a surprisingly breezy air.",
+                        0.854572351922032
+                    ],
+                    [
+                        "7_emil ben-shimon's smart direction and",
+                        0.7055731669134786
+                    ],
+                    [
+                        "9_director ben-shimon's light touch prevents the film from lapsing either into polemics or overly broad comic shtick.",
+                        0.5921606302662985
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

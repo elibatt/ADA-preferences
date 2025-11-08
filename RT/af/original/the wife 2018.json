@@ -1,0 +1,143 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Annie Starke": {
+                "args": []
+            },
+            "Glenn Close": {
+                "args": [
+                    [
+                        "5_it's a pleasure simply to watch close and pryce establish such minute and careful gradations of happiness, desolation and exasperation in their scenes together.",
+                        0.8014016573929436
+                    ],
+                    [
+                        "6_it would be wrong to say close's performance in \"the wife\" is wasted, ",
+                        -0.6654807106264187
+                    ],
+                    [
+                        "8_ the movie features a terrific performance by jonathan pryce and a flat-out brilliant one from glenn close, who dials up a slow burn for the ages.",
+                        0.569495258848825
+                    ],
+                    [
+                        "9_slater gives what could have been a stereotypical role plenty of spark, and his scenes with close are riveting.",
+                        0.6547463039174536
+                    ],
+                    [
+                        "13_it's close's wonderfully subtle characterization of joan that lifts the wife above its cliché setups and neat role reversals, which is really rather ironic.",
+                        0.6053459647412709
+                    ],
+                    [
+                        "14_strong acting, especially by close, helps the film overcome an uncertain premise and create characters that hold our attention absolutely.",
+                        0.6936435663519782
+                    ],
+                    [
+                        "15_ the film provides glenn close with the kind of rich and meaty role she deserves.",
+                        0.7242970015889743
+                    ],
+                    [
+                        "16_you can't take your eyes off glenn close.",
+                        -0.549483555666991
+                    ],
+                    [
+                        "17_without glenn close, \"the wife\" wouldn't be much to write home about.",
+                        -0.7398164276317922
+                    ],
+                    [
+                        "18_like a bomb ticking away toward detonation, glenn close commands the center of the wife: still, formidable and impossible to look away from.",
+                        -0.6900541965173468
+                    ],
+                    [
+                        "19_[close] is a marvel of twisty understatement here, delivering emotions that conceal as much as they reveal, and offering onion-like layers that invite repeat viewings in light of some of the film's later revelations.",
+                        0.7079642811799295
+                    ]
+                ]
+            },
+            "Max Irons": {
+                "args": []
+            },
+            "Harry Lloyd": {
+                "args": []
+            },
+            "Jonathan Pryce": {
+                "args": []
+            },
+            "Christian Slater": {
+                "args": []
+            },
+            "Elizabeth McGovern": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's a fault of the script, not the actors, that \"the wife\" hangs on such a preposterous through line.",
+                -0.5448262672269442
+            ],
+            [
+                "1_the sort of detailed, a-level film that earns a viewer's respect for its intelligence in a marketplace of mind-numbing hoopla.",
+                0.7058281198123477
+            ],
+            [
+                "2_what unites the film's two halves - what makes it worth watching, period - is the road",
+                0.7944862524740602
+            ],
+            [
+                "3_close might well receive a seventh academy award nomination for the wife.",
+                0.5940047659357258
+            ],
+            [
+                "4_and for a film about a novelist, the wife conveys very little sense of what it's like to read or write.",
+                0.5989956597557039
+            ],
+            [
+                "6_ it certainly deserves a better movie.",
+                0.5350858122238611
+            ],
+            [
+                "7_\"the wife\" offers viewers a chance to observe one of the finest - and most criminally underpraised - actresses of her generation working at the very top of her shrewd, subtle, superbly self-controlled game.",
+                0.8447083394550656
+            ],
+            [
+                "12_\"the wife\" pulls off the not inconsiderable feat of spinning a fundamentally literary premise into an intelligent screen drama that unfolds with real juice and suspense.",
+                0.7743463934895412
+            ],
+            [
+                "13_once again, it's the wife doing all the hard work.",
+                -0.5373811117038906
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Björn Runge": {
+                "args": [
+                    [
+                        "10_swedish director björn runge's approach is no-nonsense and workmanlike, perhaps to give these esteemed actors room to swagger and shine, ",
+                        -0.5990731691544917
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_it's a fault of the script, not the actors, that \"the wife\" hangs on such a preposterous through line.",
+                -0.5448262672269442
+            ]
+        ],
+        "entities": {
+            "Jane Anderson": {
+                "args": []
+            }
+        }
+    }
+}

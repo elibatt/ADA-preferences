@@ -1,0 +1,260 @@
+{
+    "writer": {
+        "args": [
+            [
+                "3_mr. rickman has found in the sun king a character worthy of his imperious, reptilian charisma.",
+                0.6926932565454224
+            ]
+        ],
+        "entities": {
+            "Alan Rickman": {
+                "args": []
+            },
+            "Alison Deegan": {
+                "args": [
+                    [
+                        "13_if rickman, who co-wrote the film with alison deegan and jeremy brock, was beholden to no historical record, why didn't he come up with something more interesting than another tale of tentative courtship in the time of corsets?",
+                        -0.5647081378721536
+                    ]
+                ]
+            },
+            "Jeremy Brock": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_true french historians should simply relax and enjoy a film that takes us on a beautifully photographed cinematic romp into a past as it likely should have been.",
+                0.7407940096208122
+            ],
+            [
+                "2_excitement for a mess like \"a little chaos,\" a lazy and off-puttingly anachronistic feminist fantasy about an 18th-century female landscape designer who finds love while creating...",
+                -0.5583825475862386
+            ],
+            [
+                "6_, is not enough to keep a little chaos in order.",
+                -0.6060095211259455
+            ],
+            [
+                "10_it's a shame such a talented artist couldn't create a more memorable film, ",
+                0.6297808860760117
+            ],
+            [
+                "10_ the overlong \"a little chaos\" bogs down in a lackluster love story.",
+                -0.5419531914517315
+            ],
+            [
+                "11_this is a movie in which everything feels vaguely familiar.",
+                -0.5576748526584752
+            ],
+            [
+                "15_the film certainly doesn't lack for engaging talent - ",
+                -0.6379653741260694
+            ],
+            [
+                "18_this decently acted film is agreeable entertainment, even if it works better on a scene by scene basis than in terms of overall flow.",
+                0.8282404876142596
+            ],
+            [
+                "19_\"a little chaos\" is all too tidy as it imposes a predictable, pat modern sensibility on a most unconvincing depiction of late 17th-century french aristocratic life ...",
+                0.5759222318916677
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "9_ neither he nor the blue-chip cast",
+                -0.7790189766584595
+            ]
+        ],
+        "entities": {
+            "Henry Garrett": {
+                "args": []
+            },
+            "Kirsty Oswald": {
+                "args": []
+            },
+            "Jennifer Ehle": {
+                "args": []
+            },
+            "Stanley Tucci": {
+                "args": [
+                    [
+                        "4_the story comes to life only fitfully, even with - or perhaps because of - its court intrigue and supporting characters both hissable (helen mccrory as andré's wife) and flamboyant (stanley tucci as the king's bisexual brother).",
+                        0.5064167702995306
+                    ]
+                ]
+            },
+            "Jamie Bradley": {
+                "args": []
+            },
+            "Alan Rickman": {
+                "args": [
+                    [
+                        "3_mr. rickman has found in the sun king a character worthy of his imperious, reptilian charisma.",
+                        0.6926932565454224
+                    ],
+                    [
+                        "9_alan rickman was born to play the sun king -- or any king, really -- ",
+                        -0.5405807174427377
+                    ],
+                    [
+                        "13_if rickman, who co-wrote the film with alison deegan and jeremy brock, was beholden to no historical record, why didn't he come up with something more interesting than another tale of tentative courtship in the time of corsets?",
+                        -0.5647081378721536
+                    ]
+                ]
+            },
+            "Fidelis Morgan": {
+                "args": []
+            },
+            "Adam James": {
+                "args": []
+            },
+            "Thomas Allam": {
+                "args": []
+            },
+            "Michelle Newell": {
+                "args": []
+            },
+            "Steven Waddington": {
+                "args": []
+            },
+            "John Wark": {
+                "args": []
+            },
+            "William Spray": {
+                "args": []
+            },
+            "Danny Webb": {
+                "args": []
+            },
+            "Rupert Penry-Jones": {
+                "args": []
+            },
+            "Eleanor Montgomery": {
+                "args": []
+            },
+            "Alistair Petrie": {
+                "args": []
+            },
+            "Angus Wright": {
+                "args": []
+            },
+            "Helen McCrory": {
+                "args": []
+            },
+            "Richard Heap": {
+                "args": []
+            },
+            "Isabella Steinbarth": {
+                "args": []
+            },
+            "Ben Fox": {
+                "args": []
+            },
+            "Mia Threapleton": {
+                "args": []
+            },
+            "Carolina Valdés": {
+                "args": []
+            },
+            "Kristin Milward": {
+                "args": []
+            },
+            "Matthias Schoenaerts": {
+                "args": []
+            },
+            "Hope Hancock": {
+                "args": []
+            },
+            "Pauline Moran": {
+                "args": []
+            },
+            "Cathy Belton": {
+                "args": []
+            },
+            "William Allam": {
+                "args": []
+            },
+            "Andrea Paula Paul": {
+                "args": []
+            },
+            "Ben Roberts": {
+                "args": []
+            },
+            "Kate Winslet": {
+                "args": [
+                    [
+                        "12_ the scenes between winslet and schoenaerts fall flat.",
+                        0.596131825587698
+                    ],
+                    [
+                        "16_schoenaerts and his lack of bodice-busting tension with winslet mirrors the film's transparent, often anachronistic inauthenticity:",
+                        -0.5051181349559208
+                    ],
+                    [
+                        "17_kate winslet, playing a pioneering seventeenth-century gardener in the french court of louis xiv, is the best thing about the film.",
+                        0.801955719365908
+                    ]
+                ]
+            },
+            "Hal Hewetson": {
+                "args": []
+            },
+            "Adrian Scarborough": {
+                "args": []
+            },
+            "Phyllida Law": {
+                "args": []
+            },
+            "Lois Wright": {
+                "args": []
+            },
+            "David Foxxe": {
+                "args": []
+            },
+            "Robin Hooper": {
+                "args": []
+            },
+            "Morgan Watkins": {
+                "args": []
+            },
+            "Adrian Schiller": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "9_he's recruited in his capacity as director can rescue this muddled historical drama.",
+                -0.5788116052756129
+            ]
+        ],
+        "entities": {
+            "Alan Rickman": {
+                "args": [
+                    [
+                        "3_mr. rickman has found in the sun king a character worthy of his imperious, reptilian charisma.",
+                        0.6926932565454224
+                    ],
+                    [
+                        "9_alan rickman was born to play the sun king -- or any king, really -- ",
+                        -0.5405807174427377
+                    ],
+                    [
+                        "13_if rickman, who co-wrote the film with alison deegan and jeremy brock, was beholden to no historical record, why didn't he come up with something more interesting than another tale of tentative courtship in the time of corsets?",
+                        -0.5647081378721536
+                    ]
+                ]
+            }
+        }
+    }
+}

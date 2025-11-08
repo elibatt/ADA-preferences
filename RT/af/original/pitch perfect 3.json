@@ -1,0 +1,158 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_pitch perfect 3 is so breezy",
+                0.7215886310017526
+            ],
+            [
+                "2_as a whole, pitch perfect 3 feels like an encore nobody asked for.",
+                -0.578759745682635
+            ],
+            [
+                "3_the movie is best when it's focused on the music (prepare to hear the dorkiest version of \"toxic\" more times than is healthy), not the silly subplots that have a way of sprouting up around third chapters.",
+                0.5323178918358437
+            ],
+            [
+                "8_an off-key dismantling of what made the concept work in the first place.",
+                0.503053057722721
+            ],
+            [
+                "11_with a plot as unfocused as its freshly graduated characters, the shaggy \"pitch perfect 3\" gets by on karaoke logic:",
+                -0.5966292258323432
+            ],
+            [
+                "12_it's just the same movie over and over, until the end of time and everybody dies, in which case \"pitch perfect 45: a-ca-wait-are-we-dead?\" might be a thing.",
+                -0.5750282331337633
+            ],
+            [
+                "17_\"pitch perfect 3,\" the final chapter in the trilogy of female-forward non-instrumental musical movies, is in many ways the perfect wrap-up.",
+                0.7892821633930538
+            ],
+            [
+                "19_the bellas aren't invested in the film's competition, and the filmmakers' aren't invested in it, and you probably won't be, either.",
+                -0.6233943376178634
+            ],
+            [
+                "24_the movie is bubbly, it's fast,",
+                0.530328562583806
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "18_musical performances by the core cast, and shtick, also by the core cast.",
+                0.7066352507346085
+            ],
+            [
+                "20_if its swan song sometimes feels more like a wild goose chase, plotwise (or maybe a day-drunk penguin), the sheer nutty charisma of its sprawling cast still carries the series out on a pretty sweet high note.",
+                0.6719729408357161
+            ],
+            [
+                "23_whatever charms the first two movies possessed (and they were considerable thanks to the talented and appealing cast) have been thoroughly lost in this soulless installment.",
+                0.5777200809169798
+            ]
+        ],
+        "entities": {
+            "Michael Dean Ester": {
+                "args": []
+            },
+            "Brittany Snow": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": [
+                    [
+                        "15_despite the on-screen intelligence of kendrick, plus a screenplay co-written by mike white, this is a near-plotless,",
+                        -0.5425718270986113
+                    ]
+                ]
+            },
+            "John Michael Higgins": {
+                "args": []
+            },
+            "John Lithgow": {
+                "args": [
+                    [
+                        "25_ even she can't quite finesse or explain john lithgow.",
+                        -0.5075197232822208
+                    ]
+                ]
+            },
+            "Hailee Steinfeld": {
+                "args": []
+            },
+            "Ester Dean": {
+                "args": []
+            },
+            "Ruby Rose": {
+                "args": []
+            },
+            "Rebel Wilson": {
+                "args": [
+                    [
+                        "9_[rebel wilson's] sassy fightin' moves during a gleefully preposterous hostage rescue jumpstart \"pitch perfect 3\" when even the trilogy capper's signature",
+                        0.7275268772397911
+                    ],
+                    [
+                        "25_once the uso tour is set into motion, it falls to wilson to provide much of the humor here, and she is a skilled enough comic to push the narrative over most of its hurdles.",
+                        0.6481267589613742
+                    ]
+                ]
+            },
+            "Elizabeth Banks": {
+                "args": []
+            },
+            "Kelley Jakle": {
+                "args": []
+            },
+            "Chrissie Fit": {
+                "args": []
+            },
+            "Anna Camp": {
+                "args": []
+            },
+            "Shelley Regner": {
+                "args": []
+            },
+            "Alexis Knapp": {
+                "args": []
+            },
+            "Hana Mae Lee": {
+                "args": []
+            },
+            "DJ Khaled": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kay Cannon": {
+                "args": []
+            },
+            "Mike White": {
+                "args": [
+                    [
+                        "15_despite the on-screen intelligence of kendrick, plus a screenplay co-written by mike white, this is a near-plotless,",
+                        -0.5425718270986113
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Trish Sie": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

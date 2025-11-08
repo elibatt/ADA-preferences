@@ -1,0 +1,87 @@
+{
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Marah Strauch": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_you may find \"sunshine superman\" exhilarating or you may find \"sunshine superman\" terrifying, ",
+                0.6256763175174463
+            ],
+            [
+                "6_sunshine superman, named for the donovan song, is about more than just boenish.",
+                0.6099920012268253
+            ],
+            [
+                "11_\"sunshine superman\" might seem like a niche story, with its focus on stunts that most people wouldn't dream of actually doing, ",
+                0.5637125697162869
+            ],
+            [
+                "16_the film, like its subject and everyone who talks about him, is frustratingly short on analysis or insight.",
+                -0.6491642885613493
+            ],
+            [
+                "17_ the film that contains them remains frustratingly earthbound.",
+                0.5886872360544284
+            ],
+            [
+                "18_the exhilarating documentary \"sunshine superman,\" which melds gorgeous aerial photography of boenish's jumps with sublime musical cues, finds in boenish a kind of poet-adventurer, equal parts pixie and desperado.",
+                0.8312632639048071
+            ],
+            [
+                "20_you may not leave sunshine superman wanting to emulate carl and jean, ",
+                -0.5159786896218796
+            ],
+            [
+                "22_if sunshine superman doesn't exactly inspire comprehension of the desire to feel like you're \"flashing through a 20-story building in one second,\" it is immersive enough to induce panic.",
+                -0.6560636724617361
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Marah Strauch": {
+                "args": [
+                    [
+                        "5_ strauch doesn't provide much backstory for her, she emerges as that rarity -- a perfect matchup to a seemingly unmatchable man.",
+                        0.7098001975129812
+                    ],
+                    [
+                        "6_it's about the power of the image, something that strauch uses to great effect.",
+                        0.8546332464264851
+                    ],
+                    [
+                        "9_, strauch's adoring treatment of the boenishes may be a little hard to stomach.",
+                        -0.6447698438853546
+                    ],
+                    [
+                        "13_ unlike \"grizzly man\" director werner herzog, director strauch has little interrogative spirit.",
+                        0.5343110661917903
+                    ],
+                    [
+                        "15_director marah strauch gives the film an exhilarating uplift of its own.",
+                        0.8153509985424452
+                    ],
+                    [
+                        "23_es greatly to his own encomium in sunshine superman, marah strauch's very fine look at the legacy of carl boenish.",
+                        0.7826107752509603
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

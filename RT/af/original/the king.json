@@ -1,0 +1,141 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Emmylou Harris": {
+                "args": []
+            },
+            "Ethan Hawke": {
+                "args": []
+            },
+            "Radney Foster": {
+                "args": []
+            },
+            "Tony Brown": {
+                "args": []
+            },
+            "Chuck D.": {
+                "args": []
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "James Carville": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "14_like the director's other projects, this is intelligent and ambitious, ",
+                0.6790864467622333
+            ]
+        ],
+        "entities": {
+            "Eugene Jarecki": {
+                "args": [
+                    [
+                        "2_filmmaker eugene jarecki does something rather unusual with the king, which becomes something extraordinary and insightful.",
+                        0.7374952555797297
+                    ],
+                    [
+                        "4_with an insistence that borders almost comically on obsession, [director eugene jarecki] forces the singer's life into a larger theory of national decline-the american dream is dead, and elvis is the emblem of its passing.",
+                        0.7302028351780232
+                    ],
+                    [
+                        "7_it's hard to pinpoint exactly when eugene jarecki's one-of-a-kind doc on the rise and fall of elvis turns into a metaphor for trump's america, ",
+                        0.6763787855671896
+                    ],
+                    [
+                        "18_even if one agrees with jarecki's progressive political position, making elvis into a metonym for the nation's spiritual corruption starts to feel too much like a contrived rhetorical sleight of hand.",
+                        -0.5544850501347902
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Christopher St. John": {
+                "args": []
+            },
+            "Eugene Jarecki": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the insistence may inspire a furrowed brow here, a rolled eye there, and a shaken fist or knowing nod over yonder, ",
+                -0.5796722681945934
+            ],
+            [
+                "0_ there's enough earnest comment and good music to make the effort worth seeing and chewing over.",
+                0.7215337491993921
+            ],
+            [
+                "1_the king is something of a stoned cnn special report on wheels.",
+                0.6963101876007398
+            ],
+            [
+                "3_at its best, \"the king\" is a fever dream of american glory and american weirdness - between which there can be an even thinner line than the one separating love from hate.",
+                0.6707291882854339
+            ],
+            [
+                "5_...the movie does so in painfully simplistic terms, with encyclopedia-style snippets of history, authentically pained ",
+                -0.511545753015588
+            ],
+            [
+                "5_ insubstantial musings on \"how we got here,\" and an odd reliance on the comments of celebrities who lack any presley connection...",
+                -0.6001352355082771
+            ],
+            [
+                "6_ its form-an intricate intersecting montage, a flashcard bombardment of images and clips-keeps the film chugging along, just like elvis presley's 1963 rolls-royce phantom v.",
+                0.6970416458851882
+            ],
+            [
+                "8_what carries us through this mad experiment is a sense of commonality through the oral tradition, a reminder that elvis's story is one of our shared myths.",
+                0.6954457030136207
+            ],
+            [
+                "9_perceptive, probing and ultimately devastating, the king is for anyone who cares about where this country has been and where it's headed.",
+                -0.5552943359953683
+            ],
+            [
+                "10_the journey is the destination in a movie that gives you plenty to think about and argue with, as it racks up the miles and people clamber in and out of both the rolls and the movie.",
+                0.8002105362027145
+            ],
+            [
+                "11_the overall merging of the two stories offers deeper insight into the fall of both the king and the country as a whole.",
+                0.8217026878345128
+            ],
+            [
+                "12_what could have been a gentle, personal travelogue is reworked and reworked until it's often guilty of the last sin of elvis - excess.",
+                -0.5379322647565352
+            ],
+            [
+                "13_i'd probably love this film's wandering spirit and elvis-is-everywhere philosophizing if it were half as fast or twice as long, if it pinned any ",
+                -0.5722844556012514
+            ],
+            [
+                "14_like the director's other projects, this is intelligent and ambitious, ",
+                0.6790864467622333
+            ],
+            [
+                "14_ the cultural insights are too familiar to merit yet another trek through presley's troubled life.",
+                -0.6473321459520686
+            ],
+            [
+                "15_two elements - america and elvis - come together in ticklish, surprising ways that expand and delight your perceptions.",
+                0.8734807021238699
+            ]
+        ]
+    }
+}

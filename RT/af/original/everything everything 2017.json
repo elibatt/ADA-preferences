@@ -1,0 +1,99 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_\"everything, everything\" is a flawed film in many ways, ",
+                0.7404518490042806
+            ],
+            [
+                "8_if you're spending the running time of a movie like everything,",
+                -0.555655533379859
+            ],
+            [
+                "9_with fewer longing stares out the window and fewer plot holes, maybe this movie could have turned into something, something.",
+                -0.7236120183862937
+            ],
+            [
+                "10_ it's probably the best philosophy with which to approach this film.",
+                0.8381155552186997
+            ],
+            [
+                "19_and judging by the whooping and hollering at a recent sneak preview, for a romance-starved movie audience, the love story was very, very welcome.",
+                0.6286618276135556
+            ],
+            [
+                "21_the movie reminds you of what it's like to fall in love for the first time, in all its glory and embarrassment.",
+                0.7991790327809575
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Stella Meghie": {
+                "args": [
+                    [
+                        "3_ charisma only goes so far in a story that manages to be, as directed by stella meghie, sterile and wildly far-fetched.",
+                        -0.5112367035342222
+                    ],
+                    [
+                        "5_engrossing and not too sugar-sweet, meghie's movie is slightly paranoid, surprisingly fantastical and superb at translating the overwhelming stupor of first love with big, bold shots and a banging soundtrack.",
+                        0.6532262848536131
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Nick Robinson": {
+                "args": [
+                    [
+                        "3_stenberg and robinson are enormously appealing young actors, ",
+                        0.6872935816766425
+                    ]
+                ]
+            },
+            "Anika Noni Rose": {
+                "args": []
+            },
+            "Farryn VanHumbeck": {
+                "args": []
+            },
+            "Allison Riley": {
+                "args": []
+            },
+            "Taylor Hickson": {
+                "args": []
+            },
+            "Ana de la Reguera": {
+                "args": []
+            },
+            "Danube R. Hermosillo": {
+                "args": []
+            },
+            "Amandla Stenberg": {
+                "args": []
+            },
+            "Robert Lawrenson": {
+                "args": []
+            },
+            "Peter Benson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "J. Mills Goodloe": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

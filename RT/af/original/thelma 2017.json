@@ -1,0 +1,153 @@
+{
+    "acting": {
+        "args": [
+            [
+                "22_ as a queer campus love story, of sorts, thelma has the right temperament, thanks in part to the nakedly vulnerable performance the director coaxes from his lead.",
+                0.8417277617283401
+            ]
+        ],
+        "entities": {
+            "Steinar Kloumann Hallert": {
+                "args": []
+            },
+            "Ingrid Jorgensen Dragland": {
+                "args": []
+            },
+            "Camilla Belsvik": {
+                "args": []
+            },
+            "Henrik Rafaelsen": {
+                "args": []
+            },
+            "Isabel Christine Andreassen": {
+                "args": []
+            },
+            "Eili Harboe": {
+                "args": []
+            },
+            "Marte Magnusdotter Solem": {
+                "args": []
+            },
+            "Sigve Boe": {
+                "args": []
+            },
+            "Ingrid Giæver": {
+                "args": []
+            },
+            "Lars Berge": {
+                "args": []
+            },
+            "Ellen Dorrit Petersen": {
+                "args": []
+            },
+            "Tom Louis Lindstom": {
+                "args": []
+            },
+            "Kaya Wilkins": {
+                "args": []
+            },
+            "Oskar Pask": {
+                "args": []
+            },
+            "Martha Kjørven": {
+                "args": []
+            },
+            "Irina Eidsvold Toien": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"thelma\" treads the line between the psychological and supernatural, gracefully at first, and then with increasing abandon.",
+                0.644751857964637
+            ],
+            [
+                "3_as a hushed, haunting portrait of a young woman reconciling daughterly duty and her own incipient power, \"thelma\" feels like a stylish, timely allegory for the present moment.",
+                0.7414137376318064
+            ],
+            [
+                "4_it's chilly in oslo, and in this movie",
+                0.5005046482831945
+            ],
+            [
+                "7_while the film doesn't entirely deliver on its start, the overall mood remains pricked by a similar sense of doom and shivering unease.",
+                0.6914044545746753
+            ],
+            [
+                "8_ thelma remains a tantalizing gem.",
+                0.6069354394097324
+            ],
+            [
+                "9_\"thelma\" exerts a grip of its own, not least when it presses against other genres, leaching details from both science fiction and horror.",
+                0.676939790556144
+            ],
+            [
+                "12_there's too much undeniably impressive filmmaking to dismiss thelma",
+                -0.5806562370295045
+            ],
+            [
+                "13_trier is a ingenious filmmaker, and he makes thelma visually compelling even when the story lazily turns to the usual scare-flick tropes.",
+                0.7834771245962407
+            ],
+            [
+                "15_with its gray skies, moody ambience and ominous orchestral score, \"thelma\" fits the cliché about scandinavian entertainment being dark as hell - in the best way.",
+                0.7084053501901646
+            ],
+            [
+                "16_thelma doesn't play with pig's blood and jump scares",
+                -0.738723107780981
+            ],
+            [
+                "18_[thelma] links supernatural horror to repressed memories, raging hormones, and fundamentalist zealotry, crafting a sexy and unsettling brain-teaser.",
+                0.7122281802929002
+            ],
+            [
+                "21_thelma's story sticks to your bones like a shiver, and sinks deeper for days after the credits have rolled.",
+                0.5309796265277742
+            ],
+            [
+                "22_ as a queer campus love story, of sorts, thelma has the right temperament, thanks in part to the nakedly vulnerable performance the director coaxes from his lead.",
+                0.8417277617283401
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "22_ as a queer campus love story, of sorts, thelma has the right temperament, thanks in part to the nakedly vulnerable performance the director coaxes from his lead.",
+                0.8417277617283401
+            ]
+        ],
+        "entities": {
+            "Joachim Trier": {
+                "args": [
+                    [
+                        "11_the dread in thelma is not so easy to pin down, coming as it does almost totally through trier's choice of visuals.",
+                        -0.5089665524116214
+                    ],
+                    [
+                        "20_at times a tad too subtle, \"thelma\" is nonetheless an unnervingly effective slow-burn, and those with the patience for trier's patient accumulation of detail will find it pays off in unexpected ways.",
+                        0.8006397308067517
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Eskil Vogt": {
+                "args": []
+            },
+            "Joachim Trier": {
+                "args": []
+            }
+        }
+    }
+}

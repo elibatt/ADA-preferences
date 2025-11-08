@@ -1,0 +1,171 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_ in its comfortable ways there’s still a strong message.",
+                0.7719433811923069
+            ],
+            [
+                "16_what’s best about the duke are its witty grace notes.",
+                0.8190482762229843
+            ],
+            [
+                "12_the story is charming, the performances are exceptional.",
+                0.8002735054103596
+            ],
+            [
+                "11_\"the duke\" is completely agreeable, and pleasant, ",
+                0.7576057587691727
+            ],
+            [
+                "2_it’s a daft, lovely story, and it opens up like a flower – the final half hour is deeply and unexpectedly moving.",
+                0.7137554341721553
+            ],
+            [
+                "4_this messing around with chronology could feel manipulative if the stakes of \"the duke\" were higher ",
+                0.614334202220457
+            ],
+            [
+                "5_the duke is appealing and wayward, too, if also given to both slickness (split screens?",
+                0.7450155380702104
+            ],
+            [
+                "6_it's all very sweet and light, with a message about the importance of standing up for one's beliefs at its center.",
+                0.8524517024378557
+            ],
+            [
+                "7_ultimately, “the duke” tells an enjoyable real-life story.",
+                0.8359949252802023
+            ],
+            [
+                "8_if you want to see top-notch actors inhabit characters in genuine and ultimately moving ways, the duke is a much better option.",
+                0.8857373716072858
+            ],
+            [
+                "15_it is a pity that the script mires bunton in a soggy family drama",
+                -0.623636303517969
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "13",
+                1
+            ],
+            [
+                "14",
+                1
+            ],
+            [
+                "18",
+                1
+            ],
+            [
+                "19",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "18_the film confirms that one of michell’s enduring themes was exasperation—an unglamorous emotion, familiar to us all ",
+                0.736585717635295
+            ]
+        ],
+        "entities": {
+            "Roger Michell": {
+                "unique_args": [
+                    [
+                        "18_the film confirms that one of michell’s enduring themes was exasperation—an unglamorous emotion, familiar to us all ",
+                        0.736585717635295
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "15_it is a pity that the script mires bunton in a soggy family drama",
+                -0.623636303517969
+            ]
+        ],
+        "entities": {
+            "Richard Bean": {
+                "unique_args": []
+            },
+            "Clive Coleman": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "3_ broadbent more than carries this homage to the triumph of a little man.",
+                0.6118107147941733
+            ],
+            [
+                "13_and broadbent, expanding luxuriously into his ideal leading role, is absolutely delightful.",
+                0.8678578407970738
+            ],
+            [
+                "14_their touching chemistry does the trick, and broadbent is darned near perfect as a man whose robin hood-like principles won out in the most unlikely of scenarios.",
+                0.7459918110955869
+            ],
+            [
+                "19_there's always space in this world for a gentle, affable dramedy starring jim broadbent and helen mirren.",
+                0.7916893216320268
+            ]
+        ],
+        "entities": {
+            "Jim Broadbent": {
+                "unique_args": [
+                    [
+                        "3_ broadbent more than carries this homage to the triumph of a little man.",
+                        0.6118107147941733
+                    ],
+                    [
+                        "13_and broadbent, expanding luxuriously into his ideal leading role, is absolutely delightful.",
+                        0.8678578407970738
+                    ],
+                    [
+                        "14_their touching chemistry does the trick, and broadbent is darned near perfect as a man whose robin hood-like principles won out in the most unlikely of scenarios.",
+                        0.7459918110955869
+                    ],
+                    [
+                        "19_there's always space in this world for a gentle, affable dramedy starring jim broadbent and helen mirren.",
+                        0.7916893216320268
+                    ]
+                ]
+            },
+            "Helen Mirren": {
+                "unique_args": []
+            },
+            "Fionn Whitehead": {
+                "unique_args": []
+            },
+            "Aimee Kelly": {
+                "unique_args": []
+            },
+            "Craig Conway": {
+                "unique_args": []
+            },
+            "Heather Craney": {
+                "unique_args": []
+            },
+            "Simon Hubbard": {
+                "unique_args": []
+            },
+            "Michael Adams": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "writer": {
+        "entities": {
+            "Simon Beaufoy": {
+                "args": [
+                    [
+                        "7_emma stone and steve carell are both excellent, which makes you wish beaufoy had done more with the story's most complicated friendship-between the two well-matched athletes.",
+                        0.8866312989807427
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "27_at the highest levels, where the pressure is greatest, it really comes down to character.",
+                -0.5739663583743537
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Elisabeth Shue": {
+                "args": []
+            },
+            "Emma Stone": {
+                "args": [
+                    [
+                        "7_emma stone and steve carell are both excellent, which makes you wish beaufoy had done more with the story's most complicated friendship-between the two well-matched athletes.",
+                        0.8866312989807427
+                    ],
+                    [
+                        "15_an exhilarating movie propelled by two mesmerizing star performances-emma stone and steve carell.",
+                        0.7738368005150833
+                    ],
+                    [
+                        "18_emma stone and steve carell's recreation of the media circus that was the '73 king-riggs tennis match couldn't be more relevant.",
+                        0.5006024687799849
+                    ],
+                    [
+                        "25_emma stone does the best work of her career.",
+                        0.8695849380237611
+                    ],
+                    [
+                        "34_a winning combination of sports movie and civil rights story, with ace performances from stone and carell.",
+                        0.7611919874448052
+                    ],
+                    [
+                        "35_a fairly standard, if unexceptional film that has two major things going for it: emma stone and timeliness.",
+                        -0.5523161513652607
+                    ]
+                ]
+            },
+            "Andrea Riseborough": {
+                "args": []
+            },
+            "Steve Carell": {
+                "args": [
+                    [
+                        "12_stone and carell both give big, winning movie-star performances, even if they can't quite be said to disappear into their roles.",
+                        0.6181469977510328
+                    ],
+                    [
+                        "22_it deserves to be said that mr. carell is both a bona-fide movie star and a marvelous actor, two things that don't always go together.",
+                        0.7262404977399535
+                    ]
+                ]
+            },
+            "Sarah Silverman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_stone's performance is surprisingly ",
+                0.6590304645194047
+            ],
+            [
+                "19_handsome and moving if a bit cautious, battle is full of smart complexities and sensational acting.",
+                0.7230717538331736
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_about halfway through battle of the sexes, i found myself wishing i was watching a documentary rather than a feature film.",
+                -0.7759051574058269
+            ],
+            [
+                "4_slick and fun, \"battle of the sexes\" is an ace.",
+                0.6909727330821197
+            ],
+            [
+                "8_as upbeat and entertaining as it undeniably is, battle of the sexes sees that battle as ongoing.",
+                0.8079489800863172
+            ],
+            [
+                "9_battle of the sexes is almost by definition predictable - the outcome of its title tennis match is well known - ",
+                -0.5549554257144124
+            ],
+            [
+                "10_the chalk lines in \"battle of the sexes\" stretch into the past and future, measuring how far we've come since then and how far we have to go.",
+                -0.5785019415484298
+            ],
+            [
+                "13_if battle of the sexes is unsurprising to a fault, it's by no means a double fault.",
+                -0.6315876539690026
+            ],
+            [
+                "13_the movie is very entertaining.",
+                0.599920756013012
+            ],
+            [
+                "14_there are more artistically inspired versions of the \"battle of the sexes\" story, ",
+                0.6363583415805805
+            ],
+            [
+                "14_ this moment called for a crisp forehand smash, and \"battle of the sexes\" delivered.",
+                -0.5284543492002884
+            ],
+            [
+                "17_by attempting to use the sports world as a lens through which to view the social-sexual currents of its time, the filmmakers turn \"battle of the sexes\" into a barely muted rallying cry for equality in our own time.",
+                0.5606323147255985
+            ],
+            [
+                "20_even if you've googled the outcome, or are old enough to remember watching it on television, the film's reenactment of the battle and the bluster makes for entertaining and at times riveting viewing.",
+                0.8340163929119866
+            ],
+            [
+                "21_it's a feel-good film with a somewhat curdled legacy: you could clip just about any piece of sexist dialogue here, label it 2017 and pass it off as plausible.",
+                0.6838436249027104
+            ],
+            [
+                "24_the symbolic power of what happened there - one small step, one giant leap for womankind - is still the movie's truest ace.",
+                0.5237741630925853
+            ],
+            [
+                "28_it was personal and it was political, which \"battle of the sexes\" gets.",
+                -0.5250003640572456
+            ],
+            [
+                "28_it was also entertainment, which is where the movie really excels.",
+                -0.5081661234326551
+            ],
+            [
+                "31_a warm, earnestly entertaining film ...",
+                0.7843347467966516
+            ],
+            [
+                "33_the movie is both fun and a mild disappointment ...",
+                0.5261441690431927
+            ],
+            [
+                "36_while battle of the sexes is a reminder of the gender issues still plaguing us, it wholeheartedly embraces the equality of its two excellent leads.",
+                0.8800683299656541
+            ],
+            [
+                "37_a film based on a true story should have three things - strong characters, fierce conflict and a fresh angle. \"",
+                0.7173472475319949
+            ],
+            [
+                "37_battle of the sexes\" serves up all of them.",
+                -0.6409966056871719
+            ],
+            [
+                "38_yet the new movie holds more surprises.",
+                0.573084607166164
+            ],
+            [
+                "39_there's a better version of battle of the sexes that focuses even more fully on king, villainizing riggs and his grotesque culture of sexism in a way this movie disappointingly seems scared to do.",
+                0.567784383867914
+            ],
+            [
+                "42_this is a film that admires - even awes at - billie jean king, ",
+                0.6144077389978345
+            ],
+            [
+                "43_it's game, set and match for battle of the sexes, a massively entertaining account of the momentous 1973 tennis match between billie jean king and bobby riggs that also deftly deals with the numerous social issues inherent in the carnival-like contest.",
+                0.8177616963296614
+            ],
+            [
+                "44_frankly, it's surprising just how many facets of this story there are to explore, and \"battle of the sexes\" does so in such a way that should appeal to both audiences old enough to remember and those curious to know more.",
+                0.8326828895410191
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Valerie Faris": {
+                "args": []
+            },
+            "Jonathan Dayton": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

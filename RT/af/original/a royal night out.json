@@ -1,0 +1,148 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_out is a film of enormous charm, texture and good will, thanks largely to the three leads.",
+                0.8430088693670852
+            ],
+            [
+                "2_what makes \"a royal night out\" palatable are the lead performances.",
+                0.6586780376685193
+            ],
+            [
+                "8_jarrold is best known for the feel-good anglophile fantasies kinky boots and becoming jane, and a royal night",
+                0.8062593158130276
+            ],
+            [
+                "9_a royal night out' is harmless good fun.",
+                0.7455562488051803
+            ],
+            [
+                "9_ the film stalls when straying into serious-drama territory.",
+                -0.5493716387795635
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "7_ they give the director an opportunity to paint an amusing slice of london life during a historic moment overflowing with both joy and sorrow.",
+                0.7092753571493053
+            ]
+        ],
+        "entities": {
+            "Julian Jarrold": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jack Brady": {
+                "args": []
+            },
+            "Jack Gordon": {
+                "args": []
+            },
+            "Jack Reynor": {
+                "args": []
+            },
+            "Jack Laskey": {
+                "args": []
+            },
+            "Russell Balogh": {
+                "args": []
+            },
+            "Tim Potter": {
+                "args": []
+            },
+            "Leigh Dent": {
+                "args": []
+            },
+            "Jessica Jay": {
+                "args": []
+            },
+            "Rupert Everett": {
+                "args": []
+            },
+            "Geoffrey Streatfield": {
+                "args": []
+            },
+            "Hayley Squires": {
+                "args": []
+            },
+            "Sophia Di Martino": {
+                "args": []
+            },
+            "Emma Connell": {
+                "args": []
+            },
+            "Ben Probert": {
+                "args": []
+            },
+            "Emily Watson": {
+                "args": []
+            },
+            "Fiona Skinner": {
+                "args": []
+            },
+            "Luke Hope": {
+                "args": []
+            },
+            "Ruth Sheen": {
+                "args": []
+            },
+            "John Neville": {
+                "args": []
+            },
+            "Shonn Gregory": {
+                "args": []
+            },
+            "Laurence Spellman": {
+                "args": []
+            },
+            "Joanna Howden": {
+                "args": []
+            },
+            "Sarah Gadon": {
+                "args": [
+                    [
+                        "5_the lovely performances, especially by gadon and powley, make the film a passably pleasing tale of teens gone slightly wild, with a royal twist.",
+                        0.7853906608712938
+                    ],
+                    [
+                        "10_sarah gadon, jack reynor and bel powley charm in this brightly entertaining slice of imagined royal family history.",
+                        0.8271781057058646
+                    ]
+                ]
+            },
+            "Roger Allam": {
+                "args": []
+            },
+            "Bel Powley": {
+                "args": [
+                    [
+                        "4_ powley, in particular, is a charmer.",
+                        0.6180629716710216
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Trevor De Silva": {
+                "args": []
+            },
+            "Kevin Hood": {
+                "args": []
+            }
+        }
+    }
+}

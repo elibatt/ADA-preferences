@@ -1,0 +1,74 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_that scenario is played for laughs in the goofy, occasionally amusing yet tone-deaf and casually violent apple tv+ film...",
+                -0.6146834322654484
+            ],
+            [
+                "4_ thin results to the breaking point, the family plan feels like a movie whose best moments were during the pitch meeting.",
+                -0.6906697633086281
+            ],
+            [
+                "5",
+                0.77
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "5_ it�s been realized with charm and enthusiasm: the director, simon cellan jones, maintains a good handle on the comic-thriller tone and shoots the action with wit and creativity...",
+                0.7708606473523683
+            ]
+        ],
+        "entities": {
+            "Simon Cellan Jones": {
+                "unique_args": [
+                    [
+                        "5_ it�s been realized with charm and enthusiasm: the director, simon cellan jones, maintains a good handle on the comic-thriller tone and shoots the action with wit and creativity...",
+                        0.7708606473523683
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "David Coggeshall": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Mark Wahlberg": {
+                "unique_args": []
+            },
+            "Michelle Monaghan": {
+                "unique_args": []
+            },
+            "Zoe Margaret Colletti": {
+                "unique_args": []
+            },
+            "Van Crosby": {
+                "unique_args": []
+            },
+            "Said Taghmaoui": {
+                "unique_args": []
+            },
+            "Maggie Q": {
+                "unique_args": []
+            },
+            "Ciar�n Hinds": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

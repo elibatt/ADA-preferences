@@ -1,0 +1,79 @@
+{
+    "writer": {
+        "entities": {
+            "Noel Marshall": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_the noble intentions of director-writer-producer noel marshall and his actress-wife tippi hedren shine through the faults and short-comings of roar.",
+                0.8101271777544745
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Noel Marshall": {
+                "args": [
+                    [
+                        "3_the noble intentions of director-writer-producer noel marshall and his actress-wife tippi hedren shine through the faults and short-comings of roar.",
+                        0.8101271777544745
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_good lord, look what the filmmaker dragged in.",
+                0.5090188098496389
+            ],
+            [
+                "1_if you want to see cats chasing people in packs, falling over themselves to descend stairwells, and jump up trees to swipe at disposable human protagonists--you will probably enjoy \"roar.\"",
+                0.6388651958533755
+            ],
+            [
+                "2_roar is a thrilling bore, an inanity with actual peril in every scene.",
+                -0.5462362714296267
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "John Marshall": {
+                "args": []
+            },
+            "Kyalo Mativo": {
+                "args": []
+            },
+            "Melanie Griffith": {
+                "args": []
+            },
+            "Noel Marshall": {
+                "args": []
+            },
+            "Tippi Hedren": {
+                "args": [
+                    [
+                        "3_the noble intentions of director-writer-producer noel marshall and his actress-wife tippi hedren shine through the faults and short-comings of roar.",
+                        0.8101271777544745
+                    ]
+                ]
+            },
+            "Jerry Marshall": {
+                "args": []
+            },
+            "Steve Miller": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

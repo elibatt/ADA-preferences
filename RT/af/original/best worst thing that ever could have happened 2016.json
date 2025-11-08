@@ -1,0 +1,93 @@
+{
+    "writer": {
+        "entities": {
+            "Lonny Price": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Harold Prince": {
+                "args": []
+            },
+            "Jim Walton": {
+                "args": []
+            },
+            "Stephen Sondheim": {
+                "args": [
+                    [
+                        "1_if you have any broadway or sondheim or show business in your bloodstream, you should go.",
+                        -0.5232171891797774
+                    ],
+                    [
+                        "3_the story of a legendary, rare theatrical failure from stephen sondheim and hal prince doubles as an inspiring tale of ambition, youth and why we make art",
+                        0.6873344476879335
+                    ],
+                    [
+                        "4_by showing us what's become of the dewy-eyed kids of 1981, he evokes many of the emotions -- from ecstasy to disappointment -- of sondheim's musical.",
+                        0.5476963143660262
+                    ],
+                    [
+                        "6_covers a rich swath of emotional and creative ground as it tracks the unexpected failure of theater gods stephen sondheim and hal prince's hugely anticipated 1981 broadway collaboration \"merrily we roll along.\"",
+                        0.8047004376359599
+                    ],
+                    [
+                        "9_should be catnip for sondheim aficionados, musical theater geeks, and anyone who loves a how-did-you-get-there-from-here story.",
+                        -0.5222519172671728
+                    ],
+                    [
+                        "13_sure to satisfy theater wonks, sondheim fans, curious moviegoers and lovers of broadway.",
+                        0.6218167732790328
+                    ]
+                ]
+            },
+            "Jason Alexander": {
+                "args": []
+            },
+            "Tonya Pinkins": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_lonny price, one of the youthful original cast who believed that working with their idols meant they had made it, chronicles the show's creation in this lovingly assembled documentary.",
+                0.8353247983240255
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "10_the film's second act packs a bittersweet punch, along with the fact that the failed show is now much-respected.",
+                0.5301166556813566
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lonny Price": {
+                "args": [
+                    [
+                        "5_a love letter to the theater-and a deeply poignant one at that-lonny price's sentimental documentary best worst thing",
+                        -0.5040000708632161
+                    ],
+                    [
+                        "8_[mr. price's] passionate enthusiasm and sense of wonder animate every frame and leave you with a misty-eyed glow.",
+                        0.7674489512110548
+                    ],
+                    [
+                        "12_lonny price, one of the youthful original cast who believed that working with their idols meant they had made it, chronicles the show's creation in this lovingly assembled documentary.",
+                        0.8353247983240255
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

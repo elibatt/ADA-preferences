@@ -1,0 +1,108 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Erik Matti": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mara Lopez": {
+                "args": []
+            },
+            "Nonie Buencamino": {
+                "args": []
+            },
+            "Mikey Alcaraz": {
+                "args": []
+            },
+            "Nafa Hilario": {
+                "args": []
+            },
+            "AJ Muhlach": {
+                "args": []
+            },
+            "Arjo Atayde": {
+                "args": []
+            },
+            "Alex Calleja": {
+                "args": []
+            },
+            "Brandon Vera": {
+                "args": []
+            },
+            "Lao Rodriguez": {
+                "args": []
+            },
+            "Ian Ignacio": {
+                "args": []
+            },
+            "Joross Gamboa": {
+                "args": []
+            },
+            "Tarek El Tayech": {
+                "args": []
+            },
+            "Anne Curtis": {
+                "args": []
+            },
+            "Ricky Pascua": {
+                "args": []
+            },
+            "Victor Neri": {
+                "args": []
+            },
+            "Maddie Martinez": {
+                "args": []
+            },
+            "Sheenly Gener": {
+                "args": []
+            },
+            "Levi Ignacio": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Erik Matti": {
+                "args": []
+            },
+            "Anton Santamaria": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_when \"buybust\" finally combusts, it's often simultaneously spectacular and disturbing.",
+                0.7510141743341664
+            ],
+            [
+                "1_so often bogged down by pseudo-naturalistic long takes and generic cop/robber power dynamics that it makes one wonder what the point of watching such a film is.",
+                -0.6190035169058782
+            ],
+            [
+                "2_featuring one villain in leopard pants and another in a bathrobe, \"buybust\" is surprisingly funny for a movie that's basically a massacre in progress.",
+                0.5208490470836555
+            ],
+            [
+                "3_it feels like the film is trying to have it both ways, turning violence into a joyride even as it condemns it.",
+                -0.6295637123871176
+            ],
+            [
+                "5_a superbly executed action film about drug squad members fighting for their lives in a maze-like manila slum that resembles nothing less than hell on earth.",
+                0.6132253401587051
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "writer": {
+        "entities": {
+            "Andrew Haigh": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Andrew Haigh": {
+                "args": [
+                    [
+                        "0_at any rate, andrew haigh's 45 years is one of them.",
+                        0.5635100355892485
+                    ],
+                    [
+                        "27_driven by her and courtenay's work, and by director andrew haigh's limpid style, the film is devastating.",
+                        0.5583248899231785
+                    ],
+                    [
+                        "30_less is not only more in \"45 years,\" andrew haigh's study of marriage and memory, it is eloquently and anguishingly more, and what's unspoken is almost deafening.",
+                        0.6312804978726184
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_in the beautifully acted drama\"45 years,\" a marriage lives and dies",
+                0.7602498058606734
+            ],
+            [
+                "3_how does an entire film come of this?",
+                -0.568394791556885
+            ],
+            [
+                "3_ to state them would be to ruin a perfectly good movie.",
+                0.7042112269442511
+            ],
+            [
+                "4_daringly unsentimental, \"45 years\" makes a persuasive case that marriage demands not only patience, ",
+                0.5881402456919328
+            ],
+            [
+                "5_45 years exposes the paradoxical balance of the successful marriage, one that requires a sentimental suspension of disbelief on the one hand and a hard-headed ability to deal with the everyday on the other.",
+                0.7433261924859769
+            ],
+            [
+                "6_a movie that will shatter you.",
+                0.6174403688384983
+            ],
+            [
+                "7_\"45 years\" is a movie about intuition and inner lives, and you have to look fast to catch all its resonances.",
+                0.6348575040327846
+            ],
+            [
+                "9_45 years\" is one of the best films you'll see in 2016.",
+                0.9666780227860576
+            ],
+            [
+                "10_45 years is a study in economy, in the beautiful symmetry of word and image and music.",
+                0.889198440488604
+            ],
+            [
+                "11_this is not an actual horror movie, ",
+                -0.6304226336627627
+            ],
+            [
+                "19_the devastating truth of 45 years, so beautifully wrought, is that even the most devoted couples are made up of two people who are essentially alone.",
+                0.5698745441877958
+            ],
+            [
+                "21_at a spare 95 minutes, this is a film of no wasted scenes or unnecessary subplots, stripped down to something tough and focused and vivid.",
+                -0.6269234844444268
+            ],
+            [
+                "24_\"45 years\" is a quietly explosive film, a potent drama with a nuanced feel for subtlety and emotional complications.",
+                0.7111680392350338
+            ],
+            [
+                "28_as we gaze at and listen to these paradigmatic performers, whose characters reflect on nearly a half-century together - almost as long as the leads have been icons - the movie becomes a tender unofficial career retrospective for both.",
+                0.6671086595213536
+            ],
+            [
+                "36_it's a film of small moments and tiny gestures that leaves a very, very big impression.",
+                0.6739703637631281
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Charles Booth": {
+                "args": []
+            },
+            "Sam Alexander": {
+                "args": []
+            },
+            "Alexandra Riddleston": {
+                "args": []
+            },
+            "Paul Goldsmith": {
+                "args": []
+            },
+            "Michelle Finch": {
+                "args": []
+            },
+            "Rufus Wright": {
+                "args": []
+            },
+            "Kevin Matadeen": {
+                "args": []
+            },
+            "Charlotte Rampling": {
+                "args": [
+                    [
+                        "0_how many great movies could be written across the enigmatic, profound face of charlotte rampling?",
+                        0.764727356803949
+                    ],
+                    [
+                        "15_and courtenay and rampling reward the film with performances of uncommon subtlety and feeling.",
+                        0.8481298690220694
+                    ],
+                    [
+                        "18_pairing rampling with courtenay was an ingenious move, and not only because the two perform a beautifully calibrated pas de deux.",
+                        0.5724864419053249
+                    ],
+                    [
+                        "25_ms. rampling, a stiller, deeper-running pool, conveys emotions so strange and intense that they don't quite have names.",
+                        0.5005957284133683
+                    ],
+                    [
+                        "27_at some point in her 50-year career, rampling became one of the world's great actresses.",
+                        0.8845620226925471
+                    ],
+                    [
+                        "31_this sober british drama showcases rampling in a superb performance.",
+                        0.7405178631808091
+                    ]
+                ]
+            },
+            "Richard Cunningham": {
+                "args": []
+            },
+            "Lucy Temple": {
+                "args": []
+            },
+            "Max Rudd": {
+                "args": []
+            },
+            "Rachel Banham": {
+                "args": []
+            },
+            "Martin Atkinson": {
+                "args": []
+            },
+            "Camille Ucan": {
+                "args": []
+            },
+            "David Sibley": {
+                "args": []
+            },
+            "Peter Dean Jackson": {
+                "args": []
+            },
+            "Hannah Chambers": {
+                "args": []
+            },
+            "Elle Tivey": {
+                "args": []
+            },
+            "Dolly Wells": {
+                "args": []
+            },
+            "Tom Courtenay": {
+                "args": [
+                    [
+                        "25_mr. courtenay, a naturally demonstrative actor, registers a convincing blend of longing, confusion and shame.",
+                        0.5979564519850162
+                    ],
+                    [
+                        "27_driven by her and courtenay's work, and by director andrew haigh's limpid style, the film is devastating.",
+                        0.5583248899231785
+                    ]
+                ]
+            },
+            "Geraldine James": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "32_ she deserves one for this performance.",
+                0.6355442582049047
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

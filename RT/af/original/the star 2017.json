@@ -1,0 +1,95 @@
+{
+    "writer": {
+        "entities": {
+            "Carlos Kotkin": {
+                "args": []
+            },
+            "Simon Moore": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Timothy Reckart": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_all told, the star should be a safe bet for families during the upcoming holiday season.",
+                0.6553215236306892
+            ],
+            [
+                "5_the movie is sincerely christian in its outlook, while also a slapstick animal 'toon.",
+                -0.5273735305622996
+            ],
+            [
+                "6_while the movie never soars or burns especially bright, it delivers a modicum of magic without getting pious or gushy.",
+                0.7790098964092366
+            ],
+            [
+                "7_\"the star\" delivers a fresh take on a story that its christian target audience presumably knows by heart, emphasizing such qualities as faith, friendship and teamwork in the process.",
+                0.8388726044620061
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Patricia Heaton": {
+                "args": []
+            },
+            "Ving Rhames": {
+                "args": []
+            },
+            "Tracy Morgan": {
+                "args": []
+            },
+            "Gina Rodriguez": {
+                "args": []
+            },
+            "Kelly Clarkson": {
+                "args": []
+            },
+            "Gabriel Iglesias": {
+                "args": []
+            },
+            "Tyler Perry": {
+                "args": []
+            },
+            "Kristin Chenoweth": {
+                "args": []
+            },
+            "Oprah Winfrey": {
+                "args": []
+            },
+            "Aidy Bryant": {
+                "args": []
+            },
+            "Anthony Anderson": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Steven Yeun": {
+                "args": []
+            },
+            "Zachary Levi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

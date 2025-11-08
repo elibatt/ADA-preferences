@@ -1,0 +1,228 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_the kind of film that can entertain more attentive and patient children simply by putting a memorable world and memorable characters onscreen.",
+                0.796165627981937
+            ],
+            [
+                "13_a cinematic enchantment, a low-key 1970s-style kids' movie brimming with sincerity and heart.",
+                0.7714351773214776
+            ],
+            [
+                "14_elliott breathes fire, and the film around him breathes humanity.",
+                0.6793178979033984
+            ],
+            [
+                "15_a slow movie for kids, and an infuriatingly unconvincing one for adults.",
+                0.5820478879530526
+            ],
+            [
+                "19_rather than the cinematic sheen of most animated kid-pleasers, the whole film has the no-gloss texture of vintage woolens from a consignment shop.",
+                0.5378911498963908
+            ],
+            [
+                "20_that would be the straight ahead, unapologetic family film.",
+                0.6842546888446873
+            ],
+            [
+                "21_ the movie works well - maybe too well - as an emotionally wrenching story about a child who must put childhood behind him.",
+                0.7436075730200423
+            ],
+            [
+                "22_a sweet movie with a good message about how magic can be found, if you know where to look.",
+                0.8161357993904177
+            ],
+            [
+                "26_the film overhauls its source material into a soulful recovery fable for kids, establishing in the process that bad movies-the kind that squander their premises-are much more ripe for remaking than good ones.",
+                0.6991410811680128
+            ],
+            [
+                "32_the movie feels like a rock coated in cotton candy, a shiny object that simulates human-type emotions ",
+                -0.5668607614960507
+            ],
+            [
+                "39_one of the year's most delightful moviegoing surprises, a quality family film that rewards young people's imaginations and reminds us of a time when the term \"disney movie\" meant something ...",
+                0.7568738090898648
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Lowery": {
+                "args": [
+                    [
+                        "11_thanks to director david lowery's humanizing magic, this tale of an orphan boy and a dragon is that rare family film you really can take to heart.",
+                        0.8428909961289672
+                    ],
+                    [
+                        "29_after an opening that briefly borders on shocking, david lowery's remake of the 1977 film keeps its enormous paws safely on the beaten path.",
+                        -0.5408465244800532
+                    ],
+                    [
+                        "33_ then lowery takes you into the green hush of those dark woods and you believe.",
+                        0.6498141726618963
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jade Healy": {
+                "args": []
+            },
+            "Fraser McLeod": {
+                "args": []
+            },
+            "Brandie Stephens": {
+                "args": []
+            },
+            "Marcus Henderson": {
+                "args": []
+            },
+            "Levi Alexander": {
+                "args": []
+            },
+            "John Kassir": {
+                "args": []
+            },
+            "Mia Thomas": {
+                "args": []
+            },
+            "Ruby Acevedo": {
+                "args": []
+            },
+            "David J. Muzzerall": {
+                "args": []
+            },
+            "Tai McKenzie": {
+                "args": []
+            },
+            "Richard Falkner": {
+                "args": []
+            },
+            "Jasper Putt": {
+                "args": []
+            },
+            "Jim McLarty": {
+                "args": []
+            },
+            "Toby Halbrooks": {
+                "args": []
+            },
+            "William J. Rawbone": {
+                "args": []
+            },
+            "Robert Redford": {
+                "args": [
+                    [
+                        "1_pete's dragon is one of those movies that talks a lot about magic-robert redford, the grandfatherly narrator whose \"by and by\" bookends the film, says the word at least seven times-rather than effectively presenting it on screen.",
+                        0.6904550055393442
+                    ]
+                ]
+            },
+            "Oona Laurence": {
+                "args": []
+            },
+            "Wes Bentley": {
+                "args": []
+            },
+            "Aaron Jackson": {
+                "args": []
+            },
+            "Daria Ponomaryova": {
+                "args": []
+            },
+            "Augustine Frizzell": {
+                "args": []
+            },
+            "Esmee Myers": {
+                "args": []
+            },
+            "Jason Fitch": {
+                "args": []
+            },
+            "Keegan Carr Fransch": {
+                "args": []
+            },
+            "Francis Biggs": {
+                "args": []
+            },
+            "Jade Valour": {
+                "args": []
+            },
+            "Steven Barr": {
+                "args": []
+            },
+            "Bukhosi Ngwenya": {
+                "args": []
+            },
+            "Bryce Dallas Howard": {
+                "args": []
+            },
+            "Oliver Neil": {
+                "args": []
+            },
+            "Tai Mackenzie": {
+                "args": []
+            },
+            "Gareth Reeves": {
+                "args": []
+            },
+            "Josephine Stephens": {
+                "args": []
+            },
+            "James Allcock": {
+                "args": []
+            },
+            "Ian Harcourt": {
+                "args": []
+            },
+            "Jenesis Au-Yeung": {
+                "args": []
+            },
+            "Olly Presling": {
+                "args": []
+            },
+            "Geoffrey Naylor": {
+                "args": []
+            },
+            "Oakes Fegley": {
+                "args": []
+            },
+            "Isiah Whitlock Jr.": {
+                "args": []
+            },
+            "Annabelle Malaika Suess": {
+                "args": []
+            },
+            "Karl Urban": {
+                "args": []
+            },
+            "Phil Grieve": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Malcolm Marmorstein": {
+                "args": []
+            },
+            "Toby Halbrooks": {
+                "args": []
+            },
+            "David Lowery": {
+                "args": []
+            }
+        }
+    }
+}

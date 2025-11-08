@@ -1,0 +1,249 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "16_everyone's acting in different keys, sometimes in different movies, ",
+                0.6591878744754053
+            ]
+        ],
+        "entities": {
+            "Melissa McCarthy": {
+                "args": [
+                    [
+                        "0_the pat drama and the mild conflicts of \"life of the party\" leave mccarthy with little chance to shine, ",
+                        0.7438722737498528
+                    ],
+                    [
+                        "2_melissa mccarthy is comedy royalty -",
+                        -0.5213413737821915
+                    ],
+                    [
+                        "3_falcone and mccarthy seem so concerned with delivering on their audience's pratfall assumptions that they never allow mccarthy to expand her capabilities in any meaningful way.",
+                        0.5585654207419057
+                    ],
+                    [
+                        "4_life of the party is proof that even the funniest actors need good material, which makes it all the more disappointing that mccarthy wrote the script with director ben falcone, who is also her husband.",
+                        -0.5291075189621391
+                    ],
+                    [
+                        "6_after suffering through the abomination named identity thief, i felt for sure i had seen the worst mccarthy has to offer.",
+                        -0.844246827877372
+                    ],
+                    [
+                        "7_the latest melissa mccarthy star vehicle that fails to do justice to the sheer awesomeness of its leading lady.",
+                        -0.6557759881582983
+                    ],
+                    [
+                        "11_they are much better ways to spend your time than sitting through melissa mccarthy's uninspired and forced life of the party.",
+                        -0.6002869318043089
+                    ],
+                    [
+                        "14_ melissa mccarthy's fans know she is better than an extended sitcom that plays like a rerun.",
+                        0.5041743664155642
+                    ],
+                    [
+                        "15_relegating mccarthy to the role of the comedic \"straight man\" is yet another odd career choice.",
+                        0.5538207633865458
+                    ],
+                    [
+                        "19_here, mccarthy commits to a character while the rest of the movie tries on silly disguises.",
+                        -0.6753357581779593
+                    ],
+                    [
+                        "25_if the sparkling arc from sad acoustic guitars to christina aguilera anthems has any serious intention, mccarthy and falcone want to salute the wonders women can accomplish when they band together.",
+                        -0.6239560688528152
+                    ],
+                    [
+                        "29_ not so much melissa mccarthy's hopelessly derivative entry into the canon.",
+                        -0.6489798711507626
+                    ],
+                    [
+                        "31_as mccarthy's chipper character might say, darned if \"life of the party\" isn't kind of adorable.",
+                        0.5109861331783275
+                    ]
+                ]
+            },
+            "Jacki Weaver": {
+                "args": []
+            },
+            "Gillian Jacobs": {
+                "args": [
+                    [
+                        "16_i'll take maya rudolph and gillian jacobs in just about anything.",
+                        -0.5080098928912964
+                    ]
+                ]
+            },
+            "Matt Walsh": {
+                "args": []
+            },
+            "Stephen Root": {
+                "args": []
+            },
+            "Jessie Ennis": {
+                "args": []
+            },
+            "Jimmy O. Yang": {
+                "args": []
+            },
+            "Debby Ryan": {
+                "args": [
+                    [
+                        "29_the college comedy is a frequent rite of passage for actors, from rodney dangerfield to ryan reynolds, with some some honest-to-goodness classics in those hallowed halls.",
+                        0.6760283469293986
+                    ]
+                ]
+            },
+            "Adria Arjona": {
+                "args": []
+            },
+            "Molly Gordon": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Julie Bowen": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ben Falcone": {
+                "args": [
+                    [
+                        "4_life of the party is proof that even the funniest actors need good material, which makes it all the more disappointing that mccarthy wrote the script with director ben falcone, who is also her husband.",
+                        -0.5291075189621391
+                    ],
+                    [
+                        "10_a funny and disarmingly sweet if slightly uneven comedy co-written by the star and her husband, director ben falcone.",
+                        0.6821848860020159
+                    ],
+                    [
+                        "25_if the sparkling arc from sad acoustic guitars to christina aguilera anthems has any serious intention, mccarthy and falcone want to salute the wonders women can accomplish when they band together.",
+                        -0.6239560688528152
+                    ],
+                    [
+                        "30_mccarthy and falcone are clearly in love, and it's nice",
+                        0.8173052802510468
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "20_weak writing and halfhearted jokes run what could have been a hit for a talented star.",
+                -0.5645292688831998
+            ]
+        ],
+        "entities": {
+            "Melissa McCarthy": {
+                "args": [
+                    [
+                        "0_the pat drama and the mild conflicts of \"life of the party\" leave mccarthy with little chance to shine, ",
+                        0.7438722737498528
+                    ],
+                    [
+                        "2_melissa mccarthy is comedy royalty -",
+                        -0.5213413737821915
+                    ],
+                    [
+                        "3_falcone and mccarthy seem so concerned with delivering on their audience's pratfall assumptions that they never allow mccarthy to expand her capabilities in any meaningful way.",
+                        0.5585654207419057
+                    ],
+                    [
+                        "4_life of the party is proof that even the funniest actors need good material, which makes it all the more disappointing that mccarthy wrote the script with director ben falcone, who is also her husband.",
+                        -0.5291075189621391
+                    ],
+                    [
+                        "6_after suffering through the abomination named identity thief, i felt for sure i had seen the worst mccarthy has to offer.",
+                        -0.844246827877372
+                    ],
+                    [
+                        "7_the latest melissa mccarthy star vehicle that fails to do justice to the sheer awesomeness of its leading lady.",
+                        -0.6557759881582983
+                    ],
+                    [
+                        "11_they are much better ways to spend your time than sitting through melissa mccarthy's uninspired and forced life of the party.",
+                        -0.6002869318043089
+                    ],
+                    [
+                        "14_ melissa mccarthy's fans know she is better than an extended sitcom that plays like a rerun.",
+                        0.5041743664155642
+                    ],
+                    [
+                        "15_relegating mccarthy to the role of the comedic \"straight man\" is yet another odd career choice.",
+                        0.5538207633865458
+                    ],
+                    [
+                        "19_here, mccarthy commits to a character while the rest of the movie tries on silly disguises.",
+                        -0.6753357581779593
+                    ],
+                    [
+                        "25_if the sparkling arc from sad acoustic guitars to christina aguilera anthems has any serious intention, mccarthy and falcone want to salute the wonders women can accomplish when they band together.",
+                        -0.6239560688528152
+                    ],
+                    [
+                        "29_ not so much melissa mccarthy's hopelessly derivative entry into the canon.",
+                        -0.6489798711507626
+                    ],
+                    [
+                        "31_as mccarthy's chipper character might say, darned if \"life of the party\" isn't kind of adorable.",
+                        0.5109861331783275
+                    ]
+                ]
+            },
+            "Ben Falcone": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_life of the party doesn't live up to either of the nouns in its title.",
+                -0.7023401624530118
+            ],
+            [
+                "5_life of the party is harmless good fun.",
+                0.6747965006735639
+            ],
+            [
+                "9_and the only teeth \"life of the party\" has are in its over-excited smile.",
+                -0.5227821739310716
+            ],
+            [
+                "13_\"life of the party\" indulges our collective hope that mistakes can be mended, we're never too old for redemption and, given the chance, we could still slay in a frat house dance-off if the dj played the right song.",
+                0.641166357395978
+            ],
+            [
+                "17_mccarthy is hilarious in every movie she's in, except in the ones that she and her husband create for her.",
+                0.8007797610645095
+            ],
+            [
+                "21_[a] thoroughly vanilla comedy, a movie jammed with well-meaning girl power messages ",
+                0.5107207937927711
+            ],
+            [
+                "22_ this film is something of a drag.",
+                0.5008926182713165
+            ],
+            [
+                "27_life of the party is a charming and generally painless way to spend two hours.",
+                0.8165954746467168
+            ],
+            [
+                "32_it's a movie devoid of storytelling momentum, conflict and, worst of all, much in the way of laughs.",
+                -0.8218046483462782
+            ]
+        ]
+    }
+}

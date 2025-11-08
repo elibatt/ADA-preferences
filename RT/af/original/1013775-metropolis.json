@@ -1,0 +1,200 @@
+{
+    "writer": {
+        "entities": {
+            "Thea von Harbou": {
+                "args": []
+            },
+            "Fritz Lang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Brigitte Helm": {
+                "args": [
+                    [
+                        "11_the extended version -- the additional footage is easy to spot because it's rather worn and a slightly different size -- provides more of the extraordinary performance by the teenage helm.",
+                        0.8136821681060553
+                    ]
+                ]
+            },
+            "Hans Leo Reich": {
+                "args": []
+            },
+            "Margarete Lanner": {
+                "args": []
+            },
+            "Max Dietze": {
+                "args": []
+            },
+            "Gustav Fröhlich": {
+                "args": []
+            },
+            "Rose Lichtenstein": {
+                "args": []
+            },
+            "Fritz Rasp": {
+                "args": []
+            },
+            "Heinrich George": {
+                "args": []
+            },
+            "Alfred Abel": {
+                "args": []
+            },
+            "Erik Frey": {
+                "args": []
+            },
+            "Lisa M. Gray": {
+                "args": []
+            },
+            "Grete Berger": {
+                "args": []
+            },
+            "Fritz Alberti": {
+                "args": []
+            },
+            "Rudolf Klein-Rogge": {
+                "args": []
+            },
+            "Georg John": {
+                "args": []
+            },
+            "Erwin Vater": {
+                "args": []
+            },
+            "Arthur Reinhard": {
+                "args": []
+            },
+            "Theodor Loos": {
+                "args": []
+            },
+            "Erwin Biswanger": {
+                "args": []
+            },
+            "Olaf Storm": {
+                "args": []
+            },
+            "Gustav Frolich": {
+                "args": []
+            },
+            "Heinrich Gotho": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_ the over-the-top acting, the makeup that doesn't know when to stop, the preciousness of so many of the compositions (lang was nothing if not inventive), this is a great old movie-movie.",
+                -0.6596706680080485
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_what makes the movie more than a well-designed curiosity is its theme of how humanity can be swallowed by technology.",
+                0.5343453848665904
+            ],
+            [
+                "3_ often monstrous -- grandeur of the golden period of the german film, metropolis is a spectacular example of expressionist design.",
+                0.8068218185762408
+            ],
+            [
+                "5_a fully realized work of art whose influence on science fiction, set design and symbolism can scarcely be put into words.",
+                0.6261959510032266
+            ],
+            [
+                "6_too bad that so much really artistic work was wasted on this manufactured story.",
+                -0.8410072319242864
+            ],
+            [
+                "7_this movie is certifiably nuts and naive in many ways, ",
+                0.5941409373311812
+            ],
+            [
+                "8_so much of what he did in this film lives on that we take it as cultural assumption -- or the still valid energy of his storytelling.",
+                0.791398522947353
+            ],
+            [
+                "9_here's a coincidence: the first must-see movie of 2010 is also the must-see movie of 1927.",
+                0.6676483290022248
+            ],
+            [
+                "10_to see the film as the director intended, on the big screen with an original score recorded by a 60-piece orchestra, greatly enhances the reputation of a film already considered one of the icons of the silent era.",
+                0.8170490960853304
+            ],
+            [
+                "12_lang's impossibly vast skyscraper-ziggurats (inspired, it's said, by his first view of the manhattan skyline) are the blueprint for nearly every science-fiction movie city of the past 30 years.",
+                0.5970599043745762
+            ],
+            [
+                "14_the film looks fabulous, and gottfried huppertz's original score is another worthy addition.",
+                0.6157109270111849
+            ],
+            [
+                "17_the stunning cinematography, made crisper by present-day technology, and the film's overall visual concept continue to make your jaw drop with admiration.",
+                0.7614614859984784
+            ],
+            [
+                "24_a masterpiece of art direction, the movie has influenced our vision of the future ever since.",
+                0.7712401869399133
+            ],
+            [
+                "25_none of the film's many imitators has achieved something this immediately magnificent.",
+                0.7149196361506359
+            ],
+            [
+                "30_a movie whose graphic intelligence is exceeded only by its conceptual audacity.",
+                -0.5263581054601326
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Fritz Lang": {
+                "args": [
+                    [
+                        "1_occasionally it strikes one that [lang] wanted to include too much and then that all one anticipates does not appear.",
+                        -0.6374604868833089
+                    ],
+                    [
+                        "8_there's no denying either the influence of lang's vision --",
+                        0.5747054489244886
+                    ],
+                    [
+                        "13_the great fritz lang created this chilling 1926 evocation of a mechanized utopia run by underground slave labor.",
+                        0.7524946788119153
+                    ],
+                    [
+                        "16_building on earlier science fiction and endlessly influential on later works, lang's film is a mammoth marvel, fusing modernism and expressionism, art deco and biblical spectacle, wagnerian bombast, sentimental marxism and religiose millenarianism.",
+                        0.7794016691740557
+                    ],
+                    [
+                        "21_after 75 years, fritz lang's metropolis still stands as an icon of the silent era.",
+                        0.8007651361944756
+                    ],
+                    [
+                        "22_a great artist contains multitudes, and lang packed a host of contradictory longings into a single allegory.",
+                        0.6223292188721756
+                    ],
+                    [
+                        "27_ the over-the-top acting, the makeup that doesn't know when to stop, the preciousness of so many of the compositions (lang was nothing if not inventive), this is a great old movie-movie.",
+                        -0.6596706680080485
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "10_to see the film as the director intended, on the big screen with an original score recorded by a 60-piece orchestra, greatly enhances the reputation of a film already considered one of the icons of the silent era.",
+                0.8170490960853304
+            ]
+        ]
+    }
+}

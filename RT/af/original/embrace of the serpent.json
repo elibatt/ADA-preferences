@@ -1,0 +1,151 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_unique and intoxicating, an art movie that grips like a thriller.",
+                0.7075229625881924
+            ],
+            [
+                "2_the film moves into psychedelic and violent territory, creating a perspective that is equally unreal and unforgettable.",
+                0.773263380908835
+            ],
+            [
+                "3_[karamakate is] a frankly great character in a thoroughly gripping film.",
+                0.7335873869731799
+            ],
+            [
+                "5_ the film's images linger",
+                0.5986299300059619
+            ],
+            [
+                "6_like joseph conrad's \"heart of darkness\" (and the movie it inspired, \"apocalypse now\"), the drama examines the idea of progress and what it means to be civilized.",
+                0.813727743247435
+            ],
+            [
+                "7_\"embrace of the serpent\" is film at its most ambitious and uncompromising.",
+                0.7821376318182743
+            ],
+            [
+                "8_ only talked about in film circles, finally unearthed.",
+                0.5448247925442402
+            ],
+            [
+                "10_guerra's remarkable film dives deep into seemingly infinite forests, and deep, too, into the soul of man.",
+                0.7865866608845004
+            ],
+            [
+                "13_creating this kind of otherworldly mood takes exceptional talent, and this is a film worth experiencing.",
+                0.7330472153582596
+            ],
+            [
+                "21_this film conveys a haunting sense of the western world having lost its compass.",
+                0.6762823734010613
+            ],
+            [
+                "22_a sudden lurch into trippy abstraction at the end simply doesn't work, ",
+                -0.7882204537827849
+            ],
+            [
+                "22_ for the vast majority of the time this is a strong and original film.",
+                0.7098811208347844
+            ],
+            [
+                "24_the mysteries keep piling up through the final frames, when black-and-white film can't contain the story any longer and it bursts with unworldly color.",
+                0.5236544908081794
+            ],
+            [
+                "26_\"embrace of the serpent,\" a fantastical mixture of myth and historical reality, shatters lingering illusions of first-world culture as more advanced than any other, except technologically.",
+                0.7359543817662215
+            ],
+            [
+                "29_embrace of the serpent is a legitimate stunner, a river-trip that will mesmerize and jack with you, leaving you not quite certain, at its end, how to go about the rest of your day.",
+                0.6171654348278521
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "32_the ravages of colonialism cast a dark pall over the stunning south american landscape in embrace of the serpent, the latest visual astonishment from the gifted colombian writer-director ciro guerra.",
+                0.7412701062788958
+            ]
+        ],
+        "entities": {
+            "Nilbio Torres": {
+                "args": []
+            },
+            "Yauenkü Miguee": {
+                "args": []
+            },
+            "Nicolas Cancino": {
+                "args": []
+            },
+            "Antonio Bolívar Salvador": {
+                "args": []
+            },
+            "Brionne Davis": {
+                "args": []
+            },
+            "Jan Bijvoet": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_[karamakate is] a frankly great character in a thoroughly gripping film.",
+                0.7335873869731799
+            ],
+            [
+                "32_the ravages of colonialism cast a dark pall over the stunning south american landscape in embrace of the serpent, the latest visual astonishment from the gifted colombian writer-director ciro guerra.",
+                0.7412701062788958
+            ]
+        ],
+        "entities": {
+            "Jacques Toulemonde": {
+                "args": []
+            },
+            "Ciro Guerra": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ciro Guerra": {
+                "args": [
+                    [
+                        "8_wholly original and brand new, director ciro guerra's \"embrace of the serpent\" immediately feels like some kind of lost classic, a movie that has been around for a long time ",
+                        -0.5255837555664453
+                    ],
+                    [
+                        "9_throughout, the fragility of the native cultures and of the rain-forest environment that is their home is underscored by guerra in this fascinating, melancholy movie.",
+                        0.7324466704377223
+                    ],
+                    [
+                        "11_colombian filmmaker ciro guerra assumes the role of an ever-aware river guide, navigating us through the sweeping beauty of the amazon while pointing to the toll on humanity and culture wrought by colonialism.",
+                        0.7404126626256505
+                    ],
+                    [
+                        "19_the majesty of nature is embrace of the serpent's true star, and guerra captures the glory of every leaf, every inch of sky, in pearlescent black-and-white as luminous as the lining of a clamshell.",
+                        0.8311019070817254
+                    ],
+                    [
+                        "27_whenever the movie teeters on the edge of poetic madness-like when manduca voices his belief that theo represents the redemption of the white colonials-guerra's commitment to thesis is there to pull it back into the literalism.",
+                        0.5090099636243424
+                    ],
+                    [
+                        "32_the ravages of colonialism cast a dark pall over the stunning south american landscape in embrace of the serpent, the latest visual astonishment from the gifted colombian writer-director ciro guerra.",
+                        0.7412701062788958
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

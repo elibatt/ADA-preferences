@@ -1,0 +1,62 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Caitlin Leahy": {
+                "args": []
+            },
+            "Billy Zane": {
+                "args": []
+            },
+            "Lindsay Wagner": {
+                "args": []
+            },
+            "Frances Sholto-Douglas": {
+                "args": []
+            },
+            "Taylor James": {
+                "args": []
+            },
+            "Rutger Hauer": {
+                "args": []
+            },
+            "Jackson Rathbone": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the movie's most interesting clashes aren't between samson and the philistine royals, ",
+                0.5051357638083309
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bruce MacDonald": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Timothy Ratajczak": {
+                "args": []
+            },
+            "Jason Baumgardner": {
+                "args": []
+            },
+            "Galen Gilbert": {
+                "args": []
+            }
+        }
+    }
+}

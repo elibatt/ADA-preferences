@@ -1,0 +1,87 @@
+{
+    "acting": {
+        "entities": {
+            "Andrew Solomon (XI)": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_there is much to think about in \"far from the tree,\" a worthy and at times tender film.",
+                0.7382733444606769
+            ],
+            [
+                "1_the documentary is an attempt, in the words of those behind the film, to \"investigate the very nature of family itself.\"",
+                0.748083258870093
+            ],
+            [
+                "1_that this attempt is overreaching and diffuse does not detract from the film's sporadic power.",
+                -0.6038594186058847
+            ],
+            [
+                "2_at its most radical and empathetic, \"far from the tree\" urges us to start thinking of disability in terms of identity, not as a locus of struggle ",
+                0.7184618260913896
+            ],
+            [
+                "4_by the end of \"far from the tree,\" tears will be shed, and for all the best reasons.",
+                0.8746535932835324
+            ],
+            [
+                "5_this is a powerful movie about human nature and how no matter where we end up - and who we end up with -",
+                0.761864489352083
+            ],
+            [
+                "7_unfortunately, far from the tree ultimately doesn't live up to the sum of its parts, feeling too scattershot and diffuse to produce the desired impact.",
+                -0.7074652801672485
+            ],
+            [
+                "8_far from the tree throws so much at you that you'll want to pick up the book and read (or reread) it.",
+                0.5383050661834812
+            ],
+            [
+                "9_in a world that seems in many respects to be headed to hell in a handbasket, that's a fact worth celebrating, and this movie does so in an appropriately humane manner.",
+                0.6526305751409653
+            ],
+            [
+                "10_in presenting four case studies, \"far from the tree\" delivers a flyover view of their lives, never reaching the impact that other films focused on individual characters have achieved.",
+                0.7447604887991125
+            ],
+            [
+                "11_all of the families in far from the tree are compelling - their trials unimaginable and their spirits indomitable.",
+                0.7528809703271266
+            ],
+            [
+                "12_the movie plays more like a sketch than a full study.",
+                -0.5788174653381025
+            ],
+            [
+                "12_the odd thing is that it's a sketch for a larger work that already exists.",
+                -0.7062198276377538
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rachel Dretzin": {
+                "args": [
+                    [
+                        "3_capably filmed by director rachel dretzin, this look at a diverse group of people is emotionally powerful without feeling manipulative.",
+                        0.7692974074564657
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie hints at a riveting story ",
+                0.7647004313962086
+            ],
+            [
+                "3_\"child 44\" is involving ",
+                0.5234025511442371
+            ],
+            [
+                "6_what \"child 44\" most resembles is a rushed and crowded pilot for a television drama.",
+                -0.559414437189611
+            ],
+            [
+                "8_ultimately, what we have is a bloated, grim, underwhelming affair, which is unfortunate - because the movie starts out with a lot going for it.",
+                -0.7752830480497102
+            ],
+            [
+                "11_child 44 could have been far more compelling had it dug deeper into its political thriller layers and not drifted into yet another story of a diabolical killer on the loose.",
+                -0.6462926314362254
+            ],
+            [
+                "13_\" \"child 44\" can't sort out the basics.",
+                -0.6339402645546852
+            ],
+            [
+                "14_\"child 44\" plays like a curious relic of an earlier cold war mindset, when western audiences took comfort that they were living on the right side of the iron curtain, and relied on movies to remind them as much.",
+                0.5805698028821052
+            ],
+            [
+                "16_the movie doesn't really captivate the way it should, and as the manhunt stretches on it actually diminishes in suspense, ultimately overstaying its two-plus-hour running time.",
+                -0.5602633020905228
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tom Hardy": {
+                "args": [
+                    [
+                        "10_still, there are worse ways to kill two hours than watching hardy work his sturdy magic.",
+                        -0.7848446457871183
+                    ]
+                ]
+            },
+            "Sam Spruell": {
+                "args": []
+            },
+            "Nikolaj Lie Kaas": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Agnieszka Grochowska": {
+                "args": []
+            },
+            "Michael Nardone": {
+                "args": []
+            },
+            "Noomi Rapace": {
+                "args": []
+            },
+            "Vincent Cassel": {
+                "args": []
+            },
+            "Paddy Considine": {
+                "args": []
+            },
+            "Jason Clarke": {
+                "args": []
+            },
+            "Xavier Atkins": {
+                "args": []
+            },
+            "Petr Vanek": {
+                "args": []
+            },
+            "Ivan G'Vera": {
+                "args": []
+            },
+            "Joel Kinnaman": {
+                "args": []
+            },
+            "Josef Atlin": {
+                "args": []
+            },
+            "Ned Dennehy": {
+                "args": []
+            },
+            "Tara Fitzgerald": {
+                "args": []
+            },
+            "Fares Fares": {
+                "args": []
+            },
+            "Gary Oldman": {
+                "args": []
+            },
+            "Mark Lewis Jones": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "17_thanks to a feeble script, bland direction and - god, why? -",
+                -0.6739105259529987
+            ]
+        ],
+        "entities": {
+            "Richard Price": {
+                "args": [
+                    [
+                        "13_despite gritty atmosphere and a sometimes smart script by the estimable richard price, whose credits include \"the wire,",
+                        0.7095097918817952
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Daniel Espinosa": {
+                "args": [
+                    [
+                        "15_a soviet-era slog through crime and corruption, painted in grim shades of muck, blood, moss and bark, director daniel espinosa's \"child 44\" turns a best-selling period-piece procedural into a slow, tedious thriller almost totally devoid of thrills.",
+                        -0.5411862753929648
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

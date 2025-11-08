@@ -1,0 +1,479 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_pixels is devoid of cynicism and it has a cheerfully cheesy vibe, and it's the kind of movie you'll forget about a week after seeing it.",
+                0.5584334429823485
+            ],
+            [
+                "2_the right touchstone can make the most discerning movie-goer forgive a film as lazy as pixels.",
+                0.5790787869045412
+            ],
+            [
+                "4_this is a film in which a viewer can be forgiven for rooting for the old video game icons to annihilate humanity.",
+                -0.7360693794811628
+            ],
+            [
+                "5_this is just a lot of chomp-chomp-chomp and point tallies wafting upward whenever something game-oriented is blown up.",
+                -0.6402084675291712
+            ],
+            [
+                "7_pixels is a movie without wit, without jokes, with nothing to say ",
+                -0.5882299079050524
+            ],
+            [
+                "9_pixels\" somehow manages both.",
+                0.5552715395840226
+            ],
+            [
+                "13_\"pixels\" may feel flatter to kids of the '80s than it does to moviegoers too young to have known pac-man from ant-man.",
+                -0.6450058241207642
+            ],
+            [
+                "14_the script might as well have been penned by the same clueless aliens doing the invading.",
+                -0.5263506368776085
+            ],
+            [
+                "17_it manages to achieve the weird feat of feeling overlong and choppy at the same time, like someone edited the film with a pair of garden shears.",
+                -0.573248198049743
+            ],
+            [
+                "19_the experience is an exercise in cringing at bad one-liners and stomaching dumb plot devices before saying, \"aww, look, q-bert!\"",
+                -0.7207664095433135
+            ],
+            [
+                "21_\"pixels\" is a blast of energetic fun ... the novelty of nostalgic video game characters as space invaders sustains the film, thanks to the spectacularly executed and original effects.",
+                0.8162609637267767
+            ],
+            [
+                "22_i see pixels as a 3d metaphor for hollywood's digital assault on our eyes and brains.",
+                0.6041389779085892
+            ],
+            [
+                "23_even on its own silly terms, pixels is not a very good movie",
+                0.5124326806178592
+            ],
+            [
+                "23_ it's painted up like a ghostbusters-style fantasy-comedy ",
+                0.5581062725680138
+            ],
+            [
+                "23_ plays like so many slapdash happy madison productions before it.",
+                0.530560362975492
+            ],
+            [
+                "25_theoretically, this could have been a lot of fun, particular for those with fond memories of '80s video gamery.",
+                0.5547195977476138
+            ],
+            [
+                "26_though \"pixels\" may be hard to respect or fully endorse,",
+                -0.5588044768749627
+            ],
+            [
+                "26_ it's also impossible to dislike.",
+                -0.5960539555221728
+            ],
+            [
+                "27_part of the problem is that it's unclear who the filmmakers think their audience is.",
+                -0.6506072851440761
+            ],
+            [
+                "27_this is a big-budget spectacle about 1980s nostalgia aimed at kids who have no emotional connection to the decade.",
+                -0.5685626478574307
+            ],
+            [
+                "27_pixels is also insanely sexist.",
+                -0.5921723168478847
+            ],
+            [
+                "29_for a movie that's supposedly about delivering weightless, uncomplicated fun, \"pixels\" is an overwhelmingly sad experience.",
+                -0.5382175873203097
+            ],
+            [
+                "30_moronic jokes, lame action and depictions of middle-aged neuroses.",
+                -0.6419474667947607
+            ],
+            [
+                "31_pixels plays the ghostbusters card hard, clothing its warriors in matching jumpsuits and swarming them with cheering new york crowds.",
+                0.527857198724462
+            ],
+            [
+                "32_the point of \"pixels\" - other than some genuinely thrilling sfx of matter evaporating into digitized blocks of confetti - is the dumb message that guys who peaked in middle school totally deserve hot girlfriends because of their awesome gaming skills",
+                0.5180202928338056
+            ],
+            [
+                "33_within the rarified realm of 1980s videogame nostalgia, pixels is no wreck-",
+                -0.6692131544865623
+            ],
+            [
+                "35_you can see the calculations of the filmmakers - hey, let's put in a cute kid!",
+                0.5507734128452155
+            ],
+            [
+                "35_ you can't see why they wanted to make this film in the first place.",
+                -0.6511533863564951
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chris Columbus": {
+                "args": [
+                    [
+                        "10_a real-life space invaders story that might have made for dumb, exciting fun if everyone involved didn't seem bored to tears, director chris columbus and star adam sandler very much included.",
+                        -0.7191349578769556
+                    ],
+                    [
+                        "34_a dimwitted '80s nostalgia trip best appreciated by those who have waited years for adam sandler's fine-grained intelligence and chris columbus' filmmaking mastery to finally converge.",
+                        0.6753018561015869
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tim Herlihy": {
+                "args": []
+            },
+            "Martha Stewart": {
+                "args": []
+            },
+            "Colleen Reynolds": {
+                "args": []
+            },
+            "Lamont James": {
+                "args": []
+            },
+            "Shea Joelle James": {
+                "args": []
+            },
+            "Robert Smigel": {
+                "args": []
+            },
+            "Steve Wiebe": {
+                "args": []
+            },
+            "Sunny Sandler": {
+                "args": []
+            },
+            "Emily Jenkins": {
+                "args": []
+            },
+            "Derwin Phillips": {
+                "args": []
+            },
+            "Anthony Ippolito": {
+                "args": []
+            },
+            "Jackie Sandler": {
+                "args": []
+            },
+            "Dan Patrick": {
+                "args": []
+            },
+            "Rose Rollins": {
+                "args": []
+            },
+            "Abigail Covert": {
+                "args": []
+            },
+            "Matt Frewer": {
+                "args": []
+            },
+            "Jared Riley": {
+                "args": []
+            },
+            "Sienna James": {
+                "args": []
+            },
+            "Peter Dinklage": {
+                "args": []
+            },
+            "Jack Fulton": {
+                "args": []
+            },
+            "Sadie Sandler": {
+                "args": []
+            },
+            "Margaret Killingbeck": {
+                "args": []
+            },
+            "Chris Titone": {
+                "args": []
+            },
+            "Steve Koren": {
+                "args": []
+            },
+            "Annika Pergament": {
+                "args": []
+            },
+            "Brian Cox": {
+                "args": []
+            },
+            "Gary Douglas Kohn": {
+                "args": []
+            },
+            "William S. Taylor": {
+                "args": []
+            },
+            "Ron Mustafaa": {
+                "args": []
+            },
+            "Jocelyn Hudon": {
+                "args": []
+            },
+            "Kevin James": {
+                "args": []
+            },
+            "Matthew Lintz": {
+                "args": []
+            },
+            "Tucker Smallwood": {
+                "args": []
+            },
+            "Toru Iwatani": {
+                "args": []
+            },
+            "Nick Glennie-Smith": {
+                "args": []
+            },
+            "Bill Lake": {
+                "args": []
+            },
+            "Affion Crockett": {
+                "args": []
+            },
+            "Sara Haines": {
+                "args": []
+            },
+            "Allen Covert": {
+                "args": []
+            },
+            "Lainie Kazan": {
+                "args": []
+            },
+            "Jacob Shinder": {
+                "args": []
+            },
+            "Michelle Monaghan": {
+                "args": []
+            },
+            "Sistah Lois": {
+                "args": []
+            },
+            "Mark Sparks": {
+                "args": []
+            },
+            "James Preston Rogers": {
+                "args": []
+            },
+            "Andrew Bambridge": {
+                "args": []
+            },
+            "Denis Akiyama": {
+                "args": []
+            },
+            "Jimi Shlag": {
+                "args": []
+            },
+            "Mark Whalen": {
+                "args": []
+            },
+            "Ashley Benson": {
+                "args": []
+            },
+            "Billy West": {
+                "args": []
+            },
+            "Susie McLean": {
+                "args": []
+            },
+            "Bridget Graham": {
+                "args": []
+            },
+            "Eric Trask": {
+                "args": []
+            },
+            "Serena Williams": {
+                "args": []
+            },
+            "Sean Bean": {
+                "args": []
+            },
+            "Andrew McMichael": {
+                "args": []
+            },
+            "Dan Aykroyd": {
+                "args": []
+            },
+            "Jared Sandler": {
+                "args": []
+            },
+            "Daryl Hall": {
+                "args": []
+            },
+            "Jonathan Loughran": {
+                "args": []
+            },
+            "Meher Pavri": {
+                "args": []
+            },
+            "Rob Archer": {
+                "args": []
+            },
+            "Jane Krakowski": {
+                "args": []
+            },
+            "Tom McCarthy": {
+                "args": []
+            },
+            "Adam Sandler": {
+                "args": [
+                    [
+                        "0_there are scenes in the surreally lazy, occasionally funny pixels in which sandler's face slips into the exact same weary, disgruntled expression he wears in funny people.",
+                        -0.5648144965544091
+                    ],
+                    [
+                        "3_welcome to the end of the world, adam sandler-style.",
+                        -0.5720652248076755
+                    ],
+                    [
+                        "4_god help us if the best savior we can muster is sandler.",
+                        0.6678315638754118
+                    ],
+                    [
+                        "8_when one considers how good this material might have been if placed in the right hands, to see it squandered this way makes it almost more painful to view than the typical sandler stinker.",
+                        -0.5397728928564751
+                    ],
+                    [
+                        "10_a real-life space invaders story that might have made for dumb, exciting fun if everyone involved didn't seem bored to tears, director chris columbus and star adam sandler very much included.",
+                        -0.7191349578769556
+                    ],
+                    [
+                        "11_\"pixels\" is a special-effects eyeful burdened by the fact that it is also yet another film in which adam sandler plays a man-child who somehow turns the head of an attractive woman.",
+                        -0.5728206819110577
+                    ],
+                    [
+                        "12_this amiable ghostbusters knockoff is unusually competent for a sandler comedy.",
+                        -0.5670691008886687
+                    ],
+                    [
+                        "14_while the concept is a cut above the usual sandler swill, the comedy isn't.",
+                        -0.6473395806032338
+                    ],
+                    [
+                        "20_sandler doesn't appear to be trying terribly hard, and gad gets sucked into that humor vacuum, going after laughs with a palpable desperation and adopting sandler's signature move of yelling for no apparent reason.",
+                        -0.7648618850263633
+                    ],
+                    [
+                        "24_here's a shocker: in pixels, his latest, adam sandler plays a stunted man-child who turns out to be very, very special.",
+                        -0.6205900553426107
+                    ],
+                    [
+                        "28_it's hard not to look at pixels and feel like sandler & co. missed a huge opportunity here.",
+                        -0.6847435158252849
+                    ],
+                    [
+                        "30_in other words: a sandler movie.",
+                        -0.5562292695039146
+                    ],
+                    [
+                        "34_a dimwitted '80s nostalgia trip best appreciated by those who have waited years for adam sandler's fine-grained intelligence and chris columbus' filmmaking mastery to finally converge.",
+                        0.6753018561015869
+                    ]
+                ]
+            },
+            "John Oates": {
+                "args": []
+            },
+            "Kevin Grady": {
+                "args": []
+            },
+            "Josh Gad": {
+                "args": []
+            },
+            "Michael Boisvert": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "14_the script might as well have been penned by the same clueless aliens doing the invading.",
+                -0.5263506368776085
+            ]
+        ],
+        "entities": {
+            "Tim Herlihy": {
+                "args": []
+            },
+            "Adam Sandler": {
+                "args": [
+                    [
+                        "0_there are scenes in the surreally lazy, occasionally funny pixels in which sandler's face slips into the exact same weary, disgruntled expression he wears in funny people.",
+                        -0.5648144965544091
+                    ],
+                    [
+                        "3_welcome to the end of the world, adam sandler-style.",
+                        -0.5720652248076755
+                    ],
+                    [
+                        "4_god help us if the best savior we can muster is sandler.",
+                        0.6678315638754118
+                    ],
+                    [
+                        "8_when one considers how good this material might have been if placed in the right hands, to see it squandered this way makes it almost more painful to view than the typical sandler stinker.",
+                        -0.5397728928564751
+                    ],
+                    [
+                        "10_a real-life space invaders story that might have made for dumb, exciting fun if everyone involved didn't seem bored to tears, director chris columbus and star adam sandler very much included.",
+                        -0.7191349578769556
+                    ],
+                    [
+                        "11_\"pixels\" is a special-effects eyeful burdened by the fact that it is also yet another film in which adam sandler plays a man-child who somehow turns the head of an attractive woman.",
+                        -0.5728206819110577
+                    ],
+                    [
+                        "12_this amiable ghostbusters knockoff is unusually competent for a sandler comedy.",
+                        -0.5670691008886687
+                    ],
+                    [
+                        "14_while the concept is a cut above the usual sandler swill, the comedy isn't.",
+                        -0.6473395806032338
+                    ],
+                    [
+                        "20_sandler doesn't appear to be trying terribly hard, and gad gets sucked into that humor vacuum, going after laughs with a palpable desperation and adopting sandler's signature move of yelling for no apparent reason.",
+                        -0.7648618850263633
+                    ],
+                    [
+                        "24_here's a shocker: in pixels, his latest, adam sandler plays a stunted man-child who turns out to be very, very special.",
+                        -0.6205900553426107
+                    ],
+                    [
+                        "28_it's hard not to look at pixels and feel like sandler & co. missed a huge opportunity here.",
+                        -0.6847435158252849
+                    ],
+                    [
+                        "30_in other words: a sandler movie.",
+                        -0.5562292695039146
+                    ],
+                    [
+                        "34_a dimwitted '80s nostalgia trip best appreciated by those who have waited years for adam sandler's fine-grained intelligence and chris columbus' filmmaking mastery to finally converge.",
+                        0.6753018561015869
+                    ]
+                ]
+            },
+            "Timothy Dowling": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "film": {
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Derek Yee": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Derek Yee": {
+                "args": []
+            },
+            "Chun Tin-nam": {
+                "args": []
+            },
+            "Hark Tsui": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Gu Caobin": {
+                "args": []
+            },
+            "Jiang Mengjie": {
+                "args": []
+            },
+            "Nina Paw Hee Ching": {
+                "args": []
+            },
+            "Kenny Lin": {
+                "args": []
+            },
+            "Yiyan Jiang": {
+                "args": []
+            },
+            "Henry Fong": {
+                "args": []
+            },
+            "Peter Ho Yun Tung": {
+                "args": []
+            },
+            "Meng-Jie Jiang": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

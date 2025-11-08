@@ -1,0 +1,129 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_you sort of want to give the movie a pass.",
+                -0.550148589196202
+            ],
+            [
+                "5_you need more than a few sudden noises and scary shocks to make a good horror movie.",
+                -0.7199512934827079
+            ],
+            [
+                "5_ \"insidious: chapter three\" is at least an ok horror movie.",
+                -0.5262626999280402
+            ],
+            [
+                "6_that you'd think we'd never seen a horror movie before.",
+                0.5343128932027615
+            ],
+            [
+                "18_insidious chapter 3 is the worst kind of sequel: not terrible, ",
+                -0.8998121581779925
+            ],
+            [
+                "23_chief among things that go bump in the night in \"insidious: chapter 3\" is the movie itself - a thuddingly dull prequel to james wan's very enjoyable (and highly profitable) demonic-possession horror franchise.",
+                0.7265306541399892
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Leigh Whannell": {
+                "args": [
+                    [
+                        "10_mr. whannell wisely retains the series' secret weapon, ms. shaye, a seasoned performer of range, moxie and limitless charm.",
+                        0.6269421190502155
+                    ],
+                    [
+                        "14_writer-directors wan and whannell are best known for their grisly saw movies, ",
+                        0.7880941325315985
+                    ],
+                    [
+                        "15_this prequel to the shriek hell, directed and scripted by series writer/actor leigh whannell, manages to avoid the curse of the triple cash grab.",
+                        0.52024009363207
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stefanie Scott": {
+                "args": []
+            },
+            "Lin Shaye": {
+                "args": [
+                    [
+                        "24_ as a vehicle for veteran character actress lin shaye, it's a blast.",
+                        0.6735122740330332
+                    ]
+                ]
+            },
+            "Leigh Whannell": {
+                "args": [
+                    [
+                        "10_mr. whannell wisely retains the series' secret weapon, ms. shaye, a seasoned performer of range, moxie and limitless charm.",
+                        0.6269421190502155
+                    ],
+                    [
+                        "14_writer-directors wan and whannell are best known for their grisly saw movies, ",
+                        0.7880941325315985
+                    ],
+                    [
+                        "15_this prequel to the shriek hell, directed and scripted by series writer/actor leigh whannell, manages to avoid the curse of the triple cash grab.",
+                        0.52024009363207
+                    ]
+                ]
+            },
+            "Angus Sampson": {
+                "args": []
+            },
+            "Steve Coulter": {
+                "args": []
+            },
+            "Tate Berney": {
+                "args": []
+            },
+            "Dermot Mulroney": {
+                "args": []
+            },
+            "Michael Reid Mackay": {
+                "args": []
+            },
+            "Hayley Kiyoko": {
+                "args": []
+            },
+            "Corbett Tuck": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_insidious: chapter 3 tries and fails to emphasize character-driven drama over cheap, jump-scare-intensive thrills.",
+                -0.6561713261448965
+            ],
+            [
+                "15_this prequel to the shriek hell, directed and scripted by series writer/actor leigh whannell, manages to avoid the curse of the triple cash grab.",
+                0.52024009363207
+            ],
+            [
+                "24_ as a vehicle for veteran character actress lin shaye, it's a blast.",
+                0.6735122740330332
+            ]
+        ],
+        "entities": {
+            "Leigh Whannell": {
+                "args": []
+            }
+        }
+    }
+}

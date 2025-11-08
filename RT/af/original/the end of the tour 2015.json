@@ -1,0 +1,196 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anna Chlumsky": {
+                "args": []
+            },
+            "Joan Cusack": {
+                "args": []
+            },
+            "Mickey Sumner": {
+                "args": []
+            },
+            "Mamie Gummer": {
+                "args": []
+            },
+            "Jesse Eisenberg": {
+                "args": [
+                    [
+                        "13_ never quite boring movie starring jesse eisenberg as lipsky and jason segel as wallace.",
+                        -0.892520357686871
+                    ],
+                    [
+                        "15_but the performances, by jason segel as wallace and jesse eisenberg as lipsky,",
+                        0.6488086329540917
+                    ]
+                ]
+            },
+            "Becky Ann Baker": {
+                "args": []
+            },
+            "Ron Livingston": {
+                "args": []
+            },
+            "Jason Segel": {
+                "args": [
+                    [
+                        "1_the performances, the writing, the direction, segel's d.f.w. impression, everything is just fine.",
+                        0.6285355293854012
+                    ],
+                    [
+                        "7_ segel's sincere performance as wallace gives the movie a beating heart.",
+                        0.8000947524955111
+                    ],
+                    [
+                        "9_in segel's performance, [the film] captures the quandary of an immensely gifted and immensely troubled writer who disdained the celebrity he also, without fully fessing up to it, sought.",
+                        0.8143020171984313
+                    ],
+                    [
+                        "11_what segel does, from his opening minutes on screen to the movie's end, is craft a portrait of what feels like an utterly real person, not an actor's portrayal of one.",
+                        0.5373258873284814
+                    ],
+                    [
+                        "29_bedecked in wallace's signature head bandana and loose-limbed slovenliness, segel is totally persuasive as a troubled brainiac, socking over wallace's uneven flow of verbiage and melting ever so slightly in the heat of a fanboy-interrogator.",
+                        -0.5074040504314904
+                    ],
+                    [
+                        "30_an illuminating meditation on art and life with jason segel giving the performance of his career, potently catching the internal conflicts of celebrated novelist david foster wallace.",
+                        0.7802599156851282
+                    ],
+                    [
+                        "32_this great movie from director james ponsoldt may have saved jason segel from a life of infinite cinematic jest.",
+                        0.6035724782886891
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_unlike the book, the movie is not a raw conversation, where wallace is on more or less equal footing with lipsky.",
+                0.5008849429911848
+            ],
+            [
+                "1_ the end of the tour is disgraceful.",
+                0.617590030871184
+            ],
+            [
+                "2_it's a movie that makes ",
+                0.5399968929552892
+            ],
+            [
+                "4_ cinematic, \"the end of the tour\" is an offbeat and fascinating film.",
+                0.7617210895709563
+            ],
+            [
+                "5_the end of the tour is so effective because it's far too smart to engage in ominous foreshadowing.",
+                0.7592309334465255
+            ],
+            [
+                "6_taken as a film about two fictional characters,",
+                0.6827368983417407
+            ],
+            [
+                "6_\"the end of the tour\" is a stimulating delight.",
+                0.7125327248643598
+            ],
+            [
+                "12_made with love and skill, the movie deserves to be seen.",
+                0.8343875373742806
+            ],
+            [
+                "14_never have i seen one that moved me so close to tears as \"the end of the tour,\" which transforms that common clay into a work of beauty.",
+                0.529150909813822
+            ],
+            [
+                "15_the film consists of the two men talking, and not a lot else.",
+                -0.5363916492532252
+            ],
+            [
+                "17_many feel the film, based on lipsky's interview transcriptions, carries a ghoulish aura of opportunism.",
+                0.6887923673309074
+            ],
+            [
+                "18_the end of the tour\" focuses on is truly an axiom for our times.",
+                0.7117705039057284
+            ],
+            [
+                "21_the movie is only for wallace buffs and one other, even smaller group: journalists who have interviewed a reasonably famous cultural personage.",
+                0.5871403743341612
+            ],
+            [
+                "26_it's ultimately a movie - one of the most rigorous and ",
+                0.6578673849863153
+            ],
+            [
+                "33_ponsoldt loves his characters, and that likability softens the edges, without allowing the film to ever turn maudlin or sentimental.",
+                0.7666637713393651
+            ],
+            [
+                "34_the script is so full of acute observations that i found myself scribbling down the whole movie as i was watching.",
+                -0.5714254176898436
+            ],
+            [
+                "35_ very much the film that lovers of wallace's dazzlingly perspicacious fiction and essays would want.",
+                0.7066005445694883
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Ponsoldt": {
+                "args": [
+                    [
+                        "32_this great movie from director james ponsoldt may have saved jason segel from a life of infinite cinematic jest.",
+                        0.6035724782886891
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_the performances, the writing, the direction, segel's d.f.w. impression, everything is just fine.",
+                0.6285355293854012
+            ],
+            [
+                "8_we're in the company of a great character here, with a lot on his mind, a lot to say.",
+                0.8548043469674211
+            ],
+            [
+                "9_in segel's performance, [the film] captures the quandary of an immensely gifted and immensely troubled writer who disdained the celebrity he also, without fully fessing up to it, sought.",
+                0.8143020171984313
+            ],
+            [
+                "19_ its flatness, is worth exploring, just as the writer's unremarkable home is picked apart by lipsky, who prowls around like a cop, noting the contents of the bathroom cabinet and the photograph of updike on the wall.",
+                0.6500282801259871
+            ],
+            [
+                "34_the script is so full of acute observations that i found myself scribbling down the whole movie as i was watching.",
+                -0.5714254176898436
+            ]
+        ],
+        "entities": {
+            "Donald Margulies": {
+                "args": [
+                    [
+                        "22_ponsoldt and margulies have squeezed every last drop of subtext out of the material, and at times the movie's small canvas feels momentous.",
+                        -0.763922616403037
+                    ],
+                    [
+                        "24_donald margulies' screenplay distills lipsky's material in a way that's both tender and incisive.",
+                        0.7444377985109565
+                    ]
+                ]
+            }
+        }
+    }
+}

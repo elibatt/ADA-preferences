@@ -1,0 +1,120 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ \"13 minutes\" is a period piece,",
+                -0.5101817772902775
+            ],
+            [
+                "5_\"13 minutes\" is a superbly acted and strikingly evocative work, with careful attention to period detail and its many emotional beats.",
+                0.775581391030808
+            ],
+            [
+                "6_13 minutes works like clockwork as an artful (if not terribly ambitious) take on a grotesque era.",
+                0.6766560673159736
+            ],
+            [
+                "10_13 minutes is proof that a hero isn't about having success against impossible odds",
+                -0.6670525312226963
+            ],
+            [
+                "11_\" aspects of this true-life drama are so tantalizing that the movie's workmanlike execution is doubly dissatisfying.",
+                0.6834065931517311
+            ],
+            [
+                "13_while not as powerful as the brilliant downfall, which chronicled hitler's final days, 13 minutes is definitely a story worth telling, and intriguingly timed.",
+                0.8059468831257096
+            ],
+            [
+                "14_with a little more shading and originality, \"13 minutes\" might have pushed beyond its familiar nazi tropes to shape something more immediate and infinitely more potent: an ominous portrait of radicalization.",
+                0.6698922401171535
+            ],
+            [
+                "16_the answer the film provides seems a bit easier than what the real story must have been.",
+                -0.5430972443756875
+            ],
+            [
+                "18_the movie is well acted and mostly absorbing, ",
+                0.7021820720144828
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Oliver Hirschbiegel": {
+                "args": [
+                    [
+                        "3_it puts one in the mind to make a meme: hitler reacts to oliver hirschbiegel's prosaic flashback transitions.",
+                        0.6236874557385179
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Rüdiger Klink": {
+                "args": []
+            },
+            "Burghart Klaussner": {
+                "args": []
+            },
+            "Katharina Schüttler": {
+                "args": []
+            },
+            "Gerti Drassl": {
+                "args": []
+            },
+            "Simon Licht": {
+                "args": []
+            },
+            "Felix Eitner": {
+                "args": []
+            },
+            "Johann von Bülow": {
+                "args": []
+            },
+            "Cornelia Kondgen": {
+                "args": []
+            },
+            "Michael Kranz": {
+                "args": []
+            },
+            "Christian Friedel": {
+                "args": [
+                    [
+                        "4_ as scripted here, he acted alone and purely from moral conviction, which friedel conveys in a passionate, charismatic performance.",
+                        0.7264599524469226
+                    ],
+                    [
+                        "7_a compelling and passionate performance from friedel defines 13 minutes ",
+                        0.7022453094528495
+                    ]
+                ]
+            },
+            "David Zimmerschied": {
+                "args": []
+            },
+            "Martin Maria Abram": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Léonie-Claire Breinersdorfer": {
+                "args": []
+            },
+            "Fred Breinersdorfer": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

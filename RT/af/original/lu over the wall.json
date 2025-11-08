@@ -1,0 +1,73 @@
+{
+    "writer": {
+        "entities": {
+            "Masaaki Yuasa": {
+                "args": []
+            },
+            "Reiko Yoshida": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_the character renderings feel more rushed than the rich, warm backgrounds.",
+                0.7110298786058116
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kanon Tani": {
+                "args": []
+            },
+            "Minako Kotobuki": {
+                "args": []
+            },
+            "Shôta Shimoda": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_i can't lie: i was bored throughout the 112 minutes i spent watching lu over the wall.",
+                -0.7876760904358481
+            ],
+            [
+                "2_the film has a scrappy, sometimes cheap look to it (characters look flat, like thin-lined etch-a-sketch drawings, superimposed over more colorful hand-painted backgrounds), for which it more than compensates via other strengths ...",
+                0.5524602426215302
+            ],
+            [
+                "3_ he is clearly an artist with an individual vision whose work offers something genuinely new and eye-catching.",
+                0.7474279490899197
+            ],
+            [
+                "4_what the film gains in energy, it loses in the kinds of expressive details that make two-dimensional figures seem like they breathe three-dimensional life.",
+                0.7617597089866975
+            ],
+            [
+                "5_even by anime standards, lu over the wall is best enjoyed by disconnecting your logic circuits and just enjoying the pretty colors and sounds.",
+                0.8223076493180463
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Masaaki Yuasa": {
+                "args": [
+                    [
+                        "7_throughout the film, yuasa's eye for vivid colors and slapsticky antics lead the way.",
+                        0.737498007120175
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

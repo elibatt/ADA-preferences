@@ -1,0 +1,95 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_\"the misandrists\" is a bad taste manifesto with an extreme feminist agenda.",
+                -0.7658971096646232
+            ],
+            [
+                "4_the misandrists presents an unusual atmosphere, one mainstream cinema can not even conceive of, let alone get on a screen.",
+                -0.5750566719953096
+            ],
+            [
+                "9_labruce makes room for a nuanced critique of gender essentialism even as he celebrates this male-free utopia is what elevates the misandrists beyond a merely (admittedly very) satisfying rendering of a salacious premise.",
+                0.6622457861610671
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bruce La Bruce": {
+                "args": [
+                    [
+                        "1_director bruce labruce tries hard to be the next john waters, ",
+                        -0.6512027886279051
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Lina Bembe": {
+                "args": []
+            },
+            "Susanne Sachsse": {
+                "args": []
+            },
+            "Sam Dye": {
+                "args": []
+            },
+            "Olivia Kundisch": {
+                "args": []
+            },
+            "Victoire Laly": {
+                "args": []
+            },
+            "Kembra Pfahler": {
+                "args": []
+            },
+            "Serenity Rosa": {
+                "args": []
+            },
+            "Kita Updike": {
+                "args": []
+            },
+            "Lo-Fi Cherry": {
+                "args": []
+            },
+            "Til Schindler": {
+                "args": []
+            },
+            "Viva Ruiz": {
+                "args": []
+            },
+            "Barb Ara": {
+                "args": []
+            },
+            "Grete Gehrke": {
+                "args": []
+            },
+            "Caprice Crawford": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_ its slow execution and cardboard acting doesn't play nice.",
+                -0.7181069622464804
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Bruce La Bruce": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

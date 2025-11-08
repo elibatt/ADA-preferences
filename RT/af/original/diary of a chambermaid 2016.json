@@ -1,0 +1,158 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rosette": {
+                "args": []
+            },
+            "Patrick d'Assumçao": {
+                "args": []
+            },
+            "Emmanuel Menard": {
+                "args": []
+            },
+            "Édith Le Merdy": {
+                "args": []
+            },
+            "Joséphine Derenne": {
+                "args": []
+            },
+            "Philippe Suner": {
+                "args": []
+            },
+            "Anne Lichtle": {
+                "args": []
+            },
+            "Gerald Raynaud": {
+                "args": []
+            },
+            "Nicolas Peduzzi": {
+                "args": []
+            },
+            "Yvette Petit": {
+                "args": []
+            },
+            "Claire Ruppli": {
+                "args": []
+            },
+            "Vincent Lacoste": {
+                "args": []
+            },
+            "Maud Wyler": {
+                "args": []
+            },
+            "Helene Schwaller": {
+                "args": []
+            },
+            "Mélodie Valemberg": {
+                "args": []
+            },
+            "Anne Raphael": {
+                "args": []
+            },
+            "Herve Pierre": {
+                "args": []
+            },
+            "Simon Arnaud": {
+                "args": []
+            },
+            "Vincent Lindon": {
+                "args": []
+            },
+            "Jean-Louis Croquet": {
+                "args": []
+            },
+            "Clotilde Mollet": {
+                "args": []
+            },
+            "Léa Seydoux": {
+                "args": [
+                    [
+                        "1_jacquot makes a persuasive case for a return to the story, with a scowling, watchful lea seydoux in the role of a scheming chambermaid.",
+                        0.7424280793159486
+                    ],
+                    [
+                        "2_worth seeing as another entry in the rise of léa seydoux, a star of gallic charisma if ever i've seen one.",
+                        0.561234702179505
+                    ],
+                    [
+                        "4_ it's filled with sharp commentary on class and servitude, and [seydoux] delivers another extraordinary performance.",
+                        0.7718640285478157
+                    ],
+                    [
+                        "10_jacquot's diffuse and unmotivated film will be remembered as nothing more than an extraordinary monument to léa seydoux's ferocious side-eye.",
+                        0.6927730839361657
+                    ],
+                    [
+                        "11_célestine and joseph never make logical confederates, a result of the sodden chemistry between seydoux and lindon.",
+                        -0.5818287481726051
+                    ]
+                ]
+            },
+            "Alain Eloy": {
+                "args": []
+            },
+            "Aurelia Petit": {
+                "args": []
+            },
+            "Michael Aragones": {
+                "args": []
+            },
+            "Dominique Reymond": {
+                "args": []
+            },
+            "Adriana Asti": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_unfolding elliptically, the new film can feel abrupt and unsatisfying, ",
+                0.544482396164365
+            ],
+            [
+                "5_rather than gain speed and power in its final act, as joseph's design comes into play, the movie stalls.",
+                0.6590142831996783
+            ],
+            [
+                "11_their scheming to leave the lanlaires for good merely hastens the movie's too-abrupt ending ...",
+                -0.6264768359644444
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Benoît Jacquot": {
+                "args": [
+                    [
+                        "3_the immediate effect jacquot achieves, with quiet droll and some considerable dread, is bracing.",
+                        0.7194744813885081
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Benoît Jacquot": {
+                "args": []
+            },
+            "Hélène Zimmer": {
+                "args": [
+                    [
+                        "8_jacquot and helene zimmer's loose adaptation of the novel acidly critiques the social rigidities of turn-of-the-century europe, ",
+                        0.5166020670889018
+                    ]
+                ]
+            }
+        }
+    }
+}

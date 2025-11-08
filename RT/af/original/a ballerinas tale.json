@@ -1,0 +1,98 @@
+{
+    "acting": {
+        "entities": {
+            "Leyla Fayyaz": {
+                "args": []
+            },
+            "Tracey Kemble": {
+                "args": []
+            },
+            "Alicia Graf Mack": {
+                "args": []
+            },
+            "Raven Wilkinson": {
+                "args": []
+            },
+            "Gilda Squire": {
+                "args": []
+            },
+            "Misty Copeland": {
+                "args": [
+                    [
+                        "2_e to the (sadly few) black ballerinas who came before copeland",
+                        -0.7548827629179361
+                    ],
+                    [
+                        "5_a worthy story gets flat-footed treatment in nelson george's portrait of ballerina misty copeland.",
+                        0.6198787223932116
+                    ],
+                    [
+                        "7_in a ballerina's tale, director nelson george paints a moving portrait of copeland that underscores her triumphs over bodily and historical limitations.",
+                        0.7231844099772047
+                    ]
+                ]
+            },
+            "Daisha Graf": {
+                "args": []
+            },
+            "Susan Fales-Hill": {
+                "args": []
+            },
+            "Victoria Rowell": {
+                "args": []
+            },
+            "Deidre Kelly": {
+                "args": []
+            },
+            "Robyn Gardenhire": {
+                "args": []
+            },
+            "Bevy Smith": {
+                "args": []
+            },
+            "Brenda Dixon Gottschild": {
+                "args": []
+            },
+            "Deirdre Kelly Sullivan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Nelson George": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Nelson George": {
+                "args": [
+                    [
+                        "0_ george... captures the behind-the-scenes grit required of any great artist while also making it clear why this artist is more important than most.",
+                        0.8514702693078259
+                    ],
+                    [
+                        "5_a worthy story gets flat-footed treatment in nelson george's portrait of ballerina misty copeland.",
+                        0.6198787223932116
+                    ],
+                    [
+                        "7_in a ballerina's tale, director nelson george paints a moving portrait of copeland that underscores her triumphs over bodily and historical limitations.",
+                        0.7231844099772047
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

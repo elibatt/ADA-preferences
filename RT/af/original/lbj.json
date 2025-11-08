@@ -1,0 +1,183 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_it's as workmanlike as johnson was as a politician",
+                0.5074805699891521
+            ],
+            [
+                "3_captures a tumultuous political era and one of its most profanely colorful leaders with a good deal of insight and emotional torque.",
+                0.8520793746692741
+            ],
+            [
+                "4_harrelson gives it all he has as the gruff, emotionally needy and politically savvy successor to the matinee-idol commander-in-chief, john f. kennedy.",
+                0.7003442376236904
+            ],
+            [
+                "5_ certain you'll enjoy the stuff that's supposed to work.",
+                -0.5250915533027803
+            ],
+            [
+                "7_an attentively presented ",
+                0.5113890103549076
+            ],
+            [
+                "7_ oddly unrewarding viewing experience ",
+                0.5684355286202369
+            ],
+            [
+                "8_this is definitely the wrong commander in chief to portray as an overgrown grumpy toddler, ",
+                -0.5379370754272139
+            ],
+            [
+                "9_[lbj] adds little to the cinematic understanding of johnson's presidency already supplied.",
+                -0.5791854310190139
+            ],
+            [
+                "10_feels like an installment of a 1980s miniseries that's been preserved in amber rather than a complete and fulfilling production.",
+                -0.5814797470820783
+            ],
+            [
+                "12_it's not that johnson isn't a compelling dramatic figure, ",
+                -0.610058520240431
+            ],
+            [
+                "13_what you get is a straightfoward, frustratingly mild portrait of a big man who, in \"hamilton\"-speak, wanted to be in the room where it happened, ",
+                -0.5424372691024312
+            ],
+            [
+                "13_ who really just wanted to be loved and respected.",
+                -0.5672595319340106
+            ],
+            [
+                "14_\"lbj\" is a good story told badly, ",
+                0.5220400801932226
+            ],
+            [
+                "14_ a good story all the same.",
+                0.6075546643111163
+            ],
+            [
+                "15_it ultimately whittles a fascinating and flawed public figure down into a simplified hero of history.",
+                0.5614676340684364
+            ],
+            [
+                "16_who could have guessed a rather straightforward, broadly told biopic of lyndon baines johnson could be comforting?",
+                -0.5091147576640156
+            ],
+            [
+                "16_these are interesting times.",
+                0.5651896928090306
+            ],
+            [
+                "17_harrelson embodies the texan's endless drive, his careful craftiness - and his surprising, never-satisfied need for love.",
+                0.6624249926978325
+            ],
+            [
+                "18_the movie is cheering, in its way, which is different from being good, exactly.",
+                0.5956094416540202
+            ],
+            [
+                "21_absorbing if conventional.",
+                0.5060188111569903
+            ],
+            [
+                "22_reiner has been around the block enough times to relish everything in johnson",
+                -0.5002744626350305
+            ],
+            [
+                "22_that's rudely incorrect.",
+                0.5019744752980009
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rob Reiner": {
+                "args": [
+                    [
+                        "5_here, reiner's more like an efficient ride operator, unconcerned about the clankiness of the machinery ",
+                        0.5737488411864815
+                    ],
+                    [
+                        "12_ [rob] reiner's film is too broad and simplistic to capture why that is.",
+                        -0.5061883086494221
+                    ],
+                    [
+                        "19_the political intricacies and hearty bluster of rob reiner's drama, about lyndon baines johnson's accidental presidency, help to overcome its wax-museum eeriness.",
+                        0.7266848934916094
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rich Sommer": {
+                "args": []
+            },
+            "C. Thomas Howell": {
+                "args": []
+            },
+            "Bill Pullman": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": [
+                    [
+                        "0_woody harrelson in the title role has enough spice to keep the viewer alert and attentive.",
+                        0.6877269726720099
+                    ],
+                    [
+                        "2_ as a primer on one of history's less flashy leaders, it's a worthwhile watch - mostly for fellow texan woody harrelson's committed performance behind those prosthetic ears.",
+                        0.6709372992816376
+                    ],
+                    [
+                        "6_it's a well-calibrated performance, with harrelson convincingly conveying how lyndon johnson felt the weight of the world on his shoulders and took on that challenge in mostly admirable ways.",
+                        0.7710333616694023
+                    ],
+                    [
+                        "7_ a persuasive woody harrelson lead performance as lyndon baines johnson.",
+                        0.5619681489503293
+                    ],
+                    [
+                        "11_\"lbj\" is a frustratingly underdeveloped vehicle for mr. harrelson's talents as well as an unfortunate missed opportunity.",
+                        -0.7259192519485
+                    ],
+                    [
+                        "20_woody harrelson's hammy performance almost makes this biopic worth endorsing.",
+                        0.5890444260570293
+                    ]
+                ]
+            },
+            "Jennifer Jason Leigh": {
+                "args": []
+            },
+            "Richard Jenkins": {
+                "args": []
+            },
+            "Jeffrey Donovan": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joey Hartstone": {
+                "args": [
+                    [
+                        "8_ that's how joey hartstone's simplistic script often characterizes him.",
+                        -0.5796238696023832
+                    ]
+                ]
+            }
+        }
+    }
+}

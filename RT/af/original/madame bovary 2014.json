@@ -1,0 +1,123 @@
+{
+    "writer": {
+        "entities": {
+            "Sophie Barthes": {
+                "args": []
+            },
+            "Felipe Marino": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_even at nearly two hours, much-needed character development is sorely lacking.",
+                -0.69548783873973
+            ],
+            [
+                "13_unafraid to make emma decidedly unsympathetic, wasikowska tries hard to convey the character's sense of feeling stifled by her era, ",
+                -0.5925835569929225
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Sophie Barthes": {
+                "args": [
+                    [
+                        "5_ director sophie barthes compresses emma's multiyear rise and fall into what seems like a month or so.",
+                        -0.6489742312389111
+                    ],
+                    [
+                        "16_director sophie barthes has little luck in this latest trek down madame bovary's road to rouen.",
+                        -0.7362468857493967
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_for a film about passion, it feels oddly flat and often passionless.",
+                -0.6144770529169806
+            ],
+            [
+                "4_for all the talk of romance, this is a madame bovary that's grounded in the real - in the sounds and colors of emma's world, in its material limitations and splendors.",
+                0.6996308123536532
+            ],
+            [
+                "8_ this \"madame bovary\" is unfortunately not quite itself.",
+                -0.7800757829331333
+            ],
+            [
+                "9_sadly, this \"madame bovary\" makes that identification harder than it should be.",
+                -0.7181613171800516
+            ],
+            [
+                "10_this \"madame bovary\" may not quite be flaubert's, ",
+                0.5700302437027405
+            ],
+            [
+                "11_ the well-acted film doesn't leave us wiser about the enigmatic, ever-doomed figure at the center of things.",
+                -0.6457756583609116
+            ],
+            [
+                "12_\"madame bovary's\" attempt to give flaubert's text the benefit of a 21st-century feminist perspective is admirable if unsuccessful.",
+                -0.6119683285730044
+            ],
+            [
+                "13_ the movie still can't quite capture her shallow depth.",
+                -0.6825487592968852
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Mia Wasikowska": {
+                "args": [
+                    [
+                        "8_it is not hard to believe that ms. wasikowska is madame bovary",
+                        -0.7577807162394141
+                    ],
+                    [
+                        "13_unafraid to make emma decidedly unsympathetic, wasikowska tries hard to convey the character's sense of feeling stifled by her era, ",
+                        -0.5925835569929225
+                    ]
+                ]
+            },
+            "Paul Giamatti": {
+                "args": []
+            },
+            "Laura Carmichael": {
+                "args": []
+            },
+            "Morfydd Clark": {
+                "args": []
+            },
+            "Logan Marshall-Green": {
+                "args": []
+            },
+            "Ezra Miller": {
+                "args": []
+            },
+            "Luke Tittensor": {
+                "args": []
+            },
+            "Henry Lloyd-Hughes": {
+                "args": []
+            },
+            "Olivier Gourmet": {
+                "args": []
+            },
+            "Rhys Ifans": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

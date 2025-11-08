@@ -1,0 +1,120 @@
+{
+    "acting": {
+        "args": [
+            [
+                "9_it presents a compelling situation, genuinely touching moments and pockets of strong acting ... and dialogue that has people in the audience turning to each other and laughing because it's so absurd.",
+                0.6678622620465134
+            ]
+        ],
+        "entities": {
+            "B.D. Wong": {
+                "args": []
+            },
+            "Carla Gugino": {
+                "args": []
+            },
+            "Gary Oldman": {
+                "args": [
+                    [
+                        "5_as the token adults, carla gugino looks concerned, which is understandable, and gary oldman shouts a lot, possibly to keep himself awake.",
+                        0.5376150657507037
+                    ]
+                ]
+            },
+            "Britt Robertson": {
+                "args": []
+            },
+            "Asa Butterfield": {
+                "args": []
+            },
+            "Janet Montgomery": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_won't come close to troubling your heartstrings, let alone the space between your ears.",
+                -0.7985370579184938
+            ],
+            [
+                "1_by the time you get to the money shot of two lovers kissing in zero gravity, you'll either be deep in this movie's pocket or have fallen into a diabetic coma.",
+                -0.6084425725895004
+            ],
+            [
+                "3_every once in a while a movie proves to be truly inexplicable.",
+                0.5627627385780875
+            ],
+            [
+                "7_you may very well laugh and cry during \"the space between us,\" ",
+                -0.5601254266655336
+            ],
+            [
+                "10_ since the movie has so easily squandered its intriguing premise, there's little reason to cheer.",
+                -0.7379305019709214
+            ],
+            [
+                "12_this corny sci-fi drama abounds with annoying plot holes and product placements, and the 2017 teenspeak (\"you ghosted me!\") will probably sound dated to anyone watching the movie even a few years from now.",
+                -0.6164447862586795
+            ],
+            [
+                "18_the space between us is what it looks like when a promising premise is betrayed by a dumbed-down, hackneyed screenplay.",
+                -0.7783273489873304
+            ],
+            [
+                "21_this movie is ridiculous.",
+                -0.6947241017433596
+            ],
+            [
+                "25_: the space between us spends so much time piling one daffy, laughable plot beat upon another that it never bothers to nail down the characters.",
+                -0.7172147102743534
+            ],
+            [
+                "30_the movie often delivers on its promises.",
+                0.51721943340343
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Peter Chelsom": {
+                "args": [
+                    [
+                        "13_with the disappearance of video stores, there is something heartening about the existence of \"the space between us,\" a cheesy hunk of science fiction from peter chelsom that once would have drawn curious young eyes to vhs shelves.",
+                        -0.5400228954711697
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_the space between us is what it looks like when a promising premise is betrayed by a dumbed-down, hackneyed screenplay.",
+                -0.7783273489873304
+            ]
+        ],
+        "entities": {
+            "Tinker Lindsay": {
+                "args": []
+            },
+            "Peter Chelsom": {
+                "args": []
+            },
+            "Allan Loeb": {
+                "args": [
+                    [
+                        "30_, one clumsily plotted flick, with a screenplay by allan loeb that gambles everything on a twist ending you could spot from a galaxy away.",
+                        -0.6842308390532238
+                    ]
+                ]
+            }
+        }
+    }
+}

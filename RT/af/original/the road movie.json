@@ -1,0 +1,52 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_here is a film of considerable action and excitement that is undoubtedly real.",
+                0.7697278222596908
+            ],
+            [
+                "6_the few bursts of excitement and humor found along the way just aren't enough to make \"the road movie\" worth the trip.",
+                -0.591833339137326
+            ],
+            [
+                "7_if you choose to believe the russian people have a fatalistic streak, \"the road movie\" suggests why.",
+                0.5099901250996053
+            ],
+            [
+                "8_somewhere between \"jackass\" and \"faces of death\" lies the queasy allure of \"the road movie.\"",
+                0.5867480751372373
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dmitrii Kalashnikov": {
+                "args": [
+                    [
+                        "5_as if he were assembling a collection of russian scary stories, the director dmitrii kalashnikov makes the bizarre beguiling.",
+                        0.5468233766683417
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_a study of human nature under unusual circumstances, revealing the often stoic and nonchalant nature of the russian character.",
+                0.7713029803513913
+            ]
+        ],
+        "entities": {}
+    }
+}

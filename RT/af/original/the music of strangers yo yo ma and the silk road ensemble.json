@@ -1,0 +1,55 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "10_neville is keenly aware of how to show the musicians' kinetic energy onscreen, and he relies on this talent to keep the film consistently alive and moving.",
+                0.7671123676855314
+            ],
+            [
+                "11_a first-rate music film capturing a restless desire to communicate beyond the boundaries of any single idiom.",
+                0.6517089561180018
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kinan Azmeh": {
+                "args": []
+            },
+            "Cristina Pato": {
+                "args": []
+            },
+            "Kayhan Kalhor": {
+                "args": []
+            },
+            "Wu Man": {
+                "args": []
+            },
+            "Yo-Yo Ma": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Morgan Neville": {
+                "args": [
+                    [
+                        "1_ma's project and neville's film celebrate the joy that can be achieved when people put aside their regional differences to create something joyous.",
+                        0.8168876048532235
+                    ]
+                ]
+            }
+        }
+    }
+}

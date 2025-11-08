@@ -1,0 +1,101 @@
+{
+    "director": {
+        "args": [
+            [
+                "8_its explanatory title doesn't begin to convey just how exhilarating or inspiring a documentary this truly is, and how excellent a trip this well-respected french director takes you on.",
+                0.8032780738412899
+            ]
+        ],
+        "entities": {
+            "Bertrand Tavernier": {
+                "args": [
+                    [
+                        "0_this is tavernier's own film story",
+                        0.7436231640547923
+                    ],
+                    [
+                        "1_mostly, there's tavernier, a happy bear of a man.",
+                        0.7680427074829004
+                    ],
+                    [
+                        "2_it's tempting to say that bertrand tavernier's 3-hour-and-15-minute documentary... is a feast for everybody who loves classic gallic movies.",
+                        0.7570753609085283
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bertrand Tavernier": {
+                "args": [
+                    [
+                        "0_this is tavernier's own film story",
+                        0.7436231640547923
+                    ],
+                    [
+                        "1_mostly, there's tavernier, a happy bear of a man.",
+                        0.7680427074829004
+                    ],
+                    [
+                        "2_it's tempting to say that bertrand tavernier's 3-hour-and-15-minute documentary... is a feast for everybody who loves classic gallic movies.",
+                        0.7570753609085283
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Bertrand Tavernier": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ dry, as the film swoons with passion for gallic films and filmmaking.",
+                0.6298143564065529
+            ],
+            [
+                "2_ it's also a movie for people who just plain love movies",
+                0.5027917299080722
+            ],
+            [
+                "5_it would be a shame if the film were to be seen only by those already interested in french cinema.",
+                -0.5303802333485214
+            ],
+            [
+                "6_ observant cinema that had already given french film a name before godard and company drew up their canonical map, detonated their explosives and reassembled the pieces.",
+                0.5651056844929483
+            ],
+            [
+                "7_ a film for a niche of a niche.",
+                0.5116717252040612
+            ],
+            [
+                "9_a passionate, opinionated, drop-dead fascinating documentary essay about that country's film history put together by a clear-eyed enthusiast who was born to tell the tale.",
+                0.7629078445086507
+            ],
+            [
+                "10_a selective, eccentric survey of the richest periods of french moviemaking and, by extension, film in general.",
+                0.6552526234953361
+            ],
+            [
+                "11_tavernier's own adolescent obsession with the films of jacques becker gets the movie off to a choppy start, ",
+                0.5870729053189288
+            ],
+            [
+                "11_ the variety of inspirations (not to mention the visual quality of the film clips) is astonishing.",
+                0.5992495378228514
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

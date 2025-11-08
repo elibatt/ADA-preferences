@@ -1,0 +1,108 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "4_it's the usual trope-iary of stunts and oriental wisdoms, redeemed by stellar work in the main roles.",
+                0.6119614080400818
+            ],
+            [
+                "5_almost certainly the second worst thing to happen to bruce lee, this toothless and tame movie doesn't even come close to capturing the great man's dangerous charisma.",
+                -0.8486573269605173
+            ],
+            [
+                "7_there's no reason a movie in which bruce lee and steve mcqueen (er, \"steve mckee\") duke it out with chinatown gangsters in mid-1960s san francisco has any business being this joyless and dull.",
+                -0.8498432278985157
+            ],
+            [
+                "8_ the film never really gets fully juiced until the climax ...",
+                -0.6624482162240836
+            ],
+            [
+                "10_how, this far into the 21st century, does a film like this get made?",
+                0.7260129456774426
+            ],
+            [
+                "11",
+                -1
+            ],
+            [
+                "13",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "13_white-saviour complex and bait and switch aside, nolfi fails at almost everything he attempts.",
+                -0.6874524112026755
+            ]
+        ],
+        "entities": {
+            "George Nolfi": {
+                "unique_args": [
+                    [
+                        "13_white-saviour complex and bait and switch aside, nolfi fails at almost everything he attempts.",
+                        -0.6874524112026755
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "8_it wants to be a character study, an explication of martial arts philosophy and an action picture ...",
+                -0.622646355725738
+            ],
+            [
+                "11_an inferior effort that fails to do justice to both its central character and provocative premise.",
+                -0.6757274234224384
+            ]
+        ],
+        "entities": {
+            "Christopher Wilkinson": {
+                "unique_args": []
+            },
+            "Stephen J. Rivele": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Philip Ng": {
+                "unique_args": []
+            },
+            "Yu Xia": {
+                "unique_args": []
+            },
+            "Billy Magnussen": {
+                "unique_args": []
+            },
+            "Jingjing Qu": {
+                "unique_args": []
+            },
+            "Jin Xing": {
+                "unique_args": []
+            },
+            "Simon Yin": {
+                "unique_args": []
+            },
+            "Ron Yuan": {
+                "unique_args": []
+            },
+            "Terry Chen": {
+                "unique_args": []
+            },
+            "Darren E. Scott": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

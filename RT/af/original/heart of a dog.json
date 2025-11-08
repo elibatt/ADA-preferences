@@ -1,0 +1,224 @@
+{
+    "writer": {
+        "entities": {
+            "Laurie Anderson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_an artist getting lost gazing into the unique composition and character of her own navel.",
+                0.6791111296768698
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Laurie Anderson": {
+                "args": [
+                    [
+                        "0_the film is often notable for anderson's honesty.",
+                        0.7542038368509967
+                    ],
+                    [
+                        "1_ anderson's personal touch makes it work.",
+                        0.5897532841004403
+                    ],
+                    [
+                        "2_heart of a dog is a unique, indescribable beast, anderson narrating over a collage of 8mm home video, iphone footage, canine-level camera, and animation.",
+                        0.5263113779751479
+                    ],
+                    [
+                        "4_laurie anderson's heart of a dog is not just a movie ",
+                        -0.5584558378858471
+                    ],
+                    [
+                        "8_the wide swerve of anderson's associations, their \"hypnotic splattered mist,\" don't make for an easy film.",
+                        0.5267171049130779
+                    ],
+                    [
+                        "13_mostly ... this is a terrific laurie anderson album-think the spoken-word tracks from united states live, not big science or mister heartbreak-with a serviceable visual backdrop.",
+                        0.7520884376528072
+                    ],
+                    [
+                        "14_laurie anderson's delicate essay film weaves together observations about her beloved rat terrier, lolabelle, as well as post-9/11 life and, finally, the death of her mother.",
+                        0.7738859217787099
+                    ],
+                    [
+                        "19_ you do have to roll with some of its more lovably pretentious moments: anderson is the kind of cosmopolitan artist who thinks nothing of giving her dog piano lessons or concert recitals.",
+                        0.5572938349147807
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_alternately abstract and literal, the film works best when what we see on screen doesn't align with what we're hearing.",
+                0.8813485295554171
+            ],
+            [
+                "9_a dog is at the heart of this film, ",
+                0.545718255947978
+            ],
+            [
+                "15_perhaps what's most remarkable about \"heart of a dog\" is that it's able to be about many things to many people while also not lacking in an ounce of confidence or focus at the same time.",
+                -0.5535099699905931
+            ],
+            [
+                "18_it's a home movie of a type, if one that, like a stone skipped across a still lake, leaves expanding rings in its path.",
+                0.721462928391769
+            ],
+            [
+                "19_the movie isn't falsely deep or sophomoric, ",
+                -0.7040557853434317
+            ],
+            [
+                "21_heart of a dog is an impressionistic meditation on death and its prelude by a ",
+                -0.5138147685318969
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jessica Irish": {
+                "args": []
+            },
+            "Jason Berger": {
+                "args": []
+            },
+            "Lou Reed": {
+                "args": []
+            },
+            "Margaret Hafitz": {
+                "args": []
+            },
+            "Pierre Riches": {
+                "args": []
+            },
+            "Jenni Muldaur": {
+                "args": []
+            },
+            "Archie": {
+                "args": []
+            },
+            "Elizabeth Wymer": {
+                "args": []
+            },
+            "Rosalia Dean Hudson": {
+                "args": []
+            },
+            "Gatto": {
+                "args": []
+            },
+            "Arlo Willner": {
+                "args": []
+            },
+            "Charlie Hafitz": {
+                "args": []
+            },
+            "Sasha Grossman": {
+                "args": []
+            },
+            "Laurie Anderson": {
+                "args": [
+                    [
+                        "0_the film is often notable for anderson's honesty.",
+                        0.7542038368509967
+                    ],
+                    [
+                        "1_ anderson's personal touch makes it work.",
+                        0.5897532841004403
+                    ],
+                    [
+                        "2_heart of a dog is a unique, indescribable beast, anderson narrating over a collage of 8mm home video, iphone footage, canine-level camera, and animation.",
+                        0.5263113779751479
+                    ],
+                    [
+                        "4_laurie anderson's heart of a dog is not just a movie ",
+                        -0.5584558378858471
+                    ],
+                    [
+                        "8_the wide swerve of anderson's associations, their \"hypnotic splattered mist,\" don't make for an easy film.",
+                        0.5267171049130779
+                    ],
+                    [
+                        "13_mostly ... this is a terrific laurie anderson album-think the spoken-word tracks from united states live, not big science or mister heartbreak-with a serviceable visual backdrop.",
+                        0.7520884376528072
+                    ],
+                    [
+                        "14_laurie anderson's delicate essay film weaves together observations about her beloved rat terrier, lolabelle, as well as post-9/11 life and, finally, the death of her mother.",
+                        0.7738859217787099
+                    ],
+                    [
+                        "19_ you do have to roll with some of its more lovably pretentious moments: anderson is the kind of cosmopolitan artist who thinks nothing of giving her dog piano lessons or concert recitals.",
+                        0.5572938349147807
+                    ]
+                ]
+            },
+            "Elisabeth Weiss": {
+                "args": []
+            },
+            "Dustin Guy Defa": {
+                "args": []
+            },
+            "Heung-Heung Chin": {
+                "args": []
+            },
+            "Evelyn Fleder": {
+                "args": []
+            },
+            "Julian Schnabel": {
+                "args": []
+            },
+            "Paul Davidson": {
+                "args": []
+            },
+            "Willy Friedman": {
+                "args": []
+            },
+            "Bob Currier": {
+                "args": []
+            },
+            "Sam Khoshbin": {
+                "args": []
+            },
+            "Little Will": {
+                "args": [
+                    [
+                        "8_ it is a very good one and only the hardest heart will leave the theatre unmoved.",
+                        0.6948595402787074
+                    ]
+                ]
+            },
+            "Etta": {
+                "args": []
+            },
+            "Lucy Hafitz": {
+                "args": []
+            },
+            "Matt Vega": {
+                "args": []
+            },
+            "Lolabelle": {
+                "args": []
+            },
+            "Nitro": {
+                "args": []
+            },
+            "Kurt Gutenbrunner": {
+                "args": []
+            },
+            "Alexander Kauffman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

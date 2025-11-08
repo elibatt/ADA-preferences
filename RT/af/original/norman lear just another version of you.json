@@ -1,0 +1,148 @@
+{
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "1_an affectionate reminder of what an impact one writer-producer had on the modern world.",
+                0.801590484100201
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Alan Horn": {
+                "args": []
+            },
+            "John Amos": {
+                "args": []
+            },
+            "Norman Lear": {
+                "args": [
+                    [
+                        "2_just another version is less sweeping than lear's memoir ",
+                        -0.5721769739754118
+                    ],
+                    [
+                        "3_if the movie fails to plumb the depth of lear's mystery, it succeeds in being an entertaining look at an influential figure.",
+                        0.6048569299442095
+                    ],
+                    [
+                        "4_the film is poetically structured and lear is a spry, emotionally involved participant in a lively bio-doc that succeeds eulogistically and contextually.",
+                        0.7413732725289763
+                    ],
+                    [
+                        "5_the film inserts us into a solipsistic universe of norman lear, one that also overlaps many of the most significant social, political, and show-biz issues of the second half of the 20th century.",
+                        0.8080235337783814
+                    ],
+                    [
+                        "7_the film is at its most compelling when we hear lear's voice - or just watch him, seated on a theatrically lit ",
+                        0.7577341868613876
+                    ],
+                    [
+                        "8_a fine, celebratory introduction into the career of lear ...",
+                        0.6555748933103157
+                    ],
+                    [
+                        "9_the movie is suffused with melancholy, much of it stemming from lear's realization that most of his life is behind him.",
+                        0.6600937417304442
+                    ]
+                ]
+            },
+            "Valerie Bertinelli": {
+                "args": []
+            },
+            "George Clooney": {
+                "args": []
+            },
+            "Sally Struthers": {
+                "args": []
+            },
+            "Jay Leno": {
+                "args": []
+            },
+            "Adrienne Barbeau": {
+                "args": []
+            },
+            "Marla Gibbs": {
+                "args": []
+            },
+            "Esther Rolle": {
+                "args": []
+            },
+            "Charlotte Rae": {
+                "args": []
+            },
+            "Keaton Nigel Cooke": {
+                "args": []
+            },
+            "Louise Lasser": {
+                "args": []
+            },
+            "Jimmie \"J.J.\" Walker": {
+                "args": []
+            },
+            "Bea Arthur": {
+                "args": []
+            },
+            "Russell Simmons": {
+                "args": []
+            },
+            "Todd Bridges": {
+                "args": []
+            },
+            "Bill Moyers": {
+                "args": []
+            },
+            "Demond Wilson": {
+                "args": []
+            },
+            "Amy Poehler": {
+                "args": []
+            },
+            "Dabney Coleman": {
+                "args": []
+            },
+            "Hal Williams": {
+                "args": []
+            },
+            "Rob Reiner": {
+                "args": []
+            },
+            "Jon Stewart": {
+                "args": []
+            },
+            "Kim Fields": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "12_as long as the man can reflect with such astounding clarity on his accomplishments, such a film is a valuable document.",
+                0.8063572223963545
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Heidi Ewing": {
+                "args": [
+                    [
+                        "14_e in heidi ewing and rachel grady's technically imaginative doc.",
+                        0.6327781149318181
+                    ]
+                ]
+            },
+            "Rachel Grady": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

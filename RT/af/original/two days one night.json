@@ -1,0 +1,175 @@
+{
+    "writer": {
+        "entities": {
+            "Jean-Pierre Dardenne": {
+                "args": []
+            },
+            "Luc Dardenne": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jean-Pierre Dardenne": {
+                "args": [
+                    [
+                        "3_there is strength in simplicity, something the dardenne brothers' \"two days, one night\" and its brilliant star, marion cotillard, prove emphatically.",
+                        0.8724036817003318
+                    ],
+                    [
+                        "4_wonderbrothers jean-pierre and luc dardenne return with a tale of heroic struggle against an ordinary disaster.",
+                        0.6490049277538776
+                    ],
+                    [
+                        "8_as usual, the dardenne brothers are never heavy-handed, ",
+                        -0.657713905689351
+                    ],
+                    [
+                        "18_the dardenne brothers have created a film for its time, bristling with peril and alive to every flicker of human decency.",
+                        0.7576351966546179
+                    ],
+                    [
+                        "23_the dardenne brothers - known for their scruffy, hand-held, realist aesthetic - have made another richly emotional film about friendship and community.",
+                        0.7708964087606547
+                    ],
+                    [
+                        "27_directors jean-pierre and luc dardenne have always had a feel for the rhythms of everyday dramas in unexceptional lives, and here they use their skill and empathy expertly.",
+                        0.6986284715890365
+                    ],
+                    [
+                        "30_specialists in unvarnished intimacy, the dardenne brothers add another clear-eyed contemplation of stark social reality to their impressive output.",
+                        0.7124903132226749
+                    ],
+                    [
+                        "31_the dardenne brothers take on a movie star and lose none of their beautifully observed verisimilitude in another powerhouse slice of working-class belgian life.",
+                        0.582822542879599
+                    ]
+                ]
+            },
+            "Luc Dardenne": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_cannes film festival director thierry fremaux called it a \"belgian western,\" and it's true",
+                0.7955108672101832
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "5_in film after film the dardennes have proven themselves the cinema's most acute humanist critics of predatory capitalism",
+                0.8119278018151427
+            ],
+            [
+                "7_coursing underneath the film's calm, observant surface is a fury at a system that sets people in the same leaky boat at each other's throats.",
+                0.66817159008845
+            ],
+            [
+                "11_cannes film festival director thierry fremaux called it a \"belgian western,\" and it's true",
+                0.7955108672101832
+            ],
+            [
+                "26_one night is a small miracle of a movie, a drama so purely humane that it makes most attempts at audience uplift look crass and calculated by comparison.",
+                -0.5087092829223115
+            ],
+            [
+                "29_affecting and expertly made as it is, the movie's tight focus and streamlined quality left me wanting more.",
+                0.6634728120723816
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Christelle Delbrouck": {
+                "args": []
+            },
+            "Simon Caudry": {
+                "args": []
+            },
+            "Alain Eloy": {
+                "args": []
+            },
+            "Lara Persain": {
+                "args": []
+            },
+            "Fabrizio Rongione": {
+                "args": []
+            },
+            "Rania Mellouli": {
+                "args": []
+            },
+            "Myriem Akeddiou": {
+                "args": []
+            },
+            "Anette Niro": {
+                "args": []
+            },
+            "Marion Cotillard": {
+                "args": [
+                    [
+                        "0_consider marion cotillard's oscar-nominated performance in two days, one night a tour de nuance.",
+                        0.7785574818140435
+                    ],
+                    [
+                        "3_there is strength in simplicity, something the dardenne brothers' \"two days, one night\" and its brilliant star, marion cotillard, prove emphatically.",
+                        0.8724036817003318
+                    ],
+                    [
+                        "12_none of this would work if cotillard's performance weren't so forthright and deeply felt.",
+                        -0.6578902819785584
+                    ],
+                    [
+                        "14_a rare thing, a socio-economic thriller, with a moving performance by cotillard.",
+                        0.7833290658978646
+                    ],
+                    [
+                        "21_even when \"two days, one night\" drags a bit, cotillard's performance remains compelling.",
+                        0.7656768816312679
+                    ],
+                    [
+                        "24_ms. cotillard's performance is as fine a piece of screen acting as you will ever see.",
+                        0.8071911336459332
+                    ],
+                    [
+                        "25_two days, one night, and eases its gaps, is cotillard's extraordinary performance.",
+                        0.7243357970059503
+                    ]
+                ]
+            },
+            "Fabienne Sciascia": {
+                "args": []
+            },
+            "Timur Magomedgadzhiev": {
+                "args": []
+            },
+            "Pili Groyne": {
+                "args": []
+            },
+            "Catherine Salée": {
+                "args": []
+            },
+            "Baptiste Sornin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_as with their previous films, the brothers cast a discerning gaze on working-class lives, without preachiness or sentimentality.",
+                0.7325779143638192
+            ],
+            [
+                "28_ this is one of their best, up there with the child or rosetta in its cast-iron sense of purpose.",
+                0.8840990304737332
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

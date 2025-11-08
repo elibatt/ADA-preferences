@@ -1,0 +1,112 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_meyers makes \"my friend dahmer\" a convincing high school drama, ",
+                0.5264185105942736
+            ],
+            [
+                "1_my friend dahmer is at its most provocative when it considers this dynamic between the exploiters and the exploited.",
+                0.6366972263427174
+            ],
+            [
+                "5_a warped wonder of a movie about a cannibalistic serial killer's awkward teenage years-it takes twisted to areas few have investigated.",
+                0.5137537137413047
+            ],
+            [
+                "10_it's a nuanced and sad high school movie, a portrait of lonely, damaged youth that only gradually reveals itself as the origin story of a psychopath.",
+                0.609647970619744
+            ],
+            [
+                "11_ \"my friend dahmer\" avoids exploitation often enough to forge its own perceptive, tense, character-driven path.",
+                0.583917154530579
+            ],
+            [
+                "13_this film is sensitively wrought.",
+                0.588059262849402
+            ],
+            [
+                "14_my friend dahmer is one of the most disturbing coming-of-age features in memory.",
+                0.7823645692238618
+            ],
+            [
+                "15_the discomfort of reconciling those two facts is where this film lives, and what ultimately makes it work.",
+                0.6312713079699418
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marc Meyers": {
+                "args": [
+                    [
+                        "6_writer-director marc meyers turns backderf's celebrated book into an absorbing, dramatized portrait of casual cruelty and teenage desperation, equal parts the virgin suicides and the texas chain saw massacre.",
+                        0.5670447077181854
+                    ],
+                    [
+                        "7_more than a week after watching writer-director marc meyers' my friend dahmer, i'm still trying to figure out who exactly the film is meant for and why on earth it was made.",
+                        -0.8335936332462305
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Marc Meyers": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_more than a week after watching writer-director marc meyers' my friend dahmer, i'm still trying to figure out who exactly the film is meant for and why on earth it was made.",
+                -0.8335936332462305
+            ],
+            [
+                "11_ \"my friend dahmer\" avoids exploitation often enough to forge its own perceptive, tense, character-driven path.",
+                0.583917154530579
+            ],
+            [
+                "16_there is such a chasm between the unreadable character we see and the extraordinary grisliness of dahmer's crimes that this depiction is as helpful as those inevitable attri",
+                0.7723963595041154
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Dallas Roberts": {
+                "args": []
+            },
+            "Alex Wolff": {
+                "args": []
+            },
+            "Cameron McKendry": {
+                "args": []
+            },
+            "Ross Lynch": {
+                "args": [
+                    [
+                        "12_my friend dahmer is both sensitive and fascinating, distinguished by a stellar, mouth-breathing performance of insecurity from [ross] lynch.",
+                        0.6748390012233336
+                    ],
+                    [
+                        "13_the acting is excellent throughout, and ross lynch in the role of dahmer elicits genuine sympathy for an increasingly lost ",
+                        0.6874337274803678
+                    ]
+                ]
+            },
+            "Anne Heche": {
+                "args": []
+            },
+            "Vincent Kartheiser": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

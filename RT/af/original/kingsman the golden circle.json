@@ -1,0 +1,121 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Matthew Vaughn": {
+                "args": []
+            },
+            "Jane Goldman": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the movie is too long, too violent, too silly-too everything.",
+                -0.748295780307515
+            ],
+            [
+                "2_ people to hate, and without that underlying aggression, the movie feels like it's just going through the motions.",
+                -0.896587059462014
+            ],
+            [
+                "4_if the first kingsman was a work of lol-nothing-matters provocation with a real mean streak, the second is a work of lol-nothing-matters laziness...",
+                0.5530844071791698
+            ],
+            [
+                "6_those who hated the first film will be double irritated.",
+                0.5258385126904535
+            ],
+            [
+                "9_for the most part, the movie is too busy with its ungainly, underwhelming plotting to be even stupidly fun.",
+                -0.5831220338425037
+            ],
+            [
+                "11_the best moments are actually when it pays homage to the first film.",
+                0.692174328870899
+            ],
+            [
+                "21_the golden circle\" is a movie in search of a reason to exist.",
+                -0.5588626304658477
+            ],
+            [
+                "27_ 'enough' does not exist in the philosophy of this movie.",
+                -0.6281022165917247
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Colin Firth": {
+                "args": []
+            },
+            "Taron Egerton": {
+                "args": []
+            },
+            "Mark Strong (II)": {
+                "args": []
+            },
+            "Poppy Delevingne": {
+                "args": []
+            },
+            "Jeff Bridges": {
+                "args": []
+            },
+            "Elton John": {
+                "args": []
+            },
+            "Edward Holcroft": {
+                "args": []
+            },
+            "Channing Tatum": {
+                "args": []
+            },
+            "Michael Gambon": {
+                "args": []
+            },
+            "Halle Berry": {
+                "args": []
+            },
+            "Julianne Moore": {
+                "args": [
+                    [
+                        "3_if the first played like a simultaneous homage to and parody of sean connery's bond, the second feels like a straight riff on the roger moore era: bloated, self-conscious, and smug, with only the occasional flash of nasty wit to put the edge on.",
+                        -0.5348763676211716
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Matthew Vaughn": {
+                "args": [
+                    [
+                        "8_in almost every way, vaughn's new kingsman is an unwieldly inflation of the original, ",
+                        0.7346761046853035
+                    ],
+                    [
+                        "22_i wish director matthew vaughn didn't shoot every slaughterfest with the same slo-mo tics and lurches.",
+                        -0.7347834452351156
+                    ],
+                    [
+                        "28_the shock of the unexpected that made that sequence so jaw-droppingly memorable is gone from \"kingsman: the golden circle\" as sequelitis has vaughn in its grip.",
+                        0.5872089000811681
+                    ],
+                    [
+                        "33_even approached with the watered-down expectations that one brings to a late-september hollywood sequel, matthew vaughn's bespoke secret-agent follow-up is massively disappointing.",
+                        -0.5303265122384064
+                    ]
+                ]
+            }
+        }
+    }
+}

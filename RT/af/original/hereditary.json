@@ -1,0 +1,210 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_hereditary feels like an endless drawing out of that queasy, shocking, falling dream sensation, as the ground beneath the graham family, and the viewer, crumbles.",
+                0.5250554576070293
+            ],
+            [
+                "6_here's a haunted-houses movie for the ages.",
+                -0.5429220703052717
+            ],
+            [
+                "14_\"hereditary\" is staged, photographed and acted so brilliantly, and brings up issues of motherhood, resentment and creativity with such subtlety, that it's tempting to overlook its alternately astonishing and laughable excesses.",
+                0.5645012863320595
+            ],
+            [
+                "17_are you ready for the year's scariest movie?",
+                0.7169246794447335
+            ],
+            [
+                "18_hereditary is wicked existential horror.",
+                0.5574551572815449
+            ],
+            [
+                "19_with this film, at least, he's so good it's scary.",
+                0.5344585387545914
+            ],
+            [
+                "24_hereditary is a great horror movie.",
+                0.7757349104862282
+            ],
+            [
+                "26_[hereditary is] a movie so horrifying and good that you have to see it, even if you shouldn't want to, even if you might never sleep peacefully again.",
+                0.544178487419092
+            ],
+            [
+                "29_\"hereditary\" is that rare thing - a smart horror movie that doesn't outsmart itself by refusing to deliver.",
+                0.6975901787071446
+            ],
+            [
+                "32_hereditary is so refreshing in part because it invents its own scare vocabulary.",
+                0.6854929641275117
+            ],
+            [
+                "33_in its sense of poisoned family bloodlines, of the everyday invaded by unspeakable evil, of bonechilling terror you won't be able to shake, hereditary is a new horror landmark.",
+                0.5825983862640961
+            ],
+            [
+                "34_working with a superb cast, a crafty, teasing musical score by colin stetson and a steady accumulation of wracked nerves, gathered image by carefully planned image, this movie promises a paradoxically bright future for its director.",
+                0.8236782552156987
+            ],
+            [
+                "36_ it's the psychic damage on the screen that will make the film hard to forget.",
+                -0.6039482702874196
+            ],
+            [
+                "39_a deeply unsettling film, the kind of horror movie that pulls from relatable human emotions like grief and resentment to ultimately become an absolute nightmare.",
+                0.7693989505654831
+            ],
+            [
+                "40_hereditary takes the core haunting element of a spirit with a malevolent agenda and runs with it in a seemingly endless series of unexpected directions over two breathless hours of escalating terror that never slackens for a minute.",
+                0.5507296958000223
+            ],
+            [
+                "42_a harrowing story of unthinkable family tragedy that veers into the realm of the supernatural, hereditary takes its place as a new generation's the exorcist -- for some, it will spin heads even more savagely.",
+                0.7399996729179251
+            ],
+            [
+                "44_hereditary excels at permeating a convincing environment of despair with first-rate horror.",
+                0.7537742979588034
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "34_working with a superb cast, a crafty, teasing musical score by colin stetson and a steady accumulation of wracked nerves, gathered image by carefully planned image, this movie promises a paradoxically bright future for its director.",
+                0.8236782552156987
+            ]
+        ],
+        "entities": {
+            "Ari Aster": {
+                "args": [
+                    [
+                        "7_with nary a jump scare in sight, aster has created a moody piece with a delicate ",
+                        0.612070001288553
+                    ],
+                    [
+                        "22_mr. aster writes an impressive-looking check and succeeds in cashing it, ",
+                        0.7958597024123669
+                    ],
+                    [
+                        "38_ from ari aster builds on classical horror tropes - the occult, possession, mental illness- to craft its own unique spin on terror.",
+                        0.6182403364225301
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "28_academy awards don't even feel like enough of a plaudit for this kind of performance.",
+                -0.6534416955568761
+            ],
+            [
+                "34_working with a superb cast, a crafty, teasing musical score by colin stetson and a steady accumulation of wracked nerves, gathered image by carefully planned image, this movie promises a paradoxically bright future for its director.",
+                0.8236782552156987
+            ],
+            [
+                "41_collette's performance is staggering.",
+                0.6497499758155655
+            ]
+        ],
+        "entities": {
+            "Gabriel Monroe Eckert": {
+                "args": []
+            },
+            "Mark Blockovich": {
+                "args": []
+            },
+            "Mallory Bechtel": {
+                "args": []
+            },
+            "John Forker": {
+                "args": []
+            },
+            "A.J. Moss": {
+                "args": []
+            },
+            "Rachelle Hardy": {
+                "args": []
+            },
+            "Jason Miyagi": {
+                "args": []
+            },
+            "Brockton McKinney": {
+                "args": []
+            },
+            "Austin R. Grant": {
+                "args": []
+            },
+            "Milly Shapiro": {
+                "args": []
+            },
+            "Jake Brown": {
+                "args": []
+            },
+            "Shane Morrisun": {
+                "args": []
+            },
+            "Zackary Arthur": {
+                "args": []
+            },
+            "Heidi Mendez": {
+                "args": []
+            },
+            "Marilyn Miller": {
+                "args": []
+            },
+            "Toni Collette": {
+                "args": [
+                    [
+                        "1_toni collette is flawless.",
+                        0.7297627072345931
+                    ],
+                    [
+                        "2_all-time great toni collette performance.",
+                        0.7953166332624052
+                    ],
+                    [
+                        "11_toni collette's work as a mother who's jolted between grief, anxiety and rage...is one for the ages, belonging in the same breath as linda blair in the exorcist and sissy spacek in carrie.",
+                        0.6575829640908517
+                    ],
+                    [
+                        "16_ largely distinguished by toni collette's intricately layered lead performance, a portrayal of a woman whose love for her family spirals into mad decay.",
+                        0.7875245211116424
+                    ],
+                    [
+                        "28_where other actresses would play a single note, collette plays a symphony of emotions.",
+                        0.5101493895875044
+                    ],
+                    [
+                        "33_toni collette should have oscar calling.",
+                        -0.6662401336824072
+                    ],
+                    [
+                        "35_this is a horror picture of uncommon effectiveness in terms of its ability to creep the audience out, and it's collette who cranks the creep meter deep into the red zone.",
+                        0.662567846673348
+                    ]
+                ]
+            },
+            "Gerry Garcia": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ari Aster": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's just smart people acting like dumb people in a dumb movie.",
+                -0.6423605476356989
+            ],
+            [
+                "2_the movie has been on ice awaiting release for over a year, owing to the bankruptcy of its studio.",
+                -0.6610633255250926
+            ],
+            [
+                "2_masterminds owes us our two hours back.",
+                0.5136022564155351
+            ],
+            [
+                "3_masterminds finds plenty of targets for its satirical jabs and lets them all off the hook.",
+                0.6414691635431106
+            ],
+            [
+                "4_what masterminds lacks in sharp one-liners it more than makes up for in ridiculous slapstick.",
+                0.7084623805694168
+            ],
+            [
+                "5_ a movie in which a character is stupid enough to propose a big-time bank robbery so that his gang can make it into the news (\"the big show\") is pushing it.",
+                -0.7927181780717785
+            ],
+            [
+                "6_if smart dumb comedies hold a place in your heart, you'll like masterminds.",
+                0.8081712184383628
+            ],
+            [
+                "7_masterminds often bears the choppy scars of postproduction tinkering, ",
+                -0.566639763461479
+            ],
+            [
+                "10_masterminds is filled with the sort of idiotic bathroom humor that has become standard in big-screen comedies, ",
+                0.6316641639864121
+            ],
+            [
+                "18_this movie is not for you.",
+                -0.5854574038393376
+            ],
+            [
+                "18_this movie is not for anyone.",
+                -0.6664697571360119
+            ],
+            [
+                "19_you might forget \"masterminds\" five minutes after you see it, ",
+                -0.520975412306123
+            ],
+            [
+                "21_ it never quite hangs together as a coherent movie.",
+                -0.5314025703210283
+            ],
+            [
+                "23_it's not just that the people who populate \"masterminds\" are at the mercy of their own bad decisions and worse judgement, it's that they're trapped in a woefully unfunny movie that seems to actively despise them.",
+                -0.8033592048183001
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jared Hess": {
+                "args": [
+                    [
+                        "9_asides, glances, pauses, silences, double takes, and false starts-hess catches an extraordinary range of wondrous humanity within the extravagant theatrics of his wildly self-presenting actors.",
+                        0.6869640460881479
+                    ],
+                    [
+                        "16_kinder to its characters than most comedies about the bumbling and under-educated, and that's hess's strength.",
+                        0.7995209871460223
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "22_zach galifianakis succeeds in making an already ridiculous crime even funnier in this caper comedy from the director of 'napoleon dynamite.'",
+                -0.552478818516487
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Christian Gonzalez": {
+                "args": []
+            },
+            "Laura Palka": {
+                "args": []
+            },
+            "Miller Carbon": {
+                "args": []
+            },
+            "Tom Werme": {
+                "args": []
+            },
+            "Dallas J. Edwards": {
+                "args": []
+            },
+            "Leslie Jones": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": []
+            },
+            "Fred Galle": {
+                "args": []
+            },
+            "Anne Johnson": {
+                "args": []
+            },
+            "Jason Sudeikis": {
+                "args": []
+            },
+            "Timothy Timms": {
+                "args": []
+            },
+            "Daniel Zacapa": {
+                "args": []
+            },
+            "Shelton Grant": {
+                "args": []
+            },
+            "Reegus Flenory": {
+                "args": []
+            },
+            "Zach Galifianakis": {
+                "args": [
+                    [
+                        "12_there's a certain subset of the population that may find zach galifianakis in a ridiculous hairdo the height of comedy.",
+                        0.5593148412326242
+                    ],
+                    [
+                        "22_zach galifianakis succeeds in making an already ridiculous crime even funnier in this caper comedy from the director of 'napoleon dynamite.'",
+                        -0.552478818516487
+                    ]
+                ]
+            },
+            "Devin Ratray": {
+                "args": []
+            },
+            "Jay Amor": {
+                "args": []
+            },
+            "Nicole Sobchack": {
+                "args": []
+            },
+            "Jill Jane Clements": {
+                "args": []
+            },
+            "Marlo Scheitler": {
+                "args": []
+            },
+            "Kate McKinnon": {
+                "args": []
+            },
+            "Allegra Nova": {
+                "args": []
+            },
+            "Vincent Garcia": {
+                "args": []
+            },
+            "Ron Stafford": {
+                "args": []
+            },
+            "Nils Cruz": {
+                "args": []
+            },
+            "Josue Gutierrez": {
+                "args": []
+            },
+            "Michael Angel Fraguada": {
+                "args": []
+            },
+            "Wynn Reichert": {
+                "args": []
+            },
+            "Nicole Michele Sobchack": {
+                "args": []
+            },
+            "Ross Kimball": {
+                "args": []
+            },
+            "Barry J. Ratcliffe": {
+                "args": []
+            },
+            "Matt Corboy": {
+                "args": []
+            },
+            "Candace Blanchard": {
+                "args": []
+            },
+            "Eizzil Cintron Valenzuela": {
+                "args": []
+            },
+            "Jon Daly": {
+                "args": []
+            },
+            "Rhoda Griffis": {
+                "args": []
+            },
+            "Kevin J. O'Connor": {
+                "args": []
+            },
+            "Chris Matheny": {
+                "args": []
+            },
+            "Karsten Friske": {
+                "args": []
+            },
+            "Ken Marino": {
+                "args": []
+            },
+            "Danny Comden": {
+                "args": []
+            },
+            "Njema Williams": {
+                "args": []
+            },
+            "Mary Elizabeth Ellis": {
+                "args": []
+            },
+            "Owen Wilson": {
+                "args": []
+            },
+            "Joseph S. Wilson": {
+                "args": []
+            },
+            "Jee An": {
+                "args": [
+                    [
+                        "9_asides, glances, pauses, silences, double takes, and false starts-hess catches an extraordinary range of wondrous humanity within the extravagant theatrics of his wildly self-presenting actors.",
+                        0.6869640460881479
+                    ],
+                    [
+                        "11_hess and his three scripters rely more on the improv skills of an impressive cast than on anything resembling jokes or a credible story.",
+                        0.5162995621426668
+                    ],
+                    [
+                        "14_ this is an intermittently enjoyable ",
+                        0.6716472151576575
+                    ]
+                ]
+            },
+            "Gabriel Manak": {
+                "args": []
+            },
+            "Wil Smith Smith": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_it's just smart people acting like dumb people in a dumb movie.",
+                -0.6423605476356989
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Hubbel Palmer": {
+                "args": []
+            },
+            "Emily Spivey": {
+                "args": []
+            },
+            "Chris Bowman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_ a movie in which a character is stupid enough to propose a big-time bank robbery so that his gang can make it into the news (\"the big show\") is pushing it.",
+                -0.7927181780717785
+            ]
+        ]
+    }
+}

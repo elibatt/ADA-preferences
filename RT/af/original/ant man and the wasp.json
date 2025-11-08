@@ -1,0 +1,177 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_that's the stuff that makes the movie really sing - not sting.",
+                0.5428885044514657
+            ],
+            [
+                "12_the film cuts superheroes and their oh-so-serious issues down to size.",
+                -0.6049822113160701
+            ],
+            [
+                "16_[\"ant-man and the wasp\"] is pretty much exactly what i'd want in a superhero movie: a funny cast, zippy action scenes and not an infinity stone in sight.",
+                0.535596862057235
+            ],
+            [
+                "25_the earlier film's freewheeling, low-key loopiness is replaced by a dull and dutiful plot that, with its forced references to other marvel installments, squeezes the action to fit the franchise.",
+                -0.7604402718018266
+            ],
+            [
+                "34_it feels less like a feature film than a meme somebody made about an ant-man trailer.",
+                -0.6369857122614179
+            ],
+            [
+                "36_you might wish the whole movie had found a way to go quantum",
+                -0.519725996613779
+            ],
+            [
+                "40_the essence of \"ant-man\" is inherently silly, and that's where the strength of the new movie lies.",
+                0.7128923891885988
+            ],
+            [
+                "42_this latest entry in the unstoppable marvel studios takeover of the world is probably the most amusing film the company has made since the kevin feige reign began a decade ago.",
+                0.6217473814919229
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peyton Reed": {
+                "args": [
+                    [
+                        "41_after a rough start in the previous entry, director peyton reed seems much more comfortable balancing wacky antics, familial bonds and over-the-top superhero set pieces this time around.",
+                        0.5914738035506597
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Michael Douglas": {
+                "args": []
+            },
+            "Laurence Fishburne": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Judy Greer": {
+                "args": []
+            },
+            "Hannah John-Kamen": {
+                "args": []
+            },
+            "Michelle Pfeiffer": {
+                "args": [
+                    [
+                        "36_ you'll certainly long for more pfeiffer, who has too few scenes ",
+                        0.5103405323245531
+                    ]
+                ]
+            },
+            "Walton Goggins": {
+                "args": []
+            },
+            "Abby Ryder Fortson": {
+                "args": []
+            },
+            "T.I.": {
+                "args": [
+                    [
+                        "4_ the two hours you'll spend running around with marvel's ant pals is fun and doesn't have the same emotional investment infinity war or even black panther did earlier this year.",
+                        -0.5047151165539623
+                    ],
+                    [
+                        "5_unlike the unaccountably dull \"ant-man\" feature that came and went three years ago, this one tangles us up cheerfully, almost instantly, in its high-tech bedazzlements and witty beguilements, never loosening its grip.",
+                        -0.5602266947866795
+                    ],
+                    [
+                        "13_\"ant-man and the wasp\" is disposable pop trash, not worth taking seriously for a moment and therefore eminently worthy of your attention at this moment.",
+                        -0.5994517122553004
+                    ],
+                    [
+                        "14_plodding, repetitive, replete with technobabble nonsense and lifeless action, this is easily the worst-written of any of the 20 mcu offerings and may be the worst all-around film featuring a marvel superhero since sony rebooted spider-man.",
+                        -0.6155009161575565
+                    ],
+                    [
+                        "27_there is more of an emotional underpinning to this one than there was in the first one because of the michelle pfeiffer element to it.",
+                        0.6382056907918331
+                    ],
+                    [
+                        "39_while ant-man's technically \"the star,\" this is most definitely the wasp's movie to own, and the smirking,",
+                        0.6850853052403478
+                    ],
+                    [
+                        "41_after a rough start in the previous entry, director peyton reed seems much more comfortable balancing wacky antics, familial bonds and over-the-top superhero set pieces this time around.",
+                        0.5914738035506597
+                    ]
+                ]
+            },
+            "David Dastmalchian": {
+                "args": []
+            },
+            "Evangeline Lilly": {
+                "args": [
+                    [
+                        "38_ he sets this movie's pace, while lilly's fiercely committed hope/wasp acts as the perfect counterweight.",
+                        0.8121791979221117
+                    ],
+                    [
+                        "38_rudd's scenes with lilly and with fortson make the movie matter in human terms.",
+                        0.6261946844320148
+                    ],
+                    [
+                        "39_enjoyably no-nonsense role fits lilly well.",
+                        -0.5639619653632765
+                    ]
+                ]
+            },
+            "Paul Rudd": {
+                "args": [
+                    [
+                        "0_the screenwriters (rudd among them) frequently mock their own sci-fi jargon, their snarkiness the strong suit in a movie offering little else except souped-up car chases.",
+                        -0.6373245431940802
+                    ]
+                ]
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_a light and sunny entry in the ongoing marvel canon that gets by on the cast's easygoing chemistry.",
+                0.7989466617003014
+            ],
+            [
+                "16_[\"ant-man and the wasp\"] is pretty much exactly what i'd want in a superhero movie: a funny cast, zippy action scenes and not an infinity stone in sight.",
+                0.535596862057235
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Andrew Barrer": {
+                "args": []
+            },
+            "Gabriel Ferrari": {
+                "args": []
+            },
+            "Erik Sommers": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

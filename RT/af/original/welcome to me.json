@@ -1,0 +1,173 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Loretta Devine": {
+                "args": []
+            },
+            "Alan Tudyk": {
+                "args": []
+            },
+            "Linda Cardellini": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": [
+                    [
+                        "5_kristen wiig's \"welcome to me\" falls decidedly in the latter category, making us laugh ",
+                        -0.5354789407698692
+                    ],
+                    [
+                        "6_[have] got the ideal star in wiig, whose vacant gaze, frozen smile, and preternatural calm have always suggested a vast reservoir of madness.",
+                        0.796978176114421
+                    ],
+                    [
+                        "9_a nervy, discomfiting comedy starring kristen wiig and a deep bench of supporting talent.",
+                        0.7359151569022836
+                    ],
+                    [
+                        "14_there's an emotional nakedness to wiig's unhinged performance as alice klieg, a woman with borderline personality disorder who has stopped taking her antipsychotic medication, that sometimes makes her hard to watch, even as she is in the limelight.",
+                        0.7545404860401987
+                    ],
+                    [
+                        "16_it's here that wiig's wallflower wit finally dovetails with a lead role that has the depth to support it, as the film evolves into an exuberant cross between synecdoche, new york and tim and eric awesome show, great job!",
+                        0.9025854101915883
+                    ],
+                    [
+                        "20_\"welcome to me\" basically lives and dies by [wiig's] performance, and, luckily, her alice klieg is a carefully and cunningly crafted creation, which exposes an undercurrent of pain and sorrow beneath her often placid, pixilated state.",
+                        0.7348648073548582
+                    ],
+                    [
+                        "21_what makes it worth watching is wiig.",
+                        0.7449897226997704
+                    ],
+                    [
+                        "28_funny, dark, and riding a very fine line in its depiction of mental illness, it may be the best thing we could hope would emerge from the side of wiig that gave us gilly.",
+                        0.8558522996897685
+                    ]
+                ]
+            },
+            "Jennifer Jason Leigh": {
+                "args": []
+            },
+            "Thomas Mann": {
+                "args": []
+            },
+            "Joan Cusack": {
+                "args": []
+            },
+            "James Marsden": {
+                "args": []
+            },
+            "Wes Bentley": {
+                "args": []
+            },
+            "Tim Robbins": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Shira Piven": {
+                "args": [
+                    [
+                        "6_screenwriter eliot laurence and director shira piven...",
+                        0.5202129822132174
+                    ],
+                    [
+                        "8_at turns horribly funny and simply horrific, piven's film suggests our therapeutic age has reduced us all to psychic cripples who resort to emotional exhibitionism in lieu of honest self-examination and self-expression.",
+                        0.7088211258997716
+                    ],
+                    [
+                        "15_shira piven has directed this movie with a deft ",
+                        0.7802226804055765
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_there's not much plot here and very little in the way of character development.",
+                -0.7608056661839873
+            ],
+            [
+                "13_welcome to me works better as a character study than a full-fledged story.",
+                -0.514714763731402
+            ],
+            [
+                "19_ it feels like a setup and a character in search of a story.",
+                -0.5662115098448326
+            ],
+            [
+                "25_\"welcome to me\" is not just a character study, ",
+                -0.5185103189578408
+            ]
+        ],
+        "entities": {
+            "Eliot Laurence": {
+                "args": [
+                    [
+                        "6_screenwriter eliot laurence and director shira piven...",
+                        0.5202129822132174
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_welcome to me is an unsettling comedy, and i mean that in the best possible way.",
+                0.5868429705573469
+            ],
+            [
+                "3_\"welcome to me\" has its charming, funny and sensitive moments, ",
+                0.7267820600981592
+            ],
+            [
+                "12_it's difficult to know what to feel when watching \"welcome to me.",
+                -0.6476176303756191
+            ],
+            [
+                "13_welcome to me works better as a character study than a full-fledged story.",
+                -0.514714763731402
+            ],
+            [
+                "18_malicious, hilarious and heartbreaking ... one of the biggest movie surprises of 2015 so far.",
+                0.7997909899103557
+            ],
+            [
+                "19_i'm not even sure it can be called a movie",
+                -0.6640478520034265
+            ],
+            [
+                "21_though some of the jabs \"me\" takes at reality tv are clever, the film, like alice,",
+                0.5653738202545983
+            ],
+            [
+                "23_the movie is nothing more than a labored series of skits that play like ideas from rejected tv pilots.",
+                -0.5796328288645605
+            ],
+            [
+                "25_\"welcome to me\" is not just a character study, ",
+                -0.5185103189578408
+            ],
+            [
+                "26_it all plays more like a long, dark tv comedy sketch than an actual movie.",
+                -0.5760602880114177
+            ],
+            [
+                "29_the movie's idiosyncratic delights pack a wild metaphorical punch.",
+                0.7207512028689435
+            ]
+        ]
+    }
+}

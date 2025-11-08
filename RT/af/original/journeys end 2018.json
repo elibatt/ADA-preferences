@@ -1,0 +1,91 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_what does a movie based on a 90-year-old play about world war i have to say to contemporary audiences?",
+                0.5181308760128384
+            ],
+            [
+                "12_this new film doesn't have a particularly new take on the material.",
+                -0.5366443238620298
+            ],
+            [
+                "13_for a movie based on 90-year-old source material, \"journey's end\" works remarkably well.",
+                0.7055899809073348
+            ],
+            [
+                "15_though set at a specific moment in time, the film could be about terminal cancer patients or condemned prisoners,",
+                -0.6276385777155744
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sam Claflin": {
+                "args": []
+            },
+            "Oliver Dimsdale": {
+                "args": []
+            },
+            "Stephen Graham": {
+                "args": []
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "Andy Gathergood": {
+                "args": []
+            },
+            "Paul Bettany": {
+                "args": []
+            },
+            "Jake Curran": {
+                "args": []
+            },
+            "Rupert Wickhan": {
+                "args": []
+            },
+            "Nicholas Agnew": {
+                "args": []
+            },
+            "Asa Butterfield": {
+                "args": []
+            },
+            "Robert Glenister": {
+                "args": []
+            },
+            "Tom Sturridge": {
+                "args": []
+            },
+            "Miles Jupp": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Simon Reade ": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Saul Dibb": {
+                "args": [
+                    [
+                        "8_saul dibb's world war 1 tale of british soldiers in the trenches is a bleak, sobering experience that puts audiences through a wringer.",
+                        0.721705441214104
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "writer": {
+        "args": [
+            [
+                "5_as is so often the case with special-effects-heavy movies, the character comedy quickly gets trampled by the effects (in this case, not special).",
+                -0.6290422161546982
+            ],
+            [
+                "21_\" you know the ones -- too-long, time-filler skits that seem to have been scrawled on the back of a pizza box in the writer's room five minutes before air time.",
+                -0.7981164327435826
+            ]
+        ],
+        "entities": {
+            "Paul Feig": {
+                "args": []
+            },
+            "Katie Dippold": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_it aims to be a good family film for the summer movie season, and it fits right in with the ",
+                0.8324631079645348
+            ],
+            [
+                "12_this might have worked if the 1984 film were less well remembered, ",
+                -0.653800692284669
+            ],
+            [
+                "13_these characters might even be more fun to watch in a movie that wasn't as beholden to its source.",
+                0.5244813747809995
+            ],
+            [
+                "15_i would have preferred that they simply had shut their naysayers down by producing a better movie.",
+                -0.614133388321962
+            ],
+            [
+                "19_for all the high dudgeon with which the movie has been anticipated, it turns out that ghostbusters -- like the girls who cheerfully dominate it this time around -- just wants to have fun.",
+                -0.5356390034741482
+            ],
+            [
+                "20_if you're a real \"ghostbusters\" fan, your time would be better spent watching the original.",
+                0.5394793965123013
+            ],
+            [
+                "21_the nearly two-hour film is akin to many of those sketches that come on after \"weekend update.",
+                0.5181694286118781
+            ],
+            [
+                "24_if girls can't be ghostbusters, then here, guys can't do anything.",
+                -0.7338887116339636
+            ],
+            [
+                "26_\"ghostbusters\" is a pretty good movie.",
+                0.6044501469395247
+            ],
+            [
+                "29_somehow, this ghostbusters remake is going to push us all to reckon with what a more equal world might look like, whether we like it or not.",
+                0.7231480993465014
+            ],
+            [
+                "29_fortunately, the movie is tremendously easy to like.",
+                -0.5033387423004576
+            ],
+            [
+                "30_, the movie pretty conspicuously runs out of gas about halfway through, yielding lapses where it doesn't scare up much of anything, most notably laughter.",
+                -0.760886528244987
+            ],
+            [
+                "31_the new ghostbusters isn't a horror, exactly.",
+                -0.6760992163282494
+            ],
+            [
+                "34_ghostbusters is a horror from start to finish, and that's not me saying it's legitimately scary.",
+                -0.7740853875882022
+            ],
+            [
+                "35_the talented stars are not to blame for a pointless, harmless and mildly funny remake that will leave most moviegoers shrugging their shoulders and musing, \"well, at least it's better than ghostbusters 2.\"",
+                -0.5420930268290799
+            ],
+            [
+                "36_as enjoyable as this movie is, sometimes it feels like it's holding back",
+                -0.538223425422041
+            ],
+            [
+                "39_ staid summer movie season so desperately needs.",
+                -0.5920665538240859
+            ],
+            [
+                "41_sliding into theaters on a river of slime and an endless supply of good vibes, the new, cheerfully silly \"ghostbusters\" is that rarest of big-studio offerings - a movie that is a lot of enjoyable, disposable fun.",
+                0.7041455700335361
+            ],
+            [
+                "42_this new a-team of ghostbusters are fresh and funny enough to have earned space in the summer comedy firmament.",
+                0.704670183143597
+            ],
+            [
+                "43_is the new ghostbusters funny?",
+                0.6502758294671623
+            ],
+            [
+                "46_feig's ghostbusters is its own definitive creature, an affable, inventive riff on ivan reitman's proton-packing caper that exists not to score points, ",
+                0.6831895884077936
+            ],
+            [
+                "49_ghostbusters 2.0 suffers from the anxiety of influence - or, more specifically, from the fear of not wanting to alienate the fans (gen x'ers and others) of 1.0.",
+                -0.6033327550077644
+            ],
+            [
+                "50_here's a summer movie starring a girl squad proud of its big brains and tacky jumpsuits.",
+                0.5210064140114963
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "47_the female-led cast is a promising idea, ",
+                -0.5016489684253492
+            ]
+        ],
+        "entities": {
+            "Susan Park": {
+                "args": []
+            },
+            "Greg Kelly": {
+                "args": []
+            },
+            "Karan Soni": {
+                "args": []
+            },
+            "Stephen Boss": {
+                "args": []
+            },
+            "Katie Dippold": {
+                "args": []
+            },
+            "Davey Jones": {
+                "args": []
+            },
+            "Steve Higgins": {
+                "args": []
+            },
+            "Ryan Levine": {
+                "args": []
+            },
+            "Sigourney Weaver": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "Adam Ray": {
+                "args": []
+            },
+            "Dave Allen": {
+                "args": []
+            },
+            "Robin Shelby": {
+                "args": []
+            },
+            "Zach Woods": {
+                "args": []
+            },
+            "Dan Aykroyd": {
+                "args": []
+            },
+            "Kate McKinnon": {
+                "args": [
+                    [
+                        "6_in her wily line delivery and cocksure swagger, mckinnon resembles nothing if not a young bill murray.",
+                        0.5771716615120115
+                    ],
+                    [
+                        "10_ mckinnon steals the show as oddball physics geek holtzmann (the egon, if you will).",
+                        0.7106954357444457
+                    ],
+                    [
+                        "18_kate mckinnon is a spontaneous eruption of hellfire hilarity.",
+                        0.55313413050239
+                    ],
+                    [
+                        "32_crucial to [the] fun: mckinnon, who steals the movie with her mad-scientist grin, eyes that gleam like a laser pointer and unexpected random weirdness.",
+                        0.7550947389239386
+                    ],
+                    [
+                        "38_wiig is at her best, jones is a revelation, chris hemsworth is a wonderful surprise in the movie and kate mckinnon steals the show.",
+                        0.9437656459308025
+                    ]
+                ]
+            },
+            "Tom Yi": {
+                "args": []
+            },
+            "Milana Vayntrub": {
+                "args": []
+            },
+            "Dan Teicher": {
+                "args": []
+            },
+            "Jamie Denbo": {
+                "args": []
+            },
+            "Sam Richardson": {
+                "args": []
+            },
+            "Jaime Pacheco": {
+                "args": []
+            },
+            "Pat Kiernan": {
+                "args": []
+            },
+            "Ernie Hudson": {
+                "args": []
+            },
+            "Steve Bannos": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": [
+                    [
+                        "14_mccarthy, wiig, mckinnon and jones prove to be a relentlessly inventive comic ensemble.",
+                        0.6860020313078634
+                    ],
+                    [
+                        "23_when kristen wiig quotes tony montana before taking down a ghost with her blaster - \"say hello to my little friend!\" - her line reading is anemic, as if she were embarrassed, and you cringe right along with her.",
+                        -0.528343227888142
+                    ]
+                ]
+            },
+            "Eugene Cordero": {
+                "args": []
+            },
+            "Cheryl Wills": {
+                "args": []
+            },
+            "Johnny Higgins": {
+                "args": []
+            },
+            "Ben Harris": {
+                "args": []
+            },
+            "Leslie Jones": {
+                "args": [
+                    [
+                        "36_ and jones even more valuable.",
+                        0.6621761095408212
+                    ]
+                ]
+            },
+            "Al Roker": {
+                "args": []
+            },
+            "Bess Rous": {
+                "args": []
+            },
+            "Michael McDonald": {
+                "args": []
+            },
+            "Jeanine Ramirez": {
+                "args": []
+            },
+            "Matteo Borghese": {
+                "args": []
+            },
+            "Bill Murray": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Matt Walsh": {
+                "args": []
+            },
+            "John Milhiser": {
+                "args": []
+            },
+            "Annie Potts": {
+                "args": []
+            },
+            "Melissa McCarthy": {
+                "args": [
+                    [
+                        "10_melissa mccarthy, kristin wiig, kate mckinnon and leslie jones make a formidable comic team in their own right - ",
+                        0.731268673805989
+                    ],
+                    [
+                        "36_but the limitations of ghostbusters make wiig, mccarthy, mckinnon,",
+                        -0.6182693881412666
+                    ],
+                    [
+                        "37_jones, mccarthy, mckinnon, and wiig are so good together - and in ways that are distinctively theirs and not recycled from the past - that their message of not giving a damn resonates better than the movie's underwhelming climax.",
+                        0.6783969690528245
+                    ]
+                ]
+            },
+            "Neil Casey": {
+                "args": []
+            },
+            "Anthony Viveiros": {
+                "args": []
+            },
+            "Rosanna Scotto": {
+                "args": []
+            },
+            "Jessica Chaffin": {
+                "args": []
+            },
+            "Cecily Strong": {
+                "args": []
+            },
+            "Ozzy Osbourne": {
+                "args": []
+            },
+            "Theodore Shapiro": {
+                "args": []
+            },
+            "Chris Hemsworth": {
+                "args": [
+                    [
+                        "14_and hemsworth is a revelation as a guy who's blissfully unaware of his sheer incompetence.",
+                        -0.6602042581505588
+                    ]
+                ]
+            },
+            "Andy Garcia": {
+                "args": []
+            },
+            "Toby Huss": {
+                "args": []
+            },
+            "Daniel Ramis": {
+                "args": []
+            },
+            "Ed Begley Jr.": {
+                "args": []
+            },
+            "Nathan Corddry": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "45_when there's almost nothing the computer can't conjure, it falls to the director to know when to stop.",
+                -0.8361871304813558
+            ]
+        ],
+        "entities": {
+            "Paul Feig": {
+                "args": [
+                    [
+                        "16_hovering spirits of ghostbusters past prove more treat than trick for paul feig's energetic reboot of the storied 1980s comedy franchise.",
+                        0.7529882142622916
+                    ],
+                    [
+                        "33_the freewheeling and funny solidarity of the four leads win out in the end, even if feig shows more timidity than he did in bridesmaids, the heat or spy.",
+                        0.8161369110770113
+                    ],
+                    [
+                        "39_paul feig's female-led reboot of the long-dormant franchise is thrilling, hilarious, lovingly crafted and the wild, colourful, giddy blockbuster this ",
+                        0.798248071311074
+                    ],
+                    [
+                        "45_whereas feig has previously managed to cross genre streams successfully,",
+                        0.6766008288569169
+                    ]
+                ]
+            }
+        }
+    }
+}

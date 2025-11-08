@@ -1,0 +1,142 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Zeva Oelbaum": {
+                "args": []
+            },
+            "Sabine Krayenbühl": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_swinton's vocal performance as bell is so vivid and absorbing.",
+                0.7390364691087183
+            ]
+        ],
+        "entities": {
+            "Michelle Eugene": {
+                "args": []
+            },
+            "Mark Meadows": {
+                "args": []
+            },
+            "Jurgen Kalwa": {
+                "args": []
+            },
+            "Elizabeth Rider": {
+                "args": []
+            },
+            "Andrew Havill": {
+                "args": []
+            },
+            "Rachael Stirling": {
+                "args": []
+            },
+            "Hayat Kamille": {
+                "args": []
+            },
+            "Joanna David": {
+                "args": []
+            },
+            "Tom Chadbon": {
+                "args": []
+            },
+            "Christopher Villiers": {
+                "args": []
+            },
+            "Lucy Robinson": {
+                "args": []
+            },
+            "Tilda Swinton": {
+                "args": [
+                    [
+                        "6_a carefully researched documentary that uses an extraordinary wealth of appealing archival footage accompanied by tilda swinton's voiceover as bell.",
+                        0.821783474813602
+                    ],
+                    [
+                        "10_ms. swinton's performance of bell's letters convey bell's skills as a writer, ",
+                        0.7388176104675201
+                    ],
+                    [
+                        "13_tilda swinton is the perfect choice to read the letters of gertrude bell - archeologist, explorer, mountaineer and spy.",
+                        0.8715608238125788
+                    ]
+                ]
+            },
+            "Ammar Haj Ahmad": {
+                "args": []
+            },
+            "Simon Chandler": {
+                "args": []
+            },
+            "Antony Edridge": {
+                "args": []
+            },
+            "Helen Ryan": {
+                "args": []
+            },
+            "Jasper Jacob": {
+                "args": []
+            },
+            "Zaydum Khalad": {
+                "args": []
+            },
+            "Ahmed Hashimi": {
+                "args": []
+            },
+            "Nicholas Woodeson": {
+                "args": []
+            },
+            "Michael Higgs": {
+                "args": []
+            },
+            "Eric Loscheider": {
+                "args": []
+            },
+            "Adam Astill": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_ms. swinton's performance of bell's letters convey bell's skills as a writer, ",
+                0.7388176104675201
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "7_ letters from baghdad is less so.",
+                -0.6316887498299151
+            ],
+            [
+                "9_, letters from baghdad proves oddly unsatisfying.",
+                0.548259795580468
+            ],
+            [
+                "10_ the movie is ultimately too conceptually labored for its own good - or that of its subject.",
+                0.5699357440892403
+            ],
+            [
+                "11_unfortunately, the doc is devoid of any real context, including how work such as bell's helped lead to the quagmire that has unsettled the region for decades.",
+                -0.5963295611408985
+            ],
+            [
+                "12_you emerge from the film with a divided heart: thrilled to hear of a woman who, ignoring the dictates of the age, filled her days to overflowing, yet ashamed to measure your own days and to find them, by comparison, hollow and bare.",
+                0.8127610929684272
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

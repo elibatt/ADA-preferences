@@ -1,0 +1,175 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "5_doggedly follows the well-worn rom-com path, down to saving all the personality and occasional laughs - very, very occasional ones - for the supporting cast.",
+                0.5021623262654166
+            ]
+        ],
+        "entities": {
+            "Jessica White": {
+                "args": []
+            },
+            "Lauren London": {
+                "args": []
+            },
+            "Neville White": {
+                "args": []
+            },
+            "Robert Christopher Riley": {
+                "args": []
+            },
+            "French Montana": {
+                "args": []
+            },
+            "Anzu Lawson": {
+                "args": []
+            },
+            "Christine Bently": {
+                "args": []
+            },
+            "Terrence Jenkins": {
+                "args": []
+            },
+            "Krystal Harris": {
+                "args": []
+            },
+            "Kristi Ellingsworth": {
+                "args": []
+            },
+            "Jana Savage": {
+                "args": []
+            },
+            "John Nolan": {
+                "args": []
+            },
+            "Robin Givens": {
+                "args": []
+            },
+            "Chantel Jeffries": {
+                "args": []
+            },
+            "Joe Pantoliano": {
+                "args": []
+            },
+            "Steven Daniel Brun": {
+                "args": []
+            },
+            "Jillian Easton": {
+                "args": []
+            },
+            "Kali Hawk": {
+                "args": []
+            },
+            "Candice Craig": {
+                "args": []
+            },
+            "Layla Jama": {
+                "args": []
+            },
+            "Cassie Ventura": {
+                "args": []
+            },
+            "Raynald LaRochelle": {
+                "args": []
+            },
+            "B R Lamar": {
+                "args": []
+            },
+            "Brandy Norwood": {
+                "args": []
+            },
+            "LaToya Tonodeo": {
+                "args": []
+            },
+            "Janelle Froehlich": {
+                "args": []
+            },
+            "John Nania": {
+                "args": []
+            },
+            "Donald Faison": {
+                "args": []
+            },
+            "Kevin Michael Walsh": {
+                "args": []
+            },
+            "Draya Michele": {
+                "args": []
+            },
+            "Timothy DeLaGhetto": {
+                "args": []
+            },
+            "Pierre Abena": {
+                "args": []
+            },
+            "Eugena Washington": {
+                "args": []
+            },
+            "Roy \"Sly\" Jones, Jr.": {
+                "args": []
+            },
+            "Dascha Polanco": {
+                "args": []
+            },
+            "Bria Murphy": {
+                "args": []
+            },
+            "Janelle Froelich": {
+                "args": []
+            },
+            "Paula Patton": {
+                "args": []
+            },
+            "Casper Smart": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bille Woodruff": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Brandon Broussard": {
+                "args": []
+            },
+            "Gary Hardwick": {
+                "args": []
+            },
+            "Dana Verde": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_while its title suggests a narrower focus, \"the perfect match\" is largely an ensemble rom-com, and a pretty enjoyable one.",
+                0.7651788111272833
+            ],
+            [
+                "1_as if to make up for the predictable main plot, the perfect match is bogged down with a slew of uninteresting b-stories.",
+                -0.6039368475564932
+            ],
+            [
+                "2_there is a welcome (and surprising) layer of complexity running through the film that makes it a little bit more than your standard fare.",
+                0.864666944579206
+            ],
+            [
+                "3_\"the perfect match\" is a romantic comedy by default, and mostly everyone involved is asleep at the wheel.",
+                0.6376055109459049
+            ]
+        ]
+    }
+}

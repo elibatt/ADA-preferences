@@ -1,0 +1,262 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Althea Sam": {
+                "args": []
+            },
+            "Chris Romrell": {
+                "args": []
+            },
+            "Blake Robbins": {
+                "args": []
+            },
+            "James Jordan": {
+                "args": []
+            },
+            "Shane Cullen": {
+                "args": []
+            },
+            "Gabe Casdorph": {
+                "args": []
+            },
+            "Gil Birmingham": {
+                "args": []
+            },
+            "Jon Bernthal": {
+                "args": []
+            },
+            "Graham Greene (II)": {
+                "args": []
+            },
+            "Elizabeth Olsen": {
+                "args": []
+            },
+            "Eric Lange": {
+                "args": []
+            },
+            "Austin R. Grant": {
+                "args": []
+            },
+            "Dallin Tusieseina": {
+                "args": []
+            },
+            "Tantoo Cardinal": {
+                "args": []
+            },
+            "Apesanahkwat": {
+                "args": []
+            },
+            "Matthew Del Negro": {
+                "args": []
+            },
+            "Teo Briones": {
+                "args": []
+            },
+            "Hugh Dillion": {
+                "args": []
+            },
+            "Ian Roylance": {
+                "args": []
+            },
+            "Tyler Laracca": {
+                "args": []
+            },
+            "Martin Sensmeier": {
+                "args": []
+            },
+            "Norman Lehnert": {
+                "args": []
+            },
+            "Ian Bohen": {
+                "args": []
+            },
+            "Julia Jones": {
+                "args": []
+            },
+            "Mason Davis": {
+                "args": []
+            },
+            "Kelsey Asbille": {
+                "args": []
+            },
+            "Tokala Clifford": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": [
+                    [
+                        "12_\"wind river\" is worth seeing if only to see renner in the kind of starring role he so richly deserves and, with luck, will continue to find.",
+                        0.6388633044485684
+                    ],
+                    [
+                        "33_an engaging thriller, anchored by a strong sense of place (becoming a sheridan specialty) and a great performance from jeremy renner.",
+                        0.865939553576061
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Taylor Sheridan": {
+                "args": [
+                    [
+                        "2_[wind river] is still a film worth seeing-as, one hopes, will be whatever films lie in sheridan's promising future.",
+                        0.7140998671378311
+                    ],
+                    [
+                        "4_the pace was breakneck in sheridan's previous thrillers, ",
+                        -0.501202885170901
+                    ],
+                    [
+                        "8_ surely, with sheridan confident that his lead heroes will keep you captivated as he breaks his story down.",
+                        0.6676408334324875
+                    ],
+                    [
+                        "10_ for writer/director taylor sheridan ...",
+                        -0.5498120748334201
+                    ],
+                    [
+                        "14_as with all of the films he writes, sheridan takes us to places that are foreign to many of us, yet immerses us so deeply into the sense of place that everything feels familiar, recognizable.",
+                        0.8363803479220946
+                    ],
+                    [
+                        "18_[sheridan's] storytelling is meaty ",
+                        -0.5593391646391663
+                    ],
+                    [
+                        "22_the mood is tense, the characters are well-drawn and director-screenwriter taylor sheridan has crafted some of the best dialogue of any movie this year.",
+                        0.7745239647318454
+                    ],
+                    [
+                        "23_ of 'sicario' screenwriter taylor sheridan turns the story of a tracker, a fed and a dead native-american girl into a sharp social commentary that knocks you for a loop.",
+                        0.7141870939845683
+                    ],
+                    [
+                        "25_, mr. sheridan clearly spent a lot of his time learning about filmmaking on movie sets",
+                        0.5520004747110802
+                    ],
+                    [
+                        "29_for taylor sheridan, the west is still alive with frontier tragedies and genre thrills, even if hopelessness has moved in and blanketed the land.",
+                        0.6546212491490664
+                    ],
+                    [
+                        "31_a chilly air of isolation and desperation pervades the thriller wind river, taylor sheridan's new directorial effort that proves he's more than an exceptional writer.",
+                        0.7797095208726823
+                    ],
+                    [
+                        "33_an engaging thriller, anchored by a strong sense of place (becoming a sheridan specialty) and a great performance from jeremy renner.",
+                        0.865939553576061
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_ the result is middling in both the writing and directing departments.",
+                0.5272787730183648
+            ],
+            [
+                "7_for all the character studies and moments of reflection and lament, wind river never loses its identity as a gritty thriller.",
+                0.6333847709387878
+            ],
+            [
+                "10_ for writer/director taylor sheridan ...",
+                -0.5498120748334201
+            ],
+            [
+                "17_sheridan, the screenwriter behind \"sicario\" and \"hell or high water,\" writes dialogue that's lean yet rich, and gives the actors time to let their words hang in that cold air.",
+                0.5477452362851617
+            ],
+            [
+                "22_the mood is tense, the characters are well-drawn and director-screenwriter taylor sheridan has crafted some of the best dialogue of any movie this year.",
+                0.7745239647318454
+            ],
+            [
+                "23_ of 'sicario' screenwriter taylor sheridan turns the story of a tracker, a fed and a dead native-american girl into a sharp social commentary that knocks you for a loop.",
+                0.7141870939845683
+            ],
+            [
+                "31_a chilly air of isolation and desperation pervades the thriller wind river, taylor sheridan's new directorial effort that proves he's more than an exceptional writer.",
+                0.7797095208726823
+            ]
+        ],
+        "entities": {
+            "Taylor Sheridan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_at a deep and icy level, wind river is about power. . .",
+                0.5674315871794684
+            ],
+            [
+                "0_the movie that can wring catharsis out of that will be a long time coming.",
+                -0.5227660132015091
+            ],
+            [
+                "1_bundle up: \"wind river\" will blow you away.",
+                -0.5982626740568843
+            ],
+            [
+                "7_for all the character studies and moments of reflection and lament, wind river never loses its identity as a gritty thriller.",
+                0.6333847709387878
+            ],
+            [
+                "8_the film reveals its twists slowly ",
+                0.5753971912702731
+            ],
+            [
+                "9_lambert's three-dimensionality elevates wind river above the norms of the traditional crime movie",
+                0.636258244279164
+            ],
+            [
+                "11_piling bodies everywhere as it approaches its climax, \"wind river\" is a new chapter in that endless battle.",
+                0.5249880136341686
+            ],
+            [
+                "13_the still-ruinous treatment of native americans hangs over the movie like one of those immense storm clouds. \"",
+                0.5781592099281804
+            ],
+            [
+                "13_wind river\" is as much about mourning as murder.",
+                0.5266690388367135
+            ],
+            [
+                "15_\"wind river\" is roughly 50 percent strengths, 50 percent contrivances.",
+                -0.5377966043927815
+            ],
+            [
+                "16_wind river is an impressive effort and an impressive result that opens up a world that most of us have never ",
+                0.7974735603000707
+            ],
+            [
+                "19_ it's a film that makes you a better viewer.",
+                0.7545715444474019
+            ],
+            [
+                "20_[wind river] is one terrific, offbeat and heart-pounding thriller.",
+                0.6643347032419197
+            ],
+            [
+                "24_this tense, convincing independent film is the most accomplished violent thriller in quite some time.",
+                0.7311963830744482
+            ],
+            [
+                "28_long after the gunshots of wind river fade, you might think you hear the cries of the dead.",
+                -0.69758457999953
+            ]
+        ]
+    }
+}

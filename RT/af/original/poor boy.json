@@ -1,0 +1,70 @@
+{
+    "writer": {
+        "entities": {
+            "Robert Scott Wildes": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_\" it's a world you want to explore more, and pucci's romeo is a character worth falling in love with.",
+                0.7882359340264509
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Lou Taylor Pucci": {
+                "args": [
+                    [
+                        "1_\" it's a world you want to explore more, and pucci's romeo is a character worth falling in love with.",
+                        0.7882359340264509
+                    ]
+                ]
+            },
+            "Amanda Crew": {
+                "args": []
+            },
+            "Michael Shannon": {
+                "args": []
+            },
+            "Dale Dickey": {
+                "args": []
+            },
+            "Dov Tiefenbach": {
+                "args": []
+            },
+            "Justin Chatwin": {
+                "args": []
+            },
+            "Pat Healy": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_at the end, the movie breaks apart like crumbling kaleidoscope images, scattering plot, characters and images in head-spinning fashion.",
+                -0.5161079240259228
+            ],
+            [
+                "1_there's something intoxicating about the vibe of \"poor boy.",
+                -0.5627182096135932
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Robert Scott Wildes": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

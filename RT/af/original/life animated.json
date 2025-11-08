@@ -1,0 +1,95 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_there are moments of joy, revelation, connection, sadness and hope, and the film is very, very moving.",
+                0.7577953966896569
+            ],
+            [
+                "6_this is an intelligent and understated film that nicely presents one very particular life experience that will, in its own way, inspire the viewer.",
+                0.88708958638118
+            ],
+            [
+                "10_what the film is ultimately about is the extent to which love and caring can help turn a life around for a person deemed beyond reach.",
+                0.6908422843427661
+            ],
+            [
+                "13_it's the best disney movie that disney didn't make.",
+                0.6315375215336347
+            ],
+            [
+                "16_instead of false hope, this truly inspirational film offers up possibility, the chance of a stimulus that might get past the blocks of developmental disorder.",
+                0.7218414260390016
+            ],
+            [
+                "18_the suskinds' humongous hearts are obviously in the right place and their openness is to be admired and encouraged-even if a book, more than a movie, remains the better venue to fairly and honestly tell owen's extraordinary story.",
+                0.7476247068989779
+            ],
+            [
+                "23_the film is tender and patient, as fascinated by the challenges of daily life as it is by the dramatic medical mystery at its heart.",
+                0.7990895077714386
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "19_belaboring the cartoon connection, the director leaves the family struggles that enrich mr. suskind's 2014 book of the same title stubbornly veiled.",
+                -0.522494299313099
+            ]
+        ],
+        "entities": {
+            "Roger Ross Williams": {
+                "args": [
+                    [
+                        "5_director roger ross williams' storytelling skills are at their finest in an engaging story suffused throughout with emotion that never descends into mawkishness.",
+                        0.8459587536056483
+                    ],
+                    [
+                        "19_mr. williams's decision to prioritize his subject's point of view feels frustratingly restrictive.",
+                        -0.5075443099716104
+                    ],
+                    [
+                        "25_roger ross williams' captivating documentary explores a young autistic man's growth and progress through his obsession with disney animated movies.",
+                        0.7729006036013255
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jonathan Freeman": {
+                "args": []
+            },
+            "Gilbert Gottfried": {
+                "args": []
+            },
+            "Ron Suskind": {
+                "args": []
+            },
+            "Owen Suskind": {
+                "args": [
+                    [
+                        "19_belaboring the cartoon connection, the director leaves the family struggles that enrich mr. suskind's 2014 book of the same title stubbornly veiled.",
+                        -0.522494299313099
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_ maybe there is something to be gained from identifying with a character onscreen if you have immense difficulty navigating the world.",
+                0.5255621780137577
+            ]
+        ],
+        "entities": {}
+    }
+}

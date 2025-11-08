@@ -1,0 +1,216 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the whole movie is caught somewhere between apology and entitlement.",
+                -0.6327938109676228
+            ],
+            [
+                "1_whether or not it succeeds will depend on how individual viewers weigh the movie's narrative flaws against the profound appeal of its stars and setting.",
+                0.7078737216323164
+            ],
+            [
+                "7_the second best exotic marigold hotel is exactly that - second best.",
+                0.6613099402150144
+            ],
+            [
+                "9_the same problems as the first film also re-occur, and this time they're a bit more glaring.",
+                0.5844064245319618
+            ],
+            [
+                "10_there's a stretched and buffoonish quality to the aptly named \"the second best exotic marigold hotel\" that detracts from any sincere sentiment or wisdom the film hopes to impart.",
+                0.6293519383969713
+            ],
+            [
+                "11_all manner of subplots weave their way through the film, which teems with \"colorful\" characters and saccharine cliches.",
+                0.5026574454657222
+            ],
+            [
+                "11_but, like the first film,",
+                0.5270632768621297
+            ],
+            [
+                "13_because i found the original movie so engaging, i enjoyed finding out what has happened, and what is to come, in the lives of these characters.",
+                0.7206726758176379
+            ],
+            [
+                "14_the film has only the sheer charm of its cast to get it by, and it says a lot about the actors that they nearly pull it off.",
+                -0.5704978916411273
+            ],
+            [
+                "25_the acting of course is first-rate, and the movie mostly preserves the original warmth and wit of the original.",
+                0.7677166003248236
+            ],
+            [
+                "26_madden has stripped away the socio-economic context from the first film and turned the sequel into some kind of thinly rationed romantic comedy.",
+                0.5913682524908189
+            ],
+            [
+                "27_it's asked in the film, \"how many new lives can we have?\"",
+                0.6142929618811291
+            ],
+            [
+                "28_madden's movie is crammed with so many characters that we never spend enough quality time with any of them for their stories to resonate.",
+                0.5170744655963457
+            ],
+            [
+                "32_it's the kind of movie that provides a perfect answer for when your mother or grandmother calls you up and asks, \"what should i go see with the girls after our weekly canasta game?\"",
+                0.863800428809553
+            ],
+            [
+                "35_second best by a distressingly large margin, \"the second best exotic marigold hotel\" is a pointless sequel to an overlong ",
+                -0.5648612756350896
+            ],
+            [
+                "37_if the first film felt like snuggling up with a warm blanket, this one is like sipping a comforting cup of warm tea.",
+                0.7968670587787056
+            ],
+            [
+                "40_honestly titled if nothing else, the second best exotic marigold hotel is a sluggish also-ran compared to its predecessor, 2011's retirement-themed comedy-drama the best exotic marigold hotel.",
+                0.668832103201183
+            ],
+            [
+                "41_for a film conceived without any chance of a sequel in mind, \"the best exotic marigold hotel\" actually lends itself surprisingly well to being extended ...",
+                0.6547310586300883
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Madden": {
+                "args": [
+                    [
+                        "29_the director, john madden, and the screenwriter, ol parker, who created the first film, try to compensate for the new movie's lack of coherence and narrative momentum.",
+                        -0.6001922909486548
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "14_the film has only the sheer charm of its cast to get it by, and it says a lot about the actors that they nearly pull it off.",
+                -0.5704978916411273
+            ],
+            [
+                "25_the acting of course is first-rate, and the movie mostly preserves the original warmth and wit of the original.",
+                0.7677166003248236
+            ]
+        ],
+        "entities": {
+            "Fiona Mollison": {
+                "args": []
+            },
+            "David Strathairn": {
+                "args": []
+            },
+            "Richard Gere": {
+                "args": [
+                    [
+                        "39_silver fox richard gere is the magic card up the filmmakers' sleeve for this warm if rambling sequel.",
+                        0.7073062690185216
+                    ]
+                ]
+            },
+            "Judi Dench": {
+                "args": [
+                    [
+                        "11_ it's next to impossible not to find diversion in the company of such stalwarts as dench and nighy and smith.",
+                        -0.5138348547840248
+                    ],
+                    [
+                        "15_performances from venerable thespians such as judi dench, maggie smith, and bill nighy are nuanced and piquant, ",
+                        0.7059179326224951
+                    ],
+                    [
+                        "23_when such consummate actors as maggie smith, judi dench, bill nighy and penelope wilton show up together in a movie, even a sequel as wobbly as this one, you'd be wise to just sit back and behold.",
+                        0.7017364586104389
+                    ],
+                    [
+                        "24_as with the original, dench, smith, nighy and the rest of the standout senior ensemble cast are a joy to watch and the setting, gorgeously lensed by cinematographer ben smithard, will have more than one person staring wistfully at their suitcases ...",
+                        0.8626295378545367
+                    ],
+                    [
+                        "27_and as long as dench, smith, nighy and imrie stick around, the same probably is true of \"marigold\" movies.",
+                        0.6180534292937407
+                    ]
+                ]
+            },
+            "Maggie Smith": {
+                "args": []
+            },
+            "Subhrajyoti Barat": {
+                "args": []
+            },
+            "Penelope Wilton": {
+                "args": []
+            },
+            "Diana Hardcastle": {
+                "args": []
+            },
+            "Tina Desai": {
+                "args": []
+            },
+            "Bill Nighy": {
+                "args": [
+                    [
+                        "8_any film that can't make good use of nighy, an actor whose shrewd intelligence shines through even in dreck like \"underworld: rise of the lycans,\" is doing something dreadfully wrong.",
+                        0.5519929237592496
+                    ]
+                ]
+            },
+            "Shazad Latif": {
+                "args": []
+            },
+            "Ronald Pickup": {
+                "args": []
+            },
+            "Jayesh V. Kardak": {
+                "args": []
+            },
+            "Zachary Coffin": {
+                "args": []
+            },
+            "Celia Imrie": {
+                "args": []
+            },
+            "Lillete Dubey": {
+                "args": []
+            },
+            "Tamsin Greig": {
+                "args": []
+            },
+            "Dev Patel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "18_the storyline of the sequel ends up tying itself in knots, and the addition of a splashy, expensive-looking bollywood musical number just underlines the lack of perspective.",
+                -0.7543370742562862
+            ],
+            [
+                "33_coasting is all there is, in the hopes that these charismatic actors can somehow make tandoori chicken salad out of a screenplay full of lazily-constructed conflicts so contrived they'd get booted out of the two and a half men writer's room.",
+                -0.5435359776629736
+            ]
+        ],
+        "entities": {
+            "Ol Parker": {
+                "args": [
+                    [
+                        "29_the director, john madden, and the screenwriter, ol parker, who created the first film, try to compensate for the new movie's lack of coherence and narrative momentum.",
+                        -0.6001922909486548
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_read it as a parable or as a horror movie.",
+                0.5432445815090274
+            ],
+            [
+                "3_the obviousness of the message -- follow the right leader -- would be more tolerable in a less badly acted, less shoddy-looking film.",
+                -0.547220339366882
+            ],
+            [
+                "6_it all pays off with an astounding, extended climax that is as rousing and exciting as it is frightening - one of the most surreal experiences i've ever had watching a movie.",
+                0.857691250840735
+            ],
+            [
+                "9_, it's a movie as deliriously unclassifiable as it is expertly focused in its desire to provoke and entertain.",
+                0.6797939819297043
+            ],
+            [
+                "10_ the movie's larger statement isn't clear.",
+                -0.6166437442592586
+            ],
+            [
+                "11_the whole production speaks well for the power of film",
+                0.7318804761395555
+            ],
+            [
+                "12_rarely does a film's execution achieve or even exceed its director's ambitions, ",
+                0.5659478873769435
+            ],
+            [
+                "12_ hungarian director kornel mundruczo's \"white god\" is that rare movie.",
+                0.776156984578743
+            ],
+            [
+                "16_the hand that feeds - and also brutalizes - is righteously bitten in \"white god,\" a hungarian revenge fantasy that's like nothing you've seen on screen before.",
+                0.746013975703641
+            ],
+            [
+                "17_ his film has real bite regardless.",
+                0.6033053369813024
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "12_rarely does a film's execution achieve or even exceed its director's ambitions, ",
+                0.5659478873769435
+            ],
+            [
+                "12_ hungarian director kornel mundruczo's \"white god\" is that rare movie.",
+                0.776156984578743
+            ],
+            [
+                "15_a rousing creature-feature thriller and political allegory, from hungarian director kornel mundrucz.",
+                0.700759891871615
+            ]
+        ],
+        "entities": {
+            "Kornél Mundruczó": {
+                "args": [
+                    [
+                        "13_that's kornél mundruczó's white god, a brutal ",
+                        -0.5063183563857149
+                    ],
+                    [
+                        "14_a b revenge movie with a-plus direction by kornél mundruczó and a cast of canines so personable that even when they tear out people's throats you still want to take them home.",
+                        0.6385029745963453
+                    ],
+                    [
+                        "17_hungarian director kornél mundruczó downplays white god as a \"genre experiment,\" ",
+                        0.6440872472766648
+                    ],
+                    [
+                        "20_director kornél mundruczó goes big with allegory, violence, drama and sentiment, and the results are riveting.",
+                        -0.5426042207636488
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "14_a b revenge movie with a-plus direction by kornél mundruczó and a cast of canines so personable that even when they tear out people's throats you still want to take them home.",
+                0.6385029745963453
+            ]
+        ],
+        "entities": {
+            "Szabolcs Thuroczy": {
+                "args": []
+            },
+            "László Gálffi": {
+                "args": []
+            },
+            "Sándor Zsótér": {
+                "args": []
+            },
+            "Lili Horváth": {
+                "args": []
+            },
+            "Zsófia Psotta": {
+                "args": []
+            },
+            "Lili Monori": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kata Wéber": {
+                "args": []
+            },
+            "Kornél Mundruczó": {
+                "args": []
+            },
+            "Viktoria Petranyi": {
+                "args": []
+            }
+        }
+    }
+}

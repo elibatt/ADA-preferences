@@ -1,0 +1,124 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_an altogether brilliant film, haunting, suspenseful, handsome and handsomely played.",
+                0.7963354017713871
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "1_it is the finest job of direction accomplished by a master director and may justly be called alfred hitchcock's masterpiece.",
+                        0.8382010185251624
+                    ],
+                    [
+                        "2_this time hitchcock does it all his way, does a splendid job and has a splendid cast to do it with.",
+                        0.761740844270737
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "7_the result exhibits that the director is capable of a range few would credit him with.",
+                -0.5165716213082114
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "C. Aubrey Smith": {
+                "args": []
+            },
+            "Philip Winter": {
+                "args": []
+            },
+            "Forrester Harvey": {
+                "args": []
+            },
+            "Leyland Hodgson": {
+                "args": []
+            },
+            "George Sanders": {
+                "args": []
+            },
+            "Nigel Bruce": {
+                "args": []
+            },
+            "Leo G Carroll": {
+                "args": []
+            },
+            "Leonard Carey": {
+                "args": []
+            },
+            "Melville Cooper": {
+                "args": []
+            },
+            "Gladys Cooper": {
+                "args": []
+            },
+            "Edward Fielding": {
+                "args": []
+            },
+            "Judith Anderson": {
+                "args": []
+            },
+            "Billy Bevan": {
+                "args": []
+            },
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "1_it is the finest job of direction accomplished by a master director and may justly be called alfred hitchcock's masterpiece.",
+                        0.8382010185251624
+                    ],
+                    [
+                        "2_this time hitchcock does it all his way, does a splendid job and has a splendid cast to do it with.",
+                        0.761740844270737
+                    ]
+                ]
+            },
+            "Joan Fontaine": {
+                "args": []
+            },
+            "Lumsden Hare": {
+                "args": []
+            },
+            "Laurence Olivier": {
+                "args": []
+            },
+            "Florence Bates": {
+                "args": []
+            },
+            "Reginald Denny": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Robert E. Sherwood": {
+                "args": []
+            },
+            "Philip MacDonald": {
+                "args": []
+            },
+            "Michael Hogan": {
+                "args": []
+            },
+            "Joan Harrison": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

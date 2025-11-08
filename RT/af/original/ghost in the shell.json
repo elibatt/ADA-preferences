@@ -1,0 +1,71 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Mamoru Oshii": {
+                "args": [
+                    [
+                        "4_mamoru oshii's direction deftly merges gritty realism with a dreamlike quality.",
+                        0.755469258951545
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ben Isaacson": {
+                "args": []
+            },
+            "Doug Stone": {
+                "args": []
+            },
+            "Mike Sorich": {
+                "args": []
+            },
+            "Tom Carlton": {
+                "args": []
+            },
+            "Hank Smith": {
+                "args": []
+            },
+            "Abe Lasser": {
+                "args": []
+            },
+            "Philip Williams": {
+                "args": []
+            },
+            "Richard George": {
+                "args": []
+            },
+            "Christopher Joyce": {
+                "args": []
+            },
+            "Mimi Woods": {
+                "args": []
+            },
+            "William Frederick": {
+                "args": []
+            },
+            "David Conrad": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {
+            "anime": {
+                "args": []
+            }
+        }
+    }
+}

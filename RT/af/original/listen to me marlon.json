@@ -1,0 +1,103 @@
+{
+    "writer": {
+        "entities": {
+            "Peter Ettedgui": {
+                "args": []
+            },
+            "Stevan Riley": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {},
+        "args": [
+            [
+                "1_it's a one-of-a-kind film about a one-of-a-kind screen legend, a man who transformed acting without ever really knowing what he ",
+                0.7662406981274835
+            ],
+            [
+                "17_that goes both for acting students, since we get insights into brando's craft, and those looking for gossip.",
+                -0.5784902958803205
+            ],
+            [
+                "25_the acting legend speaks from the grave via revelatory self-recordings in this striking documentary.",
+                0.6796359512587401
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_marlon is an offer so intimate that no film fan should refuse.",
+                0.5876796043515777
+            ],
+            [
+                "1_it's a one-of-a-kind film about a one-of-a-kind screen legend, a man who transformed acting without ever really knowing what he ",
+                0.7662406981274835
+            ],
+            [
+                "6_riley's film brings the american icon's career back into sharp focus.",
+                0.7549350168416168
+            ],
+            [
+                "10_i was torn watching this film.",
+                -0.5452965272822046
+            ],
+            [
+                "11_his editing manages to find a movie amid all of brando's raving, pontification, and truly deep thinking.",
+                0.627841600426221
+            ],
+            [
+                "19_marlon is the greatest, most searching documentary of an actor ever put on film, and it's no coincidence that it's about film's greatest and most searching actor.",
+                0.8218538428095563
+            ],
+            [
+                "21_whatever the motivations, the movie gives you the opportunity for its loquacious title subject to pour his ",
+                0.5138938120630407
+            ],
+            [
+                "23_if the raw audio from any celebrity's in-depth playboy interview were illustrated with still photos, home-movie footage, and talk-show appearances, it would look more or less like this movie.",
+                0.5250778743710026
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Stevan Riley": {
+                "args": [
+                    [
+                        "4_it's as if riley has ushered us into the darkened chamber of the actor's memories, where brando himself can whisper in our ear.",
+                        0.6360563443828441
+                    ],
+                    [
+                        "9_ riley doesn't identify the recordings by date.",
+                        -0.6187241877658628
+                    ],
+                    [
+                        "11_part of riley's achievement is a simple matter of assembly.",
+                        0.68440451244673
+                    ],
+                    [
+                        "13_ the case with stevan riley's \"listen to me marlon.\"",
+                        -0.5670340174213684
+                    ],
+                    [
+                        "16_ sensitive star in the 1950s offers much frank introspection, some of it no doubt inspired by the late-life family tragedies with which riley bookends his film.",
+                        0.7076923432957287
+                    ],
+                    [
+                        "19_stevan riley's listen to me",
+                        -0.5234586046535872
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

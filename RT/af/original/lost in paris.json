@@ -1,0 +1,118 @@
+{
+    "writer": {
+        "entities": {
+            "Fiona Gordon (II) ": {
+                "args": []
+            },
+            "Dominique Abel": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Fiona Gordon (II) ": {
+                "args": []
+            },
+            "Dominique Abel": {
+                "args": [
+                    [
+                        "7_gordon and abel incorporate elements of lighthearted musicals and silent-film comedy (a scene atop the eiffel tower evokes the derring-do of harold lloyd) and provide themselves plenty of opportunities to stretch their pliant, wiry physicality.",
+                        0.6855668744296453
+                    ],
+                    [
+                        "8_thank goodness for belgian duo abel and gordon.",
+                        0.5426298114839898
+                    ],
+                    [
+                        "9_rather than reinventing the wheel, abel and gordon keep turning it with their own intimate touch.",
+                        0.7345743499861417
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_lost in paris is occasionally self-indulgent, ",
+                -0.5490846928570916
+            ],
+            [
+                "4_cruel comic mishaps may be this movie's raison d'être, ",
+                0.5996773436486712
+            ],
+            [
+                "5_\"lost in paris\" grows a bit tiresome at feature length, ",
+                -0.641198968180606
+            ],
+            [
+                "6_lost in paris is nonsensical by design, a comedy of the absurd that's always entertaining and occasionally pure.",
+                0.7000824641394108
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Emmanuelle Riva": {
+                "args": []
+            },
+            "Fiona Gordon (II)": {
+                "args": []
+            },
+            "David Palatino": {
+                "args": []
+            },
+            "Dominique Abel": {
+                "args": [
+                    [
+                        "7_gordon and abel incorporate elements of lighthearted musicals and silent-film comedy (a scene atop the eiffel tower evokes the derring-do of harold lloyd) and provide themselves plenty of opportunities to stretch their pliant, wiry physicality.",
+                        0.6855668744296453
+                    ],
+                    [
+                        "8_thank goodness for belgian duo abel and gordon.",
+                        0.5426298114839898
+                    ],
+                    [
+                        "9_rather than reinventing the wheel, abel and gordon keep turning it with their own intimate touch.",
+                        0.7345743499861417
+                    ]
+                ]
+            },
+            "Guillaume Delvingt": {
+                "args": []
+            },
+            "Fabrice Milich": {
+                "args": []
+            },
+            "Jean Loison": {
+                "args": []
+            },
+            "Olivier Parenty": {
+                "args": []
+            },
+            "Emmy Boissard Paumelle": {
+                "args": []
+            },
+            "Charlotte Dubery": {
+                "args": []
+            },
+            "Philippe Martz": {
+                "args": []
+            },
+            "Pierre Richard": {
+                "args": []
+            },
+            "Céline Laurentie": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "writer": {
+        "entities": {
+            "Anne Fontaine": {
+                "args": []
+            },
+            "Pascal Bonitzer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_how is it possible that such blatant male wish fulfillment came from a female director and a graphic novel by a woman, writer-artist posy simmonds?",
+                0.5470231296755531
+            ],
+            [
+                "7_the script flattens the main characters and makes one nostalgic for flaubert's observational acumen.",
+                0.654693947041402
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Anne Fontaine": {
+                "args": [
+                    [
+                        "2_director anne fontaine eroticizes her porcelain-skinned star ",
+                        0.613602757127879
+                    ],
+                    [
+                        "3_like chabrol, fontaine has a way of making you laugh, on an off, for 90 minutes, before leaving you feeling a little queasy from too much truth.",
+                        -0.5598504386299057
+                    ],
+                    [
+                        "15_laden with witty ironies, the film by anne fontaine suggests men may not play exactly the roles they think they do in women's lives.",
+                        0.852687594032707
+                    ],
+                    [
+                        "20_anne fontaine's flaubert-inspired meta-pleasure gemma bovery takes as its subject the act of watching the lives around us -",
+                        0.7571284813795865
+                    ],
+                    [
+                        "22_this is the first fontaine movie i've seen that qualifies as lightweight.",
+                        0.6725291188307012
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_how is it possible that such blatant male wish fulfillment came from a female director and a graphic novel by a woman, writer-artist posy simmonds?",
+                0.5470231296755531
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_if the film moved along quicker and found a better mix of irony and sadness, it would have been a charming treat.",
+                0.8162631065831922
+            ],
+            [
+                "5_the novel, of course, is one of the towering achievements in literature, and this trivial movie has no idea what to do with it.",
+                -0.7358260677189453
+            ],
+            [
+                "8_after a while, the film feels more like a cute conceit that hasn't really been developed further.",
+                -0.6364394622816127
+            ],
+            [
+                "10_\"gemma bovery\" is all construction and snooty winks, no emotion.",
+                -0.686267986087441
+            ],
+            [
+                "11_think of \"gemma bovery\" as an airy puff pastry, dripping with honey.",
+                -0.5011348017119146
+            ],
+            [
+                "24_a tad too slapstick and not nearly modern enough in its social sensibilities to offer a truly updated version of madame bovary, gemma bovery still has its charms ...",
+                -0.5195898327226877
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Elsa Zylberstein": {
+                "args": []
+            },
+            "Pip Torrens": {
+                "args": []
+            },
+            "Kacey Mottet Klein": {
+                "args": []
+            },
+            "Isabelle Candelier": {
+                "args": []
+            },
+            "Patrice Le Méhauté": {
+                "args": []
+            },
+            "Pierre Alloggia": {
+                "args": []
+            },
+            "Christian Sinniger": {
+                "args": []
+            },
+            "Pascale Arbillot": {
+                "args": []
+            },
+            "Niels Schneider": {
+                "args": []
+            },
+            "Gaspard Beaucarne": {
+                "args": []
+            },
+            "Gemma Arterton": {
+                "args": [
+                    [
+                        "18_ sensual and gratifying movie that finds and polishes connections between literature and the screen while further catapulting the wonderful british actress gemma arterton several notches up the ladder toward international stardom.",
+                        0.761995091141926
+                    ]
+                ]
+            },
+            "Jason Flemyng": {
+                "args": []
+            },
+            "Fabrice Luchini": {
+                "args": []
+            },
+            "Mel Raido": {
+                "args": []
+            },
+            "Marie-Benedicte Roy": {
+                "args": []
+            },
+            "Edith Scob": {
+                "args": []
+            },
+            "Marianne Viville": {
+                "args": []
+            },
+            "Philippe Uchan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

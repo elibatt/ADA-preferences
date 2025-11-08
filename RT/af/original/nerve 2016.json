@@ -1,0 +1,251 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_nerve is a dizzyingly of-the-moment good time, a dystopian meet-cute in present-day new york.",
+                0.8453458841852377
+            ],
+            [
+                "2_nerve looks fabulous and the pace is evenly adrenalized, which makes up for clichéd characters, a concocted premise and commentary that is a bit on the nose ...",
+                0.8259569270717289
+            ],
+            [
+                "3_\"nerve\" is sharp looking and delivers real jolts, even if the climax pushes things a bit far and wraps up too easily.",
+                0.6100653144908637
+            ],
+            [
+                "3_or maybe it's an accurate look at what'll happen when \"nerve\" becomes real?",
+                0.6890182044343505
+            ],
+            [
+                "4_like one of its daredevils hanging one-handed from skyscraper scaffolding, nerve mostly manages to maintain its precarious balance of pulpy suspense and social commentary.",
+                0.7899051844509845
+            ],
+            [
+                "9_for about 45 minutes, the movie's engrossing fluff, a stylish cautionary cyber-tale aimed primarily at teenage girls.",
+                0.5656500696531317
+            ],
+            [
+                "10_the film has a fatal messaging problem: it lambasts online group-think and \"hiding behind screen names\" while also glamorizing the game.",
+                -0.6223473594187294
+            ],
+            [
+                "16_nerve knows we're all playing the game.",
+                0.532021880977612
+            ],
+            [
+                "17_part of me screamed for this film to get off my lawn, ",
+                -0.7244484341611059
+            ],
+            [
+                "17_nerve is too much fun to stay mad at for long.",
+                -0.736393057216584
+            ],
+            [
+                "20_nerve gives moviegoers everything they'd want from a teen romance.",
+                0.5354122376918844
+            ],
+            [
+                "22_ with its engaging story, energetic soundtrack and slick production values, nerve is an easy watch for restless young minds.",
+                0.779957945154411
+            ],
+            [
+                "23_for all its hints at imminent catastrophe, \"nerve\" feels surprisingly tame.",
+                -0.6284485302258191
+            ],
+            [
+                "27_with its attractive young cast and a multiplatform media campaign, nerve won't need to rely on going viral to find its audience, ",
+                0.5565774468930891
+            ],
+            [
+                "28_\"nerve,\" let's be clear, isn't a movie to take seriously, yet its fast lunge at topicality - the way it uses the contest at its center as a lightning-rod metaphor for how young adults interact in the digital age - is part of what's fun about it.",
+                0.6211224270093461
+            ],
+            [
+                "29_while the film's vertiginous set pieces are appropriately heart-clenching, it's not nearly as successful at little details like plot and character.",
+                0.6240219047662839
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Henry Joost": {
+                "args": []
+            },
+            "Ariel Schulman": {
+                "args": [
+                    [
+                        "5_joost and schulman use nearly every trick imaginable to keep nerve's energy at a consistently high level and to give it a visual uniqueness.",
+                        0.7315111831024134
+                    ],
+                    [
+                        "6_if it collapses in the end by going dark and also bonkers and bringing in hackers ex machina to clean up its mess, well, directors ariel schulman and henry joost can say they did it for the feels.",
+                        -0.6689777013293601
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Emily Meade": {
+                "args": []
+            },
+            "Eric D'Alessandro": {
+                "args": []
+            },
+            "Wesley Volcy": {
+                "args": []
+            },
+            "Emma Roberts": {
+                "args": [
+                    [
+                        "11_emma roberts and dave franco are just fine, ",
+                        0.5933108393263858
+                    ],
+                    [
+                        "19_franco grins diabolically throughout, and roberts sounds a bit like a junior version of sarah jessica parker's \"sex and the city\" character",
+                        0.7541283322167455
+                    ]
+                ]
+            },
+            "Chloe Wise": {
+                "args": []
+            },
+            "Marc John Jefferies": {
+                "args": []
+            },
+            "Michael Drayer": {
+                "args": []
+            },
+            "Dave Franco": {
+                "args": []
+            },
+            "Earl W. Mayers": {
+                "args": []
+            },
+            "Machine Gun Kelly": {
+                "args": []
+            },
+            "Miles Heizer": {
+                "args": []
+            },
+            "Diana Kolsky": {
+                "args": []
+            },
+            "Noam Tomaschoff": {
+                "args": []
+            },
+            "Aris Schwabe": {
+                "args": []
+            },
+            "Rightor Doyle": {
+                "args": []
+            },
+            "Matthew Meyer": {
+                "args": []
+            },
+            "Kimiko Glenn": {
+                "args": []
+            },
+            "Michael Birnbaum": {
+                "args": []
+            },
+            "Casey Neistat": {
+                "args": []
+            },
+            "Deema Aitken": {
+                "args": []
+            },
+            "Chet Dillon": {
+                "args": []
+            },
+            "Kim Ramirez": {
+                "args": []
+            },
+            "Phyllis Barasch": {
+                "args": []
+            },
+            "Albert Sidoine": {
+                "args": []
+            },
+            "Ed Squires": {
+                "args": []
+            },
+            "Damond McFarland": {
+                "args": []
+            },
+            "Jerami Goodwin": {
+                "args": []
+            },
+            "Josh Ostrovsky": {
+                "args": []
+            },
+            "Juliette Lewis": {
+                "args": []
+            },
+            "Jonny Beauchamp": {
+                "args": []
+            },
+            "Julia Barasch": {
+                "args": []
+            },
+            "Brian \"Sene\" Marc": {
+                "args": []
+            },
+            "Sarah Shtern": {
+                "args": []
+            },
+            "Brian 'Sene' Marc": {
+                "args": []
+            },
+            "Samira Wiley": {
+                "args": []
+            },
+            "Miya Strauss": {
+                "args": []
+            },
+            "Christopher Breslin": {
+                "args": []
+            },
+            "Arielle Vandenberg": {
+                "args": []
+            },
+            "Ryan Forsythe": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_with its attractive young cast and a multiplatform media campaign, nerve won't need to rely on going viral to find its audience, ",
+                0.5565774468930891
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Jessica Sharzer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_franco grins diabolically throughout, and roberts sounds a bit like a junior version of sarah jessica parker's \"sex and the city\" character",
+                0.7541283322167455
+            ],
+            [
+                "23_[the] screenplay ... amounts to little more than a string of flashy stunts before fizzling to a contrived close.",
+                -0.7549328319386482
+            ],
+            [
+                "29_while the film's vertiginous set pieces are appropriately heart-clenching, it's not nearly as successful at little details like plot and character.",
+                0.6240219047662839
+            ]
+        ]
+    }
+}

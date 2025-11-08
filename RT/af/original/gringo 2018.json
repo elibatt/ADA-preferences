@@ -1,0 +1,150 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Theo Taplitz": {
+                "args": []
+            },
+            "Harry Treadaway": {
+                "args": []
+            },
+            "Yul Vázquez": {
+                "args": []
+            },
+            "Sharlto Copley": {
+                "args": []
+            },
+            "Rodrigo Corea": {
+                "args": []
+            },
+            "Diego Cataño": {
+                "args": []
+            },
+            "Thandie Newton": {
+                "args": []
+            },
+            "Amanda Seyfried": {
+                "args": []
+            },
+            "David Oyelowo": {
+                "args": [
+                    [
+                        "18_it's a surprising high point in oyelowo's already distinguished career, and a not-at-all shabby directorial de",
+                        0.5407848846408704
+                    ]
+                ]
+            },
+            "Bashir Salahuddin": {
+                "args": []
+            },
+            "Charlize Theron": {
+                "args": []
+            },
+            "Carlos Corona": {
+                "args": []
+            },
+            "Joel Edgerton": {
+                "args": [
+                    [
+                        "1_director nash edgerton and screenwriters anthony tambakis and matthew stone do a fine job of juggling the multiple story lines, moving things along at an entertaining clip.",
+                        0.763795320549979
+                    ],
+                    [
+                        "21_the spirited performances are dampened by edgerton's direction and the cutting of three credited editors.",
+                        0.658108174086054
+                    ],
+                    [
+                        "22_there's an old-school, b-movie snap to much of the proceedings, which nash edgerton modernizes without imposing too flashy a style upon the material.",
+                        -0.6155955497506358
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_i left the theater vaguely annoyed - as if the filmmakers had thrown away some promising ideas and elements in weaving together a thoroughly generic chase movie and pretending it's something special by employing ineffective stylistic choices.",
+                -0.6052675600049479
+            ],
+            [
+                "3_'pleasant surprise' might be a misnomer for gringo.",
+                0.5786124234408563
+            ],
+            [
+                "5_ \"gringo\" is a flimsy piece of pulp fiction.",
+                -0.5617056702080697
+            ],
+            [
+                "6_the stage is set for a good, nasty, slam-bang farce, and \"gringo\" makes it about two-thirds of the way there.",
+                0.6538582112830322
+            ],
+            [
+                "7_gringo sags and slips in its middle, falling so flat that even its fast-paced and neatly tied up final 20 minutes can't get the energy back up.",
+                -0.6891721563249573
+            ],
+            [
+                "9_a passable in-flight movie that limps home across the border with nothing much to declare.",
+                0.5152941319866129
+            ],
+            [
+                "10_if only the movie was a better showcase.",
+                -0.5764776204662398
+            ],
+            [
+                "12_what an untidy mess we have before us in \"gringo.\"",
+                -0.5866522660624358
+            ],
+            [
+                "13_\"gringo\" has no spark, no fizz.",
+                -0.7713054788277074
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Nash Edgerton": {
+                "args": [
+                    [
+                        "1_director nash edgerton and screenwriters anthony tambakis and matthew stone do a fine job of juggling the multiple story lines, moving things along at an entertaining clip.",
+                        0.763795320549979
+                    ],
+                    [
+                        "21_the spirited performances are dampened by edgerton's direction and the cutting of three credited editors.",
+                        0.658108174086054
+                    ],
+                    [
+                        "22_there's an old-school, b-movie snap to much of the proceedings, which nash edgerton modernizes without imposing too flashy a style upon the material.",
+                        -0.6155955497506358
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_inconsistencies in character behavior undermine the storytelling throughout.",
+                0.5289289816474562
+            ]
+        ],
+        "entities": {
+            "Anthony Tambakis": {
+                "args": []
+            },
+            "Matthew Stone": {
+                "args": [
+                    [
+                        "1_director nash edgerton and screenwriters anthony tambakis and matthew stone do a fine job of juggling the multiple story lines, moving things along at an entertaining clip.",
+                        0.763795320549979
+                    ]
+                ]
+            }
+        }
+    }
+}

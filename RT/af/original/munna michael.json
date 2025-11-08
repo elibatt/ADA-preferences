@@ -1,0 +1,45 @@
+{
+    "film": {
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sabir Khan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Vimi Datta": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Tiger Shroff": {
+                "args": []
+            },
+            "Nidhhi Agerwal": {
+                "args": []
+            },
+            "Nawazuddin Siddiqui": {
+                "args": []
+            },
+            "Anaika Soti": {
+                "args": []
+            },
+            "Vivaan Shah": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

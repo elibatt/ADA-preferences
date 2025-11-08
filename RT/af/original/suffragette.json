@@ -1,0 +1,252 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Sarah Gavron": {
+                "args": [
+                    [
+                        "5_ the sweep of the story, the performances and gavron's vision make up for it.",
+                        0.7492842588316411
+                    ],
+                    [
+                        "8_the script, by abi morgan, filters out the contextual complexities of politics, and sarah gavron's direction reduces difficult situations to simple sentiments.",
+                        0.5227451311647098
+                    ],
+                    [
+                        "24_in minimizing the usual scenes that fill this sort of film - terribly awkward breakfasts at the country house, men wagging their chinwhiskers at each other - gavron finds room for others.",
+                        0.5745920168817156
+                    ],
+                    [
+                        "27_ \"suffragette\" as directed by sarah gavron is more dead-on earnest and schematic than it needs to be.",
+                        -0.6359283307978316
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "7_but the story is inspiring, buoyed by a fine cast, a pointed,",
+                0.7948455775353265
+            ],
+            [
+                "9_mulligan's performance, coupled with a solid script by abi morgan, shows us just how much is at stake when a woman decides to wage war.",
+                0.7343739951851457
+            ]
+        ],
+        "entities": {
+            "Brendan Gleeson": {
+                "args": []
+            },
+            "Helena Bonham Carter": {
+                "args": [
+                    [
+                        "38_the supporting cast, including helena bonham carter, romola garai and anne-marie duff, are all top notch, and a reminder of how few films like this exist anywhere.",
+                        0.7536170169217784
+                    ]
+                ]
+            },
+            "Adam Nagaitis": {
+                "args": []
+            },
+            "Anne-Marie Duff": {
+                "args": []
+            },
+            "Romola Garai": {
+                "args": []
+            },
+            "Sarah Finigan": {
+                "args": []
+            },
+            "Grace Stottor": {
+                "args": []
+            },
+            "Ben Whishaw": {
+                "args": []
+            },
+            "Shelley Longworth": {
+                "args": []
+            },
+            "Amanda Lawrence": {
+                "args": []
+            },
+            "Clive Wood": {
+                "args": []
+            },
+            "Drew Edwards": {
+                "args": []
+            },
+            "Carey Mulligan": {
+                "args": [
+                    [
+                        "22_[mulligan is] a fiercely intelligent performer, and that suits her here.",
+                        0.7326637666053237
+                    ],
+                    [
+                        "31_in suffragette, which without [mulligan] would be a far, far less compelling movie, she doesn't merely entertain us with her skill.",
+                        -0.5515757835675165
+                    ],
+                    [
+                        "41_it's a tremendous, awards-worthy performance from carey mulligan.",
+                        0.7328144508881725
+                    ]
+                ]
+            },
+            "Samuel West": {
+                "args": []
+            },
+            "Lorraine Stanley": {
+                "args": []
+            },
+            "Meryl Streep": {
+                "args": []
+            },
+            "Natalie Press": {
+                "args": []
+            },
+            "Geoff Bell": {
+                "args": []
+            },
+            "Nick Hendrix": {
+                "args": []
+            },
+            "Adam Michael Dodd": {
+                "args": []
+            },
+            "Finbar Lynch": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_mulligan, in particular, delivers, bringing believability to a role that's quite a stretch, given the transformation her character has to go through from workaday mum to first-wave feminist superhero.",
+                0.6888632948051122
+            ],
+            [
+                "5_morgan's writing is occasionally pedestrian, ",
+                -0.6213119236753957
+            ]
+        ],
+        "entities": {
+            "Abi Morgan": {
+                "args": [
+                    [
+                        "8_the script, by abi morgan, filters out the contextual complexities of politics, and sarah gavron's direction reduces difficult situations to simple sentiments.",
+                        0.5227451311647098
+                    ],
+                    [
+                        "9_mulligan's performance, coupled with a solid script by abi morgan, shows us just how much is at stake when a woman decides to wage war.",
+                        0.7343739951851457
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie agrees with its characters, which is refreshing",
+                0.7355968710974928
+            ],
+            [
+                "1_\"suffragette\" is a meaningful history lesson, ",
+                0.6157424859689122
+            ],
+            [
+                "1_ as a movie, it plays like a slog through history class.",
+                -0.5210041846804421
+            ],
+            [
+                "7_suffragette occasionally turns hard truths into platitudes.",
+                -0.611754259653735
+            ],
+            [
+                "10_it's a movie with a lot of things to say, ",
+                -0.5765913481181941
+            ],
+            [
+                "11_if we now take a woman's right to vote and to hold public office for granted, suffragette reminds us that it wasn't that long ago when things were different.",
+                -0.5866622442847034
+            ],
+            [
+                "13_suffragette, like maud, is modest in scope and ambition, and is more emotionally affecting for it.",
+                0.6466746041749146
+            ],
+            [
+                "14_this revolution looks like others that we've seen on screen, and the film legitimizes it while also offering a stark reminder that the fight is far from over.",
+                0.6269393637259221
+            ],
+            [
+                "15_suffragette is easy to look at, populated by strong actors who move through a world furnished with lovely period detail, ",
+                0.8587798146258317
+            ],
+            [
+                "17_\"suffragette\" is an absorbing, ultimately moving portrait of thwarted ideals that rings all too true today.",
+                0.8124027968797649
+            ],
+            [
+                "18_suffragette has the power to shock even those familiar with the early days of the feminist movement it dramatizes.",
+                0.7263746785607513
+            ],
+            [
+                "19_from a historical perspective, suffragette is riddled with inaccuracies, ",
+                0.5815150647091015
+            ],
+            [
+                "20_it's a movie that's easier to respect than love, ",
+                0.7401052801747902
+            ],
+            [
+                "21_\"suffragette\" urges us to look at the dynamics of gender, class and power then and now with fresh eyes.",
+                0.7107641276102838
+            ],
+            [
+                "23_\"suffragette\" feels like a documentary in its visuals, ",
+                -0.6266521897240229
+            ],
+            [
+                "28_in a sea of hollywood escapism, suffragette -- flaws and all -- is a movie that matters.",
+                0.7012057950283647
+            ],
+            [
+                "29_the movie does well to shine a light on the venerable struggle, ",
+                0.8175269760174315
+            ],
+            [
+                "30_ some excellent performances, this urgent, well-intentioned film feels so conventional and stolid.",
+                0.6660556908937909
+            ],
+            [
+                "33_it depicts an important movement that remains relevant today as a historical obligation of a movie, dutiful and often surprisingly dull.",
+                0.7086287127576585
+            ],
+            [
+                "34_\"suffragette\" derives its considerable intellectual and emotional might from recognizing the symbolic nature of the vote. ...",
+                0.7345178761117661
+            ],
+            [
+                "34_that practical view makes the [film] not just an urgent history lesson ",
+                0.7148414902995833
+            ],
+            [
+                "35_ the film falls short of its potential.",
+                -0.5575158525719702
+            ],
+            [
+                "36_as a period piece, suffragette captures and preserves the pulse and passion of a past era, yet strengthens the vibrant urgency of a cause that continues to inform the future.",
+                0.7112859386460428
+            ],
+            [
+                "37_suffragette expends its energy selling us on what we already believe rather than examining the way these activists pressed the world into believing it.",
+                0.6611928455463558
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

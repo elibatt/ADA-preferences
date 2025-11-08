@@ -1,0 +1,80 @@
+{
+    "writer": {
+        "entities": {
+            "Paul McCusker": {
+                "args": []
+            },
+            "Brennan Smith": {
+                "args": []
+            },
+            "Stephen Kendrick": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Samrat Chakrabarti": {
+                "args": []
+            },
+            "Andrew Cheney": {
+                "args": []
+            },
+            "Michael Ellison": {
+                "args": []
+            },
+            "Carl Harry Carlson": {
+                "args": []
+            },
+            "Annie Kitral": {
+                "args": []
+            },
+            "Steve Blackwood": {
+                "args": []
+            },
+            "John Rhys-Davies": {
+                "args": []
+            },
+            "Alan Madlane": {
+                "args": []
+            },
+            "Kara Killmer": {
+                "args": []
+            },
+            "Thomas D. Mahard": {
+                "args": []
+            },
+            "John Arden McClure": {
+                "args": []
+            },
+            "Adetokumboh M'Cormack": {
+                "args": []
+            },
+            "Charlie Newhart": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Chad Burns": {
+                "args": [
+                    [
+                        "0_a drama of redemption by way of an american revolution history lesson, chad burns' action-adventure yarn offers little in the way of subtlety or surprise.",
+                        0.7430389844973149
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

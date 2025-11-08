@@ -1,0 +1,77 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_the rare modern kids movie that offers absolutely nothing to anyone over the age of five.",
+                0.5066553819289423
+            ],
+            [
+                "9_still, it's always encouraging to see a children's movie that actually tries to say something to its viewers.",
+                0.5669754136935898
+            ],
+            [
+                "11_the finest film ever made about the smurfs.",
+                0.74513774622848
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kelly Asbury": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Joe Manganiello": {
+                "args": []
+            },
+            "Demi Lovato": {
+                "args": []
+            },
+            "Jack McBrayer": {
+                "args": []
+            },
+            "Rainn Wilson": {
+                "args": []
+            },
+            "Mandy Patinkin": {
+                "args": []
+            },
+            "Danny Pudi": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_ its mind-numbing repetitiveness (and haphazardly-written screenplay) will likely test even the most patient parent.",
+                0.5432686293662636
+            ],
+            [
+                "3_there are plenty of ambitious set pieces boasting visual ingenuity, and the witty, perceptive script includes well-constructed subtext and lessons about breaking free from patriarchal norms and the benefits of learning about different cultures.",
+                0.8563425873638484
+            ],
+            [
+                "15_it's significant that two female writers have taken a character who's mainly just existed to be cute and seductive and turned her into a full-fledged member of this universe.",
+                -0.63870202657658
+            ]
+        ],
+        "entities": {
+            "Pamela Ribon": {
+                "args": []
+            },
+            "Stacey Harman": {
+                "args": []
+            }
+        }
+    }
+}

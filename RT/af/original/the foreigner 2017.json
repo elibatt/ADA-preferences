@@ -1,0 +1,144 @@
+{
+    "writer": {
+        "entities": {
+            "David Marconi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_martin campbell directed this twisty, bracing political thriller, giving chan room to display his dramatic ability and letting brosnan flesh out a vigorous, complex character who's surrounded by frenemies with secrets of their own.",
+                0.7216407852178512
+            ],
+            [
+                "10_feels as if a writer tossed a few darts at a board labeled with aging action stars and various terrorist groups to construct a script.",
+                -0.5619148861698023
+            ],
+            [
+                "21_the movie is keenly aware of the west's long tradition of white-on-asian racism, and \"the foreigner\" flips the script on the tradition of hollywood studio movies in which a white hero kicks foreign ",
+                0.7117158159392004
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Martin Campbell": {
+                "args": [
+                    [
+                        "0_martin campbell directed this twisty, bracing political thriller, giving chan room to display his dramatic ability and letting brosnan flesh out a vigorous, complex character who's surrounded by frenemies with secrets of their own.",
+                        0.7216407852178512
+                    ],
+                    [
+                        "3_the foreigner is a good, lean cut of meat-in other words, a typical martin campbell movie, expeditious and cold-blooded in its cross-cut, cloak-and-dagger plotting and violence.",
+                        0.5154839802680639
+                    ],
+                    [
+                        "20_[campbell is] a master at rejuvenating tired warhorses, and he pulls it off again with this one.",
+                        0.6210002857745273
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_it's well-made, nicely paced and accomplishes what we expect from this sort of film.",
+                0.7680079270648571
+            ],
+            [
+                "6_the foreigner is actually at the other extreme - it's serious to a fault.",
+                -0.6535301691198646
+            ],
+            [
+                "8_but dreck like the foreigner should be swiftly crossed off his bucket list,",
+                -0.5984649939125116
+            ],
+            [
+                "11_no ticket-buying constituency is likely to feel well-served by the foreigner, a chilly marriage of political thriller and latter-day liam neeson-style geriatric revenge-o-rama.",
+                0.575612916036417
+            ],
+            [
+                "14_the foreigner may have been shot before the most recent rash of violence, ",
+                -0.6963278060092117
+            ],
+            [
+                "21_the movie is keenly aware of the west's long tradition of white-on-asian racism, and \"the foreigner\" flips the script on the tradition of hollywood studio movies in which a white hero kicks foreign ",
+                0.7117158159392004
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Pierce Brosnan": {
+                "args": []
+            },
+            "Katie Leung": {
+                "args": []
+            },
+            "Stephen Hogan": {
+                "args": []
+            },
+            "Dermot Crowley": {
+                "args": []
+            },
+            "Michael McElhatton": {
+                "args": []
+            },
+            "Jackie Chan": {
+                "args": [
+                    [
+                        "0_martin campbell directed this twisty, bracing political thriller, giving chan room to display his dramatic ability and letting brosnan flesh out a vigorous, complex character who's surrounded by frenemies with secrets of their own.",
+                        0.7216407852178512
+                    ],
+                    [
+                        "4_ i certainly want to see more from this chan-aissance.",
+                        -0.5001345891930877
+                    ],
+                    [
+                        "9_ a sort of meta subplot is also at work: sextagenerian action-film hero chan against onetime 007er brosnan.",
+                        -0.5293865941844457
+                    ],
+                    [
+                        "12_a rare dramatic role from chan, ",
+                        0.6166636762767844
+                    ],
+                    [
+                        "13_by the hour mark, it becomes abundantly clear why this film was made: jackie chan wanted it to happen.",
+                        -0.7542055090683467
+                    ],
+                    [
+                        "16_this is the most dramatic role jackie chan has ever tackled, and he plays it with raw emotional power.",
+                        0.6995996337335578
+                    ],
+                    [
+                        "18_campbell has never had as physically talented a lead as he has with chan, who's peerless at performing choreographed fight sequences.",
+                        -0.5575287275282624
+                    ],
+                    [
+                        "22_it's good to see chan swapping his happy-go-lucky persona for two hours for some gravitas as a tragic rogue with a marked past.",
+                        0.5938760861581089
+                    ]
+                ]
+            },
+            "Rufus Jones": {
+                "args": []
+            },
+            "Ray Fearon": {
+                "args": []
+            },
+            "Rory Fleck-Byrne": {
+                "args": []
+            },
+            "Simon Kunz": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

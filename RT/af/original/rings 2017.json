@@ -1,0 +1,128 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_pretty much everything about rings is incoherent.",
+                -0.6500820093758619
+            ],
+            [
+                "2_if crap movies carried penalties for inflicting torture on audiences, then rings would merit a death sentence.",
+                -0.6515135333826183
+            ],
+            [
+                "3_rings embodies a common problem of attempted franchise revivals: indecision about its intentions.",
+                -0.6548478575969109
+            ],
+            [
+                "4_in the end rings didn't make me want to drink drano.",
+                -0.7550644059848841
+            ],
+            [
+                "5_ rings doesn't end up doing much with its fresh ideas.",
+                -0.6110312392581526
+            ],
+            [
+                "7_tless cash-grab sequel in a horror-movie franchise better off dead.",
+                -0.6083918404902943
+            ],
+            [
+                "8_rings cannot make sense of the hodgepodge of old and new mythology, which confuses a samara origin story that had already been settled in the other entries.",
+                -0.6437892001527045
+            ],
+            [
+                "11_at no point does the movie manage even a single sequence of sustained tension, or a frisson of genuine terror.",
+                -0.7405189398937453
+            ],
+            [
+                "12_more wearying than frightening, rings is a total non-starter.",
+                -0.6823311485904795
+            ],
+            [
+                "14_still less boring than 'rings'.",
+                -0.7890722112060475
+            ],
+            [
+                "15_in the end, this latest \"rings\" sequel is just inexcusably bad.",
+                -0.7668792749098174
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "F. Javier Gutiérrez": {
+                "args": [
+                    [
+                        "9_the story of samara morgan, once potent nightmare fuel, has become less scary with each new iteration, culminating in this new, ridiculous installment directed by f. javier gutiérrez.",
+                        0.6066117750858662
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Surely Alvelo": {
+                "args": []
+            },
+            "Johnny Galecki": {
+                "args": [
+                    [
+                        "4_ that's a low bar for a horror movie that includes d'onofrio and galecki, who could run rings around the rest of the cast given better material.",
+                        -0.5176464687757554
+                    ]
+                ]
+            },
+            "Bonnie Morgan": {
+                "args": [
+                    [
+                        "9_the story of samara morgan, once potent nightmare fuel, has become less scary with each new iteration, culminating in this new, ridiculous installment directed by f. javier gutiérrez.",
+                        0.6066117750858662
+                    ]
+                ]
+            },
+            "Vincent D'Onofrio": {
+                "args": []
+            },
+            "Aimee Teegarden": {
+                "args": []
+            },
+            "Zach Roerig": {
+                "args": []
+            },
+            "Matilda Anna Ingrid Lutz": {
+                "args": []
+            },
+            "Laura Wiggins": {
+                "args": []
+            },
+            "Alex Roe": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_unlike naomi watts' character in the first two films",
+                0.5315922422661745
+            ]
+        ],
+        "entities": {
+            "Jacob Aaron Estes": {
+                "args": []
+            },
+            "David Loucka": {
+                "args": []
+            },
+            "Akiva Goldsman": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "writer": {
+        "entities": {
+            "Ryan Engle": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Richard Cabral": {
+                "args": []
+            },
+            "Damien Leake": {
+                "args": []
+            },
+            "Ajiona Alexus": {
+                "args": []
+            },
+            "Jason George": {
+                "args": []
+            },
+            "Christa Miller": {
+                "args": []
+            },
+            "Gabrielle Union": {
+                "args": [
+                    [
+                        "0_just in time for mother's day comes a thrill-free, home-invasion thriller about a mom (gabrielle union) who'll stop at nothing to keep four bad guys from killing her two kids.",
+                        -0.5482003278825327
+                    ],
+                    [
+                        "7_here's hoping there's an action thriller in the pipeline that makes better use of union's talents.",
+                        0.6017909866505745
+                    ],
+                    [
+                        "9_by not making a whole movie worthy of what union is throwing down, it features a breakout wrapped up in a break-in.",
+                        -0.550154819890449
+                    ]
+                ]
+            },
+            "Levi Meaden": {
+                "args": []
+            },
+            "Seth Carr": {
+                "args": []
+            },
+            "Billy Burke": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"breaking in\" is broken.",
+                -0.6920256028487679
+            ],
+            [
+                "11_yes, there's no higher purpose behind the movie, just an ambition to make you enjoy being uneasy.",
+                -0.5197754562401022
+            ],
+            [
+                "11_still, in its very limited way, \"breaking in\" could be called some kind of a good movie.",
+                -0.5932312743973696
+            ],
+            [
+                "12_ mostly humdrum movie material.",
+                -0.5633614560259577
+            ],
+            [
+                "14_a paint-by-the-numbers plot still leads to an entertaining picture in \"breaking in.\"",
+                -0.543940237467858
+            ],
+            [
+                "15_in the end, the only real suspense comes from seeing whether the film can stretch its wafer-thin premise and paucity of ideas out to a full 90 minutes - and at 88 minutes with credits, even there it comes up short.",
+                -0.6671284077792495
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James McTeigue": {
+                "args": [
+                    [
+                        "1_james mcteigue has a fleet, efficient visual style that keeps the suspense set pieces percolating.",
+                        0.6647534112419722
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

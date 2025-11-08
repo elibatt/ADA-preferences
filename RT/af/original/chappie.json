@@ -1,0 +1,376 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ they're absurd and often jarring given the film's (unsuccessful) attempt to squeeze in some high-minded ideas.",
+                -0.5805611293186349
+            ],
+            [
+                "1_it's this time-old message of humanity, adapted to fit with today's technologies, that transcends the overpowering, at times clunky, cinematic vessel.",
+                0.6376193133177878
+            ],
+            [
+                "2_its oddly jumbled machinery never clicks.",
+                -0.6274680912208948
+            ],
+            [
+                "2_the logic of chappie gradually disintegrates, becoming increasingly farcical.",
+                -0.5080315684091045
+            ],
+            [
+                "3_the principal charm of the film arises from chappie's ears, which prick up and droop like those of a titanium rabbit.",
+                0.6364582213119239
+            ],
+            [
+                "4_while the visual effects are spectacularly seamless, they're in the service of a movie which devolves from vaguely funny to just-plain silly to numbingly gory.",
+                -0.6855830456306753
+            ],
+            [
+                "5_there's material in chappie for a worthwhile motion picture ",
+                0.5871600814615923
+            ],
+            [
+                "7_this is a well-meaning film with a good idea that unfortunately stumbles on its way to its less-than-satisfying end.",
+                0.5454250270156334
+            ],
+            [
+                "9_it's cluttered, goofy and incoherent from beginning to end, and much too long.",
+                -0.7133437726364716
+            ],
+            [
+                "10_there's something fearlessly uncool about the film, which suffers mostly from being made 30 years too late.",
+                -0.7299519170573018
+            ],
+            [
+                "11_at one point, an anguished chappie screams out \"why do you humans do this?\"-while he is theoretically commenting on the inhumanity of man at this point, i couldn't help ",
+                -0.7235404034249779
+            ],
+            [
+                "11_ think of it as his plaintive comment on the film as a whole.",
+                0.50399932758842
+            ],
+            [
+                "12_chappie is a clunky mix: a sentimental comedy-thriller with hideous violence and a profound cynicism about the inexorability of the computer-enhanced surveillance state.",
+                -0.5957853445633321
+            ],
+            [
+                "14_\"chappie\" is all over the place, employing a cloying, \"patch adams\"-like sentimentality and abandoning logic at every turn.",
+                -0.6673372528737695
+            ],
+            [
+                "15_ full of high-velocity chases, helicopter pursuits, and weapons blasting around empty warehouses marred by graffiti and trash.",
+                -0.656278425073761
+            ],
+            [
+                "16_i haven't been as happy to see a movie end since the third \"transformers.\"",
+                0.7330222062859311
+            ],
+            [
+                "21_chappie, the robot, gets smart.",
+                0.6742619102385422
+            ],
+            [
+                "21_chappie, the movie, stays very, very dumb.",
+                -0.6084426834073535
+            ],
+            [
+                "22_like chappie, the movie seems human, ",
+                0.5106805708324919
+            ],
+            [
+                "23_\"chappie\" is a movie about the evolution of artificial intelligence that's as dumb as a post.",
+                -0.7088071785803175
+            ],
+            [
+                "24_\"chappie\" is as subtle as a sledgehammer.",
+                -0.6075096304125832
+            ],
+            [
+                "27_ it's distinguished only by the jabbering, irritating personality of its title character.",
+                -0.6442579389530829
+            ],
+            [
+                "31_chappie himself is lovingly and realistically rendered, ",
+                0.6289883018140896
+            ],
+            [
+                "33_ the flat digital cinematography renders even the most technically impressive action sequence visually stale.",
+                -0.6015859014615462
+            ],
+            [
+                "34_ anyone else can expect to be disappointed by chappie.",
+                -0.7691216602627179
+            ],
+            [
+                "36_that you can't quite say exactly what \"chappie\" means, ",
+                0.5334856934257172
+            ],
+            [
+                "36_it's what makes it a work of art.",
+                0.7824517065934912
+            ],
+            [
+                "39_you'll be told repeatedly in whispers and shouts, that chappie has feelings.",
+                0.5385886543556612
+            ],
+            [
+                "39_it's too bad that neither the philosophy nor the pyrotechnics on-screen in \"chappie\" can distract you from your own sinking feeling that you've seen almost all of this before.",
+                -0.8090551215968191
+            ],
+            [
+                "41_a robot-themed action movie that winds up feeling as clunky and confused as the childlike droid with which it shares its name.",
+                -0.516631891040815
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Neill Blomkamp": {
+                "args": [
+                    [
+                        "5_ too little is explored by blomkamp to make this worth a trip to a theater.",
+                        -0.6566740600098735
+                    ],
+                    [
+                        "17_sci-fi filmmaker neill blomkamp bolts together used and stolen parts for his robot movie chappie, and the lamentable result is far from riveting.",
+                        0.54021467497964
+                    ],
+                    [
+                        "19_t through half as fully as blomkamp's ultraviolent battle choreography.",
+                        -0.5912670504363261
+                    ],
+                    [
+                        "23_it also marks the continuing devolution of the work of director and co-writer neill blomkamp.",
+                        0.7330338347385627
+                    ],
+                    [
+                        "24_the latest sci-fi action spectacle from \"district 9\" and \"elysium\" director neill blomkamp is also sprawling, bombastic, deafening, ugly and ultra-violent.",
+                        -0.600565336004401
+                    ],
+                    [
+                        "25_ blomkamp forgot to give us any characters to latch onto.",
+                        -0.6205247378824106
+                    ],
+                    [
+                        "32_sadly, blomkamp's ideas feel depleted this time, dulled by repetition and other cinematic droids that stretch from hal 9000 to ultron.",
+                        -0.715094694591576
+                    ],
+                    [
+                        "34_that may well be enough for blomkamp fans, ",
+                        0.5065211208633259
+                    ],
+                    [
+                        "40_after the surprise and promise of district 9, this represents a further downward step for director neill blomkamp in the wake of the highly uneven elysium.",
+                        0.5540959965900564
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Johnny K. Selema": {
+                "args": []
+            },
+            "Paul Dobson": {
+                "args": []
+            },
+            "Hugh Jackman": {
+                "args": [
+                    [
+                        "38_with its stunning urban landscapes, trash-talking titanium hero and mulleted, god-bothering bad guy (hugh jackman, never better), this is hugely entertaining.",
+                        0.5451298842936098
+                    ]
+                ]
+            },
+            "Jason Cope": {
+                "args": []
+            },
+            "Daniel Hirst": {
+                "args": []
+            },
+            "Ninja": {
+                "args": [
+                    [
+                        "0_i think the sequences between chappie, ninja, and yolandi are filled with humor and a warped kind of sweetness",
+                        0.768755130391313
+                    ]
+                ]
+            },
+            "Brandon Auret": {
+                "args": []
+            },
+            "Jose Pablo Cantillo": {
+                "args": []
+            },
+            "Mike Blomkamp": {
+                "args": [
+                    [
+                        "5_ too little is explored by blomkamp to make this worth a trip to a theater.",
+                        -0.6566740600098735
+                    ],
+                    [
+                        "17_sci-fi filmmaker neill blomkamp bolts together used and stolen parts for his robot movie chappie, and the lamentable result is far from riveting.",
+                        0.54021467497964
+                    ],
+                    [
+                        "19_t through half as fully as blomkamp's ultraviolent battle choreography.",
+                        -0.5912670504363261
+                    ],
+                    [
+                        "23_it also marks the continuing devolution of the work of director and co-writer neill blomkamp.",
+                        0.7330338347385627
+                    ],
+                    [
+                        "24_the latest sci-fi action spectacle from \"district 9\" and \"elysium\" director neill blomkamp is also sprawling, bombastic, deafening, ugly and ultra-violent.",
+                        -0.600565336004401
+                    ],
+                    [
+                        "25_ blomkamp forgot to give us any characters to latch onto.",
+                        -0.6205247378824106
+                    ],
+                    [
+                        "32_sadly, blomkamp's ideas feel depleted this time, dulled by repetition and other cinematic droids that stretch from hal 9000 to ultron.",
+                        -0.715094694591576
+                    ],
+                    [
+                        "34_that may well be enough for blomkamp fans, ",
+                        0.5065211208633259
+                    ],
+                    [
+                        "40_after the surprise and promise of district 9, this represents a further downward step for director neill blomkamp in the wake of the highly uneven elysium.",
+                        0.5540959965900564
+                    ]
+                ]
+            },
+            "James Bitonti": {
+                "args": []
+            },
+            "Chris Shields": {
+                "args": []
+            },
+            "Robert Hobbs (II)": {
+                "args": []
+            },
+            "Anthony Bishop": {
+                "args": []
+            },
+            "Maurice Carpede": {
+                "args": []
+            },
+            "Vuyelwa Booi": {
+                "args": []
+            },
+            "Yolandi Visser": {
+                "args": []
+            },
+            "Dev Patel": {
+                "args": [
+                    [
+                        "37_jackman grows increasingly cartoonish, weaver is wasted and patel just sort of exists ...",
+                        -0.7006409679759305
+                    ]
+                ]
+            },
+            "Kevin Otto": {
+                "args": []
+            },
+            "Hein DeVries": {
+                "args": []
+            },
+            "David Davadoss": {
+                "args": []
+            },
+            "Chan Marti": {
+                "args": []
+            },
+            "Kendal Watt": {
+                "args": []
+            },
+            "Paul Hampshire": {
+                "args": []
+            },
+            "Alistair Prodgers": {
+                "args": []
+            },
+            "Wandile Molebatsi": {
+                "args": []
+            },
+            "Thami Ngubeni": {
+                "args": []
+            },
+            "Mark K. Xulu": {
+                "args": []
+            },
+            "Arran Henn": {
+                "args": []
+            },
+            "Anderson Cooper": {
+                "args": []
+            },
+            "Sherldon Marema": {
+                "args": []
+            },
+            "Sharlto Copley": {
+                "args": [
+                    [
+                        "34_the little-robot-who-could is a combination of sharlto copley's performance capture work and visual effects artistry, and the end result is remarkable.",
+                        0.7657099726064435
+                    ]
+                ]
+            },
+            "Shaheed Hajee": {
+                "args": []
+            },
+            "Bill Marchant": {
+                "args": []
+            },
+            "Max Poolman": {
+                "args": []
+            },
+            "Anneli Muller": {
+                "args": []
+            },
+            "Sigourney Weaver": {
+                "args": [
+                    [
+                        "20_never mind that weaver and jackman are totally wasted or the laughable lapses in logic, or that it lacks the social resonance of district 9.",
+                        -0.7182770631271279
+                    ]
+                ]
+            },
+            "Andea DeJager": {
+                "args": []
+            },
+            "Eugene Khumbanyiwa": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Terri Tatchell": {
+                "args": []
+            },
+            "Neill Blomkamp": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_it also marks the continuing devolution of the work of director and co-writer neill blomkamp.",
+                0.7330338347385627
+            ],
+            [
+                "27_ it's distinguished only by the jabbering, irritating personality of its title character.",
+                -0.6442579389530829
+            ]
+        ]
+    }
+}

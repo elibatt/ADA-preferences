@@ -1,0 +1,166 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ági Szirtes": {
+                "args": []
+            },
+            "Zsolt Der": {
+                "args": []
+            },
+            "Sándor Terhes": {
+                "args": []
+            },
+            "Gyula Feher": {
+                "args": []
+            },
+            "Dóra Sztarenki": {
+                "args": []
+            },
+            "Béla Gados": {
+                "args": []
+            },
+            "Rita Kerkay": {
+                "args": []
+            },
+            "Balint Adorjani": {
+                "args": []
+            },
+            "Gyorgy Somhegyi": {
+                "args": []
+            },
+            "Mari Nagy": {
+                "args": []
+            },
+            "Iván Angelusz": {
+                "args": []
+            },
+            "Vivianne Banovits": {
+                "args": []
+            },
+            "János Derzsi": {
+                "args": []
+            },
+            "Tunde Szalontay": {
+                "args": []
+            },
+            "Mate Novkov": {
+                "args": []
+            },
+            "Eszter Nagy-Kálózy": {
+                "args": []
+            },
+            "Miklós Székely B.": {
+                "args": []
+            },
+            "Tamás Szabó Kimmel": {
+                "args": []
+            },
+            "István Znamenák": {
+                "args": []
+            },
+            "József Szarvas": {
+                "args": []
+            },
+            "Péter Rudolf": {
+                "args": []
+            },
+            "Bence Tasnádi": {
+                "args": []
+            },
+            "Marcell Nagy": {
+                "args": []
+            },
+            "Tibor Mertz": {
+                "args": []
+            },
+            "Gergo Mikola": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_set in a specific time and place, 1945 also resonates as a story of people doing terrible things to other people in the name of opportunity and getting ahead.",
+                -0.5422054679860449
+            ],
+            [
+                "0_it hits home at a time when the idea of loving thy neighbor feels sadly passé.",
+                0.5010027740871866
+            ],
+            [
+                "3_this film adds to a growing list of holocaust dramas and documentaries that move past the guilt of nazi germany to ponder the complicity of smaller communities in eastern europe.",
+                0.7636694527053947
+            ],
+            [
+                "4_features an intrusive sound design, including tibor szemzö's jarringly contemporary score and sound effects that include the ringing of a clock tower, buzzing flies, rumbling thunder and noisy birds...",
+                0.6863189083825005
+            ],
+            [
+                "5_torok juggles plenty of characters and themes - guilt, greed, russian meddling, the holocaust, justice - ",
+                0.7823026786239311
+            ],
+            [
+                "5_every frame is meticulously crafted.",
+                0.5540507066894552
+            ],
+            [
+                "6_it's a good bet that the director had high noon in mind when he made this film, ",
+                0.5728045514753669
+            ],
+            [
+                "6_ the comparison ends there.",
+                -0.6185094418103292
+            ],
+            [
+                "6_as a compact study of wartime guilt, the film has the look and feel of a waking nightmare.",
+                -0.512582499363636
+            ],
+            [
+                "7_simple, powerful, made with conviction and skill, \"1945\" proceeds as inexorably as sámuel and his son on their long walk into town.",
+                0.7562506012914928
+            ],
+            [
+                "8_the resultant sensation of uncomfortable prying underlines the boiling suspicions that power the plot.",
+                -0.50570520552733
+            ],
+            [
+                "9_a holocaust film built, consciously or not, on a reversal of the tropes of the western, down to ticking clocks that might as well be nearing high noon.",
+                -0.5612991584146848
+            ],
+            [
+                "10_a fresh, intelligent cinematic approach to a difficult topic that takes on a transitional time in hungarian history with subtlety and nuance.",
+                0.6538224195793985
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "6_it's a good bet that the director had high noon in mind when he made this film, ",
+                0.5728045514753669
+            ]
+        ],
+        "entities": {
+            "Ferenc Torok": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gabor Szanto": {
+                "args": []
+            },
+            "Ferenc Torok": {
+                "args": []
+            }
+        }
+    }
+}

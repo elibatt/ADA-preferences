@@ -1,0 +1,249 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ the film plays like a whirling sociopolitical operetta.",
+                -0.508756788160535
+            ],
+            [
+                "4_a sharper movie would have pushed this bizarre incident into psychological rawness, revealing a shared sense of paranoia.",
+                0.736335864120882
+            ],
+            [
+                "4_breezy, comic and disposable, elvis & nixon is not that film.",
+                -0.5401004972619803
+            ],
+            [
+                "6_ it's an entertaining, deadpan jape that, with a bit of tweaking, could probably work as a stage play.",
+                0.7966386451395506
+            ],
+            [
+                "7_\"elvis and nixon\" plays with history, ",
+                0.6390895542272896
+            ],
+            [
+                "7_elvis and nixon would have gotten a kick out of it.",
+                -0.575010415563744
+            ],
+            [
+                "8_an odd, diverting footnote of a film.",
+                0.5612256217632974
+            ],
+            [
+                "14_\"elvis & nixon\" is the funniest nixon movie since 1999's forgotten \"dick.\"",
+                0.6152583942945566
+            ],
+            [
+                "18_neither actor would work as a body double for his character, ",
+                0.5480612199809691
+            ],
+            [
+                "21_what we're left with is a film that has some good comic moments, ",
+                0.561999227152729
+            ],
+            [
+                "22_as much as the movie sidesteps biographical conventions with its narrow frame and playful tone, it can't avoid a separate cliché that plagues this sort of material:",
+                0.5068367705126401
+            ],
+            [
+                "22_elvis & nixon is basically a diverting tv movie given a theatrical release.",
+                -0.6636822938469618
+            ],
+            [
+                "27_johnson's film is filled with tedium instead of delirium.",
+                -0.5326083826701096
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Liza Johnson": {
+                "args": [
+                    [
+                        "3_what the movie, directed by liza johnson, lacks in factual material it replaces with whimsy and quirky humour, helped greatly by the casting of michael shannon as presley and kevin spacey as nixon.",
+                        0.6210260979057901
+                    ],
+                    [
+                        "32_ liza johnson's asinine film will shock you with how little you care.",
+                        0.6014280617134942
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Hanala Sagal": {
+                "args": []
+            },
+            "Cary Elwes": {
+                "args": []
+            },
+            "Joey Sagal": {
+                "args": [
+                    [
+                        "24_the sharply astute, satirical screenplay by joey and hanala sagal and actor cary elwes is filled with priceless moments.",
+                        0.7997523593258486
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "18_neither actor would work as a body double for his character, ",
+                0.5480612199809691
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Alex Pettyfer": {
+                "args": []
+            },
+            "Ritchie Montgomery": {
+                "args": []
+            },
+            "Skye Forsyth-Peters": {
+                "args": []
+            },
+            "Vivian Winther": {
+                "args": []
+            },
+            "Ahna O'Reilly": {
+                "args": []
+            },
+            "Colin Hanks": {
+                "args": []
+            },
+            "Atlanta de Cadenet": {
+                "args": []
+            },
+            "Hanala Sagal": {
+                "args": []
+            },
+            "Kamal Angelo Bolden": {
+                "args": []
+            },
+            "Marcus Lyle Brown": {
+                "args": []
+            },
+            "Ian Hoch": {
+                "args": []
+            },
+            "Geraldine Singer": {
+                "args": [
+                    [
+                        "28_so we can giggle: at the president's awkwardness and grievance-airing, at the singer's polite bad manners, at the ways that the men connect, a little, by hating on the beatles.",
+                        0.5508562307808269
+                    ]
+                ]
+            },
+            "Brandy Carter": {
+                "args": []
+            },
+            "Katie Corwin": {
+                "args": []
+            },
+            "Kevin \"Lucky\" Johnson": {
+                "args": [
+                    [
+                        "32_ liza johnson's asinine film will shock you with how little you care.",
+                        0.6014280617134942
+                    ]
+                ]
+            },
+            "Evan Peters": {
+                "args": []
+            },
+            "Ashley Benson": {
+                "args": []
+            },
+            "Danny McCarthy": {
+                "args": []
+            },
+            "Tracy Letts": {
+                "args": []
+            },
+            "Gary Roberson": {
+                "args": []
+            },
+            "Kevin Spacey": {
+                "args": []
+            },
+            "Michael Shannon": {
+                "args": [
+                    [
+                        "3_what the movie, directed by liza johnson, lacks in factual material it replaces with whimsy and quirky humour, helped greatly by the casting of michael shannon as presley and kevin spacey as nixon.",
+                        0.6210260979057901
+                    ],
+                    [
+                        "5_michael shannon as elvis and kevin spacey as tricky dick.",
+                        -0.5070904601464585
+                    ],
+                    [
+                        "10_despite mr. shannon and mr. spacey, who appear to be having a fine time working off each other,",
+                        0.6398333988063925
+                    ],
+                    [
+                        "13_think of elvis & nixon's sometimes clumsy prologue as its opening act, building anticipation for the showdown between its title characters, and spacey and shannon.",
+                        0.5402397129264699
+                    ],
+                    [
+                        "16_other than the sheer peculiarity of the incident - and the obvious fun spacey and shannon are having as alpha males parrying and thrusting over dr pepper and m&m's - it's difficult to discern the point of \"elvis & nixon.\"",
+                        -0.5442433863020678
+                    ],
+                    [
+                        "17_the pleasure of watching shannon and spacey-together and separately-is key.",
+                        0.7024273222356787
+                    ],
+                    [
+                        "25_it's fun to watch michael shannon (elvis) and kevin spacey (nixon) do their thing without settling for impressions or impersonations.",
+                        0.6124626473566201
+                    ],
+                    [
+                        "31_michael shannon and kevin spacey hilariously reenact one of history's most surreal blind dates.",
+                        0.7149298083054222
+                    ]
+                ]
+            },
+            "Nathalie Love": {
+                "args": []
+            },
+            "Tate Donovan": {
+                "args": []
+            },
+            "Anthony Marble": {
+                "args": []
+            },
+            "Johnny Knoxville": {
+                "args": []
+            },
+            "Poppy Delevingne": {
+                "args": []
+            },
+            "Dylan Penn": {
+                "args": []
+            },
+            "Sky Ferreira": {
+                "args": []
+            },
+            "Joey Sagal": {
+                "args": [
+                    [
+                        "24_the sharply astute, satirical screenplay by joey and hanala sagal and actor cary elwes is filled with priceless moments.",
+                        0.7997523593258486
+                    ]
+                ]
+            },
+            "Harold Evans": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "acting": {
+        "entities": {
+            "Alain Derbez": {
+                "args": []
+            },
+            "Oscar Torre": {
+                "args": []
+            },
+            "Miguel Varoni": {
+                "args": []
+            },
+            "Carmen Beato": {
+                "args": []
+            },
+            "Jessica C. Lindsey": {
+                "args": []
+            },
+            "Vadhir Derbez": {
+                "args": []
+            },
+            "Eduardo Yanez": {
+                "args": []
+            },
+            "Evelyna Rodríguez": {
+                "args": []
+            },
+            "Fernando Colunga": {
+                "args": []
+            },
+            "Cristina Rodlo": {
+                "args": []
+            },
+            "Nashla Bogaert": {
+                "args": []
+            },
+            "Jon Molerio": {
+                "args": []
+            },
+            "Frank Perozo": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_it still works, thanks to the breezy direction of joe menendez, who helmed the first film, and the good-natured camaraderie of the cast.",
+                0.858000207652071
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Jon Molerio": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ladrones, or thieves, lacks some of the edge of the original.",
+                0.737208020801672
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Joe Menendez": {
+                "args": [
+                    [
+                        "0_it still works, thanks to the breezy direction of joe menendez, who helmed the first film, and the good-natured camaraderie of the cast.",
+                        0.858000207652071
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

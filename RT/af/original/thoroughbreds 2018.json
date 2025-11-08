@@ -1,0 +1,182 @@
+{
+    "writer": {
+        "entities": {
+            "Cory Finley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_ing writer-director cory finley has such a command of details that you'll laugh your way through the shivers.",
+                0.764237743615038
+            ],
+            [
+                "18_ with \"thoroughbreds,\" in which he makes us feel something for a character who can't feel anything at all.",
+                -0.6943458776657451
+            ],
+            [
+                "22_you may surprise yourself ... when, in the final scenes, you realize just how much horror this writer-director and his excellent cast have convinced you to roll with, maybe even to accept as justified.",
+                0.6620726644330956
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Anton Yelchin": {
+                "args": []
+            },
+            "Kaili Vernoff": {
+                "args": []
+            },
+            "Francie Swift": {
+                "args": []
+            },
+            "Paul Sparks": {
+                "args": []
+            },
+            "Olivia Cooke": {
+                "args": [
+                    [
+                        "21_ it's all reasonably watchable, thanks to the elegant cinematography and cooke's amusing way of playing teenage amorality.",
+                        0.7998304558131204
+                    ]
+                ]
+            },
+            "Anya Taylor-Joy": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_and finley elicits fine work from his cast.",
+                0.6866180220545903
+            ],
+            [
+                "22_you may surprise yourself ... when, in the final scenes, you realize just how much horror this writer-director and his excellent cast have convinced you to roll with, maybe even to accept as justified.",
+                0.6620726644330956
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_thoroughbreds is delivered generally in a prim, flat style that recalls the films of hal hartley and whit stillman...",
+                0.5678735456873187
+            ],
+            [
+                "2_thoroughbreds is not for the faint of heart.",
+                0.5119291612698947
+            ],
+            [
+                "3_for those seeking a wickedly dark little confection, thoroughbreds should prove a diverting watch",
+                0.6140010800129615
+            ],
+            [
+                "7_\"thoroughbreds\" is a delightfully nasty piece of work, a sharp, biting, dark teen comic-drama with an attitude to rival \"heathers.\"",
+                0.6807686394844376
+            ],
+            [
+                "11_ the movie boasts a deliciously dark tone that makes for compelling viewing.",
+                0.7780701800950865
+            ],
+            [
+                "12_thoroughbreds plunges you into an ice-cold bath of amorality, ",
+                0.5303791899821209
+            ],
+            [
+                "13_the film isn't just good.",
+                -0.569301566327857
+            ],
+            [
+                "14_ the film is a bit too schematic in its updating of film noir,",
+                0.5746564254606691
+            ],
+            [
+                "16_thoroughbreds feels undeniably slight at times, even unfinished.",
+                -0.5147208736340927
+            ],
+            [
+                "16_ sharp shock of a movie",
+                0.5015884623260638
+            ],
+            [
+                "18_ with \"thoroughbreds,\" in which he makes us feel something for a character who can't feel anything at all.",
+                -0.6943458776657451
+            ],
+            [
+                "19_thoroughbreds is a film of exquisite style and deceptive substance.",
+                0.8711784230043241
+            ],
+            [
+                "21_thoroughbreds often feels like a very, very expensive b-movie, ",
+                -0.7360905101800359
+            ],
+            [
+                "23_the problem with thoroughbreds is that a feature-length dialogue between two sociopaths does not make for very compelling drama, or comedy, for that matter.",
+                -0.544364520141507
+            ],
+            [
+                "25_a vicious satire of the upper class and its discontents, \"thoroughbreds\" paints a dark picture of a generation that, because it has been denied nothing, has come to value nothing.",
+                0.5952296347331052
+            ],
+            [
+                "29_thoroughbreds, in other words, has been made with diabolical craft and intelligence, the kind",
+                0.6454291540459932
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Cory Finley": {
+                "args": [
+                    [
+                        "0_cory finley uses the clipped dialogue of film noir to heighten the sense of menace.",
+                        0.7132124841560867
+                    ],
+                    [
+                        "9_thoroughbreds was written and directed by first-time filmmaker cory finley, and for other amateurs it's a masterclass in squeezing everything you can out of a small budget.",
+                        0.6135970898359864
+                    ],
+                    [
+                        "12_ing writer-director cory finley has such a command of details that you'll laugh your way through the shivers.",
+                        0.764237743615038
+                    ],
+                    [
+                        "14_and finley elicits fine work from his cast.",
+                        0.6866180220545903
+                    ],
+                    [
+                        "15_for all the chatter and intrigue, mr. finley never settles on a point or theme.",
+                        -0.6231189434047076
+                    ],
+                    [
+                        "17_these are the building blocks of noir, and \"thoroughbreds\" is confident enough to establish finley as a talent to watch.",
+                        0.6732768133493245
+                    ],
+                    [
+                        "18_playwright-turned-filmmaker cory finley makes an impressive de",
+                        0.8081627308293176
+                    ],
+                    [
+                        "20_more than a pure actors' director, finley shows himself to be a theater product with a strikingly clear cinematic vision.",
+                        -0.5030277753924983
+                    ],
+                    [
+                        "29_that marks director [cory] finley as a major new american talent.",
+                        0.6125656444264163
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "22_you may surprise yourself ... when, in the final scenes, you realize just how much horror this writer-director and his excellent cast have convinced you to roll with, maybe even to accept as justified.",
+                0.6620726644330956
+            ]
+        ]
+    }
+}

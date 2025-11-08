@@ -1,0 +1,80 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gareth Williams": {
+                "args": []
+            },
+            "James Adomian": {
+                "args": []
+            },
+            "Andie MacDowell": {
+                "args": [
+                    [
+                        "9_andie macdowell and chris o'dowd are superb as a mother and son coping with grief in russell harbaugh's intimate, insightful indie drama.",
+                        0.7591512708461525
+                    ]
+                ]
+            },
+            "Juliet Rylance": {
+                "args": []
+            },
+            "Dree Hemingway": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Russell Harbaugh": {
+                "args": [
+                    [
+                        "3_first-time director russell harbaugh presents grief as it is, in all its pain and ugliness, rather than using the convenient, uplifting short-hand that hollywood prefers.",
+                        -0.5433063301635888
+                    ],
+                    [
+                        "5_this first-time feature from writer/director russell harbaugh has an understated, intimate, pointillist style, with a cool jazz score that matches its improvisational tone.",
+                        0.8615091309533796
+                    ],
+                    [
+                        "6_ feature from russ harbaugh delivers something rarely seen in american movies: a warts-and-all examination of extended grief.",
+                        0.7614711404974034
+                    ],
+                    [
+                        "9_andie macdowell and chris o'dowd are superb as a mother and son coping with grief in russell harbaugh's intimate, insightful indie drama.",
+                        0.7591512708461525
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_this first-time feature from writer/director russell harbaugh has an understated, intimate, pointillist style, with a cool jazz score that matches its improvisational tone.",
+                0.8615091309533796
+            ]
+        ],
+        "entities": {
+            "Eric Mendelsohn": {
+                "args": []
+            },
+            "Russell Harbaugh": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's a film intentionally adrift, rambling between a loose succession of family gatherings and dinner parties with subdued style, the camera feeling like just another person at the edge of the room.",
+                0.6381402009294036
+            ]
+        ]
+    }
+}

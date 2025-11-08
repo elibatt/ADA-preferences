@@ -1,0 +1,123 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Stanley Nelson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "6_ in many ways they stay the same, and you'll wish the film just didn't have to be so timely.",
+                -0.535566270437713
+            ],
+            [
+                "7_\"the black panthers: vanguard of the revolution\" is not a particularly exceptional movie in form, ",
+                -0.5071713389649779
+            ],
+            [
+                "12_like any good work of history, \"the black panthers\" sticks close to the facts, plotting complex events into a packed, fast-moving timeline and leaving to the viewers the work of drawing lessons and analogies for our own time.",
+                0.6046046628719643
+            ],
+            [
+                "13_joining some other recent histories about black americans fighting powers that are too rarely held accountable to them, the film continues a discussion whose present-day relevance is painfully, increasingly obvious.",
+                -0.5680099632035089
+            ],
+            [
+                "14_with no narrator to shepherd us along, the movie feels noisy and restless.",
+                -0.6803365754566657
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kathleen Cleaver": {
+                "args": []
+            },
+            "Wayne Pharr": {
+                "args": []
+            },
+            "Sherwin Forte": {
+                "args": []
+            },
+            "Mohammed Mubarek": {
+                "args": []
+            },
+            "Jeffrey Ogbar": {
+                "args": []
+            },
+            "Scot Brown": {
+                "args": []
+            },
+            "Dennis Cunningham": {
+                "args": []
+            },
+            "Landon Williams": {
+                "args": []
+            },
+            "Elaine Brown": {
+                "args": []
+            },
+            "Jeff Haas": {
+                "args": []
+            },
+            "Yohuru Williams": {
+                "args": []
+            },
+            "Elbert \"Big Man\" Howard": {
+                "args": []
+            },
+            "Rita Williams-Garcia": {
+                "args": []
+            },
+            "Clayborne Carson": {
+                "args": []
+            },
+            "Flores Forbes": {
+                "args": []
+            },
+            "Tarika Lewis": {
+                "args": []
+            },
+            "Jamal Joseph": {
+                "args": []
+            },
+            "Ronald Freeman": {
+                "args": []
+            },
+            "Emory Douglas": {
+                "args": []
+            },
+            "Roland Freeman": {
+                "args": []
+            },
+            "Donna Murch": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stanley Nelson": {
+                "args": [
+                    [
+                        "10_loaded with the militant images that grabbed worldwide media attention in the late '60s, nelson's doc strikes an intelligent balance between funk-scored pride and a more universal story of activism threatened by in-fighting and accidental celebrity.",
+                        0.8469493500362003
+                    ],
+                    [
+                        "15_vet pbs documentarian stanley nelson's sturdy, straightforward chronicle of the black power organization.",
+                        -0.5305928198964084
+                    ]
+                ]
+            }
+        }
+    }
+}

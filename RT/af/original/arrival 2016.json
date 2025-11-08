@@ -1,0 +1,424 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the best film of the year to date, ambitious in conception and extraordinary in execution, has arrived.",
+                0.8610728815822185
+            ],
+            [
+                "3_those expecting a whiz-bang film should be prepared for a more cerebral and emotional experience, admirable for its ambition and tone, if not wholly satisfying in its payoff.",
+                0.6610904828015293
+            ],
+            [
+                "4_arrival plays with your head as gently as any sci-fi thriller i can remember.",
+                0.5981467185614785
+            ],
+            [
+                "7_it's difficult to get worked into a state of awe with this film because so much of it is so sodden.",
+                -0.6572471913093912
+            ],
+            [
+                "10_it doesn't pack the punch you'd expect from an alien invasion movie",
+                0.5491373880260986
+            ],
+            [
+                "11_[villenueve has] a keen appreciation of film's ability to get at hidden truths.",
+                0.6762379390465348
+            ],
+            [
+                "13_arrival, like the spielberg classic it aspires to, brings the beyond to us.",
+                0.6640931728343648
+            ],
+            [
+                "14_arrival is grand, technically marvelous, solemn, spooky, somewhat unbelievable and sometimes unfathomable.",
+                0.7907791119969034
+            ],
+            [
+                "15_\"arrival\" makes a moving case that we've only scratched the surface of what we think is possible - and what we define as intelligence.",
+                0.7312843915746058
+            ],
+            [
+                "16_tful sci-fi film that wonders how first contact with aliens might go down, this tight little gem of a film is a gift from beyond the stars.",
+                0.7768868649927484
+            ],
+            [
+                "17_the film is intricately handsome and rarely showy, flawlessly made and earnest-minded.",
+                0.6601921903448604
+            ],
+            [
+                "21_by the time it ends, arrival is a story that could only be told in the science-fiction genre, and the result is a beautiful narrative that you find has been telling you things about itself without you ever realizing it.",
+                0.6580491159406126
+            ],
+            [
+                "23_arrival is not a linear adventure of the mind, and it is a film probably best seen twice.",
+                0.8751096804163497
+            ],
+            [
+                "24_muted, measured and meditative, \"arrival\" brings taste and restraint to a genre in the midst of a mini golden age: it comes in peace.",
+                0.803220857558827
+            ],
+            [
+                "26_[a] terrific, haunting film that plays with our expectations - and rewards us with satisfying left turns.",
+                0.8206664815946594
+            ],
+            [
+                "28_an alien-invasion fantasy that operates within the genre at the same time as it subverts it - large-scale movie-star sci-fi filtered through the tricky, esoteric lens of art-house cinema.",
+                0.822731039856509
+            ],
+            [
+                "29_\"arrival\" is the sort of superficially profound movie that initially seems deep and weighty ",
+                0.6354076705110067
+            ],
+            [
+                "31_arrival is at its best when pregnant with the suspense of the possible, when the unidentified stationary objects bear no trace of their intentions.",
+                0.5154672546913972
+            ],
+            [
+                "31_ the film becomes less intriguing as the story's direction moves from teasingly opaque to crystal-clear.",
+                0.5914054927953324
+            ],
+            [
+                "34_if arrival succeeds at the box office, it will shine as a beacon in favor of not dumbing down every production to appease the distracted and disinterested masses.",
+                0.5040810620604522
+            ],
+            [
+                "35_arrival is at once majestic and melancholy.",
+                0.5907930483747814
+            ],
+            [
+                "35_this is her movie, no doubt.",
+                -0.6483532054546596
+            ],
+            [
+                "37_arrival is a weird flick, slow and tedious, too metaphysical for rod serling's the twilight zone and most likely to appeal to people who like to play video games and solve puzzles.",
+                -0.6956197907239161
+            ],
+            [
+                "39_arrival arrives at a good time, as something of a salve for the ugly discourse going on and a reminder to us that thinking big is really worthwhile.",
+                0.7414708416105831
+            ],
+            [
+                "41_arrival is such a beautiful and ",
+                0.7956397411073728
+            ],
+            [
+                "41_t-provoking film that it almost singlehandedly makes up for every bad aliens-coming-to-earth film you've ever seen.",
+                0.6315281651485494
+            ],
+            [
+                "43_arrival has its heart in the right place.",
+                0.6275060658212145
+            ],
+            [
+                "43_ the film is not more than sum of its parts, well, those parts are pretty great.",
+                0.6145549863782077
+            ],
+            [
+                "45_for most of its running time, arrival is entrancing, intimate, and moving - a sci-fi movie that looks not up at the stars ",
+                0.6509388116714587
+            ],
+            [
+                "46_an outstanding sci-fi film with an intergalactic language lesson.",
+                0.7937221728143724
+            ],
+            [
+                "47_a film that forces viewers to reconsider that which makes us truly human, and the impact of grief on that timeline of existence.",
+                0.6989186792174191
+            ],
+            [
+                "49_arrival gives us a lot to take in, and the picture is big, somber and grand, if in the end somewhat sterile.",
+                0.6285438903106506
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Denis Villeneuve": {
+                "args": [
+                    [
+                        "0_the revelation here is villeneuve, who expands on the symphonic pacing showcased last year in the drug war drama sicario.",
+                        -0.5250932416938958
+                    ],
+                    [
+                        "0_ the concept of arrival is far-out fiction, villeneuve treats it with no less detail or urgency.",
+                        -0.526156928864139
+                    ],
+                    [
+                        "6_denis villeneuve's latest is an artier - certainly moodier and less entertaining - version of m. night shyamalan's signs.",
+                        0.6786828262929482
+                    ],
+                    [
+                        "8_amy adams is a miracle worker-she makes us believe in this mesmerizing mindbender about alien communication, directed with searching mind and heart by denis villeneuve.",
+                        0.8058138333145848
+                    ],
+                    [
+                        "9_a twisty, cerebral drama that just happens to involve aliens, denis villeneuve's film is a truly beguiling take on both the sci-fi canon and what, exactly, a grown-up hollywood film is supposed to be.",
+                        0.5943268208075734
+                    ],
+                    [
+                        "25_working from a screenplay by eric heisserer, director denis villeneuve creates a richly imagined world in which the theme of extraterrestrial outreach is addressed with a refreshing dignity.",
+                        0.8308059114371685
+                    ],
+                    [
+                        "33_so much of the pleasure of denis villeneuve's poignant science-fiction drama",
+                        0.7561363514849503
+                    ],
+                    [
+                        "36_ director denis villeneuve sometimes gets lost in repetition and blind alleys.",
+                        -0.7003710790512635
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "John Moore": {
+                "args": []
+            },
+            "Julian Casey": {
+                "args": []
+            },
+            "Michael Nangreaves": {
+                "args": []
+            },
+            "Max Walker": {
+                "args": []
+            },
+            "Amy Adams": {
+                "args": [
+                    [
+                        "8_amy adams is a miracle worker-she makes us believe in this mesmerizing mindbender about alien communication, directed with searching mind and heart by denis villeneuve.",
+                        0.8058138333145848
+                    ],
+                    [
+                        "12_by turns inviting and opaque, ms. adams turns softness and quiet into heroic qualities, keeping her voice low, modulated, and using stillness to draw you near.",
+                        0.7312330016368784
+                    ],
+                    [
+                        "19_what's remarkable about arrival is its contemplative core -- and, of course, ms. adams's star performance, which is no less impassioned for being self-effacing.",
+                        0.6834579869941199
+                    ],
+                    [
+                        "33_\"arrival\" lies in watching amy adams figure things out.",
+                        0.5497571959276146
+                    ],
+                    [
+                        "35_it's a grand endeavor, and adams, at the center of it all, brings pluck and smarts and a deep-seated sorrow to her role.",
+                        0.7436380364255621
+                    ],
+                    [
+                        "36_[adams] delivers a heart-wrenchingly beautiful performance using her ability to communicate a half-dozen emotions just standing still...",
+                        0.7345750007928515
+                    ],
+                    [
+                        "50_anchored by an internalized performance from amy adams rich in emotional depth, this is a grownup sci-fi drama that sustains fear and tension while striking affecting chords on love and loss.",
+                        0.7449483532092015
+                    ]
+                ]
+            },
+            "Kattia Thony": {
+                "args": []
+            },
+            "Marc-André Goulet": {
+                "args": []
+            },
+            "Lorne Brass": {
+                "args": []
+            },
+            "Brian Dunstan": {
+                "args": []
+            },
+            "Paul-Antoine Taillefer": {
+                "args": []
+            },
+            "Sergey Marchenko": {
+                "args": []
+            },
+            "Christian Jadah": {
+                "args": []
+            },
+            "Bineyam Girma": {
+                "args": []
+            },
+            "Lori Graham": {
+                "args": []
+            },
+            "Tzi Ma": {
+                "args": []
+            },
+            "Ola Sturik": {
+                "args": []
+            },
+            "Frank Schorpion": {
+                "args": []
+            },
+            "Tammie Sutherland": {
+                "args": []
+            },
+            "Brittany Teo": {
+                "args": []
+            },
+            "Andrew Shaver": {
+                "args": []
+            },
+            "Ruth Chiang": {
+                "args": [
+                    [
+                        "42_much of arrival - the part that sticks closest to its source, egghead sci-fi cult figure ted chiang's \"story of your life\" - is an eerie, tantalizing, altogether superb puzzler.",
+                        0.8341163337247055
+                    ]
+                ]
+            },
+            "Martin Pelletier Jr.": {
+                "args": []
+            },
+            "Anana Rydvald": {
+                "args": []
+            },
+            "Hal Roberts": {
+                "args": []
+            },
+            "Lucas Chartier-Dessert": {
+                "args": []
+            },
+            "Kathleen Stavert": {
+                "args": []
+            },
+            "Alex M. Yeuh": {
+                "args": []
+            },
+            "Victor Andres Turgeon-Trelles": {
+                "args": []
+            },
+            "Shawn Campbell": {
+                "args": []
+            },
+            "Abdul Ayoola": {
+                "args": []
+            },
+            "Matthew Willson": {
+                "args": []
+            },
+            "Sasha Samar": {
+                "args": []
+            },
+            "Sabrina Reeves": {
+                "args": []
+            },
+            "Pat Kiely": {
+                "args": []
+            },
+            "Gurdeep Ahluwalia": {
+                "args": []
+            },
+            "Adrien Benn": {
+                "args": []
+            },
+            "Reda Guerinik": {
+                "args": []
+            },
+            "Camille Ross": {
+                "args": []
+            },
+            "Genevieve Sirois": {
+                "args": []
+            },
+            "Mark Camacho": {
+                "args": []
+            },
+            "Michael Stuhlbarg": {
+                "args": []
+            },
+            "Jadyn Malone": {
+                "args": []
+            },
+            "Russell Yuen": {
+                "args": []
+            },
+            "Lucy van Oldenbarneveld": {
+                "args": []
+            },
+            "Sangita Patel": {
+                "args": []
+            },
+            "Forest Whitaker": {
+                "args": []
+            },
+            "Julia Scarlett Dan": {
+                "args": []
+            },
+            "Mark O'Brien (IX)": {
+                "args": []
+            },
+            "Joe Cobden": {
+                "args": []
+            },
+            "Daniel Esteban": {
+                "args": []
+            },
+            "Dan Duran": {
+                "args": []
+            },
+            "Larry Day": {
+                "args": [
+                    [
+                        "40_in other words, it's light-years away from independence day 3.",
+                        0.7107692012156251
+                    ]
+                ]
+            },
+            "Sonia Vigneault": {
+                "args": []
+            },
+            "Albert Kwan": {
+                "args": []
+            },
+            "Leisa Reid": {
+                "args": []
+            },
+            "Abdelghafour Elaaziz": {
+                "args": []
+            },
+            "Orla Johannes": {
+                "args": []
+            },
+            "Tony Robinow": {
+                "args": []
+            },
+            "Brent Skagford": {
+                "args": []
+            },
+            "Abigail Pniowsky": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_villeneuve draws on close encounters of the third kind for his portrayal of scientists and soldiers groping for answers and, more generally, of the celestial playing out in highly personal terms.",
+                0.7857668505088473
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Eric Heisserer": {
+                "args": [
+                    [
+                        "25_working from a screenplay by eric heisserer, director denis villeneuve creates a richly imagined world in which the theme of extraterrestrial outreach is addressed with a refreshing dignity.",
+                        0.8308059114371685
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

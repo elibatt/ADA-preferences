@@ -1,0 +1,258 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Akira Takayama": {
+                "args": []
+            },
+            "Edward Norton": {
+                "args": []
+            },
+            "Bryan Cranston": {
+                "args": []
+            },
+            "Kunichi Nomura": {
+                "args": []
+            },
+            "Koyu Rankin": {
+                "args": []
+            },
+            "Yojiro Noda": {
+                "args": []
+            },
+            "Akira Ito": {
+                "args": []
+            },
+            "Bill Murray": {
+                "args": []
+            },
+            "Bob Balaban": {
+                "args": []
+            },
+            "Scarlett Johansson": {
+                "args": []
+            },
+            "Frances McDormand": {
+                "args": []
+            },
+            "Ken Watanabe": {
+                "args": []
+            },
+            "Tilda Swinton": {
+                "args": []
+            },
+            "Harvey Keitel": {
+                "args": []
+            },
+            "F. Murray Abraham": {
+                "args": []
+            },
+            "Mari Natsuki": {
+                "args": []
+            },
+            "Liev Schreiber": {
+                "args": []
+            },
+            "Yoko Ono": {
+                "args": []
+            },
+            "Nijiro Murakami": {
+                "args": []
+            },
+            "Courtney B. Vance": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": []
+            },
+            "Fisher Stevens": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "Frank Wood": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "20_a dystopian fable pitting man's best friends against its worst fiends in a futuristic japan, the writer-director proves again that in his hands, a bedtime story is more likely to be an over-stimulant than a narcotic.",
+                0.5773564173051985
+            ],
+            [
+                "35_the director, no less than the mayor, is averse to things that stray.",
+                -0.6673974111523864
+            ]
+        ],
+        "entities": {
+            "Wes Anderson": {
+                "args": [
+                    [
+                        "8_wes anderson's latest stop-motion movie is another lovely, artful trifle.",
+                        0.6166236170629347
+                    ],
+                    [
+                        "18_by the time anderson's animators show us a meal of sushi being prepared in meticulous close-up, i was ready for any trick anderson wanted to perform for me.",
+                        -0.7496998354623226
+                    ],
+                    [
+                        "19_wes anderson's joyous stop-motion feature looks and sounds like nothing we've encountered before, including his previous stop-motion feature, \"fantastic mr. fox,\" which was pretty wonderful too.",
+                        0.8057829425361644
+                    ],
+                    [
+                        "21_isle of dogs puts form ahead of narrative, which is fine, because it's always a pleasure to observe the intricate affairs of anderson's minimalist movie realm...",
+                        0.8657733254763627
+                    ],
+                    [
+                        "25_wes anderson's animated feature isle of dogs might be the most lyrically disjunctive movie ever made: nothing fits together and everything harmonizes, magically.",
+                        0.8029584592685481
+                    ],
+                    [
+                        "26_time and again, mr. anderson pulls you hard into \"isle of dogs.\"",
+                        -0.5837470362214373
+                    ],
+                    [
+                        "28_for better and for worse, it's wes anderson unleashed.",
+                        -0.6127023384249779
+                    ],
+                    [
+                        "32_wes anderson's stop-motion canine fairy tale-with a timely political subtext-is a triumph of pure imagination.",
+                        0.79520912338037
+                    ],
+                    [
+                        "34_wes anderson's unabashedly quirky, quasi-dystopian isle of dogs is a pleasing rub to our collective bellies.",
+                        0.5637584450308097
+                    ],
+                    [
+                        "37_the most striking thing about anderson's fastidiousness is that it's all in done in the service of chaos.",
+                        0.5880153788853422
+                    ],
+                    [
+                        "39_say \"isle of dogs\" fast and it comes out sounding an awful lot like \"i love dogs\" - which makes sense, since that's pretty much the chief takeaway from wes anderson's delightful new animated feature.",
+                        0.5855342865558919
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "17_this is a film where a character is literally whitewashed, an act that makes him more agreeable afterwards.",
+                0.6395166302347727
+            ],
+            [
+                "20_a dystopian fable pitting man's best friends against its worst fiends in a futuristic japan, the writer-director proves again that in his hands, a bedtime story is more likely to be an over-stimulant than a narcotic.",
+                0.5773564173051985
+            ]
+        ],
+        "entities": {
+            "Wes Anderson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ \"isle of dogs\" is exacting to the point of alienation.",
+                -0.5868567372278557
+            ],
+            [
+                "3_isle of dogs is in need of a stronger storyteller.",
+                -0.6031655751433705
+            ],
+            [
+                "3_i would have liked isle of dogs more if there had been less of it.",
+                -0.6415756463908417
+            ],
+            [
+                "5_even with a narrative that feels more like a diagram, even with some questionable decisions regarding cultural translation, isle of dogs bursts with its maker's drollery and contagious passion for the medium of film.",
+                -0.5049236767994082
+            ],
+            [
+                "9_\"isle of dogs\" is a visual bento box assembled by a gifted dilettante, an outsider who loves the art of a place ",
+                0.7200728884538228
+            ],
+            [
+                "10_there's so much going on in \"isle of dogs\" that it probably has to be seen at least twice to be properly appreciated.",
+                -0.7477299057053097
+            ],
+            [
+                "11_isle of dogs\" is such a feast of illustrated imagination and subtle wit in its depiction of an exiled canine kingdom that the idea of a life lived under the heavy paw of our pooch overlords doesn't seem like such a bad one.",
+                -0.5366503357383349
+            ],
+            [
+                "13_it's true that isle of dogs is a film about scapegoating, political hysteria, and deportation.",
+                0.766591139116246
+            ],
+            [
+                "13_ it is also--and at its best--a film about dogs.",
+                0.7504696545154247
+            ],
+            [
+                "14_while the film's pace is speedy to a fault, it pauses just long enough to ponder the emotional contract between master and pet.",
+                -0.5705740904551129
+            ],
+            [
+                "16_there is so much to look at in \"isle of dogs\" that a second viewing is almost mandatory.",
+                -0.6521986509534192
+            ],
+            [
+                "17_this is a film where a character is literally whitewashed, an act that makes him more agreeable afterwards.",
+                0.6395166302347727
+            ],
+            [
+                "17_isle of dogs treats this as a sight gag.",
+                -0.547463145368206
+            ],
+            [
+                "18_isle of dogs takes best in show.",
+                0.6199847746423677
+            ],
+            [
+                "22_this fox searchlight release is an admirably ambitious film, one whose appreciation for its mishmash of genres ultimately proves infectious and winning.",
+                0.8236259476033683
+            ],
+            [
+                "23_anderson's gorgeous stop-motion animated film is much more than just a transdermal patch for america's cuteness addiction.",
+                0.6700405080863323
+            ],
+            [
+                "24_isle of dogs ... buckles under the weight of its own finicky whimsy.",
+                -0.620604777281561
+            ],
+            [
+                "27_a movie whose every image is a miniature triumph of imagination and execution.",
+                0.7380174463823569
+            ],
+            [
+                "29_\"isle of dogs\" is positively littered with his signature banter, and it as quick and wry as ever, without a single hair out of place.",
+                0.6956199734975692
+            ],
+            [
+                "30_a splendid jewel box of a movie about rather grisly matters, the filmmaker's latest represents another example of the clash between his playfully self-aware aesthetic and his growing obsession with our inhumanity.",
+                0.782499787963031
+            ],
+            [
+                "31_\"isle of dogs\" bursts with color (including extravagant swaths of crimson) and precious detail, and is shot through with the filmmaker's reliably understated humor.",
+                0.6731762921098847
+            ],
+            [
+                "36_isle of dogs boils over, not just with kinesthetic fur, ",
+                -0.5792682974407998
+            ],
+            [
+                "38_the unique charm of isle of dogs is its bottomless vault of curios, its sly humor, playful graphic inserts and dexterous narrative detours.",
+                0.7769588234713729
+            ]
+        ]
+    }
+}

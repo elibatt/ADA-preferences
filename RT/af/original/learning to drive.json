@@ -1,0 +1,206 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_the film also provides an interesting view into sikh culture, illustrating in colorful detail the various rituals that inform the devout driving instructor's personal life.",
+                0.8401546738295378
+            ],
+            [
+                "8_learning to drive may be a small movie, ",
+                0.5551419243183974
+            ],
+            [
+                "9_ just charismatic enough to work.",
+                -0.6453292726628104
+            ],
+            [
+                "11_\"learning to drive\" offers some hit-and-miss pleasures, ",
+                -0.6594081626951669
+            ],
+            [
+                "12_this film is a little too on-the-nose in its automobile-as-freedom metaphors, ",
+                -0.5367335157997227
+            ],
+            [
+                "13_\"learning to drive\" is a richly observed, crosscultural character study that coasts along pleasurably on the strengths of its virtuoso leads.",
+                0.6026282729383373
+            ],
+            [
+                "15_the film seems to take its method entirely from darwan's quiet, methodical patter about how to move safely across lanes and through intersections.",
+                0.7253211396089373
+            ],
+            [
+                "18_the movie putters along as softly as wendy drives.",
+                0.5526238900662346
+            ],
+            [
+                "20_ the film's doesn't kick in until well after you might already have declared it dead.",
+                -0.7124271825838734
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Isabel Coixet": {
+                "args": [
+                    [
+                        "14_as this movie, directed by isabel coixet, tracks the deepening friendship between people from different cultures and backgrounds, it acquires an unforced metaphorical resonance.",
+                        0.7749482397212497
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Hodgman": {
+                "args": []
+            },
+            "Michael Mantell": {
+                "args": []
+            },
+            "Anna Itty": {
+                "args": []
+            },
+            "Ben Kingsley": {
+                "args": [
+                    [
+                        "10_clarkson develops a push-pull rapport with kingsley that fills in the blanks - or, rather, mitigates the script's on-the-nose tendencies.",
+                        -0.5752914393835032
+                    ]
+                ]
+            },
+            "Rajika Puri": {
+                "args": []
+            },
+            "Royce Johnson": {
+                "args": []
+            },
+            "Patricia Clarkson": {
+                "args": [
+                    [
+                        "0_\"learning to drive\" is precisely the sort of adult-themed, intelligent and heartfelt film it wants to be, with clarkson and kingsley wonderfully on point.",
+                        0.6199981384539992
+                    ],
+                    [
+                        "2_together, [kingsley and clarkson] have so much to learn, and the operation of an automobile provides so many opportunities for metaphor.",
+                        0.5500539673819418
+                    ],
+                    [
+                        "4_\"learning to drive\" would be an entirely inert expedition were it not for clarkson, who plays against kingsley's sentinel of propriety with her signature radiance and birdlike gracefulness.",
+                        0.5135393461213626
+                    ],
+                    [
+                        "7_coixet, clarkson and kingsley have worked together previously (in the 2008 drama elegy), ",
+                        -0.6325435521269567
+                    ]
+                ]
+            },
+            "Sean Cole": {
+                "args": []
+            },
+            "Beau Baxter": {
+                "args": []
+            },
+            "Jake Weber": {
+                "args": []
+            },
+            "Jonathan C. Kaplan": {
+                "args": []
+            },
+            "Grace Gummer": {
+                "args": []
+            },
+            "Bryan Burton": {
+                "args": []
+            },
+            "Gina Jarrin": {
+                "args": []
+            },
+            "Matt Salinger": {
+                "args": []
+            },
+            "Randy Graff": {
+                "args": []
+            },
+            "Jessie Nagpal": {
+                "args": []
+            },
+            "Amelia Fowler": {
+                "args": []
+            },
+            "Shawn Michael": {
+                "args": []
+            },
+            "Lorri Lindberg": {
+                "args": []
+            },
+            "Samantha Bee": {
+                "args": []
+            },
+            "Patrick Brana": {
+                "args": []
+            },
+            "Joan Juliet Buck": {
+                "args": []
+            },
+            "Avi Nash": {
+                "args": []
+            },
+            "Daniela Lavender": {
+                "args": []
+            },
+            "Bryan Burton Lewis": {
+                "args": []
+            },
+            "Raf Liriano": {
+                "args": []
+            },
+            "Jonathan Charles Kaplan": {
+                "args": []
+            },
+            "Harpreet Singh": {
+                "args": []
+            },
+            "Nora Hummel": {
+                "args": []
+            },
+            "Justin Gregory Lopez": {
+                "args": []
+            },
+            "Hervender Singh": {
+                "args": []
+            },
+            "Sarita Choudhury": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_clarkson develops a push-pull rapport with kingsley that fills in the blanks - or, rather, mitigates the script's on-the-nose tendencies.",
+                -0.5752914393835032
+            ],
+            [
+                "13_\"learning to drive\" is a richly observed, crosscultural character study that coasts along pleasurably on the strengths of its virtuoso leads.",
+                0.6026282729383373
+            ],
+            [
+                "18_, its character sketches are pleasing.",
+                0.6054413098461455
+            ]
+        ],
+        "entities": {
+            "Sarah Kernochan": {
+                "args": []
+            }
+        }
+    }
+}

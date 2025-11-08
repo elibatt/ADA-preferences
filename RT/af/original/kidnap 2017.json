@@ -1,0 +1,135 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_in kidnap, she gets quite an exhausting workout, and so does the audience.",
+                -0.6181033317884416
+            ],
+            [
+                "1_the only way kidnap could possibly work is if the viewer isn't paying attention.",
+                -0.7536870387660779
+            ],
+            [
+                "2_kidnap may strain plausibility, ",
+                0.5267789033769471
+            ],
+            [
+                "3_kidnap isn't schlock, it's garbage.",
+                -0.7776308968240427
+            ],
+            [
+                "6_the greatest strength of \"kidnap\" is that it casts the maternal instinct as a primordial will to enact violence, to drag a man from a moving van, to beat a kidnapper with a shovel.",
+                0.8964212920460634
+            ],
+            [
+                "9_a sometimes pulpy, sometimes soapy b-movie ...",
+                -0.5704238389293149
+            ],
+            [
+                "11_even clocking in with a running time short of 90 minutes, the movie spins its wheels (in more ways than one) and repeats itself to the point of becoming ridiculous.",
+                -0.5479500366522732
+            ],
+            [
+                "12_there are late-summer films that impress with how far beyond their b-movie calling they dare to go",
+                -0.5693723700714497
+            ],
+            [
+                "12_ kidnap does exactly the job it came to do and clocks out, not particularly caring whether or not you remember it in an hour.",
+                -0.7384185779957029
+            ],
+            [
+                "13_at a fleet and efficient 81 minutes - several minutes shorter than its original running time - \"kidnap\" is an action movie with barely a wasted frame.",
+                -0.7021077309916401
+            ],
+            [
+                "17_unlike \"taken,\" which it wants to be on wheels - \"kidnap\" doesn't come with twists, turns and surprises that grab and hold you tight.",
+                -0.6948882527254374
+            ],
+            [
+                "18_\"kidnap\" probably could've played into its feverish, violent, trashy side more aggressively.",
+                -0.6669499388093733
+            ],
+            [
+                "19_\"kidnap\" has a tossed-together sameness to it, like a salad made up only of tired lettuce.",
+                -0.7340300763949887
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Luis Prieto": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dana Gourrier": {
+                "args": []
+            },
+            "Ritchie Montgomery": {
+                "args": []
+            },
+            "Christopher Berry": {
+                "args": []
+            },
+            "Malea Rose": {
+                "args": []
+            },
+            "John Teal Jr.": {
+                "args": []
+            },
+            "Patrick Kearns": {
+                "args": []
+            },
+            "Kevin \"Lucky\" Johnson": {
+                "args": []
+            },
+            "Kurt Krause": {
+                "args": []
+            },
+            "Erica Curtis": {
+                "args": []
+            },
+            "Chris McGinn": {
+                "args": []
+            },
+            "Sage Correa": {
+                "args": []
+            },
+            "Lew Temple": {
+                "args": []
+            },
+            "Halle Berry": {
+                "args": [
+                    [
+                        "5_for all of berry's breathless, screechy effort, \"kidnap\" doesn't contain any suspense or tension.",
+                        -0.7386901794853903
+                    ],
+                    [
+                        "7_a halle berry vehicle with four flat tires, this is the worst movie of the summer.",
+                        -0.8847726750126353
+                    ],
+                    [
+                        "21_between berry's committed performance and the film's brisk cocktail of dread and adrenaline, kidnap makes for a rousing, if ridiculous, ride.",
+                        0.6293088711176325
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Knate Lee": {
+                "args": []
+            }
+        }
+    }
+}

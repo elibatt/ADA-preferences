@@ -1,0 +1,62 @@
+{
+    "writer": {
+        "entities": {
+            "Sooraj R. Barjatya": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sooraj R. Barjatya": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Swara Bhaskar": {
+                "args": []
+            },
+            "Deepak Dobriyal": {
+                "args": []
+            },
+            "Sonam Kapoor": {
+                "args": []
+            },
+            "Neil Nitin Mukesh": {
+                "args": []
+            },
+            "Arman Kohli": {
+                "args": []
+            },
+            "Prem Khan": {
+                "args": []
+            },
+            "Salman Khan": {
+                "args": [
+                    [
+                        "0_salman khan may be a huge star, ",
+                        0.6834424999014046
+                    ]
+                ]
+            },
+            "Samaira Rao": {
+                "args": []
+            },
+            "Anupam Kher": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

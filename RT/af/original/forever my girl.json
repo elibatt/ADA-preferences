@@ -1,0 +1,96 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_\"forever my girl\" is barely a step above a lifetime movie.",
+                -0.6227948278861117
+            ],
+            [
+                "9_forever my girl\" as the story of a narcissist manipulating a naive doormat.",
+                0.5725349698774396
+            ],
+            [
+                "10_\"forever my girl\" is a bad movie, pure and simple.",
+                -0.757036829079644
+            ],
+            [
+                "13_a hallmark movie would have at least given the female lead something of a personality and plot arc",
+                -0.6734929947472472
+            ],
+            [
+                "13_ this movie's all about the celebrity and his emotional journey, while the woman stands around like a prize waiting to be won, the blessed hometown honey.",
+                0.6393615259685534
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bethany Ashton Wolf": {
+                "args": [
+                    [
+                        "5_ the fact that wolf adds no depth or complication to either that would make the film her own.",
+                        -0.7264343101513318
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "7_ the denver-born actor's performance here as josie is as coolly bland as overnight oats.",
+                -0.6446302597217453
+            ],
+            [
+                "15_wolf establishes only a half-formed idea of the decisions, fights, and silences that have shaped these characters' lives, so the cast often seems to be shouting into a vacuum.",
+                -0.5545200515763197
+            ]
+        ],
+        "entities": {
+            "Travis Tritt": {
+                "args": []
+            },
+            "John Benjamin Hickey": {
+                "args": []
+            },
+            "Judith Hoag": {
+                "args": []
+            },
+            "Alex Roe": {
+                "args": [
+                    [
+                        "12_the two leads are both highly appealing, with roe credible as a country music superstar.",
+                        0.8628932306266801
+                    ]
+                ]
+            },
+            "Jessica Rothe": {
+                "args": []
+            },
+            "Abby Ryder Fortson": {
+                "args": []
+            },
+            "Tyler Riggs": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "14_ not enough to imbue the writing or visuals with any life.",
+                -0.7198282554147191
+            ]
+        ],
+        "entities": {
+            "Bethany Ashton Wolf": {
+                "args": []
+            }
+        }
+    }
+}

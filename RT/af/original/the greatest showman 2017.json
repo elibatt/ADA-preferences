@@ -1,0 +1,378 @@
+{
+    "writer": {
+        "args": [
+            [
+                "15_the film is best appreciated as a showcase for jackman, who makes a dazzling barnum and holds on to our sympathies even as the character proves to be something of a heel.",
+                0.8272698997575613
+            ]
+        ],
+        "entities": {
+            "Jenny Bicks": {
+                "args": [
+                    [
+                        "7_screenwriters jenny bicks and bill condon whitewash history at every turn, making barnum a warm, paternal figure beloved by his sideshow performers, wife, and children.",
+                        0.8167033584981491
+                    ]
+                ]
+            },
+            "Bill Condon": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_the greatest showman is a perfunctory effort in story, music, dance, and direction that proffers empty messages about uniqueness, reaching not for the stars ",
+                0.6380933169819023
+            ],
+            [
+                "8_it's a family film whose infectious, crowd-pleasing song-and-dance numbers justify a 105-minute running length when the pedestrian story can't.",
+                0.6090486921241288
+            ],
+            [
+                "10_for sheer, go-for-broke nuttiness, the greatest showman stands alone in the landscape of this holiday season's crop of movies, and i urge you to give it a chance.",
+                0.8142623312746977
+            ],
+            [
+                "12_the joy the performers exhibit is practically contagious, and helps carry the movie over its drier patches.",
+                0.7406337865734639
+            ],
+            [
+                "14_by the end, i found myself exhausted by the idea of wonder, not to mention the film's notion that critics - those evil, fun-hating critics - are immune to it.",
+                0.5466293561141665
+            ],
+            [
+                "18_the greatest showman's performances are of the blustery jazz hands variety.",
+                0.8595836926974697
+            ],
+            [
+                "22_with all that corn and cheese and old-timey sentiment, \"the greatest showman\" ends up scoring some very timely social arguments.",
+                0.6886395239267546
+            ],
+            [
+                "23_\"the greatest showman\" is all about the dizzy pleasure of letting yourself be hoodwinked, and it's a testament to the movie's idiosyncratic appeal that it never loses its power to lower your defenses and take your breath away.",
+                0.8042905488684173
+            ],
+            [
+                "25_ it's the musical numbers that make the greatest showman.",
+                0.7556500239558741
+            ],
+            [
+                "28_\"the greatest showman\" is the dumbest movie.",
+                0.728734610369343
+            ],
+            [
+                "31_movie musicals walk a tricky tightrope - all that singing can be magical, or it can just be silly - and \"the greatest showman\" teeters, all too often.",
+                0.5900148335630008
+            ],
+            [
+                "32_the period flashbulbs pop and the champagne flows in the greatest showman, yet this ersatz portrait of american big-top tent impresario",
+                0.8247390994394045
+            ],
+            [
+                "33_\"the greatest showman,\" for all its celebratory razzle-dazzle, in the end feels curiously lacking in conviction.",
+                0.5632591188830259
+            ],
+            [
+                "35_\"the greatest showman\" wants to give you a splashy good time, and does, and it's got something that takes you by surprise: a genuine romantic spirit.",
+                0.878975498659183
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kenneth Chan": {
+                "args": []
+            },
+            "Rachel Quiner": {
+                "args": []
+            },
+            "Linda Larson": {
+                "args": []
+            },
+            "Zac Efron": {
+                "args": []
+            },
+            "Paul Sparks": {
+                "args": []
+            },
+            "Luciano Acuna Jr.": {
+                "args": []
+            },
+            "Ben Reed": {
+                "args": []
+            },
+            "Betsy Aidem": {
+                "args": []
+            },
+            "Jeremy Craig Hudson": {
+                "args": []
+            },
+            "Radu Spinghel": {
+                "args": []
+            },
+            "Hugh Jackman": {
+                "args": [
+                    [
+                        "9_amazingly, a virtuoso hugh jackman as p.t. barnum, spare-no-expense production values and a score by oscar (la la land) and tony (dear evan hansen) winners ben pasek and justin paul add up to a shrill blast of nothing",
+                        -0.5367071469066453
+                    ],
+                    [
+                        "15_the film is best appreciated as a showcase for jackman, who makes a dazzling barnum and holds on to our sympathies even as the character proves to be something of a heel.",
+                        0.8272698997575613
+                    ],
+                    [
+                        "17_it's got a great beat and you can dance to it (or jackman, efron and the rest",
+                        0.8517842851428039
+                    ],
+                    [
+                        "19_hugh jackman has proven himself as one of hollywood's - and broadway's - greatest showmen.",
+                        0.8630508769424328
+                    ],
+                    [
+                        "26_you'll have to completely set aside any unsavory stories you may have heard about the real-life barnum, because this one is played by the ever-charming hugh jackman.",
+                        0.6778019582641006
+                    ],
+                    [
+                        "37_a profoundly confused and muddled film, with a story that's at once too thin and too busy, with everything pasted into place using a mixture of frantic pop music and hugh jackman's flop sweat.",
+                        -0.5053508974290492
+                    ]
+                ]
+            },
+            "Shannon Holtzapffel": {
+                "args": []
+            },
+            "Taylor James": {
+                "args": []
+            },
+            "Vincent-Oliver Noiseux": {
+                "args": []
+            },
+            "Daniel 'Cloud' Campos": {
+                "args": []
+            },
+            "Shuler Hensley": {
+                "args": []
+            },
+            "Adam Haas Hunter": {
+                "args": []
+            },
+            "James Andrew O'Connor": {
+                "args": [
+                    [
+                        "29_overproduced, possibly auto-tuned, hitting a carotid-popping emotional climax in the first 10 seconds and staying there, the tunes ... are sub-andrew lloyd webber schlock made bearable only by the conviction of the cast.",
+                        0.5557190000608757
+                    ]
+                ]
+            },
+            "Byron Jennings": {
+                "args": []
+            },
+            "Jonathon Culver": {
+                "args": []
+            },
+            "Stacey Alyse Cohen": {
+                "args": []
+            },
+            "Caoife Coleman": {
+                "args": []
+            },
+            "GiaNina Paolantonio": {
+                "args": []
+            },
+            "Brando Speach": {
+                "args": []
+            },
+            "Michelle Williams": {
+                "args": []
+            },
+            "Bob Rumnock": {
+                "args": []
+            },
+            "Skylar Dunn": {
+                "args": []
+            },
+            "Arnie Burton": {
+                "args": []
+            },
+            "Frances Emily Schramm": {
+                "args": []
+            },
+            "Emerson Tate Alexander": {
+                "args": []
+            },
+            "Yusaku Komori": {
+                "args": []
+            },
+            "Cameron Seely": {
+                "args": []
+            },
+            "Rebecca Ferguson": {
+                "args": []
+            },
+            "Carly Adams": {
+                "args": []
+            },
+            "Tina Benko": {
+                "args": []
+            },
+            "Michael Barra": {
+                "args": []
+            },
+            "Alex Wong": {
+                "args": []
+            },
+            "Shannon Freyer": {
+                "args": []
+            },
+            "Kevin Dwane": {
+                "args": []
+            },
+            "Sam Humphrey": {
+                "args": []
+            },
+            "Zendaya": {
+                "args": []
+            },
+            "Madison Smith": {
+                "args": []
+            },
+            "Julius Rubio": {
+                "args": []
+            },
+            "Timothy Hughes": {
+                "args": []
+            },
+            "Yahya Abdul-Mateen II": {
+                "args": []
+            },
+            "Jillian Braithwaite": {
+                "args": []
+            },
+            "Najla Gilliam": {
+                "args": []
+            },
+            "Tim Wilson": {
+                "args": []
+            },
+            "Martha Nichols": {
+                "args": []
+            },
+            "Daniel Everidge": {
+                "args": []
+            },
+            "Jamie Jackson": {
+                "args": []
+            },
+            "Louise Hindsbro": {
+                "args": []
+            },
+            "Austyn Johnson": {
+                "args": []
+            },
+            "Gayle Rankin": {
+                "args": []
+            },
+            "Morgan Weed": {
+                "args": []
+            },
+            "Chelsea Caso": {
+                "args": []
+            },
+            "Fredric Lehne": {
+                "args": []
+            },
+            "Danial Son": {
+                "args": []
+            },
+            "Keala Settle": {
+                "args": []
+            },
+            "Ellis Rubin": {
+                "args": []
+            },
+            "Eric Chase Anderson": {
+                "args": []
+            },
+            "Kathryn Meisle": {
+                "args": []
+            },
+            "Tony Neil Butler": {
+                "args": []
+            },
+            "Will Erat": {
+                "args": []
+            },
+            "Will Swenson": {
+                "args": []
+            },
+            "Sandi DeGeorge": {
+                "args": []
+            },
+            "Damian Young": {
+                "args": []
+            },
+            "Sawyer Niehaus": {
+                "args": []
+            },
+            "Christina Glur": {
+                "args": []
+            },
+            "Jonathan Redavid": {
+                "args": []
+            },
+            "Laci Justice": {
+                "args": []
+            },
+            "Mishay Petronelli": {
+                "args": []
+            },
+            "Victoria Llodra": {
+                "args": []
+            },
+            "Natasha Liu Bordizzo": {
+                "args": []
+            },
+            "Jessica Castro": {
+                "args": []
+            },
+            "Rod Roberts": {
+                "args": []
+            },
+            "Khasan Brailsford": {
+                "args": []
+            },
+            "Henry Stram": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {
+            "entertainment": {
+                "args": [
+                    [
+                        "36_an amusement park version of p.t. barnum is fine, as far as that goes, ",
+                        -0.5778015333326924
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Gracey": {
+                "args": [
+                    [
+                        "0_the director, michael gracey, delivers quick doses of excitement in splashy scenes ",
+                        0.6394970397568867
+                    ]
+                ]
+            }
+        }
+    }
+}

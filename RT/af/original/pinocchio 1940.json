@@ -1,0 +1,129 @@
+{
+    "acting": {
+        "entities": {
+            "Evelyn Venable": {
+                "args": []
+            },
+            "Frankie Darro": {
+                "args": []
+            },
+            "Dickie Jones": {
+                "args": []
+            },
+            "Dick Jones": {
+                "args": []
+            },
+            "Don Brodie": {
+                "args": []
+            },
+            "Walter Catlett": {
+                "args": []
+            },
+            "Christian Rub": {
+                "args": []
+            },
+            "Cliff Edwards": {
+                "args": []
+            },
+            "Mel Blanc": {
+                "args": []
+            },
+            "Charles Judels": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Otto Englander": {
+                "args": []
+            },
+            "Ted Sears": {
+                "args": []
+            },
+            "Aurelius Battaglia": {
+                "args": []
+            },
+            "Webb Smith": {
+                "args": []
+            },
+            "William Cottrell": {
+                "args": []
+            },
+            "Erdman Penner": {
+                "args": []
+            },
+            "Joseph Sabo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_he has changed it into the most enchanting film ever brought to the screen.",
+                0.5863157093756874
+            ],
+            [
+                "2_pinocchio is a substantial piece of entertainment for young and old.",
+                0.6914067599182459
+            ],
+            [
+                "7_was there ever a scarier, more exciting animated feature than pinocchio?",
+                0.6394405914430568
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "T. Hee": {
+                "args": []
+            },
+            "Walt Disney": {
+                "args": [
+                    [
+                        "0_walt disney has waved his magic wand over collodi's world-famous fairy story, \"pinocchio,\" and presto!",
+                        0.7518884039769277
+                    ],
+                    [
+                        "1_ the consensus among animation fans is that 1940's pinocchio remains the most perfect animated feature walt disney produced.",
+                        0.8271158966175853
+                    ],
+                    [
+                        "4_it still is the best thing mr. disney has done and therefore the best cartoon ever made.",
+                        0.8975436621942747
+                    ],
+                    [
+                        "5_probably shows disney's virtues and vices more clearly than any other cartoon.",
+                        0.5692172939790134
+                    ]
+                ]
+            },
+            "Hamilton Luske": {
+                "args": []
+            },
+            "Norman Ferguson": {
+                "args": []
+            },
+            "Bill Roberts": {
+                "args": []
+            },
+            "Wilfred Jackson": {
+                "args": []
+            },
+            "Ben Sharpsteen": {
+                "args": []
+            },
+            "Jack Kinney": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

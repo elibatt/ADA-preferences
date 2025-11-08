@@ -1,0 +1,123 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_the real beating heart of the film is its collection of wild war tales told by the company's former employees, who regarded tower as more than just a paycheck gig or a commercial proposition.",
+                0.5741654305458984
+            ],
+            [
+                "8_any movie that begins and ends with the sound of a phonograph needle hitting vinyl knows the audience sweet spot it's aiming for, and for those folks, \"",
+                0.8332751555113749
+            ],
+            [
+                "9_this movie makes you appreciate anew the one-on-one social dimension lost in the music industry's headlong switch to digital downloads.",
+                -0.5922300976921586
+            ],
+            [
+                "12_must pass is disarmingly intimate for a film about a massive retail chain.",
+                0.5887077776294471
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Colin Hanks": {
+                "args": [
+                    [
+                        "3_colin hanks makes his feature directing de",
+                        0.6176977132713527
+                    ],
+                    [
+                        "7_ hanks wisely limits the celebrity talking heads in this rise-and-fall story.",
+                        0.6408553887196926
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "11_the director's native warmth and sympathy are extended here to the store and the personalities that made it a billion-dollar, globe-bestriding colossus.",
+                0.7376704740713066
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Steve Stevens": {
+                "args": []
+            },
+            "Steven Leckart": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Ken Sockolov": {
+                "args": []
+            },
+            "Dave Grohl": {
+                "args": []
+            },
+            "Elton John": {
+                "args": []
+            },
+            "Russ Solomon": {
+                "args": []
+            },
+            "David Geffen": {
+                "args": []
+            },
+            "Jim Urie": {
+                "args": []
+            },
+            "Bruce Springsteen": {
+                "args": [
+                    [
+                        "1_as bruce springsteen says in the film, \"everybody in a record store is a little bit of your friend for 20 minutes or so.\"",
+                        -0.5437776698642416
+                    ]
+                ]
+            },
+            "Rudy Danzinger": {
+                "args": []
+            },
+            "Stan Goman": {
+                "args": []
+            },
+            "Bob Delanoy": {
+                "args": []
+            },
+            "Mike Farrace": {
+                "args": []
+            },
+            "Chris Cornell": {
+                "args": []
+            },
+            "Chris Hopson": {
+                "args": []
+            },
+            "Steve Nikkel": {
+                "args": []
+            },
+            "Heidi Cotler": {
+                "args": []
+            },
+            "Chuck D.": {
+                "args": []
+            },
+            "Mark Viducich": {
+                "args": []
+            },
+            "Steve Knopper": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

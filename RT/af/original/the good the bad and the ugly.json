@@ -1,0 +1,149 @@
+{
+    "director": {
+        "args": [
+            [
+                "11_it's great to see a great director's film as he intended it, with rich color and restored sound.",
+                0.9112944280297507
+            ]
+        ],
+        "entities": {
+            "Sergio Leone": {
+                "args": [
+                    [
+                        "0_director leone doesn't seem to care very much, and after 161 minutes of mayhem, audiences aren't likely to either.",
+                        -0.7515652076299059
+                    ],
+                    [
+                        "3_sergio leone's grandiose 1966 western epic is nothing less than a masterclass in movie storytelling, a dynamic testament to the sheer, invigorating uniqueness of cinema.",
+                        0.590881477338057
+                    ],
+                    [
+                        "4_sergio leone's epic looks good, almost great, restored to its original running time.",
+                        0.7077809465406175
+                    ],
+                    [
+                        "9_art it is, summoned out of the imagination of leone and painted on the wide screen so vividly that we forget what marginal productions these films were.",
+                        0.5830949346232469
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Angelo Novi": {
+                "args": []
+            },
+            "Aldo Giuffre": {
+                "args": []
+            },
+            "Claudio Scarchilli": {
+                "args": []
+            },
+            "Rada Rassimov": {
+                "args": []
+            },
+            "Claudio Scarchelli": {
+                "args": []
+            },
+            "Aldo Sambrell": {
+                "args": []
+            },
+            "Clint Eastwood": {
+                "args": [
+                    [
+                        "1_the third in the clint eastwood series of italo westerns, the good, the bad and the ugly is exactly that -- a curious amalgam of the visually striking, the dramatically feeble and the offensively sadistic.",
+                        -0.658098287865428
+                    ]
+                ]
+            },
+            "Antonio Casas": {
+                "args": []
+            },
+            "Antonio Casale": {
+                "args": []
+            },
+            "John Bartha": {
+                "args": []
+            },
+            "Silvana Bacci": {
+                "args": []
+            },
+            "Livio Lorenzon": {
+                "args": []
+            },
+            "Luigi Pistilli": {
+                "args": []
+            },
+            "Chelo Alonso": {
+                "args": []
+            },
+            "Mario Brega": {
+                "args": []
+            },
+            "Enzo Petito": {
+                "args": []
+            },
+            "Sergio Mendizabal": {
+                "args": []
+            },
+            "Sandro Scarchilli": {
+                "args": []
+            },
+            "Eli Wallach": {
+                "args": []
+            },
+            "Benito Stefanelli": {
+                "args": []
+            },
+            "Lee Van Cleef": {
+                "args": []
+            },
+            "Sandro Scarchelli": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Luciano Vincenzoni": {
+                "args": []
+            },
+            "Age": {
+                "args": []
+            },
+            "Sergio Leone": {
+                "args": []
+            },
+            "Furio Scarpelli": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_ the three-way showdown that climaxes the film is tense and thoroughly astonishing.",
+                0.5048407020460054
+            ],
+            [
+                "6_leone's blockbuster is balanced on the razor's edge between popular entertainment and art film.",
+                0.8204915544501008
+            ],
+            [
+                "7_this is a great movie, whatever strange estuary of the western river it occupies.",
+                0.7804654585593755
+            ],
+            [
+                "11_it's great to see a great director's film as he intended it, with rich color and restored sound.",
+                0.9112944280297507
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Billy Magnussen": {
+                "args": []
+            },
+            "Aubrey Plaza": {
+                "args": [
+                    [
+                        "3_aubrey plaza is brilliant in \"ingrid goes west,\" matt spicer's smart, satirical and sometimes scathing takedown of the vapidity social media sometimes injects into life.",
+                        0.8186018288996727
+                    ],
+                    [
+                        "4_now 33, plaza can still get away with playing an ingenue (that's what ingrid is, a toxic ingenue).",
+                        0.5880349643092907
+                    ],
+                    [
+                        "18_ms. plaza is a whiz with timing and does a deft job of shifting viewers' sympathy",
+                        0.7214303504737136
+                    ],
+                    [
+                        "26_aubrey plaza's fiercely committed performance nearly rescues this dubious contrivance from absurdity.",
+                        0.5070399249598047
+                    ],
+                    [
+                        "28_nobody plays ambivalence better, and yet, plaza allows herself to seem vulnerable here.",
+                        0.5597458493653197
+                    ]
+                ]
+            },
+            "Wyatt Russell": {
+                "args": []
+            },
+            "Pom Klementieff": {
+                "args": []
+            },
+            "Elizabeth Olsen": {
+                "args": [
+                    [
+                        "20_plaza and olsen, both toxic perfection, show us a nightmare world of",
+                        0.611630957519484
+                    ]
+                ]
+            },
+            "O'Shea Jackson, Jr.": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_you won't remember \"ingrid goes west\" for long after it's over, ",
+                -0.6784934445315025
+            ],
+            [
+                "6_ingrid goes west is part comedy, part tragedy, part horror/thriller, and part social commentary.",
+                0.6078364959094553
+            ],
+            [
+                "11_like all great movie comedies, it hurts, ",
+                0.5713547111285842
+            ],
+            [
+                "12_though i can't and shouldn't make the case that ingrid goes west is a great movie, it's a film that i loved,",
+                0.5287778982834609
+            ],
+            [
+                "12_ a highlight of my movie year.",
+                0.5314618379361307
+            ],
+            [
+                "13_ingrid goes west makes a few valid points.",
+                -0.638582106443529
+            ],
+            [
+                "13_too bad the whole thing looks more like a tweet than a movie.",
+                -0.7655655973092146
+            ],
+            [
+                "19_, ingrid goes west is a clever, corrosive little trick of a movie, a neon candy heart dipped in asbestos.",
+                0.5282248266505896
+            ],
+            [
+                "22_the biggest selling point of ingrid goes west is its screenplay, which is full of deadpan comic flourishes.",
+                -0.7472164902362528
+            ],
+            [
+                "28_it's just the thing \"ingrid goes west\" needs to cut through that thick-skin ironic veneer of contemporary hollywood comedy.",
+                -0.5198643740658658
+            ],
+            [
+                "29_the movie never digs beneath the most obvious layers of its l.a. stereotypes.",
+                0.5115131986043395
+            ],
+            [
+                "30_a depressingly predictable movie, which is a problem when it's about an essentially unhinged woman.",
+                -0.6314872043749232
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Matt Spicer": {
+                "args": [
+                    [
+                        "3_aubrey plaza is brilliant in \"ingrid goes west,\" matt spicer's smart, satirical and sometimes scathing takedown of the vapidity social media sometimes injects into life.",
+                        0.8186018288996727
+                    ],
+                    [
+                        "6_ director/co-writer matt spicer never loses sight of the characters.",
+                        -0.5172204659213131
+                    ],
+                    [
+                        "7_director and co-writer matt spicer displays just the right touch as the story gets crazier.",
+                        0.6715045018233075
+                    ],
+                    [
+                        "20_matt spicer's social media satire is a bonbon spiked with wit and malice.",
+                        0.7161698808989826
+                    ],
+                    [
+                        "21_director matt spicer and his co-writer, david branson smith, deliver cogent and even poignant commentary on the plight of a screen-obsessed society, and the artificiality of an instagram/facebook-bound life.",
+                        0.7888206339120145
+                    ],
+                    [
+                        "27_ for director matt spicer, who co-wrote the script with david branson smith, is sort of all over the place, it's still often sharply amusing, crisply assembled and features game, broad-brushstroke performances ...",
+                        0.602123207219964
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_ director/co-writer matt spicer never loses sight of the characters.",
+                -0.5172204659213131
+            ],
+            [
+                "7_director and co-writer matt spicer displays just the right touch as the story gets crazier.",
+                0.6715045018233075
+            ],
+            [
+                "8_ the limit is the one so common in satire: it's hard to care about the fate of a character this exaggerated.",
+                -0.6992871876584926
+            ],
+            [
+                "18_ her character can be loathsome or pathetic depending on the scene.",
+                -0.7203397205082518
+            ],
+            [
+                "22_the biggest selling point of ingrid goes west is its screenplay, which is full of deadpan comic flourishes.",
+                -0.7472164902362528
+            ]
+        ],
+        "entities": {
+            "Matt Spicer": {
+                "args": []
+            },
+            "David Branson Smith": {
+                "args": [
+                    [
+                        "21_director matt spicer and his co-writer, david branson smith, deliver cogent and even poignant commentary on the plight of a screen-obsessed society, and the artificiality of an instagram/facebook-bound life.",
+                        0.7888206339120145
+                    ],
+                    [
+                        "27_ for director matt spicer, who co-wrote the script with david branson smith, is sort of all over the place, it's still often sharply amusing, crisply assembled and features game, broad-brushstroke performances ...",
+                        0.602123207219964
+                    ]
+                ]
+            }
+        }
+    }
+}

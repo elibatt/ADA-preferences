@@ -1,0 +1,78 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_action point is the first jackass-related movie to play it safe.",
+                0.5117529015821781
+            ],
+            [
+                "2_a movie that's about reckless freedom and counter-culture communities needs to be less by-the-numbers than \"action point.\"",
+                -0.5712555219123958
+            ],
+            [
+                "7_i laughed like a hyena during the movie:",
+                0.5265553709119646
+            ],
+            [
+                "9_action point's nostalgia sunglasses are tinted, ",
+                -0.5327992263813386
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Matthew Peterson": {
+                "args": []
+            },
+            "Leon Clingman": {
+                "args": []
+            },
+            "Joe Vaz": {
+                "args": []
+            },
+            "Aidan Whytock": {
+                "args": []
+            },
+            "Johnny Knoxville": {
+                "args": [
+                    [
+                        "4_for all of the manic anti-authoritarian energy that knoxville and pals generate in \"action point,\" it's not directed at anything, which renders it meaningless and leaves the film to fizzle out like a deflated balloon.",
+                        -0.6160524117340098
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dave Krinsky": {
+                "args": []
+            },
+            "John Altschuler": {
+                "args": []
+            },
+            "Johnny Knoxville": {
+                "args": [
+                    [
+                        "4_for all of the manic anti-authoritarian energy that knoxville and pals generate in \"action point,\" it's not directed at anything, which renders it meaningless and leaves the film to fizzle out like a deflated balloon.",
+                        -0.6160524117340098
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Tim Kirkby": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

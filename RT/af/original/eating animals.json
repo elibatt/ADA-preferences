@@ -1,0 +1,78 @@
+{
+    "acting": {
+        "entities": {
+            "Natalie Portman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jonathan Safran Foer": {
+                "args": []
+            },
+            "Christopher Dillon Quinn": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_without declaring one specific solution to the challenges of animal agriculture, the film focuses needed attention on the issues.",
+                0.5340018430818587
+            ],
+            [
+                "2_if \"eating animals\" gets you to think twice about that prepackaged beef or frozen chicken, it will have done its job.",
+                0.5034115595053384
+            ],
+            [
+                "3_\"eating animals\" brings heart to farmers who raise livestock on traditional values by showing how emotional they would get when sending their animals to the slaughterhouse.",
+                0.5504233638533846
+            ],
+            [
+                "7_\"eating animals,\" at its core, poses two hard questions, the latter of which might seem intractable: \"how did we get here?\" and \"how do we go somewhere else?\"",
+                -0.6306764008669357
+            ],
+            [
+                "9_a movie like \"eating animals,\" by making you think twice about what you're taking a bite of, has stood its ground and done its job.",
+                -0.506469963463019
+            ],
+            [
+                "10_the movie isn't even advocating vegetarianism.",
+                -0.802451194500705
+            ],
+            [
+                "11_eating animals\" makes it very clear that meat-eaters are driving a modern holocaust against their dinner.",
+                0.6829752678976568
+            ],
+            [
+                "12_as a work of sustained, ",
+                0.5897808850679294
+            ],
+            [
+                "12_tful inquiry, eating animals is a bust",
+                -0.5318292477435498
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Christopher Dillon Quinn": {
+                "args": [
+                    [
+                        "0_director christopher quinn's film isn't the blood-spattered, viral footage-laced, sermonizing moral lecture you might think it will be.",
+                        -0.5896990890267393
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

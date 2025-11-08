@@ -1,0 +1,118 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "4_a frenzied family friendly film as overstuffed as a christmas stocking, as nutty as a chestnut, and, ultimately, as warm as an open fire.",
+                0.7482584844841177
+            ],
+            [
+                "10_“candy cane lane” is a stunningly uneven film that careens between cornball family drama, slapstick comedy and special-effects-laden gimmickry.",
+                0.7018185511651004
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "12",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Reginald Hudlin": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Kelly Younger": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "5_murphy gives a lower-key, nearly anti-less performance than we’ve seen from him in the past, letting the concept and the special effects take the lead, with him grounding the fantasy by focusing on chris as a devoted father.",
+                0.6409940632074778
+            ],
+            [
+                "12_the saving graces are a zesty ellis ross and the enigma that is murphy, an actor whose comic timing is still casually brilliant.",
+                0.8563735501857209
+            ]
+        ],
+        "entities": {
+            "Eddie Murphy": {
+                "unique_args": [
+                    [
+                        "12_the saving graces are a zesty ellis ross and the enigma that is murphy, an actor whose comic timing is still casually brilliant.",
+                        0.8563735501857209
+                    ]
+                ]
+            },
+            "Jillian Bell": {
+                "unique_args": []
+            },
+            "Tracee Ellis Ross": {
+                "unique_args": []
+            },
+            "Thaddeus J. Mixson": {
+                "unique_args": []
+            },
+            "Ken Marino": {
+                "unique_args": []
+            },
+            "David Alan Grier": {
+                "unique_args": []
+            },
+            "Nick Offerman": {
+                "unique_args": []
+            },
+            "Robin Thede": {
+                "unique_args": []
+            },
+            "Chris Redd": {
+                "unique_args": []
+            },
+            "Gennaya Walton": {
+                "unique_args": []
+            },
+            "Madison Thomas": {
+                "unique_args": []
+            },
+            "DC Young Fly": {
+                "unique_args": []
+            },
+            "Anjelah Johnson-Reyes": {
+                "unique_args": []
+            },
+            "Nancy Lenehan": {
+                "unique_args": []
+            },
+            "Genneya Walton": {
+                "unique_args": []
+            },
+            "Riki Lindhome": {
+                "unique_args": []
+            },
+            "Lombardo Boyar": {
+                "unique_args": []
+            },
+            "Danielle Pinnock": {
+                "unique_args": []
+            },
+            "Timothy Simons": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

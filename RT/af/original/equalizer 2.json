@@ -1,0 +1,152 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_once it's over, you won't necessarily be itching for an equalizer 3.",
+                -0.6334692251411356
+            ],
+            [
+                "6_a less-muddled script could have rescued \"the equalizer 2\" from the summer blahs, ",
+                -0.6373896759778714
+            ],
+            [
+                "8_yeah, the two-time oscar winner is punching below his weight in a vigilante movie.",
+                0.5033991693219066
+            ],
+            [
+                "10_\"the equalizer\" should be locked in a room with \"the terminator.\"",
+                -0.5396640443284519
+            ],
+            [
+                "11_the film's slow-burn approach matches that of the original.",
+                0.6577449166702396
+            ],
+            [
+                "12_the film is effective where it needs to be, and if there is an \"equalizer 3,\" in line to see it is where you'll find me.",
+                0.8270710305699094
+            ],
+            [
+                "14_\"equalizer 2\" is the kind of raise-the-bar sequel that can convert a franchise skeptic into a fan.",
+                -0.5384211652141613
+            ],
+            [
+                "18_a movie that's watchable and intermittently pleasing.",
+                0.6229943967565152
+            ],
+            [
+                "24_ all things being equalized, he deserves a better movie.",
+                0.5659146353134886
+            ],
+            [
+                "25_worst of all, it leaves the door open for \"the equalizer 3.\"",
+                -0.5373383176198692
+            ],
+            [
+                "30_ this is a grisly exploitation movie at best.",
+                -0.5378702093756297
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Antoine Fuqua": {
+                "args": [
+                    [
+                        "30_judging by the ponderous tone and pace, fuqua thinks he's making high art (likely aspiring to something existential like jean-pierre melville's \"le samouraï\"), ",
+                        0.5521938872986668
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Orson Bean": {
+                "args": []
+            },
+            "Abigail Marlowe": {
+                "args": []
+            },
+            "Caroline Day": {
+                "args": []
+            },
+            "Bill Pullman": {
+                "args": []
+            },
+            "Denzel Washington": {
+                "args": [
+                    [
+                        "2_it's not much of a movie - more a parade of rah-rah triumphs obscuring a batch of logical oddities - which makes washington's committed performance stand out like the heavenly host in the night sky over bethlehem.",
+                        -0.5649605438822812
+                    ],
+                    [
+                        "4_even with washington at the top of his game, \"the equalizer 2\" just doesn't deliver the thrills.",
+                        -0.6836477674257898
+                    ],
+                    [
+                        "7_anchored by denzel washington's steely presence",
+                        0.5726682434049168
+                    ],
+                    [
+                        "15_like all great actors, mr. washington commits to the performance, ",
+                        0.7754061771718067
+                    ],
+                    [
+                        "21_even the most easily satisfied fans of washington will be unlikely to find much of anything in this sadistic, stupid and sloppy sequel.",
+                        -0.8126690838482623
+                    ],
+                    [
+                        "23_no wonder he's such a welcome sight in 2018 america and no wonder washington wanted another go-around.",
+                        0.5873760014035962
+                    ],
+                    [
+                        "28_that's pretty much what washington pulls off in \"eq2.\"",
+                        0.5796948426292386
+                    ]
+                ]
+            },
+            "Pedro Pascal": {
+                "args": []
+            },
+            "Jonathan Scarfe": {
+                "args": []
+            },
+            "Sakina Jaffrey": {
+                "args": []
+            },
+            "Melissa Leo": {
+                "args": []
+            },
+            "Ashton Sanders": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_the two-time oscar winner is able to tap into his own surplus of moral righteousness even when the script is pulling the carpet out from under him.",
+                0.6886947567155868
+            ],
+            [
+                "6_a less-muddled script could have rescued \"the equalizer 2\" from the summer blahs, ",
+                -0.6373896759778714
+            ],
+            [
+                "29_this distinctive character is gradually subsumed by familiar genre imperatives that eventually make mccall seem less special and singular than he did on first exposure in 2014.",
+                0.6840228016246246
+            ]
+        ],
+        "entities": {
+            "Richard Wenk": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "13_ in this film and this performance, he's more sinned against than sinning.",
+                0.7217480018082817
+            ]
+        ],
+        "entities": {
+            "Ella Purnell": {
+                "args": []
+            },
+            "John Slattery": {
+                "args": []
+            },
+            "Miranda Richardson": {
+                "args": []
+            },
+            "James Purefoy": {
+                "args": []
+            },
+            "Brian Cox": {
+                "args": [
+                    [
+                        "3_still, there are moments in cox's performance when we can locate the living, breathing man inside the commemorative statue, and that's not nothing.",
+                        0.7129360673290186
+                    ],
+                    [
+                        "10_ instead, it's merely ok, with cox doing his best to overcome the shortcomings.",
+                        0.7645641347492728
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jonathan Teplitzky": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Alex von Tunzelmann": {
+                "args": [
+                    [
+                        "1_the script, written by neophyte alex von tunzelmann, is appalling, its plot simplistic and its dialogue alternating between misplaced bits of contemporary psycho-babble and improbable grandiloquence.",
+                        -0.5553941660441291
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_cox makes an impressive churchill, an imposing man of physique and intellect who, closing in on 70, has been laid low by age and circumstance.",
+                0.689483936668092
+            ],
+            [
+                "3_too often churchill feels more like an exposé than a deep-dish psychological exploration.",
+                0.6032193745573097
+            ],
+            [
+                "6_cox's churchill wields his cigar with the might of a baseball bat, huffing and puffing like a dragon.",
+                0.5611702104716938
+            ],
+            [
+                "6_ \"churchill\" is just blowing smoke.",
+                -0.6083683543832388
+            ],
+            [
+                "7_anglophiles and history-loving filmgoers will adore \"churchill,\" an extremely well made film that is the best example of british heroic portraiture since \"the king's speech.\"",
+                0.9053492445309127
+            ],
+            [
+                "8_a superb look at iconic statesman winston churchill's torturous days leading up to the pivotal d-day landings of june 6, 1944.",
+                0.8553146913659677
+            ],
+            [
+                "10_\"churchill\" should have been fascinating",
+                -0.5947521000257522
+            ],
+            [
+                "11_as biopics of heroic figures go, \" churchill \" is nothing if not audacious...",
+                0.6233741022361141
+            ],
+            [
+                "12_ \"churchill\" has no such ambitions.",
+                -0.6855749038526822
+            ],
+            [
+                "13_winston churchill may not have been a paragon in life, ",
+                0.50957595899713
+            ],
+            [
+                "13_ in this film and this performance, he's more sinned against than sinning.",
+                0.7217480018082817
+            ],
+            [
+                "14_if only the sole purpose of churchill weren't to take ol' winnie off the plinth and make him seem like a little more of a flesh-and-blood man-a goal the movie fails on account of being inert, decorous, and almost absurdly repetitive.",
+                -0.725364385330248
+            ],
+            [
+                "15_the movie's ambition is the good news.",
+                0.5493873887599094
+            ],
+            [
+                "15_the bad news is that it is a hash, choosing to jumble the historical record and frame a churchill bout with depression against the d-day invasion of france by allied forces.",
+                0.5592398138622967
+            ],
+            [
+                "17_so full of movie clichés and high melodrama that it's sometimes hard not to giggle - and one should never laugh at the prime minister.",
+                -0.5055531105448777
+            ],
+            [
+                "20_it's a movie that wants the patriotic sweep of nostalgic iconography while also pulling back the curtain on a legendary statesman's darkest ",
+                0.5247696627616335
+            ]
+        ]
+    }
+}

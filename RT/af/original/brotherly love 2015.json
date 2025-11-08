@@ -1,0 +1,62 @@
+{
+    "writer": {
+        "entities": {
+            "Jamal Hill": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ this script is not so tough.",
+                -0.8108702499801197
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Jamal Hill": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Cory Hardrict": {
+                "args": []
+            },
+            "Lil' Romeo": {
+                "args": []
+            },
+            "Malik Yoba": {
+                "args": []
+            },
+            "Macy Gray": {
+                "args": []
+            },
+            "Quincy Brown": {
+                "args": []
+            },
+            "Faizon Love": {
+                "args": []
+            },
+            "Keke Palmer": {
+                "args": []
+            },
+            "Eric D. Hill": {
+                "args": []
+            },
+            "Logan Browning": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

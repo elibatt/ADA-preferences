@@ -1,0 +1,78 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_like one of its unfortunate acrobats, the movie spins out of control.",
+                -0.6582283094421844
+            ],
+            [
+                "3_the movie is carried by sweeping widescreen images, dynamic camera movements, impressive special effects and a color scheme that contrasts icy blues against fiery reds.",
+                0.766217108957035
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Wai Man Yip": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tony Yang": {
+                "args": []
+            },
+            "Simon Yam": {
+                "args": []
+            },
+            "Huan Huang": {
+                "args": []
+            },
+            "Zi-feng Zhang": {
+                "args": []
+            },
+            "Huang Lei": {
+                "args": []
+            },
+            "Jing Li": {
+                "args": []
+            },
+            "Natalie Meng Yao": {
+                "args": []
+            },
+            "Ruby Lin": {
+                "args": []
+            },
+            "Gangshan Jing": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Hana Li": {
+                "args": []
+            },
+            "Mei Yuan Yang": {
+                "args": []
+            },
+            "Jingling Li": {
+                "args": []
+            },
+            "Manfred Wong": {
+                "args": []
+            },
+            "Sakura Yang": {
+                "args": []
+            }
+        }
+    }
+}

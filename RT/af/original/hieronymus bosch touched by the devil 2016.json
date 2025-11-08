@@ -1,0 +1,64 @@
+{
+    "writer": {
+        "entities": {
+            "Pieter Van Huystee": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_for a movie about an artist so unique and provocative, writer-director pieter van huystee's documentary \"hieronymus bosch: touched by the devil\" proves a less-than-scintillating portrait.",
+                0.8323266966076663
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Pieter Van Huystee": {
+                "args": [
+                    [
+                        "1_but director pieter van huystee, needing a story arc,",
+                        0.5090808757916474
+                    ],
+                    [
+                        "3_van huystee doesn't seem terribly interested in the art as art, and yet the power of the works comes through anyway, ",
+                        0.5758261157447311
+                    ],
+                    [
+                        "4_for a movie about an artist so unique and provocative, writer-director pieter van huystee's documentary \"hieronymus bosch: touched by the devil\" proves a less-than-scintillating portrait.",
+                        0.8323266966076663
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_ the film's plodding presentation.",
+                -0.6439111970434278
+            ],
+            [
+                "6_the high-resolution images of bosch's twisted work are gorgeous, ",
+                0.7135056248387941
+            ],
+            [
+                "7_the film offers a true immersion in his artistry.",
+                0.7851726258515361
+            ],
+            [
+                "8_the movie comes alive only when the camera lingers over the actual paintings and allows their power to speak for itself.",
+                0.5938771788549111
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

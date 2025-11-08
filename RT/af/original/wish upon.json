@@ -1,0 +1,171 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_what would you wish for?",
+                0.5582826691542071
+            ],
+            [
+                "3_a bland b-movie that begs the question: how did this get made when so many good films never escape development purgatory?",
+                -0.5877729265728923
+            ],
+            [
+                "4_for cheap horror thrills, you can wish for better, ",
+                0.585781267148476
+            ],
+            [
+                "5_the splatter is deployed cautiously and sometimes wittily, the story moving briskly from wishes granted to costs exacted ...",
+                0.6671061326815994
+            ],
+            [
+                "6_the blunt momentum of the movie's plot starts to sag, with tin-eared dialogue making it obvious that the the story can't possibly offer up much more than variations on one ridiculous idea again and again.",
+                -0.8146786511840179
+            ],
+            [
+                "7_even easy-to-please teens might wish for their time back.",
+                -0.5875199472820372
+            ],
+            [
+                "9_in this somewhat disappointing summer at the movies, wish upon offers a welcome glimmer of magic.",
+                0.7533385652706932
+            ],
+            [
+                "10_, wish upon wouldn't so often mistake \"light\" for \"silly.\"",
+                -0.6807297718607894
+            ],
+            [
+                "13_it's a summer movie that delivers a lowest-common-denominator good time, and mostly succeeds.",
+                0.8936766816821924
+            ],
+            [
+                "14_king throws herself into the high school melodrama of wish upon, ",
+                -0.574847006529573
+            ],
+            [
+                "14_ the movie buries her range-from flustered infatuation to horror-flick panic-under a mountain of unbelievable behavior and tin-eared dialogue.",
+                0.5351287863852487
+            ],
+            [
+                "15_off the top of my head, i can't think of another fright film with a cheerful scene devoted to purse shopping.",
+                -0.6418169525309049
+            ],
+            [
+                "16_the people who populate \"wish upon\" ... seem to have the brains god gave diet coke.",
+                -0.7507202744028834
+            ],
+            [
+                "18_\"wish upon\" is a pretty bad movie.",
+                -0.8036371246578354
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "John R. Leonetti": {
+                "args": [
+                    [
+                        "10_had director john r. leonetti the slightest interest in the inner lives of teenage girls (i.e., at least half the film's characters)",
+                        -0.6020883335185365
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Barbara Marshall": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_ its badness is of such a distinct and kooky character that it can't help ",
+                -0.6004157351247709
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Shannon Purser": {
+                "args": []
+            },
+            "Albert Chung": {
+                "args": []
+            },
+            "Ki Hong Lee": {
+                "args": []
+            },
+            "Reagan Revord": {
+                "args": []
+            },
+            "Kevin Hanchard": {
+                "args": []
+            },
+            "Michelle Alexander": {
+                "args": []
+            },
+            "Elisabeth Röhm": {
+                "args": []
+            },
+            "Sherilyn Fenn": {
+                "args": []
+            },
+            "Ryan Taerk": {
+                "args": []
+            },
+            "Victor Sutton": {
+                "args": []
+            },
+            "Natalie Prinzen-Klages": {
+                "args": []
+            },
+            "Alexander Nunez": {
+                "args": []
+            },
+            "Mitchell Slaggert": {
+                "args": []
+            },
+            "Daniela Barbosa": {
+                "args": []
+            },
+            "Monique Stinchcombe": {
+                "args": []
+            },
+            "Sydney Park": {
+                "args": []
+            },
+            "Nora Prinzen-Klages": {
+                "args": []
+            },
+            "Alice Lee (XIV)": {
+                "args": []
+            },
+            "Joey King": {
+                "args": []
+            },
+            "Ryan Phillippe": {
+                "args": []
+            },
+            "Josephine Langford": {
+                "args": []
+            },
+            "Danielle Pollari": {
+                "args": []
+            },
+            "Rosalina Lee": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_the best thing you can say about it is that the acting is alright, there are a few decently executed moments of nastiness, the whole thing is in focus and you can understand what's being said.",
+                0.5414943437713555
+            ]
+        ]
+    }
+}

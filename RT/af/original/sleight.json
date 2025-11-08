@@ -1,0 +1,104 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "J.D. Dillard": {
+                "args": [
+                    [
+                        "10_there's real joy in these [magic] moments, and you pine for more of them as the film wears on and dillard baits-and-switches us, focusing more and more on the monotonous good-kid-gets-in-too-deep-with-bad-guys story.",
+                        0.5999645262106887
+                    ],
+                    [
+                        "11_magic tricks become shorthand for the power of personal transformation in jd dillard's modestly scaled thriller that's equally an accessible domestic drama.",
+                        0.80500021528174
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_ squanders its high concept ... and serves up a low-rent, nickelodeon-lite version of that story, blowing his chance with corny acting, paint-by-numbers plotting, and a dippy score.",
+                -0.5843237492168106
+            ]
+        ],
+        "entities": {
+            "Dulé Hill": {
+                "args": []
+            },
+            "Storm Reid": {
+                "args": []
+            },
+            "Cameron Esposito": {
+                "args": []
+            },
+            "Sasheer Zamata": {
+                "args": []
+            },
+            "Jacob Latimore": {
+                "args": [
+                    [
+                        "1_[latimore] has a magnetic screen presence mixed with a down-to-earth directness.",
+                        -0.6034355042535327
+                    ],
+                    [
+                        "2_the film lives and dies by latimore's performance, which is quiet and ever-shifting.",
+                        0.7118044593676959
+                    ],
+                    [
+                        "6_sleight succeeds with its creation of a modern quasi-superhero in bo and the launching of an electric new leading man in latimore.",
+                        0.7932002973075825
+                    ]
+                ]
+            },
+            "Seychelle Gabriel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_sleight... is a minor film with major virtues: tenderness, imagination, and a strong grasp of character and setting.",
+                0.7941154627224868
+            ],
+            [
+                "1_and while he's got swagger for days, he's just as compelling when his character is quietly contemplating his next move.",
+                0.5828174975641829
+            ],
+            [
+                "7_, this is a non-traditional, multi-genre film with impressive cinematography, a smart screenplay with some creative twists - and brilliant performances from the lead players.",
+                0.916148111899118
+            ]
+        ],
+        "entities": {
+            "J.D. Dillard": {
+                "args": []
+            },
+            "Alex Theurer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_sleight... is a minor film with major virtues: tenderness, imagination, and a strong grasp of character and setting.",
+                0.7941154627224868
+            ],
+            [
+                "5_sleight is quiet, almost naturalistic, even when bo is stopping bullets with his bare hand.",
+                0.7030480130682437
+            ],
+            [
+                "7_, this is a non-traditional, multi-genre film with impressive cinematography, a smart screenplay with some creative twists - and brilliant performances from the lead players.",
+                0.916148111899118
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

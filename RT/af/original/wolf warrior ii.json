@@ -1,0 +1,64 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Celina Jade": {
+                "args": []
+            },
+            "Nan Yu": {
+                "args": []
+            },
+            "Frank Grillo": {
+                "args": []
+            },
+            "Jing Wu": {
+                "args": []
+            },
+            "Gang Wu": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jing Wu": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Qun Dong": {
+                "args": []
+            },
+            "Jing Wu": {
+                "args": []
+            },
+            "Yi Liu": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_wolf warrior 2 lectures you, pummels you, and then expects you to cheer.",
+                0.5689114847411356
+            ],
+            [
+                "2_wolf warrior 2 is even bigger and bolder than its predecessor, which doesn't always work in its favor.",
+                -0.5219595315888433
+            ],
+            [
+                "3_while \"wolf warrior 2\" is blandly generic more often than not, there's something bracing about its patriotic fervor, which asserts that the chinese will act in the best interests of the world's downtrodden, while the rest of the world just exploits them.",
+                0.7313561068840129
+            ]
+        ]
+    }
+}

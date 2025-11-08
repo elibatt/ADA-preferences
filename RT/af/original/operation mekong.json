@@ -1,0 +1,92 @@
+{
+    "acting": {
+        "entities": {
+            "Joyce Wenjuan Feng": {
+                "args": []
+            },
+            "Wu Xudong": {
+                "args": []
+            },
+            "Mandy Wei": {
+                "args": []
+            },
+            "Chen Baoguo": {
+                "args": []
+            },
+            "Ken Lo": {
+                "args": []
+            },
+            "Pawarith Monkolpisit": {
+                "args": []
+            },
+            "Jonathan Wu": {
+                "args": []
+            },
+            "Zhao Jian": {
+                "args": []
+            },
+            "Liu Xianda": {
+                "args": []
+            },
+            "Eddie Peng": {
+                "args": []
+            },
+            "Zhan Liguo": {
+                "args": []
+            },
+            "Sun Chun": {
+                "args": []
+            },
+            "Carl Ng": {
+                "args": []
+            },
+            "Hanyu Zhang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Tam Wei Ching": {
+                "args": []
+            },
+            "Lau Siu-kwan": {
+                "args": []
+            },
+            "Dante Lam": {
+                "args": []
+            },
+            "Kang Ki-Chu": {
+                "args": []
+            },
+            "Kang KiChu": {
+                "args": []
+            },
+            "Eric Lin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ this film has a scale and an energy that rivals any hollywood blockbuster.",
+                0.5741006517785772
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dante Lam": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

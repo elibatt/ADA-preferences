@@ -1,0 +1,99 @@
+{
+    "writer": {
+        "entities": {
+            "Ana Lily Amirpour": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_this gaudy postapocalyptic adventure from writer-director ana lily amirpour never stops moving, its heroine bouncing back and forth between the revelers and the flesh eaters, ",
+                0.7481444126751832
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ana Lily Amirpour": {
+                "args": [
+                    [
+                        "8_this gaudy postapocalyptic adventure from writer-director ana lily amirpour never stops moving, its heroine bouncing back and forth between the revelers and the flesh eaters, ",
+                        0.7481444126751832
+                    ],
+                    [
+                        "12_in addition to presenting a parable about the collapse of society, amirpour's film is also a kind of postmodern adam-and-eve story.",
+                        0.7731196911627618
+                    ],
+                    [
+                        "13_while amirpour has put a lot of effort into creating sweeping desert photography and detailed thrift-store set dressing, those are ultimately just ornaments on a sparse narrative tree.",
+                        0.770130487576975
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_feels less like a coherent film and more like a pastiche.",
+                -0.5348843576823361
+            ],
+            [
+                "1_a film with neither engaging emotional threads nor the kind of panache that makes such cinematic mayhem worth it.",
+                0.6143482438074799
+            ],
+            [
+                "2_it's a trippy, sun-scorched apocalyptic horror film with a rom-com finish that gets as bloody, visceral and cannibalistic as its u.s. r rating will allow.",
+                0.6065736992735761
+            ],
+            [
+                "3_she wants to make big, colorful blockbusters, too, and the bad batch feels like an audition reel to take over mad max.",
+                -0.8630881590773503
+            ],
+            [
+                "6_as a politically barbed fantasy, \"the bad batch\" is intriguing ",
+                -0.6856809706883107
+            ],
+            [
+                "7_the bad batch has all the ingredients necessary for a minor cult classic, ",
+                -0.5444036507978648
+            ],
+            [
+                "10_sadly, her latest, \"the bad batch\" doesn't come close to clearing that hurdle.",
+                -0.8327781275881581
+            ],
+            [
+                "16_running close to two hours, the movie is overlong and not without draggy patches, ",
+                -0.7731142006046146
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Suki Waterhouse": {
+                "args": []
+            },
+            "Keanu Reeves": {
+                "args": []
+            },
+            "Jim Carrey": {
+                "args": []
+            },
+            "Jason Momoa": {
+                "args": []
+            },
+            "Giovanni Ribisi": {
+                "args": []
+            },
+            "Yolonda Ross": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

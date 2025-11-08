@@ -1,0 +1,109 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_i've had bigger scares from my goldfish bowl.",
+                -0.582822724134805
+            ],
+            [
+                "2_ is powerless to make emotional sense of what turns out to be the story's twisted central relationship, and ends up being just another fiercely maternal damsel in distress.",
+                -0.6900977098859157
+            ],
+            [
+                "3_this hokey horror film should have stayed cooped up.",
+                -0.7659024966395293
+            ],
+            [
+                "7_the big twist is so ridiculous that viewers will more likely find themselves laughing at its sheer silliness than reeling from its dramatic rug-pulling.",
+                -0.550763772207306
+            ],
+            [
+                "8_\"shut in\" is more effective as a 90-minute commercial for the l.l. bean aesthetic than as a pseudo-psychological thriller.",
+                -0.5830031204640418
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Farren Blackburn": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Christina Hodson": {
+                "args": [
+                    [
+                        "1_as mary loses sleep, her paranoia worsens, yet christina hodson's monotonous script fails to make mary's psychological struggles feel any more severe than a case of misplaced keys.",
+                        -0.8095320109257018
+                    ],
+                    [
+                        "9_this is a disappointing waste of good acting talent, coupled with a very pedantic and not very intriguing story from first-time screenwriter christina hodson.",
+                        -0.563478102599076
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Alex Braunstein": {
+                "args": []
+            },
+            "Clémentine Poidatz": {
+                "args": []
+            },
+            "Oliver Platt": {
+                "args": []
+            },
+            "Thomas Macedo": {
+                "args": []
+            },
+            "Anton Chevier": {
+                "args": []
+            },
+            "Peter Outerbridge": {
+                "args": []
+            },
+            "Jacob Tremblay": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": [
+                    [
+                        "4_in this achingly inept thriller, you will see naomi watts do what she can to sell a plot of such preposterousness that the derisory laughter around me began barely 20 minutes in.",
+                        -0.5931269473019315
+                    ]
+                ]
+            },
+            "Charlie Heaton": {
+                "args": []
+            },
+            "Ellen David": {
+                "args": []
+            },
+            "David Cubitt": {
+                "args": []
+            },
+            "Crystal Balint": {
+                "args": []
+            },
+            "Tim Post": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_this is a disappointing waste of good acting talent, coupled with a very pedantic and not very intriguing story from first-time screenwriter christina hodson.",
+                -0.563478102599076
+            ]
+        ]
+    }
+}

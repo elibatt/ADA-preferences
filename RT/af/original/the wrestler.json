@@ -1,0 +1,324 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_it's a wonderful, career-reviving performance, and you can't imagine the movie without him.",
+                0.7573242232580347
+            ],
+            [
+                "3_predictable as it is, this sad, strong beast of a film keeps us pinned to the mat with the strength of its compassion and the overpowering force of its central performance.",
+                0.6468337626984026
+            ],
+            [
+                "4_aronofsky directs with unfussy candour, alternating between the intensity of the wrestling and the drabness of randy's 'real' life.",
+                0.727721081131516
+            ],
+            [
+                "6_the movie presses too hard and too often, ",
+                -0.650996657108714
+            ],
+            [
+                "7_the wrestler has the intimacy of a fly-on-the-wall documentary.",
+                0.5312764328319699
+            ],
+            [
+                "8_with uncommon intelligence and brutal honesty, the wrestler examines the cost, and need, of battle.",
+                0.5627081770441584
+            ],
+            [
+                "9_the wrestler is strong, confident filmmaking.",
+                0.6805382748228284
+            ],
+            [
+                "10_ near-brilliant movie is about a guy trying to resurrect his career, so too is the performance at its heart.",
+                -0.6339492567526797
+            ],
+            [
+                "12_the wrestler isn't a perfect movie, ",
+                0.5682448558773319
+            ],
+            [
+                "16_this small performance, in a small film, is by far the biggest of his career.",
+                0.6733732884349246
+            ],
+            [
+                "17_the wrestler is suffused with sadness, yet also the wonder of a spirit that refuses to be snuffed out, and it's a lesson to us all.",
+                0.6878837553992507
+            ],
+            [
+                "20_the wrestler is about the seductions of superficiality and the dull ache of living beyond one's moment.",
+                -0.6424974149272462
+            ],
+            [
+                "26_it's a hell of a performance -- and a hellish one -- in a film that isn't entirely sure what to do with it.",
+                0.578177436487751
+            ],
+            [
+                "29_the wrestler shows that, in both movies and wrestling, the line between reality and play-acting may be less clear than we assume.",
+                0.6736790572084115
+            ],
+            [
+                "30_the wrestler offers something to pretty much everyone in the audience.",
+                -0.585244335152732
+            ],
+            [
+                "36_to put it simply, this is the best film i've seen this year.",
+                0.8680480291267948
+            ],
+            [
+                "37_this is a film that you have got to see.",
+                0.5824983036775827
+            ],
+            [
+                "38_the wrestler is like rocky made by the scorsese of mean streets.",
+                -0.6088747873763035
+            ],
+            [
+                "38_it's the rare movie fairy tale that's also a bravura work of art.",
+                0.8380689652879775
+            ],
+            [
+                "41_aronofsky pulls all the usual strings in the wrestler.",
+                0.5966065235672493
+            ],
+            [
+                "41_but in the end the movie works,",
+                0.5541693010049326
+            ],
+            [
+                "44_ the film teeters on the brink of sentimentality, it never topples into the slush,",
+                -0.5760569274646531
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Darren Aronofsky": {
+                "args": [
+                    [
+                        "13_the famously downbeat aronofsky captures the grimy texture of life at the bummed-out bottom of the wrestling circuit, ",
+                        0.561563435595812
+                    ],
+                    [
+                        "18_the excesses are easy to forgive, both for the humour and charisma of rourke's outsized performance and aronofsky's canny low-key direction, which make for a combination that is irresistible.",
+                        0.8573796919372774
+                    ],
+                    [
+                        "23_director, darren aronofsky, and the writer, robert d. siegel, have turned the story of this washed-up faux gladiator into a film of authentic beauty and commanding consequence.",
+                        0.8074981416977218
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "28_while the director was essential in collaborating with rourke to create that memorable performance, it remains real work in an essentially fake film, and there is nothing anyone can do about that.",
+                -0.5206482251444162
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Donnetta Lavinia Grays": {
+                "args": []
+            },
+            "Giovanni Forti Rosselli": {
+                "args": []
+            },
+            "Ernest Miller": {
+                "args": []
+            },
+            "Wass Stevens": {
+                "args": []
+            },
+            "Ron Killings": {
+                "args": []
+            },
+            "Mark Margolis": {
+                "args": []
+            },
+            "Judah Friedlander": {
+                "args": []
+            },
+            "Johnny Valiant": {
+                "args": []
+            },
+            "Armin Amiri": {
+                "args": []
+            },
+            "John D'Leo": {
+                "args": []
+            },
+            "Marcia Jean Kurtz": {
+                "args": []
+            },
+            "Evan Rachel Wood": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": [
+                    [
+                        "24_rourke and tomei bring a tender, lived-in honesty to their sad roles.",
+                        -0.521776542559883
+                    ]
+                ]
+            },
+            "Todd Barry": {
+                "args": []
+            },
+            "Mickey Rourke": {
+                "args": [
+                    [
+                        "5_the chance to play that poignant confusion is the real prize that rourke and tomei earn in the wrestler.",
+                        0.5112539330324535
+                    ],
+                    [
+                        "11_mickey rourke delivers such an unexpectedly moving, charming and physically impressive performance that he deserves some other award than guy",
+                        0.859389737307125
+                    ],
+                    [
+                        "12_ rourke's performance gives it the impact of an atomic elbow drop.",
+                        0.634114558255614
+                    ],
+                    [
+                        "13_ the center of the movie is rourke's unimpeachable performance as a man who exults in self-punishment.",
+                        -0.5899849524907659
+                    ],
+                    [
+                        "14_imagining someone other than the beatifically battered mickey rourke in the title role of the wrestler would be like picturing someone other than john malkovich in being john malkovich.",
+                        -0.5228727635436838
+                    ],
+                    [
+                        "15_mickey rourke in the wrestler is one of the all-time exalted examples of an actor meeting a character and of each redeeming the other.",
+                        -0.5364337478057655
+                    ],
+                    [
+                        "18_the excesses are easy to forgive, both for the humour and charisma of rourke's outsized performance and aronofsky's canny low-key direction, which make for a combination that is irresistible.",
+                        0.8573796919372774
+                    ],
+                    [
+                        "19_mickey rourke plays the battered, broke, lonely hero,",
+                        -0.5128169259461072
+                    ],
+                    [
+                        "21_it is a pleasure to see rourke finesse this amalgamation of the champ, marty, rocky and a dozen other movies to his supreme advantage.",
+                        0.7465935792956744
+                    ],
+                    [
+                        "22_i would much rather have seen a movie about the devastations of the real mickey rourke.",
+                        -0.5303355135768808
+                    ],
+                    [
+                        "25_the movie feeds off rourke, who plays a genuinely decent guy who never lets his dawning self-awareness interfere with his responsibility to give the fans a show.",
+                        0.6596376492825339
+                    ],
+                    [
+                        "28_while the director was essential in collaborating with rourke to create that memorable performance, it remains real work in an essentially fake film, and there is nothing anyone can do about that.",
+                        -0.5206482251444162
+                    ],
+                    [
+                        "31_ rourke's wounded tough guy is undeniably captivating.",
+                        0.546366595949265
+                    ],
+                    [
+                        "32_the scruffy, almost accidental beauty of the wrestler comes as even more of a surprise than the greatness of mickey rourke's performance.",
+                        0.8342551916513508
+                    ],
+                    [
+                        "33_mickey rourke, who has been flying under the radar for nearly two decades, makes this a comeback to remember.",
+                        0.6084465474309498
+                    ],
+                    [
+                        "34_present in every scene, if not each shot, rourke gives a tremendously physical performance that the wrestler essentially exists to document.",
+                        0.6277297842578567
+                    ],
+                    [
+                        "40_what rourke offers us, in short, is not just a comeback performance ",
+                        0.6552995073324482
+                    ]
+                ]
+            },
+            "Mike Miller": {
+                "args": []
+            },
+            "Tommy Farra": {
+                "args": []
+            },
+            "Ernest \"The Cat\" Miller": {
+                "args": []
+            },
+            "Gregg Bello": {
+                "args": []
+            },
+            "Dylan Summers": {
+                "args": []
+            },
+            "Ajay Naidu": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_it's a wonderful, career-reviving performance, and you can't imagine the movie without him.",
+                0.7573242232580347
+            ],
+            [
+                "3_predictable as it is, this sad, strong beast of a film keeps us pinned to the mat with the strength of its compassion and the overpowering force of its central performance.",
+                0.6468337626984026
+            ],
+            [
+                "10_ near-brilliant movie is about a guy trying to resurrect his career, so too is the performance at its heart.",
+                -0.6339492567526797
+            ],
+            [
+                "16_this small performance, in a small film, is by far the biggest of his career.",
+                0.6733732884349246
+            ],
+            [
+                "19_this is the performance of his lifetime, will win him a nomination, may win him the oscar.",
+                0.859539418745823
+            ],
+            [
+                "26_it's a hell of a performance -- and a hellish one -- in a film that isn't entirely sure what to do with it.",
+                0.578177436487751
+            ],
+            [
+                "29_the wrestler shows that, in both movies and wrestling, the line between reality and play-acting may be less clear than we assume.",
+                0.6736790572084115
+            ],
+            [
+                "39_the result is the most brutally honest performance of the year.",
+                0.7099354833435556
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Robert D. Siegel": {
+                "args": [
+                    [
+                        "23_director, darren aronofsky, and the writer, robert d. siegel, have turned the story of this washed-up faux gladiator into a film of authentic beauty and commanding consequence.",
+                        0.8074981416977218
+                    ]
+                ]
+            },
+            "Darren Aronofsky": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_mickey rourke in the wrestler is one of the all-time exalted examples of an actor meeting a character and of each redeeming the other.",
+                -0.5364337478057655
+            ],
+            [
+                "22_by comparison, the ram seems like a stand-in -- a screenwriter's pseudo-hard-boiled concoction.",
+                -0.5926758653629425
+            ]
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "writer": {
+        "entities": {
+            "John Scheinfeld": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Scheinfeld": {
+                "args": [
+                    [
+                        "13_director john scheinfeld's doc is a comprehensive, engrossing and, it's tempting to say, worshipful account of the life of the music titan.",
+                        0.8739594953386203
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_in the end, it's the music, and not the testimonials, that makes the movie.",
+                0.6489255884024385
+            ],
+            [
+                "9_as a biographical movie, \"chasing trane\" sticks to a conventional, dully informative format.",
+                0.6699866716944625
+            ],
+            [
+                "12_a dully conventional film about a brilliantly unconventional musician.",
+                0.6988228249763542
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Common": {
+                "args": []
+            },
+            "Carlos Santana": {
+                "args": []
+            },
+            "Denzel Washington": {
+                "args": []
+            },
+            "Cornel West": {
+                "args": []
+            },
+            "John Coltrane": {
+                "args": [
+                    [
+                        "0_like coltrane's music, the sheer brilliance of his musicianship cuts through the clutter.",
+                        0.7144367137270691
+                    ],
+                    [
+                        "1_this documentary about john coltrane provides a fine overview of his career for the uninitiated and plenty of lesser-known information for fans.",
+                        0.8097195530224538
+                    ],
+                    [
+                        "5_ his readings of coltrane's words don't match seeing the artist in motion.",
+                        0.6060734181664071
+                    ],
+                    [
+                        "6_the john coltrane documentary.",
+                        0.5139391794302227
+                    ],
+                    [
+                        "7_\"chasing trane: the john coltrane documentary\" ought to appeal to longtime fans as well as neophytes.",
+                        0.5600684552803367
+                    ],
+                    [
+                        "9_its ideal venue is a coltrane tri",
+                        0.6234166344177838
+                    ]
+                ]
+            },
+            "Wynton Marsalis": {
+                "args": []
+            },
+            "John Densmore": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

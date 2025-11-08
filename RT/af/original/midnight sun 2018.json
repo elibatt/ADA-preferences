@@ -1,0 +1,115 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_with modest production values throughout, \"midnight sun\" feels like four or five episodes of a pretty good drama on the wb network in 1997.",
+                -0.6346409659879756
+            ],
+            [
+                "1_midnight sun, on the other hand, is straightforward and trite.",
+                -0.6211156335713548
+            ],
+            [
+                "2_a preposterous film so insufferably adorable and frightfully melodramatic that viewers will find themselves confused as to which reflex to stifle:",
+                -0.5679357152955903
+            ],
+            [
+                "3_midnight sun is cheesy and implausible and manipulative, ",
+                -0.7084657432456012
+            ],
+            [
+                "4_ nothing catches fire in this midnight sun.",
+                -0.6257746624951772
+            ],
+            [
+                "6_none of the film rings remotely true, especially the cornball conclusion, ",
+                0.7014186862440791
+            ],
+            [
+                "9_the trouble isn't just that \"midnight sun\" cherry-picks the most poetic elements of a real-world disease to serve its transparently manipulative ends, ",
+                -0.6179324474338868
+            ],
+            [
+                "10_ that audience deserves better than midnight sun.",
+                0.5247736381477974
+            ],
+            [
+                "11_midnight sun does what it means to do for the people it means to do it for-and that might just be enough.",
+                0.5758012608685599
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Scott Speer": {
+                "args": [
+                    [
+                        "7_under the limp direction of scott speer, \"midnight sun\" suffocates its sentimental script, portraying passion without wonder, sacrifice without ecstasy.",
+                        0.5477388061781189
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Eric Kirsten": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_under the limp direction of scott speer, \"midnight sun\" suffocates its sentimental script, portraying passion without wonder, sacrifice without ecstasy.",
+                0.5477388061781189
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Patrick Schwarzenegger": {
+                "args": []
+            },
+            "Paul McGillion": {
+                "args": []
+            },
+            "Ken Tremblett": {
+                "args": []
+            },
+            "Tiera Skovbye": {
+                "args": []
+            },
+            "Suleka Mathew": {
+                "args": []
+            },
+            "Nicholas Coombe": {
+                "args": []
+            },
+            "Austin Obiajunwa": {
+                "args": []
+            },
+            "Rob Riggle": {
+                "args": []
+            },
+            "Quinn Shephard": {
+                "args": []
+            },
+            "Bella Thorne": {
+                "args": [
+                    [
+                        "8_schwarzenegger's chief skills are leaning against things, looking confused and having good hair, while thorne struggles to convincingly lip sync.",
+                        0.5746544156133059
+                    ]
+                ]
+            },
+            "Jenn Griffin": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

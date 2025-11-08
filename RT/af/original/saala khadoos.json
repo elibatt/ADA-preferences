@@ -1,0 +1,26 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_that keeps the film humming along, as does mr. madhavan, who grows in stature along with adi.",
+                0.6735525525151136
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

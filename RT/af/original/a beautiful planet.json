@@ -1,0 +1,73 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_a beautiful planet is yet another worthwhile film from imax, ",
+                0.7387445728050319
+            ],
+            [
+                "0_ if you're a cool auntie or uncle out there, maybe do your civic duty and bring the kids to see a movie both entertaining and convincing.",
+                0.843886187569045
+            ],
+            [
+                "6_\"a beautiful planet\" may be little more than an epcot attraction with broader distri",
+                0.7656520488925906
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Marsha Ivins": {
+                "args": []
+            },
+            "Kjell Lindgren": {
+                "args": []
+            },
+            "Kimiya Yui": {
+                "args": []
+            },
+            "Scott Kelly": {
+                "args": []
+            },
+            "Jennifer Lawrence": {
+                "args": []
+            },
+            "Samantha Cristoforetti": {
+                "args": []
+            },
+            "Barry E. Wilmore": {
+                "args": []
+            },
+            "Terry Virts": {
+                "args": []
+            },
+            "Anton Shkaplerov": {
+                "args": []
+            },
+            "Kjell N. Lindgren": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Toni Myers": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Toni Myers": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

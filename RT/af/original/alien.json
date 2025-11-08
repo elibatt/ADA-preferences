@@ -1,0 +1,180 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_this is a screamingly spooky sci-fi tale with more than a few echoes of \"the thing\" ",
+                -0.5333518826588427
+            ],
+            [
+                "0_ echoes which enhance rather than detract.",
+                -0.5924408207416632
+            ],
+            [
+                "1_seen again a quarter-century later, we marvel at how the filmmaker generates so much tension and sweat with a bare minimum of moving parts.",
+                -0.5045017881154713
+            ],
+            [
+                "2_the limited strengths of its staple sci-fi horrors always derived from either the offhand organic/ freudian resonances of its design or the purely (brilliantly) manipulative editing and pacing of its above-average shock quota.",
+                0.5323307695925891
+            ],
+            [
+                "3_the most startling thing watching alien again is its pacing.",
+                -0.5017934861223274
+            ],
+            [
+                "3_for the first 45 minutes, little happens.",
+                -0.6253125569630609
+            ],
+            [
+                "3_it's all slow, exquisite build-up, which makes the second half seem all the more horrific.",
+                -0.5327153267293001
+            ],
+            [
+                "4_it is depressing to watch an expensive, crafty movie that never soars beyond its cold desire to score the big bucks.",
+                -0.7415247187381204
+            ],
+            [
+                "5_the limited strengths of its staple sci-fi horrors always derived from either the offhand organic/ freudian resonances of its design or the purely (brilliantly) manipulative editing and pacing of its above-average shock quota.",
+                0.5323307695925891
+            ],
+            [
+                "6_an old-fashioned scary movie set in a highly realistic sci-fi future, made all the more believable by expert technical craftmanship.",
+                0.7694794916378065
+            ],
+            [
+                "7_an empty-headed horror movie with nothing to recommend it beyond the disco-inspired art direction and some handsome, if gimmicky, cinematography.",
+                -0.5253202173212337
+            ],
+            [
+                "8_a genuine fright classic.",
+                0.6237924793376409
+            ],
+            [
+                "9_these things no longer surprise or tantalize us as they once did.",
+                -0.6582856524031709
+            ],
+            [
+                "9_in a very short time, science-fiction films have developed their own jargon that's now become a part of the grammar.",
+                0.7941351577051072
+            ],
+            [
+                "10_alien will upset your mind and upset your stomach.",
+                -0.5728729758964579
+            ],
+            [
+                "11_alien looks amazing, almost like a new film.",
+                0.6861546016837461
+            ],
+            [
+                "12_ it reinforces the film's strengths without alienating the series' biggest fans.",
+                0.5846196486581583
+            ],
+            [
+                "14_it's a most satisfying return to one of the few sci-fi films that deserves to be called a masterpiece.",
+                0.8252502290255519
+            ],
+            [
+                "16_what's most unusual about the original 24 years later, ",
+                0.7559971007368276
+            ],
+            [
+                "16_, is its elegant minimalism.",
+                0.6125140241041226
+            ],
+            [
+                "17_it's a scream from another era that still echoes around us.",
+                0.5856006004621543
+            ],
+            [
+                "18_a haunted-house movie set in space, alien also has a profoundly existentialist undertow that makes it feel like a film noir -- the other genre to feature a slithery, sexualized monster as its classic villain.",
+                0.6532608076856445
+            ],
+            [
+                "19_the scariest movie in history is actually a bit shy.",
+                0.5918957797943545
+            ],
+            [
+                "20_where 2001 and close encounters suggested that humanity would bring its best impulses and brightest hopes beyond the clouds, alien served as a reminder that its worst fears would also be part of the package.",
+                0.760918090201445
+            ],
+            [
+                "22_in space, the famous tagline went, no one can hear you scream.",
+                0.552696703852646
+            ],
+            [
+                "22_in alien, you can hear lessons for the sci-fi future in a great milestone from the recent past.",
+                0.686657409587234
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ridley Scott": {
+                "args": [
+                    [
+                        "12_ridley scott's new cut won't change the way people think about the movie, ",
+                        0.6092973891991948
+                    ],
+                    [
+                        "13_ridley scott's 1979 movie is a great original.",
+                        0.7665095448097461
+                    ],
+                    [
+                        "21_the way [ridley] scott meticulously raises the sense of menace and tension is worthy of hitchcock.",
+                        0.7681591349205202
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Harry Dean Stanton": {
+                "args": []
+            },
+            "Helen Horton": {
+                "args": []
+            },
+            "Ian Holm": {
+                "args": []
+            },
+            "Veronica Cartwright": {
+                "args": []
+            },
+            "Sigourney Weaver": {
+                "args": [
+                    [
+                        "15_besides weaver and skeritt, the top-notch ensemble includes two of britain's best actors -- ian holm, as the untrustworthy science officer, and john hurt.",
+                        0.925454292165266
+                    ]
+                ]
+            },
+            "Tom Skerritt": {
+                "args": []
+            },
+            "John Hurt": {
+                "args": []
+            },
+            "Bolaji Badejo": {
+                "args": []
+            },
+            "Yaphet Kotto": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Dan O'Bannon": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_this is a movie that drops quotations from faulkner and einstein, ",
+                0.5910222057895522
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Gauri Shinde": {
+                "args": [
+                    [
+                        "0_gauri shinde's latest film is an emotionally resonant look at an issue that rarely gets covered in indian society - therapy.",
+                        0.7680694575220357
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Keshav Uppal": {
+                "args": []
+            },
+            "Siddarth Shukla": {
+                "args": []
+            },
+            "Kunal Kapoor (II)": {
+                "args": []
+            },
+            "Tahir Raj Bhasin": {
+                "args": []
+            },
+            "Angad Bedi": {
+                "args": []
+            },
+            "Shah Rukh Khan": {
+                "args": [
+                    [
+                        "1_ it rarely feels pedantic or platitudinous, thanks to the breezy, assured delivery of mr. khan ...",
+                        0.7802168315874642
+                    ]
+                ]
+            },
+            "Ira Dubey": {
+                "args": []
+            },
+            "Aditya Roy Kapoor": {
+                "args": []
+            },
+            "Ali Zafar": {
+                "args": []
+            },
+            "Siddharth Shukla": {
+                "args": []
+            },
+            "Alia Bhatt": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gauri Shinde": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "François Truffaut": {
+                "args": [
+                    [
+                        "16_jones vibes off that idea, turning truffaut's enthusiasm into an honorable act of reclamation.",
+                        -0.5232144675285461
+                    ],
+                    [
+                        "18_hitchcock/truffaut packs plenty of cogent observations into a modest package, ",
+                        0.6416502297861877
+                    ],
+                    [
+                        "23_it's a smashing supplement to truffaut's classic study.",
+                        0.643191378921227
+                    ]
+                ]
+            },
+            "Arnaud Desplechin": {
+                "args": []
+            },
+            "Martin Scorsese": {
+                "args": []
+            },
+            "David Fincher": {
+                "args": []
+            },
+            "Wes Anderson": {
+                "args": []
+            },
+            "James Gray": {
+                "args": []
+            },
+            "Richard Linklater": {
+                "args": []
+            },
+            "Kiyoshi Kurosawa": {
+                "args": []
+            },
+            "Peter Bogdanovich": {
+                "args": []
+            },
+            "Mathieu Amalric": {
+                "args": []
+            },
+            "Bob Balaban": {
+                "args": []
+            },
+            "Olivier Assayas": {
+                "args": []
+            },
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "0_ \"hitchcock/truffaut\" adeptly proves the timelessness of cinema.",
+                        0.665943133017539
+                    ],
+                    [
+                        "1_jones has laid enough of a foundation on hitchcock's style that viewers can watch one of cinema's most famous moments with fresh eyes.",
+                        0.8694853319197366
+                    ],
+                    [
+                        "3_ the documentary's main effect will surely be to make you want to see hitchcock's films (including the marvel that is marnie) all over again.",
+                        0.6578647942016141
+                    ],
+                    [
+                        "11_if the documentary concentrates on the mechanical aspects of filmmaking, that's clearly because it was hitchcock's preference.",
+                        0.6813771663390082
+                    ],
+                    [
+                        "12_\"hitchcock/truffaut\" gets a lot done in only 79 minutes.",
+                        -0.6214940812488381
+                    ],
+                    [
+                        "14_use this documentary as an introduction to the book, then use the book, like a christmas catalog, to order up viewings, or re-viewings, of hitchcock's deliciously, diabolically deathless films.",
+                        0.7890526868831509
+                    ],
+                    [
+                        "15_kent jones' doc on the groundbreaking interview book gets you drunk on hitchcock's films again.",
+                        0.5420053854912789
+                    ],
+                    [
+                        "17_this is a jewel box of a movie for anyone who loves either hitchcock or truffaut-or better yet, both.",
+                        -0.5552921278281265
+                    ],
+                    [
+                        "19_\"hitchcock/truffaut\" offers a lot of ideas to contemplate and discuss, especially if you're a lover of hitchcock's works.",
+                        0.7517149974940136
+                    ],
+                    [
+                        "22_because once the credits roll, you're going to want to seek out a real hitchcock movie immediately.",
+                        0.5185851557862948
+                    ],
+                    [
+                        "24_a wider range of interview subjects might have broadened the perspective, yet before criticizing a tradition, it's useful to define it, and jones ... offers deep insight into the watershed moment and the enduring forms of hitchcock's canonization.",
+                        0.8027375966941395
+                    ],
+                    [
+                        "26_the fact is that hitchcock made some of the poorest movies of his career after \"hitchcock/truffaut'' vaulted him to the top of the pantheon - ",
+                        0.5046315951825271
+                    ],
+                    [
+                        "26_ you wouldn't know it from this documentary, aimed at newcomers to hitchcock's work.",
+                        0.5443984046329886
+                    ]
+                ]
+            },
+            "Paul Schrader": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "13_this all-male discussion is fascinating on the topic of the director's visual style, his approach to actors and his catholicism, ",
+                0.7547838369437809
+            ]
+        ],
+        "entities": {
+            "Kent Jones": {
+                "args": [
+                    [
+                        "15_kent jones' doc on the groundbreaking interview book gets you drunk on hitchcock's films again.",
+                        0.5420053854912789
+                    ],
+                    [
+                        "20_mr. jones fashions an unfaltering encomium that's entirely free of the highfalutin monologues that might deter noncinephiles.",
+                        0.7550431204314114
+                    ],
+                    [
+                        "24_a wider range of interview subjects might have broadened the perspective, yet before criticizing a tradition, it's useful to define it, and jones ... offers deep insight into the watershed moment and the enduring forms of hitchcock's canonization.",
+                        0.8027375966941395
+                    ],
+                    [
+                        "25_it makes for a lively documentary subject for critic/director kent jones, ",
+                        0.74999061363485
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Kent Jones": {
+                "args": []
+            },
+            "Serge Toubiana": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_anytime you get smart and accomplished filmmakers talking about film, theory and their respective styles, the results are rewarding.",
+                0.744621202304769
+            ],
+            [
+                "15_nirvana for movie lovers.",
+                0.550668412346519
+            ],
+            [
+                "21_it's a terrific primer on an important slice of film history.",
+                0.8154081128786229
+            ],
+            [
+                "22_just be prepared: this movie is only the first part of an endless film festival.",
+                -0.5157768970866649
+            ],
+            [
+                "23_an arresting précis, sharply edited and generous with its film clips -",
+                0.6952668290865158
+            ]
+        ]
+    }
+}

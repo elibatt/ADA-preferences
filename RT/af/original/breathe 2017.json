@@ -1,0 +1,148 @@
+{
+    "writer": {
+        "entities": {
+            "William Nicholson": {
+                "args": [
+                    [
+                        "17_william nicholson's script is a stiff-upper-lip ode with spice notes of plucky humor, ",
+                        0.5460506112519206
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "24_its noble intentions [are] hobbled by a trite script, flat characters and a relentlessly saccharine tone that eventually starts to grate.",
+                -0.6636160619012023
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Andy Serkis": {
+                "args": [
+                    [
+                        "14_andy serkis directs a brilliant andrew garfield in a flawed ",
+                        0.7943433712912249
+                    ],
+                    [
+                        "21_[andy] serkis' movie inhabits that jovial mood throughout, squeezing its narrative with such a life-affirming embrace that it's almost afraid to let the darkness in.",
+                        0.5949829169154981
+                    ],
+                    [
+                        "23_ one hopes serkis moves on to more challenging material with his follow-up.",
+                        0.6659919159091553
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ \"breathe\" often suffers from sucking in too much air.",
+                -0.731451651519561
+            ],
+            [
+                "1_breathe has moments of emotional resonance ",
+                -0.506624263716914
+            ],
+            [
+                "2_this is a film that rises above the doldrums.",
+                0.5702281774678958
+            ],
+            [
+                "3_thirty minutes in, we're pretty sure we know how the movie is going to turn out - even if we're unfamiliar with robin's remarkable journey and his lasting impact.",
+                0.708817732391084
+            ],
+            [
+                "3_that doesn't mean breathe isn't worth seeing.",
+                -0.7370331938616408
+            ],
+            [
+                "4_if its subject were around to see this film, would he appreciate the tender care that his son obviously took in making it?",
+                0.6921005938465865
+            ],
+            [
+                "5_sadly, \"breathe\" runs out of air long before the final credits.",
+                -0.6887652291896541
+            ],
+            [
+                "6_\"breathe\" is obvious oscar bait, ",
+                0.507221547061637
+            ],
+            [
+                "9_in the end, it really does seem these people were worth a movie, ",
+                -0.5811583231873347
+            ],
+            [
+                "9_ that the movie is giving us only part of the story.",
+                0.5140044063577891
+            ],
+            [
+                "12_this figgy pudding of a film mostly won me over.",
+                0.6342089817842673
+            ],
+            [
+                "19_ he has not exactly made a movie.",
+                -0.7123877295162896
+            ],
+            [
+                "20_serkis achieves a careful balance with a film that tastefully covers some delicate territory.",
+                0.7318634002876468
+            ],
+            [
+                "22_breathe might be a little too slick and shiny, ",
+                -0.6013617595495622
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Diana Rigg": {
+                "args": []
+            },
+            "Dean-Charles Chapman": {
+                "args": []
+            },
+            "Claire Foy": {
+                "args": [
+                    [
+                        "0_garfield and foy do standout jobs of bringing honesty and realism to their roles, ",
+                        0.7389440505190719
+                    ]
+                ]
+            },
+            "Andrew Garfield": {
+                "args": [
+                    [
+                        "8_ with a particularly engaging turn by andrew garfield as robin.",
+                        0.7346419845685128
+                    ],
+                    [
+                        "10_given the limitations of his role, i can't praise andrew garfield enough.",
+                        -0.6220031692354785
+                    ],
+                    [
+                        "14_andy serkis directs a brilliant andrew garfield in a flawed ",
+                        0.7943433712912249
+                    ]
+                ]
+            },
+            "Miranda Raison": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ its engaging story and appealing cast make that agenda easy to excuse.",
+                0.7146871709037919
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

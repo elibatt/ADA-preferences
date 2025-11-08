@@ -1,0 +1,253 @@
+{
+    "film": {
+        "args": [
+            [
+                "10_\"love & friendship\" is a film to make an action fan tear his or her hair out",
+                0.7072986047200729
+            ],
+            [
+                "21_the wit comes so quickly, the film demands a second viewing.",
+                0.5447781947243239
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Whit Stillman": {
+                "args": [
+                    [
+                        "0_ it's pretty stellar stillman.",
+                        -0.5413061034646738
+                    ],
+                    [
+                        "1_ the result is actually a tart, fizzy delight from metropolitan director whit stillman.",
+                        -0.5154971310395563
+                    ],
+                    [
+                        "11_ there's little of the juice that stillman brought to his earlier films as a chronicler of his own times.",
+                        0.5382502649522126
+                    ],
+                    [
+                        "20_austen-isms walk shoulder to shoulder with stillman-isms so gracefully that it takes a moment to realize which author is likely speaking through these characters.",
+                        -0.6394073151847339
+                    ],
+                    [
+                        "23_it's the whit stillman movie that some of us have been waiting a long time for, and also a jane austen movie that goes some way toward correcting the record of dull and dutiful cinematic janeism.",
+                        -0.5140455933499135
+                    ],
+                    [
+                        "25_the language, a lyrical blend of jane austen and whit stillman, bewitches even as it stings.",
+                        0.780027075132281
+                    ],
+                    [
+                        "29_with the plotting and the epigrams taken care of, stillman seems liberated as a craftsman:",
+                        -0.5380122919463179
+                    ],
+                    [
+                        "30_the delight of its director, whit stillman, enlivens every scene, so what might have seemed stilted is full of human faces in exquisitely subtle states of panic.",
+                        0.604078122307794
+                    ],
+                    [
+                        "30_heretical as it sounds, stillman has improved on his source.",
+                        0.710609312826145
+                    ],
+                    [
+                        "31_whit stillman and jane austen are a match made in comedy rapture.",
+                        0.6124585452481496
+                    ],
+                    [
+                        "33_the film is a fine showcase for stillman's typically inspired bon mots and the atypical charms of his leading lady.",
+                        0.7891801391187946
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "John Brennan": {
+                "args": []
+            },
+            "Morfydd Clark": {
+                "args": []
+            },
+            "Kelly Campbell (III)": {
+                "args": []
+            },
+            "Sylvie Benoiton": {
+                "args": []
+            },
+            "Frank Prendergast": {
+                "args": []
+            },
+            "Jemma Redgrave": {
+                "args": []
+            },
+            "Jordan S. Waller": {
+                "args": []
+            },
+            "David Timbs": {
+                "args": []
+            },
+            "James Fleet": {
+                "args": [
+                    [
+                        "34_stillman's fleet and funny adaptation makes it a pleasure to follow these entanglements (and to understand the strict social rules regulating everyone's behavior).",
+                        0.8481771909405187
+                    ]
+                ]
+            },
+            "Conor Lambert": {
+                "args": []
+            },
+            "Olivia Fahy": {
+                "args": []
+            },
+            "Lochlann O'Mearain": {
+                "args": []
+            },
+            "Rowan Finken": {
+                "args": []
+            },
+            "Ross Mac Mahon": {
+                "args": []
+            },
+            "Daniel Magee": {
+                "args": []
+            },
+            "Laura Whelan": {
+                "args": []
+            },
+            "Jenni Murray": {
+                "args": []
+            },
+            "Frank Melia": {
+                "args": []
+            },
+            "Chloë Sevigny": {
+                "args": []
+            },
+            "Emma Greenwell": {
+                "args": []
+            },
+            "Carla McGlynn": {
+                "args": []
+            },
+            "Justin Edwards": {
+                "args": []
+            },
+            "Stephen Fry": {
+                "args": [
+                    [
+                        "36_how, the actors acquit themselves nicely, and it's always good to have stephen fry around in this sort of tony affair ...",
+                        0.7062154427103111
+                    ]
+                ]
+            },
+            "Ellie Houlihan": {
+                "args": []
+            },
+            "Tom Bennett": {
+                "args": []
+            },
+            "Xavier Samuel": {
+                "args": []
+            },
+            "Conor MacNeill": {
+                "args": []
+            },
+            "Jenn Murray": {
+                "args": []
+            },
+            "Jordan Waller": {
+                "args": []
+            },
+            "Kate Beckinsale": {
+                "args": [
+                    [
+                        "17_t-numbing action movies, beckinsale is endlessly captivating as a formidable woman low on funds ",
+                        0.5944945055421562
+                    ]
+                ]
+            },
+            "James Crerar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Whit Stillman": {
+                "args": []
+            },
+            "Jane Austen": {
+                "args": [
+                    [
+                        "0_love & friendship may not be traditional austen, ",
+                        0.6940920347925487
+                    ],
+                    [
+                        "1_love & friendship is jane austen with the romance drained out, exposing the pragmatism and the economic urgency underneath.",
+                        0.7458364547310291
+                    ],
+                    [
+                        "3_stillman doesn't upend the austen formula, he burrows into it and embraces all its trappings.",
+                        -0.5692889583840892
+                    ],
+                    [
+                        "6_following many staid and treacly austen adaptations, this sublime period romp adds a thrilling splash of bemused, acidic humor.",
+                        0.7646117020293909
+                    ],
+                    [
+                        "7_a mixture that austen herself might find just right.",
+                        0.5591645484672216
+                    ],
+                    [
+                        "13_it's a comedy of empowerment and sexual politics, dressed up in the best austen finery.",
+                        0.7717968463674759
+                    ],
+                    [
+                        "15_ this is an unusual side of austen, cooler and more nakedly cunning.",
+                        0.7243735283715284
+                    ],
+                    [
+                        "23_it's the whit stillman movie that some of us have been waiting a long time for, and also a jane austen movie that goes some way toward correcting the record of dull and dutiful cinematic janeism.",
+                        -0.5140455933499135
+                    ],
+                    [
+                        "24_the sharpest, least sentimental and possibly the best version of austen yet.",
+                        0.7057513249291689
+                    ],
+                    [
+                        "25_the language, a lyrical blend of jane austen and whit stillman, bewitches even as it stings.",
+                        0.780027075132281
+                    ],
+                    [
+                        "31_whit stillman and jane austen are a match made in comedy rapture.",
+                        0.6124585452481496
+                    ],
+                    [
+                        "32_finally, a jane austen movie that's fresh and deliciously rotten at the same time.",
+                        0.8148234089427131
+                    ],
+                    [
+                        "37_a supremely elegant and delicately filigreed adaptation of jane austen's epistolary novella \"lady susan.\"",
+                        0.7958401118392741
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "21_the heartlessness of the central character, ",
+                -0.5546176165800543
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Takeshi Kaneshiro": {
+                "args": []
+            },
+            "Dongyu Zhou": {
+                "args": []
+            },
+            "Tony Yang": {
+                "args": []
+            },
+            "Ming Xi": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Derek Hui": {
+                "args": [
+                    [
+                        "1_the mismatched couple at its center simply don't belong together, no matter how hard writer-director derek hui works to convince us ",
+                        -0.599893046472056
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_the mismatched couple at its center simply don't belong together, no matter how hard writer-director derek hui works to convince us ",
+                -0.599893046472056
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the love story at the film's core never seems credible.",
+                0.7192149619959433
+            ]
+        ]
+    }
+}

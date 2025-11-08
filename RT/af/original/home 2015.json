@@ -1,0 +1,137 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the combination of home's layered message, fun score, and clever comedy make it a colorful choice for moviegoers of any age.",
+                0.8510715653135834
+            ],
+            [
+                "5_a big, fat happy meal of a movie ...",
+                0.6156694054369616
+            ],
+            [
+                "7_tension is one of \"home's\" biggest issues.",
+                0.5143144499675675
+            ],
+            [
+                "7_even a kids' movie needs more complexity and more invention.",
+                0.5600979441621983
+            ],
+            [
+                "11_ the technology doesn't save the film from falling flat on other levels.",
+                -0.8097718266920487
+            ],
+            [
+                "12_the bland \"home\" is a crash pad at best.",
+                -0.6240869247717822
+            ],
+            [
+                "16_the film moves quickly and keeps the jokes coming, which only means that \"home\" would rather keep young viewers occupied than give them something to think about.",
+                -0.5457378095786094
+            ],
+            [
+                "21_while watching \"home,\" a comical animated spin on alien-attack thrillers with the usual tacked-on touchy-feely messages, i began to get bored as did the families seated around me.",
+                0.5284400816319507
+            ],
+            [
+                "24_like the timorous boov, \"home\" has little interest in risk-taking.",
+                -0.5870606023404603
+            ],
+            [
+                "28_there may be no place like home, ",
+                -0.6091366765523811
+            ],
+            [
+                "28_ there are a lot of places like home, an animated adventure about the unlikely friendship between a lonely girl and an alien misfit that can't help ",
+                0.6608284635249434
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Steve Martin": {
+                "args": []
+            },
+            "Jennifer Lopez": {
+                "args": []
+            },
+            "Gavin Greenaway": {
+                "args": []
+            },
+            "April Winchell": {
+                "args": []
+            },
+            "April M. Lawrence": {
+                "args": []
+            },
+            "Stephen Kearin": {
+                "args": []
+            },
+            "Brian Stepanek": {
+                "args": []
+            },
+            "Lisa Stewart": {
+                "args": []
+            },
+            "Rihanna": {
+                "args": []
+            },
+            "Jim Parsons": {
+                "args": [
+                    [
+                        "6_aside from parsons' initially amusingly mangled yoda-like english, which gets a tad repetitive, home doesn't stand out as fresh or particularly funny.",
+                        -0.5449328401894239
+                    ],
+                    [
+                        "9_ that's where parsons and his goofy charm take over.",
+                        0.6265348203992651
+                    ],
+                    [
+                        "10_it works moderately well thanks largely to the voice talents of jim parsons and, to a lesser extent, steve martin.",
+                        0.7352718303720782
+                    ]
+                ]
+            },
+            "Matt Jones (XLVIII)": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tom J. Astle": {
+                "args": []
+            },
+            "Matt Ember": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Tim Johnson": {
+                "args": [
+                    [
+                        "9_director tim johnson (\"over the hedge\") and his animators can't maintain this level of freshness throughout, ",
+                        0.6227048581270679
+                    ],
+                    [
+                        "11_tim johnson ( antz) has capitalized on dreamworks' proprietary animation platform, apollo to create a rich, intricate setting...",
+                        0.6853654823570301
+                    ],
+                    [
+                        "23_ director tim johnson's ho-hum 3d cartoon remains strictly 1d.",
+                        -0.6035749484060713
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this slick doodle of a movie is nothing so much as an advertisement for itself.",
+                -0.6906197313134023
+            ],
+            [
+                "4_after a while, you expect a tale of the movie business to tell you something about the movies as well as the business, ",
+                0.8083386098840512
+            ],
+            [
+                "6_was there a crying need for a film version of entourage?",
+                -0.5254146055185479
+            ],
+            [
+                "7_ entourage is more interested in getting chuckles than guffaws.",
+                -0.540047597912563
+            ],
+            [
+                "8_ vinnie, e, turtle and drama are back, as empty and self-centered as ever, in the aimless, vapid entourage movie.",
+                -0.5994362245650476
+            ],
+            [
+                "11_the film is stuck in the inconsequential rut of the series.",
+                -0.7738641977024718
+            ],
+            [
+                "12_the movie has none of the fizz of the earliest of the series' eight seasons, and watching it summons that vague blank familiarity of discovering a show you used to watch is unexpectedly still on the air.",
+                -0.6153149438785126
+            ],
+            [
+                "15_double down too-much-is-not-enough-ness, ultimately work on me?",
+                -0.7905070364355424
+            ],
+            [
+                "17_on that vicarious-pleasure level, the movie version delivers.",
+                0.5931224612842495
+            ],
+            [
+                "18_as he did in the show, ari single-handedly saves the movie version of entourage from \"medellin\"-scale disaster.",
+                -0.5754427232306418
+            ],
+            [
+                "20_the big-screen version of entourage is constructed like the series, another chapter in a sequel-ready story.",
+                -0.5827302144462778
+            ],
+            [
+                "22_entourage plays like a solid, if slightly too long, episode.",
+                -0.5432094009721419
+            ],
+            [
+                "26_ that charge would only stick if the movie had any genuine flair, romance or imagination.",
+                -0.5246055326379135
+            ],
+            [
+                "28_four years after its eight seasons as an hbo series, \"entourage\" is back as a feature film, and the first thing that needs to be said is that you don't have to know the show to enjoy the movie.",
+                0.6574789168226783
+            ],
+            [
+                "29_like its pay-cable inspiration, entourage remains stubbornly, defiantly low-stakes.",
+                0.5470417900519375
+            ],
+            [
+                "33_the film's twitchy adhd pacing hardly matters since we're in such good company.",
+                -0.6069322235595684
+            ],
+            [
+                "35_from its look to its episodic rhythm, the movie plays like a compressed season 9 - a season that has its moments ",
+                -0.5461590178842118
+            ],
+            [
+                "36_a film that keeps its audience at a distance, never surprising them at all narratively and barely moving the needle for its characters.",
+                0.5944744366795726
+            ],
+            [
+                "36_it is fan fiction in film form.",
+                0.7064192554416047
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Doug Ellin": {
+                "args": [
+                    [
+                        "4_ ellin and company have never had anything to say about that.",
+                        -0.728789163268687
+                    ],
+                    [
+                        "19_to ellin's credit, entourage looks good and has liberal amounts of flash.",
+                        0.7462318525766085
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Doug Ellin": {
+                "args": []
+            },
+            "Rob Weiss": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Rob Gronkowski": {
+                "args": []
+            },
+            "Lindsay McGrail": {
+                "args": []
+            },
+            "Scott Vener": {
+                "args": []
+            },
+            "Maya Ellin": {
+                "args": []
+            },
+            "Mike Tyson": {
+                "args": []
+            },
+            "Liam Neeson": {
+                "args": []
+            },
+            "Russell Wilson": {
+                "args": []
+            },
+            "Emily Ratajkowski": {
+                "args": []
+            },
+            "Steve Tisch": {
+                "args": []
+            },
+            "Christine Donlon": {
+                "args": []
+            },
+            "Michael Hirtenstein": {
+                "args": []
+            },
+            "Gary Busey": {
+                "args": []
+            },
+            "Andrew Dice Clay": {
+                "args": []
+            },
+            "Haley Joel Osment": {
+                "args": []
+            },
+            "Kevin Dillon": {
+                "args": []
+            },
+            "Lucas Ellin": {
+                "args": [
+                    [
+                        "4_ ellin and company have never had anything to say about that.",
+                        -0.728789163268687
+                    ],
+                    [
+                        "19_to ellin's credit, entourage looks good and has liberal amounts of flash.",
+                        0.7462318525766085
+                    ]
+                ]
+            },
+            "Maria Menounos": {
+                "args": []
+            },
+            "Armie Hammer": {
+                "args": []
+            },
+            "Michael S. Meldman": {
+                "args": []
+            },
+            "Emmanuelle Chriqui": {
+                "args": []
+            },
+            "Ed O'Neill": {
+                "args": []
+            },
+            "Jim Gray": {
+                "args": []
+            },
+            "Rhys Coiro": {
+                "args": []
+            },
+            "Shay Laren": {
+                "args": []
+            },
+            "Alice Eve": {
+                "args": []
+            },
+            "Adrian Grenier": {
+                "args": []
+            },
+            "Martin Landau": {
+                "args": []
+            },
+            "Common": {
+                "args": []
+            },
+            "Tom Brady": {
+                "args": []
+            },
+            "Ronda Rousey": {
+                "args": []
+            },
+            "Shervin Pishevar": {
+                "args": []
+            },
+            "Richard Schiff": {
+                "args": []
+            },
+            "Sonny Marinelli": {
+                "args": []
+            },
+            "Saigon": {
+                "args": []
+            },
+            "Tameka Harris": {
+                "args": []
+            },
+            "Kayla Collins": {
+                "args": []
+            },
+            "Clay Matthews": {
+                "args": []
+            },
+            "David Faustino": {
+                "args": []
+            },
+            "Jennie Kwan": {
+                "args": []
+            },
+            "Mark Cuban": {
+                "args": []
+            },
+            "Thierry Henry": {
+                "args": []
+            },
+            "Tim Maculan": {
+                "args": []
+            },
+            "Alyssa Miller": {
+                "args": []
+            },
+            "Dru Mouser": {
+                "args": []
+            },
+            "Jerry Ferrara": {
+                "args": []
+            },
+            "Raquel Alessi": {
+                "args": []
+            },
+            "Jon Favreau": {
+                "args": []
+            },
+            "Nina Agdal": {
+                "args": []
+            },
+            "Kelsey Grammer": {
+                "args": []
+            },
+            "George Takei": {
+                "args": []
+            },
+            "Baron Davis": {
+                "args": []
+            },
+            "Jessica Alba": {
+                "args": []
+            },
+            "Bekah Graf": {
+                "args": []
+            },
+            "Piers Morgan": {
+                "args": []
+            },
+            "Billy Dec": {
+                "args": []
+            },
+            "Bill Grund": {
+                "args": []
+            },
+            "Kate Goldman": {
+                "args": []
+            },
+            "Meagen Fay": {
+                "args": []
+            },
+            "Marina Shafir": {
+                "args": []
+            },
+            "Scott \"Kid Cudi\" Mescudi": {
+                "args": []
+            },
+            "Greg Louganis": {
+                "args": []
+            },
+            "David Arquette": {
+                "args": []
+            },
+            "Anna Jaller": {
+                "args": []
+            },
+            "Domenico Vacca": {
+                "args": []
+            },
+            "Terrence Jenkins": {
+                "args": []
+            },
+            "Chad Lowe": {
+                "args": []
+            },
+            "Nora Dunn": {
+                "args": []
+            },
+            "Brittany Wagner": {
+                "args": []
+            },
+            "Alan Dale": {
+                "args": []
+            },
+            "Bob Saget": {
+                "args": []
+            },
+            "Kevin Connolly": {
+                "args": []
+            },
+            "Henry Penzi": {
+                "args": []
+            },
+            "Constance Zimmer": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": []
+            },
+            "Jessamyn Duke": {
+                "args": []
+            },
+            "Pharrell Williams": {
+                "args": []
+            },
+            "Warren Buffet": {
+                "args": []
+            },
+            "Rocky": {
+                "args": []
+            },
+            "Jeremy Piven": {
+                "args": [
+                    [
+                        "6_but the movie is still a tribute to piven's iconic performance as ari gold,",
+                        0.8108555193062578
+                    ]
+                ]
+            },
+            "Sabina Gadecki": {
+                "args": []
+            },
+            "Debi Mazar": {
+                "args": []
+            },
+            "Perrey Reeves": {
+                "args": []
+            },
+            "T.I.": {
+                "args": [
+                    [
+                        "15_did this overstuffed quality of \"entourage,\" its kfc",
+                        -0.6095739606241495
+                    ],
+                    [
+                        "16_put it this way: gary busey is in the movie.",
+                        -0.5353219475551539
+                    ],
+                    [
+                        "20_but you will get this, and if it does well,",
+                        0.6274116837454826
+                    ],
+                    [
+                        "34_does anyone involved with the film ever take this too seriously, and as long as one takes it in the same spirit, it's perfectly enjoyable.",
+                        0.5433491284676297
+                    ]
+                ]
+            },
+            "Alan Purwin": {
+                "args": []
+            },
+            "Billy Bob Thornton": {
+                "args": []
+            },
+            "Chad Hurley": {
+                "args": []
+            },
+            "Rex Lee": {
+                "args": []
+            },
+            "Matt Lauer": {
+                "args": []
+            },
+            "Jenna Goldman": {
+                "args": []
+            },
+            "David Spade": {
+                "args": []
+            },
+            "Debbie Jaffe": {
+                "args": []
+            },
+            "Shayna Baszler": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "22_ the cast's easy camaraderie and a \"play it as it lays\" atmosphere wins you over.",
+                0.7864799374892122
+            ]
+        ]
+    }
+}

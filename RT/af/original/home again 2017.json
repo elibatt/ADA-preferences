@@ -1,0 +1,152 @@
+{
+    "director": {
+        "args": [
+            [
+                "4_as the credits roll, it can be said that home again is a tight, witty script from a first-time director with a long list of hits ahead of her - and, of course, the golden age of hollywood dynasties lighting her way.",
+                0.7181482606402827
+            ]
+        ],
+        "entities": {
+            "Hallie Meyers-Shyer": {
+                "args": [
+                    [
+                        "13_if her career as director somehow doesn't pan out, meyers-shyer would make an excellent fairy godmother.",
+                        0.7626284130533937
+                    ],
+                    [
+                        "19_, \"home again,\" hallie meyers-shyer, nancy meyers's daughter, has made a shabby copy of a nancy meyers romantic comedy.",
+                        0.5821470740277929
+                    ],
+                    [
+                        "27_an inescapable shroud of blandness covers everything in the movie: the characters, the relationships, the cinematography (by the great dean cundey), even the witherspoon character's very nice house (another key element to meyers-shyer's parents' work).",
+                        0.7607596723819094
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Pico Alexander": {
+                "args": []
+            },
+            "Candice Bergen": {
+                "args": []
+            },
+            "Dolly Wells": {
+                "args": []
+            },
+            "Nat Wolff": {
+                "args": []
+            },
+            "Reid Scott": {
+                "args": []
+            },
+            "Michael Sheen": {
+                "args": []
+            },
+            "Hank Chen": {
+                "args": []
+            },
+            "Jon Rudnitsky": {
+                "args": []
+            },
+            "Eden Grace Redfield": {
+                "args": []
+            },
+            "Reese Witherspoon": {
+                "args": [
+                    [
+                        "12_it's a crime to waste reese witherspoon.",
+                        -0.6908454460556416
+                    ],
+                    [
+                        "12_to waste reese witherspoon and candice bergen.",
+                        -0.6030897192278462
+                    ],
+                    [
+                        "22_reese witherspoon's oversized appeal and radiance is no match for \"home again,\" a ramshackle romcom short on both romance and laughs.",
+                        -0.5578437307412557
+                    ],
+                    [
+                        "24_ the sprawl that overtakes \"home again\" is unwieldy and unwise, and detracts from witherspoon's predictably plucky performance.",
+                        -0.5436915103154709
+                    ],
+                    [
+                        "27_an inescapable shroud of blandness covers everything in the movie: the characters, the relationships, the cinematography (by the great dean cundey), even the witherspoon character's very nice house (another key element to meyers-shyer's parents' work).",
+                        0.7607596723819094
+                    ]
+                ]
+            },
+            "Lake Bell": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_as the credits roll, it can be said that home again is a tight, witty script from a first-time director with a long list of hits ahead of her - and, of course, the golden age of hollywood dynasties lighting her way.",
+                0.7181482606402827
+            ],
+            [
+                "27_an inescapable shroud of blandness covers everything in the movie: the characters, the relationships, the cinematography (by the great dean cundey), even the witherspoon character's very nice house (another key element to meyers-shyer's parents' work).",
+                0.7607596723819094
+            ],
+            [
+                "28_it's too superficial to maintain tension as a character-driven drama, and not funny enough to overcome an aimless plot and confused tone.",
+                -0.6639317673154016
+            ]
+        ],
+        "entities": {
+            "Hallie Meyers-Shyer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_witherspoon lacks the abandon the may-december love angle requires, and the movie is so tidily formulaic that it feels as if it's been airbrushed",
+                0.5395509727610677
+            ],
+            [
+                "1_artificial and reeking of white privilege, this is the kind of movie that causes regular folks to shake their heads and mutter things about \"entitlement\" when speaking of the \"hollywood elite.\"",
+                -0.592602855990879
+            ],
+            [
+                "3_so congratulations, home again.",
+                0.5403279179611922
+            ],
+            [
+                "4_as the credits roll, it can be said that home again is a tight, witty script from a first-time director with a long list of hits ahead of her - and, of course, the golden age of hollywood dynasties lighting her way.",
+                0.7181482606402827
+            ],
+            [
+                "6_watch this film for some turn-off-your-brain prettiness.",
+                -0.5106673953203271
+            ],
+            [
+                "7_less a story than a collection of awkwardly mounted run-throughs building toward amiable foregone conclusions, home again chugs home huffing and puffing about the difficulties of breaking into hollywood when you're young and talented.",
+                -0.5963873649836884
+            ],
+            [
+                "14_i never really felt at home with home again.",
+                -0.6992449800091968
+            ],
+            [
+                "15_again is a fascinating banality, the movie equivalent of a staring at a bucolic motel painting until you start to see skeletons in the haystacks.",
+                0.6163599484107725
+            ],
+            [
+                "17_home again\" is a romantic comedy with its heart in the right place.",
+                0.7522721241620636
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

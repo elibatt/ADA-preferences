@@ -1,0 +1,98 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_susco understands that the purpose of any horror film is to deliver shocks and suspense and he succeeds in that regard.",
+                0.7195936610171861
+            ],
+            [
+                "7_whereas the first film was a surprisingly effective formal exercise,",
+                0.6701961132183656
+            ],
+            [
+                "9_how can you not get a chill of wicked pleasure from a movie that builds dread from the facebook message notifications that drop down from the upper righthand corner of the screen?",
+                0.6011739809531198
+            ],
+            [
+                "12_what's striking in this movie, apart from an ostentatiously glitchy screen distortion that occurs whenever a denizen of the \"dark web\" appears on one of the screens within screens, is how credibly its extreme trolling plays.",
+                0.6506763053280461
+            ],
+            [
+                "13_where the first film tapped into the internet's unavoidable underbelly -- cyberbullies, trolls, obsessive fomo --",
+                0.5160666257261538
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Stephen Susco": {
+                "args": [
+                    [
+                        "5_nasty in its narrative and nifty in its aesthetic, stephen susco's new film is a solid argument against doing anything remotely illicit online.",
+                        0.6839192742955038
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Andrew Lees": {
+                "args": []
+            },
+            "Chelsea Alden": {
+                "args": []
+            },
+            "Connor Del Rio": {
+                "args": []
+            },
+            "Kiara Beltran": {
+                "args": []
+            },
+            "Rebecca Rittenhouse": {
+                "args": []
+            },
+            "Alexa Mansour": {
+                "args": []
+            },
+            "Colin Woodell": {
+                "args": []
+            },
+            "Rob Welsh": {
+                "args": []
+            },
+            "Stephanie Nogueras": {
+                "args": []
+            },
+            "Maya Nalli": {
+                "args": []
+            },
+            "Betty Gabriel": {
+                "args": []
+            },
+            "Douglas Tait": {
+                "args": []
+            },
+            "Eric Watson": {
+                "args": []
+            },
+            "Bryan Adrian": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Stephen Susco": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

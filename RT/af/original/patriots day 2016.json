@@ -1,0 +1,175 @@
+{
+    "writer": {
+        "entities": {
+            "Matt Cook": {
+                "args": []
+            },
+            "Peter Berg": {
+                "args": []
+            },
+            "Joshua Zetumer": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "32_a great american movie about the greatness of ordinary americans, \"patriots day\" combines an electrifying manhunt with the intimacy and feel for character writer-director peter berg showed in his brilliant tv series \"friday night lights.\"",
+                0.8342177089755197
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "J.K. Simmons": {
+                "args": []
+            },
+            "Jimmy O. Yang": {
+                "args": []
+            },
+            "Mark Wahlberg": {
+                "args": [
+                    [
+                        "1_a film content with the charming, if chuckleheaded, cartoon of the boston local that wahlberg has regularly inhabited throughout his career.",
+                        0.6846070433516656
+                    ]
+                ]
+            },
+            "John Goodman": {
+                "args": []
+            },
+            "Kevin Bacon": {
+                "args": []
+            },
+            "Jake Picking": {
+                "args": []
+            },
+            "Michelle Monaghan": {
+                "args": []
+            },
+            "Vincent Curatola": {
+                "args": []
+            },
+            "Alex Wolff": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"patriots day\" touches on vast phenomena, looking at an event that packs a huge amount of modern mental space in its crisp narrative confines.",
+                0.7761392299200953
+            ],
+            [
+                "2_the film, which swivels frantically between first responders, survivors, and investigators, has a percussive force.",
+                0.695941419897541
+            ],
+            [
+                "5_tful and restrained film than you might've been expecting.",
+                -0.5668551086813308
+            ],
+            [
+                "9_overall, this is a boston strong film about one of the worst terrorist attacks ever on american soil, and a community's resounding response.",
+                -0.5327246595041563
+            ],
+            [
+                "10_the answers are \"not exactly\" and \"probably not,\" since patriots day is meant as an ode to teamwork, civic pride and doing what a man's gotta do.",
+                0.5106916732840246
+            ],
+            [
+                "12_the film seems comfortable with [the police's tactics], and also with removing the pesky question of motive from its prime movers: it's enough that they're bad guys who did a very bad thing and must be brought to justice.",
+                -0.5559864281770645
+            ],
+            [
+                "13_packed with verisimilitude and visceral punch, \"patriots day\" is a harrowing film, and one not to be missed.",
+                0.6531041579164414
+            ],
+            [
+                "16_berg's film isn't seeking answers",
+                0.5310333716314967
+            ],
+            [
+                "17_a well-meaning, well-executed movie that tells the story of the boston marathon bombings of 2013 as a crime thriller - an interesting choice that works well, for the most part.",
+                0.8887995955157063
+            ],
+            [
+                "18_this is an undeniably effective movie that i mostly enjoyed, even ",
+                0.7995613787217667
+            ],
+            [
+                "19_for all its rough edges and gruesome touches, \"patriots day'' is a heartfelt and ambitious attempt to turn mayhem into something that's emotionally valid.",
+                0.6861180017017194
+            ],
+            [
+                "20_patriots day lands with all the subtlety of one of the deadly explosions that claimed three lives and injured 264 others.",
+                0.5992502088343049
+            ],
+            [
+                "21_in other hands, patriots day could have been a paint-by-the numbers action thriller, ",
+                -0.6282100287444777
+            ],
+            [
+                "22_ it doesn't measure up to the chills and excitement of their first film, lone survivor, it does raise goose bumps with its accuracy, realism, and attention to detail.",
+                0.6135782729433099
+            ],
+            [
+                "23_patriots day benefits from a robust, concentrated timeline and sheer bat-out-of-hell pacing.",
+                -0.5485898979512498
+            ],
+            [
+                "30_the best thing about patriots day is that it bespeaks cherished values without framing them as messages.",
+                0.7323654682216069
+            ],
+            [
+                "34_whether they are celebrated filmmakers or ordinary folks, tragedy can bring out the best in people, and \"patriots day\" is the latest example of both sides of the equation.",
+                0.7444088719349162
+            ],
+            [
+                "35_\"patriots day\" works so well on a dramatic level that my qualms were silenced almost entirely from the start.",
+                0.6029292586187762
+            ],
+            [
+                "36_patriots day by and large withstands the inevitable charges of too-soon opportunism, exhibiting some of the very same traits it extols in its local-hero characters-namely, diligence, competence, and a proportional sense of urgency.",
+                0.6296648271725136
+            ],
+            [
+                "37_berg's film is most effective when it recognizes that heroism doesn't come from bombastic shows of force or grand pronouncements, ",
+                0.5547517669053894
+            ],
+            [
+                "39_an intense, jittery re-creation of the 2013 boston marathon bombing and the four-day manhunt that followed, \"patriots day\" is the movie cbs films was put on this earth to produce.",
+                0.5755412413045029
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peter Berg": {
+                "args": [
+                    [
+                        "11_after dispensing with the sluggish setup of the film's first act, berg shifts into high gear, powerfully evoking the feelings of dread and white-knuckle excitement that much of america no doubt felt as the manhunt progressed.",
+                        0.7230631770190873
+                    ],
+                    [
+                        "14_if berg had dug deeper, he could have had a great film on his hands",
+                        0.6653862032595134
+                    ],
+                    [
+                        "31_ director peter berg's spare, flag-waving ode to beantown's beating heart frequently comes across as more dutiful than dramatic.",
+                        0.6761553935581117
+                    ],
+                    [
+                        "32_a great american movie about the greatness of ordinary americans, \"patriots day\" combines an electrifying manhunt with the intimacy and feel for character writer-director peter berg showed in his brilliant tv series \"friday night lights.\"",
+                        0.8342177089755197
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

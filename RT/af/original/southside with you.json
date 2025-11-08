@@ -1,0 +1,167 @@
+{
+    "writer": {
+        "args": [
+            [
+                "27_sawyers and sumpter ... [are] better than the writing, which follows its diagram and lays out the conflicts and personality differences very, very neatly.",
+                0.6658506684423403
+            ]
+        ],
+        "entities": {
+            "Richard Tanne": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_ this buoyant yet reflective movie captures the ever-shifting mood of a daylong encounter that changed both its protagonists' lives.",
+                0.6851424515038046
+            ],
+            [
+                "7_\"southside with you\" plays like \"before sunrise\" if those two characters had a really epic epilogue.",
+                -0.5229606167057148
+            ],
+            [
+                "8_for a film with relatively modest intentions, southside with you can stir up some epic and opposing waves of emotion.",
+                0.7666794208438048
+            ],
+            [
+                "9_one wouldn't quite say this date movie is political, ",
+                -0.5750321822311989
+            ],
+            [
+                "15_a sweet date-night movie about a date that wasn't really a date.",
+                -0.5805716805447868
+            ],
+            [
+                "16_while it contains some minor political elements - as does real life - this is at heart a near-perfect date movie, a nonpartisan walking and talking love story.",
+                0.8337713183742294
+            ],
+            [
+                "26_as a work of imagination inspired by fact, the film shimmers with warmth.",
+                0.7606936451107048
+            ],
+            [
+                "28_\"southside with you\" proves once and for all that a romantic film doesn't rely on suspense.",
+                0.658642217322291
+            ],
+            [
+                "30_it's a sweet-natured, gentle film that might remind more than a few watchers of a special date in their own life, long ago.",
+                0.7683475876497481
+            ],
+            [
+                "35_equally clever and charming, and ultimately a pretty good date movie in its own right.",
+                0.8538967325616701
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "32_ overshadowed performance ...",
+                0.5149786531175155
+            ]
+        ],
+        "entities": {
+            "Donn Carl Harper": {
+                "args": []
+            },
+            "Tom McElory": {
+                "args": []
+            },
+            "Tom McElroy": {
+                "args": []
+            },
+            "Phillip Edward Van Lear": {
+                "args": []
+            },
+            "Deanna Reed Foster": {
+                "args": []
+            },
+            "Jerod Haynes": {
+                "args": []
+            },
+            "Eric Morgan Stuart": {
+                "args": []
+            },
+            "Taylar Fondren": {
+                "args": []
+            },
+            "Stephanie Monday": {
+                "args": []
+            },
+            "Gabrielle Lott-Rogers": {
+                "args": []
+            },
+            "Vanessa Bell Calloway": {
+                "args": []
+            },
+            "Deborah Geffner": {
+                "args": []
+            },
+            "Parker Sawyers": {
+                "args": []
+            },
+            "Phillip Van Lear": {
+                "args": []
+            },
+            "Preston Tate Jr.": {
+                "args": []
+            },
+            "Tika Sumpter": {
+                "args": [
+                    [
+                        "18_here's the date movie of the year, about a first 1989 date between barack obama (parker sawyers) and michelle robinson (tika sumpter).",
+                        0.7413087344246211
+                    ],
+                    [
+                        "27_sawyers and sumpter ... [are] better than the writing, which follows its diagram and lays out the conflicts and personality differences very, very neatly.",
+                        0.6658506684423403
+                    ],
+                    [
+                        "32_ts and sucked in his marlboro red essence, while sumpter gives a solid ",
+                        0.6116600018643313
+                    ],
+                    [
+                        "41_tika sumpter and parker sawyer are terrifically cast as younger versions of michelle and barack obama in richard tanne's disarmingly romantic walkabout.",
+                        0.7387395169864935
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richard Tanne": {
+                "args": [
+                    [
+                        "21_first-time filmmaker richard tanne eschews politics and heavy foreshadowing, opting instead to craft a breezy, intimate and tender film about two people making that fateful first connection.",
+                        0.7103426980683994
+                    ],
+                    [
+                        "29_nicely conveys a broader, more intimate portrait of the first couple, the movie probably would have been enriched if tanne hadn't hemmed himself in so much with the conceit and instead traced more of the early stages of their courtship.",
+                        0.5973552367950337
+                    ],
+                    [
+                        "31_in the end, tanne has given us a movie that is warm and watchable without overdoing it.",
+                        0.7279532110456497
+                    ],
+                    [
+                        "40_fortunately, tanne didn't have to compromise at all with his two charismatic leads: not only are they dead ringers for barack and michelle, ",
+                        -0.7462338913595786
+                    ],
+                    [
+                        "41_tika sumpter and parker sawyer are terrifically cast as younger versions of michelle and barack obama in richard tanne's disarmingly romantic walkabout.",
+                        0.7387395169864935
+                    ]
+                ]
+            }
+        }
+    }
+}

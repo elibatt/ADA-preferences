@@ -1,0 +1,117 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rita Ora": {
+                "args": []
+            },
+            "Luke Grimes": {
+                "args": []
+            },
+            "Robinne Lee": {
+                "args": []
+            },
+            "Brant Daugherty": {
+                "args": []
+            },
+            "Kim Basinger": {
+                "args": []
+            },
+            "Eric Johnson": {
+                "args": []
+            },
+            "Victor Rasuk": {
+                "args": []
+            },
+            "Bruce Altman": {
+                "args": []
+            },
+            "Jennifer Ehle": {
+                "args": []
+            },
+            "Dakota Johnson": {
+                "args": [
+                    [
+                        "3_the impersonally crafted, emptily realized, expensively produced movie gets its modicum of humanity from dakota johnson, who has the gift of simply seeming alive and present when she's on camera.",
+                        0.6845567043545917
+                    ],
+                    [
+                        "23_to her credit, johnson actually turns in her best shades stuff here ...",
+                        0.8239201712125654
+                    ]
+                ]
+            },
+            "Marcia Gay Harden": {
+                "args": []
+            },
+            "Eloise Mumford": {
+                "args": []
+            },
+            "Max Martini": {
+                "args": []
+            },
+            "Arielle Kebbel": {
+                "args": []
+            },
+            "Callum Keith Rennie": {
+                "args": []
+            },
+            "Jamie Dornan": {
+                "args": [
+                    [
+                        "15_johnson and dornan's performances are wooden and their chemistry nonexistent (particularly in the movie's more-of-the-same sex scenes), ",
+                        0.5802932840718577
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_these movies are derivative, often ridiculous, and, in the case of fifty shades freed, unquestionably hilarious, ",
+                0.6478991227768388
+            ],
+            [
+                "14_freed is probably the least provocative film of the trilogy.",
+                0.5972576701557911
+            ],
+            [
+                "16_if liberation is the endgame of \"fifty shades freed,\" most of the time we feel trapped right alongside the characters, immobilized by the pointless, suffocating beauty and the stultifying dramatic inertia of the world james has created for them.",
+                0.7400790916017189
+            ],
+            [
+                "17_there's plenty of artfully-lit airbrushed sex -- and unintended guffaws -- for those with a taste for midnight-movie-style chewy badness.",
+                0.7515105046430542
+            ],
+            [
+                "28_\"fifty shades freed\" suffers from a lack of rhythm, moving from plot point to plot point with as much spontaneity as meal-planning for one's luxury penthouse household with one's housekeeper.",
+                -0.6593239265667232
+            ],
+            [
+                "30_ similar queries might be leveled at the film as it stands.",
+                0.5720691406334582
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Foley": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Niall Leonard": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "film": {
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Tian Yu Zhao": {
+                "args": []
+            },
+            "Peter Pau": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Zhen Qin": {
+                "args": []
+            },
+            "Huan Huan Zhang": {
+                "args": []
+            },
+            "Tian Yu Zhao": {
+                "args": []
+            },
+            "Khan Chan": {
+                "args": []
+            },
+            "Lei Jin": {
+                "args": []
+            },
+            "Shi Qi Shen": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jike Junyi": {
+                "args": []
+            },
+            "Wenbo Luo": {
+                "args": []
+            },
+            "Winston Chao": {
+                "args": []
+            },
+            "Zishan Yang": {
+                "args": []
+            },
+            "Summer Jike": {
+                "args": []
+            },
+            "Bingbing Li": {
+                "args": []
+            },
+            "Bei-Er Bao": {
+                "args": []
+            },
+            "Kun Chen": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "acting": {
+        "entities": {
+            "Jim Pharr": {
+                "args": []
+            },
+            "Helena Bonham Carter": {
+                "args": []
+            },
+            "Gérard Depardieu": {
+                "args": []
+            },
+            "Logan Lerman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Richard Lanni": {
+                "args": []
+            },
+            "Mike Stokey": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_[t]he film is sufficiently intelligent and entertaining to engage most grown-ups and, no kidding, fascinate history buffs.",
+                0.7177250242510014
+            ],
+            [
+                "4_stubby: an american hero\" is a cute and scruffy movie.",
+                0.6223867441100784
+            ],
+            [
+                "7_stubby should work well for very young viewers whose imaginations will fill in the gaps.",
+                0.6882651751339739
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Richard Lanni": {
+                "args": [
+                    [
+                        "6_the director, richard lanni, whose biography also cites work as a battlefield tour guide, manages a fair amount of wit, particularly with a postcard montage of stubby's first trip to paris.",
+                        0.7907734443387762
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

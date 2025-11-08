@@ -1,0 +1,328 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the suffocating level of redundancy on display kneecaps any legitimate chance the film had at embracing social satire.",
+                0.5837754504695666
+            ],
+            [
+                "1_the interview is marked by a true naiveté about international perception and what can be gotten away with in the name of \"all in good fun.\"",
+                0.7684981960817592
+            ],
+            [
+                "2_what's wrong with the interview is that it doesn't know how to be the singeing comedy it wants.",
+                -0.8018220780368731
+            ],
+            [
+                "6_ it is a truly savage work.",
+                0.5707920615989309
+            ],
+            [
+                "9_there's a whip-smart, pointed comedy in \"the interview.\"",
+                0.7232482552984983
+            ],
+            [
+                "11_the film is not a dangerous weapon, or a tool for anti-korean propaganda.",
+                -0.5029765827711628
+            ],
+            [
+                "13_much of the film is devoted to the hit-and-miss (",
+                -0.6893158544376583
+            ],
+            [
+                "17_the remarkably dismal quality is emblematic of the mind-set that brought the movie, and its attendant crises, into being.",
+                0.72102943010906
+            ],
+            [
+                "18_\"the interview\" struggles to really illuminate anything about the stranger-than-fiction orwellian nightmare that is north korea, ",
+                0.5154541869412299
+            ],
+            [
+                "20_ this film ain't half the satire it could have been.",
+                -0.7460864714729353
+            ],
+            [
+                "22_maybe you will love the interview - if you can ever see the movie - as much as some people hate or fear it.",
+                0.7707358814032974
+            ],
+            [
+                "26_while the interview never slacks in its mission to tell jokes, it's such a messy and meandering movie that it never quite lands as a satire of politics or the media or anything else.",
+                -0.5973173993919128
+            ],
+            [
+                "27_the interview has the comic batting average of a mediocre-to-average saturday night live sketch ...",
+                -0.6446558542999619
+            ],
+            [
+                "29_the interview fails to live up to the hype, floundering as a rowdy comedy as it grows duller by the minute.",
+                -0.5627393841435663
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Seth Rogen": {
+                "args": [
+                    [
+                        "3_te best satire provokes and even outrages, and rogen, franco and goldberg certainly succeed on that score.",
+                        0.8524894724253693
+                    ],
+                    [
+                        "5_ rogen's instinct to try anything for giggles and sticking it to dictatorial assholes is worth fighting for.",
+                        -0.5331828767205847
+                    ],
+                    [
+                        "23_in their third film together, franco and rogen have a terrific banter and an underlay of affection.",
+                        0.7942541786287947
+                    ],
+                    [
+                        "24_like their affable, ignorant characters, rogen and franco seem in way over their heads with \"the interview.\"",
+                        0.6459623624824269
+                    ],
+                    [
+                        "25_the interview confirms rogen as the most ambitious mainstream comedian in hollywood.",
+                        0.7192939975952616
+                    ]
+                ]
+            },
+            "Evan Goldberg": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Don Chow": {
+                "args": []
+            },
+            "Timothy C. Simons": {
+                "args": []
+            },
+            "Steve Chang": {
+                "args": []
+            },
+            "Alan Blumenfeld": {
+                "args": []
+            },
+            "Daeyoung Danny Kim": {
+                "args": []
+            },
+            "William \"Bigsleeps\" Stewart": {
+                "args": []
+            },
+            "Andrew Chin": {
+                "args": []
+            },
+            "Charles Chun": {
+                "args": []
+            },
+            "Stacey Turner": {
+                "args": []
+            },
+            "Tommy Chang": {
+                "args": []
+            },
+            "Daniel Juhn": {
+                "args": []
+            },
+            "Scott Seol": {
+                "args": []
+            },
+            "Nick Kaiser": {
+                "args": []
+            },
+            "Seth Rogen": {
+                "args": [
+                    [
+                        "5_ rogen's instinct to try anything for giggles and sticking it to dictatorial assholes is worth fighting for.",
+                        -0.5331828767205847
+                    ],
+                    [
+                        "25_the interview confirms rogen as the most ambitious mainstream comedian in hollywood.",
+                        0.7192939975952616
+                    ]
+                ]
+            },
+            "Lizzy Caplan": {
+                "args": []
+            },
+            "Justin Cho": {
+                "args": []
+            },
+            "James Franco": {
+                "args": [
+                    [
+                        "3_te best satire provokes and even outrages, and rogen, franco and goldberg certainly succeed on that score.",
+                        0.8524894724253693
+                    ],
+                    [
+                        "23_in their third film together, franco and rogen have a terrific banter and an underlay of affection.",
+                        0.7942541786287947
+                    ],
+                    [
+                        "24_like their affable, ignorant characters, rogen and franco seem in way over their heads with \"the interview.\"",
+                        0.6459623624824269
+                    ]
+                ]
+            },
+            "Adrian deLotz": {
+                "args": []
+            },
+            "Jason Cox": {
+                "args": []
+            },
+            "Hong-Gill Cha": {
+                "args": []
+            },
+            "Willem Jacobson": {
+                "args": []
+            },
+            "Mercy Malick": {
+                "args": []
+            },
+            "David Diaan": {
+                "args": []
+            },
+            "Yoosik Oum": {
+                "args": []
+            },
+            "Danyella Angel": {
+                "args": []
+            },
+            "Crystal Lee": {
+                "args": []
+            },
+            "Joseph Gordon-Levitt": {
+                "args": []
+            },
+            "Jung Jin Park": {
+                "args": []
+            },
+            "Reese Alexander": {
+                "args": []
+            },
+            "Harrison Lee": {
+                "args": []
+            },
+            "Peter Neilly": {
+                "args": []
+            },
+            "Diana Bang": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "Isaac Shr": {
+                "args": []
+            },
+            "James Yi": {
+                "args": []
+            },
+            "David Kim": {
+                "args": [
+                    [
+                        "5_screw kim if he can't take a joke.",
+                        -0.7211048344773099
+                    ],
+                    [
+                        "15_characterizing it as satire elevates the creative execution of the film's very silly faux assassination of north korea's leader kim jong un far beyond what it merits.",
+                        0.6760120975509032
+                    ]
+                ]
+            },
+            "Paola Botero": {
+                "args": []
+            },
+            "Paniz Zade": {
+                "args": []
+            },
+            "Alice Wetterlund": {
+                "args": []
+            },
+            "Anders Holm": {
+                "args": []
+            },
+            "Anesha Bailey": {
+                "args": []
+            },
+            "Daniel Park": {
+                "args": []
+            },
+            "Danny Shea": {
+                "args": []
+            },
+            "John Coughlin": {
+                "args": []
+            },
+            "Geoff Gustafson": {
+                "args": []
+            },
+            "Dan Sterling": {
+                "args": []
+            },
+            "Charles Rahi Chun": {
+                "args": []
+            },
+            "Paul Herbert": {
+                "args": []
+            },
+            "David Ko": {
+                "args": []
+            },
+            "Don Lew": {
+                "args": []
+            },
+            "Sean Cho": {
+                "args": []
+            },
+            "Daniel Lim": {
+                "args": []
+            },
+            "Dominique Lalonde": {
+                "args": []
+            },
+            "Fred Henderson": {
+                "args": []
+            },
+            "Thomas Cadrot": {
+                "args": []
+            },
+            "Yun-a Song": {
+                "args": []
+            },
+            "Jack Jekeon Cha": {
+                "args": []
+            },
+            "Justin Lee (II)": {
+                "args": []
+            },
+            "Paul Bae": {
+                "args": []
+            },
+            "Won Hee Lee": {
+                "args": []
+            },
+            "Ben Schwartz": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Seth Rogen": {
+                "args": []
+            },
+            "Evan Goldberg": {
+                "args": []
+            }
+        }
+    }
+}

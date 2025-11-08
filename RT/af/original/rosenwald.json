@@ -1,0 +1,104 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"rosenwald\" offers a compelling story of a man who obviously believed that giving is living.",
+                0.7865237735390738
+            ],
+            [
+                "2_a splendid history lesson celebrating a humanitarian too modest to seek public celebrations of his work.",
+                0.5796044727663823
+            ],
+            [
+                "4_inspiring as the story of julius rosenwald is, there's little in the film that illuminates what kind of man this heroic philanthropist was.",
+                0.6502464541180067
+            ],
+            [
+                "7_more than awe, the film provokes gratitude for what this man did.",
+                -0.5361598288565714
+            ],
+            [
+                "11_\"rosenwald\" isn't just a portrait of a great, selfless american and his powerful company, ",
+                0.7436556180438445
+            ],
+            [
+                "12_revelatory biography of rosenwald, whose beneficence made him an influence on much of 20th century american life.",
+                0.7468650064954597
+            ],
+            [
+                "13_rosenwald tells the remarkable story of a remarkable man.",
+                0.7877303160611555
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Aviva Kempner": {
+                "args": [
+                    [
+                        "3_the film is right in line with kempner's other works...",
+                        0.7674883864909419
+                    ],
+                    [
+                        "9_like her subject, kempner's film doesn't try to be flashy or stylish.",
+                        -0.627013775945901
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "George C. Wolfe": {
+                "args": []
+            },
+            "John Lewis": {
+                "args": []
+            },
+            "Eugene Robinson (II)": {
+                "args": []
+            },
+            "Maya Angelou": {
+                "args": []
+            },
+            "Ben Jealous": {
+                "args": []
+            },
+            "Stephanie Deutsch": {
+                "args": []
+            },
+            "Richard J. Powell": {
+                "args": []
+            },
+            "Clarence Page": {
+                "args": []
+            },
+            "David Saperstein": {
+                "args": []
+            },
+            "Peter Ascoli": {
+                "args": []
+            },
+            "Julian Bond": {
+                "args": []
+            },
+            "Cokie Roberts": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Aviva Kempner": {
+                "args": []
+            }
+        }
+    }
+}

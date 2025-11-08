@@ -1,0 +1,155 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_i'll admit the film held my attention",
+                0.5843974666364129
+            ],
+            [
+                "4_if you can give yourself over to the idea of unfriended,you'll find it's surprisingly engrossing and really quite clever.",
+                0.823599293672506
+            ],
+            [
+                "5_ \"unfriended\" comes across as disdainful of millennials.",
+                -0.60493341105871
+            ],
+            [
+                "6_it's not the b-movie gore death scenes that make unfriended squirm-inducing, it's how it taps in and holds on tight to how annoying the internet and computers can be, especially when they're being tinkered with.",
+                -0.8604612039674808
+            ],
+            [
+                "7_ unfriended begins to cheat, springing loud noises and gory cutaways that can't be explained, there's a rigor to its dopey, blood-simple conception that you might smile at.",
+                0.515127696735354
+            ],
+            [
+                "8_superficially, this is a horror movie, ",
+                -0.5054356871512979
+            ],
+            [
+                "13_at times, \"unfriended\" really clicks - ",
+                -0.5559296697725489
+            ],
+            [
+                "14_ the movie is speaking the right language.",
+                0.6198923336955637
+            ],
+            [
+                "16_unfriended at least has an original premise and an interesting, claustrophobic physical setting.",
+                0.6350073182971708
+            ],
+            [
+                "17_the best thing about \"unfriended,\" beyond its funny-nasty title, is that it doesn't play as remotely dull as it sounds even if most of the drama takes place inside shifting, overlapping windows.",
+                -0.623351520210386
+            ],
+            [
+                "18_they may even absorb the film's underlying message ...",
+                0.6119428580266775
+            ],
+            [
+                "19_give this movie credit for trying something new - and flat-out committing to it.",
+                -0.5574386807300054
+            ],
+            [
+                "20_a movie to be seen, if you can endure it-as a shrewd commercial venture, as an online opus that undoes your self-composure and, last and foremost, as a window on a mode of thinking that equates to a state of being.",
+                0.7546706832331581
+            ],
+            [
+                "24_it's a mean, potent little movie.",
+                0.5719877620827489
+            ],
+            [
+                "26_it's interesting to wonder how the film will age, given the short shelf life of technology.",
+                0.7309339306240991
+            ],
+            [
+                "28_ \"unfriended\" starts shrill and only gets louder as it goes along.",
+                -0.777180657840389
+            ],
+            [
+                "30_\"unfriended\" starts wearing out its welcome about 10 minutes before the end.",
+                -0.5559771615975028
+            ],
+            [
+                "31_unfriended is the one movie from 2015 you'll always be able to look back at and feel something of what life was like back when, even if you're not a cyberbullying white teen.",
+                0.7296074955820175
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Levan Gabriadze": {
+                "args": [
+                    [
+                        "5_perhaps director gabriadze and writer nelson greaves intended to create a social media \"scream\" and a commentary on cyber-bullying, ",
+                        0.5374341329215
+                    ],
+                    [
+                        "28_ directed with technical finesse by newcomer levan gabriadze,",
+                        0.6052267498461537
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Nelson Greaves": {
+                "args": [
+                    [
+                        "5_perhaps director gabriadze and writer nelson greaves intended to create a social media \"scream\" and a commentary on cyber-bullying, ",
+                        0.5374341329215
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "21_the inevitable meltdowns feel unearned because of predictable, yet unmotivated, character turns.",
+                -0.6812198334399779
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Moses Jacob Storm": {
+                "args": []
+            },
+            "Cal Barnes": {
+                "args": []
+            },
+            "Courtney Halverson": {
+                "args": []
+            },
+            "Christa Hartsock": {
+                "args": []
+            },
+            "Shelley Hennig": {
+                "args": []
+            },
+            "Jacob Wysocki": {
+                "args": []
+            },
+            "Mickey River": {
+                "args": []
+            },
+            "Heather Sossaman": {
+                "args": []
+            },
+            "William Peltz": {
+                "args": []
+            },
+            "Renee Olstead": {
+                "args": []
+            },
+            "Matthew Bohrer": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

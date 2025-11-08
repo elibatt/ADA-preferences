@@ -1,0 +1,199 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_paul describes a song he likes as existing \"between euphoria and melancholia,\" which is the balance the movie he's in strikes as well, as interested in joy as it is in loss.",
+                0.8823973348290652
+            ],
+            [
+                "1_while hansen-love hits the major chords in paul's life effectively and creates a sense of time expanding before collapsing into memory, the truth is \"eden\" is often tiring to sit through.",
+                0.8044220521389058
+            ],
+            [
+                "2_eden is the kind of movie that hits you when you least expect it.",
+                0.6638487238889401
+            ],
+            [
+                "3_the movie runs a very long two hours and 11 minutes, and the excess is easily felt.",
+                -0.7218996702493267
+            ],
+            [
+                "5_eden finds paradise where it counts: right between the ears.",
+                0.6949612644439122
+            ],
+            [
+                "7_\"eden\" serves as a time capsule, giving us some sense of what it feels like to be in the midst of a musical high.",
+                0.5538880502218859
+            ],
+            [
+                "8_this film easily could have been 30 minutes shorter.",
+                -0.6062771711660866
+            ],
+            [
+                "9_i think the triumph of the film itself is its centrifugal force, its dispersed palette, its constant movement away from a center - the reverse direction of those records on paul's technics turntable.",
+                0.736830457375119
+            ],
+            [
+                "10_eden offers a wise assessment of the interplay between fantasy and reality on the path to adulthood.",
+                0.7614084565664425
+            ],
+            [
+                "10_the seductive rhythms are a perfect match for a movie that analyzes the unstoppable flow of life.",
+                0.8921739354142515
+            ],
+            [
+                "11_at one point, paul describes his music as \"somewhere between euphoria and melancholy,\" which is also an apt description of eden itself.",
+                0.6184303388376788
+            ],
+            [
+                "12_ when you are lost in it, the movie implies, the rest of life -- and even time itself -- can pass you by.",
+                -0.5130264030321144
+            ],
+            [
+                "14_yet the movie's refusal to foster regret, or have paul repudiate his passion, is telling.",
+                0.6555657919838274
+            ],
+            [
+                "16_the years in this movie don't really amount to much.",
+                -0.7339690579408732
+            ],
+            [
+                "17_a subtle portrait of an edm adam, eden is neither a star-is-born fable nor a soul-is-lost parable.",
+                -0.6535824816750891
+            ],
+            [
+                "20_the camerawork is so fluid and the settings so brimming with detail that one feels washed away by the film, recognizing the hero's decline only when he does-that is, too late.",
+                0.5055359629910346
+            ],
+            [
+                "23_a viewer is always aware that they are being shown a place and an era, which helps explain how eden manages the tricky business of being a movie that is overtly about lost time, ",
+                0.792606844905501
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mia Hansen-Løve": {
+                "args": [
+                    [
+                        "3_perhaps what hansen-løve lacks is perspective.",
+                        0.5266376430746482
+                    ],
+                    [
+                        "18_even if you know nothing about techno, let alone garage, hansen-løve's exploration of the ways music can nourish you or swallow you whole is instantly, perhaps painfully, recognizable.",
+                        0.5365366201688058
+                    ],
+                    [
+                        "21_eden is indeed as low-key as anything hansen-løve has done, ",
+                        0.6665353038582549
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "15_hansen-love is an assured and naturally empathetic director who specializes in making us care more about her characters than seems likely at the outset.",
+                0.775547801368391
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sven Hansen-Løve": {
+                "args": [
+                    [
+                        "3_perhaps what hansen-løve lacks is perspective.",
+                        0.5266376430746482
+                    ],
+                    [
+                        "18_even if you know nothing about techno, let alone garage, hansen-løve's exploration of the ways music can nourish you or swallow you whole is instantly, perhaps painfully, recognizable.",
+                        0.5365366201688058
+                    ],
+                    [
+                        "21_eden is indeed as low-key as anything hansen-løve has done, ",
+                        0.6665353038582549
+                    ]
+                ]
+            },
+            "Mia Hansen-Løve": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Arsinée Khanjian": {
+                "args": []
+            },
+            "Ugo Bienvenu": {
+                "args": []
+            },
+            "Brady Corbet": {
+                "args": []
+            },
+            "Léa Rougeron": {
+                "args": []
+            },
+            "Olivia Ross": {
+                "args": []
+            },
+            "Sébastien Chassagne": {
+                "args": []
+            },
+            "Sigrid Bouaziz": {
+                "args": []
+            },
+            "Zita Hanrot": {
+                "args": []
+            },
+            "Hugo Conzelmann": {
+                "args": []
+            },
+            "Laurent Cazanave": {
+                "args": []
+            },
+            "Vincent Macaigne": {
+                "args": []
+            },
+            "Pierre-François Garel": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": []
+            },
+            "Golshifteh Farahani": {
+                "args": []
+            },
+            "Vincent Lacoste": {
+                "args": []
+            },
+            "Pauline Etienne": {
+                "args": []
+            },
+            "Laura Smet": {
+                "args": []
+            },
+            "Félix de Givry": {
+                "args": []
+            },
+            "Arnaud Azoulay": {
+                "args": []
+            },
+            "Paul Spera": {
+                "args": []
+            },
+            "Roman Kolinka": {
+                "args": []
+            },
+            "Claire Tran": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

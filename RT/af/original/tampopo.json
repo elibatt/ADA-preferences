@@ -1,0 +1,116 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_there are many love stories folded into this film's enjoyably meandering two hours, ",
+                0.5727587865077288
+            ],
+            [
+                "1_ \"tampopo\" is above all about the romance of food, and the joyous, agonizing devotion and hard work required to tease out its manifold mysteries.",
+                0.6422739511625528
+            ],
+            [
+                "4_itami's humor and invention is such that we never have a chance to feel deprived.",
+                0.5764624481926364
+            ],
+            [
+                "5_tampopo is, among many other things, the first \"spaghetti eastern\" and one of its particular charms is that it celebrates as much as satirizes.",
+                0.706548501434968
+            ],
+            [
+                "5_no movie gourmet with exotic tastes should miss it.",
+                0.5572636664066016
+            ],
+            [
+                "7_the movie makes you laugh, gets you hungry, stirs things up.",
+                0.5019193830377203
+            ],
+            [
+                "10_tampopo is buoyantly free in form.",
+                0.6324582081966643
+            ],
+            [
+                "12_tampopo is one of those utterly original movies that seems to exist in no known category.",
+                0.5335441741834921
+            ],
+            [
+                "13_it's half movie, half dessert-topping -- a film gourmand's lusty dream.",
+                0.5807925113436238
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Juzo Itami": {
+                "args": [
+                    [
+                        "3_ not with the erotic gusto of juzo itami's tampopo and rarely with the comic lustiness of this broad-scale satire.",
+                        0.6080410451295598
+                    ],
+                    [
+                        "9_ the ragged, free-wheeling structure tends to blunt itami's somewhat obvious thesis, that eating is more closely connected to sex than we would normally admit.",
+                        0.5644106565254832
+                    ],
+                    [
+                        "11_director itami has produced an engaging cinematic hybrid, brilliantly stir-frying japanese food -- and other -- obsessions into cowboy themes.",
+                        0.7597129153131543
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kinzo Sakura": {
+                "args": []
+            },
+            "Masahiko Tsugawa": {
+                "args": []
+            },
+            "Ken Watanabe": {
+                "args": []
+            },
+            "Rikiya Yasuoka": {
+                "args": []
+            },
+            "Akira Kubo": {
+                "args": []
+            },
+            "Nobuko Miyamoto": {
+                "args": []
+            },
+            "Shuji Otaki": {
+                "args": []
+            },
+            "Kinzoh Sakura": {
+                "args": []
+            },
+            "Tsutomu Yamazaki": {
+                "args": []
+            },
+            "Shuji Otake": {
+                "args": []
+            },
+            "Koji Yakusho": {
+                "args": []
+            },
+            "Choei Takahashi": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Juzo Itami": {
+                "args": []
+            }
+        }
+    }
+}

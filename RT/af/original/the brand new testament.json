@@ -1,0 +1,111 @@
+{
+    "acting": {
+        "entities": {
+            "Pili Groyne": {
+                "args": [
+                    [
+                        "12_testament is full of bad jokes (like a man repeatedly throwing himself from great heights to prove he won't die) and, in spite of groyne's grave, determined presence as ea, is borderline offensive.",
+                        -0.7719446964015568
+                    ]
+                ]
+            },
+            "Sandrine Laroche": {
+                "args": []
+            },
+            "Lola Pauwels": {
+                "args": []
+            },
+            "Catherine Deneuve": {
+                "args": []
+            },
+            "Dominique Abel": {
+                "args": []
+            },
+            "Romaine Gelin": {
+                "args": []
+            },
+            "Yolande Moreau": {
+                "args": []
+            },
+            "Benoît Poelvoorde": {
+                "args": []
+            },
+            "Romain Gélin": {
+                "args": []
+            },
+            "Serge Larivière": {
+                "args": []
+            },
+            "Johan Leysen": {
+                "args": []
+            },
+            "Didier De Neck": {
+                "args": []
+            },
+            "Gaspard Pauwels": {
+                "args": []
+            },
+            "François Damiens": {
+                "args": []
+            },
+            "Bilal Aya": {
+                "args": []
+            },
+            "Laura Verlinden": {
+                "args": []
+            },
+            "Anna Tenta": {
+                "args": []
+            },
+            "David Murgia": {
+                "args": []
+            },
+            "Marco Lorenzini": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jaco Van Dormael": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_a clever exercise in gently heretical whimsy from belgian writer-director jaco van dormael.",
+                0.6025266487180658
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "8_starting with a premise that a smart-aleck high school sophomore might take pride in, the film rallies late to make some points about patriarchy and female empowerment, ",
+                0.639455401539588
+            ],
+            [
+                "13_a film with a big heart and an even bigger imagination.",
+                0.7429867889114219
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jaco Van Dormael": {
+                "args": [
+                    [
+                        "11_a clever exercise in gently heretical whimsy from belgian writer-director jaco van dormael.",
+                        0.6025266487180658
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

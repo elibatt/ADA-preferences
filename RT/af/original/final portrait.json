@@ -1,0 +1,138 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's always interesting to ask artists how they know their work is finished.",
+                0.7743901054123662
+            ],
+            [
+                "2_this movie is, literally, about watching paint dry - ",
+                -0.7252820171597654
+            ],
+            [
+                "5_ after a time the film leaves us starving for some variety, too.",
+                -0.5386558420405347
+            ],
+            [
+                "7_as a film, it's well-made and the performances are fine, ",
+                0.8404078418878678
+            ],
+            [
+                "7_ it feels slight and thin and inconsequential - quite the opposite of the work alberto giacometti left behind.",
+                -0.6730845580405465
+            ],
+            [
+                "8_\"final portrait\" is barely 90 minutes long, which is about right, and several of those minutes are wordless - patient and observant of the artist's surroundings, inquisitive regarding what giacometti is trying to will into being.",
+                -0.6236404582445948
+            ],
+            [
+                "9_this movie is a meticulous dossier of the artistic process by one man who created it and another man who lived through it.",
+                0.6399570056411863
+            ],
+            [
+                "10_\"final portrait\" is basically just an anecdote about a painting.",
+                -0.5025386902897027
+            ],
+            [
+                "13_the film's inexplicably grayish palette doesn't do the artist or the artwork any favors, and the action, which mostly takes place in giacometti's plaster sculpture-strewn studio, is stagey.",
+                -0.6313433583629108
+            ],
+            [
+                "16_\"final portrait\" (adapted from lord's 1965 book, \"a giacometti portrait\") is pretty thin on drama.",
+                0.589209268870709
+            ],
+            [
+                "19_the film captures the outside appearances of an artist at work and then suggests, humbly, that the work inside, the trick of genius, might be so subtle that even the artist can't detect it.",
+                0.6819222403283299
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stanley Tucci": {
+                "args": [
+                    [
+                        "0_whatever else goes on this \"final portrait,\" tucci captures that struggle perfectly.",
+                        0.5323066151487145
+                    ],
+                    [
+                        "1_working from his own screenplay, stanley tucci (best known as an actor) delivers a character study that's low on character development.",
+                        0.8129835869060289
+                    ],
+                    [
+                        "2_ tucci and the cast find a world of detail and nuance.",
+                        0.719834536818877
+                    ],
+                    [
+                        "4_ tucci manages to make his rumination on the life of an artist slyly amusing and believable.",
+                        0.8038700023581865
+                    ],
+                    [
+                        "17_stanley tucci's look at the legendary artist alberto giacometti (a live-wire geoffrey rush) is a mesmerizing meditation on the mystery of genius and anything ",
+                        0.8570941898706363
+                    ],
+                    [
+                        "22_,\" stanley tucci, directing his first film in 10 years, takes the biopic to an even more exquisitely homespun level of miniature close-up.",
+                        -0.5361728750309473
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_ tucci and the cast find a world of detail and nuance.",
+                0.719834536818877
+            ]
+        ],
+        "entities": {
+            "Tony Shalhoub": {
+                "args": []
+            },
+            "Geoffrey Rush": {
+                "args": [
+                    [
+                        "17_stanley tucci's look at the legendary artist alberto giacometti (a live-wire geoffrey rush) is a mesmerizing meditation on the mystery of genius and anything ",
+                        0.8570941898706363
+                    ],
+                    [
+                        "21_ the film remains agreeable thanks largely to rush's flavorful performance.",
+                        0.6005711214417974
+                    ]
+                ]
+            },
+            "Clémence Poésy": {
+                "args": []
+            },
+            "Armie Hammer": {
+                "args": []
+            },
+            "Sylvie Testud": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_working from his own screenplay, stanley tucci (best known as an actor) delivers a character study that's low on character development.",
+                0.8129835869060289
+            ],
+            [
+                "6_tucci successfully banishes...cliches in a finely observed character study that possesses the ring of careworn, unprettified truth.",
+                0.6767712793504508
+            ]
+        ],
+        "entities": {
+            "Stanley Tucci": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "writer": {
+        "entities": {
+            "Bernardo Bertolucci": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Massimo Sarchielli": {
+                "args": []
+            },
+            "Franco Pellerani": {
+                "args": []
+            },
+            "Claudio Cappelli": {
+                "args": []
+            },
+            "Pasquale Fortunato": {
+                "args": []
+            },
+            "Gastone Moschin": {
+                "args": []
+            },
+            "Luigi Antonio Guerra": {
+                "args": []
+            },
+            "Antonio Maestri": {
+                "args": []
+            },
+            "Marilyn Goldin": {
+                "args": []
+            },
+            "Yvonne Sanson": {
+                "args": []
+            },
+            "Gio Vagni Luca": {
+                "args": []
+            },
+            "Carlo Gaddi": {
+                "args": []
+            },
+            "Jean-Louis Trintignant": {
+                "args": []
+            },
+            "Fosco Giachetti": {
+                "args": []
+            },
+            "Dominique Sanda": {
+                "args": []
+            },
+            "Christian Alegny": {
+                "args": []
+            },
+            "Umberto Silvestri": {
+                "args": []
+            },
+            "Luciano Rossi": {
+                "args": []
+            },
+            "Milly": {
+                "args": []
+            },
+            "Pierangelo Givera": {
+                "args": []
+            },
+            "Alessandro Haber": {
+                "args": []
+            },
+            "Enzo Tarascio": {
+                "args": []
+            },
+            "Giuseppe Addobbati": {
+                "args": []
+            },
+            "José Quaglio": {
+                "args": []
+            },
+            "Stefania Sandrelli": {
+                "args": []
+            },
+            "Marta Lado": {
+                "args": []
+            },
+            "Pierre Clémenti": {
+                "args": []
+            },
+            "Christian Bélègue": {
+                "args": []
+            },
+            "Orso Maria Guerrini": {
+                "args": []
+            },
+            "Benedetto Benedetti": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_bertolucci's boldest and most expressive film ...",
+                0.7329192740486996
+            ],
+            [
+                "2_the conformist is celebrated for cinematographer vittorio storaro's tumbling autumn leaves, ",
+                -0.5393842401543222
+            ],
+            [
+                "4_the movie is pure magic as story, as drama, as photography, as conviction, as everything except its ideas.",
+                0.5962558189993571
+            ],
+            [
+                "7_a great film, drunkenly beautiful and deeply disturbing.",
+                0.8336404380645286
+            ],
+            [
+                "10_there are excesses in the film, ",
+                -0.5395520286185707
+            ],
+            [
+                "13_more like a symphonic poem than a movie.",
+                -0.5845774868345804
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bernardo Bertolucci": {
+                "args": [
+                    [
+                        "0_the unsettling blend of images and ideas in this movie cannot satisfactorily be disentangled or decoded, and it's the very strangeness of bertolucci's masterpiece that has made it so influential in cinema history.",
+                        0.7412555071391207
+                    ],
+                    [
+                        "5_juggling past and present with the same bravura flourish as welles in citizen kane, bertolucci conjures a dazzling historical and personal perspective.",
+                        0.7695491253903676
+                    ],
+                    [
+                        "8_as striking as bertolucci's classic looks, there's even more powerful stuff in the storytelling.",
+                        0.7555997484143822
+                    ],
+                    [
+                        "12_storaro and bertolucci have fashioned a visual masterpiece in the conformist, with some of the best use of light and shadow ever in a motion picture.",
+                        0.8961470097462414
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

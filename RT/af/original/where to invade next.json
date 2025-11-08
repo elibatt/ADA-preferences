@@ -1,0 +1,216 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "8_\"where to invade next\" is documentary filmmaking gone wrong, a churlish polemic that uses the tools of propaganda to construct its world view.",
+                -0.5041090708680961
+            ],
+            [
+                "10_\"where to invade next\" isn't only a love letter to european successes",
+                -0.7025642082579777
+            ],
+            [
+                "14_the film is entertaining and disingenuous, which doesn't make it wrong.",
+                0.530756679531408
+            ],
+            [
+                "15_who knows if the ideas and solutions of other countries could even work here?",
+                0.506113714328514
+            ],
+            [
+                "18_\"where to invade next\" is blithely entertaining ",
+                0.5561368244275321
+            ],
+            [
+                "26_ i found the film intellectually facile and politically delusional.",
+                -0.503832677425273
+            ],
+            [
+                "29_ the movie definitely has merit as a consciousness-raising exercise.",
+                0.516610046510511
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": [
+                    [
+                        "0_the most salient point moore makes in \"where to invade next\" is that so many of the ideas explored in the doc are american, historically speaking.",
+                        -0.5114845486160606
+                    ],
+                    [
+                        "1_this is sociology for dummies - and even they might find moore's points overly laboured.",
+                        -0.6042597664631013
+                    ],
+                    [
+                        "2_for anyone who's never seen a michael moore film and wants the entire experience at once -- it's all here.",
+                        0.5000810671974041
+                    ],
+                    [
+                        "3_[moore has] made his most enjoyable film in years and also his most inspiring, the antidote to prevailing global doom and gloom.",
+                        0.7679179342127371
+                    ],
+                    [
+                        "6_it's classic michael moore.",
+                        0.6793104803901173
+                    ],
+                    [
+                        "9_it's a more impishly entertaining moore than usual, using comedy and even a bit of fantasy to prove his point.",
+                        0.7081340806038164
+                    ],
+                    [
+                        "11_an upbeat, happy film free of moore's usual sarcasm and his tendency to upstage the material with his ego ...",
+                        0.7433415749480553
+                    ],
+                    [
+                        "13_along the way, moore circles back to a fascinating insight: a lot of these progressive ideas originated in america.",
+                        0.6639254973175788
+                    ],
+                    [
+                        "16_as with any michael moore movie, attention must be paid.",
+                        0.5761958089294089
+                    ],
+                    [
+                        "17_as is too often the case with his work, \"where to invade next\" isn't really about america -- it's about moore's version of america, which means putting moore front and center.",
+                        -0.7173498939995646
+                    ],
+                    [
+                        "20_in the more than 25 years since the bracing brashness of roger & me, why are moore's documentary-making skills and aesthetic interests stuck with such an exasperating case of arrested development?",
+                        0.5094573251451633
+                    ],
+                    [
+                        "25_i've never seen moore focus on women's rights before, and i'm curious to see where this discovery leads him.",
+                        -0.5076965350951812
+                    ],
+                    [
+                        "26_if you're in a self-loathing mood, you might find yourself nodding along with moore, a host and narrator who benefits from a jaunty tone and briskly paced editing.",
+                        0.7763449686058106
+                    ],
+                    [
+                        "27_what the eager-to-amuse moore is providing here is political entertainment with a pop-culture edge, a genre he pioneered.",
+                        0.7507447312995134
+                    ],
+                    [
+                        "29_as a rhetorical argument, or even a political blueprint, this falls apart almost as quickly as moore can present it.",
+                        -0.6070507715357355
+                    ],
+                    [
+                        "30_in where to invade next, moore has stopped being cynical.",
+                        -0.7453589891607764
+                    ],
+                    [
+                        "31_a feature-length infomercial for socialism with moore the more playfully funny mode of his classic \"bowling for columbine'' and \"roger & me.''",
+                        0.7467255418905901
+                    ],
+                    [
+                        "32_funny and always on-topic without going overboard, it's an engaging film that could broaden moore's fan base.",
+                        0.7418962060090429
+                    ],
+                    [
+                        "33_michael moore goes on a global tour with this impishly entertaining polemic.",
+                        0.6484451883424459
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Moore": {
+                "args": [
+                    [
+                        "0_the most salient point moore makes in \"where to invade next\" is that so many of the ideas explored in the doc are american, historically speaking.",
+                        -0.5114845486160606
+                    ],
+                    [
+                        "1_this is sociology for dummies - and even they might find moore's points overly laboured.",
+                        -0.6042597664631013
+                    ],
+                    [
+                        "2_for anyone who's never seen a michael moore film and wants the entire experience at once -- it's all here.",
+                        0.5000810671974041
+                    ],
+                    [
+                        "3_[moore has] made his most enjoyable film in years and also his most inspiring, the antidote to prevailing global doom and gloom.",
+                        0.7679179342127371
+                    ],
+                    [
+                        "6_it's classic michael moore.",
+                        0.6793104803901173
+                    ],
+                    [
+                        "9_it's a more impishly entertaining moore than usual, using comedy and even a bit of fantasy to prove his point.",
+                        0.7081340806038164
+                    ],
+                    [
+                        "11_an upbeat, happy film free of moore's usual sarcasm and his tendency to upstage the material with his ego ...",
+                        0.7433415749480553
+                    ],
+                    [
+                        "13_along the way, moore circles back to a fascinating insight: a lot of these progressive ideas originated in america.",
+                        0.6639254973175788
+                    ],
+                    [
+                        "16_as with any michael moore movie, attention must be paid.",
+                        0.5761958089294089
+                    ],
+                    [
+                        "17_as is too often the case with his work, \"where to invade next\" isn't really about america -- it's about moore's version of america, which means putting moore front and center.",
+                        -0.7173498939995646
+                    ],
+                    [
+                        "20_in the more than 25 years since the bracing brashness of roger & me, why are moore's documentary-making skills and aesthetic interests stuck with such an exasperating case of arrested development?",
+                        0.5094573251451633
+                    ],
+                    [
+                        "25_i've never seen moore focus on women's rights before, and i'm curious to see where this discovery leads him.",
+                        -0.5076965350951812
+                    ],
+                    [
+                        "26_if you're in a self-loathing mood, you might find yourself nodding along with moore, a host and narrator who benefits from a jaunty tone and briskly paced editing.",
+                        0.7763449686058106
+                    ],
+                    [
+                        "27_what the eager-to-amuse moore is providing here is political entertainment with a pop-culture edge, a genre he pioneered.",
+                        0.7507447312995134
+                    ],
+                    [
+                        "29_as a rhetorical argument, or even a political blueprint, this falls apart almost as quickly as moore can present it.",
+                        -0.6070507715357355
+                    ],
+                    [
+                        "30_in where to invade next, moore has stopped being cynical.",
+                        -0.7453589891607764
+                    ],
+                    [
+                        "31_a feature-length infomercial for socialism with moore the more playfully funny mode of his classic \"bowling for columbine'' and \"roger & me.''",
+                        0.7467255418905901
+                    ],
+                    [
+                        "32_funny and always on-topic without going overboard, it's an engaging film that could broaden moore's fan base.",
+                        0.7418962060090429
+                    ],
+                    [
+                        "33_michael moore goes on a global tour with this impishly entertaining polemic.",
+                        0.6484451883424459
+                    ]
+                ]
+            }
+        }
+    }
+}

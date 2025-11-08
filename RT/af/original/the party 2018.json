@@ -1,0 +1,157 @@
+{
+    "writer": {
+        "entities": {
+            "Sally Potter": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_potter whips her splendid cast through a sophisticated dinner soiree, knocking down one worldly character after another with exposures of their personal failings.",
+                0.5703824334100824
+            ],
+            [
+                "7_like a soap bubble, writer-director sally potter's arch sendup of the english intelligentsia (plus the odd coked-up banker) is brief, diverting, and laden with impending doom from its very first moments.",
+                0.6470162657500729
+            ],
+            [
+                "8_potter's script is deft, breezing along quickly.",
+                0.6492153274060095
+            ],
+            [
+                "19_potter's screenplay keeps throwing new twists at her characters throughout the film, each more pointed and darkly comedic than the last.",
+                0.7551449232549121
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Cherry Jones": {
+                "args": []
+            },
+            "Timothy Spall": {
+                "args": []
+            },
+            "Bruno Ganz": {
+                "args": []
+            },
+            "Cillian Murphy": {
+                "args": []
+            },
+            "Patricia Clarkson": {
+                "args": [
+                    [
+                        "9_[patricia clarkson] has seldom been in a vehicle so witty and cerebral as sally potter's drawing-room comedy.",
+                        0.6259665562699123
+                    ],
+                    [
+                        "13_but you can't take your eyes off it as ace actors, led by a deliciously acerbic patricia clarkson,",
+                        0.5930941001497715
+                    ]
+                ]
+            },
+            "Emily Mortimer": {
+                "args": []
+            },
+            "Kristin Scott Thomas": {
+                "args": [
+                    [
+                        "0_there are moments, mostly in the latter half, when the ensemble works well together and thomas, especially, gets to shine as her world falls apart.",
+                        0.7643021377740143
+                    ],
+                    [
+                        "5_it's worth attending this party if only for scott thomas, who's never less than electric.",
+                        -0.6442375635870379
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "2_with a cast like this, \"the party\" should have been a delicious romp.",
+                0.535008165606945
+            ],
+            [
+                "4_potter whips her splendid cast through a sophisticated dinner soiree, knocking down one worldly character after another with exposures of their personal failings.",
+                0.5703824334100824
+            ],
+            [
+                "12_potter's cast never overstays its welcome, giving us plenty to think - and talk - about, and in a scant 71 minutes.",
+                0.5798478283276002
+            ],
+            [
+                "22_featuring a veteran cast in top form and running just 71 minutes, this post-brexit chamberpiece hits like a fast jab to the face--one that bruises and draws blood.",
+                0.6823455707889352
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_with a cast like this, \"the party\" should have been a delicious romp.",
+                0.535008165606945
+            ],
+            [
+                "5_somebody needs to put janet and her quivering energy at the center of a superhero movie",
+                -0.5725630583302708
+            ],
+            [
+                "6_the party is a brisk, black-and-white, worst-possible-case dinner party scenario overflowing with good actors and bad vibes.",
+                -0.5279396257452038
+            ],
+            [
+                "11_, the party generates a pressure cooker atmosphere.",
+                0.5475230329069207
+            ],
+            [
+                "13_potter's movie may be too small to leave a substantial legacy.",
+                0.5234732311029411
+            ],
+            [
+                "18_a 71-minute black-and-white movie that mostly comes off like a futile filmmaking exercise in how to move bodies inside a (largely) confined space.",
+                -0.546886986481111
+            ],
+            [
+                "19_potter's screenplay keeps throwing new twists at her characters throughout the film, each more pointed and darkly comedic than the last.",
+                0.7551449232549121
+            ],
+            [
+                "23_ if it feels like a film of a play, it's a play you really should see.",
+                0.553257531919546
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sally Potter": {
+                "args": [
+                    [
+                        "3_ potter delivers a darkly delicious comedy of manners.",
+                        0.8723769183824709
+                    ],
+                    [
+                        "7_like a soap bubble, writer-director sally potter's arch sendup of the english intelligentsia (plus the odd coked-up banker) is brief, diverting, and laden with impending doom from its very first moments.",
+                        0.6470162657500729
+                    ],
+                    [
+                        "9_[patricia clarkson] has seldom been in a vehicle so witty and cerebral as sally potter's drawing-room comedy.",
+                        0.6259665562699123
+                    ],
+                    [
+                        "20_[sally] potter isn't what you'd call subtle, ",
+                        0.5205985246232194
+                    ],
+                    [
+                        "24_over 71 crisp minutes of fast-paced verbal combat, potter tests the age-old theory that it's all fun and games until somebody gets knocked unconscious.",
+                        -0.5879286818769887
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

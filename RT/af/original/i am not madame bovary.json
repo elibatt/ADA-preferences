@@ -1,0 +1,45 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_ it's intended as a satire, director feng xiaogang's movie has a literary tone,",
+                0.6419431822148509
+            ]
+        ]
+    },
+    "director": {
+        "entities": {},
+        "args": [
+            [
+                "3_ it's intended as a satire, director feng xiaogang's movie has a literary tone,",
+                0.6419431822148509
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "4_the script by liu zhenyun becomes ponderous and redundant, kept on oxygen by its lead actress's complex performance as a child-woman with enigmatic wisdom.",
+                0.5678024603065014
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": [
+            [
+                "4_the script by liu zhenyun becomes ponderous and redundant, kept on oxygen by its lead actress's complex performance as a child-woman with enigmatic wisdom.",
+                0.5678024603065014
+            ],
+            [
+                "8_like the fighter she plays, fan bingbing holds her own against a big all-male cast who are all against her, and shows off her gifts as a comedienne in a surprisingly low-key role.",
+                0.8145924273824037
+            ]
+        ]
+    }
+}

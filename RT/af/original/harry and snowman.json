@@ -1,0 +1,97 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_it's also a succinct demonstration of the difference between a livelihood and a life's work.",
+                0.7193346071889136
+            ],
+            [
+                "4_davis' film is a disarming underdog story that doubles as an animal-rescue advocacy tool.",
+                0.674596399192833
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ron Davis": {
+                "args": [
+                    [
+                        "2_gallop, don't trot to ron davis' winning documentary \"harry & snowman,\" which recounts the inspiring story of an underdog show horse, his tenacious trainer and their rise to fame in the late 1950s.",
+                        0.6846424027055662
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ron Davis": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Cassie Deleyer": {
+                "args": []
+            },
+            "Marty deLeyer": {
+                "args": []
+            },
+            "Lolly Clarke": {
+                "args": []
+            },
+            "Marty deLyer": {
+                "args": []
+            },
+            "Andre deLeyer": {
+                "args": []
+            },
+            "Harry deLeyer": {
+                "args": [
+                    [
+                        "0_in the film, a student of mr. deleyer's recalls some of his advice: \"throw your heart over the top, and your horse will follow.\"",
+                        0.7823352148677108
+                    ]
+                ]
+            },
+            "Phebe Phillips Byrne": {
+                "args": []
+            },
+            "Jackie Bittner": {
+                "args": []
+            },
+            "Robert Zwang": {
+                "args": []
+            },
+            "Tom Haney": {
+                "args": []
+            },
+            "Andre deLyer": {
+                "args": []
+            },
+            "Harriet deLeyer": {
+                "args": []
+            },
+            "Peter Doubleday": {
+                "args": []
+            },
+            "Rodney Jenkins": {
+                "args": []
+            },
+            "George H. Morris": {
+                "args": []
+            },
+            "Richard Rugen": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

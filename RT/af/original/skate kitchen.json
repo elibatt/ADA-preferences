@@ -1,0 +1,134 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_less a movie than a visually striking meditation on being a girl these days.",
+                0.6407290707034733
+            ],
+            [
+                "1_\"skate kitchen\" conveys the simple, exhilarating thrill of daring to claim social space, and proceeding to occupy it, with defiance and ecstatic grace.",
+                0.8217279437767221
+            ],
+            [
+                "2_in skate kitchen, the kids come as they are, and they're wildly fascinating.",
+                0.6076845054222768
+            ],
+            [
+                "8_the entire movie hangs like a varial kickflip on the strength its star.",
+                0.5543261905801768
+            ],
+            [
+                "11_the movie really cooks when it's hanging out with the girls and watching them carve out a space for themselves in a city that's indifferent or hostile towards them.",
+                0.6468172217829513
+            ],
+            [
+                "13_\"skate kitchen\" is unfailingly compassionate to, and genuinely appreciative of, the people it chronicles.",
+                0.674912991611661
+            ],
+            [
+                "14_if you have a teenage girl in your life who's into skate culture, it just might be her new favorite movie.",
+                0.6619058777503499
+            ],
+            [
+                "15_skate kitchen exists in a time when it's still not normalized for men to see women on skateboards, ",
+                0.6323474542543981
+            ],
+            [
+                "16_skate kitchen turns its subjects into a fascinating microcosm of american youth.",
+                0.7662805704425077
+            ],
+            [
+                "19_it is first and foremost an irresistible hangout movie, offering a thoroughly millennial, vérité spin on '80s skater classics like \"thrashin'.\"",
+                0.7321745606143005
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Crystal Moselle": {
+                "args": [
+                    [
+                        "3_i was impressed by the tonal and aesthetic balance that crystal moselle finds here.",
+                        0.7340901036281784
+                    ],
+                    [
+                        "10_unlike the skaters -- always magnetic when they ollie and rail -- moselle has only one move as a filmmaker: rhapsodic slo-mo and drony guitar rock on the soundtrack.",
+                        -0.5830568218904468
+                    ],
+                    [
+                        "15_ the crystal clear coolness of moselle's film proves they should get with the program.",
+                        0.5981973436786978
+                    ],
+                    [
+                        "18_ moselle and her cast never come down hard on them.",
+                        -0.7432371889448087
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "18_ moselle and her cast never come down hard on them.",
+                -0.7432371889448087
+            ]
+        ],
+        "entities": {
+            "Elizabeth Rodriguez": {
+                "args": []
+            },
+            "Rachelle Vinberg": {
+                "args": [
+                    [
+                        "6_it works in large part because of vinberg's poignant and persuasive performance.",
+                        0.6953082924807072
+                    ]
+                ]
+            },
+            "Dede Lovelace": {
+                "args": []
+            },
+            "Hisham Tawfiq": {
+                "args": []
+            },
+            "Jaden Smith": {
+                "args": []
+            },
+            "Kabrina Adams": {
+                "args": []
+            },
+            "Brenn Lorenzo": {
+                "args": []
+            },
+            "Ajani Russell": {
+                "args": []
+            },
+            "Nina Moran": {
+                "args": []
+            },
+            "Jules Lorenzo": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jen Silverman": {
+                "args": []
+            },
+            "Crystal Moselle": {
+                "args": []
+            },
+            "Aslihan Unaldi": {
+                "args": []
+            }
+        }
+    }
+}

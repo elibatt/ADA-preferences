@@ -1,0 +1,126 @@
+{
+    "writer": {
+        "args": [
+            [
+                "13_it's hard not to appreciate the astute ways the script captures the moment when carefree childhood turns into the loss of innocence.",
+                0.7415812573399431
+            ]
+        ],
+        "entities": {
+            "Luke Piotrowski": {
+                "args": [
+                    [
+                        "2_ phillips and screenwriters ben collins and luke piotrowski press hard against the instinct for nostalgia.",
+                        -0.5964508798363299
+                    ]
+                ]
+            },
+            "Ben Collins": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_i wasn't as impressed with the film as some of my fellow audience members, ",
+                0.6337246594267728
+            ],
+            [
+                "2_, super dark times is rich with the minutiae of a bygone era ...",
+                0.5783191019843
+            ],
+            [
+                "4_a genre film that has things to say about the world in which we live, its emptiness and the chasm between cause and effect.",
+                0.7017390666573422
+            ],
+            [
+                "6_what makes \"super dark times\" one of the most exciting american filmmaking de",
+                0.7334511286480216
+            ],
+            [
+                "7_super dark times perfectly nails the minute details of adolescence-a minefield of confusion about right and wrong that leads to all kinds of impulsive bad decisions.",
+                0.662236301392022
+            ],
+            [
+                "10_super dark times is much sharper on the minds of ordinary teen boys than it is on what happens when those minds snap.",
+                0.5061085093040613
+            ],
+            [
+                "11_... \"super dark times\" is visceral and gripping throughout, its probing compositions forcing you to peer deeper and deeper into the darkness.",
+                0.7281701659063071
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "12_strikingly shot, edited and scored, with convincing and vivid performances from a youthful cast, the picture loses its footing in the final stretch ",
+                0.6014675392156771
+            ]
+        ],
+        "entities": {
+            "Owen Campbell": {
+                "args": [
+                    [
+                        "9_the performances from the film's young cast members are uniformly excellent, including owen campbell as zach and charlie tahan as josh.",
+                        0.8754929028111595
+                    ]
+                ]
+            },
+            "Max Talisman": {
+                "args": []
+            },
+            "Elizabeth Cappuccino": {
+                "args": []
+            },
+            "Charlie Tahan": {
+                "args": []
+            },
+            "Amy Hargreaves": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kevin Phillips": {
+                "args": [
+                    [
+                        "0_ kevin phillips, transitioning from music videos to feature films and from cinematography to directing, has an undeniable eye.",
+                        0.6684125827569176
+                    ],
+                    [
+                        "2_ phillips and screenwriters ben collins and luke piotrowski press hard against the instinct for nostalgia.",
+                        -0.5964508798363299
+                    ],
+                    [
+                        "3_[kevin] phillips kind of stumbles when he tries for a pat wrap-up of a still-horrific problem.",
+                        -0.6641729842426016
+                    ],
+                    [
+                        "5_for a first-time director, [kevin] phillips has an unusually strong handle on the finer arts of setting a mood and evoking time and place.",
+                        0.6796408443849065
+                    ],
+                    [
+                        "6_s in recent years is how well phillips and company grasp both the intensity and ephemerality of adolescence.",
+                        0.6959604330282824
+                    ],
+                    [
+                        "8_unfortunately the story is such an indie-cinema chestnut that its familiarity tends to overshadow phillips's careful cultural notation, and the movie drifts further into mystery convention as it goes along.",
+                        0.5375875002414774
+                    ],
+                    [
+                        "9_ the direction from mr. phillips is what makes \"super dark times\" unusual.",
+                        0.7597825738680899
+                    ]
+                ]
+            }
+        }
+    }
+}

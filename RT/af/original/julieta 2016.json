@@ -1,0 +1,167 @@
+{
+    "director": {
+        "args": [
+            [
+                "8_the director of films like \"talk to me,\" \"volver,\" \"tie me up!",
+                0.6083584958638085
+            ],
+            [
+                "20_it's one thing for the director to want to try something new.",
+                0.524916242313594
+            ]
+        ],
+        "entities": {
+            "Pedro Almodóvar": {
+                "args": [
+                    [
+                        "3_\"julieta\" is filled with almodóvar's usual attention to vivid color (a turquoise turtleneck worn by young julieta seems to add notes to the film's moody musical score), and to the ways women talk to each other.",
+                        0.8178464737774878
+                    ],
+                    [
+                        "4_pedro almodóvar's latest isn't his strongest, ",
+                        0.5305239356736837
+                    ],
+                    [
+                        "15_ not always the conviction one would expect from both almodóvar and his characters.",
+                        0.686562447513968
+                    ],
+                    [
+                        "16_a film of such quietly assured mastery that it reminds you american cinema today has virtually no one comparable to almodóvar.",
+                        0.7635656650155838
+                    ],
+                    [
+                        "24_, pedro almodóvar's julieta is one of the most absorbing films he's made in years.",
+                        0.8138387196198769
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "0_suárez gives a searing performance in the lead role, her grief overwhelming her to the point where she physically wears it on her body.",
+                0.5276079819059792
+            ],
+            [
+                "10_there's not a scene in this film in which there is not both something to see and an acting moment to savor, as well as some nuance or implication or suggestion to ponder.",
+                0.6980676352486275
+            ],
+            [
+                "15_themes of loss, regret and alienation emerge and are respectfully considered, with fine acting ",
+                0.6278161846155917
+            ]
+        ],
+        "entities": {
+            "Inma Cuesta": {
+                "args": []
+            },
+            "Priscilla Delgado": {
+                "args": []
+            },
+            "Pilar Castro": {
+                "args": []
+            },
+            "Susi Sánchez": {
+                "args": []
+            },
+            "Michelle Jenner": {
+                "args": []
+            },
+            "Daniel Grao": {
+                "args": []
+            },
+            "Joaquín Notario": {
+                "args": []
+            },
+            "Blanca Pares": {
+                "args": []
+            },
+            "Adriana Ugarte": {
+                "args": []
+            },
+            "Nathalie Pozas": {
+                "args": []
+            },
+            "Ariadna Matín": {
+                "args": []
+            },
+            "Emma Suárez": {
+                "args": []
+            },
+            "Nathalie Poza": {
+                "args": []
+            },
+            "Darío Grandinetti": {
+                "args": []
+            },
+            "Rossy de Palma": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Pedro Almodóvar": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"julieta\" is a paean to longing, regret and the often painful experience of being human.",
+                0.5636165359449163
+            ],
+            [
+                "6_it's no surprise that \"julieta\" is marvelous to look at, ",
+                0.7320107484675774
+            ],
+            [
+                "7_while visually attractive and emotionally rich, the movie is also a rambling walk to an open-ended finale that fizzles out.",
+                0.6877665600210285
+            ],
+            [
+                "8_and \"all about my mother\" has made a movie a bit more reserved, ",
+                0.52508878571122
+            ],
+            [
+                "10_there's not a scene in this film in which there is not both something to see and an acting moment to savor, as well as some nuance or implication or suggestion to ponder.",
+                0.6980676352486275
+            ],
+            [
+                "12_julieta is an enthralling meditation on the mechanics of memory and grief that will delight the sort of person who uses \"almodóvarian\" as an adjective.",
+                0.6995007738637051
+            ],
+            [
+                "17_ julieta morphs into a haunting and hypnotic tri",
+                0.6750410944504769
+            ],
+            [
+                "18_of all the plot twists that julieta ventures and mostly pulls off, the best one is holding out the possibility -- the honest, ",
+                0.8739034184982335
+            ],
+            [
+                "19_\"julieta\" is scrupulous, compassionate and surprising, even if it does not always quite communicate the full gravity and sweep of the feelings it engages.",
+                0.6670079727113256
+            ],
+            [
+                "23_almodóvar has directed what's basically a melodrama as if it were a thriller-a fascinating experiment that doesn't always work as intended, ",
+                -0.5830977730877618
+            ],
+            [
+                "24_both a film noir and a candy-colored confection",
+                0.695942601538879
+            ],
+            [
+                "26_even when working in earnest, almodovar can't hold back his own gaudiness, which threatens to overwhelm julieta's emotions at all times, just as the loud paintings, posters and wallpaper frequently eclipse the foreground action.",
+                0.5274386969042437
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {},
+        "args": [
+            [
+                "0_certainly less of a dud than the director's inane original, this follow-up is even more tyke-oriented, ",
+                -0.5451233601396459
+            ]
+        ]
+    }
+}

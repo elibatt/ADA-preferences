@@ -1,0 +1,75 @@
+{
+    "acting": {
+        "entities": {
+            "Ophir Kutiel": {
+                "args": []
+            },
+            "Samantha Montgomery": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ido Haar": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_shaw is a complex character and an underdog worth rooting for.",
+                0.6218895984664569
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film, which had a brief theatrical release last year, is a feel-good story for the age of viral video.",
+                0.5608760140546083
+            ],
+            [
+                "11_with a unique narrative conceit and a highly root-worthy underdog at its center, the movie stands apart as a kind of feel-good, audio-visual experiment.",
+                0.8368340902341732
+            ],
+            [
+                "14_this film barely brushes up against the many, many issues it raises, ",
+                0.7427486421309695
+            ],
+            [
+                "17_the emotional connection we develop with her as the movie unfolds pays off in the final 20 minutes, which is about as happy of an ending as anyone could imagine, except this one really happened.",
+                -0.6569132539437305
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ido Haar": {
+                "args": [
+                    [
+                        "4_an inspiring, enjoyable - and utterly stage-managed - documentary from israeli director ido haar.",
+                        0.793792826793363
+                    ],
+                    [
+                        "12_ rarely has its artistic potential been explored in a movie with the inspirational appeal of ido haar's new documentary, \"presenting princess shaw.\"",
+                        0.668986511519758
+                    ],
+                    [
+                        "15_ido haar's globe-straddling crowd-pleaser of a doc presenting princess shaw showcases real footage of the key moments of the story it's telling.",
+                        0.7544097287962268
+                    ],
+                    [
+                        "19_marking a refreshing break from the usually depressing rise-and-fall trajectories of so many music-themed documentaries, israeli director ido haar's thru you princess is a pure positivity.",
+                        0.8184254067088512
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

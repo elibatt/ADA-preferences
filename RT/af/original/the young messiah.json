@@ -1,0 +1,155 @@
+{
+    "acting": {
+        "entities": {
+            "David Burke": {
+                "args": []
+            },
+            "Lee Boardman": {
+                "args": []
+            },
+            "Isabelle Adriani": {
+                "args": []
+            },
+            "Giorgio Antonini": {
+                "args": []
+            },
+            "Giselda Volodi": {
+                "args": []
+            },
+            "Finn McLeod Ireland": {
+                "args": []
+            },
+            "Douglas Dean": {
+                "args": []
+            },
+            "Sean Bean": {
+                "args": []
+            },
+            "Vincent Walsh": {
+                "args": []
+            },
+            "Jarreth J. Merz": {
+                "args": []
+            },
+            "David Bradley": {
+                "args": []
+            },
+            "Finn Ireland": {
+                "args": []
+            },
+            "Lois Ellington": {
+                "args": []
+            },
+            "Ioan Gunn": {
+                "args": []
+            },
+            "Rory Keenan": {
+                "args": []
+            },
+            "Simone Spinazze": {
+                "args": []
+            },
+            "Paul Ireland": {
+                "args": []
+            },
+            "Sara Lazzaro": {
+                "args": []
+            },
+            "Andrea Scarduzio": {
+                "args": []
+            },
+            "Jane Lapotaire": {
+                "args": []
+            },
+            "Marco Iannone": {
+                "args": []
+            },
+            "Agni Tsangaridou": {
+                "args": []
+            },
+            "Jonathan Bailey": {
+                "args": []
+            },
+            "Gabrielle Chiararo": {
+                "args": []
+            },
+            "Christian McKay": {
+                "args": []
+            },
+            "Dorotea Mercuri": {
+                "args": []
+            },
+            "Dune Medros": {
+                "args": []
+            },
+            "Lydia Muijen": {
+                "args": []
+            },
+            "Giampiero Rotoli": {
+                "args": []
+            },
+            "Adam Greaves-Neal": {
+                "args": []
+            },
+            "Matt Patresi": {
+                "args": []
+            },
+            "Gabrielle Dentoni": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Betsy Giffen Nowrasteh": {
+                "args": []
+            },
+            "Cyrus Nowrasteh": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_the young messiah struggles to hold its audience's attention.",
+                0.625192527268619
+            ],
+            [
+                "1_\"the young messiah\" performs no miracles.",
+                -0.603435969346866
+            ],
+            [
+                "4_this pious drama is a work of minimal imagination and even less subtlety.",
+                0.6823366375527028
+            ],
+            [
+                "5_perhaps realizing that enticing nonbelievers into another movie about the life of christ may necessitate the wild-style of a director like darren aronofsky, the filmmakers decided to play it safe rather than risk conservative evangelical rejection.",
+                0.6680273396567005
+            ],
+            [
+                "6_at times, this movie feels too much like the christian version of \"the phantom menace,\" offering unnecessary explanations for well-known stories.",
+                -0.6385193795340514
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Cyrus Nowrasteh": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_perhaps realizing that enticing nonbelievers into another movie about the life of christ may necessitate the wild-style of a director like darren aronofsky, the filmmakers decided to play it safe rather than risk conservative evangelical rejection.",
+                0.6680273396567005
+            ]
+        ]
+    }
+}

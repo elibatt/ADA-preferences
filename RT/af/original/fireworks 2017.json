@@ -1,0 +1,49 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's a treat to see a film about young love where the young lovers aren't wise beyond their years",
+                0.7801289973708192
+            ],
+            [
+                "1_a strange little movie that attempts the tricky feat of combining comedy, drama, sci-fi and romance, ",
+                0.5575336517838917
+            ],
+            [
+                "2_fireworks is very much told from the male point of view, and nazuna seldom rises above \"free-spirited object of desire.\"",
+                0.6295532663397947
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Akiyuki Shinbo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Masaki Suda": {
+                "args": []
+            },
+            "Mamoru Miyano": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Hitoshi Ohne": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

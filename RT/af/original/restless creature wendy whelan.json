@@ -1,0 +1,50 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Adam Schlesinger": {
+                "args": []
+            },
+            "Linda Saffire": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Wendy Whelan": {
+                "args": [
+                    [
+                        "2_seeing whelan move with grace and elegance across the stage is as much storytelling as you need, ",
+                        0.7775188928545034
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film offers a trove of insights into the world of dance, including many glimpses of famed choreographers and fellow performers, and reveals a performer as remarkable for her warmth and candor as for her singular artistry.",
+                0.8815720287283887
+            ],
+            [
+                "7_her disarming combination of humility and honesty, making light of heavy emotions without concealing their true weight, has much to do with how this affecting film portrait can sneak up on you.",
+                0.8269919102391914
+            ],
+            [
+                "8_the film assembles a full-bodied appreciation of her contri",
+                0.598921601233163
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

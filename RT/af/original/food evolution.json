@@ -1,0 +1,49 @@
+{
+    "writer": {
+        "entities": {
+            "Scott Hamilton Kennedy": {
+                "args": []
+            },
+            "Trace Sheehan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Scott Hamilton Kennedy": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_, it's the unusual issue film that deals in counterintuitive reason rather than barely controlled hysteria.",
+                -0.5531901376985183
+            ],
+            [
+                "2_ insistent on the data, \"food evolution\" posits an inconvenient truth for organic boosters to swallow:",
+                -0.6561583031452578
+            ],
+            [
+                "4_it's a compelling argument, in a film that may well change a few minds - or at least inspire some heartfelt post-screening arguing.",
+                0.6806901614938518
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Dr. Neil deGrasse Tyson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

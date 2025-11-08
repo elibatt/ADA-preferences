@@ -1,0 +1,59 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_the film doesn't offer anything new, and doesn't stop pushing 'family' until even the cutest animal seems to be lecturing you to listen to your parents.",
+                0.517731917394852
+            ],
+            [
+                "9_as an introduction for children to exotic creatures in picturesque landscapes, the movie is harmless enough.",
+                0.7073403887480016
+            ],
+            [
+                "12_while the storytelling here has significant weaknesses, it's hard to stay mad at any movie that offers so many close-ups of an insanely adorable baby panda.",
+                -0.6061311243866881
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "5_while the footage is breathtaking, these animal tales get wobblier every year at walking the line between educational fun and hard-to-swallow stories of animals acting out human narratives.",
+                0.6830236499950375
+            ]
+        ],
+        "entities": {
+            "John Krasinski": {
+                "args": [
+                    [
+                        "0_john krasinski narrates, and ",
+                        0.5561038031380987
+                    ],
+                    [
+                        "8_john krasinski gamely slips into children's library storyteller mode as the film's narrator, his wide-eyed delivery easily pictured as he covers an adult panda's dietary particulars ...",
+                        0.685604614456693
+                    ]
+                ]
+            },
+            "Xun Zhou": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chuan Lu": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,415 @@
+{
+    "acting": {
+        "entities": {
+            "Nathalie Love": {
+                "args": []
+            },
+            "Annabelle Lee": {
+                "args": []
+            },
+            "Patrick Pastor": {
+                "args": []
+            },
+            "J. Francisco Rodriguez": {
+                "args": []
+            },
+            "Sara Pelayo": {
+                "args": []
+            },
+            "Sam Bosson": {
+                "args": []
+            },
+            "John Billingsley": {
+                "args": []
+            },
+            "Toni Christopher": {
+                "args": []
+            },
+            "Lucas Jade Zumann": {
+                "args": []
+            },
+            "Victoria Hoffman": {
+                "args": []
+            },
+            "Finn Roberts": {
+                "args": []
+            },
+            "Catherine Zelinsky": {
+                "args": []
+            },
+            "Daniel Dorr": {
+                "args": []
+            },
+            "Kirk Bovill": {
+                "args": []
+            },
+            "Peter Mason": {
+                "args": []
+            },
+            "Randy Ryan": {
+                "args": []
+            },
+            "Kyle Olivia Green": {
+                "args": []
+            },
+            "Laura Wiggins": {
+                "args": []
+            },
+            "Sam Gros": {
+                "args": []
+            },
+            "Gareth Williams": {
+                "args": []
+            },
+            "Thea Gill": {
+                "args": []
+            },
+            "Al Wexo": {
+                "args": []
+            },
+            "Zoë Worth": {
+                "args": [
+                    [
+                        "1_the film is well worth a look, if just for the performances",
+                        0.8489660180578157
+                    ]
+                ]
+            },
+            "Britt Sanborn": {
+                "args": []
+            },
+            "Annette Bening": {
+                "args": [
+                    [
+                        "5_the drama of mike mills' \"20th century women\" takes place in annette bening's masterful pauses.",
+                        0.9057776085256136
+                    ],
+                    [
+                        "8_there's not a single false, \"actor-y\" note in bening's work.",
+                        -0.6460561057954295
+                    ],
+                    [
+                        "10_ the movie's big draw is bening.",
+                        -0.549838861348311
+                    ],
+                    [
+                        "15_a fiercely inquisitive performance from annette bening buoys this ",
+                        0.6493127090956536
+                    ],
+                    [
+                        "20_a simply glorious annette bening (the academy needs to that best actress nomination happen) leads a stellar cast in mike mills' semiautobiographical story about a bohemian women raising a teen in the age of 1970's feminism and punk rock.",
+                        0.6450514904977955
+                    ],
+                    [
+                        "21_despite the movie's title and bening's central role,",
+                        -0.5884960775025173
+                    ],
+                    [
+                        "28_[mills is] good with actors, and with bening especially, he's really keyed into her prodigious gifts.",
+                        0.7558200062058448
+                    ],
+                    [
+                        "35_the sheer likability of these lived-in characters is a powerful magnet, thanks to insightful writing and a note-perfect ensemble anchored by a never-better annette bening ...",
+                        0.7945059287652466
+                    ]
+                ]
+            },
+            "Cameron Simon": {
+                "args": []
+            },
+            "Diana Bostan": {
+                "args": []
+            },
+            "Billy Crudup": {
+                "args": []
+            },
+            "Matthew Foster": {
+                "args": []
+            },
+            "Alison Elliott": {
+                "args": []
+            },
+            "Darrell Britt": {
+                "args": []
+            },
+            "Victoria Bruno": {
+                "args": []
+            },
+            "Curran Walters": {
+                "args": []
+            },
+            "Toni Gaal": {
+                "args": []
+            },
+            "Joshua Burge": {
+                "args": []
+            },
+            "Rick Gifford": {
+                "args": []
+            },
+            "Hans-Peter Thomas": {
+                "args": []
+            },
+            "Finnegan Bell": {
+                "args": []
+            },
+            "Tyler Leyva": {
+                "args": []
+            },
+            "Christina Andrea Offley": {
+                "args": []
+            },
+            "Waleed F. Zuaiter": {
+                "args": []
+            },
+            "Vitaly A. Lebeau": {
+                "args": []
+            },
+            "Justin T. Rivera": {
+                "args": []
+            },
+            "Christopher Carroll": {
+                "args": []
+            },
+            "Ian Logan": {
+                "args": []
+            },
+            "Sam Marsh": {
+                "args": []
+            },
+            "Alia Shawkat": {
+                "args": []
+            },
+            "Jesse Sanes": {
+                "args": []
+            },
+            "Hayden Gold": {
+                "args": []
+            },
+            "Olivia Hone": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": []
+            },
+            "Matthew Cardarople": {
+                "args": []
+            },
+            "Antonia Marie Vivino": {
+                "args": []
+            },
+            "Trent Bowman": {
+                "args": []
+            },
+            "Zoe Nanos": {
+                "args": []
+            },
+            "Avi Boyko": {
+                "args": []
+            },
+            "Boyce Buchanan": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": []
+            },
+            "Eric Wentz": {
+                "args": []
+            },
+            "Cameron Gellman": {
+                "args": []
+            },
+            "Alexis Milan Turner": {
+                "args": []
+            },
+            "Desmond Shepherd": {
+                "args": []
+            },
+            "Padriac Cassidy": {
+                "args": []
+            },
+            "Lauren Foley": {
+                "args": []
+            },
+            "Darrell Britt-Gibson": {
+                "args": []
+            },
+            "Kai Lennox": {
+                "args": []
+            },
+            "Paul Tigue": {
+                "args": []
+            },
+            "Cameron Protzman": {
+                "args": []
+            },
+            "Paul Messinger": {
+                "args": []
+            },
+            "Tanya Young": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_mills calls upon his cast and script to do most of the heavy lifting.",
+                0.5640119769707055
+            ],
+            [
+                "7_if the small domestic drama established in this rich period setting proves satisfyingly emotional, it is because the characters are acutely well observed, both by mills's script and by his excellent cast.",
+                0.8323986668469183
+            ],
+            [
+                "8_it is a master class in nuanced acting, and it is deserving of an academy award.",
+                0.7671320326422827
+            ],
+            [
+                "9_ we never see or feel the exertion behind the acting.",
+                -0.5903558591306264
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Mike Mills": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_mills calls upon his cast and script to do most of the heavy lifting.",
+                0.5640119769707055
+            ],
+            [
+                "7_if the small domestic drama established in this rich period setting proves satisfyingly emotional, it is because the characters are acutely well observed, both by mills's script and by his excellent cast.",
+                0.8323986668469183
+            ],
+            [
+                "15_ pedestrian indie drama by writer-director mike mills.",
+                0.6423005765132113
+            ],
+            [
+                "17_tful and detailed evocation of an era and especially of one complicated character, with little story to speak of.",
+                0.7682659022553368
+            ],
+            [
+                "35_the sheer likability of these lived-in characters is a powerful magnet, thanks to insightful writing and a note-perfect ensemble anchored by a never-better annette bening ...",
+                0.7945059287652466
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_the film's greatest strength is its specific set of characters.",
+                0.8166514447830919
+            ],
+            [
+                "10_20th century women will likely mean more to anyone old enough to have experienced the '70s, ",
+                0.5059065242075578
+            ],
+            [
+                "11_as a celebration of personal and social history, \"20th century women\" takes the audience back.",
+                0.7454262996094548
+            ],
+            [
+                "14_it breathes with the open-ended friendliness of a '70s film - vintage jonathan demme, perhaps.",
+                0.6935327569643526
+            ],
+            [
+                "16_\"20th century women\" doesn't get unduly hung up on plot, or even with the usual forward motion of a coming-of-age narrative.",
+                -0.5511481172496133
+            ],
+            [
+                "18_if 20th century women is as wistful and pleasant as an ocean breeze, its message also dissipates about as quickly as the sand between your toes.",
+                0.5819844821557127
+            ],
+            [
+                "19_20th century women is something special.",
+                0.627656207596585
+            ],
+            [
+                "22_love and loss go hand in hand in \"20th century women,\" a funny, emotionally piercing story about a teenager and the women who raise him.",
+                0.7927958888256095
+            ],
+            [
+                "23_ \"20th century women\" feels like the perfect movie for this moment.",
+                0.6967942085482437
+            ],
+            [
+                "25_the most pleasurable aspect of 20th century women (and it's pleasurable throughout) is that it allows itself to be messy.",
+                0.7445805433369843
+            ],
+            [
+                "27_, it's the kind of work that begs revisiting, like a favorite collection of short stories.",
+                0.5960764558548455
+            ],
+            [
+                "29_20th century women is irreducible ... ",
+                0.5422533771010053
+            ],
+            [
+                "33_when 20th century women concerns itself with the utterly human question of personal satisfaction, it's huggable: the kind of movie you wish more directors had the courage to grab for.",
+                0.7690905610484827
+            ],
+            [
+                "34_\"20th century women\" is an endless chain of anecdotes, and ",
+                0.6484834710906113
+            ],
+            [
+                "34_ many individual moments are winning, the movie as a whole is rudderless.",
+                0.6235158684164774
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mike Mills": {
+                "args": [
+                    [
+                        "2_it's a credit to mills that he makes it feel like he's making the earth move even when he's just capturing a snapshot in time.",
+                        -0.5049783941005141
+                    ],
+                    [
+                        "5_the drama of mike mills' \"20th century women\" takes place in annette bening's masterful pauses.",
+                        0.9057776085256136
+                    ],
+                    [
+                        "6_the most surprising part of the movie is how well mills writes his three women, and how accurately he pinpoints their very distinct anxieties.",
+                        0.8789168931454443
+                    ],
+                    [
+                        "7_if the small domestic drama established in this rich period setting proves satisfyingly emotional, it is because the characters are acutely well observed, both by mills's script and by his excellent cast.",
+                        0.8323986668469183
+                    ],
+                    [
+                        "15_ pedestrian indie drama by writer-director mike mills.",
+                        0.6423005765132113
+                    ],
+                    [
+                        "20_a simply glorious annette bening (the academy needs to that best actress nomination happen) leads a stellar cast in mike mills' semiautobiographical story about a bohemian women raising a teen in the age of 1970's feminism and punk rock.",
+                        0.6450514904977955
+                    ],
+                    [
+                        "28_[mills is] good with actors, and with bening especially, he's really keyed into her prodigious gifts.",
+                        0.7558200062058448
+                    ],
+                    [
+                        "37_less twee and more textured than beginners, this is the film that mike mills was put on this planet to make.",
+                        0.7187903563757538
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "1_ just know going in that director",
+                -0.5050297304132426
+            ]
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Christian Zagia": {
+                "args": []
+            },
+            "Emma Bercovici": {
+                "args": []
+            },
+            "Franciska Torocsik": {
+                "args": []
+            },
+            "Daniel Zovatto": {
+                "args": []
+            },
+            "Sergej Onopko": {
+                "args": []
+            },
+            "Stephen Lang": {
+                "args": []
+            },
+            "Olivia Gillies": {
+                "args": []
+            },
+            "Jane Levy": {
+                "args": []
+            },
+            "Dylan Minnette": {
+                "args": []
+            },
+            "Katia Bokor": {
+                "args": []
+            },
+            "Dayna Clark": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Fede Alvarez": {
+                "args": [
+                    [
+                        "0_ alvarez uses the camera like a stealth weapon, exploring dark corners and hidden areas of the house with devilish glee.",
+                        0.742701405197566
+                    ],
+                    [
+                        "9_fede alvarez and rodo sayagues keep the plot twists coming, ",
+                        0.6034701576843429
+                    ],
+                    [
+                        "12_director fede alvarez is as good as it gets when it comes to playing with things that go bump in the night.",
+                        0.6887501235947024
+                    ],
+                    [
+                        "29_the script, by alvarez and rodo sayagues, steadily and inventively heightens the tension of the break-in and the inevitable hiding and chasing, at least until everything gets ridiculous toward the end.",
+                        -0.6641330232588329
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Fede Alvarez": {
+                "args": []
+            },
+            "Rodo Sayagues": {
+                "args": [
+                    [
+                        "9_fede alvarez and rodo sayagues keep the plot twists coming, ",
+                        0.6034701576843429
+                    ],
+                    [
+                        "29_the script, by alvarez and rodo sayagues, steadily and inventively heightens the tension of the break-in and the inevitable hiding and chasing, at least until everything gets ridiculous toward the end.",
+                        -0.6641330232588329
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the suspense is built as carefully as it is in a good john carpenter movie",
+                0.6278731698402155
+            ],
+            [
+                "6_you could treat it as a casual primer on suspense-film craft, or you can just watch through splayed fingers, like the women who sat next to me at the screening i attended.",
+                -0.6031590730937293
+            ],
+            [
+                "13_the home invasion thriller don't breathe might just be the first movie of the year that'll make you want to do exactly what the title says.",
+                0.5623628038095643
+            ],
+            [
+                "16_alvarez quiets his movie down to a game of cat and mouse, a luxury in a climate in which horror is all about maximum volume.",
+                -0.6183918597700719
+            ],
+            [
+                "20_this is a movie where every jump scare is worthy of a shriek.",
+                -0.5635496323738656
+            ],
+            [
+                "24_a clever if increasingly mechanical suspense contraption, yanking our sympathies this way and that, before turning into a different sort of movie entirely.",
+                0.5384752116537949
+            ],
+            [
+                "25_a nice little mix tape of a horror movie, incorporating elements of familiar films into something satisfyingly different.",
+                0.7814065177351524
+            ],
+            [
+                "30_while the sight-based conceit offers the opportunity for clever suspense and scares, it's the starkly realistic setting and all too newsworthy themes underpinning the spooky tale that makes the horror of this film so bone-chilling.",
+                0.7928552019434207
+            ]
+        ]
+    }
+}

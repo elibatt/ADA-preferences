@@ -1,0 +1,216 @@
+{
+    "writer": {
+        "entities": {
+            "John Carney": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_it's all too sweet and easy, and the band's music-which is composed by john carney, the movie's writer and director, and gary clark-is bland and overproduced.",
+                -0.5484811406403973
+            ],
+            [
+                "19_built out of crowd-pleasing elements as durable as a lacquered, sky-high '80s hairdo, writer-director john carney's coming-of-age musical is a synth-drenched joy: a tuneful, deeply personal ode to the impulse that forges a high school rock band.",
+                0.7957297243068461
+            ],
+            [
+                "36_lightning strikes thrice as irish writer-director john carney's let's-make-a-band formula once more yields winning results.",
+                0.6418840591282818
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Karl Rice": {
+                "args": []
+            },
+            "Maria Doyle Kennedy": {
+                "args": []
+            },
+            "Ben Carolan": {
+                "args": []
+            },
+            "Don Wycherley": {
+                "args": []
+            },
+            "Aidan Gillen": {
+                "args": []
+            },
+            "Jack Reynor": {
+                "args": []
+            },
+            "Lucy Boynton": {
+                "args": []
+            },
+            "Ferdia Walsh-Peelo": {
+                "args": []
+            },
+            "Conor Hamilton": {
+                "args": []
+            },
+            "Kelly Thornton (II)": {
+                "args": []
+            },
+            "Percy Chamburuka": {
+                "args": []
+            },
+            "Mark McKenna": {
+                "args": []
+            },
+            "Ian Kenny": {
+                "args": []
+            },
+            "Lydia McGuinness": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_those put off by the prospect of a musical in the '80s pop style of duran duran or pet shop boys should cast their prejudices aside when it comes to john carney's \"sing street.",
+                0.5134857414835612
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_as a testament to the power of music, the bond of brotherhood and the boundless possibilities of youth, \"sing street\" just plain works.",
+                0.6876494510928959
+            ],
+            [
+                "1_the film captures the earnestness and the silliness of the boys' efforts, ",
+                0.7291090835213686
+            ],
+            [
+                "2_with its intriguing characters and exhilarating music, \"sing street\" is the best film about being young, gifted and irish since \"the commitments.\"",
+                0.857549921776225
+            ],
+            [
+                "4_a delightful film that is almost impossible to watch without a smile on your face.",
+                0.7672668099786512
+            ],
+            [
+                "5_sing street\" reminds us of being young and lost in a song, realizing with a jolt that someone else had the same feelings we did.",
+                -0.527981641381646
+            ],
+            [
+                "6_sing street feels personal, as well as universal, and it captures the warring factions of youthful euphoria and despair.",
+                0.6950651360949155
+            ],
+            [
+                "8_while this darling film is inspired by a year in the sentimental filmmaker's own early life, it is founded on the hope and charm of song.",
+                0.8144599580676679
+            ],
+            [
+                "10_sing street knows what it takes to form your own band, made by a guy who really loves music.",
+                0.7001352556343413
+            ],
+            [
+                "14_warm, ingratiating, with a beat you can dance to, \"sing street\" is a feel-good movie that never demands to be liked.",
+                0.8455944165205762
+            ],
+            [
+                "16_don't be deterred by the timeworn material - as a romantic vision of youth and rock, \"sing street\" is number one with a bullet.",
+                0.7305807328028922
+            ],
+            [
+                "17_sing street has the potential to achieve unmistakable popularity with not only teens ",
+                0.5056212173546144
+            ],
+            [
+                "21_carney has a humorous and loving eye for detail, an intuitive ear for dialogue, and the film is extremely personal in a way that is universal.",
+                0.802621282286863
+            ],
+            [
+                "22_the movie understands how enchantment and disappointment go together, like the a and b sides of a single that won't leave the turntable.",
+                -0.5438069121720482
+            ],
+            [
+                "25_sing street is the most romantic movie you'll find anywhere these days, brimming over with music, fun and the thrill of first love.",
+                0.7650823387757779
+            ],
+            [
+                "26_the whole film is unlikely, a joyous story of youth, innocence, sweet earnestness, charming ineptitude and a shaky ",
+                0.767027196569887
+            ],
+            [
+                "27_if \"once\" was a densely crafted album, \"sing street\" is more like a perfectly crafted single: \"crazy little thing called youth.\"",
+                0.5281877958843042
+            ],
+            [
+                "30_the beguiling modesty of the film ends up being even more important than its music or incredibly likable characters.",
+                0.5412540341972664
+            ],
+            [
+                "30_like most of the bands it honors, \"sing street\" may be a bit disposable, ",
+                0.6592439802363154
+            ],
+            [
+                "33_\"sing street\" is just like the old singles it idolizes - sharp, slick, snappy.",
+                -0.6080043882702599
+            ],
+            [
+                "34_though sing street is much more stylized and broad than once,",
+                0.5681179156548657
+            ],
+            [
+                "35_a rite-of-passage romance wrapped in a let's-make-a-band scenario, the disarming film colors its social realism with the kind of wish-fulfillment fantasy often found in a four-minute music video.",
+                0.6243580511477608
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Carney": {
+                "args": [
+                    [
+                        "3_in three features, carney has made his personal greatest hits album.",
+                        0.7907322066442184
+                    ],
+                    [
+                        "7_i could scarcely be more delighted to report that carney has rediscovered the magic of once with sing street, another tiny, winsome charmer set in dublin.",
+                        0.7096824318162949
+                    ],
+                    [
+                        "11_those put off by the prospect of a musical in the '80s pop style of duran duran or pet shop boys should cast their prejudices aside when it comes to john carney's \"sing street.",
+                        0.5134857414835612
+                    ],
+                    [
+                        "12_here [carney's] got the balance just right, delivering a funny and heartfelt tale about a dublin teen in the mid-80s.",
+                        0.7684372215666803
+                    ],
+                    [
+                        "18_it's all too sweet and easy, and the band's music-which is composed by john carney, the movie's writer and director, and gary clark-is bland and overproduced.",
+                        -0.5484811406403973
+                    ],
+                    [
+                        "19_built out of crowd-pleasing elements as durable as a lacquered, sky-high '80s hairdo, writer-director john carney's coming-of-age musical is a synth-drenched joy: a tuneful, deeply personal ode to the impulse that forges a high school rock band.",
+                        0.7957297243068461
+                    ],
+                    [
+                        "24_fans of carney's lush romanticism and hook-laden lyricism will be thrilled to add this one to their playlist.",
+                        0.5362079043907559
+                    ],
+                    [
+                        "28_you've seen every element of sing street hundreds of times before-it's carney's knack for assembling them that makes the difference.",
+                        0.599533768637807
+                    ],
+                    [
+                        "34_ it remains true to carney's fondness for grounded fantasy.",
+                        0.6356750318123526
+                    ],
+                    [
+                        "36_lightning strikes thrice as irish writer-director john carney's let's-make-a-band formula once more yields winning results.",
+                        0.6418840591282818
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

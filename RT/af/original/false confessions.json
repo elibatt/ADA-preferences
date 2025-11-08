@@ -1,0 +1,59 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Luc Bondy": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yves Jacques": {
+                "args": []
+            },
+            "Louis Garrel": {
+                "args": []
+            },
+            "Bulle Ogier": {
+                "args": []
+            },
+            "Manon Combes": {
+                "args": []
+            },
+            "Isabelle Huppert": {
+                "args": [
+                    [
+                        "3_to the extent that false confessions does intermittently succeed, it is due almost entirely to [huppert's] efforts.",
+                        0.5784741343988101
+                    ],
+                    [
+                        "5_there is little to recommend here, even for huppert completists who follow her anywhere.",
+                        -0.5581302466535851
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Luc Bondy": {
+                "args": [
+                    [
+                        "2_ filmmaker luc bondy's experiment in artifice never takes flight.",
+                        -0.514238001695583
+                    ]
+                ]
+            }
+        }
+    }
+}

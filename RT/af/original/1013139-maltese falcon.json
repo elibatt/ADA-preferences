@@ -1,0 +1,103 @@
+{
+    "writer": {
+        "entities": {
+            "John Huston": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Humphrey Bogart": {
+                "args": []
+            },
+            "Barton MacLane": {
+                "args": []
+            },
+            "Creighton Hale": {
+                "args": []
+            },
+            "Peter Lorre": {
+                "args": []
+            },
+            "Jerome Cowan": {
+                "args": []
+            },
+            "James Burke": {
+                "args": []
+            },
+            "Mary Astor": {
+                "args": []
+            },
+            "Lee Patrick": {
+                "args": []
+            },
+            "Murray Alper": {
+                "args": []
+            },
+            "Sydney Greenstreet": {
+                "args": []
+            },
+            "Walter Huston": {
+                "args": [
+                    [
+                        "6_mr. huston gives promise of becoming one of the smartest directors in the field.",
+                        0.6674689513485746
+                    ]
+                ]
+            },
+            "Robert E. Homans": {
+                "args": []
+            },
+            "Ward Bond": {
+                "args": []
+            },
+            "William Hopper": {
+                "args": []
+            },
+            "Hank Mann": {
+                "args": []
+            },
+            "Emory Parnell": {
+                "args": []
+            },
+            "Charles Drake": {
+                "args": []
+            },
+            "John Hamilton": {
+                "args": []
+            },
+            "Gladys George": {
+                "args": []
+            },
+            "Jack Mower": {
+                "args": []
+            },
+            "Elisha Cook Jr.": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Huston": {
+                "args": [
+                    [
+                        "6_mr. huston gives promise of becoming one of the smartest directors in the field.",
+                        0.6674689513485746
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

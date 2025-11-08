@@ -1,0 +1,135 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ \"where hope grows\" has the potential to be a decent inspirational film until god shows up.",
+                -0.5018660726390898
+            ],
+            [
+                "2_like most if not all faith-based entertainments, \"where hope grows\" embraces the idea that god works in mysterious ways.",
+                0.7694959516275692
+            ],
+            [
+                "3_\"where hope grows\" wears its heart on its sleeve, hawking its message of salvation through faith to anyone who's in the market for cheesy uplift and saccharine sentiment.",
+                -0.5129257617419151
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chris Dowling": {
+                "args": [
+                    [
+                        "0_director chris dowling should have taken another swing at his script for the sake of clarity and dimension before cameras rolled.",
+                        -0.6166676250308344
+                    ],
+                    [
+                        "4_writer-director chris dowling handles [the] worrisome premise with a more even hand than this genre's ill-advised predecessors ...",
+                        -0.53175833007713
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Brooke Burns": {
+                "args": []
+            },
+            "Michelle Fine": {
+                "args": []
+            },
+            "Andrew Cash": {
+                "args": []
+            },
+            "Daniel Harrison Smith": {
+                "args": []
+            },
+            "J. Michael Breaux": {
+                "args": []
+            },
+            "McKaley Miller": {
+                "args": []
+            },
+            "Ken Arnold": {
+                "args": []
+            },
+            "Laura L. Parris": {
+                "args": []
+            },
+            "Clyde Jones": {
+                "args": []
+            },
+            "Kerr Smith": {
+                "args": []
+            },
+            "Richard Hagerman": {
+                "args": []
+            },
+            "Sonya Thaper": {
+                "args": []
+            },
+            "Rebecca Lines": {
+                "args": []
+            },
+            "Eric Chase Anderson": {
+                "args": []
+            },
+            "Danica McKellar": {
+                "args": []
+            },
+            "David DeSanctis": {
+                "args": []
+            },
+            "Drew Cash": {
+                "args": []
+            },
+            "Alan Powell": {
+                "args": []
+            },
+            "J. Teddy Garces": {
+                "args": []
+            },
+            "Kristoffer Polaha": {
+                "args": []
+            },
+            "Michael Grant (XIV)": {
+                "args": []
+            },
+            "Phillip DeLaney": {
+                "args": []
+            },
+            "John A. Calhoun": {
+                "args": []
+            },
+            "Phil Russell": {
+                "args": []
+            },
+            "Robert Johnson": {
+                "args": []
+            },
+            "William Zabka": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_director chris dowling should have taken another swing at his script for the sake of clarity and dimension before cameras rolled.",
+                -0.6166676250308344
+            ]
+        ],
+        "entities": {
+            "Chris Dowling": {
+                "args": []
+            }
+        }
+    }
+}

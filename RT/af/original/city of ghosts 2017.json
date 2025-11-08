@@ -1,0 +1,92 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Matthew Heineman": {
+                "args": [
+                    [
+                        "7_city of ghosts, a documentary by matthew heineman, provides a vision of dedication to reportorial truth in the desperate efforts of an improvised news organization with a haunting, if unwieldy name: \"raqqa is being slaughtered silently,\" or rbss.",
+                        0.5824084291565615
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Hussam": {
+                "args": []
+            },
+            "Aziz": {
+                "args": []
+            },
+            "Hamoud": {
+                "args": []
+            },
+            "Mohammad": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_this film will give you a new appreciation for the freedoms that are often taken for granted in a democracy.",
+                0.810574845283115
+            ],
+            [
+                "2_\"city of ghosts\" isn't merely about the personal sacrifices of these men, ",
+                -0.6311071010826715
+            ],
+            [
+                "6_no other film has so convincingly, or so urgently, illustrated the role that media will play in our fight for the future.",
+                0.735905053213521
+            ],
+            [
+                "8_part of what makes \"city of ghosts\" compelling is a chance to view disturbing footage of isis atrocities, clandestinely shot with cellphones and so revealing and incendiary the videoers faced death if captured.",
+                0.6617279679480544
+            ],
+            [
+                "9_\"city of ghosts\" provides a grim reminder of what journalism should look like, and why its stakes are literally life and death.",
+                -0.5584205665331095
+            ],
+            [
+                "10_city of ghosts, a harrowing documentary about isis atrocities in syria, is both timely and terrifying, ",
+                0.5883191711151596
+            ],
+            [
+                "12_city of ghosts gains its power from highlighting the rape of raqqa as told by ordinary men who risked everything to share this news story.",
+                -0.5080299946033688
+            ],
+            [
+                "14_\"city of ghosts,\" a blunt instrument of a documentary, is an urgent and heart-heavy account of syrian resistance from the ground up.",
+                0.63035435137395
+            ],
+            [
+                "16_the heroism on display in \"city of ghosts\" is unforgettable, and the film remains an ever-essential reminder of the high costs and vital necessity of journalism in this - or any - fight against evil.",
+                0.7669130546038356
+            ],
+            [
+                "19_heineman's film urges us not to take any horrors for granted.",
+                0.5658908466880325
+            ],
+            [
+                "21_[city of ghosts] reveals accurate information as the first weapon of resistance.",
+                0.7242399405281803
+            ],
+            [
+                "25_what \"city of ghosts\" does best is to humanize those who've suffered most from the conflict in syria, educating us through both outrage and compassion.",
+                0.7848099440400919
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

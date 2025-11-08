@@ -1,0 +1,55 @@
+{
+    "film": {
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sara Driver": {
+                "args": [
+                    [
+                        "2_what's admirable about the film is how driver gives the cross-pollinating forces of music, media, fashion and art such concise, firsthand exploration.",
+                        0.7859954406482423
+                    ],
+                    [
+                        "4_fans of basquiat, driver and her many, many interview subjects will eat it up.",
+                        0.7242238290873663
+                    ],
+                    [
+                        "5_what's refreshing about sara driver's look-back documentary...is the frisky, contemplative, ground-level angle it takes on its hype-magnet of a subject.",
+                        0.6334053099519283
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jean Michel Basquiat": {
+                "args": [
+                    [
+                        "0_because basquiat started as a graffiti artist, many of his earliest works were destroyed, so the rare photos here, provided by his friend alexis adler, are illuminating.",
+                        0.8084528413227587
+                    ],
+                    [
+                        "4_fans of basquiat, driver and her many, many interview subjects will eat it up.",
+                        0.7242238290873663
+                    ],
+                    [
+                        "9_a treasure for those interested in downtown new york's heyday and a demythologized basquiat.",
+                        0.5743608837713111
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

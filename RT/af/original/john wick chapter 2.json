@@ -1,0 +1,124 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_ combined with elaborately sampled stunt work.",
+                0.5303000027435029
+            ],
+            [
+                "18_there is so much beautiful, beautiful killing in \"john wick: chapter 2,\" you can hardly blame the movie for refusing to look away.",
+                0.5957719293273265
+            ],
+            [
+                "19_the first \"john wick\" was taut and nasty, a potent slug of b-movie.",
+                0.5222666974413133
+            ],
+            [
+                "20_chapter two demonstrates what film as an art form is all about: it awes and delights, challenges and provokes.",
+                0.7788543605973182
+            ],
+            [
+                "30_the first film had its moments, ",
+                -0.5267464760666704
+            ],
+            [
+                "31_\"chapter 2\" is state-of-the-art action that's sacrificed some of the charm and heart that were the first film's secret weapon.",
+                0.6213940937106405
+            ],
+            [
+                "34_if any sequel deserved reloaded as a subtitle, it's a movie that rolls out a succession of gun blasts to heads the way fred astaire handled pockets full of firecrackers in holiday inn.",
+                0.5146588340091006
+            ],
+            [
+                "35_if you loved the original movie, you might not care so much about being given warmed-over seconds.",
+                -0.5392857119407907
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chad Stahelski": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lance Reddick": {
+                "args": []
+            },
+            "Laurence Fishburne": {
+                "args": []
+            },
+            "Peter Stormare": {
+                "args": []
+            },
+            "Thomas Sadoski": {
+                "args": []
+            },
+            "John Leguizamo": {
+                "args": []
+            },
+            "Common": {
+                "args": []
+            },
+            "Ian McShane": {
+                "args": []
+            },
+            "Ruby Rose": {
+                "args": []
+            },
+            "Keanu Reeves": {
+                "args": [
+                    [
+                        "6_you would not expect a sequel to a keanu reeves shoot-em-up to be one of the more engrossing and beautiful films of the year, ",
+                        0.8622930634930026
+                    ],
+                    [
+                        "10_who would have guessed keanu reeves' stoic, black-clad, one-man killing machine would become the go-to bad guy/action hero of the 2010s?",
+                        -0.8652693679552889
+                    ],
+                    [
+                        "33_chapter 2, with keanu reeves at his absolute best, is the real deal in action-movie fireworks -",
+                        -0.5061147323727465
+                    ],
+                    [
+                        "38_once again, reeves does not disappoint, fully inhabiting wick by channeling his rage over life's injustices into an intensely focused performance.",
+                        0.5770405896662631
+                    ]
+                ]
+            },
+            "Bridget Moynahan": {
+                "args": []
+            },
+            "Margaret Daly": {
+                "args": []
+            },
+            "Riccardo Scamarcio": {
+                "args": []
+            },
+            "Franco Nero": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "23_ there is a purity to them that transcends their barbarity and has something to do with the central character.",
+                0.5684977652646113
+            ]
+        ],
+        "entities": {
+            "Derek Kolstad": {
+                "args": []
+            }
+        }
+    }
+}

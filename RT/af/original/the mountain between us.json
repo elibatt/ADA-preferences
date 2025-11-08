@@ -1,0 +1,167 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_i was surprised by the film's shift from adventure story to romantic melodrama, and yet the turn feels natural.",
+                0.7009761176986633
+            ],
+            [
+                "1_it's a case of good actress in the wrong film, playing across a good leading man who just doesn't resonate on her frequency.",
+                -0.5919089104043883
+            ],
+            [
+                "3_skip the mountain between us.",
+                -0.5219260104725394
+            ],
+            [
+                "3_if you're in the mood to be cloyed, watch a hallmark movie instead.",
+                -0.5628212597719995
+            ],
+            [
+                "11_there's a bigger obstruction here than the mountain between the characters: it's the story that can't get out of the way of itself.",
+                -0.5927136437609307
+            ],
+            [
+                "17_it's said you have a choice at a movie like the mountain between us:",
+                0.516687968493354
+            ],
+            [
+                "20_the movie works as far-fetched escapism with some genuinely moving moments.",
+                0.7470633356818737
+            ],
+            [
+                "23_some of the plot turns seem a bit too convenient, and the film goes on for too long.",
+                -0.7430255903461573
+            ],
+            [
+                "29_ the film's heart lies in watching these characters discover in themselves and each other the will to press on.",
+                0.7425197103592797
+            ],
+            [
+                "31_we end up liking the characters very much, and caring about them, even if we simultaneously are not remotely in love with the movie.",
+                0.5335927239637468
+            ],
+            [
+                "32_in the hands of lesser actors i shudder to think of what a slog \"the mountain between us\" might be, with its endless catastrophes and near-deaths and melodramatic declarations.",
+                -0.6509110478468723
+            ],
+            [
+                "33_remove the nonsensical characterizations and the mountain between us becomes a cornball paean to rock formations and (mostly male) beauty.",
+                -0.5808391985401267
+            ],
+            [
+                "35_a movie in which neither the subzero temperature nor the romantic heat penetrates more than skin deep.",
+                -0.7134296800214018
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Hany Abu-Assad": {
+                "args": [
+                    [
+                        "6_it's hard to imagine a more generic wilderness adventure-turned-romance than hany abu-assad's the mountain between us.",
+                        -0.5414674736509633
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Dermot Mulroney": {
+                "args": []
+            },
+            "Beau Bridges": {
+                "args": []
+            },
+            "Idris Elba": {
+                "args": [
+                    [
+                        "2_ interesting unconventional love story in order to become a sort of bizarre idris elba fan fiction.",
+                        0.6713820389847702
+                    ],
+                    [
+                        "4_labored and boring, the mountain between us is a soap opera in the snow that fritters away the time and talents of kate winslet and idris elba for all the wrong reasons.",
+                        -0.7383897993344205
+                    ],
+                    [
+                        "10_winslet and elba's chemistry is frostbitten.",
+                        -0.5373022596238783
+                    ],
+                    [
+                        "19_to the marginal extent that it works, credit elba and winslet, who manage not only to convey determination, fear and bouts of resignation ",
+                        0.6029102101688959
+                    ],
+                    [
+                        "21_none of it would work ... without winslet and elba, whose smarts and sex-appeal shine through - even with a teensy bit of fake dirt pressed onto their cheeks.",
+                        0.5419909605010709
+                    ],
+                    [
+                        "26_to watch the magnetic idris elba trudge through a monumental dud like \"the mountain between us\" is almost physically painful.",
+                        -0.7669648574353027
+                    ],
+                    [
+                        "27_absorbing drama ought to be the one thing that kate winslet and idris elba have in plentiful supply in \"the mountain between us.\"",
+                        0.5110039471758339
+                    ],
+                    [
+                        "28_kate winslet and idris elba are two of the best actors working today.",
+                        0.8433224634119072
+                    ]
+                ]
+            },
+            "Kate Winslet": {
+                "args": [
+                    [
+                        "1_the mountain between us fails almost exclusively because of kate winslet.",
+                        -0.5691472921224571
+                    ],
+                    [
+                        "9_ winslet in particular adds authenticity and gravitas.",
+                        0.5314705210853138
+                    ],
+                    [
+                        "18_elba and winslet generate chemistry that is convincing in direct proportion to the story's outlandishness.",
+                        0.6054763021633534
+                    ],
+                    [
+                        "22_elba and winslet are magnetic screen presences, irresistible to watch individually and even better together.",
+                        0.7814314487500322
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_most of the time, character development is buried under fresh powder.",
+                0.5806982956164441
+            ]
+        ],
+        "entities": {
+            "Chris Weitz": {
+                "args": []
+            },
+            "J. Mills Goodloe": {
+                "args": [
+                    [
+                        "9_it's a mills & boon kind of set up, ",
+                        0.7508433548690208
+                    ],
+                    [
+                        "13_j. mills goodloe and chris weitz's script ... dispenses backstory as if through an i.v. drip, designed to just barely sustain the audience's interest.",
+                        -0.6133752590182896
+                    ]
+                ]
+            }
+        }
+    }
+}

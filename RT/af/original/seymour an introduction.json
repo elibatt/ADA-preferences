@@ -1,0 +1,125 @@
+{
+    "director": {
+        "args": [
+            [
+                "21_ as a documentary director.",
+                -0.5090810627770084
+            ]
+        ],
+        "entities": {
+            "Ethan Hawke": {
+                "args": [
+                    [
+                        "3_coming off of his superb one-two performances for richard linklater in before midnight and boyhood, hawke continues to work at a creative high level.",
+                        0.5864914559206547
+                    ],
+                    [
+                        "16_ yet hawke is too alert and too inquiring to let the movie subside into worship.",
+                        -0.5331101652929102
+                    ],
+                    [
+                        "21_a case in point is seymour bernstein, the subject of actor ethan hawke's assured, meditative de",
+                        0.5284676890148129
+                    ],
+                    [
+                        "24_ethan hawke's remarkable documentary puts us in close proximity to 80-something classical pianist seymour bernstein, whose funny, touching and vital presence is something you don't want to miss.",
+                        0.6184997377513393
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Junko Ichikawa": {
+                "args": []
+            },
+            "Kimball Gallagher": {
+                "args": []
+            },
+            "Michael Kimmelman": {
+                "args": []
+            },
+            "Seymour Bernstein": {
+                "args": [
+                    [
+                        "0_the great joy of the film, whether you know piano or not, is watching bernstein teach.",
+                        0.8413139299407555
+                    ],
+                    [
+                        "2_like a touching master class on living correctly, listening to the charming bernstein will have you changing keys.",
+                        0.8899372758622885
+                    ],
+                    [
+                        "17_but bernstein is a special case because, unlike so many great musicians who fell unwillingly by the wayside,",
+                        0.7292372718718045
+                    ],
+                    [
+                        "20_ the solitary sight of bernstein putting together his foldout couch/bed in his one-room apartment is as poignant as his recital of the \"moonlight\" sonata.",
+                        0.6555204802275617
+                    ],
+                    [
+                        "21_a case in point is seymour bernstein, the subject of actor ethan hawke's assured, meditative de",
+                        0.5284676890148129
+                    ],
+                    [
+                        "22_does it close the distance between you and mr. bernstein that afterward you may find yourself scanning the streets, hoping to catch sight of him, as if for an old friend.",
+                        0.6165219194733469
+                    ],
+                    [
+                        "24_ethan hawke's remarkable documentary puts us in close proximity to 80-something classical pianist seymour bernstein, whose funny, touching and vital presence is something you don't want to miss.",
+                        0.6184997377513393
+                    ],
+                    [
+                        "26_works both as a celebration of bernstein, whose spirit is at once gentle and boldly generous, and as a way of exploring creativity and the meaning it can have in our lives.",
+                        0.8180531013352712
+                    ]
+                ]
+            },
+            "Andrew Harvey": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "9_it's hard to find much wrong with this film, itself a meditation on art and the practice of craft.",
+                -0.5413906447383469
+            ],
+            [
+                "10_the movie's real subject is the difficulty -- and the critical importance -- of bringing into harmony one's personal and artistic lives, of being not only a good artist ",
+                0.7558110951579595
+            ],
+            [
+                "11_an introduction is a delightful film experience about the transformative power of art.",
+                0.8319378201933535
+            ],
+            [
+                "15_hawke's first documentary is a perfect movie for a gray sunday afternoon, a gentle and loving tri",
+                0.796310732184131
+            ],
+            [
+                "18_the movie kind of flits along-if one wanted to be cruel",
+                -0.6877736509952204
+            ],
+            [
+                "25_the film claims to be an introduction, ",
+                -0.550145385918708
+            ],
+            [
+                "27_hawke's film is very well crafted, tightly edited and elegantly photographed.",
+                0.7549340646526418
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

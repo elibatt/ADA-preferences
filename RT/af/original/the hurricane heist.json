@@ -1,0 +1,80 @@
+{
+    "writer": {
+        "entities": {
+            "Scott Windhauser": {
+                "args": []
+            },
+            "Jeff Dixon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Ralph Ineson": {
+                "args": []
+            },
+            "Ben Cross": {
+                "args": []
+            },
+            "James Barriscale": {
+                "args": []
+            },
+            "Melissa Bolona": {
+                "args": []
+            },
+            "Randy Couture": {
+                "args": []
+            },
+            "Ryan Kwanten": {
+                "args": []
+            },
+            "Natacha Karam": {
+                "args": []
+            },
+            "Maggie Grace": {
+                "args": []
+            },
+            "Toby Kebbell": {
+                "args": []
+            },
+            "Christian Contreras": {
+                "args": []
+            },
+            "James Cutler": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the film never rises to the promise of its awesomely literal title.",
+                -0.5830373552807608
+            ],
+            [
+                "3_if our divided country can't come together over a movie this wonderfully terrible, what hope do we really have?",
+                -0.7354591909082158
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rob Cohen": {
+                "args": [
+                    [
+                        "6_what [cohen] doesn't do very well is concoct a good story or create characters that resemble real people, which is why heist can ... be a bit of a chore.",
+                        -0.5758282016976135
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

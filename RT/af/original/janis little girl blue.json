@@ -1,0 +1,189 @@
+{
+    "film": {
+        "args": [
+            [
+                "11_this is a meticulously researched film that makes good use of its incredible access.",
+                0.8119480972144437
+            ],
+            [
+                "16_the movie doesn't rise above its music-doc formula of photo, clip, talking head.",
+                -0.5433877780570884
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Amy Berg": {
+                "args": [
+                    [
+                        "1_documentary filmmaker amy berg (west of memphis, prophet's prey) has made an elegant, affectionate and, in many ways, remarkably cheerful film about janis joplin.",
+                        0.8322654934501729
+                    ],
+                    [
+                        "17_amy berg's deeply sympathetic documentary on janis joplin -- a singer whose shredded wail tapped reservoirs of pain -- gets so much right, it feels like a major act of cultural excavation.",
+                        -0.5663704487058397
+                    ],
+                    [
+                        "20_it's the focus on the art and the artist, and not on her demise, that makes amy berg's documentary janis so electrifying.",
+                        0.7197725174409251
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "10_the director interviewed just about everyone relevant to joplin's life story who is still alive.",
+                0.7122115214452758
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Amy Berg": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "David Dalton": {
+                "args": []
+            },
+            "Sam Andrew": {
+                "args": []
+            },
+            "Janis Joplin": {
+                "args": [
+                    [
+                        "1_documentary filmmaker amy berg (west of memphis, prophet's prey) has made an elegant, affectionate and, in many ways, remarkably cheerful film about janis joplin.",
+                        0.8322654934501729
+                    ],
+                    [
+                        "5_ this valuable documentary of incendiary 1960s blues rocker janis joplin is actually more celebration than eulogy.",
+                        0.5966385125196186
+                    ],
+                    [
+                        "6_berg tells the story of janis joplin with sympathetic straightforwardness in \"janis: little girl blue,\" and that's fine: joplin herself provides all the excess.",
+                        0.8088915821683915
+                    ],
+                    [
+                        "7_from this pastiche joplin emerges as we've never seen her before, articulate, ambitious, torn between her wild self and her desperate need for stability.",
+                        0.6273355699960687
+                    ],
+                    [
+                        "8_smoothly told, with the sweetly vulnerable joplin letters adding an additional layer of pathos, it's a sad story that leaves us wondering what might have been.",
+                        -0.5074161234901748
+                    ],
+                    [
+                        "9_ the film is nonetheless effective in illustrating how a star as incendiary as joplin could dim and ultimately die in the spotlight.",
+                        0.7519550499319525
+                    ],
+                    [
+                        "10_the director interviewed just about everyone relevant to joplin's life story who is still alive.",
+                        0.7122115214452758
+                    ],
+                    [
+                        "13_the film sustains a double vision of both the child and the hard-living folk-blues mama joplin became.",
+                        0.7883325405844457
+                    ],
+                    [
+                        "14_there's plenty of wonderfully wild onstage footage and charming, behind-the-scenes goofing around here, and the movie is a fan's appreciation of how much exuberant fun joplin could be on and offstage, of her ferocious work ethic and mischievous spirit.",
+                        0.8363436537767357
+                    ],
+                    [
+                        "15_for anyone who just wants \"the janis joplin story,\" told from start to finish-with plenty of examples of why anyone should care about the untimely death of a substance-abuser-little girl blue is the way to go.",
+                        -0.6989041829631596
+                    ],
+                    [
+                        "17_amy berg's deeply sympathetic documentary on janis joplin -- a singer whose shredded wail tapped reservoirs of pain -- gets so much right, it feels like a major act of cultural excavation.",
+                        -0.5663704487058397
+                    ],
+                    [
+                        "18_the movie won't acknowledge that joplin's voice or image were her own, and in the end it even gives her demons to the men.",
+                        0.6200910734676548
+                    ],
+                    [
+                        "21_the film is tasked with cramming an entire life into the minimum of time, and it often comes up short when it comes to canny explorations and richer examinations of both joplin's individual life and her greater legacy.",
+                        0.8072594746135616
+                    ],
+                    [
+                        "22_it's the satisfying feature-length overview that joplin's brief, fiercely brilliant career has long merited.",
+                        0.6797662544299716
+                    ]
+                ]
+            },
+            "Juliette Lewis": {
+                "args": []
+            },
+            "Julius Karpen": {
+                "args": []
+            },
+            "Melissa Etheridge": {
+                "args": []
+            },
+            "Michael Joplin": {
+                "args": []
+            },
+            "D.A. Pennebaker": {
+                "args": []
+            },
+            "John Byrne Cooke": {
+                "args": []
+            },
+            "Country Joe McDonald": {
+                "args": []
+            },
+            "Chan Marshall": {
+                "args": []
+            },
+            "Bob Weir": {
+                "args": []
+            },
+            "Kris Kristofferson": {
+                "args": []
+            },
+            "Cat Power": {
+                "args": []
+            },
+            "Travis Rivers": {
+                "args": []
+            },
+            "J. Dave Moriaty": {
+                "args": []
+            },
+            "Clive Davis": {
+                "args": []
+            },
+            "Powell St. John": {
+                "args": []
+            },
+            "Laura Joplin": {
+                "args": []
+            },
+            "Jae Whitaker": {
+                "args": []
+            },
+            "Peter Albin": {
+                "args": []
+            },
+            "Dick Cavett": {
+                "args": []
+            },
+            "David Getz": {
+                "args": []
+            },
+            "Cornelius \"Snooky\" Flowers": {
+                "args": []
+            },
+            "Karleen Bennett": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_for all its late-in-the-game silliness, \"the exception\" is a solidly acted, well-told tale about how love of country holds up in the face of other, less nationalistic passions.",
+                0.73251652590184
+            ],
+            [
+                "8_ engrossing the exception makes a moving portrait of individuals recalibrating their allegiances under the maw of the third reich.",
+                0.8092481474791161
+            ],
+            [
+                "11_\"the exception\" is a diverting and occasionally exciting film, ",
+                0.5527207825116284
+            ],
+            [
+                "12_this is the kind of movie often referred to as \"handsomely mounted,\" for good reason, and these elements become the focus of a bored viewer.",
+                -0.5222921288424928
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "David Leveaux": {
+                "args": [
+                    [
+                        "9_the superb english stage director david leveaux keeps the pacing taut while creating space for his actors to work their magic.",
+                        0.760401569230876
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Simon Burke (II) ": {
+                "args": [
+                    [
+                        "4_for the most part it works, both as a bizarre romance and a fanciful world war ii almost-thriller.",
+                        0.8705011110361467
+                    ],
+                    [
+                        "10_a handsomely mounted world war ii-era romantic thriller, enlivened by vibrant performances and vivid sexual encounters and inspired by a little-known footnote to history, the story of a ruler who left ",
+                        0.7917691521228373
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Lily James": {
+                "args": [
+                    [
+                        "6_both [james] and courtney are lovely to look at and suit the costume designer daniela ciancio's finely calibrated period outfits.",
+                        0.8181119264503589
+                    ]
+                ]
+            },
+            "Ben Daniels": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": [
+                    [
+                        "13_whenever plummer is onscreen, the exception is scintillating entertainment.",
+                        -0.5245029675204418
+                    ]
+                ]
+            },
+            "Janet McTeer": {
+                "args": []
+            },
+            "Jai Courtney": {
+                "args": []
+            },
+            "Eddie Marsan": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

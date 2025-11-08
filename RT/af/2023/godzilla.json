@@ -1,0 +1,124 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "14_what keeps the movie from being a complete summer bummer is the grace of the monster itself...",
+                -0.6119311826541514
+            ],
+            [
+                "5_but godzilla, which delivers unpretentious fun with a blithe spirit,",
+                0.8292548346989488
+            ],
+            [
+                "4_while the spectacular special effects are the obvious main attraction, godzilla, at more than two hours long, is bogged down by paper-thin characters and uninteresting subplots.",
+                -0.655591448929224
+            ],
+            [
+                "8_godzilla is a clip-job on celluloid.",
+                0.6504834818361146
+            ],
+            [
+                "10_come to think of it, this isn't a movie.",
+                -0.8149085937761719
+            ],
+            [
+                "11_the makers of godzilla obviously devoted so much manpower and time and energy and money to the admittedly fabulous special effects that they apparently had no budget left over for actors.",
+                -0.7127030453104202
+            ],
+            [
+                "12_the film doesn't spare anything when it comes to special effects.",
+                -0.6158666013541597
+            ],
+            [
+                "13_slickly produced, visually deft, godzilla falters because it lacks soul.",
+                0.7698760440510706
+            ],
+            [
+                "18_godzilla fills its non-spectacle sequences with turgid emoting and plot shifts so clearly at the service of the special effects budget that they are painful to behold.",
+                -0.7212148470157549
+            ],
+            [
+                "19_other than the way the giant lizard looks -- which does turn out to be pretty spectacular -- there's not a whole heck of a lot going on in this film.",
+                -0.6636043215700974
+            ],
+            [
+                "17",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Roland Emmerich": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "17_emmerich and devlin seem to have created a new subgenre: generic destruction.",
+                -0.6759837181336522
+            ]
+        ],
+        "entities": {
+            "Dean Devlin": {
+                "unique_args": [
+                    [
+                        "17_emmerich and devlin seem to have created a new subgenre: generic destruction.",
+                        -0.6759837181336522
+                    ]
+                ]
+            },
+            "Roland Emmerich": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Matthew Broderick": {
+                "unique_args": []
+            },
+            "Jean Reno": {
+                "unique_args": []
+            },
+            "Maria Pitillo": {
+                "unique_args": []
+            },
+            "Hank Azaria": {
+                "unique_args": []
+            },
+            "Kevin Dunn": {
+                "unique_args": []
+            },
+            "Michael Lerner": {
+                "unique_args": []
+            },
+            "Harry Shearer": {
+                "unique_args": []
+            },
+            "Arabella Field": {
+                "unique_args": []
+            },
+            "Vicki Lewis": {
+                "unique_args": []
+            },
+            "Doug Savant": {
+                "unique_args": []
+            },
+            "Malcolm Danare": {
+                "unique_args": []
+            },
+            "Lorry Goldman": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

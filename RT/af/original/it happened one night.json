@@ -1,0 +1,225 @@
+{
+    "acting": {
+        "args": [
+            [
+                "4_one of those stories that without a particularly strong plot manages to come through in a big way, due to the acting, dialog, situations and direction.",
+                0.5545667335109107
+            ]
+        ],
+        "entities": {
+            "Clark Gable": {
+                "args": []
+            },
+            "Harry C. Bradley": {
+                "args": []
+            },
+            "Harry Todd": {
+                "args": []
+            },
+            "Ky Robinson": {
+                "args": []
+            },
+            "Oliver Eckhardt": {
+                "args": []
+            },
+            "Charles C. Wilson": {
+                "args": []
+            },
+            "Harry Hume": {
+                "args": []
+            },
+            "Mickey Daniels": {
+                "args": []
+            },
+            "Fred Walton": {
+                "args": []
+            },
+            "Ernie S. Adams": {
+                "args": []
+            },
+            "Wallis Clark": {
+                "args": []
+            },
+            "Roscoe Karns": {
+                "args": []
+            },
+            "Douglas Carter Beane": {
+                "args": []
+            },
+            "Charles D. Brown": {
+                "args": []
+            },
+            "Sherry Hall": {
+                "args": []
+            },
+            "Henry Wadsworth": {
+                "args": []
+            },
+            "Hal Price": {
+                "args": []
+            },
+            "Edmund Burns": {
+                "args": []
+            },
+            "Rita Ross": {
+                "args": []
+            },
+            "Arthur Hoyt": {
+                "args": []
+            },
+            "James Burke": {
+                "args": []
+            },
+            "Bess Flowers": {
+                "args": []
+            },
+            "Alan Hale Sr.": {
+                "args": []
+            },
+            "Matty Roubert": {
+                "args": []
+            },
+            "Irving Bacon": {
+                "args": []
+            },
+            "Kit Guard": {
+                "args": []
+            },
+            "Dave Wengren": {
+                "args": []
+            },
+            "Claire McDowell": {
+                "args": []
+            },
+            "Jameson Thomas": {
+                "args": []
+            },
+            "Rev. Neal Dodd": {
+                "args": []
+            },
+            "Earl Pingree": {
+                "args": []
+            },
+            "Frank Yaconelli": {
+                "args": []
+            },
+            "Eva Dennison": {
+                "args": []
+            },
+            "Blanche Frederici": {
+                "args": []
+            },
+            "Claudette Colbert": {
+                "args": [
+                    [
+                        "6_ and the film shows its stars at their best, colbert as one of hollywood's fresher comediennes, gable as dumb-",
+                        0.7257973581922156
+                    ]
+                ]
+            },
+            "J. Frank Holliday": {
+                "args": [
+                    [
+                        "3_instead of attempting a journalistic study of bus-travel, regularly punctuated by comic touches, director frank capra and robert riskin who adapted samuel hopkins adams' story, fused the two.",
+                        0.5743681533134054
+                    ]
+                ]
+            },
+            "Ward Bond": {
+                "args": []
+            },
+            "Tom Ricketts": {
+                "args": []
+            },
+            "Walter Connolly": {
+                "args": []
+            },
+            "George Breakston": {
+                "args": []
+            },
+            "Billy Engle": {
+                "args": []
+            },
+            "Eddy Chandler": {
+                "args": []
+            },
+            "Bert Starkey": {
+                "args": []
+            },
+            "Harry Holman": {
+                "args": []
+            },
+            "Jason Thomas": {
+                "args": []
+            },
+            "Ethel Sykes": {
+                "args": []
+            },
+            "Eddie Kane": {
+                "args": []
+            },
+            "Maidel Turner": {
+                "args": []
+            },
+            "Milton Kibbee": {
+                "args": []
+            },
+            "Joseph Crehan": {
+                "args": []
+            },
+            "Alan Hale": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_it happened one night is a good piece of fiction, which, with all its feverish stunts, is blessed with bright dialogue and a good quota of relatively restrained scenes.",
+                0.6834342164554355
+            ],
+            [
+                "8_most years, there's at least one theatrical release that owes a debt to this film.",
+                0.5643078182613592
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Frank Capra": {
+                "args": [
+                    [
+                        "2_frank capra never lets his picture lag for a moment.",
+                        0.6007356770472823
+                    ],
+                    [
+                        "3_instead of attempting a journalistic study of bus-travel, regularly punctuated by comic touches, director frank capra and robert riskin who adapted samuel hopkins adams' story, fused the two.",
+                        0.5743681533134054
+                    ],
+                    [
+                        "5_this is capra at his best, very funny and very light, with a minimum of populist posturing.",
+                        0.8962038487121667
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Robert Riskin": {
+                "args": [
+                    [
+                        "3_instead of attempting a journalistic study of bus-travel, regularly punctuated by comic touches, director frank capra and robert riskin who adapted samuel hopkins adams' story, fused the two.",
+                        0.5743681533134054
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Simon Kinberg": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "6_the movie seems dull and bloated.",
+                -0.7623492383558798
+            ],
+            [
+                "18_ the ninth film in the franchise has some entertaining moments.",
+                0.5542918275042015
+            ],
+            [
+                "22_singer's fourth x-men film is not just a step down, it's a fall down the stairs.",
+                -0.5505318250318021
+            ],
+            [
+                "28_the film is fun in its own right with its grand scope and great special effects, and it doesn't require a viewer's knowledge of its predecessors to be enjoyed, even if those who already know the characters get an even bigger payoff.",
+                0.8939621072675563
+            ],
+            [
+                "30_as a superhero movie in general and an x-men movie in particular, apocalypse delivers everything a viewer could reasonably expect from it.",
+                0.6122471518503829
+            ],
+            [
+                "35_the latest in the x-men movie franchise is just x-meh.",
+                -0.6464679622081091
+            ],
+            [
+                "39_but it is a movie with way too much of everything except the things that should matter the most -- novelty, creativity,",
+                -0.5665470519207095
+            ],
+            [
+                "41_if nothing else, this spectacularly goofy and sporadically entertaining movie isn't afraid to reimagine human history.",
+                0.5165421340716144
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Henry Hallowell": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": [
+                    [
+                        "33_like oscar isaac in that first scene",
+                        0.6369020139273988
+                    ]
+                ]
+            },
+            "Jennifer Lawrence": {
+                "args": [
+                    [
+                        "1_some of the franchise stalwarts, such as jennifer lawrence's mystique, are given too little to do.",
+                        -0.7113993075164867
+                    ]
+                ]
+            },
+            "Ian Geldart": {
+                "args": []
+            },
+            "Abanoub Andraous": {
+                "args": []
+            },
+            "John Bourgeois": {
+                "args": []
+            },
+            "Joanne Boland": {
+                "args": []
+            },
+            "Olivia Munn": {
+                "args": []
+            },
+            "Tómas Lemarquis": {
+                "args": []
+            },
+            "T.J. McGibbon": {
+                "args": []
+            },
+            "Dan Lett": {
+                "args": []
+            },
+            "Nabeel El Khafif": {
+                "args": []
+            },
+            "Martin Skorek": {
+                "args": []
+            },
+            "Danielle Dury": {
+                "args": []
+            },
+            "Moataz Fathi": {
+                "args": []
+            },
+            "Mary-Pier Gaudet": {
+                "args": []
+            },
+            "Ronald Tremblay": {
+                "args": []
+            },
+            "Sebastien Teller": {
+                "args": []
+            },
+            "Antonio Daniel Hidalgo": {
+                "args": []
+            },
+            "Lucas Till": {
+                "args": []
+            },
+            "James Loye": {
+                "args": []
+            },
+            "Philipp Hartmann": {
+                "args": []
+            },
+            "Tsu Ching Yu": {
+                "args": []
+            },
+            "Rose Byrne": {
+                "args": []
+            },
+            "Simon Therrien": {
+                "args": []
+            },
+            "Joanie Lee": {
+                "args": []
+            },
+            "Osman Ahmed": {
+                "args": []
+            },
+            "Hesham Hammoud": {
+                "args": []
+            },
+            "Desmond Campbell": {
+                "args": []
+            },
+            "Chris Cavener": {
+                "args": []
+            },
+            "Zehra Leverman": {
+                "args": []
+            },
+            "Karl Walcott": {
+                "args": []
+            },
+            "Zeljko Ivanek": {
+                "args": []
+            },
+            "Josh Madryga": {
+                "args": []
+            },
+            "Shawn Campbell": {
+                "args": []
+            },
+            "Davide Chiazzese": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": []
+            },
+            "Alexander Peganov": {
+                "args": []
+            },
+            "John Ottman": {
+                "args": []
+            },
+            "Boris Sichon": {
+                "args": []
+            },
+            "James Malloch": {
+                "args": []
+            },
+            "Christopher B. MacCabe": {
+                "args": []
+            },
+            "Joe Cobden": {
+                "args": []
+            },
+            "Josh Helman": {
+                "args": []
+            },
+            "Allen Keng": {
+                "args": []
+            },
+            "Sophie Turner": {
+                "args": []
+            },
+            "Alexandra Shipp": {
+                "args": []
+            },
+            "Joseph Bellerose": {
+                "args": []
+            },
+            "Berge Garabedian": {
+                "args": []
+            },
+            "Stephen Bogaert": {
+                "args": []
+            },
+            "Anthony Konechny": {
+                "args": []
+            },
+            "Naomi Frenette": {
+                "args": []
+            },
+            "Francis Limoges": {
+                "args": []
+            },
+            "Kamil Orzechowski": {
+                "args": []
+            },
+            "Al Maini": {
+                "args": []
+            },
+            "Sebastian Naskrent": {
+                "args": []
+            },
+            "Erika Heather Mergl": {
+                "args": []
+            },
+            "Emma Elle Paterson": {
+                "args": []
+            },
+            "Raphaël Dury": {
+                "args": []
+            },
+            "Nicholas Hoult": {
+                "args": []
+            },
+            "Gustave Ouimet": {
+                "args": []
+            },
+            "Evan Peters": {
+                "args": []
+            },
+            "Ryan Hollyman": {
+                "args": []
+            },
+            "Ben Hardy": {
+                "args": []
+            },
+            "Michael Terlecki": {
+                "args": []
+            },
+            "Tye Sheridan": {
+                "args": []
+            },
+            "Kodi Smit-McPhee": {
+                "args": []
+            },
+            "Ally Sheedy": {
+                "args": []
+            },
+            "Conrad Coates": {
+                "args": []
+            },
+            "AJ Risi": {
+                "args": []
+            },
+            "Tsu-Ching Yu": {
+                "args": []
+            },
+            "Ziad Ghanem": {
+                "args": []
+            },
+            "Tally Rodin": {
+                "args": []
+            },
+            "Scott Cook": {
+                "args": []
+            },
+            "Manuel Sinor": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Carolina Bartczak": {
+                "args": []
+            },
+            "Adrian G. Griffiths": {
+                "args": []
+            },
+            "Scott Cooke": {
+                "args": []
+            },
+            "Manuel Tadros": {
+                "args": []
+            },
+            "Herbert Luft": {
+                "args": []
+            },
+            "Aladeen Tawfeek": {
+                "args": []
+            },
+            "Linda Joyce Nourse": {
+                "args": []
+            },
+            "Lana Condor": {
+                "args": []
+            },
+            "James McAvoy": {
+                "args": []
+            },
+            "Patrice Martre": {
+                "args": []
+            },
+            "Lukas Penar": {
+                "args": []
+            },
+            "Abdulla Hamam": {
+                "args": []
+            },
+            "Ian Rosenberg": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Bryan Singer": {
+                "args": [
+                    [
+                        "7_ it's the first from director bryan singer, who now has four of these under his belt, including the original.",
+                        0.5862576861492084
+                    ],
+                    [
+                        "21_why is bryan singer even making this?",
+                        -0.5025664806849154
+                    ],
+                    [
+                        "32_piece by piece, singer fits this ninth film in the franchise (which includes deadpool) into the x-men universe like a master puzzle maker.",
+                        0.6034068027461872
+                    ],
+                    [
+                        "42_marks a shocking letdown from singer's earlier contri",
+                        -0.5345380811926774
+                    ]
+                ]
+            }
+        }
+    }
+}

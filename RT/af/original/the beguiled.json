@@ -1,0 +1,238 @@
+{
+    "writer": {
+        "entities": {
+            "Sofia Coppola": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "39_the character dynamics transfix ...",
+                0.5246425850747493
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Oona Laurence": {
+                "args": []
+            },
+            "Colin Farrell": {
+                "args": [
+                    [
+                        "4_ farrell's charm, just hinting at something dark within it",
+                        0.6516228083451454
+                    ]
+                ]
+            },
+            "Kirsten Dunst": {
+                "args": [
+                    [
+                        "4_ dunst's quiet melancholy.",
+                        0.6647589524117339
+                    ],
+                    [
+                        "32_kirsten dunst is terrific as a slightly sad teacher with her own designs on the yank.",
+                        0.5927655023427405
+                    ]
+                ]
+            },
+            "Elle Fanning": {
+                "args": [
+                    [
+                        "4_ fanning's way of prettily arranging herself, showing off alice's newfound power",
+                        -0.5199788400314322
+                    ]
+                ]
+            },
+            "Angourie Rice": {
+                "args": []
+            },
+            "Addison Riecke": {
+                "args": []
+            },
+            "Nicole Kidman": {
+                "args": [
+                    [
+                        "3_fanning, dunst and the on-a-roll kidman all seem ready to dive in, ",
+                        0.5056599928380778
+                    ],
+                    [
+                        "4_the actors pitch their roles perfectly: kidman's breathy calm",
+                        0.7375747613821126
+                    ],
+                    [
+                        "20_a few of the performances, especially nicole kidman's, as the lady in charge, and kirsten dunst's, as the teacher pining to flee with the corporal, have some bite, ",
+                        0.7103905570175817
+                    ],
+                    [
+                        "30_nicole kidman is particularly, unsurprisingly excellent in her performance as the steely miss martha.",
+                        0.8775011230094155
+                    ],
+                    [
+                        "34_the performances are engrossing, particularly kidman's: she disappears into the distant primness of ms. farnsworth.",
+                        0.7555513583885395
+                    ]
+                ]
+            },
+            "Emma Howard (VIII)": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the beguiled is better directed than it is written...",
+                0.5029305363207747
+            ],
+            [
+                "1_in its study of interpersonal rivalry and sexual tension, the film doesn't say anything that wasn't better articulated in don siegel's 1971 adaptation.",
+                -0.5123123330312361
+            ],
+            [
+                "3_ \"the beguiled\" stops them short.",
+                -0.5668911370095047
+            ],
+            [
+                "6_the beguiled works at a slow simmer and within the hothouse atmosphere painstakingly created by the filmmaker.",
+                0.7379218203057701
+            ],
+            [
+                "8_of course, something's gotta give, and when it does, the beguiled reminds us we haven't been watching a fairy tale all this time",
+                -0.5137127147125939
+            ],
+            [
+                "12_on its own terms, \"the beguiled\" is a finely crafted, gemlike exercise in surface tension and subterranean stirrings.",
+                0.7535816576617311
+            ],
+            [
+                "13_\"the beguiled\" probably could've benefited from a little more energy in its telling.",
+                -0.5470103737954108
+            ],
+            [
+                "15_\"the beguiled\" is a solid and at times eerily subversive piece of work, ",
+                0.6395287816338056
+            ],
+            [
+                "17_each frame of the beguiled is a wonder to look at, from the candle-lit dinner-time conferences to the angelic portraits of john, who's frequently bathed in heavenly light.",
+                0.7923326084157851
+            ],
+            [
+                "21_the kind of movie that lingers on in your head, just like the best fairy tales do.",
+                0.7468875711281266
+            ],
+            [
+                "23_coppola's the beguiled doesn't so much negate the festering male paranoia as reclaim the point of view for the women it targets.",
+                -0.5332794084174128
+            ],
+            [
+                "24_\"the beguiled\" has some of the spooky, suggestive magic of a fairy tale.",
+                0.7725499109157971
+            ],
+            [
+                "28_\"beguiled\" is less a hothouse flower than a bonsai garden, a work of cool, exquisite artifice that evokes wildness on a small, controlled scale.",
+                0.7815014254749122
+            ],
+            [
+                "29_the beguiled is a hothouse flower of startling power and intimacy.",
+                0.6362530364550353
+            ],
+            [
+                "33_there's something underfurnished about this movie, a lack of historical, intellectual, and thematic richness.",
+                -0.5845885838662295
+            ],
+            [
+                "36_the beguiled showcases good manners and bad deeds, ",
+                0.6054197321430642
+            ],
+            [
+                "37_\"the beguiled\" runs for ninety-four minutes, and even those feel like a stretch.",
+                -0.7176504981988281
+            ],
+            [
+                "42_coppola's film is told with surgical precision and savage grace.",
+                0.7222615736447913
+            ],
+            [
+                "45_ this may be the first film she has made in which her essential personality as a director gets buried under the movie she's making.",
+                -0.5048775346482521
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sofia Coppola": {
+                "args": [
+                    [
+                        "2_the beguiled is coppola's bloodiest, most visceral movie to date, and it is also one of her best.",
+                        0.8052594027569675
+                    ],
+                    [
+                        "3_ coppola keeps a tight lid on it.",
+                        0.5382691508265955
+                    ],
+                    [
+                        "10_modest in scale yet rousing in southern gothic psychodrama, sofia coppola's \"the beguiled\" creates levels of excitement that bigger, longer, louder blockbusters can't match.",
+                        0.5619149394562224
+                    ],
+                    [
+                        "13_still, coppola offers some gorgeous images of the past made present.",
+                        0.7881855075461165
+                    ],
+                    [
+                        "15_ it shows that there may be limits to sofia coppola's ambition and her nerve.",
+                        0.7228253851679016
+                    ],
+                    [
+                        "16_\"the beguiled,\" in its quasi-mathematical abstraction, amounts to little more than the baseline proof of [coppola's] method-a reductio ad absurdum.",
+                        0.5119848181864494
+                    ],
+                    [
+                        "18_writer-director sofia coppola has produced a small-scale movie that exalts old-fashioned movie-making qualities, yielding a refreshingly understated alternative to a sea of summer blockbusters.",
+                        0.7750298702525957
+                    ],
+                    [
+                        "22_the beguiled isn't coppola's strongest film, ",
+                        0.51498167378444
+                    ],
+                    [
+                        "29_sofia coppola is a virtuoso of image and sound.",
+                        0.7767001695125042
+                    ],
+                    [
+                        "31_ coppola's film tamps down and reduces.",
+                        -0.5183932107175868
+                    ],
+                    [
+                        "39_ i was most taken with the way coppola uses style to create meaning.",
+                        0.7426108276309784
+                    ],
+                    [
+                        "43_i spent a chunk of the film wondering what here excited coppola - what was it about the novel that she couldn't wait to bring to the screen?",
+                        -0.5076936027979247
+                    ],
+                    [
+                        "44_it's hard to detect a strong raison d'etre behind sofia coppola's slow-to-develop melodrama.",
+                        0.5870121945643989
+                    ],
+                    [
+                        "45_i count myself as a coppola believer, ",
+                        0.6840616383262649
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "45_ this may be the first film she has made in which her essential personality as a director gets buried under the movie she's making.",
+                -0.5048775346482521
+            ]
+        ]
+    }
+}

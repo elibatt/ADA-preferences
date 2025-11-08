@@ -1,0 +1,178 @@
+{
+    "writer": {
+        "entities": {
+            "Terence Davies": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_nixon vividly telegraphs both her character's convictions and her deep physical and emotional suffering.",
+                0.6305545993635522
+            ],
+            [
+                "18_what's surprising about a quiet passion, given the writer-director's own incurable melancholy, is how lively, how flat-out funny, it frequently is.",
+                0.8075084835202815
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Terence Davies": {
+                "args": [
+                    [
+                        "13_in a series of portrait episodes, davies treads dickinson's biographical terrain without presuming to editorialize",
+                        0.5691933447053562
+                    ],
+                    [
+                        "14_filmmaker and subject are a match made in heaven that, cohabiting in davies' delirious head, gives histrionic a good name.",
+                        0.6821702050573539
+                    ],
+                    [
+                        "16_mr. davies, whose work often blends public history and private memory, possesses a poetic sensibility perfectly suited to his subject and a deep, idiosyncratic intuition about what might have made her tick.",
+                        0.7708488648609281
+                    ],
+                    [
+                        "19_cynthia nixon is simply magnificent as emily dickinson in director terence davies' gentle yet subversively fierce and funny look at the life and art of the great american poet.",
+                        0.891187819597172
+                    ],
+                    [
+                        "21_terence davies directs in poetry.",
+                        0.5319273166695827
+                    ],
+                    [
+                        "22_to be fair, even nixon and jennifer ehle sometimes have trouble with davies's ornate dialogue.",
+                        0.5007305696491967
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "18_what's surprising about a quiet passion, given the writer-director's own incurable melancholy, is how lively, how flat-out funny, it frequently is.",
+                0.8075084835202815
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_she's never out of step with the film's graceful pace and narrative development.",
+                0.623462073892144
+            ],
+            [
+                "1_this is a film of subtle beauty.",
+                0.6872280612193733
+            ],
+            [
+                "2_ \"a quiet passion\" was well worth the wait.",
+                0.7704565973409723
+            ],
+            [
+                "10_a quiet passion is wittier, in its early stretches, than anyone might have foreseen, ",
+                -0.6171630601044644
+            ],
+            [
+                "10_ it's when the door closes, and the dickinsons are alone with their trepidations, that the movie draws near to its rightful severity.",
+                0.6058052946797112
+            ],
+            [
+                "17_\"a quiet passion\" is the work of a master craftsman whose interest has always been the ways outer reality frames and shapes our inner landscapes.",
+                0.8149585390851912
+            ],
+            [
+                "18_what's surprising about a quiet passion, given the writer-director's own incurable melancholy, is how lively, how flat-out funny, it frequently is.",
+                0.8075084835202815
+            ],
+            [
+                "24_the final scenes are potent enough to save the movie.",
+                -0.6287833517872166
+            ],
+            [
+                "25_it's rare to see a film that makes such subtle sense of an artist's life and mind.",
+                0.825414852606061
+            ],
+            [
+                "28_what sets the film drastically off-balance is its contrastingly finicky impulse to paint dickinson as one of the rapier wits of her generation.",
+                0.6697948541781136
+            ],
+            [
+                "29_the film can't escape an underlying static quality that extinguishes the flame before it can get burning.",
+                -0.6123449089784896
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Keith Carradine": {
+                "args": []
+            },
+            "Benjamin Wainwright": {
+                "args": []
+            },
+            "Jodhi May": {
+                "args": []
+            },
+            "Catherine Bailey": {
+                "args": []
+            },
+            "Jennifer Ehle": {
+                "args": []
+            },
+            "Duncan Duff": {
+                "args": []
+            },
+            "Joanna Bacon": {
+                "args": []
+            },
+            "Rose Williams": {
+                "args": []
+            },
+            "Emma Bell": {
+                "args": []
+            },
+            "Cynthia Nixon": {
+                "args": [
+                    [
+                        "4_stick with it, and keep your eyes on nixon",
+                        0.761652899122734
+                    ],
+                    [
+                        "9_it is through nixon's brilliant performance that \"a quiet passion\" illuminates, complicates and ultimately transcends the mystery of its subject's confinement.",
+                        0.8454746132880827
+                    ],
+                    [
+                        "12_it is grounded, and made most exemplary, by cynthia nixon's performance.",
+                        0.6989391141395921
+                    ],
+                    [
+                        "19_cynthia nixon is simply magnificent as emily dickinson in director terence davies' gentle yet subversively fierce and funny look at the life and art of the great american poet.",
+                        0.891187819597172
+                    ],
+                    [
+                        "22_to be fair, even nixon and jennifer ehle sometimes have trouble with davies's ornate dialogue.",
+                        0.5007305696491967
+                    ],
+                    [
+                        "22_ nixon is so determined to get to the heart of this great poet that she does eventually reach it toward the end.",
+                        0.5888052729962475
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "0_nixon delivers a masterful performance, giving us a heroine who can't cease digging herself into ever deeper holes.",
+                0.662497796532021
+            ],
+            [
+                "20_while the visuals and steady shots are often relaxing, at the heart is a searing and soulful performance of an anguished artist born into the wrong time.",
+                0.6454622044543078
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

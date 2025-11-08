@@ -1,0 +1,111 @@
+{
+    "acting": {
+        "entities": {
+            "Callum Turner": {
+                "args": []
+            },
+            "Jeff Bridges": {
+                "args": [
+                    [
+                        "8_think of \"boy\" as a bridges highlight reel and gotham travelogue, instead of precious coming-of-age story, and it's not half bad.",
+                        -0.5702001973487677
+                    ]
+                ]
+            },
+            "Cynthia Nixon": {
+                "args": []
+            },
+            "Pierce Brosnan": {
+                "args": [
+                    [
+                        "4_[pierce] brosnan is especially good: he's been chasing critical respect ever since he signed off as james bond.",
+                        0.6612548262835125
+                    ]
+                ]
+            },
+            "Kate Beckinsale": {
+                "args": []
+            },
+            "Kiersey Clemons": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_not even an a-list cast can turn this coming-of-age misfire-a total misreading of the graduate from screenwriter allan loeb- into anything more than a losing battle against tin-eared dialogue.",
+                -0.6862987324385137
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Allan Loeb": {
+                "args": [
+                    [
+                        "6_the major culprit in the picture is screenwriter allan loeb",
+                        -0.6587971247827737
+                    ],
+                    [
+                        "11_not even an a-list cast can turn this coming-of-age misfire-a total misreading of the graduate from screenwriter allan loeb- into anything more than a losing battle against tin-eared dialogue.",
+                        -0.6862987324385137
+                    ],
+                    [
+                        "22_bad movie lovers focusing on directors will be missing out on the work of allan loeb, a writer who has, in the course of one year, delivered a trifecta of utterly artificial fake-deep dramas that are must-sees for connoisseurs of the cinema's best-worst.",
+                        0.6387944638088126
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "10_ being what it inescapably is, an impotent cry of 'yes i can do literary' from a screenwriter whose idea of literary has been permanently hollywoodized.",
+                -0.6385267684353417
+            ],
+            [
+                "15_\"only living boy\" fails to convince as a character study, romance or love letter to the cbgb-era new york city.",
+                -0.5339256641977981
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"the only living boy in new york\" is not nearly as cute as it thinks it is.",
+                -0.6008205706309345
+            ],
+            [
+                "16_round about the third act, \"the only living boy in new york\" veers wildly off whatever course it had been on, leaving the realm of the improbable for the preposterous.",
+                -0.7099196170349463
+            ],
+            [
+                "18_ it's the men and women around him who truly come to life in this chaotic, awkward, and sporadically moving film.",
+                0.6549876793125797
+            ],
+            [
+                "19_the only living boy in new york is a dumb male fantasy that's dead on arrival.",
+                -0.6318609900073799
+            ],
+            [
+                "21_it's quite a feat for a movie to deploy simon & garfunkel's \"the only living boy in new york\" and somehow leave you cold.",
+                -0.6143309769688333
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Marc Webb": {
+                "args": [
+                    [
+                        "13_if you liked webb's enormously popular ",
+                        0.7446069368236452
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

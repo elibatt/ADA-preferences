@@ -1,0 +1,101 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_holy hell, raw and anguished, is not just a story about a terrible breach of trust, ",
+                -0.7051235114097536
+            ],
+            [
+                "1_\"holy hell\" should have dug a lot deeper and told its story with a lot more finesse.",
+                0.5486712102618876
+            ],
+            [
+                "2_with unprecedented access to archival footage and former members of the buddhafield, it's impossible to look away from holy hell.",
+                0.5200508898906344
+            ],
+            [
+                "8_allen begins the film by describing this journey as a '22-year search for truth,' and while there's no doubt that he found more than he bargained for, holy hell fails to convey what that might be.",
+                0.5467632149939745
+            ],
+            [
+                "9_holy hell plays like a thriller, all right, with a darkness edging slowly over its swimsuit revelry, ",
+                -0.5453485640670889
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Will Allen": {
+                "args": [
+                    [
+                        "1_maybe, after all these years, allen was still too close to his subject?",
+                        -0.640391310721298
+                    ],
+                    [
+                        "4_mr. allen has made an engrossing and tense documentary, ",
+                        0.7439075333781786
+                    ],
+                    [
+                        "7_holy hell has an undeniable car-crash fascination, especially once allen reveals just how deeply this particular phony guru abused the trust of his faithfuls.",
+                        0.6007416859295481
+                    ],
+                    [
+                        "9_ allen never cheats in the interest of suspense.",
+                        -0.588689807524944
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Will Allen": {
+                "args": []
+            },
+            "Amy Allen": {
+                "args": [
+                    [
+                        "1_maybe, after all these years, allen was still too close to his subject?",
+                        -0.640391310721298
+                    ],
+                    [
+                        "4_mr. allen has made an engrossing and tense documentary, ",
+                        0.7439075333781786
+                    ],
+                    [
+                        "7_holy hell has an undeniable car-crash fascination, especially once allen reveals just how deeply this particular phony guru abused the trust of his faithfuls.",
+                        0.6007416859295481
+                    ],
+                    [
+                        "9_ allen never cheats in the interest of suspense.",
+                        -0.588689807524944
+                    ]
+                ]
+            },
+            "Cristala Allen": {
+                "args": []
+            },
+            "Jennifer Baca": {
+                "args": []
+            },
+            "Gina Allen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_ the doc doesn't completely succeed in efforts to explain the spell this and similar groups cast on their acolytes",
+                -0.5976323717808669
+            ]
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "acting": {
+        "entities": {
+            "Sienna Miller": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": [
+                    [
+                        "8_mendelsohn and reynolds are terrific, each wrapping himself up in the material like a well-worn favorite sweater.",
+                        0.5951168276786291
+                    ],
+                    [
+                        "18_mendelsohn plays gerry as a stringy, sweaty hunk of pure desperation, while reynolds, as the ostensibly more stable partner, demonstrates yet again that he's much more than a ridiculously pretty face.",
+                        0.6457889594870843
+                    ],
+                    [
+                        "20_mendelsohn and reynolds share great screen chemistry ...",
+                        0.7121598821672406
+                    ]
+                ]
+            },
+            "Analeigh Tipton": {
+                "args": []
+            },
+            "Marshall Chapman": {
+                "args": []
+            },
+            "Stephanie Honoré": {
+                "args": []
+            },
+            "Ben Mendelsohn": {
+                "args": [
+                    [
+                        "12_great performances from ryan reynolds and ben mendelsohn.",
+                        0.7256835622741767
+                    ],
+                    [
+                        "13_the filmmakers know how to squeeze a lot from only a little narrative, mendelsohn once again proves he's the reigning king of ne'er-do-wells and reynolds has never been better.",
+                        -0.6835750683805978
+                    ]
+                ]
+            },
+            "Alfre Woodard": {
+                "args": []
+            },
+            "Robin Weigert": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ryan Fleck": {
+                "args": []
+            },
+            "Anna Boden": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_the actors flaunt craft, the script lays on the folksiness with a trowel, and scenes of local color seem to come straight from a guidebook.",
+                0.5061084415691344
+            ],
+            [
+                "6_\"mississippi grind\" winds up being an improbably satisfying, even heartwarming character study.",
+                0.6389199094674539
+            ],
+            [
+                "15_mississippi grind\" ... may be a bit of a throwback to the lived-in, character-driven, landscape-besotted films of the 1970s, ",
+                0.6653405140286752
+            ],
+            [
+                "16_this low-budget indie has a unique ambiance and surprising depth, both in the performances of its two leads and the writing/directing team of anna boden and ryan fleck.",
+                0.8411743878267252
+            ],
+            [
+                "25_a meandering road movie enriched by its fine-grained study of character and milieu, ",
+                0.5709385430375669
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_it's as if the scarecrow and the tin man got lost and wandered down the mississippi river, drinking and gambling and stumbling into and out of various troubles, not worrying about their brains or their hearts, just wishing for a little bit of luck.",
+                -0.8158349823446441
+            ],
+            [
+                "2_the movie is a snapshot collage of flyover america, ",
+                0.604361732149431
+            ],
+            [
+                "3_even as a road movie this is pretty bland.",
+                -0.6023411424702949
+            ],
+            [
+                "6_\"mississippi grind\" winds up being an improbably satisfying, even heartwarming character study.",
+                0.6389199094674539
+            ],
+            [
+                "7_among the virtues of \"mississippi grind\" is an unpredictability that's rare in movies these days.",
+                0.8046881378052602
+            ],
+            [
+                "7_for much of the film, it's unclear just where it's going - and that's just fine.",
+                0.6201165084717638
+            ],
+            [
+                "15_mississippi grind\" ... may be a bit of a throwback to the lived-in, character-driven, landscape-besotted films of the 1970s, ",
+                0.6653405140286752
+            ],
+            [
+                "21_a sweet, shambling, supremely enjoyable road movie about two compulsive gamblers of very different stripes, it could easily be confused for one of alexander payne's wounded comedies, albeit one with higher stakes and a lower thread-count.",
+                0.8292390040549014
+            ],
+            [
+                "22_mississippi grind transcends its generic lovable-losers-on-a-bender plot by foregrounding exceptionally well-developed skid-row protagonists and weirdly charming dive-bar ambiance.",
+                0.6659628690025581
+            ],
+            [
+                "24_discerning arthouse-goers will warm to the film's superb performances, haunting sense of place and willingness to meander, as well as its sly rumination on the mysterious interplay of fate and friendship in shaping an individual's destiny.",
+                0.9032084040746202
+            ],
+            [
+                "25_a meandering road movie enriched by its fine-grained study of character and milieu, ",
+                0.5709385430375669
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ryan Fleck": {
+                "args": [
+                    [
+                        "16_this low-budget indie has a unique ambiance and surprising depth, both in the performances of its two leads and the writing/directing team of anna boden and ryan fleck.",
+                        0.8411743878267252
+                    ]
+                ]
+            },
+            "Anna Boden": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

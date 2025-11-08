@@ -1,0 +1,84 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_kanefsky paints a vivid picture of an entertaining rogue, one who finally gets his due with this film.",
+                0.8051441390328425
+            ],
+            [
+                "2_ \"art bastard\" argues persuasively that fame is overrated.",
+                -0.5397208282600373
+            ],
+            [
+                "4_though \"art bastard\" is a zesty, engaging documentary about a veteran outsider, when it comes to his complexities,",
+                0.5599411170888526
+            ],
+            [
+                "7_breezy and vivid, art bastard ultimately delivers the person: criminally underrated yet still principled and generous.",
+                0.5837918109741227
+            ],
+            [
+                "8_art bastard shines brightest not as a biographical portrait -- an aim in which it succeeds only sporadically -- ",
+                0.5705200255243241
+            ],
+            [
+                "9_'art bastard' is a film about a man who has tilted - and continues to tilt - at the art-world equivalent of don quixote's windmills.",
+                -0.5045416562669485
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Victor Kanefsky": {
+                "args": [
+                    [
+                        "5_ after spending 82 minutes watching director victor kanefsky cast a heartfelt lens in cenedella's direction, you'll never forget him.",
+                        0.5502379189539839
+                    ],
+                    [
+                        "11_\"it's not what they show, it's what they don't show,\" the painter robert cenedella complains in \"art bastard,\" victor kanefsky's robust, plain-talking documentary portrait of this lifelong rebel and art-world gadfly.",
+                        0.5500694928141264
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert Cenedella": {
+                "args": [
+                    [
+                        "1_the madly teeming pop-cartoon paintings of robert cenedella anchor a lively look at a self-styled superstar of outsider art.",
+                        0.8124142178402101
+                    ],
+                    [
+                        "5_ after spending 82 minutes watching director victor kanefsky cast a heartfelt lens in cenedella's direction, you'll never forget him.",
+                        0.5502379189539839
+                    ],
+                    [
+                        "11_\"it's not what they show, it's what they don't show,\" the painter robert cenedella complains in \"art bastard,\" victor kanefsky's robust, plain-talking documentary portrait of this lifelong rebel and art-world gadfly.",
+                        0.5500694928141264
+                    ],
+                    [
+                        "12_manages to be as cursory as it is intimate, skimming over so much of cenedella's life and career that it imparts only a hazy impression of who he is and what he believes.",
+                        0.7457608181175832
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Victor Kanefsky": {
+                "args": []
+            }
+        }
+    }
+}

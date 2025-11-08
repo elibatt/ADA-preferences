@@ -1,0 +1,194 @@
+{
+    "film": {
+        "args": [
+            [
+                "16_even at its most confected, this is a film that tells the truth.",
+                0.7366842148229514
+            ],
+            [
+                "22_the observant and mocking humor that makes the film's first two-thirds so breezy and enjoyable gives way to shattering realizations, ",
+                0.8265467987642261
+            ],
+            [
+                "24_i have some problems with this movie, not all of which can be ascribed to the usual narcissism of small differences.",
+                0.5064449972252109
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Noah Baumbach": {
+                "args": [
+                    [
+                        "9_the film has [baumbach's] usual strengths: sharp urban insights, brainy comedy, moments of inspired high exasperation.",
+                        0.7055026687151283
+                    ],
+                    [
+                        "10_if you've been wishing you could see a good woody allen comedy again, you should check out noah baumbach's while we're young, which sees the 45-year-old director moving in on allen's territory - the manhattan comedy of manners.",
+                        0.672885410277242
+                    ],
+                    [
+                        "11_there are so many deserving targets skewered by noah baumbach's savvy ben stiller comedy while we're young, you could lose count.",
+                        0.7278941003627641
+                    ],
+                    [
+                        "12_noah baumbach is still swinging away at generational divides and the plight of the artist, ",
+                        0.6989408607705052
+                    ],
+                    [
+                        "14_ also - and here's a change for baumbach - something close to a hug.",
+                        -0.6275240012483417
+                    ],
+                    [
+                        "20_\"while we're young\" is one step forward and two steps back for writer-director noah baumbach, whose movies are never less than intelligent ",
+                        0.6851519458170725
+                    ],
+                    [
+                        "22_ baumbach ultimately tempers that instinct somewhat by exhibiting genuine sympathy for stiller's character.",
+                        0.6384498880492111
+                    ],
+                    [
+                        "23_when baumbach is on, he's really on, and the brilliant \"while we're young\" contains the same self-lacerating humor as his \"greenberg,\" \"margot at the wedding\" and \"the squid and the whale.\"",
+                        0.6633369076263121
+                    ],
+                    [
+                        "24_ first it's important to acknowledge the acuity of mr. baumbach's insight and his overall generosity of spirit.",
+                        0.8122891607593374
+                    ],
+                    [
+                        "25_this delicious satire about aging hipsters and their discontents is everything we've come to expect from the best of noah baumbach, as well as several things more.",
+                        0.911655244207899
+                    ],
+                    [
+                        "27_noah baumbach's best movie since 2005's the squid and the whale, while we're young navigates into more mainstream territory while losing none of the writer-director's rueful wit.",
+                        0.6762899596555287
+                    ],
+                    [
+                        "32_only the motives of baumbach's alter ego are pure.",
+                        0.6761642973085986
+                    ],
+                    [
+                        "33_it's not stiller's character who's the curmudgeon, it's baumbach.",
+                        -0.5239608048393356
+                    ],
+                    [
+                        "39_we know from his previous work that baumbach is capable of writing much more interesting and full-conceived female characters than these, so the gender imbalance here is disappointing.",
+                        -0.738475796205312
+                    ],
+                    [
+                        "41_the most hilarious woody allen film in years is directed by noah baumbach, with ben stiller as basically an updated version of the idealistic documentary filmmaker the woodman played in 'crimes and misdemeanors.'",
+                        0.8445855736314828
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "37_it shows a director not so much mooning over the past, with regret for faded powers, as probing his own obsessions and the limits of his style.",
+                -0.5204696080876776
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bonnie Kaufman": {
+                "args": []
+            },
+            "Annie Baker": {
+                "args": []
+            },
+            "Maria Dizzia": {
+                "args": []
+            },
+            "Charles Grodin": {
+                "args": []
+            },
+            "Quincy Tyler Bernstine": {
+                "args": []
+            },
+            "Matthew Shear": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": []
+            },
+            "Amanda Seyfried": {
+                "args": []
+            },
+            "Ben Stiller": {
+                "args": [
+                    [
+                        "11_there are so many deserving targets skewered by noah baumbach's savvy ben stiller comedy while we're young, you could lose count.",
+                        0.7278941003627641
+                    ],
+                    [
+                        "22_ baumbach ultimately tempers that instinct somewhat by exhibiting genuine sympathy for stiller's character.",
+                        0.6384498880492111
+                    ],
+                    [
+                        "33_it's not stiller's character who's the curmudgeon, it's baumbach.",
+                        -0.5239608048393356
+                    ],
+                    [
+                        "41_the most hilarious woody allen film in years is directed by noah baumbach, with ben stiller as basically an updated version of the idealistic documentary filmmaker the woodman played in 'crimes and misdemeanors.'",
+                        0.8445855736314828
+                    ]
+                ]
+            },
+            "Adam Horovitz": {
+                "args": []
+            },
+            "Peter Yarrow": {
+                "args": []
+            },
+            "Adam Driver": {
+                "args": [
+                    [
+                        "31_stiller's scenes with the gifted adam driver escalate into generational comic warfare of a high order.",
+                        0.6126848710389543
+                    ]
+                ]
+            },
+            "Dree Hemingway": {
+                "args": []
+            },
+            "Matthew Maher": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Noah Baumbach": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "20_\"while we're young\" is one step forward and two steps back for writer-director noah baumbach, whose movies are never less than intelligent ",
+                0.6851519458170725
+            ],
+            [
+                "22_ baumbach ultimately tempers that instinct somewhat by exhibiting genuine sympathy for stiller's character.",
+                0.6384498880492111
+            ],
+            [
+                "27_noah baumbach's best movie since 2005's the squid and the whale, while we're young navigates into more mainstream territory while losing none of the writer-director's rueful wit.",
+                0.6762899596555287
+            ],
+            [
+                "33_it's not stiller's character who's the curmudgeon, it's baumbach.",
+                -0.5239608048393356
+            ],
+            [
+                "39_we know from his previous work that baumbach is capable of writing much more interesting and full-conceived female characters than these, so the gender imbalance here is disappointing.",
+                -0.738475796205312
+            ]
+        ]
+    }
+}

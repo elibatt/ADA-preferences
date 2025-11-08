@@ -1,0 +1,175 @@
+{
+    "writer": {
+        "entities": {
+            "Jay Longino": {
+                "args": [
+                    [
+                        "10_[longino's] script is good-natured, more genial than funny, ",
+                        0.6291824745037433
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "JB Smoove": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            },
+            "Lil Rel Howery": {
+                "args": [
+                    [
+                        "5_lil rel howery, tiffany haddish, jb smoove and nick kroll are terrific, as we'd expect.",
+                        0.7338289905270479
+                    ]
+                ]
+            },
+            "Nate Robinson (III)": {
+                "args": [
+                    [
+                        "18_alas, the resulting film, made in association with pepsi and directed by charles stone iii, falls into a disappointingly formulaic lull for large stretches, squeezing all spontaneity from the proceedings.",
+                        -0.5630041909201986
+                    ]
+                ]
+            },
+            "Kyrie Irving": {
+                "args": [
+                    [
+                        "9_structuring a feature film around someone like irving is a delicate dance.",
+                        0.6894875041028221
+                    ],
+                    [
+                        "10_ director charles stone iii does get some good work from star irving, who proves surprisingly adept at playing low-key comedy.",
+                        0.829170358229419
+                    ]
+                ]
+            },
+            "Reggie Miller": {
+                "args": [
+                    [
+                        "5_irving, miller, robinson, leslie, et al., are also quite good.",
+                        0.7272212933292985
+                    ]
+                ]
+            },
+            "Erica Ash": {
+                "args": []
+            },
+            "Shaquille O'Neal": {
+                "args": [
+                    [
+                        "12_it's not every day that you can say, \"shaquille o'neal was the best actor in that movie.\"",
+                        0.6911761484655887
+                    ]
+                ]
+            },
+            "Chris Webber": {
+                "args": []
+            },
+            "Tiffany Haddish": {
+                "args": []
+            },
+            "Mike Epps": {
+                "args": []
+            },
+            "Lisa Leslie": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_with all due respect to the actors and actor-hoopsters, it's the makeup people who give the film's best performance.",
+                0.7595464549217513
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_it's a totally formulaic sports movie, ",
+                -0.5900259608579915
+            ],
+            [
+                "4_uncle drew mistakes its goofy pitch for a free pass to be simple with its comedy, and sappy with its emotions.",
+                0.5520859543644374
+            ],
+            [
+                "6_uncle drew is more than a vehicle to sell cola, not to mention basketball's chief product-placement fetish, sneakers.",
+                -0.5908070360475688
+            ],
+            [
+                "7_pepsi is one of film's producers, ",
+                0.531250938292443
+            ],
+            [
+                "11_\"uncle drew\" is the surprise comedy of the summer...",
+                0.6573840673984779
+            ],
+            [
+                "13_the whole movie's that way, succeeding on the simplest possible terms: it's fun to hang out with these people for a while.",
+                0.6641183782503572
+            ],
+            [
+                "14_you don't watch \"uncle drew\" for dramatic depth.",
+                -0.6898694755210487
+            ],
+            [
+                "15_uncle drew is amiable enough, even crowd-pleasing, ",
+                0.6038278009135326
+            ],
+            [
+                "15_with all due respect to the actors and actor-hoopsters, it's the makeup people who give the film's best performance.",
+                0.7595464549217513
+            ],
+            [
+                "16_for a movie based on a soda campaign, uncle drew isn't that bad.",
+                -0.7232481947294191
+            ],
+            [
+                "16_only those who find the idea of slam-dunking geriatrics deeply, inherently hilarious will be able to resist dunking on uncle drew.",
+                0.7654317988715238
+            ],
+            [
+                "19_at heart, uncle drew is a personality-driven film.",
+                0.6605449972828505
+            ],
+            [
+                "21_\"uncle drew\" may be tired, ",
+                -0.6771644858928039
+            ],
+            [
+                "22_the closing credits crystallize into what it wants to be: a movie about a bunch of people who love basketball and trash-talking in equal measure.",
+                -0.5836578839073938
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Charles Stone III": {
+                "args": [
+                    [
+                        "10_ director charles stone iii does get some good work from star irving, who proves surprisingly adept at playing low-key comedy.",
+                        0.829170358229419
+                    ],
+                    [
+                        "18_alas, the resulting film, made in association with pepsi and directed by charles stone iii, falls into a disappointingly formulaic lull for large stretches, squeezing all spontaneity from the proceedings.",
+                        -0.5630041909201986
+                    ],
+                    [
+                        "22_this is the film stone probably wanted to make.",
+                        -0.5859809246602579
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

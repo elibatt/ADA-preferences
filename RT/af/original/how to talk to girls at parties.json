@@ -1,0 +1,97 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Alex Sharp": {
+                "args": []
+            },
+            "Matt Lucas": {
+                "args": []
+            },
+            "Edward Petherbridge": {
+                "args": []
+            },
+            "Ethan Lawrence": {
+                "args": []
+            },
+            "Ruth Wilson": {
+                "args": []
+            },
+            "Joanna Scanlan": {
+                "args": []
+            },
+            "Abraham Lewis": {
+                "args": []
+            },
+            "Nicole Kidman": {
+                "args": []
+            },
+            "Tom Brooke": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_one of the worst ways to make a cult movie is to set out to make a cult movie.",
+                -0.8081004159029792
+            ],
+            [
+                "1_everything else -- the film's tone, its message, its very purpose -- is caught between two different worlds.",
+                -0.5180723804606833
+            ],
+            [
+                "6_\"how to talk to girls at parties,\" for all its rebel-yell spirit, seems to exhaust its inspiration and sense of possibility in the first half-hour.",
+                0.7058684220194996
+            ],
+            [
+                "10_you feel like you were stuck in a spirit-of-'77 cosplay convention at best and a needy cult movie desperately seeking a cult at worst.",
+                -0.6895969377870275
+            ],
+            [
+                "11_ultimately, how to talk to girls at parties is like a hyperactive kid at a punk rock show-full of great energy and ambition, ",
+                0.7067929876762425
+            ],
+            [
+                "15_the film looks dreadful, and the cg effects are a legitimate eyesore: an opening animated sequence is so tacky, it took me a while before i realized it wasn't just another logo animation for a random film fund.",
+                -0.8345732400229748
+            ],
+            [
+                "17_the film enunciates its raw themes - punk means individuality!",
+                0.5823665285974411
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Cameron Mitchell": {
+                "args": [
+                    [
+                        "7_[mitchell's] giddy, knowingly camp direction has a sort of glitter-stick diy spirit that keeps the movie aloft long after the story itself has run out of road.",
+                        0.5921178358398906
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Philippa Goslett": {
+                "args": []
+            },
+            "John Cameron Mitchell": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_music is so central to hearts beat loud that it's connected to everything...",
+                -0.5824382673745265
+            ],
+            [
+                "1_hearts beat loud is anything ",
+                -0.6287828110148689
+            ],
+            [
+                "4_this is a movie you not only want to see, ",
+                -0.5990816583898095
+            ],
+            [
+                "10_the themes here are rich, the treatment indulgent and harmless, like a pre-fab version of a john carney movie.",
+                0.5691083791288463
+            ],
+            [
+                "11_that's the odd and evocative resonance of \"hearts beat loud.\"",
+                0.5200816944701633
+            ],
+            [
+                "14_it's refreshing to watch a film that doesn't feel obligated to go for the brass ring (of emotion, or social commentary, or even plot).",
+                0.5215465586282084
+            ],
+            [
+                "15_ it's an accurate description that's central to what makes \"hearts beat loud\" such an engaging endeavor.",
+                0.8123132740149689
+            ],
+            [
+                "18_hearts beat loud is smart, sincere, expertly performed...",
+                0.7123064937420768
+            ],
+            [
+                "20_hearts beats loud\" knows exactly what it is.",
+                0.6641794090367595
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Brett Haley": {
+                "args": [
+                    [
+                        "3_writer-director brett haley...coaxes a few weak laughs from the daddy-daughter role reversal, and stale, mushy drama from the cycling death of the girl's mother more than a decade earlier.",
+                        -0.5408993481422254
+                    ],
+                    [
+                        "22_as for the film around her, haley's 21-drum solo salute to the passage of time is, like frank, merely fine.",
+                        0.5819200999693889
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Ted Danson": {
+                "args": []
+            },
+            "Toni Collette": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": [
+                    [
+                        "2_well, it helps to have nick offerman at the center of things.",
+                        -0.5143720937602225
+                    ],
+                    [
+                        "9_one of the nicest things about \"hearts beat loud,\" and there are several nice things, is the way that offerman and clemons seem like father and daughter.",
+                        0.6927758282071352
+                    ],
+                    [
+                        "13_the flat intonation and lethargic matter-of-factness that made offerman's ron swanson the wry backbone of \"parks & recreation\" feels too heavy for frank fisher.",
+                        -0.5155828152203052
+                    ],
+                    [
+                        "16_music is the tie that binds a brooklyn father and daughter in a film that refuses to go sappy on us thanks to the tough core of intelligence and wit that nick offerman brings to the party.",
+                        0.7208334604876864
+                    ]
+                ]
+            },
+            "Kiersey Clemons": {
+                "args": [
+                    [
+                        "22_kiersey clemons proves she's the real deal.",
+                        0.5584982257235067
+                    ]
+                ]
+            },
+            "Blythe Danner": {
+                "args": []
+            },
+            "Sasha Lane": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_and he elicits fine performances from a splendid cast.",
+                0.792406431819455
+            ],
+            [
+                "7_offerman turns in his best big-screen performance yet.",
+                0.7037584451169503
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Marc Basch": {
+                "args": []
+            },
+            "Brett Haley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_i couldn't help, in spite of the sometimes very clunky script, breaking into a smile every time sam and rose have a scene together, even a corny bike-riding one.",
+                0.6758610478942373
+            ],
+            [
+                "20_the messiness of the script or the lack of an aesthetic approach just don't seem to matter all that much. \"",
+                -0.7387957720317104
+            ]
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_tinged with madness and heartbreak, \"endless poetry\" is the unmistakable byproduct of, as the character of alejandro puts it, \"a heart capable of loving the entire world.\"",
+                0.7925205278970421
+            ],
+            [
+                "5_endless poetry feels like the product of a revitalized old master.",
+                -0.6765820303003864
+            ],
+            [
+                "5_there's a generosity of spirit, and clarity of intent that gives shape to the the film's rambling narrative, and broad-brushstrokes characterizations.",
+                0.7227423700163127
+            ],
+            [
+                "6_there's something ineffably moving about seeing the filmmaker take stock of himself and his history as he gently nudges this traveling circus of a movie toward its next destination.",
+                0.6674012059515216
+            ],
+            [
+                "9_it basically functions as a primer on the philosophy of the 87-year-old artist, complete with a king-sized helping of poetic touches and the usual visual fetishes that make his work so instantly recognizable.",
+                0.6851410629593985
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Alejandro Jodorowsky": {
+                "args": [
+                    [
+                        "1_if you consider jodorowsky's work excessive and mannered, you'll probably find this to be a slog.",
+                        -0.6353609842899872
+                    ],
+                    [
+                        "10_alejandro jodorowsky's 'endless poetry' is the most accessible movie he has ever made, and it may also be the best.",
+                        0.8755585968847193
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Alejandro Jodorowsky": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_tinged with madness and heartbreak, \"endless poetry\" is the unmistakable byproduct of, as the character of alejandro puts it, \"a heart capable of loving the entire world.\"",
+                0.7925205278970421
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kaori Ito": {
+                "args": []
+            },
+            "Jeremias Herskovits": {
+                "args": []
+            },
+            "Bastián Bodenhöfer": {
+                "args": []
+            },
+            "Pamela Flores": {
+                "args": []
+            },
+            "Carolyn Carlson": {
+                "args": []
+            },
+            "Leandro Taub": {
+                "args": []
+            },
+            "Alejandro Jodorowsky": {
+                "args": []
+            },
+            "Brontis Jodorowsky": {
+                "args": []
+            },
+            "Julia Avedano": {
+                "args": []
+            },
+            "Adan Jodorowsky": {
+                "args": [
+                    [
+                        "1_if you consider jodorowsky's work excessive and mannered, you'll probably find this to be a slog.",
+                        -0.6353609842899872
+                    ],
+                    [
+                        "10_alejandro jodorowsky's 'endless poetry' is the most accessible movie he has ever made, and it may also be the best.",
+                        0.8755585968847193
+                    ]
+                ]
+            },
+            "Dante Jodorowsky": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

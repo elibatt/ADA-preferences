@@ -1,0 +1,104 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the film is not just a relentlessly gripping entertainment ",
+                0.5136506083623329
+            ],
+            [
+                "4_it's also quite possibly the finest war film ever made.",
+                0.7837336294581982
+            ],
+            [
+                "9_the most electrifyingly timely movie playing in new york was made in 1965.",
+                0.5401228985664356
+            ],
+            [
+                "10_an extraordinary movie that ruffled many feathers when it first came out.",
+                0.6443035879653951
+            ],
+            [
+                "12_remains a signficant achievement, a testament to film's powers to put you in the middle of a historical event and make it feel real.",
+                0.6779070657259016
+            ],
+            [
+                "19_the greatness of the battle of algiers lies in its ability to embrace moral ambiguity without succumbing to it.",
+                0.6251852896654155
+            ],
+            [
+                "23_if any movie squeezes you into the shoes of grassroots combatants fighting a monstrous colonialist power for the right to their own neighborhoods, this is it.",
+                0.8011664612004525
+            ],
+            [
+                "24_it looks beyond any question to be an original documentary film, put together from newsreel footage, complemented by staged dramatic scenes.",
+                0.5522982413167976
+            ],
+            [
+                "25_pontecorvo has nearly accomplished the impossible: to make an epic film that convinces the viewer he is watching the real thing.",
+                0.5626932890673482
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gillo Pontecorvo": {
+                "args": [
+                    [
+                        "20_the 'smell of truth' that pontecorvo said he was after in this film has never left it, and likely never will.",
+                        -0.5766467196124517
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "18_the director's real achievement is not in making a piece of agitprop ",
+                -0.5040801625343505
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Tommaso Neri": {
+                "args": []
+            },
+            "Mohamed Ben Kassen": {
+                "args": []
+            },
+            "Fawzia el Kader": {
+                "args": []
+            },
+            "Michele Kerbash": {
+                "args": []
+            },
+            "Jean Martin": {
+                "args": []
+            },
+            "Samia Kerbash": {
+                "args": []
+            },
+            "Brahim Haggiag": {
+                "args": []
+            },
+            "Yacef Saadi": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Gillo Pontecorvo": {
+                "args": []
+            },
+            "Franco Solinas": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

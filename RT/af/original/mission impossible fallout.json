@@ -1,0 +1,162 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_impossible - fallout is an unrelentingly consistent action movie, with not a single sequence wasted before the next big stunt.",
+                -0.6819366033247405
+            ],
+            [
+                "1_the problem with constructing a movie as one long making-of sequence is that, if it's a movie as inert as this one, it doesn't so much answer the question \"how was it made?\" as pose another one altogether:",
+                -0.7033657124238808
+            ],
+            [
+                "6_if the film has one overriding flaw, it's that it's about 20 minutes too long.",
+                -0.6689942635770939
+            ],
+            [
+                "7_the sixth movie in the mission: impossible series is a truly maximalist work of art.",
+                -0.5285743959556304
+            ],
+            [
+                "12_the result is a film that won't make a dent in cinema history ",
+                0.6459375372716412
+            ],
+            [
+                "20_at its best, an exercise in pure action-movie propulsion and an essay in how to get from point a to point b in the most ingenious and exhausting way imaginable.",
+                0.5031575443751637
+            ],
+            [
+                "23_the movie is propelled by action scenes that transmit a little something about the characters while nudging the story forward, much like the song-and-dance numbers in a musical.",
+                0.6006362508518084
+            ],
+            [
+                "25_it's got that finely-tuned, perfect blend of every technical element that it takes to make a great action film, all in service of a fantastic script and anchored by great action performances to not just work within the genre ",
+                0.8547987017715281
+            ],
+            [
+                "27_cruise once again shows that being 56-years-old is no barrier to being an action hero while the movie itself proves that being a summer blockbuster cash cow that doesn't veer wildly from the unexpected doesn't have to be uninspired.",
+                -0.7507953424665496
+            ],
+            [
+                "34_a cinematic centrifuge of acrobatic stunt work, breakneck chases and immersive action, mission:",
+                -0.6932107299437852
+            ],
+            [
+                "37_cruise commits to an insane degree, and in mainstream entertainment terms, 'fallout' is up there with his best work.",
+                0.5652369339349443
+            ],
+            [
+                "41_the thriller version of comfort film.",
+                0.5995099983507637
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Christopher McQuarrie": {
+                "args": [
+                    [
+                        "11_plenty of pleasures apart from pure action turn up in the film, which, like the previous episode, \"rogue nation,\" was written and directed by christopher mcquarrie.",
+                        0.5794047548219632
+                    ],
+                    [
+                        "16_with his partner, returning director-writer christopher mcquarrie, cruise delivers all the above in the ridiculously entertaining fallout, his sixth outing as ethan hunt.",
+                        0.6915947719107851
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Henry Cavill": {
+                "args": []
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "Simon Pegg": {
+                "args": []
+            },
+            "Michelle Monaghan": {
+                "args": []
+            },
+            "Rebecca Ferguson": {
+                "args": []
+            },
+            "Tom Cruise": {
+                "args": [
+                    [
+                        "16_with his partner, returning director-writer christopher mcquarrie, cruise delivers all the above in the ridiculously entertaining fallout, his sixth outing as ethan hunt.",
+                        0.6915947719107851
+                    ],
+                    [
+                        "29_while younger, more generic action stars pop up every year in paint-by-numbers, explosion-heavy drudgery, it's cruise who remains top gun.",
+                        -0.5698755740434169
+                    ],
+                    [
+                        "32_with its combination of spycraft, intrigue and insane physicality, \"fallout\" again proves \"mission: impossible\" is the gold standard for international action-adventure and that cruise is this generation's james bond.",
+                        0.701158938303939
+                    ],
+                    [
+                        "33_tom cruise is still at the top of his game - not to mention the top a paris skyscraper and a snow-capped mountain in kashmir.",
+                        0.6599736713780121
+                    ],
+                    [
+                        "35_ it's easily the second-best and certainly the cruise-iest, meaning it's nearly as entertaining as it is strenuous.",
+                        0.8825846746830148
+                    ],
+                    [
+                        "43_here is cruise, 56, performing some of the most impressive feats of derring-do ever captured on screen.",
+                        0.6635021086954281
+                    ]
+                ]
+            },
+            "Sean Harris": {
+                "args": []
+            },
+            "Vanessa Kirby": {
+                "args": []
+            },
+            "Wes Bentley": {
+                "args": []
+            },
+            "Frederick Schmidt": {
+                "args": []
+            },
+            "Ving Rhames": {
+                "args": []
+            },
+            "Angela Bassett": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "16_with his partner, returning director-writer christopher mcquarrie, cruise delivers all the above in the ridiculously entertaining fallout, his sixth outing as ethan hunt.",
+                0.6915947719107851
+            ],
+            [
+                "22_it's a strong, engaging spy thriller with plenty of action and a convoluted storyline.",
+                0.7919047652573773
+            ],
+            [
+                "25_it's got that finely-tuned, perfect blend of every technical element that it takes to make a great action film, all in service of a fantastic script and anchored by great action performances to not just work within the genre ",
+                0.8547987017715281
+            ]
+        ],
+        "entities": {
+            "Christopher McQuarrie": {
+                "args": []
+            }
+        }
+    }
+}

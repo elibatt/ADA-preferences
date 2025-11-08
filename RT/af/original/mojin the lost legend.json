@@ -1,0 +1,59 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Zhang Muye": {
+                "args": []
+            },
+            "Chang Chia-lu": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_it's a very odd movie, indeed.",
+                0.567932701415
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yu Xia": {
+                "args": []
+            },
+            "Kun Chen": {
+                "args": []
+            },
+            "Cherry Ngan": {
+                "args": []
+            },
+            "Bo Huang": {
+                "args": []
+            },
+            "Qi Shu": {
+                "args": []
+            },
+            "Angelababy": {
+                "args": []
+            },
+            "Liu Xiaoqing": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Wuershan": {
+                "args": []
+            }
+        }
+    }
+}

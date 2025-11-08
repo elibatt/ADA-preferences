@@ -1,0 +1,254 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gertrude Messinger": {
+                "args": []
+            },
+            "Howard Negley": {
+                "args": []
+            },
+            "Lloyd Gough": {
+                "args": []
+            },
+            "Al Ferguson": {
+                "args": []
+            },
+            "John Cortay": {
+                "args": []
+            },
+            "Eva Novak": {
+                "args": []
+            },
+            "Cecil B. DeMille": {
+                "args": []
+            },
+            "Bill Sheehan": {
+                "args": []
+            },
+            "John 'Skins' Miller": {
+                "args": []
+            },
+            "Eddie Dew": {
+                "args": []
+            },
+            "Ray Evans": {
+                "args": []
+            },
+            "Hedda Hopper": {
+                "args": []
+            },
+            "Jay Livingston": {
+                "args": []
+            },
+            "Arthur Lane": {
+                "args": []
+            },
+            "Ken Christy": {
+                "args": []
+            },
+            "E. Mason Hopper": {
+                "args": []
+            },
+            "Robert Emmett O'Connor": {
+                "args": []
+            },
+            "Roy Thompson Jr.": {
+                "args": []
+            },
+            "Larry Blake": {
+                "args": []
+            },
+            "Kenneth Gibson": {
+                "args": []
+            },
+            "Emmett E. Smith": {
+                "args": []
+            },
+            "Virginia Randolph": {
+                "args": []
+            },
+            "Len Hendry": {
+                "args": []
+            },
+            "Nancy Olson": {
+                "args": []
+            },
+            "Edward Wahrman": {
+                "args": []
+            },
+            "Billy Sheehan": {
+                "args": []
+            },
+            "Franklin Farnum": {
+                "args": []
+            },
+            "Jay Morley": {
+                "args": []
+            },
+            "Erich von Stroheim": {
+                "args": []
+            },
+            "Jack Webb": {
+                "args": []
+            },
+            "Gertrude Messenger": {
+                "args": []
+            },
+            "Gertrude Astor": {
+                "args": []
+            },
+            "Charles Dayton": {
+                "args": []
+            },
+            "Anna Q. Nilsson": {
+                "args": []
+            },
+            "Ottola Nesmith": {
+                "args": []
+            },
+            "Ralph Montgomery": {
+                "args": []
+            },
+            "Ruth Clifford": {
+                "args": []
+            },
+            "William Holden": {
+                "args": [
+                    [
+                        "4_what's not recognized enough is the indelible, self-sickened performance of william holden as desmond's boy-toy/hired hack.",
+                        -0.5420549744279464
+                    ]
+                ]
+            },
+            "Julia Faye": {
+                "args": []
+            },
+            "Franklyn Farnum": {
+                "args": []
+            },
+            "Bernice Mosk": {
+                "args": []
+            },
+            "Larry J. Blake": {
+                "args": []
+            },
+            "Peter Drynan": {
+                "args": []
+            },
+            "Stan Johnson": {
+                "args": []
+            },
+            "Yvette Vickers": {
+                "args": []
+            },
+            "Creighton Hale": {
+                "args": []
+            },
+            "Robert E. O'Connor": {
+                "args": []
+            },
+            "Archie R. Dalzell": {
+                "args": []
+            },
+            "Howard Joslin": {
+                "args": []
+            },
+            "Sanford E. Greenwald": {
+                "args": []
+            },
+            "Frank O'Connor": {
+                "args": []
+            },
+            "Fred Clark": {
+                "args": []
+            },
+            "Sidney Skolsky": {
+                "args": []
+            },
+            "Gerry Ganzer": {
+                "args": []
+            },
+            "Gloria Swanson": {
+                "args": [
+                    [
+                        "0_a tour de force for swanson and one of wilder's better efforts.",
+                        0.8323523597492378
+                    ],
+                    [
+                        "7_while all the acting is memorable, one always thinks first and mostly of miss swanson, of her manifestation of consuming pride, her forlorn despair and a truly magnificent impersonation of charlie chaplin.",
+                        0.8114251693349014
+                    ]
+                ]
+            },
+            "James Hawley": {
+                "args": []
+            },
+            "Buster Keaton": {
+                "args": []
+            },
+            "Bert Moorhouse": {
+                "args": []
+            },
+            "Archie Twitchell": {
+                "args": []
+            },
+            "Joel Allen": {
+                "args": []
+            },
+            "H.B. Warner": {
+                "args": []
+            },
+            "Tommy Ivo": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Billy Wilder": {
+                "args": [
+                    [
+                        "0_a tour de force for swanson and one of wilder's better efforts.",
+                        0.8323523597492378
+                    ],
+                    [
+                        "2_one of wilder's finest, and certainly the blackest of all hollywood's scab-scratching accounts of itself.",
+                        0.5203396245319
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "D.M. Marshman, Jr.": {
+                "args": []
+            },
+            "Charles Brackett": {
+                "args": []
+            },
+            "Billy Wilder": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_still the best hollywood movie ever made about hollywood.",
+                0.8233497386842877
+            ],
+            [
+                "5_this is the greatest film about hollywood ever put on celluloid by hollywood.",
+                0.8068951229345137
+            ]
+        ]
+    }
+}

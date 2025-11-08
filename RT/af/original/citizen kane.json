@@ -1,0 +1,227 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Herman J. Mankiewicz": {
+                "args": []
+            },
+            "Orson Welles": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_this stuff is fine theatre, technically or any other way, and along with them the film is exciting for the recklessness of its independence, even if it seems to have little to be free for.",
+                0.5208069052683946
+            ],
+            [
+                "6_it is a work of art created by grown people for grown people.",
+                0.7115418381339207
+            ],
+            [
+                "9_a film that gets better with each renewed acquaintance.",
+                0.7166988756617116
+            ],
+            [
+                "10_citizen kane is far and away the most surprising and cinematically exciting motion picture to be seen here in many a moon.",
+                0.6589539126167243
+            ],
+            [
+                "10_as a matter of fact, it comes close to being the most sensational film ever made in hollywood.",
+                0.6102690167839951
+            ],
+            [
+                "11_motion picture archives and collections across the world would be poorer without copies of this film, which will forever be recognized as a defining example of american cinema.",
+                0.8050895300450452
+            ],
+            [
+                "12_more than a great movie",
+                0.6911525560221727
+            ],
+            [
+                "13_fifty years after its release, citizen kane still seems richer, bolder, more spectacularly alive than any other film of the studio-system era.",
+                0.6441224114011029
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "0_welles' performance is nothing less than astonishing.",
+                0.5327679557504255
+            ]
+        ],
+        "entities": {
+            "Buddy Swan": {
+                "args": []
+            },
+            "Louise Currie": {
+                "args": []
+            },
+            "Dorothy Comingore": {
+                "args": []
+            },
+            "Orson Welles": {
+                "args": [
+                    [
+                        "0_even in his love scenes is welles effective.",
+                        0.7520936866886
+                    ],
+                    [
+                        "2_some day, and the time won't be long in arriving, welles will be the greatest director in hollywood.",
+                        0.6268754468043392
+                    ],
+                    [
+                        "5_many of the novel techniques welles developed with cinematographer gregg toland were calculated to offer new angles on film space.",
+                        -0.570107522033081
+                    ],
+                    [
+                        "8_it is still the best place i know of to start thinking about welles -- or for that matter about movies in general.",
+                        0.7053456253424009
+                    ],
+                    [
+                        "13_regardless of how many times you've seen orson welles' 1941 masterpiece, it always feels like the first time.",
+                        0.5700058163006865
+                    ]
+                ]
+            },
+            "Gus Schilling": {
+                "args": []
+            },
+            "Fortunio Bonanova": {
+                "args": []
+            },
+            "George Coulouris": {
+                "args": []
+            },
+            "Sonny Bupp": {
+                "args": []
+            },
+            "Al Eben": {
+                "args": []
+            },
+            "Tudor Williams": {
+                "args": []
+            },
+            "Paul Stewart": {
+                "args": []
+            },
+            "Agnes Moorehead": {
+                "args": []
+            },
+            "Arthur O'Connell": {
+                "args": []
+            },
+            "Everett Sloane": {
+                "args": []
+            },
+            "Charles Bennett": {
+                "args": []
+            },
+            "Arthur Kay": {
+                "args": []
+            },
+            "Edith Evanson": {
+                "args": []
+            },
+            "Alan Ladd": {
+                "args": []
+            },
+            "William Alland": {
+                "args": []
+            },
+            "Edmund Cobb": {
+                "args": []
+            },
+            "Georgia Backus": {
+                "args": []
+            },
+            "Robert Dudley": {
+                "args": []
+            },
+            "Benny Rubin": {
+                "args": []
+            },
+            "Philip Van Zandt": {
+                "args": []
+            },
+            "Walter Sande": {
+                "args": []
+            },
+            "Pedro de Cordoba": {
+                "args": []
+            },
+            "Milton Kibbee": {
+                "args": []
+            },
+            "Ruth Warrick": {
+                "args": []
+            },
+            "Harry Shannon": {
+                "args": []
+            },
+            "Herbert Corthell": {
+                "args": []
+            },
+            "Joseph Cotten": {
+                "args": []
+            },
+            "Irving Mitchell": {
+                "args": []
+            },
+            "Eddie Coke": {
+                "args": []
+            },
+            "Ray Collins": {
+                "args": []
+            },
+            "Erskine Sanford": {
+                "args": []
+            },
+            "Joan Blair": {
+                "args": []
+            },
+            "Ellen Lowe": {
+                "args": []
+            },
+            "Gino Corrado": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Orson Welles": {
+                "args": [
+                    [
+                        "0_even in his love scenes is welles effective.",
+                        0.7520936866886
+                    ],
+                    [
+                        "2_some day, and the time won't be long in arriving, welles will be the greatest director in hollywood.",
+                        0.6268754468043392
+                    ],
+                    [
+                        "5_many of the novel techniques welles developed with cinematographer gregg toland were calculated to offer new angles on film space.",
+                        -0.570107522033081
+                    ],
+                    [
+                        "8_it is still the best place i know of to start thinking about welles -- or for that matter about movies in general.",
+                        0.7053456253424009
+                    ],
+                    [
+                        "13_regardless of how many times you've seen orson welles' 1941 masterpiece, it always feels like the first time.",
+                        0.5700058163006865
+                    ]
+                ]
+            }
+        }
+    }
+}

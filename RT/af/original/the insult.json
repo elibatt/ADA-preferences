@@ -1,0 +1,138 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Ziad Doueiri": {
+                "args": [
+                    [
+                        "2_... powerful new movie directed by ziad doueiri...",
+                        0.608757249225059
+                    ],
+                    [
+                        "7_director ziad doueiri's best foreign-language film oscar nominee from lebanon is a crackling legal thriller that boils down centuries of middle eastern conflict into one reckless insult - and lets the sparks fly",
+                        0.8298025540476632
+                    ],
+                    [
+                        "20_ doueiri does a competent job of exploring the sources of anger on both sides without valorizing either of them.",
+                        0.6007075574455677
+                    ],
+                    [
+                        "22_the tinderbox of lebanese politics and identity sparks into a controlled conflagration in ziad doueiri's calculatedly explosive drama \"the insult.\"",
+                        0.5825264300620142
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rita Hayek": {
+                "args": []
+            },
+            "Carlos Chahine": {
+                "args": []
+            },
+            "Kamel El Basha": {
+                "args": []
+            },
+            "Diamand Bou Abboud": {
+                "args": []
+            },
+            "Camille Salameh": {
+                "args": []
+            },
+            "Rifaat Torbey": {
+                "args": []
+            },
+            "Julia Kassar": {
+                "args": []
+            },
+            "Christine Choueiri": {
+                "args": []
+            },
+            "Talal Jurdi": {
+                "args": []
+            },
+            "Adel Karam": {
+                "args": [
+                    [
+                        "11_it's a fascinating job of acting, in that karam seems to be opening up his soul even as he's not giving an inch.",
+                        0.5480004080924179
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joëlle Touma": {
+                "args": []
+            },
+            "Ziad Doueiri": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the insult\" is optimistic enough to leave the door open to hope.",
+                -0.7036920588056417
+            ],
+            [
+                "4_\"the insult\" drives the point home while offering insight into the middle east conflict (it's at least part history lesson) by way of a riveting courtroom drama enhanced by terrific performances.",
+                0.7933662875436607
+            ],
+            [
+                "5_\"the insult\" doesn't offer a tidy resolution or easy answers - just a lot of questions worth pondering.",
+                0.5596434564033189
+            ],
+            [
+                "6_regardless of its high aims, most of what the insult offers-unlikely last-minute reveals, argumentative lawyers, stone-faced judges-is the stuff of a diverting, junky courtroom drama.",
+                0.5740572630690524
+            ],
+            [
+                "12_the insult fairly hurtles along, throwing not just muslims against christians, ",
+                -0.5638388443669458
+            ],
+            [
+                "12_part of the film is a crackerjack courtroom drama.",
+                0.6388645501263699
+            ],
+            [
+                "13_the insult is an honest and affecting argument for empathy, led by two excellent performances.",
+                0.8896792466953457
+            ],
+            [
+                "14_ it already has one electrifyingly brilliant film to its credit.",
+                0.6740344070454165
+            ],
+            [
+                "16_an engrossingly blunt instrument of a movie ...",
+                -0.5448581825393267
+            ],
+            [
+                "18_there is something undeniably exhilarating about the film's honest assessment of the never-ending conflict between decency and cruelty that rages in every nation, neighborhood and heart.",
+                0.7794331298112818
+            ],
+            [
+                "19_as a study of inflammation in the body politic, \"the insult\" is engaged and astute.",
+                0.5984206817013437
+            ],
+            [
+                "20_working its way through courtroom arguments, the movie never transcends the main tension established early on, ",
+                0.5424783526852901
+            ],
+            [
+                "21_ is nonetheless a fascinating piece of work ...",
+                0.6827831839777391
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

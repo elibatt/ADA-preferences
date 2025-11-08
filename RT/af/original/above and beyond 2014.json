@@ -1,0 +1,100 @@
+{
+    "writer": {
+        "entities": {
+            "Sophie Sartain": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Derek Penslar": {
+                "args": []
+            },
+            "Judy Rubenfeld": {
+                "args": []
+            },
+            "Lou Lenart": {
+                "args": []
+            },
+            "George Lichter": {
+                "args": []
+            },
+            "Dani Shapira": {
+                "args": []
+            },
+            "Smoky Simon": {
+                "args": []
+            },
+            "Harold Livingston": {
+                "args": []
+            },
+            "Shimon Peres": {
+                "args": []
+            },
+            "Mina Alon": {
+                "args": []
+            },
+            "Paul Reubens": {
+                "args": []
+            },
+            "Jeffrey Weiss": {
+                "args": []
+            },
+            "Coleman Goldstein": {
+                "args": []
+            },
+            "Gideon Lichtman": {
+                "args": []
+            },
+            "Leon Frankel": {
+                "args": []
+            },
+            "Michal Gonen": {
+                "args": []
+            },
+            "Benny Morris": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the film offers a fascinating chronicle of the 1948 arab-israeli war through the eyes of a daring group of men.",
+                0.7800175094904174
+            ],
+            [
+                "2_the film veers toward oversimplified selectivity, too intent on its feel-good, back-patting agenda.",
+                -0.5062874640238081
+            ],
+            [
+                "3_the film is best appreciated as a straightforward testimonial: old war buddies' hurrah against anti-semitism.",
+                0.8021594495248631
+            ],
+            [
+                "4_though somewhat marred by cheesy docudrama re-enactments, the film (produced by steven spielberg's sister nancy) is nutty, dramatic,",
+                0.7033756701195215
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Roberta Grossman": {
+                "args": [
+                    [
+                        "5_a fascinating little-known historical tale is stirringly recounted in roberta grossman's documentary about jewish-american fighter pilots who volunteered to fight for israel in its 1948 war of independence.",
+                        0.7156594109501367
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

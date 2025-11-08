@@ -1,0 +1,253 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_action movies are about movement, and john wick pursues that goal with remorseless verve.",
+                0.5475212968204736
+            ],
+            [
+                "5_john wick feels like action manna for its cleanly designed gun-fu sequences... ",
+                -0.6983397564064531
+            ],
+            [
+                "6_john wick is a rousing action thriller of the sort rarely encountered in theaters these days.",
+                -0.5463803696596508
+            ],
+            [
+                "7_john wick is the kind of fired-up, ferocious b-movie fun some of us can't get enough of.",
+                -0.6094710530299421
+            ],
+            [
+                "8_this is not an action movie in the michael bay lineage",
+                -0.7599624248650168
+            ],
+            [
+                "8_ rather than an escalating series of explosions, john wick offers a slow burn, sizzling in a manner true to its hero's surname.",
+                0.5152470437988879
+            ],
+            [
+                "9_if that sounds great, go see the movie.",
+                0.8065652145069625
+            ],
+            [
+                "10_while the body count grows numbing and repetitive, \"john wick\" actually is more compelling in the aesthetically heightened, specifically detailed world it depicts.",
+                0.6774556437516664
+            ],
+            [
+                "11_it's a beautiful coffee-table action movie.",
+                0.6774673229164956
+            ],
+            [
+                "12_it's a b movie made with a-student love for the relentless thrill of bodies in brutal motion.",
+                0.528318260619708
+            ],
+            [
+                "13_this is a film where every human being is a sack of meat waiting to be tenderized.",
+                -0.5441697651150745
+            ],
+            [
+                "14_this movie is so over the top, you can't track it on radar.",
+                -0.6969612565063399
+            ],
+            [
+                "16_the action scenes in john wick, while brutal, are also rather breathtaking.",
+                0.6233019125869403
+            ],
+            [
+                "18_stahelski has created an impressively distinctive, self-contained world for john wick that emphasizes sophistication and stylishness.",
+                0.7299467341837902
+            ],
+            [
+                "20_\"john wick\" transforms the current zeal for hit-man movies into a mix of propulsive homicide and giddy farce.",
+                0.6367547178439265
+            ],
+            [
+                "21_plot is not the movie's strong suit.",
+                -0.6009158502859195
+            ],
+            [
+                "28_but john wick has a more interesting story and better fights than most, not to mention, if too briefly,",
+                0.5727956592462106
+            ],
+            [
+                "29_\"john wick\" is like the action-movie version of a shark - a non-stop killing machine that dies if it ever stops moving.",
+                -0.6146871519015775
+            ],
+            [
+                "30_an underworld fantasy that grafts crisp action on to rian johnson-esque world-building, producing one of the more fully realized shoot-'em-up flicks in recent memory.",
+                0.7452388076671825
+            ],
+            [
+                "33_both ludicrous and ludicrously entertaining, \"john wick's\" stylish look, b-movie vibe and less-is-more, longer-takes-are-stronger-takes approach to action make it a standout.",
+                -0.6096373023606259
+            ],
+            [
+                "34_john wick adds little to the revenge thriller genre, save for a few stylish shots.",
+                -0.6368157243450259
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Alexander Frekey": {
+                "args": []
+            },
+            "Munro M. Bonnell": {
+                "args": []
+            },
+            "Daniel Bernhardt": {
+                "args": []
+            },
+            "Thomas Sadoski": {
+                "args": []
+            },
+            "Kevin Nash": {
+                "args": []
+            },
+            "Randall Duk Kim": {
+                "args": []
+            },
+            "Omer Barnea": {
+                "args": []
+            },
+            "Adrianne Palicki": {
+                "args": []
+            },
+            "Tait Fletcher": {
+                "args": []
+            },
+            "Bridget Regan": {
+                "args": []
+            },
+            "Dean Winters": {
+                "args": []
+            },
+            "Kazy Tauginas": {
+                "args": []
+            },
+            "Toby Leonard Moore": {
+                "args": []
+            },
+            "Willem Dafoe": {
+                "args": []
+            },
+            "Patricia Squire": {
+                "args": []
+            },
+            "John Leguizamo": {
+                "args": []
+            },
+            "Vladimir Troitsky": {
+                "args": []
+            },
+            "Gameela Wright": {
+                "args": []
+            },
+            "Lance Reddick": {
+                "args": []
+            },
+            "Michael Nyqvist": {
+                "args": []
+            },
+            "Keanu Reeves": {
+                "args": [
+                    [
+                        "2_yet, for all the film's stylishness and a body count worthy of a small civil war, there's no getting around the fact that stiff, stoic reeves -- who is capable of a few funny, deadpan lines -- isn't a particularly compelling lead action figure.",
+                        -0.6838259085289067
+                    ],
+                    [
+                        "17_it's all sharp stuff from stahelski and writer derek kolstad, and reeves finds decently tailored material in their mix of busy physicality, spare drama, and wickedly dry humor.",
+                        0.6745929523638595
+                    ],
+                    [
+                        "22_oohs and aahs will accompany reeves' dynamic dance of death.",
+                        0.5345763750662917
+                    ],
+                    [
+                        "35_where have you gone, keanu reeves?",
+                        -0.5838676270336054
+                    ],
+                    [
+                        "36_after a marked absence from the genre, reeves resoundingly returns with an effortless, kinetic style that positions the film extremely well for any potential follow-ups.",
+                        0.8228226277670542
+                    ],
+                    [
+                        "37_back in action-hero mode, keanu reeves joins forces with his 'matrix' stunt double to deliver a slick and satisfying revenge thriller.",
+                        0.5169236440075504
+                    ]
+                ]
+            },
+            "Bridget Moynahan": {
+                "args": []
+            },
+            "Alfie Allen": {
+                "args": []
+            },
+            "Clarke Peters": {
+                "args": []
+            },
+            "Ian McShane": {
+                "args": []
+            },
+            "Keith Jardine": {
+                "args": []
+            },
+            "Vladislav Koulikov": {
+                "args": []
+            },
+            "David Patrick Kelly": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Joel Zadak": {
+                "args": []
+            },
+            "Derek Kolstad": {
+                "args": [
+                    [
+                        "17_it's all sharp stuff from stahelski and writer derek kolstad, and reeves finds decently tailored material in their mix of busy physicality, spare drama, and wickedly dry humor.",
+                        0.6745929523638595
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Chad Stahelski": {
+                "args": [
+                    [
+                        "16_director chad stahelski handles the frenzied fusillade with flair.",
+                        0.6826239038869798
+                    ],
+                    [
+                        "17_it's all sharp stuff from stahelski and writer derek kolstad, and reeves finds decently tailored material in their mix of busy physicality, spare drama, and wickedly dry humor.",
+                        0.6745929523638595
+                    ]
+                ]
+            },
+            "David Leitch": {
+                "args": [
+                    [
+                        "1_stahelski and leitch, both former stunt men, unsurprisingly tackle action sequences with glee... ",
+                        -0.5118575076736016
+                    ],
+                    [
+                        "23_ still compelling, thanks in part to a fine villain, clever story touches, and clear-eyed direction from david leitch and chad stahelski.",
+                        0.8631258443992069
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

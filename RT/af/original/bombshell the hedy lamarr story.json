@@ -1,0 +1,132 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_an entertaining, and at times heartbreaking and infuriating, film.",
+                0.8048938386228247
+            ],
+            [
+                "14_ it's a totally serviceable, if disappointingly uncinematic, film about a singular celebrity.",
+                0.6829950258016756
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Roy Windham": {
+                "args": []
+            },
+            "Fleming Meeks": {
+                "args": []
+            },
+            "Anne Helen Petersen": {
+                "args": []
+            },
+            "Jan-Christopher Horak": {
+                "args": []
+            },
+            "Stephen Michael Shearer": {
+                "args": []
+            },
+            "Tony Rothman": {
+                "args": []
+            },
+            "Robert Osborne": {
+                "args": []
+            },
+            "Denise Loder-DeLuca": {
+                "args": []
+            },
+            "Peter Bogdanovich": {
+                "args": []
+            },
+            "Danijela Cabric": {
+                "args": []
+            },
+            "Richard Rhodes": {
+                "args": []
+            },
+            "Anthony Loder": {
+                "args": []
+            },
+            "Hedy Lamarr": {
+                "args": [
+                    [
+                        "1_the movie reveals and demonstrates over and over that lamarr was a fascinating and brilliant person, a true eccentric with considerable will and personal courage.",
+                        0.8648879648540191
+                    ],
+                    [
+                        "2_a google animator puts the mystery of hedy lamarr best: '",
+                        0.7475111868967543
+                    ],
+                    [
+                        "7_it fascinates both as film history and as a sobering reminder of how little credit a woman like lamarr received, even at the peak of her popularity.",
+                        0.7497584522625531
+                    ],
+                    [
+                        "9_what makes \"bombshell\" intriguing is not just lamarr's gift for invention, it's also what a fiery individualist she was, someone who had no regrets about her eventful life (\"you learn from everything\"), not even its racy, tabloid elements.",
+                        -0.5359270770169929
+                    ],
+                    [
+                        "12_ms. dean relates lamarr's ventures, those onscreen and off, with savvy and narrative snap, fluidly marshaling a mix of original interviews and archival material that includes film clips, home movies and other footage.",
+                        0.5976938441126944
+                    ],
+                    [
+                        "13_recognition (and compensation) proved elusive in lamarr's lifetime, ",
+                        0.517981190587051
+                    ]
+                ]
+            },
+            "Diane Kruger": {
+                "args": []
+            },
+            "Manya Hartmayer Breuer": {
+                "args": []
+            },
+            "Wendy Colton": {
+                "args": []
+            },
+            "Jennifer Hom": {
+                "args": []
+            },
+            "Michael Tilson Thomas": {
+                "args": []
+            },
+            "Jeanine Basinger": {
+                "args": []
+            },
+            "Mel Brooks": {
+                "args": []
+            },
+            "Nino Amarena": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Alexandra Dean": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alexandra Dean": {
+                "args": [
+                    [
+                        "12_ms. dean relates lamarr's ventures, those onscreen and off, with savvy and narrative snap, fluidly marshaling a mix of original interviews and archival material that includes film clips, home movies and other footage.",
+                        0.5976938441126944
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

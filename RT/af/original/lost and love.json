@@ -1,0 +1,41 @@
+{
+    "acting": {
+        "entities": {
+            "Andy Lau": {
+                "args": []
+            },
+            "Jing Boran": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Peng Sanyuan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peng Sanyuan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_peng's eye as a director is more pictorial than visually adventurous, ",
+                0.6624009570396523
+            ]
+        ]
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "22_it's a measure of her power and of the spell cast by this lovely movie that for hours, maybe days after you leave the theater, you'll want to stick around and find out what's around the corner for this now voyager.",
+                0.7212437482794478
+            ]
+        ],
+        "entities": {
+            "Samantha Munro": {
+                "args": []
+            },
+            "James Corscadden": {
+                "args": []
+            },
+            "Peter Campion": {
+                "args": []
+            },
+            "Tadhg McMahon": {
+                "args": []
+            },
+            "Niamh McCann": {
+                "args": []
+            },
+            "Maeve McGrath": {
+                "args": []
+            },
+            "Julie Walters": {
+                "args": []
+            },
+            "Eileen O'Higgins": {
+                "args": []
+            },
+            "Michael Zegen": {
+                "args": []
+            },
+            "Nora-Jane Noone": {
+                "args": []
+            },
+            "Hudson LeBlanc": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Ellen David": {
+                "args": []
+            },
+            "Paul Stewart": {
+                "args": []
+            },
+            "Mella Carron": {
+                "args": []
+            },
+            "Nick Ingman": {
+                "args": []
+            },
+            "Jane Wheeler": {
+                "args": []
+            },
+            "Iarla O'Lionaird": {
+                "args": []
+            },
+            "Paulino Nunes": {
+                "args": []
+            },
+            "Gillian McCarthy": {
+                "args": []
+            },
+            "James DiGiacomo": {
+                "args": []
+            },
+            "Fiona Glascott": {
+                "args": []
+            },
+            "Denis Conway": {
+                "args": []
+            },
+            "Matt Glynn": {
+                "args": []
+            },
+            "Eva Birthistle": {
+                "args": []
+            },
+            "Mary O'Driscoll": {
+                "args": []
+            },
+            "Brid Brennan": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Jessica Paré": {
+                "args": []
+            },
+            "Ellis Rockburn": {
+                "args": []
+            },
+            "Karen Ardiff": {
+                "args": []
+            },
+            "Barbara Drennan": {
+                "args": []
+            },
+            "Jane Brennan": {
+                "args": []
+            },
+            "Aine Ni Mhuiri": {
+                "args": []
+            },
+            "Saoirse Ronan": {
+                "args": [
+                    [
+                        "13_ ronan complicates eilis's ",
+                        -0.5293649179021357
+                    ],
+                    [
+                        "19_and what drives it is ronan's beautiful performance.",
+                        0.8601533368802476
+                    ],
+                    [
+                        "26_saoirse ronan lights up the screen in the year's best and most beguiling love story.",
+                        0.749796610220326
+                    ],
+                    [
+                        "27_its beating heart is 21-year-old saoirse ronan, once the bright-eyed teen from atonement ",
+                        0.5522337516816176
+                    ],
+                    [
+                        "33_ms. ronan uses everything - her posture, her eyebrows, her breath, her teeth, her pores - to convey a process of change that is both seismic and subtle.",
+                        0.6708059528074526
+                    ],
+                    [
+                        "37_saoirse ronan makes a grand case for herself as the millennial generation's finest leading lady in brooklyn, an immaculately crafted, immensely moving character study about a 1950s immigrant struggling to find her place in the world.",
+                        0.894620536050891
+                    ],
+                    [
+                        "42_it could have been a look in saoirse ronan's eyes or a musical cue or just the right image, ",
+                        0.7356136633430841
+                    ]
+                ]
+            },
+            "Max Walker": {
+                "args": []
+            },
+            "Emily Bett Rickards": {
+                "args": []
+            },
+            "Christian de la Cortina": {
+                "args": []
+            },
+            "Eve Macklin": {
+                "args": []
+            },
+            "Emma Lowe": {
+                "args": []
+            },
+            "Adrien Benn": {
+                "args": []
+            },
+            "Gary Lydon": {
+                "args": []
+            },
+            "Niamh-Anne McCann": {
+                "args": []
+            },
+            "Al Goulem": {
+                "args": []
+            },
+            "Emory Cohen": {
+                "args": []
+            },
+            "Jenn Murray": {
+                "args": []
+            },
+            "Erika Rosenbaum": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Crowley": {
+                "args": [
+                    [
+                        "32_it's certainly a compliment to director john crowley and screenwriter nick hornby",
+                        -0.5148860245519031
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "37_saoirse ronan makes a grand case for herself as the millennial generation's finest leading lady in brooklyn, an immaculately crafted, immensely moving character study about a 1950s immigrant struggling to find her place in the world.",
+                0.894620536050891
+            ]
+        ],
+        "entities": {
+            "Nick Hornby": {
+                "args": [
+                    [
+                        "32_it's certainly a compliment to director john crowley and screenwriter nick hornby",
+                        -0.5148860245519031
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_brooklyn is one of the best films ever made about leaving one's homeland in search of a better life, and forging a new path.",
+                0.8798824400126164
+            ],
+            [
+                "2_with compassion, a touch of melancholy and a sense of wonder, brooklyn reveals the profound truths in a simple, familiar story, ending on a note that's achingly bittersweet, no matter where you're from.",
+                0.8189710162736353
+            ],
+            [
+                "4_ brooklyn is sublimely uplifting and life affirming.",
+                0.5744596666013706
+            ],
+            [
+                "5_fans of the novel, of which i'm one, may find the film sweeter and more romantic than toibin's original conception.",
+                0.5390095016948019
+            ],
+            [
+                "6_ronan, in every scene of the film, creates a reserved young woman who seems to mature before our eyes, quietly revealing eilis' open, yearning heart.",
+                0.7656045190135248
+            ],
+            [
+                "7_brooklyn is a simple story affectingly told, bridging the emotional gulf one feels when ambition and home are an ocean apart and love is uncertain in either place.",
+                0.785117461695923
+            ],
+            [
+                "8_brooklyn is that rare period drama that doesn't lose itself in its dogged re-creation of another time.",
+                0.6462251001951318
+            ],
+            [
+                "9_\"brooklyn\" builds a touching, moving, crowd-pleasing delight from quiet, unassuming material.",
+                0.8103290459076347
+            ],
+            [
+                "10_it's such a beautiful film.",
+                0.7584076996793018
+            ],
+            [
+                "11_big, romantic and as sweet as wedding cake, brooklyn is a bi-continental love story that proudly wears its heart on its well-crafted sleeve.",
+                0.8402436240624273
+            ],
+            [
+                "12_if you think they don't make movies like they used to, \"brooklyn\" is glorious proof to the contrary.",
+                -0.5582085687907112
+            ],
+            [
+                "14_the film is suffused with the sense that a person is just about to bloom.",
+                0.5308576014542624
+            ],
+            [
+                "15_it is a beautiful film to experience.",
+                0.8879762103429112
+            ],
+            [
+                "16_\"brooklyn\" may be unapologetically old-fashioned, ",
+                0.614628587143954
+            ],
+            [
+                "20_\"brooklyn\" is at times swooningly romantic, ",
+                0.5308263519079016
+            ],
+            [
+                "21_i hesitate to call brooklyn heartwarming because that usually implies something overweeningly tender.",
+                0.6718553684742691
+            ],
+            [
+                "21_ as this wonderful film demonstrates.",
+                0.8466922343829257
+            ],
+            [
+                "22_it's a measure of her power and of the spell cast by this lovely movie that for hours, maybe days after you leave the theater, you'll want to stick around and find out what's around the corner for this now voyager.",
+                0.7212437482794478
+            ],
+            [
+                "23_ the film made me happy too.",
+                0.5688508096504752
+            ],
+            [
+                "24_ brooklyn is technically a love story,",
+                0.7293619969790992
+            ],
+            [
+                "28_brooklyn is an elegant testament to the dream of first experience, relatable to everyone, regardless of where you're from-elevated to no small degree by the blue emerald eyes and creamy complexion of its star ...",
+                0.8166225361437098
+            ],
+            [
+                "29_brooklyn doesn't quite capture brooklyn, ",
+                -0.5557887862792883
+            ],
+            [
+                "31_and gradually the film turns its very specific story of one immigrant into a moving group portrait.",
+                0.6658721156255412
+            ],
+            [
+                "32_(adapting the novel by colm tóibín) that the film calls to mind steven spielberg and even john ford in its willingness to commit to the grand gesture.",
+                0.7010875955250969
+            ],
+            [
+                "34_a godsend for audiences who hunger for rich emotion presented with wit, grace and not a trace of sentimentality, \"brooklyn\" illustrates the power of restraint in dealing with poignant, impassioned material.",
+                0.5958040489409188
+            ],
+            [
+                "35_brooklyn appeals as a love triangle, with charming, old-timey romances befitting the era it depicts, ",
+                0.8293548951449634
+            ],
+            [
+                "40_it's the sweet sincerity of \"brooklyn\" that stamps it as both refreshing and nostalgic.",
+                0.8070076435624647
+            ],
+            [
+                "40_the film is as welcome as a photo you just discovered of your mother before you were born, in which she looks prettier than you ever imagined.",
+                0.7900033159768347
+            ],
+            [
+                "42_and, yes, this movie is magical.",
+                0.550529520694385
+            ]
+        ]
+    }
+}

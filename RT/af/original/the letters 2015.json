@@ -1,0 +1,296 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_the letters feels dutiful, not artful.",
+                -0.6067206777403462
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "William Riead": {
+                "args": [
+                    [
+                        "2_a biopic about mother teresa could have easily been a self-important slog, yet william riead's \"the letters\" proves a stirring and absorbing if not quite definitive drama.",
+                        0.7047930375946363
+                    ],
+                    [
+                        "4_writer-director william riead offers a highly simplified version of his subject's life.",
+                        0.7162057552779475
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Juliet Stevenson": {
+                "args": []
+            },
+            "Deepak Dadhwal": {
+                "args": []
+            },
+            "Kranti Redkar": {
+                "args": []
+            },
+            "Kaizaad Kotwal": {
+                "args": []
+            },
+            "Marianne Borgo": {
+                "args": []
+            },
+            "Shaunk Belekar": {
+                "args": []
+            },
+            "Diganta Ajay Shet Parker": {
+                "args": []
+            },
+            "Rachel Coomes": {
+                "args": []
+            },
+            "Sarah M. Burlet-Bouton": {
+                "args": []
+            },
+            "Sujata Kamat": {
+                "args": []
+            },
+            "Keshav Nadkami": {
+                "args": []
+            },
+            "Vipin Sharma": {
+                "args": []
+            },
+            "Aiyaz Ahmed": {
+                "args": []
+            },
+            "Vivek Gomber": {
+                "args": []
+            },
+            "Mahabanoo Mody-Kotwal": {
+                "args": []
+            },
+            "Priya Darshini": {
+                "args": []
+            },
+            "Nalini Lemos Elvinos de Sousa": {
+                "args": []
+            },
+            "Nanda Nanda": {
+                "args": []
+            },
+            "Tanvesh Deepak Keni": {
+                "args": []
+            },
+            "Aapo Pukk": {
+                "args": []
+            },
+            "Suhaas Khandke": {
+                "args": []
+            },
+            "Brijesh Kakodkar": {
+                "args": []
+            },
+            "Ruth Costa": {
+                "args": []
+            },
+            "Shaswata Falari": {
+                "args": []
+            },
+            "Max von Sydow": {
+                "args": []
+            },
+            "Anishka Ulhas Raut": {
+                "args": []
+            },
+            "Malhari Atul Mishal": {
+                "args": []
+            },
+            "Govind Dhondu Hirve": {
+                "args": []
+            },
+            "Manasvi Datta Prasad Naik": {
+                "args": []
+            },
+            "Rushi Mistry": {
+                "args": []
+            },
+            "Rajesh Kareer": {
+                "args": []
+            },
+            "Anil V. Raikar": {
+                "args": []
+            },
+            "Asha Kingsley": {
+                "args": []
+            },
+            "Yusuf Hussain": {
+                "args": []
+            },
+            "Pravishi Das": {
+                "args": []
+            },
+            "Malaica Shyam Gaonkar": {
+                "args": []
+            },
+            "Shandy Bollywood": {
+                "args": []
+            },
+            "Meenacshi Shukla": {
+                "args": []
+            },
+            "Meenacshi Martins": {
+                "args": []
+            },
+            "Mark Bennington": {
+                "args": []
+            },
+            "Bibi Cordeaux": {
+                "args": []
+            },
+            "Deshpande Vishwanath": {
+                "args": []
+            },
+            "Kirti Hemant Sawkar": {
+                "args": []
+            },
+            "David Vickery": {
+                "args": []
+            },
+            "Pathy Aiyar": {
+                "args": []
+            },
+            "Suneel Pedneker": {
+                "args": []
+            },
+            "Viditi Purshottam Dangi Tanvesh Deepak Keni": {
+                "args": []
+            },
+            "Bivas Biswas": {
+                "args": []
+            },
+            "Balaji Vishwanath": {
+                "args": []
+            },
+            "Melanie Cordeaux": {
+                "args": []
+            },
+            "Aishwaria Arun Patil": {
+                "args": []
+            },
+            "Gabriele Stadtmiller": {
+                "args": []
+            },
+            "Amey Mangesh Varkerkar": {
+                "args": []
+            },
+            "Saeesha G. Kudtarkar": {
+                "args": []
+            },
+            "Mary Quinn": {
+                "args": []
+            },
+            "S.S. Shetkar": {
+                "args": []
+            },
+            "Tim Quinn": {
+                "args": []
+            },
+            "Swapnil Rajshekhar": {
+                "args": []
+            },
+            "Tony Cordeaux": {
+                "args": []
+            },
+            "Anil Raiker": {
+                "args": []
+            },
+            "Greg Heffernan": {
+                "args": []
+            },
+            "Rutger Hauer": {
+                "args": []
+            },
+            "Mukiar Sheikh": {
+                "args": []
+            },
+            "Omkar Laxman Parab": {
+                "args": []
+            },
+            "Mohan Deshprahb": {
+                "args": []
+            },
+            "Keshav Nadkarni": {
+                "args": []
+            },
+            "Sohrab Ardeshir": {
+                "args": []
+            },
+            "Amogh Vivek Desai": {
+                "args": []
+            },
+            "Maithili Kamulkar": {
+                "args": []
+            },
+            "Beaula Knauf": {
+                "args": []
+            },
+            "Prasheela Achrekar": {
+                "args": []
+            },
+            "Tilotama Shome": {
+                "args": []
+            },
+            "Azar Keshavarz": {
+                "args": []
+            },
+            "Kavita Amerkar": {
+                "args": []
+            },
+            "Shraddha Amar Kavlekar": {
+                "args": []
+            },
+            "Rustom Jamshedj Mistry": {
+                "args": []
+            },
+            "Vijay Maurya": {
+                "args": []
+            },
+            "Chaya Sandeep Hoble": {
+                "args": []
+            },
+            "Stephen Gressieux": {
+                "args": []
+            },
+            "Umberto Cherin": {
+                "args": []
+            },
+            "Keshav": {
+                "args": []
+            },
+            "Rajendra Gupta": {
+                "args": []
+            },
+            "Malani Coomes": {
+                "args": []
+            },
+            "Robert G. Burns": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "William Riead": {
+                "args": []
+            }
+        }
+    }
+}

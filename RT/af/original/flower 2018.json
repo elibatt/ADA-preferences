@@ -1,0 +1,133 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_there isn't a single kernel of emotional truth to be found in \"flower,\" a lamentable dark comedy that treats subjects such as teen suicide, pedophilia and drug use with the nuance of a jackhammer.",
+                -0.5521316390245781
+            ],
+            [
+                "4_it feels like the work of indie filmmakers weaned on todd solondz movies, adopting all of the ugliness ",
+                -0.6040613164279763
+            ],
+            [
+                "6_\"flower\" can't quite nail the necessary tone, aiming for dark, ",
+                -0.549849058944463
+            ],
+            [
+                "7_flower is clearly not everyone's idea of a bouquet, ",
+                0.5893407549379844
+            ],
+            [
+                "7_it's a film that reflects our times, even if it makes us uncomfortable to acknowledge it.",
+                0.6922227490124375
+            ],
+            [
+                "8_if you could pour the worst tendencies of american independent cinema over the last twenty years into a gigantic soup tureen and let it simmer overnight, this film would be the unappetizing result.",
+                -0.7002124143531501
+            ],
+            [
+                "9_as icky a comedy as you're likely to see this year, \"flower\" comes from an angry place - one that is clearly more concerned about sounding provocative and clever than having anything meaningful to say.",
+                0.7885082776926007
+            ],
+            [
+                "10_a film that's fake-transgressive: eager to shock, ",
+                -0.5319546499449058
+            ],
+            [
+                "11_mistaking provocation for insight, and failing to sell the presumed heroism of its cunning central character, the movie grows less involving with each step.",
+                -0.6063515350548238
+            ],
+            [
+                "12_cruelly amoral and only marginally credible, \"flower\" is nevertheless wildly entertaining and at times even touching.",
+                0.7825350637103454
+            ],
+            [
+                "15_even when the movie ends, we feel like we're only scratching the surface.",
+                -0.6495976707475245
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Max Winkler": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Matt Spicer": {
+                "args": []
+            },
+            "Alex McAulay": {
+                "args": []
+            },
+            "Max Winkler": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_deutch's portrayal of erica is truly impressive, giving us a fully fleshed character who's both vulnerable and remorseless.",
+                0.6675907547142697
+            ],
+            [
+                "11_mistaking provocation for insight, and failing to sell the presumed heroism of its cunning central character, the movie grows less involving with each step.",
+                -0.6063515350548238
+            ],
+            [
+                "14_a collection of great performances, led by a truly exceptional one, in search of a script that's worthy of them.",
+                0.7497447334977161
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Joey Morgan": {
+                "args": []
+            },
+            "Adam Scott": {
+                "args": []
+            },
+            "Dylan Gelula": {
+                "args": []
+            },
+            "Zoey Deutch": {
+                "args": [
+                    [
+                        "0_it's a shame, as deutch shows real commitment to a role that demands the exact opposite ...",
+                        -0.6021212257998142
+                    ],
+                    [
+                        "2_doesn't have a dull frame in it, thanks mainly to the star-making performance of deutch (\"everybody wants some\"),",
+                        -0.5203244449880957
+                    ],
+                    [
+                        "17_flower is redeemed only by zoey deutch's magnetic performance, which would be star-making if in the service of a better vehicle.",
+                        -0.5803604395053021
+                    ]
+                ]
+            },
+            "Kathryn Hahn": {
+                "args": []
+            },
+            "Maya Eshet": {
+                "args": []
+            },
+            "Tim Heidecker": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_deutch's portrayal of erica is truly impressive, giving us a fully fleshed character who's both vulnerable and remorseless.",
+                0.6675907547142697
+            ]
+        ]
+    }
+}

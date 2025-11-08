@@ -1,0 +1,112 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"obit\" manages to be both about a specific type of journalism and the larger world it reflects while dropping in all manner of colorful lives and circumstances.",
+                0.7057248895769983
+            ],
+            [
+                "1_the real subject here is storytelling, the creation of a stylish, authoritative, highly personal record of \"how the world got to be the way it is.",
+                0.7888129272739739
+            ],
+            [
+                "1_\" one more thing to miss about newspapers when they go.",
+                -0.6303196688365161
+            ],
+            [
+                "2_as someone who takes great pleasure in both reading and writing valedictions to the recently deceased, i can personally attest that the movie's dead on.",
+                -0.5209729834698431
+            ],
+            [
+                "3_it is fascinating to watch the writers in \"obit\" strive to do right by their subjects, warts and all.",
+                0.7127728296408126
+            ],
+            [
+                "4_these folks are neither dour nor sappy",
+                -0.7381939143559785
+            ],
+            [
+                "5_the people brought to life here, using a combination of the written obituary and news clips, are a varied and fascinating bunch.",
+                0.7552218462670438
+            ],
+            [
+                "7_it is abundantly clear that obit was made by someone who, to paraphrase featured obituarist bruce weber, has encountered death before and knows how to approach the subject with compassion.",
+                -0.517519847285041
+            ],
+            [
+                "8_readers of the new york times are bound to enjoy an inside look at one of the paper's most dependably enthralling sections.",
+                0.7793659874648363
+            ],
+            [
+                "9_do something memorable, and do it fast.",
+                0.6403567414351865
+            ],
+            [
+                "9_obit implies that the obituary page, like everything else, is fast becoming a dying art.",
+                -0.5211468234472351
+            ],
+            [
+                "10_entertaining if a bit conventional in its anecdotal structure and slightly cutesy tone, these 95 minutes should appeal to the same public that happily spends half the day reading the sunday times ...",
+                -0.5182682191709194
+            ],
+            [
+                "11_one comes away from \"obit\" grateful that the paper has at its disposal a team of humane, gifted people who make commemorating the dead a lively, lasting art.",
+                0.6957572400859775
+            ],
+            [
+                "12_obit rarely strays from the anodyne tone of the advertorial.",
+                0.5353186562151371
+            ],
+            [
+                "14_gould secures plenty of nuts-and-bolts detail about the reporting and writing process, which can range from novelistic use of detail to the prosaic ",
+                0.7050661676367833
+            ],
+            [
+                "14_ no less critical matter of confirming the death itself.",
+                -0.5906322562915873
+            ],
+            [
+                "16_obit is a fascinating, if slightly too long, look at newspaper journalism in general and obituaries in particular.",
+                0.59853922308123
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Vanessa Gould": {
+                "args": [
+                    [
+                        "6_writing an evocative, compact, accurate obituary is an art, and vanessa gould's joyous documentary obit takes us on a tour of the joint where some of the best are written ...",
+                        0.8565021483414805
+                    ],
+                    [
+                        "13_obit, the new documentary from director vanessa gould, lingers at the newspaper's death-desk to think through the meaning of remembrance, and to show the workday of these uncommon journalists.",
+                        0.6300828261750011
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "writer": {
+        "args": [
+            [
+                "2_as someone who takes great pleasure in both reading and writing valedictions to the recently deceased, i can personally attest that the movie's dead on.",
+                -0.5209729834698431
+            ],
+            [
+                "14_gould secures plenty of nuts-and-bolts detail about the reporting and writing process, which can range from novelistic use of detail to the prosaic ",
+                0.7050661676367833
+            ]
+        ],
+        "entities": {}
+    }
+}

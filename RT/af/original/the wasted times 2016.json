@@ -1,0 +1,48 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Tadanobu Asano": {
+                "args": []
+            },
+            "You Ge": {
+                "args": []
+            },
+            "Ziyi Zhang": {
+                "args": []
+            },
+            "Gillian Chung": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Cheng Er": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_the majority of the characters murder or are murdered in short order, so finding someone to root for or a storyline to follow in this strangely empty shanghai (even the train station looks abandoned) is difficult.",
+                -0.6905978364296108
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the wasted times\" plays like a movie carved out of a much larger mini-series, whose segments are then shown out of order.",
+                -0.6252946981450977
+            ]
+        ]
+    }
+}

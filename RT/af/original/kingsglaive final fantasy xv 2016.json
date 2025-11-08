@@ -1,0 +1,95 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Takeshi Nozue": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Adrian Bouchet": {
+                "args": []
+            },
+            "Aaron Paul": {
+                "args": []
+            },
+            "Will Bowden": {
+                "args": []
+            },
+            "Andrea Tivadar": {
+                "args": []
+            },
+            "John DeMita": {
+                "args": []
+            },
+            "David Gant": {
+                "args": []
+            },
+            "Jon Campling": {
+                "args": []
+            },
+            "Liam Mulvey": {
+                "args": []
+            },
+            "Lena Headey": {
+                "args": []
+            },
+            "Neil Newbon": {
+                "args": []
+            },
+            "Kezia Burrows": {
+                "args": []
+            },
+            "Amanda Piery": {
+                "args": []
+            },
+            "Gil Darnell": {
+                "args": []
+            },
+            "Edward Saxby": {
+                "args": []
+            },
+            "Sean Bean": {
+                "args": []
+            },
+            "Greg Blackford": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Takashi Hasegawa": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_instead of trying to adapt the video game experience into a film format, kingsglaive transforms the movie-going experience into something familiar to video game fans.",
+                -0.5474678688500251
+            ],
+            [
+                "2_the film's convoluted plot and dense mythology ... may leave even \"final fantasy\" devotees scratching their heads.",
+                -0.6071674089517212
+            ],
+            [
+                "4_ it might just be the best movie that bears the final fantasy name.",
+                0.7051543222365767
+            ],
+            [
+                "6_as a stand-alone film, this is a beautifully rendered bore.",
+                -0.5769421816849429
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

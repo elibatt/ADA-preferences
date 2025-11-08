@@ -1,0 +1,150 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Christopher McQuarrie": {
+                "args": [
+                    [
+                        "5_writer-director christopher mcquarrie, whose action movie skills are at best high-adequate, compensates by being good at interpersonal stuff.",
+                        0.5486798694172481
+                    ],
+                    [
+                        "8_\"rogue nation\" is pretty much like most of the \"impossible\" movies in that it's an immense machine that mr. mcquarrie, after tinkering and oiling, has cranked up again and set humming ...",
+                        0.5839468834042791
+                    ],
+                    [
+                        "32_ mcquarrie makes a critical mistake:",
+                        -0.5652697838162547
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Simon Pegg": {
+                "args": []
+            },
+            "Alec Baldwin": {
+                "args": []
+            },
+            "Tom Cruise": {
+                "args": [
+                    [
+                        "3_you overcome it through the application of sheer, unvarnished willpower, a quality that cruise has always possessed in abundance.",
+                        0.5639287884547868
+                    ],
+                    [
+                        "11_at the age of 53 mr. cruise continues to give his all to these films, and his all in this latest episode is more than enough.",
+                        0.5674387264518103
+                    ],
+                    [
+                        "13_at age 53, tom cruise is still a credible action hero.",
+                        0.601779861490088
+                    ],
+                    [
+                        "16_five movies in, cruise has perfected the m:",
+                        0.5757119122764986
+                    ],
+                    [
+                        "17_it shouldn't surprise you by now to hear that cruise apparently flirted with on-set danger here, too.",
+                        -0.5952504530259599
+                    ],
+                    [
+                        "20_as much as cruise dominates \"rogue nation,\" it's his co-star, rebecca ferguson, who emerges as the film's true and most memorable revelation.",
+                        0.8480692576620689
+                    ],
+                    [
+                        "26_ and features acts of nature - a geyser of boiling water in one case, tom cruise's abs in the other - that remain impressive after all these years.",
+                        -0.5574740474629317
+                    ],
+                    [
+                        "29_the intense tom cruise face",
+                        0.5908730212128882
+                    ],
+                    [
+                        "29_ doesn't - makes frequent appearances, as does the trademark arm-chopping tom cruise run.",
+                        -0.6050781811202366
+                    ],
+                    [
+                        "43_tom cruise goes through the motions in this diverting ",
+                        -0.7578773582883559
+                    ]
+                ]
+            },
+            "Ving Rhames": {
+                "args": []
+            },
+            "Jingchu Zhang": {
+                "args": []
+            },
+            "Sean Harris": {
+                "args": []
+            },
+            "Jens Hultén": {
+                "args": []
+            },
+            "Rebecca Ferguson": {
+                "args": [
+                    [
+                        "2_of the many heists and grabs that litter the movie, none is as blatant as the deft, irrepressible manner in which ferguson, displaying a light smile and a brisk way with a knife, steals the show.",
+                        0.864900263834703
+                    ],
+                    [
+                        "13_but this time, rebecca ferguson really gives him a run for his money,",
+                        -0.6053977069305396
+                    ]
+                ]
+            },
+            "Hermione Corfield": {
+                "args": []
+            },
+            "Nigel Barber": {
+                "args": []
+            },
+            "Simon McBurney": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "16_i formula -- a simple spy story, passable character comedy, and extremely long, impressively sustained action sequences.",
+                -0.6125960422155325
+            ]
+        ],
+        "entities": {
+            "Christopher McQuarrie": {
+                "args": []
+            },
+            "Bruce Geller": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_with mission: impossible - rogue nation, we're getting the best bond movie since casino royale in 2006.",
+                0.7026285355153149
+            ],
+            [
+                "9_ while the movie's playing, you're having too much fun getting manhandled by experts.",
+                0.5149880159879313
+            ],
+            [
+                "36_mcquarrie devises a film that's a succession of riveting sequences, filmed in a way that's active and yet elegant.",
+                0.8152441507349798
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

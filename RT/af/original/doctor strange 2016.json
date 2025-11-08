@@ -1,0 +1,326 @@
+{
+    "acting": {
+        "args": [
+            [
+                "32_thanks in part to its charming cast, and ",
+                0.6827592679280413
+            ],
+            [
+                "45_an engaging, smartly cast and sporadically eye-popping addition to the studio's bulging portfolio.",
+                0.616187359350266
+            ]
+        ],
+        "entities": {
+            "Kobna Holdbrook-Smith": {
+                "args": []
+            },
+            "Guillaume Faure": {
+                "args": []
+            },
+            "Mads Mikkelsen": {
+                "args": []
+            },
+            "Scott Adkins": {
+                "args": []
+            },
+            "Alaa Safi": {
+                "args": []
+            },
+            "Benedict Wong": {
+                "args": []
+            },
+            "Benedict Cumberbatch": {
+                "args": [
+                    [
+                        "7_and having cumberbatch around really raises the bar on what's possible in comic-book fantasy.",
+                        -0.515229940277071
+                    ],
+                    [
+                        "11_even with the fate of the entire universe at stake, derrickson keeps the tone appealingly light and jokey, and cumberbatch's strange isn't so cynical that he can't thrill at discovering his spectacular capabilities ...",
+                        0.539506056670809
+                    ],
+                    [
+                        "12_mcadams costars as strange's fellow surgeon and former lover, and her lively scenes with cumberbatch are worth all the digital effects and then some.",
+                        0.6801249864354615
+                    ],
+                    [
+                        "22_while i'm tired of the wretched tyranny of comic book flicks, i admit i liked cumberbatch's picture.",
+                        -0.6467476620925734
+                    ],
+                    [
+                        "40_like previous expository marvel films much of doctor strange is devoted to cumberbatch acquainting himself with his new powers.",
+                        0.5582532302612148
+                    ]
+                ]
+            },
+            "Adam Pelta": {
+                "args": []
+            },
+            "Eben Young": {
+                "args": []
+            },
+            "Meera Syal": {
+                "args": []
+            },
+            "Chiwetel Ejiofor": {
+                "args": []
+            },
+            "Ezra Khan": {
+                "args": []
+            },
+            "Topo Wresniwiro": {
+                "args": []
+            },
+            "Rachel McAdams": {
+                "args": []
+            },
+            "Juani Feliz": {
+                "args": []
+            },
+            "Kobna HoldbrookSmith": {
+                "args": []
+            },
+            "Pat Kiernan": {
+                "args": []
+            },
+            "Umit Ulgen": {
+                "args": []
+            },
+            "Mark Anthony Brighton": {
+                "args": []
+            },
+            "Sarah Malin": {
+                "args": []
+            },
+            "Kimberly Van Luin": {
+                "args": []
+            },
+            "Michael Stuhlbarg": {
+                "args": []
+            },
+            "Benjamin Bratt": {
+                "args": []
+            },
+            "Zara Phythian": {
+                "args": []
+            },
+            "Linda Duan": {
+                "args": []
+            },
+            "Katrina Durden": {
+                "args": []
+            },
+            "Amy Landecker": {
+                "args": []
+            },
+            "Daniel Dow": {
+                "args": []
+            },
+            "Elizabeth Healey": {
+                "args": []
+            },
+            "Adam Pelta-Pauls": {
+                "args": []
+            },
+            "Tilda Swinton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_doctor strange, intended to be a mind-bending, rule-breaking rebuke to the squares of superhero cinema, turns out to be a rebel in name only -- the textbook definition of a bad trip.",
+                -0.7753932391638528
+            ],
+            [
+                "2_with dr. strange the marvel magic seems largely to have run out-which is unfortunate, given the movie's titular protagonist is himself a magician.",
+                -0.5797320071190508
+            ],
+            [
+                "4_doctor strange is about as weird as any marvel movie is going to get these days, which is not particularly weird.",
+                -0.6588481080417229
+            ],
+            [
+                "5_the marvel comics movie universe gets a bit bigger, ",
+                0.6303370520334576
+            ],
+            [
+                "5_ not appreciably better, with doctor strange.",
+                -0.541062972587235
+            ],
+            [
+                "8_doctor strange has a dazzling, kaleidoscopic palette that compensates for the usual thin-ish story featuring a-list actors zapping one another, along with a hero who looks fearsomely witty even in repose.",
+                0.7667695402415278
+            ],
+            [
+                "9_for a long while doctor strange works both sides of the spiritual street with spectacular success.",
+                0.7547094163293226
+            ],
+            [
+                "9_then the film becomes what it was sending up so delightfully.",
+                -0.5677974744196501
+            ],
+            [
+                "14_as a movie, it's silly, sloppy, and spectacular.",
+                -0.6215404879939516
+            ],
+            [
+                "15_doctor strange tells a standard tale with just enough cleverness to keep the viewer interested.",
+                0.7367712504705471
+            ],
+            [
+                "16_the upshot: the movie develops a distinctively trippy identity.",
+                0.6223724853714809
+            ],
+            [
+                "17_all in all, \"doctor strange\" is a fun and trippy excursion to a place where marvel rarely seems to go: that is, to the retinal roots of the comics.",
+                0.8447666594053511
+            ],
+            [
+                "19_with a mischievous, metaphysical flourish, \"doctor strange\" administers some much-needed cpr to the flagging superhero genre.",
+                0.6140899873893886
+            ],
+            [
+                "25_marvel is getting increasingly good at delivering great movies based on material that shouldn't really work on film.",
+                -0.5642795176210691
+            ],
+            [
+                "26_at least the movie takes awhile before it goes into full tilt action, and even when it does, it never completely loses itself or its central character.",
+                -0.756634043452608
+            ],
+            [
+                "28_no affinity for superheroes or familiarity with marvel mythology is required to enjoy the visual spectacle that is doctor strange.",
+                0.7786697092648174
+            ],
+            [
+                "29_doctor strange\" is a bit like ordering pad thai at applebee's:",
+                0.5137776268379686
+            ],
+            [
+                "30_defiantly old-school -- not the cozy, apple-scented nostalgia of the first captain america film, ",
+                0.6500762892273102
+            ],
+            [
+                "32_ its serious intentions, doctor strange is a pleasantly silly film, with plenty of humor hiding amid all the reality-distorting special effects and high-flying action.",
+                0.6336375377135998
+            ],
+            [
+                "33_, keep doctor strange balanced, just barely, between trippy psychedelia and plain incoherence.",
+                -0.7506205713524639
+            ],
+            [
+                "34_ in the context of the film, the bizarre images make sense.",
+                0.6669044782747957
+            ],
+            [
+                "35_well, except for doctor strange's devilish cloak of levitation.",
+                -0.6437853755164411
+            ],
+            [
+                "36_for all of its wondrous world-building and trippy effects, doctor strange isn't the evolutionary step forward for marvel that it needs to be storytelling-wise.",
+                -0.5333949285200074
+            ],
+            [
+                "37_doctor strange really does show you a few new things, or at least familiar things in a clever new way.",
+                0.5478502618510124
+            ],
+            [
+                "39_unlike most studio franchise fantasies, doctor strange rewards the eye rather than assaults it.",
+                -0.5357481110957222
+            ],
+            [
+                "40_ the film's visual mindbending is what sets it apart from the studio's past releases.",
+                0.5993097943256578
+            ],
+            [
+                "42_doctor strange is thrilling in the way a lot of other marvel movies are.",
+                0.6475914684973889
+            ],
+            [
+                "44_if \"doctor strange\" can be dispiritingly safe, it can also be just as impressively bold - an hallucinogenic trip along a very familiar path, watching the film is like adding a large dose of lsd to your morning commute.",
+                0.8253486491678377
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Scott Derrickson": {
+                "args": [
+                    [
+                        "11_even with the fate of the entire universe at stake, derrickson keeps the tone appealingly light and jokey, and cumberbatch's strange isn't so cynical that he can't thrill at discovering his spectacular capabilities ...",
+                        0.539506056670809
+                    ],
+                    [
+                        "14_as a christian allegory, director scott derrickson's entry into the marvel cinematic universe is impressively thorough...",
+                        0.6710831724590873
+                    ],
+                    [
+                        "33_director scott derrickson and his co-writer, c. robert cargill",
+                        0.662427797032002
+                    ],
+                    [
+                        "46_a kaleidoscope of weirdness and innovative visual effects successfully introduce the newest marvel superhero in director/co-writer scott derrickson's brilliantly bizarre doctor strange.",
+                        0.7565428256765538
+                    ],
+                    [
+                        "47_the key is an in-on-the-joke script, which derrickson co-wrote with jon spaihts and c. robert cargill, that ingeniously navigates major plot potholes even as it saddles its actors with ludicrous dialogue.",
+                        -0.5673600086154246
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_there's a bunch of mumbo jumbo about sorcerers and whatnot, which weigh down the screenplay like an anchor.",
+                -0.5886580198950919
+            ],
+            [
+                "26_at least the movie takes awhile before it goes into full tilt action, and even when it does, it never completely loses itself or its central character.",
+                -0.756634043452608
+            ],
+            [
+                "38_it's fun to have new version of an old marvel favorite, and a storyline which adds some genuine mysticism to this ever-expanding franchise.",
+                0.7507470717797625
+            ],
+            [
+                "46_a kaleidoscope of weirdness and innovative visual effects successfully introduce the newest marvel superhero in director/co-writer scott derrickson's brilliantly bizarre doctor strange.",
+                0.7565428256765538
+            ]
+        ],
+        "entities": {
+            "C. Robert Cargill": {
+                "args": [
+                    [
+                        "33_director scott derrickson and his co-writer, c. robert cargill",
+                        0.662427797032002
+                    ]
+                ]
+            },
+            "Scott Derrickson": {
+                "args": []
+            },
+            "Thomas Dean Donnelly": {
+                "args": []
+            },
+            "Joshua Oppenheimer": {
+                "args": []
+            },
+            "Jon Spaihts": {
+                "args": [
+                    [
+                        "47_the key is an in-on-the-joke script, which derrickson co-wrote with jon spaihts and c. robert cargill, that ingeniously navigates major plot potholes even as it saddles its actors with ludicrous dialogue.",
+                        -0.5673600086154246
+                    ]
+                ]
+            }
+        }
+    }
+}

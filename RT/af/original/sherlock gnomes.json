@@ -1,0 +1,91 @@
+{
+    "writer": {
+        "entities": {
+            "Ben Zazove": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Maggie Smith": {
+                "args": []
+            },
+            "Johnny Depp": {
+                "args": [
+                    [
+                        "6_robbing mr. depp of his indispensable physical presence only highlights the ceramic stiffness of the jokes.",
+                        -0.533093416114998
+                    ]
+                ]
+            },
+            "Stephen Merchant": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": []
+            },
+            "James McAvoy": {
+                "args": []
+            },
+            "Matt Lucas": {
+                "args": []
+            },
+            "Chiwetel Ejiofor": {
+                "args": []
+            },
+            "Ashley Jensen": {
+                "args": []
+            },
+            "Michael Caine": {
+                "args": []
+            },
+            "Mary J. Blige": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ alas, \"sherlock gnomes\" doesn't have nearly the wit or charm of the original.",
+                -0.7084121304590933
+            ],
+            [
+                "2_simply put, sherlock gnomes is a dreadful bore.",
+                -0.7751486775338539
+            ],
+            [
+                "4_sherlock gnomes doesn't quite have the originality and spark to make it a pop-culture phenomenon.",
+                0.5975387877727991
+            ],
+            [
+                "5_no one's bothered to figure what this movie has to offer beyond terrifically tactile stone figures going through the motions of what might be called generic animated action rescue plot ...",
+                -0.7956177997802554
+            ],
+            [
+                "7_with little wit to its name, sherlock gnomes becomes far more tedious than playful.",
+                -0.5637269504742091
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "John Stevenson": {
+                "args": [
+                    [
+                        "3_as directed by john stevenson, it's a mildly amusing matinee adventure, and superior to gnomeo and juliet in every way.",
+                        0.5923962411382178
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

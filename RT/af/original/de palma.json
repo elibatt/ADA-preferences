@@ -1,0 +1,159 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Noah Baumbach": {
+                "args": [
+                    [
+                        "0_paltrow and baumbach simply walk de palma through his filmography and collect his best stories.",
+                        0.7759610364180294
+                    ],
+                    [
+                        "20_noah baumbach and jake paltrow's doc is nevertheless essential viewing for everyone.",
+                        0.7378848297032887
+                    ],
+                    [
+                        "25_garrulous and good-humored, de palma presides over paltrow and baumbach's film, taking us through his life and career step by step, title by title, in chronological order.",
+                        0.7115754114103042
+                    ],
+                    [
+                        "27_steered by noah baumbach and jake paltrow, brian de palma holds court in a delightful, illuminating career reflection.",
+                        0.8308011009786237
+                    ]
+                ]
+            },
+            "Jake Paltrow": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_mr. de palma is an american director of great consequence, and this movie about him and his remarkable career is long overdue.",
+                0.7641399644228952
+            ],
+            [
+                "20_more rewarding for neophytes and casual fans than it is for the titular director's hardcore devotees,",
+                0.5952904209293846
+            ],
+            [
+                "22_this conversation with polarizing director brian de palma accompanied by brilliantly chosen clips from his dark masterworks is heaven for movie lovers.",
+                0.5136628068915685
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_de palma remains a focused and productive filmmaker at 75, with several productions in the development pipeline. \"",
+                0.6852120478396321
+            ],
+            [
+                "1_de palma\" makes one hope that he'll keep up the pace for years to come.",
+                0.7736178231899482
+            ],
+            [
+                "2_de palma is a deceptively simple documentary film:",
+                0.7233607251809715
+            ],
+            [
+                "6_\"de palma\" is a cinematic sampler that makes you want to gorge on the whole unholy buffet.",
+                0.5553888740842488
+            ],
+            [
+                "7_de palma enthusiasts will benefit the most here (small surprise), ",
+                0.6556297022196707
+            ],
+            [
+                "9_\"de palma\" deftly covers the full gamut of the man's films, from the early robert de niro collaboration \"the wedding party\" (shot in 1963) through commercial breakthroughs in the 1970s and then several more career ups and downs afterward.",
+                0.5337260995011384
+            ],
+            [
+                "12_none of this will win over the de palma haters, ",
+                0.6828820476047565
+            ],
+            [
+                "12_ they are clearly outside the intended audience here.",
+                0.5346356774491284
+            ],
+            [
+                "14_while his filmmaking pals have all at one time or another been household names, de palma's never quite gotten the close-up",
+                -0.5759209808993462
+            ],
+            [
+                "15_more than just a big-screen fetish object for brian de palma's still-loyal cult, \"de palma\" is one of the essential documentaries on hollywood.",
+                0.6124113469417419
+            ],
+            [
+                "16_\"de palma's\" biggest asset, not surprisingly, is the man himself.",
+                -0.6159208847083602
+            ],
+            [
+                "17_de palma walked away from hollywood 15 years ago.",
+                -0.5142011302481653
+            ],
+            [
+                "17_they make de palma brisk and engaging ...",
+                0.7044214519503087
+            ],
+            [
+                "18_mr. de palma is remarkable company - witty, insightful and neither unduly modest nor overbearingly vain.",
+                0.545504059175794
+            ],
+            [
+                "19_mr. de palma is an american director of great consequence, and this movie about him and his remarkable career is long overdue.",
+                0.7641399644228952
+            ],
+            [
+                "21_\"de palma\" treats its subject as the gonzo genius of genre cinema, which is to say it gives him his due.",
+                0.6488273834946677
+            ],
+            [
+                "22_this conversation with polarizing director brian de palma accompanied by brilliantly chosen clips from his dark masterworks is heaven for movie lovers.",
+                0.5136628068915685
+            ],
+            [
+                "23_de palma is just de palma gabbing for two hours into a camera, and that's its ultimate limitation, ",
+                -0.5365813423796124
+            ],
+            [
+                "26_while i wouldn't willingly subject myself to a second viewing of the bonfire of the vanities or snake eyes, i would happily listen to de palma expound on what works and what doesn't in those movies.",
+                0.5109003158242992
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Brian DePalma": {
+                "args": []
+            },
+            "Noah Baumbach": {
+                "args": [
+                    [
+                        "0_paltrow and baumbach simply walk de palma through his filmography and collect his best stories.",
+                        0.7759610364180294
+                    ],
+                    [
+                        "20_noah baumbach and jake paltrow's doc is nevertheless essential viewing for everyone.",
+                        0.7378848297032887
+                    ],
+                    [
+                        "25_garrulous and good-humored, de palma presides over paltrow and baumbach's film, taking us through his life and career step by step, title by title, in chronological order.",
+                        0.7115754114103042
+                    ],
+                    [
+                        "27_steered by noah baumbach and jake paltrow, brian de palma holds court in a delightful, illuminating career reflection.",
+                        0.8308011009786237
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it takes nearly an hour before anyone discusses anything conceptual, ",
+                -0.7339054321038965
+            ],
+            [
+                "4_there must be more gravity to the man's life and work than this breezy love letter will admit.",
+                0.7314977577871524
+            ],
+            [
+                "8_hockney is a little work of art of its own, even if it's so very nice and happy about everything.",
+                0.8676586824945296
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Randall Wright": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Joe Clark": {
+                "args": []
+            },
+            "David Oxtoby": {
+                "args": []
+            },
+            "Colin Self": {
+                "args": []
+            },
+            "Melissa North": {
+                "args": []
+            },
+            "Margaret Hockney": {
+                "args": []
+            },
+            "David Hockney": {
+                "args": [
+                    [
+                        "2_the film fails to describe the full arc of hockney's work and career - it is clearly addressed to those who already know that basic story.",
+                        -0.5898112997899682
+                    ],
+                    [
+                        "7_\"hockney\" is less interested in providing a conventional top-to-bottom narrative than in capturing a sense of who hockney is and what is important to him.",
+                        0.6213579398532763
+                    ]
+                ]
+            },
+            "Raymond Foye": {
+                "args": []
+            },
+            "George Lawson": {
+                "args": []
+            },
+            "Charlie Schieps": {
+                "args": []
+            },
+            "Celia Birtwell": {
+                "args": []
+            },
+            "Betty Freeman": {
+                "args": []
+            },
+            "Edward Ruscha": {
+                "args": []
+            },
+            "Philip Steadman": {
+                "args": []
+            },
+            "Paul Martin Dubois": {
+                "args": []
+            },
+            "Kenneth Tyler": {
+                "args": []
+            },
+            "Mark Berger": {
+                "args": []
+            },
+            "Wayne Sleep": {
+                "args": []
+            },
+            "John Kasmin": {
+                "args": []
+            },
+            "Jack Larson": {
+                "args": []
+            },
+            "Arthur Lambert": {
+                "args": []
+            },
+            "Don Bachardy": {
+                "args": []
+            },
+            "Tchaik Chassay": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    }
+}

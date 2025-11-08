@@ -1,0 +1,122 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ all i see is you ultimately fails to deliver much beyond a gradual descent into disinterest and watch-checking.",
+                -0.5966501848028714
+            ],
+            [
+                "1_you might be laughing at the movie by the time you reach its go-for-broke final shot, ",
+                -0.6610317155183796
+            ],
+            [
+                "5_think instead a short faux-experimental film unnecessarily stretched to the yawning point.",
+                -0.6397716644044402
+            ],
+            [
+                "6_ to make us care - long enough to work up true suspense.",
+                -0.6312207720480605
+            ],
+            [
+                "7_ fascinating work in this tense, twisty, sexual and psychological puzzle.",
+                0.6220104576810392
+            ],
+            [
+                "9_forster does some interesting visual work here to suggest the perspective of a person who is (legally) blind, ",
+                0.5294046520432159
+            ],
+            [
+                "10_ a film in which ambiguity trumps complexity.",
+                0.6911270863947689
+            ],
+            [
+                "12_\"all i see is you\" is halfway through before something resembling a plot kicks in, and even then this limp, shape-shifting psychodrama proves unable to sell it with anything approaching coherence.",
+                -0.708975050718119
+            ],
+            [
+                "14_for a film about vision and visions, all it had me looking at was my watch.",
+                -0.6502936414257632
+            ],
+            [
+                "15_lively has become an expert at creating the impression that at some point, the movie behind her will come together.",
+                0.5447598699365488
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marc Forster": {
+                "args": [
+                    [
+                        "4_for all of forster's experimentation, and his willingness to prod at the strange, jagged edges of this relationship, he ultimately rejects darkness.",
+                        0.570856451773609
+                    ],
+                    [
+                        "5_marc forster's superficially trippy thailand-set movie never plays like something that had to be made about the human condition.",
+                        0.5011812566627005
+                    ],
+                    [
+                        "8_none of the violent payouts...far more arresting and captivating a romance because forster infuses it with suspenseful urgency.",
+                        0.7287553410991535
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sean Conway": {
+                "args": []
+            },
+            "Marc Forster": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Johanna Wallmeier": {
+                "args": []
+            },
+            "Jason Clarke": {
+                "args": []
+            },
+            "Wes Chatham": {
+                "args": []
+            },
+            "Kaitlin Orem": {
+                "args": []
+            },
+            "Stacee Vatanapan": {
+                "args": []
+            },
+            "Yvonne Strahovski": {
+                "args": []
+            },
+            "Danny Huston": {
+                "args": []
+            },
+            "Miquel Fernández": {
+                "args": []
+            },
+            "Blake Lively": {
+                "args": [
+                    [
+                        "1_ the look on lively's face is enough to fulfill the idea that loving someone is not the same as needing someone.",
+                        0.5451749271455728
+                    ]
+                ]
+            },
+            "Ahna O'Reilly": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

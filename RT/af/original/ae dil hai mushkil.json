@@ -1,0 +1,80 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Alia Bhatt": {
+                "args": []
+            },
+            "Shah Rukh Khan": {
+                "args": []
+            },
+            "Anushka Sharma": {
+                "args": []
+            },
+            "Matt Townsend": {
+                "args": []
+            },
+            "Aishwarya Rai Bachchan": {
+                "args": []
+            },
+            "Ranbir Kapoor": {
+                "args": []
+            },
+            "Fawad Khan": {
+                "args": []
+            },
+            "Lisa Haydon": {
+                "args": []
+            },
+            "Imran Abbas": {
+                "args": []
+            },
+            "Lora Moss": {
+                "args": []
+            },
+            "Raj Awasti": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Karan Johar": {
+                "args": [
+                    [
+                        "0_in the capable hands of actors who can siphon the nuances from a screenplay soaked in cliches, ae dil hai mushkil has many shining instances that reveal the poignant story johar intended to tell.",
+                        0.725992655814101
+                    ],
+                    [
+                        "1_superstar bollywood director karan johar keeps his fans happy with a bittersweet globetrotting romance.",
+                        0.8685722264812583
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_in the capable hands of actors who can siphon the nuances from a screenplay soaked in cliches, ae dil hai mushkil has many shining instances that reveal the poignant story johar intended to tell.",
+                0.725992655814101
+            ]
+        ],
+        "entities": {
+            "Karan Johar": {
+                "args": []
+            },
+            "Niranjan Iyengar": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    }
+}

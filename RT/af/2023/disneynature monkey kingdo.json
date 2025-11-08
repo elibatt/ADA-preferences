@@ -1,0 +1,59 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "5_it doesn't monkey around - that's left to the film's subjects, who are more than happy to oblige.",
+                0.6886670581348592
+            ],
+            [
+                "7_the film offers a valuable life lesson in the powers of determination and timing, ",
+                0.6968339367507284
+            ],
+            [
+                "3",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Mark Linfield": {
+                "unique_args": []
+            },
+            "Alastair Fothergill": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Mark Linfield": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "3_ also surprisingly absorbing, with marvelous narration from tina fey.",
+                0.824488486184974
+            ]
+        ],
+        "entities": {
+            "Tina Fey": {
+                "unique_args": [
+                    [
+                        "3_ also surprisingly absorbing, with marvelous narration from tina fey.",
+                        0.824488486184974
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

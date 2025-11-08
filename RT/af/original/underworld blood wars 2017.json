@@ -1,0 +1,175 @@
+{
+    "writer": {
+        "entities": {
+            "Cory Goodman": {
+                "args": [
+                    [
+                        "3_this film is so heavy with exposition that you would think that the director, anna foerster, and the screenwriter, cory goodman, had set out to complete a dissertation instead of a sequel.",
+                        -0.5735161291122837
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Anna Foerster": {
+                "args": [
+                    [
+                        "3_this film is so heavy with exposition that you would think that the director, anna foerster, and the screenwriter, cory goodman, had set out to complete a dissertation instead of a sequel.",
+                        -0.5735161291122837
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_semira surfaces as the one potential source of campy fun in the film, ",
+                -0.5536480267000676
+            ],
+            [
+                "4_while the film may justify its title in terms of the viscera on display, it is badly in need of a funny bone.",
+                -0.6361224132799107
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jared Doreck": {
+                "args": []
+            },
+            "Simona Simkova": {
+                "args": []
+            },
+            "Tomas Fingerland": {
+                "args": []
+            },
+            "Adam Vosecek": {
+                "args": []
+            },
+            "Jan Nemejovský": {
+                "args": []
+            },
+            "Daniel Pietrucha": {
+                "args": []
+            },
+            "Oliver Stark": {
+                "args": []
+            },
+            "Lara Pulver": {
+                "args": []
+            },
+            "Anezka Noskova": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Agatha Hofmanova": {
+                "args": []
+            },
+            "Kate Beckinsale": {
+                "args": [
+                    [
+                        "1_coming off a long overdue reunion with whit stillman in the jane austen adaptation love & friendship, kate beckinsale returns here to the role that has been wasting her gifts as a comic actor for going on 14 years.",
+                        0.7644725376538694
+                    ],
+                    [
+                        "9_should satisfy fans of the \"underworld\" movies just enough to live up to the previous films' success ... and to guarantee that beckinsale, if she so chooses, can ride out this saga some more.",
+                        0.7027013907062838
+                    ]
+                ]
+            },
+            "Eva Larvoire": {
+                "args": []
+            },
+            "James Faulkner": {
+                "args": []
+            },
+            "Irena Morisakova": {
+                "args": []
+            },
+            "Jakub Mayer": {
+                "args": []
+            },
+            "Alicia Vela-Bailey": {
+                "args": []
+            },
+            "Marielle Tepper": {
+                "args": []
+            },
+            "Zuzana Stivinova": {
+                "args": []
+            },
+            "Theo James": {
+                "args": []
+            },
+            "David Bowles": {
+                "args": []
+            },
+            "Jiri Jelinek": {
+                "args": []
+            },
+            "Lukas Krampera": {
+                "args": []
+            },
+            "Bradley James": {
+                "args": []
+            },
+            "Peter Andersson": {
+                "args": []
+            },
+            "Terezie Kovalova": {
+                "args": []
+            },
+            "Tomasz Kwiecien-Fisher": {
+                "args": []
+            },
+            "Jordan Haj": {
+                "args": []
+            },
+            "Daniel Vojtech": {
+                "args": []
+            },
+            "Lukas Vydrzal": {
+                "args": []
+            },
+            "Denisa Krskova": {
+                "args": []
+            },
+            "Dan Bradford": {
+                "args": []
+            },
+            "Clementine Nicholson": {
+                "args": []
+            },
+            "Brian Caspe": {
+                "args": []
+            },
+            "Sara Arnsteinova": {
+                "args": []
+            },
+            "Tobias Menzies": {
+                "args": []
+            },
+            "Driga Sveta": {
+                "args": []
+            },
+            "Daisy Head": {
+                "args": []
+            },
+            "Jakub Kropacek": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

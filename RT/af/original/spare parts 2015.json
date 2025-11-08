@@ -1,0 +1,117 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_sequences and scenes end unceremoniously, everyone in the movie seems to know each other's backstory before they're properly introduced, and mild jokes land with uncertainty.",
+                0.6141692545451308
+            ],
+            [
+                "2_spare parts tries too hard to be a based-on-a-true-story, feel-good, crowd-pleasing, triumph-of-the-underdogs movie.",
+                -0.509427719058265
+            ],
+            [
+                "3_while the appropriately titled \"spare parts\" might feel like it has been assembled from bits and pieces of other inspirational movies, that doesn't mean the fact-based drama is any less effective ...",
+                -0.7735782580158097
+            ],
+            [
+                "6_in the end, \"spare parts\" proves to be more exhausting than it is inspiring.",
+                0.5357197503575302
+            ],
+            [
+                "7_at times, spare parts sails perilously close to the saccharine.",
+                -0.6360981090521506
+            ],
+            [
+                "7_ the film is a fine example of a message movie that does justice both to its important subject matter and to its characters' inner lives.",
+                0.8099556147062035
+            ],
+            [
+                "10_though based on a true story, \"spare parts,\" like every other studio product,",
+                -0.5007403980531142
+            ],
+            [
+                "11_the characters in \"spare parts\" all go through changes that are true to many immigrants' decidedly mixed experiences in the american melting pot.",
+                0.725424652420019
+            ],
+            [
+                "12_if \"stand and deliver\" struck many as a hard-hitting look at life in the urban ghetto, \"spare parts\" seems like a disney after-school special by comparison.",
+                0.5024705118549301
+            ],
+            [
+                "13_\"spare parts\" is the kind of feel-good underdog movie that almost can't help getting waylaid by cliches.",
+                -0.5104507978407874
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sean McNamara": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "José Julián": {
+                "args": []
+            },
+            "Gerardo Ortiz": {
+                "args": []
+            },
+            "Esai Morales": {
+                "args": []
+            },
+            "Jamie Lee Curtis": {
+                "args": []
+            },
+            "Oscar Gutiérrez": {
+                "args": []
+            },
+            "Aubrey K. Miller": {
+                "args": []
+            },
+            "Marisa Tomei": {
+                "args": []
+            },
+            "David Del Rio": {
+                "args": []
+            },
+            "Carlos Peña": {
+                "args": []
+            },
+            "George Lopez": {
+                "args": []
+            },
+            "Alexa PenaVega": {
+                "args": []
+            },
+            "Alessandra Rosaldo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Elissa Matsueda": {
+                "args": [
+                    [
+                        "5_ matsueda's screenplay is alert to details that ground the film in the day-to-day lives of young people who are american in every way ",
+                        0.7631112014829381
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "9_[the] screenplay ... plays down intellect in favor of corn and cliché.",
+                -0.5599416258821981
+            ]
+        ]
+    }
+}

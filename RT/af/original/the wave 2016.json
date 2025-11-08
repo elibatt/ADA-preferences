@@ -1,0 +1,172 @@
+{
+    "writer": {
+        "entities": {
+            "John Kåre Raake": {
+                "args": [
+                    [
+                        "11_the filmmakers (the script is by john kare raake and harald rosenlow eeg) cook up the sort of unpleasantness that turns the better disaster pictures, like this one, into nail-biters.",
+                        0.5604727479881866
+                    ]
+                ]
+            },
+            "Harald Rosenløw-Eeg": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_\"the wave\" adds credible writing and effective acting to gangbusters special effects, resulting in a white-knuckle experience a bit higher on the plausibility scale than what we're used to from hollywood versions of the genre.",
+                0.8494949647289912
+            ],
+            [
+                "17_borrowing heavily from \"titanic\" and lesser catastrophe films, character development plummets and dialogue is reduced to the usual run of \"save my babies!\"",
+                -0.5501334413683483
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Thomas Bo Larsen": {
+                "args": []
+            },
+            "Jonas Hoff Oftebro": {
+                "args": []
+            },
+            "Fridtjov Såheim": {
+                "args": []
+            },
+            "Eili Harboe": {
+                "args": []
+            },
+            "Kristoffer Joner": {
+                "args": []
+            },
+            "Mette Agnete Horn": {
+                "args": []
+            },
+            "Ane Dahl Torp": {
+                "args": []
+            },
+            "Silje Breivik": {
+                "args": []
+            },
+            "Arthur Berning": {
+                "args": []
+            },
+            "Laila Goody": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_\"the wave\" adds credible writing and effective acting to gangbusters special effects, resulting in a white-knuckle experience a bit higher on the plausibility scale than what we're used to from hollywood versions of the genre.",
+                0.8494949647289912
+            ],
+            [
+                "28_the cast is headlined by two of norway's leading actors, who give the characters unusual depth for a genre film.",
+                0.7753623278449209
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_more than anything, the wave's ability to sustain tension out of its tired scenario makes it even more impressive than its me decade ancestors.",
+                -0.5393300361172153
+            ],
+            [
+                "1_but the wave, which was norway's official entry for the academy awards,",
+                0.5403736776610022
+            ],
+            [
+                "2_ the setting feels grandly unfamiliar, and the aftermath of the wave, with its elemental mix of water and fire, seems like a plausible vision of hell.",
+                0.5939243863155079
+            ],
+            [
+                "3_something like the wave is indeed a rarity - without skimping on the spectacle that glues eyeballs to the screen, it takes the time to develop its characters.",
+                -0.5777843048472002
+            ],
+            [
+                "4_having laid out my qualms in advance, i am happy to report that the wave... is pretty good.",
+                0.757479562397838
+            ],
+            [
+                "5_the wave itself is a masterfully believable bit of cinematic destruction in which everyone tries to rush for higher ground on narrow roads not meant to handle a rapid evacuation.",
+                -0.6349889317928076
+            ],
+            [
+                "7_\"the wave\" adds credible writing and effective acting to gangbusters special effects, resulting in a white-knuckle experience a bit higher on the plausibility scale than what we're used to from hollywood versions of the genre.",
+                0.8494949647289912
+            ],
+            [
+                "9_the action is slow in coming - 45 minutes into the film - ",
+                -0.6283608922962264
+            ],
+            [
+                "10_ \"the wave\" holds its own, thanks to the specifics of its place and characters.",
+                0.7954582216205202
+            ],
+            [
+                "13_the wave, scandinavia's first-ever disaster film, is the polar opposite of a disaster.",
+                -0.6032395591125839
+            ],
+            [
+                "18_if you think foreign films can't compete with hollywood when it comes to delivering popcorn entertainment, prepare to be carried away by \"the wave.\"",
+                0.5847013989895865
+            ],
+            [
+                "21_the wave\" has none of that.",
+                -0.5609935778802948
+            ],
+            [
+                "22_the family-in-peril motif is a disaster-film staple, ",
+                -0.6706243151215956
+            ],
+            [
+                "22_ don't hold that against the wave.",
+                0.5680944053073151
+            ],
+            [
+                "24_take away the subtitles and replace the norwegian actors with natasha henstridge and ian ziering, and the wave would be right at home on the syfy channel.",
+                -0.6555377066535065
+            ],
+            [
+                "25_a passable imitation of a hollywood disaster movie minus the campy elements ...",
+                -0.7514936940498536
+            ],
+            [
+                "26_the wave is less a conventional disaster movie than a movie that happens to be about a disaster, a small distinction that makes a world of difference when it comes time to care what happens to any of these people ...",
+                -0.7812715792260632
+            ],
+            [
+                "28_the cast is headlined by two of norway's leading actors, who give the characters unusual depth for a genre film.",
+                0.7753623278449209
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Roar Uthaug": {
+                "args": [
+                    [
+                        "6_what director uthaug pitches perfectly right are the stakes.",
+                        0.7388501280954083
+                    ],
+                    [
+                        "12_norway is a small, orderly country, and if roar uthaug's \"the wave\" is an indication, its disaster movies are small and orderly as well.",
+                        0.6313946693087324
+                    ],
+                    [
+                        "27_roar uthaug has made an equally impressive tsunami-peril thriller - a thunderous rumble-rumble-hustle-hustle-glub-glub nerve-racker.",
+                        0.7241454866852778
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

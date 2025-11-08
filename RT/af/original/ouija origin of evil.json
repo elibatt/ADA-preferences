@@ -1,0 +1,117 @@
+{
+    "film": {
+        "args": [
+            [
+                "11_a well-crafted horror film with strong performances and a palpable sense of time and place.",
+                0.8421131833545955
+            ],
+            [
+                "15_you wait, hoping for a good, classic horror film.",
+                0.6109599628324748
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "4_deliciously creepy, thanks largely to a terrific performance by the youngest of its stars.",
+                0.7855772925871485
+            ]
+        ],
+        "entities": {
+            "Sam Anderson": {
+                "args": []
+            },
+            "Doug Jones": {
+                "args": []
+            },
+            "Lulu Wilson": {
+                "args": []
+            },
+            "John Prosky": {
+                "args": []
+            },
+            "Parker Mack": {
+                "args": []
+            },
+            "Ele Keats": {
+                "args": []
+            },
+            "Henry Thomas": {
+                "args": []
+            },
+            "Kate Siegel": {
+                "args": []
+            },
+            "Michael Weaver": {
+                "args": []
+            },
+            "Nicholas Keenan": {
+                "args": []
+            },
+            "Elizabeth Reaser": {
+                "args": [
+                    [
+                        "16_both reaser and thomas provide unexpected depths to what could have been schematic roles, and the younger performers are even better.",
+                        0.720107884968419
+                    ]
+                ]
+            },
+            "Alexis G. Zall": {
+                "args": []
+            },
+            "Annalise Basso": {
+                "args": []
+            },
+            "Lincoln Melcher": {
+                "args": []
+            },
+            "Chelsea Gonzalez": {
+                "args": []
+            },
+            "Lin Shaye": {
+                "args": []
+            },
+            "Chad Heffelfinger": {
+                "args": []
+            },
+            "Eve Gordon": {
+                "args": []
+            },
+            "Nina Mansker": {
+                "args": []
+            },
+            "Halle Charlton": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Mike Flanagan": {
+                "args": []
+            },
+            "Jeff Howard": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Mike Flanagan": {
+                "args": [
+                    [
+                        "14_with a serious horror director like flanagan at the helm, origin of evil is more ",
+                        -0.5984523211853912
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

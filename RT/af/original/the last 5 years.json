@@ -1,0 +1,130 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ there are moments of real delight in the movie ...",
+                0.702902179971818
+            ],
+            [
+                "2_nothing from this movie.",
+                -0.5642797452450057
+            ],
+            [
+                "6_in fact, she's potentially the first great movie musical star of her generation.",
+                0.7433617114814397
+            ],
+            [
+                "9_how delicious that one of the best movie musicals in years -- and one of the best musical adaptations ever -- concedes that the job is almost too tough to do.",
+                0.8917990316244144
+            ],
+            [
+                "11_kendrick qualifies as the movie's secret weapon - actually not so secret now that she's charmed audiences in both 'into the woods' and 'pitch perfect.'",
+                0.6384987449278828
+            ],
+            [
+                "12_she's that rare thing, a movie star with a trained soprano.",
+                0.7628435002852381
+            ],
+            [
+                "14_this bare-bones adaptation is more of a sop to the musical's fans than a fully imagined movie musical.",
+                0.5308514084192347
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Richard LaGravenese": {
+                "args": [
+                    [
+                        "3_it's bland, earnest, and receptive, and in order to capture it, the director richard lagravenese thinks he needs more crane shots than citizen kane.",
+                        -0.5637092710800079
+                    ],
+                    [
+                        "5_kendrick and jordan seem too squeaky-clean to convey the full weight of the characters' psychological baggage, yet lagravenese's balanced, unpretentious direction allows the material to resonate all the same.",
+                        -0.5016817465716545
+                    ],
+                    [
+                        "17_the songs are smart and \"company\"-era sondheimesque, courtesy of composer jason robert brown, and director richard lagravenese has done a stylish, fast-paced job.",
+                        0.7958846818026721
+                    ],
+                    [
+                        "27_there must have been some spark of inspiration that made director richard lagravenese believe this hermetic construct might benefit from the larger breathing space of screen treatment.",
+                        -0.5946040769982888
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Richard LaGravenese": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_star anna kendrick's appeal is stretched to its limit here, and her lover jeremy jordan's character is hard to take in large doses.",
+                -0.5439521068412411
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nic Novicki": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": [
+                    [
+                        "1_anna kendrick, of all-round-awesome fame, is singing again in this adaptation of an off-broadway musical.",
+                        0.7527961286844957
+                    ],
+                    [
+                        "4_star anna kendrick's appeal is stretched to its limit here, and her lover jeremy jordan's character is hard to take in large doses.",
+                        -0.5439521068412411
+                    ],
+                    [
+                        "6_jordan comes out of this movie respectably, while kendrick comes out of it a star.",
+                        -0.6495793254114115
+                    ],
+                    [
+                        "8_as far as i'm concerned, anna kendrick can make a musical twice annually for the next few decades.",
+                        0.6603784086992148
+                    ],
+                    [
+                        "10_detailing the ups and downs of romance, kendrick and jordan enchant on screen.",
+                        -0.5108373555537351
+                    ],
+                    [
+                        "12_the camera moves with heightened sensitivity, as if on currents of emotion, and kendrick is infinitely winning.",
+                        0.7359570254365378
+                    ],
+                    [
+                        "20_\"the film is the least enjoyable among [kendrick's musical] efforts, its considerable ambitions undermined by charmless songs and a frustratingly cursory love story.\"",
+                        0.7138150890413748
+                    ],
+                    [
+                        "22_the sublime anna kendrick and jeremy jordan work miracles, giving glorious voice to their roles, making it easy to overlook the failings in the last five years.",
+                        0.695192827017153
+                    ],
+                    [
+                        "24_stars anna kendrick and jeremy jordan are earnest and often appealing in \"the last five years,\" even if the musical romance never completely finds its footing.",
+                        0.7124929163167161
+                    ]
+                ]
+            },
+            "Natalie Knepp": {
+                "args": []
+            },
+            "Meg Hudson": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

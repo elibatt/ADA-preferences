@@ -1,0 +1,318 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_the sharp, interpersonal dramedy that made the first movie such a delight is again present in flashes, ",
+                0.7150420483060903
+            ],
+            [
+                "6_how can a movie with more stuff than its predecessors be less fun?",
+                0.6288032984413953
+            ],
+            [
+                "8_age of ultron is that it's reasonably enjoyable while feeling less like a movie than an epic sowing of seeds for multiple marvel properties.",
+                0.6298658855939591
+            ],
+            [
+                "19_an entertaining package of characters and ideas that manages to be a whole lot more than the first film while also being a little bit less.",
+                0.738303824592689
+            ],
+            [
+                "36_\"age of ultron\" proves that a movie with stealth fighter jets, levitating cities and hulk-on-robot fisticuffs can be as freewheeling as a no-budget indie.",
+                -0.5539034257549145
+            ],
+            [
+                "40_this movie is fine, honestly.",
+                0.5959118638234713
+            ],
+            [
+                "46_the movie's action sequences and sequel-baiting suck up much of its oxygen, and the magnitude of battles dwarf the smaller moments.",
+                -0.5415752441630557
+            ],
+            [
+                "49_marvel movie die-hards will come away having found nuggets of pleasure, ",
+                0.5030691661977785
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Joss Whedon": {
+                "args": [
+                    [
+                        "11_writer-director joss whedon attempts to inject just enough human drama into these noisy proceedings to keep it from turning into a transformers-style crashathon.",
+                        0.5512988377063719
+                    ],
+                    [
+                        "14_you can sense that mr. whedon, having helped build a universal earnings machine with the first \"avengers,\" has now struggled mightily, touchingly, to invest this behemoth with some life.",
+                        0.7189909436117153
+                    ],
+                    [
+                        "15_by making the avengers snarky rivals as well as brothers and sisters in arms, franchise big brain joss whedon injects exactly what such a noisy spectacle needs: a dollop of charm.",
+                        0.6595855610971906
+                    ],
+                    [
+                        "18_as he did in the first \"avengers,\" writer-director joss whedon avoids the fatal trap of comic-book self-seriousness, leavening a baggy, busy, overpopulated story with zippy one-liners, quippy asides and an overarching tone of jaunty good fun.",
+                        0.8423725351239212
+                    ],
+                    [
+                        "20_yet it's so heavy with joss whedon's sweat that it never feels like a lazy cash-in --- which for a preordained summer megahit is an accomplishment.",
+                        -0.5321168434341745
+                    ],
+                    [
+                        "25_like the first one, avengers: age of ultron was written and directed by joss whedon, among whose many virtues is an indelible, infallible touch with character, which is important because in ultron he has to introduce them at a furious rate.",
+                        0.8178026093822901
+                    ],
+                    [
+                        "29_joss whedon proves he has a superpower of his own: mediocrity.",
+                        -0.505010882861658
+                    ],
+                    [
+                        "33_joss whedon shows his considerable gifts for multicharacter air traffic control in a massive 3-d spectacle while demonstrating reserves of insouciance.",
+                        0.7658889503617007
+                    ],
+                    [
+                        "37_entertaining as much of \"avengers 2\" is, especially when it's just hanging out with the gang in between scuffles (the \"guardians of the galaxy\" lesson, learned), whedon's picture meets expectations without exceeding them.",
+                        0.5965469868396421
+                    ],
+                    [
+                        "47_ it's the little moments that make it work - in part, because joss whedon is so good at them.",
+                        0.6323389438283713
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Monty McLaren": {
+                "args": []
+            },
+            "Julie Delpy": {
+                "args": []
+            },
+            "Don Cheadle": {
+                "args": []
+            },
+            "Brian Schaeffer": {
+                "args": []
+            },
+            "Samuel L. Jackson": {
+                "args": []
+            },
+            "Anthony Mackie": {
+                "args": []
+            },
+            "Earl Kim": {
+                "args": []
+            },
+            "Cobie Smulders": {
+                "args": []
+            },
+            "Michael Matovski": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Antony Acheampong": {
+                "args": []
+            },
+            "Harriet Manamela": {
+                "args": []
+            },
+            "Chioma Anyanwu": {
+                "args": []
+            },
+            "Kabelo Thai": {
+                "args": []
+            },
+            "Julia Krynke": {
+                "args": []
+            },
+            "Dominique Provost-Chalkley": {
+                "args": []
+            },
+            "Namju Go": {
+                "args": []
+            },
+            "Bentley Kalu": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": []
+            },
+            "Andy Serkis": {
+                "args": []
+            },
+            "Ingvild Deila": {
+                "args": []
+            },
+            "Claudia Kim": {
+                "args": []
+            },
+            "Chris Evans": {
+                "args": []
+            },
+            "Monty McLaren-Clark": {
+                "args": []
+            },
+            "Alma Noce": {
+                "args": []
+            },
+            "Gareth Kieran Jones": {
+                "args": []
+            },
+            "Elizabeth Olsen": {
+                "args": []
+            },
+            "Isaac Andrews": {
+                "args": []
+            },
+            "Verity Hewlett": {
+                "args": []
+            },
+            "Ian Kay": {
+                "args": []
+            },
+            "Riccardo Richetta": {
+                "args": []
+            },
+            "Mark Ruffalo": {
+                "args": []
+            },
+            "Earl Kim Shiroma": {
+                "args": []
+            },
+            "Barry Aird": {
+                "args": []
+            },
+            "Mina Kwon": {
+                "args": []
+            },
+            "Idris Elba": {
+                "args": []
+            },
+            "Tony Christian": {
+                "args": []
+            },
+            "Chan Woo Lim": {
+                "args": []
+            },
+            "Thomas Kretschmann": {
+                "args": []
+            },
+            "Robert Downey Jr.": {
+                "args": [
+                    [
+                        "12_the film is a work of craft, from the actors like mr. downey, who can deliver a comic line with the timing of a mouse trap, to the editors, jeffrey ford and lisa lassek, upon whom so much of the movie's very elegant fluidity rests ...",
+                        0.8294719320149865
+                    ]
+                ]
+            },
+            "Linda Cardellini": {
+                "args": []
+            },
+            "Vuyo Dabula": {
+                "args": []
+            },
+            "Stellan Skarsgard": {
+                "args": []
+            },
+            "James Spader": {
+                "args": []
+            },
+            "Hayley Atwell": {
+                "args": []
+            },
+            "Scarlett Johansson": {
+                "args": []
+            },
+            "Chris Hemsworth": {
+                "args": []
+            },
+            "Sunny Yeo": {
+                "args": []
+            },
+            "Lele Ledwaba": {
+                "args": []
+            },
+            "Minhee Yeo": {
+                "args": []
+            },
+            "Chris Beasley": {
+                "args": []
+            },
+            "Aaron Taylor-Johnson": {
+                "args": []
+            },
+            "Paul Bettany": {
+                "args": []
+            },
+            "Julian Bleach": {
+                "args": []
+            },
+            "Nondumiso Tembe": {
+                "args": []
+            },
+            "Chris Luca": {
+                "args": []
+            },
+            "Mandla Gaduka": {
+                "args": []
+            },
+            "Jeremy Renner": {
+                "args": [
+                    [
+                        "41_and, for the most part, this superhero extravaganza hits the bull's-eye with all the precision of jeremy renner's arrow-slinging hawkeye.",
+                        0.754951638905835
+                    ]
+                ]
+            },
+            "Henry Goodman": {
+                "args": []
+            },
+            "Constanza Ruff": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "35_marvel cast well, and continues to expand their parts or add fascinating new players.",
+                0.7381532411471615
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Joss Whedon": {
+                "args": []
+            },
+            "Jack Kirby": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_as he did in the first \"avengers,\" writer-director joss whedon avoids the fatal trap of comic-book self-seriousness, leavening a baggy, busy, overpopulated story with zippy one-liners, quippy asides and an overarching tone of jaunty good fun.",
+                0.8423725351239212
+            ],
+            [
+                "25_like the first one, avengers: age of ultron was written and directed by joss whedon, among whose many virtues is an indelible, infallible touch with character, which is important because in ultron he has to introduce them at a furious rate.",
+                0.8178026093822901
+            ],
+            [
+                "52_unlike its title character, \"age of ultron\" most definitely has soul.",
+                0.6272203957676223
+            ]
+        ]
+    }
+}

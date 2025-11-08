@@ -1,0 +1,284 @@
+{
+    "writer": {
+        "entities": {
+            "Ben Younger": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_miles teller gives the performance of his career as the indefatigable vinny \"the pazmanian devil\" pazienza, and writer-director ben younger delivers one of the best boxing movies of the decade in bleed for this.",
+                0.8941996451771225
+            ],
+            [
+                "26_this welcome return by boiler room writer-director ben younger can't help ",
+                0.6189330955787432
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ben Younger": {
+                "args": [
+                    [
+                        "0_ben younger's bleed for this, starring miles teller, distinguishes itself by doubling down on some of the tried-and-true formulas.",
+                        0.5455293479077826
+                    ],
+                    [
+                        "9_miles teller gives the performance of his career as the indefatigable vinny \"the pazmanian devil\" pazienza, and writer-director ben younger delivers one of the best boxing movies of the decade in bleed for this.",
+                        0.8941996451771225
+                    ],
+                    [
+                        "26_this welcome return by boiler room writer-director ben younger can't help ",
+                        0.6189330955787432
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_there's always another fight, just as there's always another boxing film.",
+                0.5548019743102628
+            ],
+            [
+                "2_teller is magnetic in the lead role, and he helps \"bleed for this\" transcend boxing movie clichés.",
+                0.581603884966928
+            ],
+            [
+                "3_this is a boxing movie that actually gets boxing.",
+                -0.5139244753991041
+            ],
+            [
+                "5_ bleed for this wins more narrowly, on points.",
+                -0.6170441027489745
+            ],
+            [
+                "7_the world needs another boxing movie like a palooka needs another hit to the head.",
+                -0.6688982749410151
+            ],
+            [
+                "7_ it can always use a good story - and bleed for this certainly qualifies as such.",
+                0.7632801231781067
+            ],
+            [
+                "8_bleed for this is not that movie.",
+                -0.7505408505070741
+            ],
+            [
+                "11_no amount of feints will change one fact: \"bleed for this\" has no new moves.",
+                -0.6573171126837781
+            ],
+            [
+                "14_the familiar conventions of the boxing movie get a muscular overhaul in this gritty biopic about vinny pazienza, known as the pazmanian devil.",
+                0.5415374201557256
+            ],
+            [
+                "16_\"bleed for this\" is not a very good movie, ",
+                0.6106556751678042
+            ],
+            [
+                "20_teller's fierce evocation of the man's extreme, at times uncomfortable resolve makes bleed for this the rare boxing movie in which watching the hero win is difficult.",
+                0.7073786186417474
+            ],
+            [
+                "21_teller's work is the film's soul, and he completely convinces us of vinny's affability, flaws and steely determination.",
+                0.6007627178362749
+            ],
+            [
+                "23_it's so well made that bleed for this won me over ",
+                0.5617596645626095
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Christina Chan": {
+                "args": []
+            },
+            "Portland Helmich": {
+                "args": []
+            },
+            "Peter Quillin": {
+                "args": []
+            },
+            "Kemp Harris": {
+                "args": []
+            },
+            "Michelle Migliori": {
+                "args": []
+            },
+            "Jordan Gelber": {
+                "args": []
+            },
+            "Liz Carey": {
+                "args": []
+            },
+            "Stew Replogle": {
+                "args": []
+            },
+            "Aaron Eckhart": {
+                "args": []
+            },
+            "Jimmy Burchfield Jr.": {
+                "args": []
+            },
+            "Christopher Connolly": {
+                "args": []
+            },
+            "Katey Sagal": {
+                "args": []
+            },
+            "Tom DeNucci": {
+                "args": []
+            },
+            "Charles Dwyer": {
+                "args": []
+            },
+            "Sully Erna": {
+                "args": []
+            },
+            "Ted Wayman": {
+                "args": []
+            },
+            "Daniel Sauli": {
+                "args": []
+            },
+            "Ted Levine": {
+                "args": []
+            },
+            "Santo Acevedo": {
+                "args": []
+            },
+            "Marv Albert": {
+                "args": []
+            },
+            "Sy Lee": {
+                "args": []
+            },
+            "Alicia Barrett": {
+                "args": []
+            },
+            "Al Bernstein": {
+                "args": []
+            },
+            "Sonny Saggese": {
+                "args": []
+            },
+            "Gregg Trzakowski": {
+                "args": []
+            },
+            "Tim Fields": {
+                "args": []
+            },
+            "Ciarán Hinds": {
+                "args": []
+            },
+            "Mike Koutrobis": {
+                "args": []
+            },
+            "James Peralla": {
+                "args": []
+            },
+            "Keith Jeffrey": {
+                "args": []
+            },
+            "Denise Schaefer": {
+                "args": []
+            },
+            "Frank Carpano": {
+                "args": []
+            },
+            "Noelle Trudeau": {
+                "args": []
+            },
+            "Edwin Rodrigues": {
+                "args": []
+            },
+            "Edwin Rodriguez": {
+                "args": []
+            },
+            "Miles Teller": {
+                "args": [
+                    [
+                        "0_ben younger's bleed for this, starring miles teller, distinguishes itself by doubling down on some of the tried-and-true formulas.",
+                        0.5455293479077826
+                    ],
+                    [
+                        "9_miles teller gives the performance of his career as the indefatigable vinny \"the pazmanian devil\" pazienza, and writer-director ben younger delivers one of the best boxing movies of the decade in bleed for this.",
+                        0.8941996451771225
+                    ],
+                    [
+                        "10_ and teller and eckhart make it better than it ought to be.",
+                        -0.5352909811281386
+                    ],
+                    [
+                        "22_with his bulked-up physique, wispy mustache, and reckless masochism, teller turns what could have been a goombah cartoon into a real person.",
+                        -0.6961607511387007
+                    ]
+                ]
+            },
+            "Polly Cottam": {
+                "args": []
+            },
+            "Amanda Clayton": {
+                "args": []
+            },
+            "Adam Palazio": {
+                "args": []
+            },
+            "John Mirabella": {
+                "args": []
+            },
+            "Genc Jakupi": {
+                "args": []
+            },
+            "Tanya Lynch": {
+                "args": []
+            },
+            "Jean Pierre Augustin": {
+                "args": []
+            },
+            "Dante Palminteri": {
+                "args": []
+            },
+            "Jerry Maffeo": {
+                "args": []
+            },
+            "Gary Tanguay": {
+                "args": []
+            },
+            "Christine Evangelista": {
+                "args": []
+            },
+            "Tina Casciani": {
+                "args": []
+            },
+            "Artie Pasquale": {
+                "args": []
+            },
+            "Joe Jafo Carriere": {
+                "args": []
+            },
+            "Roy Souza": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_ there's a flatness in his performance.",
+                0.5570777524315453
+            ],
+            [
+                "19_it's a dogged, rather than an inspired, portrayal.",
+                0.6355935164233347
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

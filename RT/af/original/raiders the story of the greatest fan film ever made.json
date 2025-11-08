@@ -1,0 +1,88 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jeremy Coon": {
+                "args": []
+            },
+            "Tim Skousen": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_this is a smartly made movie that might win you over.",
+                0.7855387741997889
+            ],
+            [
+                "3_if you see only one movie this summer, see the movie about the movie it took seven summers to make.",
+                -0.6728246692969855
+            ],
+            [
+                "8_the film's most profound subject matter may simply be the passage of time.",
+                0.7237850168503566
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Eli Roth": {
+                "args": []
+            },
+            "Harry Knowles": {
+                "args": []
+            },
+            "John Rhys-Davies": {
+                "args": []
+            },
+            "Chris Strompolos": {
+                "args": []
+            },
+            "Ángela Rodríguez": {
+                "args": []
+            },
+            "Eric Zala": {
+                "args": [
+                    [
+                        "7_nicely interweaves the bittersweet history of the remake with a behind-the-scenes look at the middle-aged strompolos and zala collaborating for the first time in decades.",
+                        0.8091428659283652
+                    ]
+                ]
+            },
+            "Jayson Lamb": {
+                "args": []
+            },
+            "Tim Skousen": {
+                "args": [
+                    [
+                        "13_jeremy coon and tim skousen get a lot of mileage out of its audacity.",
+                        0.5611233355428515
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jeremy Coon": {
+                "args": [
+                    [
+                        "13_jeremy coon and tim skousen get a lot of mileage out of its audacity.",
+                        0.5611233355428515
+                    ]
+                ]
+            },
+            "Tim Skousen": {
+                "args": []
+            }
+        }
+    }
+}

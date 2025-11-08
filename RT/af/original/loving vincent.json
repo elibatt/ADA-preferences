@@ -1,0 +1,100 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_\"loving vincent\" is almost too beautiful for its own good",
+                0.6962067857263481
+            ],
+            [
+                "6_the gorgeous animation alone makes \"loving vincent\" worth the price of admission.",
+                0.8382495511886514
+            ],
+            [
+                "8_loving vincent is gorgeous.",
+                0.7842705961736218
+            ],
+            [
+                "8_it's a film of immersive beauty.",
+                0.7078049566945802
+            ],
+            [
+                "15_one of the most lunatic labors of love to appear on movie screens this year.",
+                0.7496855256152566
+            ],
+            [
+                "17_there's no denying that loving vincent, as a curated and curious homage to the beloved dutchman's work and the fragility of his soul, is a one-of-a-kind accomplishment.",
+                0.835660188426985
+            ],
+            [
+                "18_as the story limps and drags, the viewer also becomes accustomed to the images, and astonishment at the film's innovative, painstaking technique begins to fade.",
+                0.6625830830357923
+            ],
+            [
+                "19_an extraordinary (and entirely demented) labor of love that makes for a wan and uneven viewing experience, \"loving vincent\" takes the phrase \"every frame a painting\" to very literal new levels.",
+                0.8183739292925609
+            ],
+            [
+                "21_there are enough traces of the artist himself in the movie, from his many paintings to the famous letters he wrote to his brother and benefactor theo, to please both experts and newbies, who should enjoy watching his work come to life on screen.",
+                0.6927534000917035
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dorota Kobiela": {
+                "args": []
+            },
+            "Hugh Welchman": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Douglas Booth": {
+                "args": []
+            },
+            "John Sessions": {
+                "args": []
+            },
+            "Aidan Turner": {
+                "args": []
+            },
+            "Helen McCrory": {
+                "args": []
+            },
+            "Robert Gulaczyk": {
+                "args": []
+            },
+            "Saoirse Ronan": {
+                "args": []
+            },
+            "Jerome Flynn": {
+                "args": []
+            },
+            "Eleanor Tomlinson": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dorota Kobiela": {
+                "args": []
+            },
+            "Jacek Dehnel": {
+                "args": []
+            },
+            "Hugh Welchman": {
+                "args": []
+            }
+        }
+    }
+}

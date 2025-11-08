@@ -1,0 +1,336 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_so basically, jurassic world is a big-budget indictment of corporate greed, jammed with product placement for samsung and mercedes-benz and beats by dre and coca-cola.",
+                0.5015953297138328
+            ],
+            [
+                "3_if you limit your expectations for jurassic world to \"more teeth,\" it will deliver on that promise.",
+                -0.5376543245865382
+            ],
+            [
+                "5_you don't go to the fourth jurassic park movie for up-to-date gender politics.",
+                -0.5908022668992908
+            ],
+            [
+                "5_you go for the crunchy dino-on-human action, and jurassic world provides plenty of that.",
+                0.7552674480842057
+            ],
+            [
+                "8_i'm not sure what specific qualities \"jurassic world\" could be said to possess, beyond a vague sense of its own importance that ... comes across in the finished product as preening self-congratulation.",
+                -0.7379502193973398
+            ],
+            [
+                "10_i enjoyed indiana jones and the kingdom of the crystal skull to exactly the same degree i enjoyed jurassic world.",
+                0.7201719783824083
+            ],
+            [
+                "12_jurassic world never breaks out of its own confines of homage and imitation.",
+                -0.5498592585917661
+            ],
+            [
+                "12_the movie ends up as an awkward, ungainly hybrid: large, ",
+                -0.5895560112037111
+            ],
+            [
+                "13_all the same, something should be said about the film's cheesiness -- it doesn't even look good, ",
+                -0.6747813653502707
+            ],
+            [
+                "14_jurassic world ... hits all the expected beats of heroism, action and dinosaur dining.",
+                0.6437283989167845
+            ],
+            [
+                "15_ is sorely missing the heart and inherent wonder of the classic first film.",
+                0.669311158797015
+            ],
+            [
+                "19_yet, for those who remember both the sheer terror and humor of steven spielberg's original jurassic park, jurassic world -- much like the dinosaurs these scientists create -- proves once again that some things are best left alone.",
+                0.8215003697358136
+            ],
+            [
+                "20_it may not equal the humor and inventiveness of the original film, ",
+                0.7719586943138835
+            ],
+            [
+                "21_there's something deeply wrong with a film that expects you to shed tears over digitally created prehistoric creatures and rubber brontosaurus heads instead of rooting for, you know, people.",
+                -0.5303694195083227
+            ],
+            [
+                "22_\"jurassic world\" is a roadworthy retread, a summer blockbuster that has more than its share of absurdities and bald patches ",
+                0.7825899544114253
+            ],
+            [
+                "23_tune out the screenplay, enjoy the silly chase scenes and swooping camera work, and wonder if this franchise has finally reached its end.",
+                -0.5210922143238896
+            ],
+            [
+                "25_as has been previously observed, every action movie today ends up as \"transformers\" and, even when it's cloned creatures fighting, the same is true here (with an antic dash of \"sharknado\" tossed in for good measure).",
+                0.5149707335232653
+            ],
+            [
+                "27_jurassic world, a goofy and fitfully entertaining summer movie, understands and even winks at its place in the pecking order of blockbuster sequels.",
+                0.8450107161483653
+            ],
+            [
+                "28_this is the best of the jurassic park sequels and does a better job than episodes #2 and #3 in recreating the \"feel\" of the original.",
+                0.8141702613940224
+            ],
+            [
+                "30_every third person on the planet will go to see this movie, and they will find exactly what they seek, nothing more ",
+                0.5580751881878104
+            ],
+            [
+                "31_\"jurassic world\" is pure, dumb, wall-to-wall fun.",
+                0.6869883485032849
+            ],
+            [
+                "32_what ultimately makes \"jurassic world\" so satisfying is that it doesn't buy into the grandeur of the human spirit, not one bit.",
+                0.625678253865424
+            ],
+            [
+                "35_ok, jurassic world is a little of that.",
+                0.6375938477340415
+            ],
+            [
+                "36_jurassic world, the latest incarnation of the franchise, is lacking the deft sense of wonderment, wit and suspense that guided the original.",
+                0.6816804296251509
+            ],
+            [
+                "37_if jurassic park was a bright, clean, gleaming state-of-the-art attraction, this latest iteration feels shabby and unexciting, with a definite feeling that the carnies are dealing meth behind the haunted house.",
+                -0.5698997845654061
+            ],
+            [
+                "38_it's possible to filter out the irritating aspects and enjoy the movie as a raucous, often brilliantly assembled spectacle.",
+                0.6043687045319343
+            ],
+            [
+                "39_bailed out by a few good jolts, \"jurassic world\" gets by, barely, as a marauding-dinosaurs narrative designed for a more jaded audience than the one \"jurassic park\" conquered back in 1993.",
+                0.5037661085927819
+            ],
+            [
+                "40_for much of its running time, \"jurassic world\" plays like a great theme park ride.",
+                0.7201880003169856
+            ],
+            [
+                "40_in an age of blockbusters that lumber like herbivores, it's refreshing to see a movie as lean and mean as a velociraptor.",
+                0.7944084814474878
+            ],
+            [
+                "41_while the new jurassic world pales next to the awe-inspiring spectacle of the original, it's easily the franchise's most thrilling sequel yet.",
+                0.7575176999790164
+            ],
+            [
+                "42_a movie like jurassic world must pass one basic test:",
+                -0.5713764625095976
+            ],
+            [
+                "46_jurassic world has absolutely no reason for being (except for the obvious one), ",
+                -0.7536773239203286
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Colin Trevorrow": {
+                "args": [
+                    [
+                        "17_director colin trevorrow dumps out his steven spielberg family thriller kit and makes sure all the pieces are there...",
+                        0.7779099310035607
+                    ],
+                    [
+                        "47_even with its flaws, jurassic world works, thanks to director colin trevorrow's great sense of pacing and flair for drama that transcends the idea of beasts chasing humans.",
+                        0.9026042880611148
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Yvonne Welch": {
+                "args": []
+            },
+            "Kevin Foster": {
+                "args": []
+            },
+            "Bryce Dallas Howard": {
+                "args": []
+            },
+            "Ty Simpkins": {
+                "args": []
+            },
+            "Courtney J. Clark": {
+                "args": []
+            },
+            "Divine Prince Ty Emmecca": {
+                "args": []
+            },
+            "Katie McGrath": {
+                "args": []
+            },
+            "Kelly Washington": {
+                "args": []
+            },
+            "Bill Ogilvie": {
+                "args": []
+            },
+            "Brian Tee": {
+                "args": []
+            },
+            "Anna Talakkottur": {
+                "args": []
+            },
+            "Lauren Lapkus": {
+                "args": []
+            },
+            "B.D. Wong": {
+                "args": []
+            },
+            "Judy Greer": {
+                "args": []
+            },
+            "Isaac Keys": {
+                "args": []
+            },
+            "Nick Robinson": {
+                "args": []
+            },
+            "Jimmy Fallon": {
+                "args": []
+            },
+            "Chris Pratt": {
+                "args": [
+                    [
+                        "29_motorcycle, chris pratt, sprinting dinosaurs: if you require more than that out of a movie, you're being unreasonable.",
+                        0.5803364506556149
+                    ]
+                ]
+            },
+            "Andy Buckley (II)": {
+                "args": []
+            },
+            "Jake Johnson (XVI)": {
+                "args": []
+            },
+            "Colby Boothman": {
+                "args": []
+            },
+            "Patrick Crowley": {
+                "args": []
+            },
+            "Jennifer Rikert Wolski": {
+                "args": []
+            },
+            "Chloe Perrin": {
+                "args": []
+            },
+            "Hélène Cardona": {
+                "args": []
+            },
+            "Eddie J. Fernandez": {
+                "args": []
+            },
+            "Fileena Bahris": {
+                "args": []
+            },
+            "Inder Kumar": {
+                "args": []
+            },
+            "Michael Papajohn": {
+                "args": []
+            },
+            "Vincent D'Onofrio": {
+                "args": []
+            },
+            "Brad Bird": {
+                "args": []
+            },
+            "Irrfan Khan": {
+                "args": []
+            },
+            "Matthew Burke": {
+                "args": []
+            },
+            "William Gary Smith": {
+                "args": []
+            },
+            "Eric Edelstein": {
+                "args": []
+            },
+            "Gary Weeks (II)": {
+                "args": []
+            },
+            "Chad Randall": {
+                "args": []
+            },
+            "Omar Sy": {
+                "args": []
+            },
+            "Timothy Eulich": {
+                "args": []
+            },
+            "Bonnie Wild": {
+                "args": []
+            },
+            "Colby Boothman-Shepard": {
+                "args": []
+            },
+            "Alan Tam": {
+                "args": []
+            },
+            "James DuMont": {
+                "args": []
+            },
+            "Colin Trevorrow": {
+                "args": [
+                    [
+                        "17_director colin trevorrow dumps out his steven spielberg family thriller kit and makes sure all the pieces are there...",
+                        0.7779099310035607
+                    ],
+                    [
+                        "47_even with its flaws, jurassic world works, thanks to director colin trevorrow's great sense of pacing and flair for drama that transcends the idea of beasts chasing humans.",
+                        0.9026042880611148
+                    ]
+                ]
+            },
+            "Matthew Cardarople": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "13_nothing said here will have the slightest bearing on its performance at the box office.",
+                -0.6409133705075538
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Colin Trevorrow": {
+                "args": []
+            },
+            "Amanda Silver": {
+                "args": []
+            },
+            "Derek Connolly": {
+                "args": []
+            },
+            "Rick Jaffa": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_tune out the screenplay, enjoy the silly chase scenes and swooping camera work, and wonder if this franchise has finally reached its end.",
+                -0.5210922143238896
+            ]
+        ]
+    }
+}

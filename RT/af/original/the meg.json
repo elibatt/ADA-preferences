@@ -1,0 +1,250 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ruby Rose": {
+                "args": []
+            },
+            "Page Kennedy": {
+                "args": []
+            },
+            "Tawanda Manyimo": {
+                "args": []
+            },
+            "Jason Statham": {
+                "args": [
+                    [
+                        "7_jason statham takes on a giant shark in \"the meg,\" a fun-dumb splash of summer popcorn entertainment that manages to be more fun than dumb.",
+                        0.7452842433765278
+                    ],
+                    [
+                        "23_unlike his action-movie rival johnson, statham does not have the charisma to carry this film.",
+                        -0.596543602464014
+                    ],
+                    [
+                        "33_whether you like the meg depends on how much you like seeing jason statham in and out of a wetsuit, doing action-hero things.",
+                        -0.5680067057860669
+                    ]
+                ]
+            },
+            "Olafur Darri Olafsson": {
+                "args": []
+            },
+            "Masi Oka": {
+                "args": []
+            },
+            "Robert Taylor (VII)": {
+                "args": []
+            },
+            "Jessica McNamee": {
+                "args": []
+            },
+            "Sophia Shuya Cai": {
+                "args": []
+            },
+            "Rainn Wilson": {
+                "args": []
+            },
+            "Cliff Curtis": {
+                "args": []
+            },
+            "Bingbing Li": {
+                "args": []
+            },
+            "Winston Chao": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jon Turteltaub": {
+                "args": [
+                    [
+                        "3_maybe director john turteltaub ",
+                        -0.5442012402289662
+                    ],
+                    [
+                        "24_the meg, stolidly directed by jon turteltaub, winds up proving a fairly obvious theory about its chosen sub-genre: the more massive the shark (and the budget), the lighter the scares and the lower the stakes.",
+                        -0.5422176129109738
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Erich Hoeber": {
+                "args": []
+            },
+            "Jon Hoeber": {
+                "args": []
+            },
+            "Dean Georgaris": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_asks little more of you than to strap in, put away your phone and enjoy watching a freakishly huge prehistoric eating machine terrorize some scientists before it turns its appetite to a beach full of frolickers on floaties.",
+                0.5043905907013342
+            ],
+            [
+                "1_the film delivers on that silly-stupid-summer-fun promise, while also exceeding expectations in terms of action and set-pieces",
+                0.7315519140545617
+            ],
+            [
+                "2_and i loved that it was a bigger more serious version than i ",
+                0.5751593534124201
+            ],
+            [
+                "3_t the barrage of pathos and yuks would distract from the fact that his star is a very big fish that is not very bright.",
+                -0.5640954298094611
+            ],
+            [
+                "4_i wanted this movie to be wackier, crazier, and over the top, the problem is that it's pg13.",
+                -0.6312076833281672
+            ],
+            [
+                "5_\"the meg\" is oddly charming, more pulp than cheese, like the sci-fi pumped out in the 1950s.",
+                0.6136991034810415
+            ],
+            [
+                "6_ the big-budget deep-sea thriller is nothing ",
+                0.5063532329530925
+            ],
+            [
+                "8_of all the thrillers made about tender, juicy humans splashing away from ravenous giant sharks, the meg is undeniably the most recent.",
+                0.6588355627983528
+            ],
+            [
+                "9_it is neither dumb nor smart enough to be fun, and spends way too much time with its boring human characters when it could be spending it with, you know, the giant shark.",
+                -0.8298980911039874
+            ],
+            [
+                "10_turteltaub is better at the scenes of conceiving cockamamie plans than at the unleashing of cockamamie-ness.",
+                0.6625031780606134
+            ],
+            [
+                "10_he only occasionally suggests the mystery and majesty of his monster and exhibits little feel for suspense.",
+                -0.6496227656825007
+            ],
+            [
+                "11_this is the sort of late summer time waster that isn't very good, knows it isn't very good and knows you know it isn't very good.",
+                0.6386612265051007
+            ],
+            [
+                "13_you're there for the action, and there's a lot of it.",
+                0.533599147084846
+            ],
+            [
+                "13_it's ok, and there are some scares and some silliness and some sadness doled out along the way.",
+                0.7682292425661255
+            ],
+            [
+                "14_the meg ends up being just a high-budget, low-value attempt to sell you a typical tale of a tortured man tracking a monster, composed of spare parts lifted from other films you love.",
+                -0.7035141218795768
+            ],
+            [
+                "15_the thing that disappointed me the most about the meg is its flat tone.",
+                -0.7890614252506352
+            ],
+            [
+                "15_there's too little tension and not nearly enough suspense.",
+                -0.7727407522276537
+            ],
+            [
+                "16_it manages to hit upon a reasonably effective blend of action and humor that never sinks to the strained depths of the sharknado saga.",
+                0.791086187682279
+            ],
+            [
+                "17_t it was safe to go back in the theater and enjoy old-fashioned summer entertainment.",
+                0.7660836098810648
+            ],
+            [
+                "19_if a lot of the plotting is colossally stupid, it's presented in a cheerful, old-fashioned, thoroughly unpretentious way, built on the simple premise that scaring people with sharks in summertime is a tried-and-true convention.",
+                0.5545042234846458
+            ],
+            [
+                "20_a movie that wobbles unsteadily between straight-faced action epic and winking self-mockery.",
+                0.5844383110120916
+            ],
+            [
+                "21_all those who like their summer movies as big as the pacific and as dumb as a bucket of sand will appreciate \"the meg,\" a sometimes ridiculously entertaining, if forgettable, killer shark movie.",
+                0.6489623569987103
+            ],
+            [
+                "22_there's very little to care about between appearances of the title creature.",
+                -0.7387282527473734
+            ],
+            [
+                "23_he gets the job done all right, ",
+                0.5636615738720429
+            ],
+            [
+                "23_ makes it feel more like work than play.",
+                -0.514210495331789
+            ],
+            [
+                "25_the meg proves only that, at least cinematically speaking, great-white movies may have finally jumped the shark.",
+                0.6272776007621209
+            ],
+            [
+                "26_what is it about sharks that inspires such absurdity in plots?",
+                -0.6026650116162764
+            ],
+            [
+                "27_turteltaub's direction never suggests that it's motivated by anything except commercial and contractual considerations.",
+                -0.6054455065102926
+            ],
+            [
+                "28_statham remains an appealing summer movie fixture, ",
+                0.7349751604688729
+            ],
+            [
+                "28_ sharks deserve better than this.",
+                -0.6032768307202869
+            ],
+            [
+                "29_ make it an air-conditioned double feature with \"mamma mia!",
+                0.7385737496861842
+            ],
+            [
+                "29_here we go again\" and you might just have the very definition of \"summer movies.\"",
+                0.6318890829876858
+            ],
+            [
+                "30_\"the meg\" doesn't seem to know how dumb it is.",
+                -0.8213703200414213
+            ],
+            [
+                "33_he's certainly good at it, and he's the best thing about the movie, not that the competition is particularly fierce.",
+                0.8266925866615912
+            ],
+            [
+                "34_blandly internationalized, generically derivative, drained of any personality, edited as if by computer and bleached of the slightest hint of emotion...",
+                -0.598871753974798
+            ],
+            [
+                "34_the meg is a one hundred percent inorganic meal.",
+                -0.5901804978697388
+            ],
+            [
+                "35_comes on like it wants to be the mother of all deep-sea attack movies.",
+                -0.6017959415841734
+            ],
+            [
+                "35_but it's really just the mother of all generically pandering,",
+                -0.5069182486904467
+            ]
+        ]
+    }
+}

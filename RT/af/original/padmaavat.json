@@ -1,0 +1,70 @@
+{
+    "acting": {
+        "entities": {
+            "Deepika Padukone": {
+                "args": []
+            },
+            "Aditi Rao Hydari": {
+                "args": []
+            },
+            "Shahid Kapoor": {
+                "args": []
+            },
+            "Ranveer Singh": {
+                "args": []
+            },
+            "Jim Sarbh": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sanjay Leela Bhansali": {
+                "args": []
+            },
+            "Prakash Kapadia": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_when i walked out of the movie theatre screening padmaavat, i was shaking in rage.",
+                -0.7599714255178078
+            ],
+            [
+                "1_ and powerhouse performances, padmaavat is even greater than the sum of its already-commendable parts.",
+                0.5758539019832429
+            ],
+            [
+                "2_padmaavat's sumptuous palace interiors and classically inspired music lend elegance to the film without overpowering it - a welcome shift in tone from the director of the lavish ",
+                0.8868589836920971
+            ],
+            [
+                "3_\"padmaavat\" is a rare work of pop art that is both powerful and repugnant.",
+                0.808085079804872
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sanjay Leela Bhansali": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_padmaavat's sumptuous palace interiors and classically inspired music lend elegance to the film without overpowering it - a welcome shift in tone from the director of the lavish ",
+                0.8868589836920971
+            ]
+        ]
+    }
+}

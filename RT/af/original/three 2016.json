@@ -1,0 +1,95 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_a rollickingly entertaining movie.",
+                0.7076609592794054
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Johnnie To": {
+                "args": [
+                    [
+                        "0_he just had to try - in this case, a shootout unlike any you've seen before.",
+                        -0.5152460907871537
+                    ],
+                    [
+                        "1_director to fills in the messy back story neatly as he introduces the supporting players, who provide comedy or menace (and sometimes both).",
+                        0.749268280678592
+                    ],
+                    [
+                        "3_ a relatively ordinary film from mr. to packs more genuine entertainment value than what passes for above-average hollywood action fare these days.",
+                        0.6826955375777451
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_it's not a career highlight for the director.",
+                -0.6151399150573962
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Nai-Hoi Yau": {
+                "args": []
+            },
+            "Tin Shu Mak": {
+                "args": []
+            },
+            "Ho Leung Lau": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Lo Hoi Pang": {
+                "args": []
+            },
+            "Stephen Au": {
+                "args": []
+            },
+            "Louis Koo": {
+                "args": []
+            },
+            "Siu-Fai Cheung": {
+                "args": []
+            },
+            "Michael Tse": {
+                "args": []
+            },
+            "Raymond Wong": {
+                "args": []
+            },
+            "Wei Zhao": {
+                "args": []
+            },
+            "Wallace Chung": {
+                "args": []
+            },
+            "Suet Lam": {
+                "args": []
+            },
+            "Hoi-Pang Lo": {
+                "args": []
+            },
+            "Timmy Hung": {
+                "args": []
+            },
+            "Jonathan Wong": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Laura Vandervoort": {
+                "args": []
+            },
+            "Tobin Bell": {
+                "args": []
+            },
+            "Paul Braunstein": {
+                "args": []
+            },
+            "Brittany Allen": {
+                "args": []
+            },
+            "Edward Ruttle": {
+                "args": []
+            },
+            "Callum Keith Rennie": {
+                "args": []
+            },
+            "Mandela Van Peebles": {
+                "args": []
+            },
+            "Clé Bennett": {
+                "args": []
+            },
+            "Matt Passmore": {
+                "args": []
+            },
+            "Hannah Emily Anderson": {
+                "args": []
+            },
+            "Josiah Black": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_which brings us to \"jigsaw,\" which fails for very much the same reasons as \"the mummy\" - it was made to launch a franchise rather than because it was actually about something.",
+                -0.5781223608332937
+            ],
+            [
+                "2_ jigsaw doubles down on the franchise's twisty storytelling.",
+                -0.5697365642812261
+            ],
+            [
+                "3_watching jigsaw go about his torture business is about as interesting as watching a child burn ants - a dumb and ugly waste of energy, resources and time.",
+                -0.813263150222272
+            ],
+            [
+                "4_this is the first movie that actually looks sort of expensive, and it trades the sickening green color palette of the first seven efforts for actual daylight.",
+                -0.5941515737650301
+            ],
+            [
+                "6_ jigsaw is rarely scary.",
+                -0.6755622321672932
+            ],
+            [
+                "8_it'll do the job for anyone who must see a \"saw\" movie in theaters on halloween weekend.",
+                0.5872815706481423
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Spierig": {
+                "args": [
+                    [
+                        "1_all the spierig brothers really bring to the material is cleaned-up camera work.",
+                        -0.726456150881188
+                    ]
+                ]
+            },
+            "Peter Spierig": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Peter Goldfinger": {
+                "args": []
+            },
+            "Josh Stolberg": {
+                "args": []
+            }
+        }
+    }
+}

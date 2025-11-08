@@ -1,0 +1,123 @@
+{
+    "acting": {
+        "args": [
+            [
+                "4_for all that, shock and awe is a slim, at-times too-obvious portrayal of an important story, as well as the fundamental calling of journalism when it comes to holding the powerful to account.",
+                0.784341236473044
+            ]
+        ],
+        "entities": {
+            "Jessica Biel": {
+                "args": []
+            },
+            "Luke Tennie": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": []
+            },
+            "Richard Schiff": {
+                "args": []
+            },
+            "Tommy Lee Jones": {
+                "args": []
+            },
+            "James Marsden": {
+                "args": []
+            },
+            "Rob Reiner": {
+                "args": [
+                    [
+                        "9_the problem isn't reiner taking dramatic liberties with the facts, it's that his toolbox for doing so hasn't changed since the mid-'90s.",
+                        -0.7632123419896524
+                    ],
+                    [
+                        "10_i'm afraid we're long past those particular warning lights, mr. reiner.",
+                        -0.7221320687568247
+                    ],
+                    [
+                        "12_reiner's film is too reiner to pass for history, ",
+                        -0.6713926188206547
+                    ]
+                ]
+            },
+            "Milla Jovovich": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this sadly derivative film has one too many screenings of all the president's men written all over it.",
+                -0.6116102143674534
+            ],
+            [
+                "2_at its best, shock and awe still feels like it strains to be spotlight-lite and comes up lacking.",
+                -0.5266694568393511
+            ],
+            [
+                "4_for all that, shock and awe is a slim, at-times too-obvious portrayal of an important story, as well as the fundamental calling of journalism when it comes to holding the powerful to account.",
+                0.784341236473044
+            ],
+            [
+                "5_it's a rote piece of work that, oddly, also feels dated even at a time when the press and the white house have rarely been more at odds.",
+                0.5328740177333555
+            ],
+            [
+                "6_the filmmaking here is so pedestrian, flat-footed and overly-obvious as to leave shock and awe one of those second-rate dramatic movies that make you wish that it had been a top-notch documentary instead.",
+                -0.7612478253807842
+            ],
+            [
+                "7_ this is an entertaining film about a frustrating situation.",
+                0.7365267645330151
+            ],
+            [
+                "8_if this swift, entertaining film, set during the post-9/11 run-up to the iraq war, brashly leans left, it has history on its side as well as, it seems, the interests of our soldiers.",
+                0.6473438244131248
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rob Reiner": {
+                "args": [
+                    [
+                        "9_the problem isn't reiner taking dramatic liberties with the facts, it's that his toolbox for doing so hasn't changed since the mid-'90s.",
+                        -0.7632123419896524
+                    ],
+                    [
+                        "10_i'm afraid we're long past those particular warning lights, mr. reiner.",
+                        -0.7221320687568247
+                    ],
+                    [
+                        "12_reiner's film is too reiner to pass for history, ",
+                        -0.6713926188206547
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_though at times the reporters seem too prescient, and the script suggests an exaggerated awareness of future history,",
+                0.568210014114709
+            ],
+            [
+                "14_the message tends to melt into a paint-by-numbers screenplay that pushes too many genre ",
+                -0.5579161693828646
+            ]
+        ],
+        "entities": {
+            "Joey Hartstone": {
+                "args": []
+            }
+        }
+    }
+}

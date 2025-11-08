@@ -1,0 +1,123 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bonni Cohen": {
+                "args": []
+            },
+            "Jon Shenk": {
+                "args": [
+                    [
+                        "7_directed in disjointed and sometimes unfocused fashion by bonni cohen and jon shenk,",
+                        -0.5629215402540393
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_ i doubt there is much one could glean from this movie that couldn't be obtained by rewatching \"an inconvenient truth.\"",
+                -0.6861704430330275
+            ],
+            [
+                "9_covers much of the same ground of the first film, ",
+                -0.5526504722663621
+            ],
+            [
+                "11_ i'm just the movie reviewer.",
+                -0.5829810230650097
+            ],
+            [
+                "15_the movie is a piece of advocacy, and it succeeds at that: the conclusive science presented is powerful evidence that there is only one side to this story.",
+                0.6441125303909079
+            ],
+            [
+                "18_that feeling of familiarity tends to overshadow the more interesting and persuasive portions of this film.",
+                0.5741649635814712
+            ],
+            [
+                "23_it's a variation of the presentation he delivered in the earlier film, presented with alternate amounts of humor, exasperation, faith and flashes of anger.",
+                0.7361764077918599
+            ],
+            [
+                "25_[an] involving and unexpectedly passionate film ...",
+                0.7278559756097857
+            ],
+            [
+                "33_to power may be more of an honest-to-god movie than its predecessor, ",
+                0.604222525219733
+            ],
+            [
+                "34_the movie... can hardly hope to create the sensation of its oscar-winning predecessor.",
+                0.608798674105031
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Al Gore": {
+                "args": [
+                    [
+                        "2_ find the problem too paralyzingly abstract, gore's workmanlike methods are both fascinating, encouraging, and, yes, even a little exciting.",
+                        0.52073015954451
+                    ],
+                    [
+                        "3_the avengers\" do it with intergalactic battles, gore does it with an iphone and a global travel itinerary.",
+                        0.5372372931670599
+                    ],
+                    [
+                        "5_some might see the film as lionizing gore, ",
+                        0.5730376503300834
+                    ],
+                    [
+                        "12_just as raw information, this is interesting stuff, and it's amplified by gore's delivery, a unique mix of self-deprecating folksiness, geekiness and evangelical zeal.",
+                        0.7094617055191001
+                    ],
+                    [
+                        "14_a progress report of sorts from al gore, the message of which, in essence, is: \"i'm still here and so is the issue i've been championing all these years.\"",
+                        -0.6493287264213303
+                    ],
+                    [
+                        "16_i find much to admire in gore's mission, ",
+                        -0.5395769843633584
+                    ],
+                    [
+                        "20_the best an inconvenient sequel can offer is the formidable image of gore, nearly 70, refusing to stand down.",
+                        0.6926520625668137
+                    ],
+                    [
+                        "21_in a summer movie landscape with spider-man, a simian army waging further battle for the planet and charlize theron as a sexy cold war-era superspy, it says something that one of the most compelling characters is al gore.",
+                        0.7501537787280916
+                    ],
+                    [
+                        "22_mr. gore remains a prodigy of hope, with energy that seems endlessly renewable.",
+                        0.6543632338551497
+                    ],
+                    [
+                        "27_but gore keeps plugging away,",
+                        -0.5709655930222258
+                    ],
+                    [
+                        "28_things are bad, gore is saying, ",
+                        -0.8203810719231085
+                    ],
+                    [
+                        "34_ both in cementing the urgency of gore's message and in finding cause for hope.",
+                        0.6604861380054743
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

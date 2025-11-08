@@ -1,0 +1,54 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Shiraz Ahmed": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bobby Deol": {
+                "args": []
+            },
+            "Annu Kapoor": {
+                "args": []
+            },
+            "Salman Khan": {
+                "args": []
+            },
+            "Jacqueline Fernandez": {
+                "args": []
+            },
+            "Daisy Shah": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_when you find yourself longing for the next appearance of a car, rather than the leading man, that's not a good sign.",
+                -0.5948555849386122
+            ],
+            [
+                "1_this in-name-only bollywood sequel delivers fast and furious action, spirited song and dance, ",
+                0.7930510595855134
+            ],
+            [
+                "1_ way too many narrative speed bumps.",
+                -0.6178449707033877
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

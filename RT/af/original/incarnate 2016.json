@@ -1,0 +1,76 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_incarnate, much like its central character at key moments, barely seems to have a pulse.",
+                -0.665394216972824
+            ],
+            [
+                "3_dense with plot and mythology, the film is refreshingly unpredictable - if only because guessing what comes next would require understanding what the hell is going on.",
+                -0.5315911248806107
+            ],
+            [
+                "4_incarnate is such a pointless bit of hackwork that it almost makes the recent horror dud shut",
+                -0.6671480037245174
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Brad Peyton": {
+                "args": [
+                    [
+                        "1_strident rhetoric is required for describing brad peyton's latest film, a maddening hodgepodge of ideas that range from undercooked to unoriginal.",
+                        0.5221278566437539
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "David Mazouz": {
+                "args": []
+            },
+            "Catalina Sandino Moreno": {
+                "args": []
+            },
+            "Emjay Anthony": {
+                "args": []
+            },
+            "Keir O'Donnell": {
+                "args": []
+            },
+            "Carice van Houten": {
+                "args": []
+            },
+            "Aaron Eckhart": {
+                "args": [
+                    [
+                        "5_offers a relatively fresh take on standard-issue exorcism-melodrama tropes, along with a performance by aaron eckhart that is more than persuasive enough to encourage the investment of a rooting interest.",
+                        0.6515655194301971
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_incarnate, much like its central character at key moments, barely seems to have a pulse.",
+                -0.665394216972824
+            ]
+        ],
+        "entities": {
+            "Ronnie Christensen": {
+                "args": []
+            }
+        }
+    }
+}

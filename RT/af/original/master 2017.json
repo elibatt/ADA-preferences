@@ -1,0 +1,46 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"master\" is a routine south korean crime thriller whose bloat magnifies its generic qualities.",
+                -0.5989831361118393
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ji-won Uhm": {
+                "args": []
+            },
+            "Woo-bin Kim": {
+                "args": []
+            },
+            "Dong-won Kang": {
+                "args": []
+            },
+            "Lee Byung-hun": {
+                "args": []
+            },
+            "Oh Dal-su": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ui-seok Jo": {
+                "args": []
+            }
+        }
+    }
+}

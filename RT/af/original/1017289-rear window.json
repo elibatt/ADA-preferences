@@ -1,0 +1,173 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Alfred Hitchcock": {
+                "args": [
+                    [
+                        "0_it's one of alfred hitchcock's inspired audience-participation films: watching it, you feel titillated, horrified, and, ultimately, purged.",
+                        0.6908159748177167
+                    ],
+                    [
+                        "1_just possibly the second most entertaining picture (after the 39 steps) ever made by alfred hitchcock.",
+                        0.7191674366740289
+                    ],
+                    [
+                        "2_of all hitchcock's films, this is the one which most reveals the man.",
+                        0.7451362979452653
+                    ],
+                    [
+                        "4_don't resist the urge -- steal a peek at it now, and be reminded why hitchcock is still without equal in the clammy thrills department.",
+                        0.5965782148289713
+                    ],
+                    [
+                        "7_in an impressive oeuvre, rear window is arguably the most exquisitely handcrafted feature, because hitchcock mastered the spatial as well as behavioral coordinates of his chosen universe inch by inch.",
+                        0.8989147070613488
+                    ],
+                    [
+                        "8_its appeal, which goes beyond that of other, equally masterly hitchcock works, remains undiminished.",
+                        0.5326419662456842
+                    ],
+                    [
+                        "10_the clearest example of a hitchcock movie that functions on dual levels: it's both mousetrap and abyss.",
+                        0.6388190106319684
+                    ],
+                    [
+                        "12_surely one of alfred hitchcock's best entertainments.",
+                        0.7259722757589337
+                    ],
+                    [
+                        "16_since the 1954 alfred hitchcock classic is all about the voyeuristic instinct, the better the view, the more sensational the experience.",
+                        0.6715559107534776
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Wendell Corey": {
+                "args": []
+            },
+            "Jesslyn Fax": {
+                "args": []
+            },
+            "Barbara Bailey": {
+                "args": []
+            },
+            "Thelma Ritter": {
+                "args": []
+            },
+            "Marla English": {
+                "args": []
+            },
+            "Sara Berner": {
+                "args": []
+            },
+            "Richard Simmons": {
+                "args": []
+            },
+            "Fred Graham": {
+                "args": []
+            },
+            "Mike Mahoney": {
+                "args": []
+            },
+            "Dick Simmons": {
+                "args": []
+            },
+            "Len Hendry": {
+                "args": []
+            },
+            "Irene Winston": {
+                "args": []
+            },
+            "Anthony Warde": {
+                "args": []
+            },
+            "Frank Cady": {
+                "args": []
+            },
+            "Alan Lee": {
+                "args": []
+            },
+            "Bennie Bartlett": {
+                "args": []
+            },
+            "Jerry Antes": {
+                "args": []
+            },
+            "Georgine Darcy": {
+                "args": []
+            },
+            "Havis Davenport": {
+                "args": []
+            },
+            "Raymond Burr": {
+                "args": []
+            },
+            "Grace Kelly": {
+                "args": []
+            },
+            "Harry Landers": {
+                "args": []
+            },
+            "Iphigenie Castiglioni": {
+                "args": []
+            },
+            "Kathryn Grant": {
+                "args": []
+            },
+            "Ralph Smiley": {
+                "args": []
+            },
+            "James Cornell": {
+                "args": []
+            },
+            "Eddie Parker": {
+                "args": []
+            },
+            "Rand Harper": {
+                "args": []
+            },
+            "Ross Bagdasarian Sr.": {
+                "args": []
+            },
+            "Bess Flowers": {
+                "args": []
+            },
+            "Judith Evelyn": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "John Michael Hayes": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_the deliciousness of watching the film as it's intended to be seen is that the big screen gives rear window back its claustrophobia.",
+                0.5813204347033334
+            ],
+            [
+                "13_ it's an intensely intimate film,",
+                0.7615450631389394
+            ],
+            [
+                "17_rear window lovingly invests in suspense all through the film, banking it in our memory, so that when the final payoff arrives, the whole film has been the thriller equivalent of foreplay.",
+                -0.5950887886665486
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

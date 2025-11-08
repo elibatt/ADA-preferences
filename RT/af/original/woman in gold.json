@@ -1,0 +1,384 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Simon Curtis": {
+                "args": [
+                    [
+                        "2_director simon curtis is lucky to have helen mirren on hand, since she can turn the film's art history speeches into something that sounds like conversation.",
+                        0.576238381063234
+                    ],
+                    [
+                        "3_director simon curtis milks the predictable drama, thrills and heartache of the holocaust-era story, ",
+                        0.6581284010702071
+                    ],
+                    [
+                        "26_simon curtis' \"woman in gold\" is a shamelessly sentimental fictionalization of this true story, ",
+                        0.6718481575759597
+                    ],
+                    [
+                        "29_what woman in gold has over nonfiction portrayals is emotion, and director simon curtis milks every scene for its heart-tugging potential.",
+                        0.5850824342396954
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "15_ always loving, plays out like two actors acting, rather than two actors inhabiting a real situation.",
+                0.6455793472885618
+            ]
+        ],
+        "entities": {
+            "Charles Dance": {
+                "args": []
+            },
+            "Katie Holmes": {
+                "args": []
+            },
+            "Peter Stark": {
+                "args": []
+            },
+            "William Brand": {
+                "args": []
+            },
+            "Christian Dolezal": {
+                "args": []
+            },
+            "Alma Hasun": {
+                "args": []
+            },
+            "Steve Schmidt": {
+                "args": []
+            },
+            "Franziksa Singer": {
+                "args": []
+            },
+            "Susi Spitz": {
+                "args": []
+            },
+            "Rainer Egger": {
+                "args": []
+            },
+            "Erich Redman": {
+                "args": []
+            },
+            "Rolf Saxon": {
+                "args": []
+            },
+            "Elizabeth McGovern": {
+                "args": []
+            },
+            "Susi Stach": {
+                "args": []
+            },
+            "Anthony Howell": {
+                "args": []
+            },
+            "Stephen Greif": {
+                "args": []
+            },
+            "Harry Ditson": {
+                "args": []
+            },
+            "Moritz Bleibtreu": {
+                "args": []
+            },
+            "Simona Hughes": {
+                "args": []
+            },
+            "Ludger Pistor": {
+                "args": []
+            },
+            "Gisella Salcher": {
+                "args": []
+            },
+            "Antje Traue": {
+                "args": []
+            },
+            "Richard Evans": {
+                "args": []
+            },
+            "Joseph Mydell": {
+                "args": []
+            },
+            "Nikolaus Barton": {
+                "args": []
+            },
+            "Crystal Clarke": {
+                "args": []
+            },
+            "Cornelia Ivancan": {
+                "args": []
+            },
+            "Alan Corduner": {
+                "args": []
+            },
+            "Olivia Silhavy": {
+                "args": []
+            },
+            "Kenneth Jay": {
+                "args": []
+            },
+            "Jonathan Pryce": {
+                "args": []
+            },
+            "Milica Bogojevic": {
+                "args": []
+            },
+            "Ben Miles": {
+                "args": []
+            },
+            "Michael Corey Foster": {
+                "args": []
+            },
+            "Alexander E. Fennon": {
+                "args": []
+            },
+            "Johannes Seilern": {
+                "args": []
+            },
+            "Eric Meyers": {
+                "args": []
+            },
+            "Sabine Muhar": {
+                "args": []
+            },
+            "Daniel Brühl": {
+                "args": []
+            },
+            "Philip Rham": {
+                "args": []
+            },
+            "Christoph Moosbrugger": {
+                "args": []
+            },
+            "Doron Davidson": {
+                "args": []
+            },
+            "Max Irons": {
+                "args": []
+            },
+            "Tatiana Maslany": {
+                "args": []
+            },
+            "Frances Fisher": {
+                "args": []
+            },
+            "Henry Goodman": {
+                "args": []
+            },
+            "Paul Matic": {
+                "args": []
+            },
+            "Dagmar Schwarz": {
+                "args": []
+            },
+            "Helen Mirren": {
+                "args": [
+                    [
+                        "1_ largely because of the odd-couple chemistry between mirren and reynolds.",
+                        -0.5705625736678831
+                    ],
+                    [
+                        "2_director simon curtis is lucky to have helen mirren on hand, since she can turn the film's art history speeches into something that sounds like conversation.",
+                        0.576238381063234
+                    ],
+                    [
+                        "5_next to mirren, [reynolds is] like a dope in a museum, trying to be respectful of the genius around him ",
+                        0.6530516225427472
+                    ],
+                    [
+                        "9_based on a true story about a fight for justice wrapped in passion, memory and determination, and told using the considerable talents of helen mirren, woman in gold should be a much better movie.",
+                        0.7574860725461089
+                    ],
+                    [
+                        "10_even helen mirren, the queen midas of class acting, can't fix this well-intentioned miss.",
+                        -0.7759661775767206
+                    ],
+                    [
+                        "13_the film does have an asset that can't be ignored, and that's helen mirren's tip-top performance as the film's costar.",
+                        0.6744831357114358
+                    ],
+                    [
+                        "18_is there anything helen mirren cannot do?",
+                        -0.5890262831035542
+                    ],
+                    [
+                        "19_ this eager-to-please film proves that the formidable helen mirren can provide interesting nuances even in a story where few exist.",
+                        0.5805603677254648
+                    ],
+                    [
+                        "20_it's all a little tired and condescending - like some screenwriter's self-serving memories of his last trip to see mom - and having mirren occasionally exclaim what fun or thrills they're having doesn't make it so.",
+                        -0.7599304583021983
+                    ],
+                    [
+                        "23_the film is saved by engaging performances from mirren and reynolds, who shine as their characters' relationship deepens.",
+                        0.8253593927806833
+                    ],
+                    [
+                        "26_ it's a fascinating story nonetheless, beautifully photographed and greatly elevated by a brilliant performance from the invaluable helen mirren.",
+                        0.9111969308556946
+                    ],
+                    [
+                        "34_while helen mirren elevates the material with her usual aplomb and the events being depicted inevitably are stirring, this is a stodgy crusade-for-justice drama, directed and written with minimal flair.",
+                        0.7165477073639421
+                    ]
+                ]
+            },
+            "Justus von Dohnányi": {
+                "args": []
+            },
+            "Nancy Crane": {
+                "args": []
+            },
+            "Milly Thomas": {
+                "args": []
+            },
+            "Elisabeth Kopp": {
+                "args": []
+            },
+            "Rupert Wickhan": {
+                "args": []
+            },
+            "Nellie Schilling": {
+                "args": []
+            },
+            "Janina Blohm-Sievers": {
+                "args": []
+            },
+            "Asli Bayram": {
+                "args": []
+            },
+            "Tom Schilling": {
+                "args": []
+            },
+            "Lisa Gornick": {
+                "args": []
+            },
+            "Stephanie Schmiderer": {
+                "args": []
+            },
+            "Anna Skidanova": {
+                "args": []
+            },
+            "John Moraitis": {
+                "args": []
+            },
+            "Nina Kunzendorf": {
+                "args": []
+            },
+            "Raphael VonBargen": {
+                "args": []
+            },
+            "Richard Reid": {
+                "args": []
+            },
+            "Kylie Watt": {
+                "args": []
+            },
+            "John Guerrasio": {
+                "args": []
+            },
+            "Ryan Reynolds": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_ the screenplay doesn't do either of them any favors.",
+                -0.8070890682271755
+            ],
+            [
+                "20_it's all a little tired and condescending - like some screenwriter's self-serving memories of his last trip to see mom - and having mirren occasionally exclaim what fun or thrills they're having doesn't make it so.",
+                -0.7599304583021983
+            ],
+            [
+                "27_and the screenplay can't find a way to make that conflict, or the ethical and moral issues involved, compelling ...",
+                -0.5227557913745162
+            ]
+        ],
+        "entities": {
+            "Alexi Kaye Campbell": {
+                "args": [
+                    [
+                        "12_\"woman in gold\" is dutiful and surprisingly dull, rolling along pre-ordained tracks and the familiar cadences of screenwriter alexi kaye campbell's dialogue and situations.",
+                        0.5764809296817783
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_sometimes you know a movie is going to work in about the first three scenes.",
+                -0.5700465976680229
+            ],
+            [
+                "1_despite a debatable focus and dubious moralizing -money plays a pivotal role in the final outcome - \"the woman in gold\" works,",
+                0.6125284789200558
+            ],
+            [
+                "4_\"woman in gold\" may be a bit obvious, ",
+                0.591575094857333
+            ],
+            [
+                "6_for all its broad brush strokes, woman in gold can't help ",
+                -0.5997693825930126
+            ],
+            [
+                "8_mirren is the single reason to watch the movie.",
+                -0.7053899595539916
+            ],
+            [
+                "11_while the story is truly one of a kind, the film often feels like a tv movie of the week, even one of those treacly hallmark productions.",
+                0.5808685449093527
+            ],
+            [
+                "14_stirring at times, soggy and overly sentimental at others, the film moves surprisingly slow, even ",
+                -0.5676815785599565
+            ],
+            [
+                "16_woman in gold bends a complicated legal quagmire-heavy on questions of ownership and national responsibility-into a crowd-pleasing david and goliath story.",
+                0.7204351875583103
+            ],
+            [
+                "16_the title, too generic for klimt's masterpiece, suits the movie just fine.",
+                0.530508781111838
+            ],
+            [
+                "18_it's a touching film that entertains with warmth and humor while teaching us something about history, law and justice with enormous heart, subtlety and compassion, brilliantly acted and skillfully written.",
+                0.8370046248786593
+            ],
+            [
+                "19_ perfunctory woman in gold isn't exactly an exercise in subtlety, ",
+                -0.6536191203104585
+            ],
+            [
+                "24_after seeing the film's touching final title cards briefly describing the fates of the characters, i couldn't help wishing for a documentary version.",
+                -0.5757635168837768
+            ],
+            [
+                "25_woman in gold has a great story to tell, and the filmmakers have opted for the safest, slickest way to tell it.",
+                0.6096191424449615
+            ],
+            [
+                "28_for a film about a timeless painting, it's surprisingly artless.",
+                0.7239767014597591
+            ],
+            [
+                "33_woman in gold reaches for glossy, based-on-a-true-story cinematic heights with the depth of one of its made-for-television counterparts.",
+                0.6402181310559294
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_there simply isn't enough freshness in the script to warrant another journey inside a dark old house.",
+                -0.7692638830798948
+            ]
+        ],
+        "entities": {
+            "Wentworth Miller": {
+                "args": []
+            },
+            "D.J. Caruso": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Mel Raido": {
+                "args": []
+            },
+            "Joely Fisher": {
+                "args": []
+            },
+            "Duncan Joiner": {
+                "args": []
+            },
+            "Ella Jones": {
+                "args": []
+            },
+            "Gino Crognale": {
+                "args": []
+            },
+            "Jennifer Leigh Mann": {
+                "args": []
+            },
+            "Celia Weston": {
+                "args": []
+            },
+            "Marcia DeRousse": {
+                "args": []
+            },
+            "Michael Landes": {
+                "args": []
+            },
+            "Gerald McRaney": {
+                "args": []
+            },
+            "Kate Beckinsale": {
+                "args": [
+                    [
+                        "1_despite kate beckinsale's game efforts,",
+                        -0.5897960009330894
+                    ],
+                    [
+                        "4_most of the film is just beckinsale walking around looking worried.",
+                        -0.6403485694007558
+                    ]
+                ]
+            },
+            "Michaela Conlin": {
+                "args": []
+            },
+            "Charles Carroll": {
+                "args": []
+            },
+            "Lucas Till": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "D.J. Caruso": {
+                "args": [
+                    [
+                        "1_ d.j. caruso's thriller proves altogether worthy of its title.",
+                        0.7332478650333252
+                    ]
+                ]
+            }
+        }
+    }
+}

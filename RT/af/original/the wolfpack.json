@@ -1,0 +1,75 @@
+{
+    "film": {
+        "args": [
+            [
+                "8_more than a testament to the power of cinematic storytelling as food for the human spirit, \"the wolfpack\" also is a portrait of a family that has had to rely on each other to survive.",
+                0.7472788123451163
+            ],
+            [
+                "12_if the film is patchy, it shows promise.",
+                0.5883300805816963
+            ],
+            [
+                "13_much of \"the wolfpack\" is undeniably moving, especially as the boys come out into the real world, frightened and unsure of themselves.",
+                0.7299158995455892
+            ],
+            [
+                "17_there is a train-wreck quality to this film.",
+                0.6226675191656399
+            ],
+            [
+                "20_the wolfpack is a reminder that much of the \"crap\" we decry has the potential to liberate, offering a bridge off the island of terror we call the nuclear family.",
+                0.6972668795196189
+            ],
+            [
+                "21_what a sad, strange, intoxicating movie.",
+                -0.5986194562852023
+            ],
+            [
+                "25_the wolfpack explores its scenario exclusively through the voices of its subjects, and all the cryptic limitations that entails.",
+                0.6207591458976468
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Crystal Moselle": {
+                "args": [
+                    [
+                        "0_everything about the wolfpack is extraordinary, beginning with the subjects of crystal moselle's mesmerizing documentary.",
+                        0.7400925388555994
+                    ],
+                    [
+                        "11_filmmaker crystal moselle has seized onto terrifically compelling material, and while she hangs back with admirable distance, grey gardens-like, you wonder how she earned the angulos' trust.",
+                        0.582688099270856
+                    ],
+                    [
+                        "18_that's a loaded question - and crystal moselle's gripping doc runs with it.",
+                        0.5754355489435452
+                    ],
+                    [
+                        "24_scratching the surface of a story one suspects is a good deal thornier than what's explicitly shown here, crystal moselle's the wolfpack introduces a gang of siblings who have been raised in near-complete isolation in downtown manhattan.",
+                        0.8335587462319789
+                    ],
+                    [
+                        "26_there is much to enjoy in director crystal moselle's de",
+                        0.6693155478021552
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Hayato Ichihara": {
+                "args": []
+            },
+            "Ken Kaneko": {
+                "args": []
+            },
+            "Shinnosuke Mitsushima": {
+                "args": []
+            },
+            "Erika Toda": {
+                "args": []
+            },
+            "Tsutomu Yamazaki": {
+                "args": []
+            },
+            "Hana Sugisaki": {
+                "args": []
+            },
+            "Ebizô Ichikawa": {
+                "args": []
+            },
+            "Min Tanaka": {
+                "args": []
+            },
+            "Takuya Kimura": {
+                "args": []
+            },
+            "Chiaki Kuriyama": {
+                "args": []
+            },
+            "Yoko Yamamoto": {
+                "args": []
+            },
+            "Sôta Fukushi": {
+                "args": []
+            },
+            "Kazuki Kitamura": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "6_ blade of the immortal makes that seem like an exciting idea.",
+                -0.5085164674912691
+            ],
+            [
+                "8_not often do you encounter a movie about slicing, dicing samurai vivisecting each other into gory chunks that is also a thing of beauty.",
+                0.7150927768455335
+            ],
+            [
+                "12_blade of the immortal is flat-out gorgeous.",
+                0.5612756762959247
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "10_how does a good director like takashi misfire so badly?",
+                -0.6645294448830984
+            ]
+        ],
+        "entities": {
+            "Takashi Miike": {
+                "args": [
+                    [
+                        "0_one of the few directors who can play a multi-sword evisceration for laughs, miike has served up another frenetic joy.",
+                        -0.5661186282701509
+                    ],
+                    [
+                        "2_it is being touted as \"miike's 100th film\" and, while one could argue whether the numbering is strictly correct, it's close enough to be reasonable.",
+                        -0.5560751629769282
+                    ],
+                    [
+                        "3_it's that balance of miike's experience with his retained childlike energy in making a kick-ass samurai movie that keeps this journey engaging.",
+                        0.8416192312715025
+                    ],
+                    [
+                        "4_the director's 100th feature, blade of the immortal shows miike to have lost none of the madcap energy and wit that characterize his best work.",
+                        0.5900136205565922
+                    ],
+                    [
+                        "6_marvel studios probably won't be hiring takashi miike to direct his take on any of its properties any time soon.",
+                        -0.601912586338773
+                    ],
+                    [
+                        "9_though not nearly as mindful or meaty as mr. miike's 2011 triumph, \"13 assassins,",
+                        0.5598715316103369
+                    ],
+                    [
+                        "14_the 100th feature by genre master takashi miike transcends conventions of japanese swordplay films with both fantasy and graphic violence.",
+                        0.7523605317390869
+                    ],
+                    [
+                        "15_one of takashi miike's most lethal works.",
+                        0.7249077278170085
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tetsuya Oishi": {
+                "args": []
+            },
+            "Takashi Miike": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_stephen nomura schible's documentary, ryuichi sakamoto:",
+                0.5684309700566739
+            ],
+            [
+                "5_schible started making his film in 2012, and coda skips deftly across the years, incorporating intimate footage of the composer at work as well as archival footage from his earlier years.",
+                0.7968537605064792
+            ],
+            [
+                "7_ deep reserves of respect for fans both old and new ryuichi sakamoto: coda is an extremely fitting portrait of the influential composer.",
+                0.806739133589585
+            ]
+        ]
+    },
+    "director": {
+        "entities": {},
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "0_isn't a life story or a deep-dive character study.",
+                0.6563366034163108
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    }
+}

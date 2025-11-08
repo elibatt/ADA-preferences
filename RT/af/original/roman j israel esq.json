@@ -1,0 +1,210 @@
+{
+    "film": {
+        "args": [
+            [
+                "10_the film is a stimulating sharp turn away from storytelling conventions and a challenge for viewers who prefer narrative pabulum to dense, savory, chewy material.",
+                0.7175087133573484
+            ],
+            [
+                "12_roman j. israel, esq. is one brilliant performance in search of a movie.",
+                0.8727609740954412
+            ],
+            [
+                "24_either roman is too pure for the world of this movie or he is not.",
+                -0.5246022773038281
+            ],
+            [
+                "29_ the film around him often isn't as skillful, meandering in places and gradually becoming more like a lot of other films.",
+                0.5760905371942895
+            ],
+            [
+                "30_this is a formula movie ",
+                0.506980022007318
+            ],
+            [
+                "31_but the movie comes up short of generating the same passion that keeps roman going - and when he starts losing faith in his mission,",
+                -0.6006896083463764
+            ],
+            [
+                "31_ the movie follows suit.",
+                -0.5421118838107
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dan Gilroy": {
+                "args": [
+                    [
+                        "1_roman j. israel, esq. has pockets of intrigue, and writer-director gilroy and washington have teamed up to create a promising dramatic character.",
+                        0.5658232944339276
+                    ],
+                    [
+                        "11_written and directed by dan gilroy (nightcrawler), this affecting suspense film has been compared to the excellent michael clayton (by his brother, writer-director tony gilroy), ",
+                        0.9027734512852852
+                    ],
+                    [
+                        "15_even when the movie loses its way narratively, washington's in there, slugging, building a living, breathing character out of gilroy's knight-errant.",
+                        0.5386220832257019
+                    ],
+                    [
+                        "22_though the film is completely worth seeing just to experience such a totally realized performance and hear gilroy's always sharp dialogue,",
+                        0.5835786994529387
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "5_what a treat it is to see this great actor, after almost 40 years in movies, give a performance that feels both utterly unexpected and completely true.",
+                0.8718929717267851
+            ],
+            [
+                "12_roman j. israel, esq. is one brilliant performance in search of a movie.",
+                0.8727609740954412
+            ],
+            [
+                "17_washington's performance as israel is quirky and charming enough to almost pull it off.",
+                0.6700977968419595
+            ],
+            [
+                "19_washington's quirky performance shines brightly, ",
+                0.6792113378437639
+            ],
+            [
+                "22_though the film is completely worth seeing just to experience such a totally realized performance and hear gilroy's always sharp dialogue,",
+                0.5835786994529387
+            ],
+            [
+                "29_washington gives us another astounding performance of a deeply idiosyncratic man, ",
+                0.6863380135626251
+            ]
+        ],
+        "entities": {
+            "Colin Farrell": {
+                "args": []
+            },
+            "Tony Plana": {
+                "args": []
+            },
+            "Shelley Hennig": {
+                "args": []
+            },
+            "Carmen Ejogo": {
+                "args": []
+            },
+            "Denzel Washington": {
+                "args": [
+                    [
+                        "0_it's a credit to washington's rock solid performance that we care as much as we do.",
+                        0.7192595606229367
+                    ],
+                    [
+                        "1_roman j. israel, esq. has pockets of intrigue, and writer-director gilroy and washington have teamed up to create a promising dramatic character.",
+                        0.5658232944339276
+                    ],
+                    [
+                        "4_you can't stop watching [washington] - and you can't stop wishing he didn't have to work so hard to keep the story together once it starts branching out in different directions.",
+                        -0.6946965696162468
+                    ],
+                    [
+                        "6_an uneven movie elevated by denzel washington's distinctive performance.",
+                        0.6181823821560462
+                    ],
+                    [
+                        "9_you're left with another denzel washington performance that gets under your skin and stays there, rankling away.",
+                        0.5903274028469767
+                    ],
+                    [
+                        "13_despite washington's best efforts, roman j. israel,",
+                        0.8403921687999218
+                    ],
+                    [
+                        "14_the movie can't bring itself to push its central iceberg of a character into hotter water -- which is too bad, because that's exactly where washington thrives.",
+                        -0.8557398268171749
+                    ],
+                    [
+                        "15_even when the movie loses its way narratively, washington's in there, slugging, building a living, breathing character out of gilroy's knight-errant.",
+                        0.5386220832257019
+                    ],
+                    [
+                        "16_with his hunched gait, lack of people skills, and idealism built on quicksand, washington makes you believe in roman 100 percent.",
+                        0.5320622862490224
+                    ],
+                    [
+                        "20_whatever faults you find in roman j. israel, esq as a movie - it tends to meander - there is no disputing the start-to-finish excellence of denzel washington in the title role.",
+                        -0.5116834863677049
+                    ],
+                    [
+                        "28_denzel washington, a movie star for a reason, fails to sell himself as a socially awkward introvert and self-proclaimed \"man behind the curtain.\"",
+                        -0.6550982591101395
+                    ],
+                    [
+                        "32_[washington is] the best part of a clunky crowd-pleaser that bills itself as a dramatic thriller ",
+                        0.81812247342969
+                    ],
+                    [
+                        "34_roman is a fantastic character, and washington's high-wire performance is one of his most daring and compelling.",
+                        0.8720124860517986
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "1_roman j. israel, esq. has pockets of intrigue, and writer-director gilroy and washington have teamed up to create a promising dramatic character.",
+                0.5658232944339276
+            ],
+            [
+                "3_part character study, part legal thriller and part morality tale about means manifesting their own ends, \"roman j. israel, esq.",
+                0.6856019994014069
+            ],
+            [
+                "7_washington turns this seemingly unsympathetic character into a figure to embrace on the screen and to remember at awards time - the actor once again courts serious consideration at the oscars.",
+                -0.5143463019432836
+            ],
+            [
+                "8_is like watching a very long episode of \"curb your enthusiasm,\" only without the laughs, and without a lead character who even knows that he's annoying.",
+                -0.7721811620434346
+            ],
+            [
+                "11_written and directed by dan gilroy (nightcrawler), this affecting suspense film has been compared to the excellent michael clayton (by his brother, writer-director tony gilroy), ",
+                0.9027734512852852
+            ],
+            [
+                "13_feels like it was named after the wrong character.",
+                -0.7560460557544103
+            ],
+            [
+                "14_the movie can't bring itself to push its central iceberg of a character into hotter water -- which is too bad, because that's exactly where washington thrives.",
+                -0.8557398268171749
+            ],
+            [
+                "15_even when the movie loses its way narratively, washington's in there, slugging, building a living, breathing character out of gilroy's knight-errant.",
+                0.5386220832257019
+            ],
+            [
+                "22_ the reality and complexity of the character turns out to clash with plotting that is not as convincing.",
+                0.5960198652560246
+            ],
+            [
+                "34_roman is a fantastic character, and washington's high-wire performance is one of his most daring and compelling.",
+                0.8720124860517986
+            ]
+        ],
+        "entities": {
+            "Dan Gilroy": {
+                "args": []
+            }
+        }
+    }
+}

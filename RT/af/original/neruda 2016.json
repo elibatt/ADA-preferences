@@ -1,0 +1,137 @@
+{
+    "writer": {
+        "entities": {
+            "Guillermo Calderón": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_with great supporting performances and an intelligent script, it's an accomplished and engrossing tale.",
+                0.8823609230288
+            ],
+            [
+                "20_, \"neruda\" is a stunningly inventive take on the function rather than the life of a writer.",
+                0.8388276322473724
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Mercedes Morán": {
+                "args": []
+            },
+            "Luis Gnecco": {
+                "args": []
+            },
+            "Pablo Derqui": {
+                "args": []
+            },
+            "Victor Montero": {
+                "args": []
+            },
+            "Diego Muñoz": {
+                "args": []
+            },
+            "Marcelo Alonso": {
+                "args": []
+            },
+            "Alejandro Goic": {
+                "args": []
+            },
+            "Alfredo Castro": {
+                "args": []
+            },
+            "Gael García Bernal": {
+                "args": []
+            },
+            "Francisco Reyes": {
+                "args": []
+            },
+            "Michael Silva": {
+                "args": []
+            },
+            "Jaime Vadell": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"neruda\" is a dream of chile, of what it was and might have been, brought to the screen by a master dreamer.",
+                -0.5221145803469174
+            ],
+            [
+                "2_\"neruda\" is a delightful mishmash of two disparate genres: the biopic and film noir.",
+                0.8246676277067079
+            ],
+            [
+                "3_a sumptuous puzzle of a movie that takes a turbulent period in the life of the chilean poet and politician and turns it into a fable about fame and the power of words.",
+                0.7043285207585401
+            ],
+            [
+                "4_this is a serious movie that often feels playful, one that has metafictional ambitions ",
+                0.5817557543337558
+            ],
+            [
+                "5_calderon and larrain have taken great dramatic license with neruda's story, and the payoff is more than worth the risk.",
+                0.7363876463815698
+            ],
+            [
+                "10_is neruda a cinematic play, a poem, a biopic?",
+                0.6338206364035259
+            ],
+            [
+                "11_for anyone who believes that poetry and democracy spring from the same source and provoke the same enemies, this movie provides both encouragement and warning.",
+                0.6928142194635966
+            ],
+            [
+                "14_drolly and persuasively, the movie demonstrates that when it comes to evoking the artist and the nature of his art, historical fidelity and literal-minded dramatization go only so far.",
+                0.6407104066463385
+            ],
+            [
+                "15_the more neruda departs from historical fact, the more trenchant it becomes.",
+                0.5397655246904141
+            ],
+            [
+                "18_not many directors get a one-two punch like jackie and neruda in the same season, ",
+                0.5232502039990967
+            ],
+            [
+                "19_neruda culminates in a series of scenes in the snow that are riveting in terms of what they say about art, history, politics and human nature.",
+                0.8254802344912089
+            ],
+            [
+                "20_, \"neruda\" is a stunningly inventive take on the function rather than the life of a writer.",
+                0.8388276322473724
+            ],
+            [
+                "21_the film at times is more playful than illuminating, ",
+                0.7242917369660082
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Pablo Larraín": {
+                "args": [
+                    [
+                        "4_you can surrender to the enjoyment of the chase at the film's heart, while not losing sight of larraín's serious aims.",
+                        0.5992050683775838
+                    ],
+                    [
+                        "9_neruda is, like all the larraín films i've seen, laudable in its ambitions and ultimately unsatisfying in its execution.",
+                        0.6780674139903304
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

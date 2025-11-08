@@ -1,0 +1,43 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jung-min Hwang": {
+                "args": []
+            },
+            "Sung-min Lee": {
+                "args": []
+            },
+            "Ji-Hoon Ju": {
+                "args": []
+            },
+            "Cho Jin-woong": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jong-bin Yoon": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_this well-crafted work deserves to be seen for its thorough account of intricate workings of secret service and political skullduggery.",
+                0.6550810002320915
+            ]
+        ]
+    }
+}

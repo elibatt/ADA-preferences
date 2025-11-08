@@ -1,0 +1,73 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Hu Guan": {
+                "args": [
+                    [
+                        "2_constructed as the long, inward-gazing buildup to an epic showdown on a frozen lake, guan hu's genre-subverting drama could just as easily be an elegy for a disappearing style of filmmaking.",
+                        0.6604845849098533
+                    ],
+                    [
+                        "3_where guan excels is in straight dramatization, like the moving, beautifully acted reconciliation in a restaurant between gruff father and impatient son.",
+                        0.7981256065196526
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yi Feng Li": {
+                "args": []
+            },
+            "Bai Jugang": {
+                "args": []
+            },
+            "Kris Wu": {
+                "args": []
+            },
+            "Hanyu Zhang": {
+                "args": []
+            },
+            "Xiaogang Feng": {
+                "args": [
+                    [
+                        "0_the baggy 137-minute story drowns out mr. feng's assorted sharp moments with hoary family drama and clumsy plotting, and li yifeng is generic as mr. six's son.",
+                        -0.6814736031764632
+                    ]
+                ]
+            },
+            "Qing Xu": {
+                "args": []
+            },
+            "Liu Hua": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Runnian Dong": {
+                "args": []
+            },
+            "Hu Guan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the travails of an old gangster in a contemporary beijing overrun with privileged brats is at the heart of the largely winning \"mr. six.\"",
+                0.7348835026567899
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

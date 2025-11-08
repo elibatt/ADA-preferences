@@ -1,0 +1,218 @@
+{
+    "writer": {
+        "entities": {
+            "Darren Aronofsky": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Stephen McHattie": {
+                "args": []
+            },
+            "Domhnall Gleeson": {
+                "args": []
+            },
+            "Javier Bardem": {
+                "args": [
+                    [
+                        "29_lawrence, bardem and an oscar-caliber pfeiffer are all on fire.",
+                        0.6721094730907374
+                    ]
+                ]
+            },
+            "Jennifer Lawrence": {
+                "args": [
+                    [
+                        "1_the gutsy [jennifer] lawrence [is] badly miscast as a shrinking violet.",
+                        -0.7313851775473362
+                    ],
+                    [
+                        "24_even lawrence's magnetic powers can't keep \"mother!\" from going off the rails, which at first occurs cumulatively, then in a mad rush during the film's outlandish climax.",
+                        -0.608379783282281
+                    ]
+                ]
+            },
+            "Jovan Adepo": {
+                "args": []
+            },
+            "Ed Harris": {
+                "args": []
+            },
+            "Michelle Pfeiffer": {
+                "args": []
+            },
+            "Kristen Wiig": {
+                "args": [
+                    [
+                        "37_grappling with this climax -- steeped in gore, religious symbolism, hundreds of marauding strangers (including kristen wiig) and sheer chutzpah -- is the moviegoing gauntlet of the year.",
+                        0.6847744634957861
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "22_it's a big performance, ",
+                0.6004543830718636
+            ],
+            [
+                "22_ not a great big performance.",
+                0.6628010957053687
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_it's a real widening gyre of a movie, set adrift by the vicissitudes of both theological and cinematic history, with no human center to hold it down.",
+                0.5232103935620848
+            ],
+            [
+                "3_i hesitate to label it the \"worst movie of the year\" when \"worst movie of the century\" fits it even better.",
+                -0.6012318187900656
+            ],
+            [
+                "4_if you gave an extremely bright fifteen-year-old a bag of unfamiliar herbs to smoke, and forty million dollars or so to play with, \"mother!\" would be the result.",
+                0.5093027489140345
+            ],
+            [
+                "5_it's too bad it doesn't work.",
+                -0.9120326332458116
+            ],
+            [
+                "6_mother! is a film certain to be revered by some and reviled by others.",
+                0.5788082176549121
+            ],
+            [
+                "10_the world is lucky to have mother!",
+                0.6392018950843164
+            ],
+            [
+                "12_\"mother!,\" for this viewer, felt long and punishing",
+                -0.5149832359237876
+            ],
+            [
+                "14_\"mother!\" is undeniably a wild, memorable ride.",
+                0.7254332381638873
+            ],
+            [
+                "14_it's a rorschach test of a movie to interpret ",
+                -0.6475880534035411
+            ],
+            [
+                "15_on its most superficial, accessible level, mother! is squirm-inducing fun.",
+                0.7001106214283367
+            ],
+            [
+                "17_when the film leaves the realm of the impolite or even criminal for something far more extreme, it achieves a level of excess that makes the whole enterprise increasingly cartoonish, rather than just awful.",
+                -0.6847994654324857
+            ],
+            [
+                "18_this is a movie that we experienced as thrilling for the first hour and annoying for the second",
+                -0.587808634532353
+            ],
+            [
+                "19_you don't need a notebook or a theology degree to understand, on a fundamental level, the deeper sense that this violently irrational movie is making.",
+                -0.6181518662924242
+            ],
+            [
+                "20_the director of \"black swan\" and \"noah\" combines both to come up with this tough-to-categorize movie.",
+                0.657557360807489
+            ],
+            [
+                "21_naysayers will no doubt argue that \"mother!\" is an incomprehensible mess.",
+                -0.7021070166556117
+            ],
+            [
+                "23_while it carries echoes of work by provocateurs including david lynch, roman polanski, lars von trier and luis buñuel, there's nothing like it in terms of overall style and imagery.",
+                0.6274902572607002
+            ],
+            [
+                "23_this is a film completely on its own.",
+                0.5825405513714956
+            ],
+            [
+                "26_there is a lot of movie going on here.",
+                -0.5925052894647056
+            ],
+            [
+                "27_it's almost unbelievable that something this narratively arty is being released as a mainstream horror movie, ",
+                -0.6486972636754474
+            ],
+            [
+                "28_my heart has not stopped its anxious pounding, nor my head from spinning since seeing this film.",
+                -0.6897038987072237
+            ],
+            [
+                "29_love it or loathe it, the film is an artist's cry from his own corrupt heart.",
+                0.7844134570834721
+            ],
+            [
+                "31_impending motherhood is seen through a horror-movie lens, there are enough religious metaphors for a particularly strange sunday school class, and mother!",
+                0.6368323813031399
+            ],
+            [
+                "36_for all its feverish activity, mother! feels static.",
+                -0.5175842658530289
+            ],
+            [
+                "39_\"mother!\" begins as a slow burn and builds toward a furious blaze.",
+                0.53980659268427
+            ],
+            [
+                "41_by all means, go to \"mother!\" and enjoy its roller-coaster-of-weird exhibitionism.",
+                0.7495178335215951
+            ],
+            [
+                "41_ only if you're hoping to see a movie that's as honestly disquieting as it is showy.",
+                0.6593018498202541
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {
+            "children": {
+                "args": [
+                    [
+                        "31_impending motherhood is seen through a horror-movie lens, there are enough religious metaphors for a particularly strange sunday school class, and mother!",
+                        0.6368323813031399
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Darren Aronofsky": {
+                "args": [
+                    [
+                        "9_if you're game for it, \"mother!\" is another of aronofsky's ominous extravaganzas.",
+                        0.5519626355278888
+                    ],
+                    [
+                        "25_mr. aronofsky's visual wit and dexterous, disciplined camera movements create frissons of comic terror.",
+                        0.6481643669530202
+                    ],
+                    [
+                        "27_ the filmmaking ranks as some of aronofsky's most skillful.",
+                        0.7678951064468216
+                    ],
+                    [
+                        "33_in the end, it's hard not to get the impression that aronofsky's film has a lot more meaning for him than the audience.",
+                        0.5745195339668318
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "20_the director of \"black swan\" and \"noah\" combines both to come up with this tough-to-categorize movie.",
+                0.657557360807489
+            ]
+        ]
+    }
+}

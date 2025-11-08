@@ -1,0 +1,168 @@
+{
+    "acting": {
+        "entities": {
+            "Adam Scarimbolo": {
+                "args": []
+            },
+            "Bridget Everett": {
+                "args": []
+            },
+            "Danielle MacDonald": {
+                "args": [
+                    [
+                        "1_the performances are all first-rate - particularly bridget everett as macdonald's haggard mother - ",
+                        0.5740695599512576
+                    ],
+                    [
+                        "4_yet something in danielle macdonald's performance keeps us in our seats ...",
+                        0.5349669653383378
+                    ],
+                    [
+                        "5_ it's a joy to watch macdonald in action ...",
+                        0.7216183023988256
+                    ],
+                    [
+                        "7_in a terrific performance, [macdonald] simply blows right past the struggling-musician clichés, elevating the movie along the way.",
+                        0.7892988421174977
+                    ],
+                    [
+                        "19_patti cake$ motors along steadily on macdonald's unsentimental charisma.",
+                        0.5025734048544845
+                    ],
+                    [
+                        "31_ which it found in danielle macdonald ...",
+                        -0.5795077529015353
+                    ]
+                ]
+            },
+            "Cathy Moriarty": {
+                "args": []
+            },
+            "Patrick Brana": {
+                "args": []
+            },
+            "Mamoudou Athie": {
+                "args": []
+            },
+            "Wass Stevens": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_that includes a gritty look, a sweet surprise or two (like an echo from mom's musical past) and an ace cast.",
+                0.7228370938641933
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Geremy Jasper": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_ first time writer-director geremy jasper makes more bad choices than his misguided characters here.",
+                -0.6139256878016076
+            ],
+            [
+                "16_a hearty feel-good stew of hip-hop and tough love served up by the writer-director geremy jasper.",
+                0.6334660586562217
+            ],
+            [
+                "20_patti cake$ belongs to writer-director jasper, who makes good use of his new jersey upbringing and his music-video background to create a memorable feature de",
+                0.862674124101985
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "2_patti cake$ for the most part",
+                0.6902730917143645
+            ],
+            [
+                "3_take \"8 mile\" and cross it with \"hustle & flow\" and add a little bit of \"precious\" and you have \"patti cake$,\" a hip-hop underdog story about finding the rhythm by following your own beat.",
+                0.6235069740651948
+            ],
+            [
+                "5_patti cake$ isn't really a comedy",
+                -0.7451464600101642
+            ],
+            [
+                "6_\"patti cake$\" charts a path of rise and fall, breakthrough and disappointment, montage and romance that would be woefully predictable if we weren't having so much fun tagging along.",
+                -0.601167332130768
+            ],
+            [
+                "8_\"patti cake$\" winds up being a celebration of art, enterprise and self-invention that's as tough as it is touching.",
+                0.7408759347806795
+            ],
+            [
+                "10_the movie's documentary instincts are much sharper than its drama and ultimately much more memorable.",
+                0.7169416137857163
+            ],
+            [
+                "11_the most remarkable thing about the film is how little you'll actually mind by the end.",
+                0.6712884552194153
+            ],
+            [
+                "12_ ultimately patti cake$ has the kind of uplifting, defiant-misfit mood that's easy to compare with fellow sundance hit little miss sunshine.",
+                0.6856601204358834
+            ],
+            [
+                "14_for all its jittery attitude and outsider milieu ... the movie is too bent on pleasing crowds to cohere into a point of view.",
+                -0.5090771598926117
+            ],
+            [
+                "17_ the film mostly disarms them, or mixes them into the soundtrack.",
+                0.5852468634835059
+            ],
+            [
+                "18_the movie unfolds in a dead-end working-class community (bergen county, new jersey), with a nobody protagonist proving her worth through the strength, elegance, and wisdom of her rhymes.",
+                0.6603356537078295
+            ],
+            [
+                "21_the sundance sensation patti cake$ may flow with formulaic beats",
+                0.6997037204080786
+            ],
+            [
+                "24_the description makes patti cake$ sound like a pretty typical sundance crowd pleaser.",
+                0.7176082522676048
+            ],
+            [
+                "28_after struggling to find some narrative direction, the movie takes its shitty mixtape and lumbers toward a lazy climax.",
+                -0.7641055746296458
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Geremy Jasper": {
+                "args": [
+                    [
+                        "1_ first time writer-director geremy jasper makes more bad choices than his misguided characters here.",
+                        -0.6139256878016076
+                    ],
+                    [
+                        "16_a hearty feel-good stew of hip-hop and tough love served up by the writer-director geremy jasper.",
+                        0.6334660586562217
+                    ],
+                    [
+                        "20_patti cake$ belongs to writer-director jasper, who makes good use of his new jersey upbringing and his music-video background to create a memorable feature de",
+                        0.862674124101985
+                    ],
+                    [
+                        "32_music video director geremy jasper launches an unlikely rap star - and unforgettable indie underdog - in his high-energy feature de",
+                        0.7408448164543582
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

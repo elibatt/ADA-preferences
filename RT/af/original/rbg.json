@@ -1,0 +1,201 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Betsy West": {
+                "args": [
+                    [
+                        "11_cohen and west's approach is so adulatory that the documentary becomes a surface-level work of hagiography.",
+                        -0.5340575986412694
+                    ],
+                    [
+                        "24_no topic gets more than a cursory overview in julie cohen and betsy west's breathlessly superficial, school-presentation-ish documentary.",
+                        -0.7456173173811296
+                    ]
+                ]
+            },
+            "Julie Cohen": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gloria Steinem": {
+                "args": []
+            },
+            "Nina Totenberg": {
+                "args": []
+            },
+            "Ruth Bader Ginsburg": {
+                "args": [
+                    [
+                        "6_but as you listen to ginsburg read her words,",
+                        0.6881946783072037
+                    ],
+                    [
+                        "7_with the #metoo movement occupying our culture, it's easy to say that this is the perfect time for a detailed, thorough film on ginsburg.",
+                        0.875369548587488
+                    ],
+                    [
+                        "12_ you have to recognize the impact that ruth bader ginsburg has made to the fabric of our country.",
+                        0.6972787177920514
+                    ],
+                    [
+                        "14_this woman is a force, and the great service this clear-eyed and admiring documentary provides is to emphasize not just ginsburg's work on the court ",
+                        0.7063549632794743
+                    ],
+                    [
+                        "15_ prosaic overview of ginsburg's (exceptional) life and (world-improving) accomplishments.",
+                        0.7645584672263974
+                    ],
+                    [
+                        "16_what makes the film valuable is its focus on justice ginsburg as a champion of women's rights.",
+                        0.7190143316257811
+                    ],
+                    [
+                        "21_given the partisan divide, the documentary probably will be of interest only to people who already admire justice ginsburg, ",
+                        -0.6322236122121505
+                    ],
+                    [
+                        "26_this is more than just the predictable story of who ginsburg was and who she has become.",
+                        0.5653523848321801
+                    ],
+                    [
+                        "28_this spry celebration reveals that the real ginsburg is neither beast nor badass, ",
+                        -0.7238838889622304
+                    ],
+                    [
+                        "29_it's the insights into [ginsburg's] personal life that feel the most vital, moving \"rbg\" beyond the kind of information you could read on a wikipedia page (as ably and entertainingly rendered as they may be on the big screen).",
+                        0.7264021023730838
+                    ],
+                    [
+                        "30_a documentary that, like its subject, supreme court justice ruth bader ginsburg, is eminently sober, well-mannered, highly intelligent, scrupulous and just a teeny-weeny bit reassuringly dull.",
+                        0.5300554830458029
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_i left the theatre informed, inspired, and eager to go to sleep at a normal hour.",
+                -0.567197660754314
+            ],
+            [
+                "1_ginsburg emerges as a woman of remarkable intelligence and fortitude - who can get by on very little sleep.",
+                0.5748588789320409
+            ],
+            [
+                "2_what emerges is an intriguing portrait of a woman described as shy and retiring ",
+                0.7385430116690042
+            ],
+            [
+                "2_ with \"a quiet magnetism,\" a work horse and a master legal strategist.",
+                0.720756933002044
+            ],
+            [
+                "4_a watchable, informative and occasionally moving life history.",
+                0.684421396885118
+            ],
+            [
+                "5_rbg's superficiality makes it good background material about the subject and the forces that guided her life's crusade ",
+                0.7787224691951431
+            ],
+            [
+                "5_ the blinders it willingly wears represent its greatest flaw.",
+                0.5635135456573728
+            ],
+            [
+                "6_even with such rich material, the movie can be a tad prosaic.",
+                0.5277001646326879
+            ],
+            [
+                "6_ you begin to perceive the secret of her power.",
+                0.5519135081341144
+            ],
+            [
+                "7_ anytime would have been a good time.",
+                0.5977828024019187
+            ],
+            [
+                "8_it endeavors to offer a heavy dose of comfort food to its audience, which is sure to comprise exclusively of viewers who have a lot invested in the iconic dissenter remaining on the job for a long while.",
+                -0.5160995550971389
+            ],
+            [
+                "9_finding reciprocity -- in the eyes of the law, your partner, your colleagues -- is the essence of this documentary, one that comes at a moment that desperately lacks it.",
+                0.6501849773065452
+            ],
+            [
+                "10_ it feels more like a love letter.",
+                -0.5702296173735257
+            ],
+            [
+                "12_you may love or hate her, badmouth her or bow down to her.",
+                0.5291112176958571
+            ],
+            [
+                "13_stands as a film that informs, and sometimes even delights with its portrait of one of the more remarkable lawyers, judges, and feminist icons of our time.",
+                0.9123487348866226
+            ],
+            [
+                "15_if you know enough to be impressed, you've probably heard at least a few of the oft-told statistics and anecdotes that burnish the rbg myth here.",
+                0.6379110175084662
+            ],
+            [
+                "18_you don't have to agree with the politics of it to be impressed by the civility of the discourse, and that's something so sorely lacking today that it seems almost quaint.",
+                0.5785257538043478
+            ],
+            [
+                "19_the movie's touch is light and its spirit buoyant, ",
+                0.7680483061106163
+            ],
+            [
+                "19_ there is no mistaking its seriousness or its passion.",
+                -0.5412948024098321
+            ],
+            [
+                "21_ it's a good story that will inspire many and should appeal to anyone with an open mind.",
+                0.7923799648035008
+            ],
+            [
+                "22_a celebration of the scrunchie-wearing octogenarian not just as a pop-culture folk hero and millennial meme ",
+                0.7292016407419571
+            ],
+            [
+                "22_ as a wife, a warrior, and a true iconoclast, famed for her fierce legal mind and the cutting wit of her dissenting opinions.",
+                0.8012590436796004
+            ],
+            [
+                "23_rbg takes various facets of a fascinating life and stitches them together, as documentaries go, into a genuine beauty.",
+                0.7315752130236792
+            ],
+            [
+                "25_[a] lively and thorough profile...",
+                0.8056138980763412
+            ],
+            [
+                "26_it's also a monument to the formal written legal legacy that transcends her own life story and changed a nation.",
+                0.8212209740031433
+            ],
+            [
+                "27_a chronology of ginsberg's subsequent victories shows how patiently and shrewdly she worked to establish the existence and pernicious effects of sex discrimination",
+                0.6863897745320953
+            ],
+            [
+                "28_ an even-tempered, soft-spoken mediator-not typically the traits that inspire rousing high-fives",
+                0.6513180792825621
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

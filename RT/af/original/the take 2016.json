@@ -1,0 +1,79 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the take is one busy, busy action flick.",
+                -0.5284443705008349
+            ],
+            [
+                "2_most of the take's moving parts feel like spinning cogs, devoid of fit or function.",
+                -0.6073914879654151
+            ],
+            [
+                "3_ the movie sweeps you along with a brisk pace and even dashes of humor.",
+                0.7607813916871325
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James Watkins": {
+                "args": [
+                    [
+                        "5_director james watkins keeps things reasonably interesting, ",
+                        -0.5164056131989214
+                    ],
+                    [
+                        "7_it's watkins' lean, keen instinct for choreographing and cutting action set pieces that keeps \"bastille day\" afloat.",
+                        0.6107542008729577
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kelly Reilly": {
+                "args": []
+            },
+            "Richard Madden": {
+                "args": []
+            },
+            "Charlotte Le Bon": {
+                "args": []
+            },
+            "Idris Elba": {
+                "args": [
+                    [
+                        "0_it makes the consistently charismatic idris elba look unappealing.",
+                        0.690313959585872
+                    ],
+                    [
+                        "4_a strictly by-the-numbers political thriller that fails to capitalize on idris elba's formidable screen presence.",
+                        -0.7474186226022059
+                    ]
+                ]
+            },
+            "Eriq Ebouaney": {
+                "args": []
+            },
+            "Anatol Yusef": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Andrew Baldwin": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

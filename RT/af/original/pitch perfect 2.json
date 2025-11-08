@@ -1,0 +1,490 @@
+{
+    "writer": {
+        "entities": {
+            "Mickey Rapkin": {
+                "args": []
+            },
+            "Kay Cannon": {
+                "args": [
+                    [
+                        "15_despite so much returning talent (the film also shares the same screenwriter in kay cannon),",
+                        -0.5273619489328347
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "8_its script is more than a smidge pitchy.",
+                -0.5153151224015858
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Elizabeth Banks": {
+                "args": [
+                    [
+                        "11_, with banks handling the high-octane chaos of \"pitch\" with almost perfect aplomb.",
+                        0.8631599632762219
+                    ],
+                    [
+                        "17_actress-turned-director elizabeth banks delivers a comedy that's slightly broader than the first film, and just as infectious.",
+                        0.8146452112429985
+                    ],
+                    [
+                        "19_there are just too many moments when jokes fail to ignite and banks' answer seems to be: \"throw in another song.\"",
+                        -0.6932233041421451
+                    ],
+                    [
+                        "35_first-time director elizabeth banks manages to move the story forward and wrap it up nicely without killing the concept.",
+                        0.5770702056050324
+                    ],
+                    [
+                        "42_elizabeth banks makes a credible directing de",
+                        0.61753663232803
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_what felt like winking cheekiness in the first movie can come across now more like clumsy provocation.",
+                -0.5153446181125279
+            ],
+            [
+                "6_it actually is difficult to write a review of pitch perfect 2.",
+                -0.5318197553595223
+            ],
+            [
+                "7_its self-satisfaction is a step toward cynicism, and that is what a pitch perfect film must never be.",
+                0.8921602821999509
+            ],
+            [
+                "8_as second rounds of comedies go, \"pitch perfect 2\" definitely is not perfect.",
+                0.6393671670101038
+            ],
+            [
+                "10_a movie with attitude and energy that's not as aca-amazing as the original, ",
+                0.8287689341874902
+            ],
+            [
+                "13_the casual busyness of the plots does not distract from the essence of the movie, which is the pleasure and occasional stress of hanging out with like-minded girlfriends as you ease your way toward adulthood.",
+                0.6837462489704437
+            ],
+            [
+                "14_pitch perfect 2\" plays the notes, ",
+                0.6561718524480512
+            ],
+            [
+                "15_ pitch perfect 2 is singing a completely different tune from the 2012 original.",
+                0.6949437143191101
+            ],
+            [
+                "18_pitch perfect 2 is sweet, predictable story, ",
+                0.6050687761290423
+            ],
+            [
+                "22_while just a jot less fun than its predecessor, pitch perfect 2 is a worthy sequel in tone, even if the story feels padded with a few too many montages.",
+                0.6430295485339428
+            ],
+            [
+                "24_as of today, this is the most delightful movie out there.",
+                0.7743131116602167
+            ],
+            [
+                "26_the movie is really just a group of sketches strung together.",
+                -0.625381265363855
+            ],
+            [
+                "29_it's not as smooth a ride as pitch perfect, ",
+                0.7200908197815197
+            ],
+            [
+                "33_for a movie about the cheerfully bizarre world of competition a cappella singing, \"pitch perfect 2\" seems just as obsessed, if not more so, with characters who seem to be sexually confused.",
+                0.7078385929843415
+            ],
+            [
+                "35_\"pitch perfect 2\" actually is more enjoyable than the original.",
+                0.8177239349327242
+            ],
+            [
+                "38_for big fans of the first \"pitch perfect,\" the sequel will not aggravate or offend.",
+                0.701080855336876
+            ],
+            [
+                "39_pitch perfect 2 tries to fork over many of the pleasures of the first movie without changing them around all that much.",
+                0.8158516560910771
+            ],
+            [
+                "41_reprising the kind of musical performances, campus hijinks, stinging humor and sassy sisterhood put in place by its eminently likeable predecessor, pitch perfect 2 remixes the elements and comes up with something even slicker and sharper.",
+                0.7388566866480544
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Brittany Snow": {
+                "args": []
+            },
+            "Kelley Jakle": {
+                "args": []
+            },
+            "Britney Chelene Thomas": {
+                "args": []
+            },
+            "Hailee Steinfeld": {
+                "args": []
+            },
+            "Michael Dean Ester": {
+                "args": []
+            },
+            "Donny Barclay": {
+                "args": []
+            },
+            "Scott Hoying": {
+                "args": []
+            },
+            "Shelley Regner": {
+                "args": []
+            },
+            "Steven Ban": {
+                "args": []
+            },
+            "Codie Wiggins": {
+                "args": []
+            },
+            "Jeremy Williams": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": [
+                    [
+                        "30_, can we try another key?",
+                        -0.582885577257652
+                    ]
+                ]
+            },
+            "Kashish Hora": {
+                "args": []
+            },
+            "Alexis Knapp": {
+                "args": []
+            },
+            "John Michael Higgins": {
+                "args": []
+            },
+            "Virgil Rosales": {
+                "args": []
+            },
+            "Jake Tapper": {
+                "args": []
+            },
+            "Kevin Olusola": {
+                "args": []
+            },
+            "Alison Sahonic": {
+                "args": []
+            },
+            "Elizabeth Banks": {
+                "args": [
+                    [
+                        "11_, with banks handling the high-octane chaos of \"pitch\" with almost perfect aplomb.",
+                        0.8631599632762219
+                    ],
+                    [
+                        "17_actress-turned-director elizabeth banks delivers a comedy that's slightly broader than the first film, and just as infectious.",
+                        0.8146452112429985
+                    ],
+                    [
+                        "19_there are just too many moments when jokes fail to ignite and banks' answer seems to be: \"throw in another song.\"",
+                        -0.6932233041421451
+                    ],
+                    [
+                        "35_first-time director elizabeth banks manages to move the story forward and wrap it up nicely without killing the concept.",
+                        0.5770702056050324
+                    ],
+                    [
+                        "42_elizabeth banks makes a credible directing de",
+                        0.61753663232803
+                    ]
+                ]
+            },
+            "Daniel Piglavento": {
+                "args": []
+            },
+            "Flula Borg": {
+                "args": []
+            },
+            "Hana Mae Lee": {
+                "args": []
+            },
+            "Shawn Carter Peterson": {
+                "args": []
+            },
+            "Cali Blake": {
+                "args": []
+            },
+            "Skylar Astin": {
+                "args": []
+            },
+            "Aakomon \"AJ\" Jones": {
+                "args": []
+            },
+            "Sharon Garrison": {
+                "args": []
+            },
+            "Monica Malone": {
+                "args": []
+            },
+            "Natalie Morales": {
+                "args": []
+            },
+            "Steven Banks": {
+                "args": []
+            },
+            "Robert W. Krieger III": {
+                "args": []
+            },
+            "Marisela Zumbado": {
+                "args": []
+            },
+            "Ted Moock": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": [
+                    [
+                        "3_anna kendrick's beca, a mash-up maestro, spends the movie looking like she'd rather scale a fish than scale her vocals.",
+                        -0.5497259961992792
+                    ],
+                    [
+                        "3_(maybe because kendrick is nearly 30, and she's still playing a college student?)",
+                        -0.6230069299493212
+                    ],
+                    [
+                        "20_inspired musical numbers, an uninvested kendrick and too many ethnic jokes make this comedy a mixed bag.",
+                        -0.5238171416545685
+                    ]
+                ]
+            },
+            "Kirstin Maldonado": {
+                "args": []
+            },
+            "Anna Camp": {
+                "args": [
+                    [
+                        "4_ethnic clichés abound, college comes off as a free sleepaway camp, and the simple wonders of unaccompanied singing are inflated to las vegas-style bombast.",
+                        0.5127353125929983
+                    ],
+                    [
+                        "16_the grim arithmetic of sequels demands more of what worked the first time: more camp, more sincerity.",
+                        0.5863606685040976
+                    ]
+                ]
+            },
+            "Dominic Tibayan": {
+                "args": []
+            },
+            "Chrissie Fit": {
+                "args": []
+            },
+            "John Hodgman": {
+                "args": []
+            },
+            "Ben Platt": {
+                "args": []
+            },
+            "Joe Scarborough": {
+                "args": []
+            },
+            "Pharrell Williams": {
+                "args": []
+            },
+            "Frances Manzo": {
+                "args": []
+            },
+            "Gigi Zumbado": {
+                "args": []
+            },
+            "Trace Gaynor": {
+                "args": []
+            },
+            "Jerry Clark": {
+                "args": []
+            },
+            "Kyndra \"Binkie\" Reevey": {
+                "args": []
+            },
+            "David Cross": {
+                "args": []
+            },
+            "Ryan Leeper": {
+                "args": []
+            },
+            "Hariharan Ravi": {
+                "args": []
+            },
+            "Thomas J. Lang": {
+                "args": []
+            },
+            "Aneesh Kanakamedala": {
+                "args": []
+            },
+            "Prashant Ramesh": {
+                "args": []
+            },
+            "Jordan Rodgers": {
+                "args": []
+            },
+            "Katey Sagal": {
+                "args": []
+            },
+            "Christina Aguilera": {
+                "args": []
+            },
+            "Clay Matthews": {
+                "args": []
+            },
+            "Alexis Lawson": {
+                "args": []
+            },
+            "Rosie O'Donnell": {
+                "args": []
+            },
+            "Pranay Sharma": {
+                "args": []
+            },
+            "Naomi James": {
+                "args": []
+            },
+            "Phi Vu": {
+                "args": []
+            },
+            "Samantha Smith": {
+                "args": []
+            },
+            "Barry Fortgang": {
+                "args": []
+            },
+            "Blake Shelton": {
+                "args": []
+            },
+            "Kay Cannon": {
+                "args": [
+                    [
+                        "15_despite so much returning talent (the film also shares the same screenwriter in kay cannon),",
+                        -0.5273619489328347
+                    ]
+                ]
+            },
+            "Brent L. Boxberger": {
+                "args": []
+            },
+            "Andrew Fitzpatrick (IV)": {
+                "args": []
+            },
+            "Austin Lyon": {
+                "args": []
+            },
+            "Jason Jones": {
+                "args": []
+            },
+            "Blake Burt": {
+                "args": []
+            },
+            "Mitch Grassi": {
+                "args": []
+            },
+            "Adam DeVine": {
+                "args": []
+            },
+            "Mika Brzezinski": {
+                "args": []
+            },
+            "Jimmy Kimmel": {
+                "args": []
+            },
+            "Snoop Dogg": {
+                "args": []
+            },
+            "Michael Odokara-Okigbo": {
+                "args": []
+            },
+            "Jordyn McDempsey": {
+                "args": []
+            },
+            "Joe Lo Truglio": {
+                "args": []
+            },
+            "Allie Feder": {
+                "args": []
+            },
+            "Nicolle Wallace": {
+                "args": []
+            },
+            "Julian Cruz": {
+                "args": []
+            },
+            "Brandon Lara": {
+                "args": []
+            },
+            "Brea Grant": {
+                "args": []
+            },
+            "Adam Levine": {
+                "args": []
+            },
+            "Gralen Bryant Banks": {
+                "args": []
+            },
+            "Jacinto Rodriguez": {
+                "args": []
+            },
+            "Kimberly Madsen-Thomas": {
+                "args": []
+            },
+            "David Bakhtiari": {
+                "args": []
+            },
+            "Dakota Smith": {
+                "args": []
+            },
+            "Sylvia Weatherspoon": {
+                "args": []
+            },
+            "Avi Kaplan": {
+                "args": []
+            },
+            "Rebel Wilson": {
+                "args": []
+            },
+            "Rosie Perez": {
+                "args": []
+            },
+            "Josh Sitton": {
+                "args": []
+            },
+            "Dylan Cheek": {
+                "args": []
+            },
+            "Reggie Watts": {
+                "args": []
+            },
+            "Birgitte Hjort Sørensen": {
+                "args": []
+            },
+            "Joseph Caigoy": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

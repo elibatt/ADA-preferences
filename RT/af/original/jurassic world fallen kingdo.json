@@ -1,0 +1,166 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_ each jurassic movie is fated to essentially repeat the same idea-",
+                -0.6389200553475699
+            ],
+            [
+                "6_ at this point the mortal terror of spielberg's original film has been diminished beyond repair.",
+                0.6906389287616365
+            ],
+            [
+                "11_like almost every other major studio film this summer, fallen kingdom plays dumb, and happily.",
+                -0.5815407591315893
+            ],
+            [
+                "15_like an ancient volcano thundering to life, the \"jurassic\" realm keeps roaring onto film screens with unexpected energy.",
+                0.7394225346819767
+            ],
+            [
+                "17_[it's] is a movie that pounds us with a pretentious, nearly operatic score while indulging in b-movie clichés and calling for the main characters to make idiotic decisions just to keep the story rolling.",
+                -0.5284104626239402
+            ],
+            [
+                "19_yet while the previous film distinguished itself in part by making its dinosaurs bigger and badder, the latest trip to \"jurassic world\" merely manages to make them bigger -- and worse.",
+                0.5729339340139162
+            ],
+            [
+                "20_the only moments where the film tries to do something of consequence with the plot, tying back (albeit barely) into the gene research drama that kicked off the series, end up being pretty dumb.",
+                -0.7795272379887832
+            ],
+            [
+                "21_bayona and his writers wanted to give audiences a different kind of monster movie.",
+                0.5596455465802168
+            ],
+            [
+                "22_this newest entry in the \"jurassic\" series is a pretty good dinosaur movie, entertaining most of the way.",
+                0.7545721925570845
+            ],
+            [
+                "24_the film's a rush for an audience that only wants the high.",
+                0.5196685167500318
+            ],
+            [
+                "27_the movie too often defaults to people running around screaming - which is, to be fair, the backbone of this franchise, ",
+                -0.658623274707245
+            ],
+            [
+                "29_bayona knows why audiences flock to a \"jurassic\" movie and the best thing he does is create a strong empathy for the exquisitely detailed computer-generated dinos.",
+                0.8476518822542638
+            ],
+            [
+                "37_the movie plays like a strenuous imitation of steven spielberg instead of the real deal.",
+                0.501430925646468
+            ],
+            [
+                "43_it all just hangs there like so much else in this movie, undeveloped concepts that could one day be turned into a genuinely exciting, surprising film.",
+                -0.5582005283086922
+            ],
+            [
+                "48_ it's the first \"jurassic\" film to come close to pretending it isn't a ride at all, and as a result it ends up being just a passable ride.",
+                -0.7982105364976556
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "J.A. Bayona": {
+                "args": [
+                    [
+                        "3_j.a. bayona demonstrates a flair for the gothic... which has less pyrotechnics ",
+                        0.647941422796362
+                    ],
+                    [
+                        "28_j.a. bayona's film never figures out what it wants to be, casting about for a coherent tone.",
+                        -0.6710768884734478
+                    ],
+                    [
+                        "31_the best thing \"jurassic world: fallen kingdom\" has going for it is director j.a. bayona, who takes a mediocre script by derek connolly and colin trevorrow and directs the living daylights out of it.",
+                        -0.5183253174399425
+                    ],
+                    [
+                        "34_fallen kingdom understands that, as much as jurassic park has the shape of an action movie, its roots are in horror, and bayona takes evident glee in drawing out his scares.",
+                        0.6248515845298652
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Colin Trevorrow": {
+                "args": [
+                    [
+                        "28_thanks in large part to derek connolly and colin trevorrow's script, it doesn't find one.",
+                        -0.616433144188141
+                    ],
+                    [
+                        "31_the best thing \"jurassic world: fallen kingdom\" has going for it is director j.a. bayona, who takes a mediocre script by derek connolly and colin trevorrow and directs the living daylights out of it.",
+                        -0.5183253174399425
+                    ]
+                ]
+            },
+            "Derek Connolly": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "24_ lacks anything else: character, mystery, wonder, danger.",
+                -0.5754772089471514
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Daniella Pineda": {
+                "args": []
+            },
+            "Geraldine Chaplin": {
+                "args": []
+            },
+            "Justice Smith": {
+                "args": []
+            },
+            "Bryce Dallas Howard": {
+                "args": []
+            },
+            "Jeff Goldblum": {
+                "args": []
+            },
+            "James Cromwell": {
+                "args": []
+            },
+            "Ted Levine": {
+                "args": []
+            },
+            "Chris Pratt": {
+                "args": [
+                    [
+                        "33_why cast pratt, that rare movie star with a comic's sense of mischief, and then reduce him to a pawn who runs around hitting his marks like a robot?",
+                        0.8273021338733637
+                    ]
+                ]
+            },
+            "Rafe Spall": {
+                "args": []
+            },
+            "Isabella Sermon": {
+                "args": []
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "B.D. Wong": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

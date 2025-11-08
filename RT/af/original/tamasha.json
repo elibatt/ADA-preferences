@@ -1,0 +1,55 @@
+{
+    "acting": {
+        "entities": {
+            "Javed Sheikh": {
+                "args": []
+            },
+            "Deepika Padukone": {
+                "args": [
+                    [
+                        "2_the big-eyed ms. padukone, who has co-starred with mr. kapoor before, dutifully, and regrettably, permits him to eclipse her own formidable charisma.",
+                        0.6651832555702903
+                    ]
+                ]
+            },
+            "Nikhil Bhagat": {
+                "args": []
+            },
+            "Faraaz Servaia": {
+                "args": []
+            },
+            "Ranbir Kapoor": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_kapoor is beautifully cast, his trademark mix of assertive theatricality and subtle emotion well suited to the role of a man who seemingly has it all under control, until he doesn't.",
+                0.5546374068707359
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Imtiaz Ali": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Imtiaz Ali": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

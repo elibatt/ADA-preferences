@@ -1,0 +1,161 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anthony Quinn": {
+                "args": []
+            },
+            "Jack Gwillim": {
+                "args": []
+            },
+            "Jack Hawkins": {
+                "args": []
+            },
+            "Arthur Kennedy": {
+                "args": []
+            },
+            "John Ruddock": {
+                "args": []
+            },
+            "I.S. Johar": {
+                "args": []
+            },
+            "Michel Ray": {
+                "args": []
+            },
+            "Alec Guinness": {
+                "args": [
+                    [
+                        "14_the only thing that really dates it is the awful makeup, orangey pancake for lawrence, a gray-green nose for quinn and cordovan shoe polish for guinness.",
+                        -0.8509889276186031
+                    ]
+                ]
+            },
+            "Peter O'Toole": {
+                "args": [
+                    [
+                        "2_it is o'toole who continually dominates the screen, and he dominates it with professional skill, irish charm and smashing good looks.",
+                        0.7087705127358725
+                    ]
+                ]
+            },
+            "Fernando Sancho": {
+                "args": []
+            },
+            "Gamil Ratib": {
+                "args": []
+            },
+            "M. Cher Kaoui": {
+                "args": []
+            },
+            "Mohammed Habachi": {
+                "args": []
+            },
+            "Hugh Miller": {
+                "args": []
+            },
+            "Omar Sharif": {
+                "args": []
+            },
+            "Norman Rossington": {
+                "args": []
+            },
+            "Howard Marion-Crawford": {
+                "args": []
+            },
+            "Claude Rains": {
+                "args": []
+            },
+            "John Dimech": {
+                "args": []
+            },
+            "Michael Ray": {
+                "args": []
+            },
+            "Anthony Quayle": {
+                "args": []
+            },
+            "Zia Mohyeddin": {
+                "args": []
+            },
+            "Henry Oscar": {
+                "args": []
+            },
+            "Kenneth Fortescue": {
+                "args": []
+            },
+            "Harry Fowler": {
+                "args": []
+            },
+            "Donald Wolfit": {
+                "args": []
+            },
+            "Jack Hedley": {
+                "args": []
+            },
+            "Stuart Saunders": {
+                "args": []
+            },
+            "José Ferrer": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David Lean": {
+                "args": [
+                    [
+                        "6_ david lean's sweeping biography of t.e. lawrence is unarguably magnificent.",
+                        0.7620397100232594
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_approach it from whatever angle you like, performances, script, cinematography, score",
+                0.679195006414214
+            ]
+        ],
+        "entities": {
+            "Michael Wilson": {
+                "args": []
+            },
+            "Robert Bolt": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_it was a big bold project and has turned out a big bold film.",
+                -0.5316599149524537
+            ],
+            [
+                "8_it reduces a legendary figure to conventional movie-hero size amidst magnificent and exotic scenery ",
+                0.650493633182823
+            ],
+            [
+                "8_ a conventional lot of action-film clichés.",
+                0.520565958921317
+            ],
+            [
+                "12_riveting from beginning to end, featuring stellar performances, amazing cinematography, and a story without a trace of fat, the film does everything an epic is supposed to do -- and more.",
+                -0.5082457600008197
+            ],
+            [
+                "16_this is that rare film whose weaknesses are not only swallowed up by its vast, disturbing ambition, ",
+                0.6805430882558622
+            ]
+        ]
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "8_chastain's performance is brilliant...",
+                0.841907398773799
+            ],
+            [
+                "10_chastain's showstopping performance elevates \"miss sloane\" above typical genre fare, ",
+                0.5930734061235606
+            ],
+            [
+                "23_chastain draws us in, making us see what her lobbyist character keeps inside by the sheer force of her fireball performance.",
+                0.7603834198716852
+            ]
+        ],
+        "entities": {
+            "Anand Rajaram": {
+                "args": []
+            },
+            "Austin Strugnell": {
+                "args": []
+            },
+            "Raoul Bhaneja": {
+                "args": []
+            },
+            "Alison Pill": {
+                "args": []
+            },
+            "Angela Vint": {
+                "args": []
+            },
+            "Dylan Baker": {
+                "args": []
+            },
+            "Anthony Furey": {
+                "args": []
+            },
+            "Christine Baranski": {
+                "args": []
+            },
+            "Michael Cram": {
+                "args": []
+            },
+            "Alex Castillo": {
+                "args": []
+            },
+            "Rick Campanelli": {
+                "args": []
+            },
+            "Grace Lynn Kung": {
+                "args": []
+            },
+            "Kyle Mac": {
+                "args": []
+            },
+            "Meghann Fahy": {
+                "args": []
+            },
+            "John Milson": {
+                "args": []
+            },
+            "Sam Waterston": {
+                "args": []
+            },
+            "Noah Robbins": {
+                "args": []
+            },
+            "James Passero": {
+                "args": []
+            },
+            "John Lithgow": {
+                "args": []
+            },
+            "Paul McGuire": {
+                "args": []
+            },
+            "Helen Johns": {
+                "args": []
+            },
+            "Craig Eldridge": {
+                "args": []
+            },
+            "David Wilson Barnes": {
+                "args": []
+            },
+            "Lee Smart": {
+                "args": [
+                    [
+                        "10_ it lands a one-two punch in managing to be both salacious and smart.",
+                        0.6468650289883245
+                    ],
+                    [
+                        "11_it's like a talky, detail-packed aaron sorkin saga, with a daunting profusion of smart, rapid dialogue and surface details that are bewildering at the beginning and pay off in the finale.",
+                        0.8107422455805683
+                    ],
+                    [
+                        "15_chastain gets to play pushy, angry, smart, hurt, almost sympathetic and more.",
+                        0.5563507336669691
+                    ]
+                ]
+            },
+            "Ola Sturik": {
+                "args": []
+            },
+            "Gugu Mbatha-Raw": {
+                "args": []
+            },
+            "Joe Pingue": {
+                "args": []
+            },
+            "Zach Smadu": {
+                "args": []
+            },
+            "Jessica Chastain": {
+                "args": [
+                    [
+                        "3_ chastain makes us understand and even sympathize with her, ruthless and cunning ",
+                        0.5854028258494177
+                    ],
+                    [
+                        "7_the reason to see miss sloane is jessica chastain, an actor apparently constitutionally incapable of giving a bad performance.",
+                        -0.8498592868238851
+                    ],
+                    [
+                        "9_this is chastain's movie, as the title implies.",
+                        -0.5314570678485573
+                    ],
+                    [
+                        "24_storytelling efficiency is one of miss sloane's most effective calling cards-that, and chastain.",
+                        0.7448922144828329
+                    ],
+                    [
+                        "29_here is jessica chastain flexing her extraordinary meryl streep-like range and just about keeping this convoluted political thriller in the realm of enjoyably watchable.",
+                        0.6454952306342198
+                    ],
+                    [
+                        "30_why does chastain still feel vaguely miscast, even as she commands the screen?",
+                        0.5115937192432782
+                    ],
+                    [
+                        "31_ it seems no camera can move fast enough for chastain's frantic, sure to be awards-hyped energy.",
+                        -0.5236814550209543
+                    ],
+                    [
+                        "33_jessica chastain is bulletproof in a frothy soap opera about the other women in washington.",
+                        -0.5596757046475638
+                    ],
+                    [
+                        "34_smart and solid, with a smashing chastain.",
+                        0.6272284489441219
+                    ]
+                ]
+            },
+            "Rick Roberts": {
+                "args": []
+            },
+            "Michael Stuhlbarg": {
+                "args": []
+            },
+            "Doug Murray (II)": {
+                "args": []
+            },
+            "Gurdeep Ahluwalia": {
+                "args": []
+            },
+            "Jake Lacy": {
+                "args": []
+            },
+            "Greta Onieogou": {
+                "args": []
+            },
+            "John Gallagher": {
+                "args": []
+            },
+            "Chuck Shamata": {
+                "args": []
+            },
+            "Mark Strong (II)": {
+                "args": []
+            },
+            "Sergio Di Zio": {
+                "args": []
+            },
+            "Aaron Hale": {
+                "args": []
+            },
+            "Kevin Jubinville": {
+                "args": []
+            },
+            "Al Mukadam": {
+                "args": []
+            },
+            "Murray Furrow": {
+                "args": []
+            },
+            "David Rosser": {
+                "args": []
+            },
+            "Courtenay Stevens": {
+                "args": []
+            },
+            "Andrew Moodie": {
+                "args": []
+            },
+            "Ennis Esmer": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Madden": {
+                "args": [
+                    [
+                        "1_following a pair of sojourns to the adorable marigold hotel, john madden (shakespeare in love) takes a giant step forward with this perfectly timed tale of how to draw and quarter a lobbyist.",
+                        0.6386855156317031
+                    ],
+                    [
+                        "13_with the help of deft editing and a sometimes frantic electronic score, director john madden (\"shakespeare in love\") turns this story of backroom machinations into a moderately entertaining thriller.",
+                        0.7816912410072219
+                    ],
+                    [
+                        "17_a rather cartoonish and not particularly credible political thriller from director john madden, it doesn't live up to the ferocious promise of its lead character.",
+                        -0.6369959620589312
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_elizabeth sloane is a character so archetypal,",
+                -0.5107526789549661
+            ],
+            [
+                "4_as a dramatic thriller, it does what it needs to do to keep the audience involved and interested, even if some of its most theatrical tricks and twists are more the products of a writer's invention than actual washington d.c. activities.",
+                0.6900483282238209
+            ],
+            [
+                "16_chastain, whose brittle elizabeth never seems to exhale, let alone relax, reveals almost nothing of her character's heart - and yet keeps us fascinated by her.",
+                0.5095486693327114
+            ],
+            [
+                "17_a rather cartoonish and not particularly credible political thriller from director john madden, it doesn't live up to the ferocious promise of its lead character.",
+                -0.6369959620589312
+            ],
+            [
+                "23_chastain draws us in, making us see what her lobbyist character keeps inside by the sheer force of her fireball performance.",
+                0.7603834198716852
+            ],
+            [
+                "26_ as the movie progresses, the actress shows necessary cracks in her character's cold exterior.",
+                0.5514156330838552
+            ],
+            [
+                "27_partly because \"miss sloane\" is more a character study than a coherent political drama, it fumbles the issue it purports to address, and it eventually runs aground in a preposterous ending.",
+                -0.640632566864118
+            ],
+            [
+                "36_if this were a tv pilot, we could at least sit back and wait for the character's vulnerabilities and backstories to emerge, ",
+                -0.7275714670712629
+            ]
+        ],
+        "entities": {
+            "Jonathan Perera": {
+                "args": [
+                    [
+                        "12_madden's stagy direction doesn't help ... nor does first-time writer jonathan perera's pseudo-sorkinesque, exposition-laden, quippy dialogue.",
+                        -0.6133135160004959
+                    ],
+                    [
+                        "36_ in the screenplay by first-timer jonathan perera, we get all the quirks and none of the depth.",
+                        -0.6273141613840747
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_miss sloane is a powerfully conceived thriller with something dead at its centre: there is no reason a female protagonist must be good or well-behaved, ",
+                -0.6577834276005969
+            ],
+            [
+                "5_the movie shares with other mainstream political dramas an easy notion of washington as a hopeless cesspool of sellouts, paybacks, and heinous personal betrayals.",
+                0.6500203157707964
+            ],
+            [
+                "6_while \"miss sloane\" is by no means even a minor classic of the genre, it's fantastic, wall-to-wall entertainment, brimming with movie-movie lines.",
+                0.781845984765196
+            ],
+            [
+                "8_had the movie around her lived up to that, she might very well be walking off with a gold statue in a couple of months.",
+                0.6392626342067527
+            ],
+            [
+                "10_chastain's showstopping performance elevates \"miss sloane\" above typical genre fare, ",
+                0.5930734061235606
+            ],
+            [
+                "14_if you've been wondering how washington really works, this film is required viewing.",
+                0.5627809127661928
+            ],
+            [
+                "19_madden's film offers up a banal truism - money has a corrupting influence on politics - as if it were some great dramatic discovery and trots out a fairy-tale ending that both repudiates the political process and undermines the movie ...",
+                0.6147252085784092
+            ],
+            [
+                "20_heavy-handed message movies don't come more harrumphing than \"miss sloane,\" a clunky dramatization of the gun-control argument liberals still don't understand is being conducted solely among themselves.",
+                -0.6118680703372984
+            ],
+            [
+                "22_the film is not so much tone-deaf as old-fashioned, emerging from a more innocent time (say, three weeks ago) when politics as usual actually had some meaning.",
+                0.5582648430733155
+            ],
+            [
+                "25_ a movie, and one that unabashedly embraces the scintillating pleasures supplied in abundance on shows like \"scandal\" to \"house of cards.\"",
+                0.7584502398980622
+            ],
+            [
+                "26_ as the movie progresses, the actress shows necessary cracks in her character's cold exterior.",
+                0.5514156330838552
+            ],
+            [
+                "27_partly because \"miss sloane\" is more a character study than a coherent political drama, it fumbles the issue it purports to address, and it eventually runs aground in a preposterous ending.",
+                -0.640632566864118
+            ]
+        ]
+    }
+}

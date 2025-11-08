@@ -1,0 +1,220 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "LuLu Ebeling": {
+                "args": []
+            },
+            "Brad Garrett": {
+                "args": []
+            },
+            "Barry Humphries": {
+                "args": []
+            },
+            "Stephen Root": {
+                "args": []
+            },
+            "Allison Janney": {
+                "args": []
+            },
+            "John Ratzenberger": {
+                "args": []
+            },
+            "Erik Per Sullivan": {
+                "args": []
+            },
+            "Jordy Ranft": {
+                "args": []
+            },
+            "Willem Dafoe": {
+                "args": []
+            },
+            "Elizabeth Perkins": {
+                "args": []
+            },
+            "Erica Beck": {
+                "args": []
+            },
+            "Alexander Gould": {
+                "args": []
+            },
+            "Ellen DeGeneres": {
+                "args": [
+                    [
+                        "13_i was swept up in its dazzling stream of rainbow corals, amused by the stoner turtles going with the flow, sharks battling their own regressive instincts and degeneres' scatterbrained dory.",
+                        0.6964218119950687
+                    ]
+                ]
+            },
+            "Joe Ranft": {
+                "args": []
+            },
+            "Bruce Spence": {
+                "args": []
+            },
+            "Bob Peterson": {
+                "args": []
+            },
+            "Nicolas Bird": {
+                "args": []
+            },
+            "Bill Hunter": {
+                "args": []
+            },
+            "Geoffrey Rush": {
+                "args": []
+            },
+            "Vicki Lewis": {
+                "args": []
+            },
+            "Eric Bana": {
+                "args": []
+            },
+            "Albert Brooks": {
+                "args": [
+                    [
+                        "2_finding nemo is laced with smart humor and clever gags, and buoyed by another cheery story of mismatched buddies: a pair of fish voiced by albert brooks and ellen degeneres.",
+                        0.8074202938109853
+                    ],
+                    [
+                        "4_while mr. brooks is very funny, ms. degeneres gives a bravura comic performance, as well as a touching one.",
+                        0.863754604245814
+                    ],
+                    [
+                        "51_it's the give-and-take between degeneres and brooks that gives the saga its big heart.",
+                        0.7425429466812031
+                    ]
+                ]
+            },
+            "Andrew Stanton": {
+                "args": [
+                    [
+                        "29_one of the strongest releases from disney in years, thanks to the work of andrew stanton, possibly one of the most successful directors you've never heard of.",
+                        0.9010490005211513
+                    ],
+                    [
+                        "38_erupts with sea creatures that showcase stanton and company's gift for character and peerless eye for skewering contemporary culture.",
+                        0.706366312124313
+                    ]
+                ]
+            },
+            "Austin Pendleton": {
+                "args": []
+            },
+            "Nicholas Bird": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Stanton": {
+                "args": [
+                    [
+                        "29_one of the strongest releases from disney in years, thanks to the work of andrew stanton, possibly one of the most successful directors you've never heard of.",
+                        0.9010490005211513
+                    ],
+                    [
+                        "38_erupts with sea creatures that showcase stanton and company's gift for character and peerless eye for skewering contemporary culture.",
+                        0.706366312124313
+                    ]
+                ]
+            },
+            "Lee Unkrich": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "32_a dazzling, computer-animated fish tale with a funny, touching script and wonderful voice performances that make it an unqualified treat for all ages.",
+                0.9058984074084973
+            ],
+            [
+                "38_erupts with sea creatures that showcase stanton and company's gift for character and peerless eye for skewering contemporary culture.",
+                0.706366312124313
+            ]
+        ],
+        "entities": {
+            "Andrew Stanton": {
+                "args": []
+            },
+            "Bob Peterson": {
+                "args": []
+            },
+            "David Reynolds": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_like pixar's previous films, finding nemo mines humor from the oddities of an unknown world ",
+                0.7627133952833072
+            ],
+            [
+                "3_ stays grounded in a familiar one, finding recognizable elements of heartbreak and happiness amid the ink-jetting octopi and irritable flounders.",
+                0.7046633971498872
+            ],
+            [
+                "5_a genuinely funny and touching film that, in less than a decade, has established itself as a timeless classic.",
+                0.7524474135988963
+            ],
+            [
+                "12_, every frame packed to the gills with clever details, finding nemo is the best big-studio release so far this year.",
+                0.8500161165225388
+            ],
+            [
+                "14_finding nemo works terribly hard for every scrap of charm or humor it imparts.",
+                -0.5171132400852574
+            ],
+            [
+                "17_finding nemo is terrific entertainment.",
+                0.6634718694591288
+            ],
+            [
+                "20_finding nemo will engross kids with its absorbing story, brightly drawn characters and lively action, and grown-ups will be equally entertained by the film's subtle humor and the sophistication of its visuals.",
+                0.8396458951382315
+            ],
+            [
+                "24_finding nemo isn't quite up there with the company's finest work -- there's finally a sense of formula setting in -- ",
+                0.5849842852665988
+            ],
+            [
+                "24_ it's hands down the best family film since monsters, inc.",
+                0.8114975913790583
+            ],
+            [
+                "25_a vivid charmer of a movie that makes a welcome addition to the growing gallery of computer-generated animated features.",
+                0.8560152587823799
+            ],
+            [
+                "26_a superb animated film.",
+                0.8321247739226109
+            ],
+            [
+                "36_as we now expect from pixar, even the supporting fish in \"finding nemo\" are more developed as characters than any human in the mission: impossible movies.",
+                0.6269260243464952
+            ],
+            [
+                "37_visual imagination and sophisticated wit raise finding nemo to a level just below the peaks of pixar's toy story movies and monsters, inc..",
+                0.7722894116452557
+            ],
+            [
+                "42_ this perfectly enchanting movie knows how to cater to its kiddie audience without condescending to them.",
+                0.5520628468408035
+            ],
+            [
+                "47_as gorgeous a film as disney's ever put out, with astonishing qualities of light, movement, surface and color at the service of the best professional imaginations money can buy.",
+                0.9094446322744355
+            ]
+        ]
+    }
+}

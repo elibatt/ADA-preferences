@@ -1,0 +1,191 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Robert Gordon": {
+                "args": []
+            },
+            "Morgan Neville": {
+                "args": [
+                    [
+                        "0_this doc about the 10-night series, directed by robert gordon and morgan neville (who won an oscar last year for twenty feet from stardom), provides an entertaining and, ultimately, depressing peek into tv at a pivotal moment.",
+                        0.6023467319688589
+                    ],
+                    [
+                        "29_the two men made serious policy discussions wickedly entertaining and decidedly personal, and neville and gordon knew that they had a gold mine in the debate footage that is the centerpiece of their movie.",
+                        0.7057145844023847
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Brooke Gladstone": {
+                "args": []
+            },
+            "Christopher Hitchens": {
+                "args": []
+            },
+            "William F. Buckley": {
+                "args": [
+                    [
+                        "2_most say vidal, since buckley descended to physical threats.",
+                        -0.5138082275705943
+                    ],
+                    [
+                        "9_vidal vs. buckley-or, as i prefer to think of it, alien vs. predator-has not improved with age.",
+                        -0.5342969577719143
+                    ],
+                    [
+                        "12_except what we have now, as opposed to the vidal-buckley confrontations, is a lot more yammery than eloquent.",
+                        0.5349916975931325
+                    ],
+                    [
+                        "14_ unsatisfying exploration of a series of exchanges between conservative buckley and liberal vidal makes its case too little and too late.",
+                        -0.5877269995231944
+                    ],
+                    [
+                        "30_[a] delightful account of the infamous televised debates between liberal firebrand gore vidal and conservative gadfly william f. buckley, jr., during the 1968 republican and democratic conventions.",
+                        0.6534135736375093
+                    ],
+                    [
+                        "31_the on-camera clashes between william f. buckley jr. and gore vidal are vividly and entertainingly recounted in this fascinating documentary.",
+                        0.7165556385161387
+                    ]
+                ]
+            },
+            "Fred Kaplan": {
+                "args": []
+            },
+            "Matt Tyrnauer": {
+                "args": []
+            },
+            "Dick Cavett": {
+                "args": []
+            },
+            "Reid Buckley": {
+                "args": []
+            },
+            "Sam Tanenhaus": {
+                "args": []
+            },
+            "Linda Bridges": {
+                "args": []
+            },
+            "Ginia Bellafante": {
+                "args": []
+            },
+            "John McWhorter": {
+                "args": []
+            },
+            "Gore Vidal": {
+                "args": [
+                    [
+                        "18_buckley and vidal may rest in peace, ",
+                        0.6726839311786464
+                    ]
+                ]
+            },
+            "Eric Alterman": {
+                "args": []
+            },
+            "Kelsey Grammer": {
+                "args": []
+            },
+            "Christopher Lehmann-Haupt": {
+                "args": []
+            },
+            "Noam Chomsky": {
+                "args": []
+            },
+            "Christopher Lehmann Haupt": {
+                "args": []
+            },
+            "Todd Gitlin": {
+                "args": []
+            },
+            "George Merlis": {
+                "args": []
+            },
+            "John Lithgow": {
+                "args": []
+            },
+            "Lee Edwards": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Robert Gordon": {
+                "args": []
+            },
+            "Morgan Neville": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_it was true then and it's true now, and \"best of enemies\" serves as a thoroughly enjoyable reminder.",
+                0.8700889805133276
+            ],
+            [
+                "4_for better or for worse, we'll never again see television quite like that documented in the compelling \"best of enemies\" ...",
+                -0.5200464227987671
+            ],
+            [
+                "5_like its two subjects, \"best of enemies\" is lively and smart.",
+                0.8306934049191625
+            ],
+            [
+                "6_best of enemies offers a bracing view of a pivotal time in our recent history, as vietnam and race riots scarred a nation's soul, and as the establishment and the counter culture exchanged epithets and blows.",
+                0.8217804340676941
+            ],
+            [
+                "10_best of enemies leaves you with an overwhelming sense of despair.",
+                0.8084960080507534
+            ],
+            [
+                "11_best of enemies plays not only as a lively document of an engaging - and insanely entertaining - intellectual rivalry, ",
+                0.8004052982412126
+            ],
+            [
+                "12_the film positions those debates as a harbinger of the ideological sword-crossing that has become a staple of tv news.",
+                0.6761798778699945
+            ],
+            [
+                "15_\"best of enemies\" is an undisciplined ",
+                0.7009552681221627
+            ],
+            [
+                "16_\"the best of enemies\" provides a rich, extraordinarily fascinating account that's sure to have many viewers' minds constantly shuttling between then and now ...",
+                0.9030682363669835
+            ],
+            [
+                "17_fleet, brutally funny and ultimately mournful for the lost art of informed public intellectuals brandishing wounding insights, the film is a fizzy bath of expertly organized archival footage and commentary ...",
+                0.6810889221745701
+            ],
+            [
+                "20_a must-view film for our media-besotted age ...",
+                0.6883274850568974
+            ],
+            [
+                "23_\"best of enemies\" illustrates how even literary swashbucklers can be reduced to schoolboy behavior.",
+                0.6251802197602909
+            ],
+            [
+                "28_for american viewers of an intellectual/historical persuasion, there could scarcely be any documentary more enticing, scintillating and downright fascinating than best of enemies.",
+                0.744865872335295
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

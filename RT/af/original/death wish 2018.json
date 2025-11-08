@@ -1,0 +1,143 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_in that limited sense, \"death wish\" is a success, albeit one that action fans should wait to see on netflix.",
+                0.5134750815073243
+            ],
+            [
+                "2_the film cranks up the audience with little jokes and references, and gets the audience cheering for the grim reaper before they even realize what they're cheering for -- and therein lies the problem.",
+                -0.5411273808849858
+            ],
+            [
+                "3_he's not remaking death wish.",
+                -0.698007644801294
+            ],
+            [
+                "6_by most metrics, this death wish is a better movie than the first one.",
+                0.5351820693368518
+            ],
+            [
+                "8_again and again, death wish feels anything ",
+                -0.7146475891213252
+            ],
+            [
+                "12_it's the absolute wrong movie at the absolute wrong time.",
+                -0.6370892892663924
+            ],
+            [
+                "13_to criticize death wish for its indelicate timing would be to suggest that there might ever be an appropriate moment to see it.",
+                0.6260443580147216
+            ],
+            [
+                "15_death wish -- the 2018 version -- is riddled with more plot holes than bullet holes.",
+                -0.5258656969401585
+            ],
+            [
+                "18_willis is a worthy replacement for bronson, and it can be safely said: this new movie is way better than all the \"death wish\" sequels that bronson kept churning out, the last when he was 72.",
+                -0.6137423262134212
+            ],
+            [
+                "23_\"death wish,\" make no mistake, is a movie that has its heart in the wrong place.",
+                -0.8117181218845353
+            ],
+            [
+                "24_ironically, a film about a guy with guts doesn't have any itself.",
+                -0.7078377273635729
+            ],
+            [
+                "26_there are a hundred things wrong with \"death wish,\" ",
+                -0.7930287238881424
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Eli Roth": {
+                "args": [
+                    [
+                        "4_it's fair to ask what new things eli roth and bruce willis bring to death",
+                        0.5153369248007955
+                    ],
+                    [
+                        "10_it's very obvious that roth doesn't really care about the film's political baggage - he just wants an excuse to have bruce willis shoot battery acid into a guy's sciatic nerve and watch the blood.",
+                        -0.7842460432476903
+                    ],
+                    [
+                        "20_roth and carnahan do an ok job updating death wish, combining the horror elements (and torture porn) that is roth's stock in trade with the gallows humour that is carnahan's.",
+                        0.6430282862040146
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Joe Carnahan": {
+                "args": [
+                    [
+                        "20_roth and carnahan do an ok job updating death wish, combining the horror elements (and torture porn) that is roth's stock in trade with the gallows humour that is carnahan's.",
+                        0.6430282862040146
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Camila Morrone": {
+                "args": []
+            },
+            "Elisabeth Shue": {
+                "args": []
+            },
+            "Kimberly Elise": {
+                "args": []
+            },
+            "Bruce Willis": {
+                "args": [
+                    [
+                        "4_it's fair to ask what new things eli roth and bruce willis bring to death",
+                        0.5153369248007955
+                    ],
+                    [
+                        "7_it asks nothing, and offers only the blanket assertion that feelings of masculine inadequacy - \"the most important thing a man can do is protect his family, and i failed,\" willis declaims - can be obviated ballistically.",
+                        0.5199854730361069
+                    ],
+                    [
+                        "10_it's very obvious that roth doesn't really care about the film's political baggage - he just wants an excuse to have bruce willis shoot battery acid into a guy's sciatic nerve and watch the blood.",
+                        -0.7842460432476903
+                    ],
+                    [
+                        "14_the film, much like willis' performance, never flatlines, ",
+                        0.5470253865348204
+                    ],
+                    [
+                        "16_just as no one will ever truly know why willis jumped aboard, or who ",
+                        -0.6381025117165997
+                    ],
+                    [
+                        "19_though armed with enough gore and pandering violence to enjoy some success with moviegoers who haven't yet been burned by star bruce willis' many recent flops,",
+                        0.5066918455949567
+                    ]
+                ]
+            },
+            "Dean Norris": {
+                "args": []
+            },
+            "Vincent D'Onofrio": {
+                "args": []
+            },
+            "Beau Knapp": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

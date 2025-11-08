@@ -1,0 +1,107 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_one of the great movie horror tales, with one of the greatest of all movie villains.",
+                0.8958260857370874
+            ],
+            [
+                "2_ultimately the source of its style and power is mysterious -- it is a film without precedents, and without any real equals",
+                0.6809149651917945
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Charles Laughton": {
+                "args": [
+                    [
+                        "3_this start for gregory as producer and laughton as director is rich in promise ",
+                        0.6563860453713137
+                    ],
+                    [
+                        "4_all this has been crisply compacted into clear screen drama by the late james agee and it is put forth under the direction of mr. laughton in stark, rigid visual terms.",
+                        0.7493376327830725
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Robert Mitchum": {
+                "args": [
+                    [
+                        "6_one of the most chilling suspense films ever made, it's also the finest role of robert mitchum.",
+                        0.8232568787559774
+                    ],
+                    [
+                        "8_laughton creates terrific tension between mitchum and his prey, turning the preacher into a bloodthirsty wolf and willa's children into tender lambs.",
+                        0.7352374109486242
+                    ]
+                ]
+            },
+            "Don Beddoe": {
+                "args": []
+            },
+            "Shelley Winters": {
+                "args": []
+            },
+            "Peter Graves": {
+                "args": []
+            },
+            "Cheryl Callaway": {
+                "args": []
+            },
+            "Sally Jane Bruce": {
+                "args": []
+            },
+            "Billy Chapin": {
+                "args": []
+            },
+            "Corey Allen": {
+                "args": []
+            },
+            "James Gleason": {
+                "args": []
+            },
+            "Evelyn Varden": {
+                "args": []
+            },
+            "Mary Ellen Clemons": {
+                "args": []
+            },
+            "Paul Bryar": {
+                "args": []
+            },
+            "Walter Schumann": {
+                "args": []
+            },
+            "Gloria Castillo": {
+                "args": []
+            },
+            "Lillian Gish": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "James Agee": {
+                "args": [
+                    [
+                        "4_all this has been crisply compacted into clear screen drama by the late james agee and it is put forth under the direction of mr. laughton in stark, rigid visual terms.",
+                        0.7493376327830725
+                    ]
+                ]
+            }
+        }
+    }
+}

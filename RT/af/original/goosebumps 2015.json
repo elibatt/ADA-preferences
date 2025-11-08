@@ -1,0 +1,227 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_the film doesn't try hard to make the case that hannah's as \"real\" as anyone else ",
+                -0.8223184711900264
+            ],
+            [
+                "1_that's goosebumps's implicit premise when it comes to the monsters, after all.",
+                -0.661321144189958
+            ],
+            [
+                "3_but goosebumps, knowing its audience,",
+                0.5718029653118653
+            ],
+            [
+                "5_goosebumps isn't detached or ironic, nor does it pretend to be something it's not.",
+                -0.6963554825325587
+            ],
+            [
+                "7_the film goes too wide and gets a little soft at the end, ",
+                -0.6531116205593589
+            ],
+            [
+                "7_it's the rare horror film - well, sort of horror - that you and your children can enjoy together.",
+                0.8576719426823136
+            ],
+            [
+                "8_\"goosebumps\" would seem to yield the serial pleasures a voracious stineophile might desire.",
+                -0.5393274544975318
+            ],
+            [
+                "10_we've gotten this halloween, and definitely not just a bigger-budgeted version of the \"goosebumps\" seen on tv.",
+                0.511892835770568
+            ],
+            [
+                "11_goosebumps fulfills its purpose, and that's what matters.",
+                0.6394998831617774
+            ],
+            [
+                "12_a tongue-in-cheek love note to spook stories of yesteryear, \"goosebumps\" is a kid-friendly crowd pleaser adults can love, too.",
+                0.7411321073044771
+            ],
+            [
+                "13_silly, spooky monster mash-up \"goosebumps\" doesn't have to be as good as it is.",
+                0.566987787257659
+            ],
+            [
+                "14_this goosebumps ride may be bumpy, ",
+                0.6453863829379383
+            ],
+            [
+                "15_goosebumps is chock full of fun moments whether they're all logical or not, and it's an adventure that should appeal to both young viewers new the series and older readers who devoured them as kids.",
+                0.8350963916877056
+            ],
+            [
+                "16_the production values are better suited for a television movie, and the music, by danny elfman, is distractingly intrusive.",
+                0.5708237669822452
+            ],
+            [
+                "17_as effects-heavy time-wasters go, goosebumps is mostly harmless, even sporadically amusing.",
+                0.5179431889739716
+            ],
+            [
+                "18_the movie is breezy and fun, offering thrills for kids and a nicely nostalgic matinee vibe for adults.",
+                0.774664537470597
+            ],
+            [
+                "23_ just going from his weird, wonderful work, every scene in the movie feels authentic compared with the version i carry of him in my head.",
+                0.5507903585403914
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rob Letterman": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Odeya Rush": {
+                "args": []
+            },
+            "Timothy C. Simons": {
+                "args": []
+            },
+            "Amanda Lund": {
+                "args": []
+            },
+            "Ella Wahlestedt": {
+                "args": []
+            },
+            "Erica Marie Sanchez": {
+                "args": []
+            },
+            "Dylan Minnette": {
+                "args": []
+            },
+            "John Deifer": {
+                "args": []
+            },
+            "Gabriela Fraile": {
+                "args": []
+            },
+            "Sheldon Brown": {
+                "args": []
+            },
+            "Everett Dixon": {
+                "args": []
+            },
+            "Jack Black": {
+                "args": [
+                    [
+                        "3_jack black fires up a stampede of comic terrors ready made for halloween.",
+                        0.5102124678705642
+                    ]
+                ]
+            },
+            "Halston Sage": {
+                "args": []
+            },
+            "Jason A. Davis": {
+                "args": []
+            },
+            "Caleb Emery": {
+                "args": []
+            },
+            "Karan Soni": {
+                "args": []
+            },
+            "Melissa Cowan": {
+                "args": []
+            },
+            "Ryan Scott Lee": {
+                "args": []
+            },
+            "Keith Arthur Bolden": {
+                "args": []
+            },
+            "Ken Marino": {
+                "args": []
+            },
+            "Marshall Choka": {
+                "args": []
+            },
+            "Cooper Ryan Lee": {
+                "args": []
+            },
+            "Clare Halstead": {
+                "args": []
+            },
+            "R.L. Stine": {
+                "args": [
+                    [
+                        "6_at a guess, i'd say that goosebumps will satisfy its core audience - fans of r.l. stine's popular children's books - and bore pretty much everyone else.",
+                        -0.5185170121083947
+                    ],
+                    [
+                        "19_the pace is great, with the last hour being an all-out monster attack, as all of stine's creatures - a werewolf, zombies, a mummy, murderous garden trolls and a particularly sarcastic ventriloquist's dummy - go on the rampage.",
+                        0.514350238551211
+                    ],
+                    [
+                        "23_i have no idea as to the extent of the actual stine's peculiarities, ",
+                        -0.7582879796218176
+                    ],
+                    [
+                        "25_the filmmakers, to their great credit, spend more than half the running time bending their studio tentpole release to the spirit of stine rather than cramming goosebumps into their template.",
+                        0.6172405953213933
+                    ]
+                ]
+            },
+            "Jared Sandler": {
+                "args": []
+            },
+            "Nate Andrade": {
+                "args": []
+            },
+            "Jillian Bell": {
+                "args": [
+                    [
+                        "20_jillian bell's brief scenes as zach's bedazzling-obsessed singleton aunt are fun.",
+                        0.7078876572670165
+                    ]
+                ]
+            },
+            "Amy Ryan": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Steven Krueger": {
+                "args": []
+            },
+            "Melissa Eastwood": {
+                "args": []
+            },
+            "Melissa Brewer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Larry Karaszewski": {
+                "args": []
+            },
+            "Darren Lemke": {
+                "args": [
+                    [
+                        "20_so is darren lemke's solid script, which leans heavily on groaners and bad jokes to balance scares.",
+                        -0.7055046496453334
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

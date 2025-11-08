@@ -1,0 +1,109 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "20_taylor-johnson's agonized performance holds the audience's attention, ",
+                0.672522983591742
+            ],
+            [
+                "20_ his portrayal doesn't really take the character anywhere.",
+                -0.5280662098034453
+            ]
+        ],
+        "entities": {
+            "Aaron Taylor-Johnson": {
+                "args": [
+                    [
+                        "0_the increasingly impressive taylor-johnson dominates the screen time.",
+                        -0.5020248356240683
+                    ],
+                    [
+                        "14_an exceptional showcase for taylor-johnson, who carries the film completely on his shoulders.",
+                        0.7522063565353585
+                    ],
+                    [
+                        "18_the central performances by taylor-johnson and cena stick to the life-and-death business at hand, which is also the stuff of blood, sweat, some tears ",
+                        0.6439141837466593
+                    ]
+                ]
+            },
+            "John Cena": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "23_a mostly satisfying genre soufflé, guided by a skilled director who seems to be all in on this minimalist filmmaking opportunity.",
+                0.5713240360684607
+            ]
+        ],
+        "entities": {
+            "Doug Liman": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "20_ his portrayal doesn't really take the character anywhere.",
+                -0.5280662098034453
+            ]
+        ],
+        "entities": {
+            "Dwain Worrell": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_this is a smart, gritty, quietly chaotic war movie which resonates far beyond its purposely small scale.",
+                0.7144747079294832
+            ],
+            [
+                "4_the wall is the best kind of war film, one that expresses both the brutality of combat and the ambiguity of conflict.",
+                0.9196361832964088
+            ],
+            [
+                "6_the film's close focus on one or two individuals makes the situation that much scarier, the fear that much more intense.",
+                0.6942038315597684
+            ],
+            [
+                "6_and it makes the overall impact of the wall that much more profound.",
+                0.6969171310736222
+            ],
+            [
+                "7_the wall is tense and dynamic, tremendously active within the narrow parameters of the action.",
+                0.614601647030205
+            ],
+            [
+                "11_liman does good work in making the disembodied voice into a man, and in fitting a dialogue-heavy drama into the framework of an action film where the action is minimal ",
+                -0.5928264154501075
+            ],
+            [
+                "13_\"the wall\" is merely an exercise in empty intensity.",
+                -0.657095668335334
+            ],
+            [
+                "15_\"the wall\" is not the sort of movie that entertains.",
+                -0.6768977391855712
+            ],
+            [
+                "16_cena both looks the part and acts it, and gets to spout the movie's best bit of amusingly macho, off-color grousing about the heat.",
+                0.7016813243587009
+            ],
+            [
+                "22_this small and lazy film -- featuring two actors, one evil voice and a crumbling stone wall -- attempts to be deep and even existential ",
+                -0.6287711304564596
+            ]
+        ]
+    }
+}

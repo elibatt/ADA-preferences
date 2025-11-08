@@ -1,0 +1,143 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Aomi Muyock": {
+                "args": []
+            },
+            "Omaima S.": {
+                "args": []
+            },
+            "Ugo Fox": {
+                "args": []
+            },
+            "Klara Kristin": {
+                "args": []
+            },
+            "Aaron Pages": {
+                "args": []
+            },
+            "Juan Saavedra": {
+                "args": []
+            },
+            "Karl Glusman": {
+                "args": []
+            },
+            "Xamira Zuloaga": {
+                "args": []
+            },
+            "Deborah Révy": {
+                "args": []
+            },
+            "Isabelle Nicou": {
+                "args": []
+            },
+            "Benoît Debie": {
+                "args": []
+            },
+            "Stella Rocha": {
+                "args": []
+            },
+            "Vincent Maraval": {
+                "args": []
+            },
+            "Jean Couteau": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Gaspar Noé": {
+                "args": [
+                    [
+                        "0_cinematic satisfaction is denied in love 3d, an exercise in bedroom boredom by france's gaspar noé.",
+                        0.6202071762103503
+                    ],
+                    [
+                        "4_when \"love\" works, noé achieves a lulling, melancholic frenzy about sex and memory, ",
+                        0.7896100653387358
+                    ],
+                    [
+                        "15_what little story there is noé has chopped into small bits and spread out sparingly, like a chef squeezing a feast from a meager pantry.",
+                        -0.531742816305999
+                    ],
+                    [
+                        "18_ as his movie chronicles that desire rather than realizing it, noé mainly succeeds at broadcasting his intentions.",
+                        0.6429641539596769
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "10_ a little more character dimension would have made these between-the-sheet sessions a lot more charged.",
+                0.5470824112040593
+            ]
+        ],
+        "entities": {
+            "Gaspar Noé": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_noé deserves credit for putting sex so boldly at the front and center of his new romance and depicting it as an essential part of love and life that's largely left off screen.",
+                0.6996282530773099
+            ],
+            [
+                "2_because, noe might reply, that's what love looks and feels like for a generation raised on porn, self-affirmation, and hookups.",
+                0.6196266336735532
+            ],
+            [
+                "4_ the foundation isn't strong enough to make his movie ever seem more than a stereoscopic fermata: one envelope-pushing note held way too long.",
+                -0.7658142420997508
+            ],
+            [
+                "6_shot for shot it's a gorgeous film with a romantic naturalism that's wonderful to get swept up in.",
+                0.8883773168295908
+            ],
+            [
+                "9_\"love\" drags on and on, alternating between arguments and intimacy, breakups and makeups.",
+                0.508060280120813
+            ],
+            [
+                "9_the movie never passes the authenticity test",
+                -0.5384773885345313
+            ],
+            [
+                "11_\"love\" may not always be enjoyable, ",
+                0.7604017931891422
+            ],
+            [
+                "12_as if all its artistic energy had been gobbled up by the fornication, \"love\" has nothing left with which to build its characters or set them in motion.",
+                -0.656274907800983
+            ],
+            [
+                "13_perhaps the lovemaking would have more juice if the characters weren't so shallow, and their dialogue so flat.",
+                -0.8220575943749859
+            ],
+            [
+                "14_ironic that a movie that's so explicitly about intimacy should only feel intimate when it gets its characters to leave the house.",
+                -0.5899932138191966
+            ],
+            [
+                "16_glusman's failure to rise to the occasion (except in one sense) makes \"love'' a chore to sit through.",
+                -0.7306930453616213
+            ],
+            [
+                "18_that's an achievement in its own right, if not enough to make for a satisfying movie.",
+                0.6450612721679665
+            ]
+        ]
+    }
+}

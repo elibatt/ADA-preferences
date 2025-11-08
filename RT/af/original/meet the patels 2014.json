@@ -1,0 +1,156 @@
+{
+    "film": {
+        "args": [
+            [
+                "5_the patels ends up being much more than a movie about a guy going out on dates.",
+                -0.6385493569758236
+            ],
+            [
+                "6_it's a delight of a film, ",
+                0.7167731732872478
+            ],
+            [
+                "6_which is quite a bit of stuff for a movie that's just plain fun to watch.",
+                -0.5883925335956542
+            ],
+            [
+                "10_these are universal subjects, so one does not have to be of indian descent to appreciate \"meet the patels.",
+                -0.5187038965925086
+            ],
+            [
+                "11_\"meet the patels\" is a tidy, easygoing documentary in which peripheral players prove more intriguing than its central focus.",
+                0.523811309965613
+            ],
+            [
+                "13_only in the heartfelt closing minutes does the film cut any deeper than a tired episode of a sitcom about children of immigrants complaining about their hopelessly old-fashioned parents.",
+                -0.6852314298031413
+            ],
+            [
+                "15_meet the patels is unquestionably navel-gazing, ",
+                0.5073013325251234
+            ],
+            [
+                "17_\"meet the patels\" is warm and loaded with laughs, and it might even create some intercultural understanding.",
+                0.7129355945100355
+            ],
+            [
+                "18_the film ends on a fairly predictable note, ",
+                -0.6399348297564708
+            ],
+            [
+                "19_meet the patels is a fascinating window into the cultural practice of arranged marriages through a contemporary lens and anyone who's been through the trials and tribulations of dating (or parenting those who are) can relate.",
+                0.7438789194811489
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Geeta Patel": {
+                "args": []
+            },
+            "Ravi Patel": {
+                "args": [
+                    [
+                        "14_ less interesting are the scenes of patel courting his prospective brides, which play like reality tv.",
+                        0.5198956146151111
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Daxesh Patel": {
+                "args": []
+            },
+            "Medha Patyel": {
+                "args": []
+            },
+            "Medha Patel": {
+                "args": []
+            },
+            "Amisha Desai": {
+                "args": []
+            },
+            "Rali Amin": {
+                "args": []
+            },
+            "Chandar Abboy": {
+                "args": []
+            },
+            "Aruna Patel": {
+                "args": []
+            },
+            "Dharmindra Patel": {
+                "args": []
+            },
+            "Kanu Patel": {
+                "args": []
+            },
+            "Vasant K. Patel": {
+                "args": []
+            },
+            "Champa V. Patel": {
+                "args": []
+            },
+            "Geeta Patel": {
+                "args": []
+            },
+            "Chirag Desai": {
+                "args": []
+            },
+            "Jyotsina Desai": {
+                "args": []
+            },
+            "Bakula Patel": {
+                "args": []
+            },
+            "Sunkrish Bala": {
+                "args": []
+            },
+            "Ankur Desai": {
+                "args": []
+            },
+            "Nipa Patel": {
+                "args": []
+            },
+            "Ravi Patel": {
+                "args": [
+                    [
+                        "14_ less interesting are the scenes of patel courting his prospective brides, which play like reality tv.",
+                        0.5198956146151111
+                    ]
+                ]
+            },
+            "Audrey Alison Wauchope": {
+                "args": []
+            },
+            "Paresh Desai": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Geeta Patel": {
+                "args": []
+            },
+            "Ravi Patel": {
+                "args": []
+            },
+            "Billy McMillin": {
+                "args": []
+            },
+            "Matthew Hamachek": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jimmy O. Yang": {
+                "args": []
+            },
+            "Rose Byrne": {
+                "args": [
+                    [
+                        "4_you have to swallow a lot to buy into \"juliet, naked\" - including the preposterous notion that anyone could ignore rose byrne - ",
+                        -0.6350857181765278
+                    ],
+                    [
+                        "6_like ethan hawke, rose byrne is an actor who can do just about anything when given the opportunity.",
+                        0.5849682301635748
+                    ],
+                    [
+                        "11_well, the soundtrack is pretty swell, and it's really great to see rose byrne get a chance to shine.",
+                        0.8467032832259918
+                    ],
+                    [
+                        "12_ partly saved by the vibrant acting of chris o'dowd, ethan hawke and the glorious rose byrne.",
+                        0.5889936676049429
+                    ],
+                    [
+                        "19_ juliet, naked has its charms, and they are named rose byrne and ethan hawke.",
+                        0.5103080566514873
+                    ],
+                    [
+                        "20_the plot is essentially a wisp, and byrne is far too luminous for her sad-sack role.",
+                        -0.7154539779552369
+                    ]
+                ]
+            },
+            "Ethan Hawke": {
+                "args": []
+            },
+            "Megan Dodds": {
+                "args": []
+            },
+            "Lily Newmark": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jesse Peretz": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jim Taylor (III) ": {
+                "args": []
+            },
+            "Tamara Jenkins": {
+                "args": []
+            },
+            "Evgenia Peretz": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the plot is really secondary to the piece, which is not something i'd ever expect to say about a work conceived by nick hornby.",
+                -0.6813423701760988
+            ],
+            [
+                "11_if you like hornby's work, you'll like \"juliet, naked.",
+                0.5355219583716256
+            ],
+            [
+                "14_what beguiles, aside from the winning performances, are the movie's generous spirit, shifting tone, and wealth of quickly sketched yet sufficiently realized supporting characters.",
+                0.7326629026481127
+            ],
+            [
+                "15_a charming film of an engaging, adult nature about two very different people trying to press reset in their lives",
+                0.8652596457168685
+            ],
+            [
+                "20_ juliet still feels winning",
+                -0.5227000270023046
+            ]
+        ]
+    }
+}

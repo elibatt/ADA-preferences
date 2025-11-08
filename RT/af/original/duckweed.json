@@ -1,0 +1,50 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Han Han": {
+                "args": []
+            },
+            "Zhang Hongwei": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_for all of its serious themes, duckweed has a whimsical, magical realist sensibility, underscored by quirky musical montages and a penchant for american country songs.",
+                0.7331652222815533
+            ],
+            [
+                "1_more relaxed and carefree than any of the lunar new year blockbusters jostling for the holiday crowd, the film is sprinkled with witty grace notes and is crowd-pleasing without being too ingratiating or idiotic.",
+                0.650142371591997
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Chao Deng": {
+                "args": []
+            },
+            "Eddie Peng": {
+                "args": []
+            },
+            "Dong Zijian": {
+                "args": []
+            },
+            "Zanilia Zhao": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

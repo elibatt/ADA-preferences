@@ -1,0 +1,230 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_i won't spoil the movie's ending, ",
+                -0.5768922166867969
+            ],
+            [
+                "2_the movie, while amusing in spots, too often plays like a moderately decent tv-reunion show that's diminished by its attempt to be a theatrical feature.",
+                -0.5578620119428299
+            ],
+            [
+                "7_it is at times very funny and its unwillingness to pull punches (which, it must be noted, doesn't always work) is bracing.",
+                0.6105631246698145
+            ],
+            [
+                "8_like so many small-screen-to-big-screen efforts, \"absolutely fabulous: the movie\" isn't really a movie, just a stretched-out tv episode with a parade of cameos and boatloads of champagne.",
+                -0.6774763443554053
+            ],
+            [
+                "10_like the bbc sitcom that inspired it, \"absolutely fabulous: the movie\" is a raucously funny, often endearing, subversively feminist, bloody good time.",
+                0.7373253138352086
+            ],
+            [
+                "17_ hilarious antics of this dynamic duo that make this movie a very fun romp.",
+                0.7754999000585691
+            ],
+            [
+                "19_this is a movie for fans of the show -- who should get everything they could want from it.",
+                0.5018970014673505
+            ],
+            [
+                "21_the film coasts from one-liner to one-liner, open bar to open bar-kind of like our heroines' lives, actually.",
+                0.6065351304785243
+            ],
+            [
+                "22_if you enjoyed the brash british sitcom, you will have a blast at the film.",
+                0.8149484395251763
+            ],
+            [
+                "23_as a movie based on a tv show, \"ab fab\" succeeds.",
+                0.5642551096395999
+            ],
+            [
+                "28_to transform a tv series into a film is to surround yourself with pitfalls, and \"absolutely fabulous,\" sad to report, nosedives into every one of them.",
+                -0.5825849627694774
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mandie Fletcher": {
+                "args": [
+                    [
+                        "11_saunders, lumley, and director mandie fletcher deftly lampoon vaping, mindfulness, and the trendiness of gender fluidity.",
+                        0.6942609845614974
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Joan Collins": {
+                "args": []
+            },
+            "Julia Sawalha": {
+                "args": []
+            },
+            "Barry Humphries": {
+                "args": []
+            },
+            "Jourdan Dunn": {
+                "args": []
+            },
+            "Celia Imrie": {
+                "args": []
+            },
+            "Mark Gatiss": {
+                "args": []
+            },
+            "Kathy Burke": {
+                "args": []
+            },
+            "Chris Colfer": {
+                "args": []
+            },
+            "Robert Webb": {
+                "args": []
+            },
+            "June Whitfield": {
+                "args": []
+            },
+            "Stella McCartney": {
+                "args": []
+            },
+            "Kate Moss": {
+                "args": []
+            },
+            "Jon Hamm": {
+                "args": []
+            },
+            "Suki Waterhouse": {
+                "args": []
+            },
+            "Alex Jones": {
+                "args": []
+            },
+            "Christopher Ryan": {
+                "args": []
+            },
+            "Alexa Chung": {
+                "args": []
+            },
+            "Nick Grimshaw": {
+                "args": []
+            },
+            "Joanna Lumley": {
+                "args": [
+                    [
+                        "11_saunders, lumley, and director mandie fletcher deftly lampoon vaping, mindfulness, and the trendiness of gender fluidity.",
+                        0.6942609845614974
+                    ]
+                ]
+            },
+            "Nick Mohammed": {
+                "args": []
+            },
+            "Richard Arnold": {
+                "args": []
+            },
+            "Jane Horrocks": {
+                "args": []
+            },
+            "Gwendoline Christie": {
+                "args": []
+            },
+            "Lily Cole": {
+                "args": []
+            },
+            "Beattie Edmondson": {
+                "args": []
+            },
+            "Lulu": {
+                "args": []
+            },
+            "Miquita Oliver": {
+                "args": []
+            },
+            "Jennifer Saunders": {
+                "args": [
+                    [
+                        "1_ saunders and lumley are all about keeping the party going.",
+                        0.6338783066528798
+                    ],
+                    [
+                        "12_\"absolutely fabulous\" becomes tiresome, even if you really like saunders and lumley, and even if you sometimes find yourself smiling in advance, as if willing the jokes to be funny.",
+                        -0.5127387261410757
+                    ],
+                    [
+                        "25_despite some decent laughs and great chemistry between saunders and lumley,",
+                        0.6199421306681141
+                    ],
+                    [
+                        "30_jennifer saunders and joanna lumley give their all and drag the film bitching and boozing over the fine line between ropey tv transfer and riotous night out.",
+                        0.561518802795058
+                    ]
+                ]
+            },
+            "Emma Bunton": {
+                "args": []
+            },
+            "Dawn French": {
+                "args": []
+            },
+            "Mo Gaffney": {
+                "args": []
+            },
+            "Kimberly Kardashian": {
+                "args": []
+            },
+            "Graham Norton": {
+                "args": []
+            },
+            "Lara Stone": {
+                "args": []
+            },
+            "Daisy Lowe": {
+                "args": []
+            },
+            "Alesha Dixon": {
+                "args": []
+            },
+            "Indeyarna Donaldson-Holness": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jennifer Saunders": {
+                "args": [
+                    [
+                        "1_ saunders and lumley are all about keeping the party going.",
+                        0.6338783066528798
+                    ],
+                    [
+                        "12_\"absolutely fabulous\" becomes tiresome, even if you really like saunders and lumley, and even if you sometimes find yourself smiling in advance, as if willing the jokes to be funny.",
+                        -0.5127387261410757
+                    ],
+                    [
+                        "25_despite some decent laughs and great chemistry between saunders and lumley,",
+                        0.6199421306681141
+                    ],
+                    [
+                        "30_jennifer saunders and joanna lumley give their all and drag the film bitching and boozing over the fine line between ropey tv transfer and riotous night out.",
+                        0.561518802795058
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

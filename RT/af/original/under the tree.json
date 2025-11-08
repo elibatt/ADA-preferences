@@ -1,0 +1,90 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Lára Jóhanna Jónsdóttir": {
+                "args": []
+            },
+            "Sigurður Sigurjónsson": {
+                "args": []
+            },
+            "Edda Björgvinsdóttir": {
+                "args": []
+            },
+            "Þorsteinn Bachmann": {
+                "args": []
+            },
+            "Selma Björnsdóttir": {
+                "args": []
+            },
+            "Steinþór Hróar Steinþórsson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_a less interesting movie might simply have served up a headlong plunge into the abyss - ",
+                -0.5850161767774239
+            ],
+            [
+                "6_under the tree may be a demonstration of sayre's law, ",
+                0.540020142987708
+            ],
+            [
+                "9_the performances are convincing, each actor committed to a gently heightened naturalism no matter how outlandish the film's reality gets.",
+                0.7486862053328825
+            ],
+            [
+                "10_depraved comedy and intimate domestic drama fight for supremacy in iceland's under the tree -- a dark, discomfiting farce that plays like david lynch for the umlaut set.",
+                0.6052359804515961
+            ],
+            [
+                "11_hafsteinn sigurðsson's film begins as a trifling neighborhood dispute about an overgrown shade tree and ends as a violent tug-of-war with alarmingly high stakes.",
+                0.7419249194264439
+            ],
+            [
+                "12_what the film occasionally lacks in human finesse, it makes up for in sheer anything-goes resolve.",
+                0.7645290298867377
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Hafsteinn Gunnar Sigurdsson": {
+                "args": [
+                    [
+                        "2_ sigurdsson gives us a tiny flicker of light.",
+                        0.7365041434455312
+                    ],
+                    [
+                        "8_maintaining an unrelentingly gleeful grip on the film's tone, mr. sigurdsson skillfully whips absurdist comedy and chilling tragedy into a froth of surging hostilities.",
+                        0.6756996184156042
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_each character resonates as a problematic individual whose foolishness escalates first into drama, then tragedy.",
+                0.6640455321924175
+            ]
+        ],
+        "entities": {
+            "Huldar Breiðfjörð": {
+                "args": []
+            },
+            "Hafsteinn Gunnar Sigurdsson": {
+                "args": []
+            }
+        }
+    }
+}

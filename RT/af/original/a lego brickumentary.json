@@ -1,0 +1,124 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_the film exhibits an oddly promotional tone that might rub audiences wrong if it were hyping any another product.",
+                -0.700708386602668
+            ],
+            [
+                "4_ \"a lego brickumentary\" never really goes much deeper than that ...",
+                -0.7073533886032157
+            ],
+            [
+                "5_true, \"a lego brickumentary\" is a barely disguised hour-and-a-half commercial.",
+                -0.7689831245923905
+            ],
+            [
+                "6_a colorfully constructed film surveying the vastness of the lego universe that can't help ",
+                0.5243790597457095
+            ],
+            [
+                "7_\"a lego brickumentary\" might be a resounding cheer for a brand, ",
+                -0.6298254478853147
+            ],
+            [
+                "9_\"a lego brickumentary\" is great fun, for afols (adult fan of lego) or ",
+                0.8590775481513413
+            ],
+            [
+                "10_ it often feels like a company-bankrolled promo film,",
+                -0.6316111632965339
+            ],
+            [
+                "10_ a lego brickumentary answers all the questions both lego novices and lego nerds would want to know.",
+                0.5691074439863436
+            ],
+            [
+                "11_there's a bright curiosity to the movie that's anything ",
+                0.5969547445992295
+            ],
+            [
+                "12_a good movie probably could make us marvel at such trivia, ",
+                0.5954987614798585
+            ],
+            [
+                "12_ this seems like a lego movie designed for kids and afols, or adult fans of lego, as they call themselves.",
+                0.5351443988487801
+            ],
+            [
+                "15_even the interesting parts of \"a lego brickumentary\" aren't that interesting, ",
+                -0.6149864577354343
+            ],
+            [
+                "18_as a movie, it can be as annoying as stepping on a stray lego brick with your socks off.",
+                -0.7407798037884292
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kief Davidson": {
+                "args": []
+            },
+            "Daniel Junge": {
+                "args": [
+                    [
+                        "2_this glorified infomercial from directors kief davidson and daniel junge is indoctrination.",
+                        -0.5381700515469365
+                    ],
+                    [
+                        "21_directors daniel junge and kief davidson at least manage to cast a broad enough net to put the great big celebration in context: legos are hotter than ever, and this new documentary effectively tells you why.",
+                        0.6609466842464335
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "21_directors daniel junge and kief davidson at least manage to cast a broad enough net to put the great big celebration in context: legos are hotter than ever, and this new documentary effectively tells you why.",
+                0.6609466842464335
+            ]
+        ],
+        "entities": {
+            "David Pagano": {
+                "args": []
+            },
+            "Jason Bateman": {
+                "args": []
+            },
+            "Nathan Sawaya": {
+                "args": []
+            },
+            "Adam Reed Tucker": {
+                "args": []
+            },
+            "Jamie Berard": {
+                "args": []
+            },
+            "Alice Finch": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Davis Coombe": {
+                "args": []
+            },
+            "Kief Davidson": {
+                "args": []
+            },
+            "Daniel Junge": {
+                "args": []
+            }
+        }
+    }
+}

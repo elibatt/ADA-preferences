@@ -1,0 +1,258 @@
+{
+    "writer": {
+        "entities": {
+            "Francis Ford Coppola": {
+                "args": []
+            },
+            "Mario Puzo": {
+                "args": [
+                    [
+                        "18_the story by mario puzo and francis ford coppola is a brilliant conjuring act, inviting us to consider the mafia entirely on its own terms.",
+                        0.8145683264982525
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_the years have been kind to this timeless mafia epic, which seems particularly rich now that studio blockbusters no longer demonstrate this kind of care with character, atmosphere and storytelling.",
+                0.5685514000000894
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Francis Ford Coppola": {
+                "args": [
+                    [
+                        "14_francis ford coppola has made one of the most brutal and moving chronicles of american life ever designed within the limits of popular entertainment.",
+                        0.8383353612506359
+                    ],
+                    [
+                        "18_the story by mario puzo and francis ford coppola is a brilliant conjuring act, inviting us to consider the mafia entirely on its own terms.",
+                        0.8145683264982525
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_brando is the strong magnet that will draw fans to the godfather.",
+                0.7145919995815028
+            ],
+            [
+                "1_ behind-the-scenes creativity is of equal value to this film of towering proportions.",
+                0.6560928238384766
+            ],
+            [
+                "3_the godfather is overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood.",
+                0.6723353689142811
+            ],
+            [
+                "8_in its blending of new depth with an old genre, it becomes that rarity, a mass entertainment that is also great movie art.",
+                0.8789660552647587
+            ],
+            [
+                "9_as filmmaking and storytelling, 'the godfather' remains a bravura piece of work, its set pieces, dialogue and performances entrenched cinematic icons.",
+                0.6591930919125061
+            ],
+            [
+                "10_there are volumes that could be written -- and have been -- about the movie's uniformly powerful performances",
+                0.6166406394907178
+            ],
+            [
+                "12_the ultimate family film.",
+                0.6260455632001461
+            ],
+            [
+                "16_we come to the godfather like kay adams --",
+                -0.5662165449488223
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sofia Coppola": {
+                "args": []
+            },
+            "Richard Conte": {
+                "args": []
+            },
+            "Rudy Bond": {
+                "args": []
+            },
+            "Talia Shire": {
+                "args": []
+            },
+            "Angelo Infanti": {
+                "args": []
+            },
+            "Ardell Sheridan": {
+                "args": []
+            },
+            "Al Martino": {
+                "args": []
+            },
+            "Richard S. Castellano": {
+                "args": []
+            },
+            "Julie Gregg": {
+                "args": []
+            },
+            "Victor Rendina": {
+                "args": []
+            },
+            "Marlon Brando": {
+                "args": [
+                    [
+                        "2_i don't see how any gifted actor could have done less than brando does here.",
+                        -0.7122121962618115
+                    ],
+                    [
+                        "19_corleone, the soft-spoken crimelord, is masterfully played by brando in one of the most imitated performances of all time.",
+                        0.77255415254572
+                    ]
+                ]
+            },
+            "Richard Bright": {
+                "args": []
+            },
+            "John Cazale": {
+                "args": []
+            },
+            "Robert Duvall": {
+                "args": []
+            },
+            "James Caan": {
+                "args": []
+            },
+            "Gianni Russo": {
+                "args": []
+            },
+            "Sterling Hayden": {
+                "args": []
+            },
+            "Tony Giorgio": {
+                "args": []
+            },
+            "Joe Spinell": {
+                "args": []
+            },
+            "Carmine Coppola": {
+                "args": [
+                    [
+                        "14_francis ford coppola has made one of the most brutal and moving chronicles of american life ever designed within the limits of popular entertainment.",
+                        0.8383353612506359
+                    ],
+                    [
+                        "18_the story by mario puzo and francis ford coppola is a brilliant conjuring act, inviting us to consider the mafia entirely on its own terms.",
+                        0.8145683264982525
+                    ]
+                ]
+            },
+            "Vito Scotti": {
+                "args": []
+            },
+            "Tere Livrano": {
+                "args": []
+            },
+            "John Martino": {
+                "args": []
+            },
+            "John Marley": {
+                "args": []
+            },
+            "Lenny Montana": {
+                "args": []
+            },
+            "Abe Vigoda": {
+                "args": []
+            },
+            "Saro Urzì": {
+                "args": []
+            },
+            "Al Lettieri": {
+                "args": []
+            },
+            "Franco Citti": {
+                "args": []
+            },
+            "Salvatore Corsitto": {
+                "args": []
+            },
+            "Alex Rocco": {
+                "args": []
+            },
+            "Corrado Gaipa": {
+                "args": []
+            },
+            "Al Pacino": {
+                "args": []
+            },
+            "Jeannie Linero": {
+                "args": []
+            },
+            "Morgana King": {
+                "args": []
+            },
+            "Diane Keaton": {
+                "args": []
+            },
+            "Simonetta Stefanelli": {
+                "args": []
+            },
+            "Carlo Savina": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {
+            "mafia": {
+                "args": [
+                    [
+                        "4_to permit us a glimpse at the mob, with all of its ethnic insularity, is like giving a chronic gambler a chance to wander above the false mirrors that overlook every casino.",
+                        0.7468539795691885
+                    ],
+                    [
+                        "5_brando's triumph and fascination is less that of an actor of parts than of a star galaxy of myths.",
+                        0.530074230169315
+                    ],
+                    [
+                        "6_traces the arc of this doomed idealism with a beauty that is still fresh.",
+                        0.8114504356592316
+                    ],
+                    [
+                        "7_brando made don vito something we rarely see in movies: a tragicomic villain-hero, a vulnerable hood.",
+                        0.6441231510676009
+                    ],
+                    [
+                        "8_in its blending of new depth with an old genre, it becomes that rarity, a mass entertainment that is also great movie art.",
+                        0.8789660552647587
+                    ],
+                    [
+                        "9_as filmmaking and storytelling, 'the godfather' remains a bravura piece of work, its set pieces, dialogue and performances entrenched cinematic icons.",
+                        0.6591930919125061
+                    ],
+                    [
+                        "13_an everyday story of mafia folk, incorporating a severed horse's head in the bed and a number of heartwarming family occasions, as well as pointers on how not to behave in your local trattoria.",
+                        0.6754414801752566
+                    ],
+                    [
+                        "17_the years have been kind to this timeless mafia epic, which seems particularly rich now that studio blockbusters no longer demonstrate this kind of care with character, atmosphere and storytelling.",
+                        0.5685514000000894
+                    ],
+                    [
+                        "18_the story by mario puzo and francis ford coppola is a brilliant conjuring act, inviting us to consider the mafia entirely on its own terms.",
+                        0.8145683264982525
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

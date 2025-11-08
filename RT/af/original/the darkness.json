@@ -1,0 +1,114 @@
+{
+    "acting": {
+        "entities": {
+            "Paul Reiser": {
+                "args": []
+            },
+            "David Mazouz": {
+                "args": []
+            },
+            "Ming-Na Wen": {
+                "args": []
+            },
+            "Yoshio Be": {
+                "args": []
+            },
+            "Judith McConnell": {
+                "args": []
+            },
+            "Kevin Bacon": {
+                "args": []
+            },
+            "Parker Mack": {
+                "args": []
+            },
+            "Trian Long Smith": {
+                "args": []
+            },
+            "Tara Lynne Barr": {
+                "args": []
+            },
+            "Radha Mitchell": {
+                "args": []
+            },
+            "David Babbitt": {
+                "args": []
+            },
+            "Alma Martinez": {
+                "args": []
+            },
+            "Ilza Rosario": {
+                "args": []
+            },
+            "Jennifer Morrison": {
+                "args": []
+            },
+            "Al Coronel": {
+                "args": []
+            },
+            "Krista Marie Yu": {
+                "args": []
+            },
+            "Matt Walsh": {
+                "args": []
+            },
+            "Katie Ward": {
+                "args": []
+            },
+            "A.J. Tannen": {
+                "args": []
+            },
+            "Lucy Fry": {
+                "args": []
+            },
+            "Christopher Darga": {
+                "args": []
+            },
+            "Jocelyn Ayanna": {
+                "args": []
+            },
+            "Sara Mornell": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Greg McLean": {
+                "args": []
+            },
+            "Shayne Armstrong": {
+                "args": []
+            },
+            "Shane Krause": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_there are times when it feels as if the producers challenged themselves to see how little it needed and still meet the legal definition of a movie.",
+                0.5082262278673649
+            ],
+            [
+                "2_from the troubled child who communes with the beyond to the featureless suburban home that hosts malicious spirits, this movie ticks all the boxes for modern mainstream shockers.",
+                0.6856682150833859
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Greg McLean": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

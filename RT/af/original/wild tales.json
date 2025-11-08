@@ -1,0 +1,137 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_ the dark comedy wild tales (relatos salvajes) argues that payback is more satisfying when it's doled out in fiery, bloody and outrageous doses.",
+                0.5279180217487457
+            ],
+            [
+                "4_wild tales - relatos salvajes in its original spanish - is, indeed, savage.",
+                0.5995676125386753
+            ],
+            [
+                "6_if everyone behaved the way the characters in wild tales behave, civilization would crumble.",
+                0.5169538082267209
+            ],
+            [
+                "11_ as a source of movie fodder, it's scarily entertaining.",
+                0.7260975300409882
+            ],
+            [
+                "12_any anthology film runs the risk of being judged by its weakest link, ",
+                0.5450701470193408
+            ],
+            [
+                "13_if you've ever fantasized about busting up somebody's nuptials, this movie is for you.",
+                -0.5491033399933879
+            ],
+            [
+                "14_argentina's nominee for the foreign-film oscar is a farce about revenge that is feral, ferocious and gut-bustingly funny.",
+                0.8107165203316443
+            ],
+            [
+                "18_the film is an anthology - a collection of six separate and unrelated stories - every one of which lives up to that title.",
+                0.5522584749641831
+            ],
+            [
+                "21_a collection of six vignettes all connected by themes of victimhood and vengeance, and spring-loaded with ironic twist endings worthy of o. henry, the film feels like pulp fiction filtered through the baroque pop sensibility of pedro almodóvar.",
+                -0.5715817539587975
+            ],
+            [
+                "23_in its gaudy, predictable way, \"wild tales\" is enormous fun, and the consistent wit of the quiet stretches shows there's more to szifrón than shock tactics.",
+                0.745276613661711
+            ],
+            [
+                "24_wild tales has so much feral, prickly energy that it gives off warmth rather than coldness.",
+                -0.5003814123993435
+            ],
+            [
+                "26_each of the stories in wild tales could have been a full-length movie in itself, ",
+                -0.7007816595335695
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Damián Szifron": {
+                "args": [
+                    [
+                        "29_ argentine writer-director damián szifron allows it to sit until it congeals in the dreary six-part anthology \"wild tales.\"",
+                        -0.58643896132501
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Damián Szifron": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "29_ argentine writer-director damián szifron allows it to sit until it congeals in the dreary six-part anthology \"wild tales.\"",
+                -0.58643896132501
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Nancy Dupláa": {
+                "args": []
+            },
+            "María Marull": {
+                "args": []
+            },
+            "Ricardo Darín": {
+                "args": []
+            },
+            "Rita Cortese": {
+                "args": []
+            },
+            "Julieta Zylberberg": {
+                "args": []
+            },
+            "German deSilva": {
+                "args": []
+            },
+            "Erica Rivas": {
+                "args": []
+            },
+            "Darío Grandinetti": {
+                "args": []
+            },
+            "Monica Villa": {
+                "args": []
+            },
+            "Oscar Martínez": {
+                "args": []
+            },
+            "Leonardo Sbaraglia": {
+                "args": []
+            },
+            "César Bordón": {
+                "args": []
+            },
+            "Diego Gentile": {
+                "args": []
+            },
+            "Walter Donado": {
+                "args": []
+            },
+            "Osmar Nuñez": {
+                "args": []
+            },
+            "María Onetto": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

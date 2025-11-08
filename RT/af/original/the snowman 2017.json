@@ -1,0 +1,157 @@
+{
+    "writer": {
+        "entities": {
+            "Peter Straughan": {
+                "args": []
+            },
+            "Hossein Amini": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "25_a slow-motion car crash of a cinematic mishap featuring terrible performances from normally good actors and a bafflingly half-baked script ...",
+                -0.7840091730089057
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Tomas Alfredson": {
+                "args": [
+                    [
+                        "30_the tension dissipates in a tangle of muddled subplots, sluggish pacing and some strange decisions from tomas alfredson.",
+                        -0.603731342664114
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_[the snowman] is two hours of uninterrupted, snow-caked boredom.",
+                -0.7226778123761859
+            ],
+            [
+                "1_... the movie itself is an inept misfire - the kind of entrancing train wreck that makes you long for a behind-the-scene tell-all to explain what, exactly, went so wrong.",
+                -0.5627143019559916
+            ],
+            [
+                "3_not a single scene works as anything more than a total waste of good film.",
+                -0.5702572334533957
+            ],
+            [
+                "4_with a perplexing tale and some very odd creative choices, it's so easy to laugh at the snowman, ",
+                0.5592057871815392
+            ],
+            [
+                "8_the movie plays as if he threw in the towel in the editing room.",
+                -0.6197950408987496
+            ],
+            [
+                "13_playground snowball fights have more suspense and intrigue than \"the snowman,\" the most puzzlingly bad movie of the year.",
+                -0.5798309045760984
+            ],
+            [
+                "14_\"the snowman\" is ugly and nasty, ",
+                -0.808171874360639
+            ],
+            [
+                "15_\"the snowman\" is like if aliens studied humanity and tried to make their own movie in an attempt to communicate with us.",
+                -0.5571440272775943
+            ],
+            [
+                "20_there's probably a good movie or several buried in the frigid wilds of nesbø's fiction, and with more time and cultural nuance and fewer cooks in the kitchen, it might well be realized.",
+                0.6117893476271313
+            ],
+            [
+                "22_the snowman registers both as a bad thriller and a kind of anti-tourism ad that makes you never want to go to oslo.",
+                -0.5860687575577126
+            ],
+            [
+                "24_it appears to be the world's first dadaist studio release, an excruciating abstraction of a movie in which absolutely nothing happens.",
+                -0.5346556572420434
+            ],
+            [
+                "26_the snowman\" to the top of the ever-rising mountain of lousy movies with good trailers.",
+                0.5226789752629157
+            ],
+            [
+                "28_there's a frozen loogie at the heart of the snowman.",
+                0.5279999487086351
+            ],
+            [
+                "33_for all its high-caliber talent mix, the snowman is a largely pedestrian affair, turgid and humorless in tone.",
+                -0.5917724713071397
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Rebecca Ferguson": {
+                "args": []
+            },
+            "David Dencik": {
+                "args": []
+            },
+            "J.K. Simmons": {
+                "args": []
+            },
+            "Silvia Busuioc": {
+                "args": []
+            },
+            "Jakob Oftebro": {
+                "args": []
+            },
+            "Jamie Clayton": {
+                "args": []
+            },
+            "James D'Arcy": {
+                "args": []
+            },
+            "Ronan Vibert": {
+                "args": []
+            },
+            "Val Kilmer": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": [
+                    [
+                        "27_a frigid fassbender turns his head this way and that, as if he were posing for a bust, and boy, this movie is one for sure.",
+                        -0.5592583751259615
+                    ]
+                ]
+            },
+            "Charlotte Gainsbourg": {
+                "args": []
+            },
+            "Chloë Sevigny": {
+                "args": [
+                    [
+                        "7_a twisty tale of inexplicable red herrings, baffling plot detours, and chloe sevigny as not one ",
+                        -0.6266614296048097
+                    ]
+                ]
+            },
+            "Toby Jones": {
+                "args": []
+            },
+            "Sofia Helin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "31_ a sterling cast and crew.",
+                -0.5076030075230712
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

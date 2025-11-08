@@ -1,0 +1,56 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Anvita Dutt": {
+                "args": []
+            },
+            "Anvita Dutt Guptan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"phillauri\" is a bollywood movie toggling between a contemporary screwball rom-com and a sweeping historical love story.",
+                0.7830692736682673
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yulian Shchukin": {
+                "args": []
+            },
+            "Nidhi Bisht": {
+                "args": []
+            },
+            "Suraj Sharma": {
+                "args": []
+            },
+            "Diljit Dosanjh": {
+                "args": []
+            },
+            "Anushka Sharma": {
+                "args": []
+            },
+            "Mehreen Pirzada": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Anshai Lal": {
+                "args": []
+            }
+        }
+    }
+}

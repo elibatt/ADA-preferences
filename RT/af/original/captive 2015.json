@@ -1,0 +1,156 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the thin story has been stretched like silly putty to feature-film length and the result is utterly see-through in its sledgehammer moralizing.",
+                -0.6645086927318177
+            ],
+            [
+                "1_captive winds up building to a big nothing.",
+                -0.6354761086573497
+            ],
+            [
+                "4_the film's police-procedural action is unimaginatively presented, ",
+                -0.5411501189935359
+            ],
+            [
+                "5_for a movie about purpose, \"captive\" never finds its own.",
+                -0.5349095217564103
+            ],
+            [
+                "6_a lifetime movie shoved into a cage and fattened with sermons and platitudes until it is ready to be served up cold and bland.",
+                -0.6744821285080342
+            ],
+            [
+                "7_a credit-sequence television clip of mr. warren and the real ms. smith with oprah winfrey makes the entire movie feel like the strangest book infomercial in memory.",
+                0.6254650939325513
+            ],
+            [
+                "8_true crime and christian filmmaking collide with more subtlety than either genre is typically known for in \"captive.\"",
+                0.737467327398233
+            ],
+            [
+                "10_ the strategy makes for a somewhat low-energy film.",
+                0.6256521919880765
+            ],
+            [
+                "13_perhaps they'll work together again - in a better film.",
+                0.6177329275054779
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Jerry Jameson": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Brian Bird": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_the problem, alas, is that mara and oyelowo are ultimately captive in a script that doesn't allow its characters to stretch outside their preordained boundaries.",
+                -0.8054936924166647
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Raymond Scott Parks": {
+                "args": []
+            },
+            "Leonor Varela": {
+                "args": []
+            },
+            "Mimi Rogers": {
+                "args": []
+            },
+            "J. Karen Thomas": {
+                "args": []
+            },
+            "Kevin J. O'Connor": {
+                "args": []
+            },
+            "Marlo Scheitler": {
+                "args": []
+            },
+            "Elle Graham": {
+                "args": []
+            },
+            "Michael Mercaldi": {
+                "args": []
+            },
+            "Johanna Jowett": {
+                "args": []
+            },
+            "Claudia Church": {
+                "args": []
+            },
+            "J. Leon II Pridgen": {
+                "args": []
+            },
+            "Kate Mara": {
+                "args": [
+                    [
+                        "2_though the film ends with a whimper instead of a bang, oyelowo and mara's riveting,",
+                        0.6009919651617596
+                    ],
+                    [
+                        "3_the problem, alas, is that mara and oyelowo are ultimately captive in a script that doesn't allow its characters to stretch outside their preordained boundaries.",
+                        -0.8054936924166647
+                    ],
+                    [
+                        "13_oyelowo and mara achieve terrific chemistry.",
+                        0.6684019033605315
+                    ]
+                ]
+            },
+            "E. Roger Mitchell": {
+                "args": []
+            },
+            "Bill Bennett": {
+                "args": []
+            },
+            "Fred Galle": {
+                "args": []
+            },
+            "Michael Kenneth Williams": {
+                "args": []
+            },
+            "David Oyelowo": {
+                "args": [
+                    [
+                        "4_ oyelowo is compelling ...",
+                        0.6120546634142103
+                    ]
+                ]
+            },
+            "Michael Harding": {
+                "args": []
+            },
+            "Matt Lowe": {
+                "args": []
+            },
+            "Steven Dean Davis": {
+                "args": []
+            },
+            "Sydelle Noel": {
+                "args": []
+            },
+            "Jessica Oyelowo": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

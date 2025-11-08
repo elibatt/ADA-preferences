@@ -1,0 +1,216 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the girl on the train is not weirdly great, or even good, ",
+                0.5390632965677976
+            ],
+            [
+                "3_the flashback structure isn't wholly satisfying, and the climax leaves an abundance of questions, so much so that the movie might have benefited either from taking the time to further flesh those revelations out or stripping them down.",
+                -0.6507111943346422
+            ],
+            [
+                "5_the girl on the train plods along, playing like a lifeless wax museum version of a real thriller.",
+                -0.5776110954522988
+            ],
+            [
+                "6_blunt, who can be quite marvelous in movies, spends most of the film looking haggard and sozzled",
+                0.7594129366441603
+            ],
+            [
+                "7_a filmmaker has a feel for this kind of storytelling or doesn't, and the people behind the girl on the train don't.",
+                -0.5587611543620812
+            ],
+            [
+                "8_whatever the locomotive power of the novel, this film adaptation only limps into the station.",
+                0.61048410911037
+            ],
+            [
+                "10_the girl on the train is a fun ride, ",
+                0.8104792535389777
+            ],
+            [
+                "11_the film never quite succeeds, simply because the book's core virtues do not lend themselves to cinema.",
+                0.6506214231526025
+            ],
+            [
+                "13_taylor isn't able to believably blend the overlapping perspectives and the girl on the train comes across as a flat, predictable puzzle whose characters flip from one extreme to another.",
+                -0.6320939462539512
+            ],
+            [
+                "17_the third act of a movie shouldn't make you feel as ",
+                -0.5382824071636669
+            ],
+            [
+                "18_like the fincher movie, this plays with the idea that the hero may actually be the villain",
+                0.5958845435554423
+            ],
+            [
+                "18_ unlike the fincher movie, which was built like a swiss watch, this gradually turns into a tangle of flashbacks as it races toward a fairly predictable conclusion.",
+                0.5763984934974616
+            ],
+            [
+                "21_the film is polite when it should be wicked -- it's melodrama that thinks it's saving lives, like it drank too much chardonnay",
+                -0.6336076713967184
+            ],
+            [
+                "22_it's a movie that chugs along, smoothly and uneventfully, until it pulls into a station that could have been seen from a mile away, had you not already been lulled just to the edge of sleep.",
+                -0.6073612095597206
+            ],
+            [
+                "23_the film's construction is evocative and fluid, the plotlines of the three women entwining in ways that amplify each one.",
+                0.7785774112164603
+            ],
+            [
+                "25_\"the girl on the train\" is a taut psychological thriller, just as tense for those who already know its conclusion.",
+                0.7216513044040953
+            ],
+            [
+                "28_\"the girl on the train\" deserves to be a minor guilty-pleasure hit, for its performances and hot-house plotting, and for its keeping of the compact of classic women's films, where the heroine most wronged turns out to be most right.",
+                0.8339760653394187
+            ],
+            [
+                "33_\"the girl on the train\" may be too idiosyncratic and moody to get the credit it deserves, ",
+                0.5628182437466288
+            ],
+            [
+                "36_the movie gives away the game faster than the novel, ",
+                -0.6515144531901236
+            ],
+            [
+                "38_wilson brings themes that are latent in the book to the surface in the film, exposes them to the harsh light to make them visually, cinematically real.",
+                0.8079995500182702
+            ],
+            [
+                "41_but the movie's surprise (or perhaps not-so-surprising) twist doesn't serve its lead character well,",
+                -0.6065789967000668
+            ],
+            [
+                "48_ there's something a bit too tasteful about 'the girl on the train'.",
+                0.5060362004943811
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Tate Taylor": {
+                "args": [
+                    [
+                        "4_tate taylor's new adaptation of the girl on the train takes the worst parts of the novel (excruciating dialogue, paper-thin plotting, ludicrous twists) and amplifies them.",
+                        -0.8940700271099831
+                    ],
+                    [
+                        "19_attempting to capture this woman's perennially sozzled state in visual terms, taylor lets the camera wobble to and fro, punctuates the story with jarring cuts to black, and resorts to slow-motion with amateurish abandon.",
+                        0.665930191555444
+                    ],
+                    [
+                        "39_[taylor] has, along with screenwriter erin cressida wilson, brought the page-turner to screen with all the unexciting competency of a commuter-rail dispatcher.",
+                        0.5498644264031244
+                    ],
+                    [
+                        "42_when you've been spoiled by the dark, meticulous david fincher lending his artistry to paperback potboilers with \"girl\" in the title -- even when they're not his best work -- taylor's flat commercial instincts make for diminishing returns.",
+                        -0.6174769918886738
+                    ],
+                    [
+                        "43_[taylor] deftly translates the bleak, raw-boned menace and tricky time signatures of train's intertwined plotlines, and draws remarkably vivid performances from his cast, particularly his two female leads.",
+                        0.7219857347519361
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Justin Theroux": {
+                "args": []
+            },
+            "Laura Prepon": {
+                "args": []
+            },
+            "Lisa Kudrow": {
+                "args": []
+            },
+            "Edgar Ramirez": {
+                "args": []
+            },
+            "Emily Blunt": {
+                "args": [
+                    [
+                        "9_the cast, especially blunt and bennett, turn in fine, layered performances, and keep the \"train\" on its tracks.",
+                        0.7028740031766276
+                    ],
+                    [
+                        "14_the only reason to endure this dismal story is to watch blunt strut her stuff.",
+                        -0.7357950175585093
+                    ],
+                    [
+                        "30_there's a lot to recommend it, most notably a quavering, magnetic central performance by emily blunt.",
+                        0.6972651397689767
+                    ],
+                    [
+                        "33_ if there's any justice, emily blunt should be up for awards consideration at the end of the year.",
+                        0.6307037756960879
+                    ],
+                    [
+                        "36_ emily blunt digs so deep into the role of a blackout drunk and maybe murderer that she raises 'girl' to the level of spellbinder.",
+                        0.6418209468074718
+                    ]
+                ]
+            },
+            "Rebecca Ferguson": {
+                "args": []
+            },
+            "Allison Janney": {
+                "args": [
+                    [
+                        "6_ the rest of the cast, with the exception of allison janney as a police investigator, is dull.",
+                        -0.5781544216250576
+                    ]
+                ]
+            },
+            "Luke Evans": {
+                "args": []
+            },
+            "Haley Bennett": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "43_[taylor] deftly translates the bleak, raw-boned menace and tricky time signatures of train's intertwined plotlines, and draws remarkably vivid performances from his cast, particularly his two female leads.",
+                0.7219857347519361
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Erin Cressida Wilson": {
+                "args": [
+                    [
+                        "39_[taylor] has, along with screenwriter erin cressida wilson, brought the page-turner to screen with all the unexciting competency of a commuter-rail dispatcher.",
+                        0.5498644264031244
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "34_ quickly gets tripped up by its own screenplay and grows increasingly ludicrous and melodramatic, to the point where i was barely able to suppress a chuckle at some of the final scenes.",
+                -0.7877877783071072
+            ],
+            [
+                "41_but the movie's surprise (or perhaps not-so-surprising) twist doesn't serve its lead character well,",
+                -0.6065789967000668
+            ],
+            [
+                "45_but a slightly convoluted script,",
+                -0.5457310289451252
+            ]
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "William Levy": {
+                "args": []
+            },
+            "Eoin Macken": {
+                "args": []
+            },
+            "Joon-Gi Lee": {
+                "args": []
+            },
+            "Fraser James": {
+                "args": []
+            },
+            "Iain Glen": {
+                "args": []
+            },
+            "Ever Anderson": {
+                "args": []
+            },
+            "Shawn Roberts": {
+                "args": []
+            },
+            "Ali Larter": {
+                "args": []
+            },
+            "Milla Jovovich": {
+                "args": [
+                    [
+                        "0_anderson is an artist of zombiod head-shots and secret testing facilities, and jovovich is his muse.",
+                        0.5900239413420117
+                    ],
+                    [
+                        "1_while the franchise has slackened into dependably dumb post-apocalyptic thrills, star milla jovovich has only gotten better, seasoning her long-legged athleticism with a commanding stare.",
+                        -0.6559066519474676
+                    ],
+                    [
+                        "6_true, the movie's intense, and jovovich is certainly in fighting shape.",
+                        0.7132117291898096
+                    ],
+                    [
+                        "7_ as long as jovovich is up there doing her thing, most people will be too enthralled to notice.",
+                        0.5952319206949979
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "8_to the extent that knowing exactly what a movie holds in store for you in advance is a virtue, resident evil",
+                -0.5671160415681075
+            ],
+            [
+                "9_yes, the movie is called \"resident evil:",
+                -0.7152230632802581
+            ],
+            [
+                "11_for fans of resident evil, i believe this final film will not disappoint, ",
+                -0.6149845565959455
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Paul W.S. Anderson": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_the climax makes for a satisfying conclusion to the franchise-an ending which this writer expects, and even hopes, all concerned will studiously ignore when they get around to making the next one.",
+                0.5538586923818929
+            ]
+        ],
+        "entities": {
+            "Paul W.S. Anderson": {
+                "args": []
+            }
+        }
+    }
+}

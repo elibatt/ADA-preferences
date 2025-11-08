@@ -1,0 +1,147 @@
+{
+    "acting": {
+        "args": [
+            [
+                "6_represents a missed opportunity, given the talents of this charismatic and game cast.",
+                -0.6999000902700692
+            ]
+        ],
+        "entities": {
+            "Dennis Haysbert": {
+                "args": []
+            },
+            "Charlie Carver": {
+                "args": []
+            },
+            "Christina Hendricks": {
+                "args": []
+            },
+            "Jillian Bell": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Max Carver": {
+                "args": []
+            },
+            "Ice Cube": {
+                "args": [
+                    [
+                        "3_day's the runt, cube is the bully, and for a punishing 91 minutes of rank idiocy we wait in vain for something funny to happen.",
+                        -0.5730687235567672
+                    ],
+                    [
+                        "19_that ice cube's authoritatively mean presence and day's comically scratchy whine are singular gifts you rapidly grow tired of is just one of the joy-sapping hallmarks in this freshman feature de",
+                        -0.5386714467498968
+                    ]
+                ]
+            },
+            "Alexa Nisenson": {
+                "args": []
+            },
+            "Austin Zajur": {
+                "args": []
+            },
+            "Charlie Day": {
+                "args": []
+            },
+            "Tracy Morgan": {
+                "args": []
+            },
+            "Dean Norris": {
+                "args": []
+            },
+            "JoAnna Garcia Swisher": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_by one way of looking at it, fist fight might be seen as a timely nightmare -- not about bullying ",
+                0.5773967273908369
+            ],
+            [
+                "2_more galling and tedious than funny, this quasi-re-imagining of the 1987 high school film, three o'clock high, proves that it's entirely possible for a remake of a bad movie to be worse than its inspiration.",
+                -0.7988192395714293
+            ],
+            [
+                "4_fist fight isn't there to make you think, ",
+                -0.7133758004378321
+            ],
+            [
+                "7_the first rule of fist fight should be that we don't talk about fist fight.",
+                -0.5459549641445963
+            ],
+            [
+                "8_\"fist fight\" is so terminally unpleasant that it feels like the audience is the one catching a beating.",
+                -0.7729311487942689
+            ],
+            [
+                "14_, at carrying the film, partly through sympathetic wretchedness and partly through sheer energy.",
+                0.7420525522189809
+            ],
+            [
+                "16_for much of its fast-paced running time, the film ... is just amusing enough to make up for its sheer preposterousness",
+                0.6653317093391352
+            ],
+            [
+                "18_high concept meets lowest common denominator comedy in fist fight, a schoolhouse farce that has nothing to teach about entertaining the masses.",
+                -0.5229456577846439
+            ],
+            [
+                "20_this is a case of a film with a threadbare premise handling its actors and material with such assurance that it performs like a cockeyed jewel.",
+                -0.5507308358049863
+            ],
+            [
+                "21_by far the most disheartening studio-produced movie in recent memory, setting an abysmal example for anyone who goes to school (or the movies, for that matter) still hoping to learn.",
+                -0.5158020386988308
+            ],
+            [
+                "22_what a pestilential little picture is \"fist fight.\"",
+                -0.6297159653333978
+            ],
+            [
+                "23_fist fight may be all about feuding faculty members, ",
+                0.5300138768273296
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Richie Keen": {
+                "args": [
+                    [
+                        "19_ from tv director richie keen.",
+                        -0.5486376029641156
+                    ],
+                    [
+                        "25_the humdrum run-up to the main event feels every bit like director richie keen and the writers picturing how funny an intra-faculty beatdown would be, then fumbling their way backward from there.",
+                        0.52658532140928
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Max Greenfield": {
+                "args": []
+            },
+            "Van Robichaux": {
+                "args": []
+            },
+            "Evan Susser": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "27_[erguven] proves especially skilled with her cast of newcomers, whose powerful individualism as well as their vibrant bond together are perfect vessels for the script's message.",
+                0.9034985050229158
+            ]
+        ],
+        "entities": {
+            "Ayberk Pekcan": {
+                "args": []
+            },
+            "Enes Surum": {
+                "args": []
+            },
+            "Bahar Kerimoglu": {
+                "args": []
+            },
+            "Günes Sensoy": {
+                "args": []
+            },
+            "Serpil Ucar": {
+                "args": []
+            },
+            "Sevval Aydin": {
+                "args": []
+            },
+            "Muzeyyen Celebi": {
+                "args": []
+            },
+            "Kadir Celebi": {
+                "args": []
+            },
+            "Burak Yigit": {
+                "args": []
+            },
+            "Seril Reis": {
+                "args": []
+            },
+            "Suzanne Marrot": {
+                "args": []
+            },
+            "Serife Kara": {
+                "args": []
+            },
+            "Aziz Komecoglu": {
+                "args": []
+            },
+            "Aynur Komecoglu": {
+                "args": []
+            },
+            "Ercan Koksal": {
+                "args": []
+            },
+            "Aykut Karatay": {
+                "args": []
+            },
+            "Serif Erol": {
+                "args": []
+            },
+            "Erol Afsin": {
+                "args": []
+            },
+            "Huseyin Baysal": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "28_what makes the transfixing film so effective is that the director refuses to portray them simplistically, as misunderstood angels, and she has enough trust in her audience to leave the drama's implicit feminism unstated.",
+                0.6245880692042326
+            ]
+        ],
+        "entities": {
+            "Deniz Gamze Ergüven": {
+                "args": [
+                    [
+                        "17_ feature of deniz gamze ergüven, and it's quite something: a coming-of-age fable mapped onto a prison break, at once dream-hazed and sharp-edged with suspense.",
+                        0.7720292198131414
+                    ],
+                    [
+                        "21_sneaky because it's so good at depicting the sisters' joyousness before, and even after, darkness descends -- was directed by deniz gamze ergüven from a script she wrote with alice winocour.",
+                        0.704983528351142
+                    ],
+                    [
+                        "25_[ergüven] gets appealing and fiercely committed performances from the five young actresses at the story's center, ",
+                        0.7762630768896622
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "27_[erguven] proves especially skilled with her cast of newcomers, whose powerful individualism as well as their vibrant bond together are perfect vessels for the script's message.",
+                0.9034985050229158
+            ]
+        ],
+        "entities": {
+            "Alice Winocour": {
+                "args": [
+                    [
+                        "6_ergüven and cowriter alice winocour have a keen understanding of teenage impetuosity and adult cruelty.",
+                        0.7257827057631412
+                    ],
+                    [
+                        "21_sneaky because it's so good at depicting the sisters' joyousness before, and even after, darkness descends -- was directed by deniz gamze ergüven from a script she wrote with alice winocour.",
+                        0.704983528351142
+                    ]
+                ]
+            },
+            "Deniz Gamze Ergüven": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_ergüven's film, beautifully shot and beautifully performed, cuts its storybook tone with starker, more brutal truths.",
+                0.6259088138756812
+            ],
+            [
+                "7_among erguven's finest achievements with \"mustang\" is casting such mesmerizing actresses to play characters who would be just as at home in a chekhov production or an instagram-worthy fashion shoot.",
+                0.7420724104824996
+            ],
+            [
+                "8_the issues at play in \"mustang\" are gravely serious ",
+                0.5512818950555151
+            ],
+            [
+                "9_\"mustang\" puts its cultural stamp on a story gripping in its ageless universality and gutting in its modern urgency.",
+                0.7283724711807079
+            ],
+            [
+                "12_[a] beautiful, harrowing film.",
+                0.8680301337931418
+            ],
+            [
+                "15_the impressive film not only underscores the clash between traditional and modern values, ",
+                0.7255532174723069
+            ],
+            [
+                "16_mustang offers some nearly surreal looks into a culture fixated on virginity and women as spoilable objects.",
+                0.7098087523870966
+            ],
+            [
+                "18_\"mustang\" grabs you with its own sense of haunting melancholy, as well as an increasing feeling of urgency and outrage.",
+                0.8945127048373251
+            ],
+            [
+                "19_full of life even as it depicts lives in lockdown, \"mustang\" is a stunning de",
+                0.8455085850849074
+            ],
+            [
+                "28_what makes the transfixing film so effective is that the director refuses to portray them simplistically, as misunderstood angels, and she has enough trust in her audience to leave the drama's implicit feminism unstated.",
+                0.6245880692042326
+            ]
+        ]
+    }
+}

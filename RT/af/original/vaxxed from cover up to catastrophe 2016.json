@@ -1,0 +1,48 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Wakefield": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ever Bigtree": {
+                "args": []
+            },
+            "Mark F. Blaxill": {
+                "args": []
+            },
+            "Del Matthew Bigtree": {
+                "args": []
+            },
+            "Michaela Blaxill": {
+                "args": []
+            },
+            "Thaea Bigtree": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andrew Wakefield": {
+                "args": []
+            },
+            "Del Matthew Bigtree": {
+                "args": []
+            }
+        }
+    }
+}

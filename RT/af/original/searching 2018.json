@@ -1,0 +1,138 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_searching is a taut, effectively paced mystery-thriller with a powerful emotional component.",
+                0.7441331651103589
+            ],
+            [
+                "6_\"searching,\" a pleasantly gimmicky movie, gets its power from something that isn't a gimmick at all: an actor's ability to simply and movingly tell a story.",
+                0.5728887364923569
+            ],
+            [
+                "7_\"searching\" is like a refreshed web page, a new take on something woefully familiar.",
+                0.5872213584794228
+            ],
+            [
+                "8_ silicon-chip-thin movie...",
+                -0.5864667551101699
+            ],
+            [
+                "11_the film does take a few too many turns on its journey.",
+                0.5026465081398844
+            ],
+            [
+                "16_with the exception of visually artificial broadcast news videos in the third act, the execution in searching is an anomaly in its inventiveness to find solutions that can keep us engaged in spite of the claustrophobic set-up.",
+                0.6310564982785201
+            ],
+            [
+                "18_the film is a technical marvel with a beating heart, which makes all the difference.",
+                0.7418326120157629
+            ],
+            [
+                "21_the movie might work better if the psychological puzzle tucked inside it were more engaging or surprising.",
+                -0.5501869337614063
+            ],
+            [
+                "23_as a thriller, searching is both ruthlessly absorbing in the moment and relatively disposable as soon as it ends, sliding itself gracefully into the desktop recycling bin.",
+                0.6653095627474249
+            ],
+            [
+                "24_an original blast of a film.",
+                0.7527766486977249
+            ],
+            [
+                "24_\"searching\" heartily implies we instinctively know our dearest family members better than we give ourselves credit for, even when the evidence insists ",
+                0.7604571592323078
+            ],
+            [
+                "26_search doesn't require any further narrative tricks to prove chagnaty's ability to use seemingly huge constraints to weave a unique film, one that maintains a near-perfect connect with its audience.",
+                0.6366121013720314
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Joseph Lee": {
+                "args": []
+            },
+            "Debra Messing": {
+                "args": [
+                    [
+                        "1_cho, messing, and la are excellent actors who are offered almost nothing to work with.",
+                        -0.6092663588456799
+                    ]
+                ]
+            },
+            "John Cho": {
+                "args": [
+                    [
+                        "19_the combination of clever concept reflecting the prevalence of screens in everyday life, and the pleasure of watching a typically underused mr. cho take on a meaty lead role make \"searching\" a satisfying psychological thriller.",
+                        0.8253335097183241
+                    ]
+                ]
+            },
+            "Michelle La": {
+                "args": []
+            },
+            "Sara Sohn": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "25_displays the type of roller coaster experience that can be achieved from crafty writing and a canvas as simple as a blank screen.",
+                0.5540586176640732
+            ]
+        ],
+        "entities": {
+            "Sev Ohanian": {
+                "args": [
+                    [
+                        "20_co-writers chaganty and sev ohanian carefully construct a twisty whodunit that flirts with the lurid ",
+                        0.6671176992152216
+                    ]
+                ]
+            },
+            "Aneesh Chaganty": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Aneesh Chaganty": {
+                "args": [
+                    [
+                        "10_first-time filmmaker aneesh chaganty (a former google employee, appropriately) is a resourceful man, and a very clever one",
+                        0.7376977032492016
+                    ],
+                    [
+                        "17_this may be the first feature written and directed by aneesh chaganty, a 27-year-old bay area native and former google employee, ",
+                        0.7482873386609408
+                    ],
+                    [
+                        "18_director aneesh chaganty builds a high-voltage thriller told through smartphones, laptop screens, browser windows and surveillance footage.",
+                        0.5251884584551126
+                    ],
+                    [
+                        "20_co-writers chaganty and sev ohanian carefully construct a twisty whodunit that flirts with the lurid ",
+                        0.6671176992152216
+                    ],
+                    [
+                        "28_in all respects, what chaganty and his team have pulled off here is something both novel and accomplished.",
+                        0.6645590003753379
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

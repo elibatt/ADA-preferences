@@ -1,0 +1,149 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the film gets the exterior structures of religion, and even gets the idea of belief, ",
+                0.5276064750082554
+            ],
+            [
+                "1_ronit is rebellious, esti is repressed-two points that disobedience repeats over and over until the dynamic starts to feel caricatured.",
+                -0.7258433024952997
+            ],
+            [
+                "5_lelio's film is about more than sex, or its perhaps easy ability to shock.",
+                0.7036765957789275
+            ],
+            [
+                "10_if the film lacks a formidable emotional impact, that's partly by design.",
+                0.5798539916499343
+            ],
+            [
+                "12_the sexual tension between ronit and esti colors the entire film, and it's intense.",
+                0.7409922744574495
+            ],
+            [
+                "13_it's rare in film to see such a symbiosis between actresses - rare, because there are so few opportunities.",
+                0.7537362492030819
+            ],
+            [
+                "15_lelio's style seems careful and restrained in \"disobedience\" - the colors are drab and muted, the characters speak enigmatically.",
+                -0.531787671105741
+            ],
+            [
+                "19_no one who follows the groundbreaking trail that the movie blazes is going to shut up about it.",
+                0.5248322053884599
+            ],
+            [
+                "23_the possibilities for these characters are more varied than it initially seems, and \"disobedience\" ",
+                0.5252795022024543
+            ],
+            [
+                "27_it's a film that seems at first to be about one thing, ",
+                0.6230281350917991
+            ],
+            [
+                "29_disobedience provides a sensitive portrait of immigration by showing the precise ways returnees can feel like foreigners in places that were once their homes...",
+                0.6552922758045514
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Sebastián Lelio": {
+                "args": [
+                    [
+                        "33_\"disobedience\" may not catapult lelio beyond the arthouse world, ",
+                        0.6706836803599376
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Rebecca Lenkiewicz": {
+                "args": []
+            },
+            "Sebastián Lelio": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "16_what warmth there is - and it is considerable - radiates from its three lead performers and a script that treats each of the central characters as neither hero nor villain.",
+                0.651736857665991
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Cara Horgan": {
+                "args": []
+            },
+            "Rachel McAdams": {
+                "args": [
+                    [
+                        "30_i wish the rest of the movie felt as fully realized as [mcadams'] performance because, like the relationship at its center, there's potential here for something beautiful that feels just out of reach.",
+                        -0.6337727725642207
+                    ]
+                ]
+            },
+            "Alessandro Nivola": {
+                "args": []
+            },
+            "Rachel Weisz": {
+                "args": [
+                    [
+                        "3_lelio and the actors tell the story through fraught silences and meaningful glances, with weisz and mcadams movingly conveying the feeling of being lost - and found - together.",
+                        -0.5400230312221486
+                    ],
+                    [
+                        "8_flawless performances from weisz and mcadams.",
+                        0.6523902163633256
+                    ],
+                    [
+                        "9_such great work from weisz and mcadams -- and an equally stellar performance by alessandro nivola as dovid.",
+                        0.7658348491708302
+                    ],
+                    [
+                        "12_both weisz and mcadams are terrific.",
+                        0.6672288895510321
+                    ],
+                    [
+                        "14_rachel weisz's nuanced performance... overcomes the film's indecisive ending.",
+                        0.6201966046655547
+                    ],
+                    [
+                        "19_rachel weisz and rachel mcadams brilliantly enact this tale of forbidden same-sex attraction in london's orthodox jewish community.",
+                        0.6817988893112991
+                    ],
+                    [
+                        "21_disobedience rests on the strengths of its two rachels, and weisz and mcadams deliver on what they're given.",
+                        0.5191385318287285
+                    ],
+                    [
+                        "26_with rachel weisz and rachel mcadams starring as its furtive, inflamed lovers, disobedience has pedigree to spare.",
+                        0.5505165281354883
+                    ],
+                    [
+                        "31_both weisz and mcadams do a phenomenal job of negotiating who their characters are versus who their characters feel as ",
+                        0.71764935132255
+                    ],
+                    [
+                        "32_beautifully acted by rachel weisz, rachel mcadams and alessandro nivola as the three points of a melancholy romantic triangle, this is a deeply felt drama that exerts a powerful grip.",
+                        0.7377008580241113
+                    ]
+                ]
+            },
+            "Mark Stobbart": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

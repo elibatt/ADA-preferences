@@ -1,0 +1,59 @@
+{
+    "acting": {
+        "args": [
+            [
+                "6_cardona's performance is unshowy and great, ",
+                0.8554502460491352
+            ]
+        ],
+        "entities": {
+            "Donal Brophy": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the movie should be required viewing for every politician in america.",
+                0.5949784393717394
+            ],
+            [
+                "1_it is almost a gentle, sweet film.",
+                0.7207420708040135
+            ],
+            [
+                "4_mckay's control of tone and rhythm is in high gear, creating a work",
+                0.7327331188656341
+            ],
+            [
+                "6_mckay's film is how well the filmmaker uses his setting.",
+                0.6864666185104957
+            ],
+            [
+                "8_once the movie arrives at its brilliant climax, the cumulative effects of passing details lead to sweeping payoff.",
+                0.7364729960381011
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jim McKay": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jim McKay": {
+                "args": []
+            }
+        }
+    }
+}

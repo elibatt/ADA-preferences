@@ -1,0 +1,171 @@
+{
+    "director": {
+        "args": [
+            [
+                "7_the director's greatest strength lies in creating a mood. \"",
+                0.890053774025263
+            ]
+        ],
+        "entities": {
+            "Kogonada": {
+                "args": [
+                    [
+                        "1_\" single-name director kogonada's stunningly beautiful film.",
+                        0.8014710183516702
+                    ],
+                    [
+                        "8_ is that technique never overwhelms feeling, in part because kogonada makes the two seem inextricably, harmoniously linked.",
+                        0.5527284661147155
+                    ],
+                    [
+                        "14_ of kogonada, the south korean video essayist and critic, is a poetic spellbinder about two strangers bonding over modern architecture.",
+                        0.708294963137414
+                    ],
+                    [
+                        "19_an outwardly chilly, resolutely static film that nevertheless finds poignancy in the most surprising places, kogonada's directorial de",
+                        0.7998522705887838
+                    ],
+                    [
+                        "22_lovely and tender, marking kogonada as an auteur to watch.",
+                        0.6353614792396571
+                    ],
+                    [
+                        "23_the impressive range and carefully planned progression of kogonada's formal ideas would be quite useless if they weren't in function of a story worth telling.",
+                        -0.535748234882734
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Joseph Anthony Foronda": {
+                "args": []
+            },
+            "Rosalyn Ross": {
+                "args": []
+            },
+            "Michelle Forbes": {
+                "args": []
+            },
+            "John Cho": {
+                "args": [
+                    [
+                        "15_despite richardson and cho's assured performances, their characters, dialogue,",
+                        0.6217590700162263
+                    ]
+                ]
+            },
+            "Shani Salyers Stiles": {
+                "args": []
+            },
+            "Lindsey Shope": {
+                "args": []
+            },
+            "Alphaeus Green, Jr.": {
+                "args": []
+            },
+            "Jem Cohen": {
+                "args": []
+            },
+            "Erin Allegretti": {
+                "args": []
+            },
+            "Jim Dougherty": {
+                "args": []
+            },
+            "Haley Lu Richardson": {
+                "args": []
+            },
+            "Wynn Reichert": {
+                "args": []
+            },
+            "Parker Posey": {
+                "args": []
+            },
+            "Caitlin Ewald": {
+                "args": []
+            },
+            "Rory Culkin": {
+                "args": []
+            },
+            "Reen Vogel": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_almost startling in how assured it is, synthesizing beautiful, controlled images with story and character.",
+                0.8038622774865952
+            ]
+        ],
+        "entities": {
+            "Kogonada": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the quietly stirring, exquisitely photographed columbus is an art house gem that beautifully illuminates not only the architecture of a small indiana town, ",
+                0.6996375871832204
+            ],
+            [
+                "1_architecture has never been more romantic than in \"columbus,",
+                -0.5780610944317166
+            ],
+            [
+                "2_rarely will images of mighty concrete and stone dwellings set against tranquil waters or a gentle spring shower resonate so powerfully as those on display every day in the southern indiana city of columbus, captured so breathtakingly in the film.",
+                0.815047228231534
+            ],
+            [
+                "5_ applies the principles of these architects to the compositions and structure of the film, a formal tour-de-force that eclipses its modest - ",
+                0.7471851525672668
+            ],
+            [
+                "7_columbus\" is melancholy without being morose, and talky without forced cleverness.",
+                0.5079095900788811
+            ],
+            [
+                "10_columbus is a charming and beautiful indie de",
+                0.8290345192424706
+            ],
+            [
+                "11_the depth of emotion the film stirred up surprised me.",
+                0.6494236825392461
+            ],
+            [
+                "12_a minimalist film like columbus depends almost entirely on the shading of the characters and the depths of the performances.",
+                0.6886154357247398
+            ],
+            [
+                "13_as much as it is about architecture, the film is also a love letter to movies themselves: the sense of majesty they can capture and the strange little worlds they allow us to discover.",
+                0.7394901622123126
+            ],
+            [
+                "17_the movie leaves quite a bit to the eye of the beholder, ",
+                -0.5057556089861998
+            ],
+            [
+                "18_as a movie about intimacy columbus is a masterpiece.",
+                0.6084896491795784
+            ],
+            [
+                "21_\"columbus\" is one of the rare films in which nerdy intelligence-knowledge without experience-comes off without neurosis, comedic awkwardness, or vengeance.",
+                0.7273030154941863
+            ],
+            [
+                "24_a film with precise lines that captures very imprecise human emotions.",
+                0.7964770490806566
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

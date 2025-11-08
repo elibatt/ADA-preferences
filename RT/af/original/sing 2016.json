@@ -1,0 +1,200 @@
+{
+    "writer": {
+        "entities": {
+            "Garth Jennings": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Christophe Lourdelet": {
+                "args": []
+            },
+            "Garth Jennings": {
+                "args": [
+                    [
+                        "26_garth jennings (\"son of rambow\") gives the humor in this comedy a very different sensibility.",
+                        0.7818519965015213
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the concept of the movie is so baffling that it seems to have been cobbled together, madlibs-style, from pieces of other projects.",
+                -0.616931411456385
+            ],
+            [
+                "2_the movie doesn't come close to the humor and heart of [illumination's] summer hit, the secret life of pets.",
+                0.5551146216186014
+            ],
+            [
+                "4_sing doesn't have the grit or the grace notes of zootopia..",
+                -0.7416483427561017
+            ],
+            [
+                "4_no potent metaphors here about predators and victims - the film slides by simply by shaking its sillies out.",
+                0.558202641662758
+            ],
+            [
+                "5_ the film's message that collaboration can reap greater rewards than competition is appropriate for all ages.",
+                0.8086919070101296
+            ],
+            [
+                "8_ where sing soars is in its one-by-one attention to its ensemble of beasts and its obvious passion for music",
+                0.5857551526445971
+            ],
+            [
+                "10_if only real life could so easily be realigned, by a singing pig.",
+                -0.515009768297462
+            ],
+            [
+                "11_remarkably ordinary in concept and execution, \"sing\" is the sort of syrupy animated musical that will appeal to few viewers other than young talent-show fans and their doting parents.",
+                0.629187579689959
+            ],
+            [
+                "12_it's hard to beat a good singing contest.",
+                0.566656644664185
+            ],
+            [
+                "14_the rousing and touching moments line up in orderly fashion, like planes on the runway during the holiday rush.",
+                0.6379798954820098
+            ],
+            [
+                "15_\"sing\" is like a medley of pop hits.",
+                0.604672144878854
+            ],
+            [
+                "17_most of sing's creative energy was invested in the musical numbers and, fortunately, that's where it shines.",
+                0.6643108922031987
+            ],
+            [
+                "17_but the film really can't go toe-to-toe with heavyweights zootopia, moana,",
+                -0.6654592463795825
+            ],
+            [
+                "20_in a year full of talking-animal hits, sing isn't quite as strong a number.",
+                -0.5806801397905575
+            ],
+            [
+                "22_i ceased smiling like a big dummy only during the two points in the film which had been engineered to make me cry, at which point, voilà, tears.",
+                -0.730065997887478
+            ],
+            [
+                "24_in a way, sing deserves credit for bravely rejecting cuteness as a dominant animation aesthetic-",
+                0.7642570936137002
+            ],
+            [
+                "24_ it's not clear that the movie knows it's doing this.",
+                -0.5084223867546311
+            ],
+            [
+                "25_this movie doesn't just sing the standards, it lowers them.",
+                -0.6989486846646769
+            ],
+            [
+                "27_it starts out fun and then sneaks up on you for a final stretch that is both rousing and genuinely emotional.",
+                0.8023658757820629
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Leslie Jones": {
+                "args": []
+            },
+            "Rhea Perlman": {
+                "args": []
+            },
+            "Peter Serafinowicz": {
+                "args": []
+            },
+            "Taron Egerton": {
+                "args": []
+            },
+            "Leo Jennings": {
+                "args": []
+            },
+            "Beck Bennett": {
+                "args": []
+            },
+            "Jennifer Saunders": {
+                "args": []
+            },
+            "Asa Jennings": {
+                "args": []
+            },
+            "Jay Pharoah": {
+                "args": []
+            },
+            "Laraine Newman": {
+                "args": []
+            },
+            "Tori Kelly": {
+                "args": []
+            },
+            "Garth Jennings": {
+                "args": [
+                    [
+                        "26_garth jennings (\"son of rambow\") gives the humor in this comedy a very different sensibility.",
+                        0.7818519965015213
+                    ]
+                ]
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Adam Buxton": {
+                "args": []
+            },
+            "Caspar Jennings": {
+                "args": []
+            },
+            "Matthew McConaughey": {
+                "args": [
+                    [
+                        "12_and anchoring it all is mcconaughey's pleasing drawl.",
+                        0.6687001498346692
+                    ]
+                ]
+            },
+            "Brad Morris": {
+                "args": []
+            },
+            "Bill Farmer": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": []
+            },
+            "Scarlett Johansson": {
+                "args": []
+            },
+            "Jennifer Hudson": {
+                "args": []
+            },
+            "Oscar Jennings": {
+                "args": []
+            },
+            "Reese Witherspoon": {
+                "args": []
+            },
+            "Seth MacFarlane": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

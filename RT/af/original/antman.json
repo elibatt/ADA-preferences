@@ -1,0 +1,653 @@
+{
+    "acting": {
+        "args": [
+            [
+                "8_the cast is better than solid.",
+                0.6718826355896389
+            ]
+        ],
+        "entities": {
+            "T.I.": {
+                "args": [
+                    [
+                        "17_pretending there's a more fascinating version of this film out there somewhere, like the richard donner cut of superman ii, is a great way to come to terms with how rote and unremarkable ant-man is.",
+                        0.6048747523119875
+                    ],
+                    [
+                        "18_rudd is ideal for ant-man's aw-shucks, i'm not into this hero business playfulness.",
+                        0.5398713502083637
+                    ],
+                    [
+                        "23_the second half of this nearly two-hour film is a pure delight - fast-paced and funny and filled with special effects and humor as great as any recent marvel movie, with the possible exception of \"guardians of the galaxy.\"",
+                        0.8644149807816839
+                    ],
+                    [
+                        "24_marvel hasn't made a movie this fun - this bright, this charming, this joyful -- since the first iron man, in which robert downey jr.'s entitled smirk was its most lethal weapon.",
+                        0.6752085211631993
+                    ],
+                    [
+                        "38_it's delightful and almost miraculous the way this movie manages to work as a comic heist picture on a huge scale, and with a comic science-fiction picture blended into it...",
+                        0.8372357488092903
+                    ],
+                    [
+                        "39_ undeserving of all this attention.",
+                        -0.5581061664145939
+                    ],
+                    [
+                        "42_ant-man is the first marvel film - and the first of this summer's pixels-go-kablooey time-wasters - to get better as it goes.",
+                        0.5699680931923079
+                    ]
+                ]
+            },
+            "Mike Benitez": {
+                "args": []
+            },
+            "Jim R. Coleman": {
+                "args": []
+            },
+            "Diego Ward": {
+                "args": []
+            },
+            "Michael A. Cook": {
+                "args": []
+            },
+            "Kevin Buttimer": {
+                "args": []
+            },
+            "Sean Boncato": {
+                "args": []
+            },
+            "Steve Warky Nunez": {
+                "args": []
+            },
+            "Joe Bucaro III": {
+                "args": []
+            },
+            "Erik Betts": {
+                "args": []
+            },
+            "P.T.": {
+                "args": []
+            },
+            "Zamani Wilder": {
+                "args": []
+            },
+            "Desmond Phillips": {
+                "args": []
+            },
+            "Jessejames Locorriere": {
+                "args": []
+            },
+            "Joseph Craig": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Kourtney Shales": {
+                "args": []
+            },
+            "DuRa Brown": {
+                "args": []
+            },
+            "David Dastmalchian": {
+                "args": []
+            },
+            "Bradley Bowen": {
+                "args": []
+            },
+            "Carlos Aviles": {
+                "args": []
+            },
+            "Jason Speer": {
+                "args": []
+            },
+            "Erick Wofford": {
+                "args": []
+            },
+            "Vanessa Ross": {
+                "args": []
+            },
+            "Debi Kimsey": {
+                "args": []
+            },
+            "Kimberly Tran": {
+                "args": []
+            },
+            "Bobby Ysip": {
+                "args": []
+            },
+            "Kylen Davis": {
+                "args": []
+            },
+            "Adam Reeser": {
+                "args": []
+            },
+            "Judy Greer": {
+                "args": []
+            },
+            "Abby Ryder Fortson": {
+                "args": []
+            },
+            "Brian Gonzalez": {
+                "args": []
+            },
+            "Walter Hendrix, III": {
+                "args": []
+            },
+            "Sam Medina": {
+                "args": []
+            },
+            "Christina July Kim": {
+                "args": []
+            },
+            "Larry Kitagawa": {
+                "args": []
+            },
+            "Chuck David Willis": {
+                "args": []
+            },
+            "Lori D. Dotson": {
+                "args": []
+            },
+            "Raul Colon": {
+                "args": []
+            },
+            "Corey Stoll": {
+                "args": []
+            },
+            "Gregg Turkington": {
+                "args": []
+            },
+            "Shafayat Ahmed": {
+                "args": []
+            },
+            "Rod Hallett": {
+                "args": []
+            },
+            "Paul Rudd": {
+                "args": [
+                    [
+                        "4_first, paul rudd, who is laughably unheroic, and has the grace to know as much ...",
+                        -0.5614563283410288
+                    ],
+                    [
+                        "20_and that's a shame, especially for paul rudd fans.",
+                        -0.5344255937004283
+                    ],
+                    [
+                        "36_you can't have a good ant-man movie without a good ant-man, and in the genial and charming everyman paul rudd, the filmmakers have done it right.",
+                        0.5536015637272973
+                    ],
+                    [
+                        "43_reed and rudd's film is proof that no matter how silly some ideas sound at first, good things often do come in small packages.",
+                        0.559946709817887
+                    ],
+                    [
+                        "47_ton-pushing, a good cast led by a winning paul rudd puts the nonsense over in reasonably disarming fashion.",
+                        0.652353932372517
+                    ]
+                ]
+            },
+            "Michael Zovistoski": {
+                "args": []
+            },
+            "Ray Benitez": {
+                "args": []
+            },
+            "Michael Douglas": {
+                "args": []
+            },
+            "Alphonso A'Qen-Aten Jackson": {
+                "args": []
+            },
+            "Cesar Mendoza": {
+                "args": []
+            },
+            "Amor Owens": {
+                "args": []
+            },
+            "Mahal Montoya": {
+                "args": []
+            },
+            "Richard Pis": {
+                "args": []
+            },
+            "Martin Donovan": {
+                "args": []
+            },
+            "Laidee P. Jas": {
+                "args": []
+            },
+            "Hayley Atwell": {
+                "args": []
+            },
+            "Blake Sewell": {
+                "args": []
+            },
+            "Hayley Gagner": {
+                "args": []
+            },
+            "Jonathan Roger Neal": {
+                "args": []
+            },
+            "Thomas Dalby": {
+                "args": []
+            },
+            "Benito M. Selim": {
+                "args": []
+            },
+            "Bari Suzuki": {
+                "args": []
+            },
+            "Fernando Martínez": {
+                "args": []
+            },
+            "Etienne Vick": {
+                "args": []
+            },
+            "Wood Harris": {
+                "args": []
+            },
+            "Neal Genys": {
+                "args": []
+            },
+            "Teddy Williams": {
+                "args": []
+            },
+            "Chace Beck": {
+                "args": []
+            },
+            "John Slattery": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Garrett H. Dumas": {
+                "args": []
+            },
+            "Ed Moye": {
+                "args": []
+            },
+            "Aaron Saxton": {
+                "args": []
+            },
+            "Joe Chrest": {
+                "args": []
+            },
+            "Leilani Amour Arenzana": {
+                "args": []
+            },
+            "Joel Hebner": {
+                "args": []
+            },
+            "Steven Wiig": {
+                "args": []
+            },
+            "Tahseen Ghauri": {
+                "args": []
+            },
+            "Jordi Molla": {
+                "args": []
+            },
+            "Zack Duhame": {
+                "args": []
+            },
+            "Brian H. Kim": {
+                "args": []
+            },
+            "Evangeline Lilly": {
+                "args": []
+            },
+            "Fred Galle": {
+                "args": []
+            },
+            "Scott Ledbetter": {
+                "args": []
+            },
+            "Jonathan S. Kennedy": {
+                "args": []
+            },
+            "Matthew Sleepy Davis": {
+                "args": []
+            },
+            "Robert Crayton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_no other marvel installment has felt as weighed down by its obligations to the franchise.",
+                -0.7479906556105342
+            ],
+            [
+                "1_[ants are] pests, and that's just a weird place to start for a superhero, especially if he never strays too far from his origins.",
+                0.5297853704750224
+            ],
+            [
+                "2_at long last marvel studios offers up a superhero smaller than its artistic ambitions.",
+                0.5338634160115125
+            ],
+            [
+                "3_the overwhelming, self-serious sense that we are watching something very important blissfully doesn't exist in ant-man.",
+                -0.5051441764487465
+            ],
+            [
+                "3_it's just plain fun: light, breezy, simple and enjoyable.",
+                0.8201477385581721
+            ],
+            [
+                "4_what, if anything, holds \"ant-man\" together?",
+                -0.5004361796027086
+            ],
+            [
+                "5_it's difficult to shake the sense that the film was assembled hurriedly and somewhat haphazardly.",
+                -0.7573114149429734
+            ],
+            [
+                "5_which, from all available evidence, is exactly what happened.",
+                -0.5878354554205647
+            ],
+            [
+                "6_this is the sort of movie where you see the effort and say, thank god.",
+                -0.5393451543193378
+            ],
+            [
+                "7_in its medium-stupid and mismanaged fashion it's not so awful.",
+                -0.945676245218424
+            ],
+            [
+                "8_the cast is better than solid.",
+                0.6718826355896389
+            ],
+            [
+                "8_the visual effects are witty, especially when he begins making allies of various ant colonies.",
+                0.5673417558950786
+            ],
+            [
+                "9_ anything marvel that doesn't feel marvel-ish makes me smile.",
+                -0.6370125202640124
+            ],
+            [
+                "10_not just one of the more entertaining marvel movies - infinitely better than joss whedon's overstuffed avengers: age of ultron - ",
+                0.7567985264073556
+            ],
+            [
+                "10_ a genuinely fun and clever deconstruction of the genre, too.",
+                0.7818530789615873
+            ],
+            [
+                "11_for a small movie, \"ant-man\" has a lot going on.",
+                0.5412937555265772
+            ],
+            [
+                "12_i wish the film had gone even further into loopiness.",
+                -0.6487167503071198
+            ],
+            [
+                "12_ often small on risk-taking.",
+                0.5804594411931123
+            ],
+            [
+                "13_the result is a film not quite sure of itself, like it's wearing clothes a size too big.",
+                -0.568136929225586
+            ],
+            [
+                "14_ its origin-story machinations get the better of it,",
+                0.5022367419032221
+            ],
+            [
+                "15_the attempts at overt comedy are hit-and-miss.",
+                -0.7726098361925425
+            ],
+            [
+                "15_the heist elements are derivative and not nearly as inventive as one might expect given the possibilities.",
+                0.5241991792217603
+            ],
+            [
+                "15_the action sequences are variable and the dramatic moments...",
+                -0.523907628461461
+            ],
+            [
+                "15_the less said, the better.",
+                -0.5528241965107488
+            ],
+            [
+                "16_rudd's charm and an overall sense of silliness make for breezy summer fun.",
+                0.8345032850393017
+            ],
+            [
+                "16_it's also marvel's most kid-friendly movie yet.",
+                0.6882482789195506
+            ],
+            [
+                "19_a film that will surely be popular, given marvel's marketing might, ",
+                0.784661020365413
+            ],
+            [
+                "19_ one that's woefully short on coherence and originality.",
+                0.5197309781128605
+            ],
+            [
+                "20_this acceptably diverting superhero outing keeps threatening to break free and become something special, ",
+                0.6201635295255468
+            ],
+            [
+                "20_ in the end, there's just too much at stake.",
+                -0.7401625970459145
+            ],
+            [
+                "21_it doesn't rise to the screwball audacity of \"guardians of the galaxy.\"",
+                -0.5392328267746787
+            ],
+            [
+                "21_but it's an endearing exercise in style - a playful,",
+                0.7982724315267188
+            ],
+            [
+                "21_ small-scale crowd-pleaser that parodies its bombastic marvel precursors.",
+                0.624643067575402
+            ],
+            [
+                "22_everyone involved can proudly declare, \"honey, i shrunk the marvel cinematic universe.\"",
+                0.5266312874898389
+            ],
+            [
+                "25_not only one of the more entertainingly human fantasies to come out of the studio, ",
+                0.5161807658597499
+            ],
+            [
+                "25_ it also defies the bedrock fanboy aesthetic that you don't want to merely watch the superhero",
+                0.5588802037622466
+            ],
+            [
+                "25_-you want to be the superhero.",
+                0.5011978323612328
+            ],
+            [
+                "27_an enjoyable, intermittently inspired effects-driven comedy and a welcome antidote to the over-burdened world-saving that seems to define big-screen superhero stories.",
+                0.8241624752425079
+            ],
+            [
+                "28_glides us over trouble spots in tone and pacing.",
+                -0.6491446014818706
+            ],
+            [
+                "28_the little bastard from marvel's second-tier gets the job done.",
+                -0.5394473900803289
+            ],
+            [
+                "29_last year's off-brand marvel hit, \"ant-man\" dabbles in the bright, playful colors of the superhero spectrum, reveling in moments of cartoonish whimsy and smirky humor.",
+                0.7359662915983581
+            ],
+            [
+                "30_when your most memorable character turns out to be thomas the tank engine, featured in two hilarious scenes, you know your picture about a tiny superhero has big, big problems.",
+                0.7370497634154402
+            ],
+            [
+                "31_\"ant-man\" is proof that pretty good things come in small packages.",
+                0.6981209797359921
+            ],
+            [
+                "32_to find a smarter bug-man saga, you'd have to go back to \"the metamorphosis.\"",
+                -0.5399223899241359
+            ],
+            [
+                "33_it chugs along happily enough, ",
+                0.5488946508868231
+            ],
+            [
+                "33_ never kicks into the higher gear you keep waiting (and hoping) for.",
+                0.6003593906953922
+            ],
+            [
+                "34_as it dutifully marches toward its special-effects-driven conclusion, ant-man has enough charm to be engaging if not particularly memorable once the end credits roll",
+                0.7040890086053138
+            ],
+            [
+                "35_when it's on its game, ant-man does some of the best stuff ever in a marvel movie.",
+                0.7407156600881143
+            ],
+            [
+                "37_the best thing about \"ant-man\" is that, for much of its running time, it doesn't seem like a marvel comics superhero movie.",
+                -0.5805925727840721
+            ],
+            [
+                "37_the worst thing about it is that it eventually does.",
+                -0.9194222659020846
+            ],
+            [
+                "38_while managing to cohere to the whole, you know, marvel thing.",
+                0.5828219495523191
+            ],
+            [
+                "39_ant-man emerges only as a minor hero - fine for occasional gags and cameos in upcoming marvel ensembles, ",
+                0.6252711522214598
+            ],
+            [
+                "39_and his movie feels, not like a well-deserved launch, ",
+                0.5579841982434752
+            ],
+            [
+                "39_ a contractual obligation ...",
+                0.5261106848076106
+            ],
+            [
+                "40_like all great heroes, ant-man arrives in the nick of time ... for an entire genre.",
+                0.6509310250799056
+            ],
+            [
+                "41_the plot's the same old thing.",
+                -0.6087444683893536
+            ],
+            [
+                "41_mad, mad, mad, mad science",
+                -0.682068474334292
+            ],
+            [
+                "41_ blah blah blaggidy blah.",
+                -0.5515874442122379
+            ],
+            [
+                "41_, is relatively light and predominantly comic.",
+                0.648352003457128
+            ],
+            [
+                "44_even the jokes that do work leave some laughs on the table, and the impulse to play things safe proves emblematic of a film that shrinks in the face of a challenge.",
+                0.6253539650851259
+            ],
+            [
+                "45_serves up jokes that don't land and thrills that don't thrill.",
+                -0.5773819791445414
+            ],
+            [
+                "46_succeeds well enough as a genial diversion and sometimes a delightful one, predicated on the rarely heeded hollywood wisdom that less really can be more.",
+                0.6512060492694428
+            ],
+            [
+                "47_ the story dynamics are fundamentally silly and the family stuff, with its parallel father-daughter melodrama,",
+                0.5592311395765266
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Peyton Reed": {
+                "args": [
+                    [
+                        "8_directed by peyton reed, the action is a zippy pleasure.",
+                        0.580445447351349
+                    ],
+                    [
+                        "9_ant-man isn't much more than pleasant (peyton reed directs limply), ",
+                        -0.6475720045977758
+                    ],
+                    [
+                        "12_like ant-man, the film, directed by peyton reed, comes in two sizes -- it's sometimes big on laughs ",
+                        0.6326981709802693
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "30_when your most memorable character turns out to be thomas the tank engine, featured in two hilarious scenes, you know your picture about a tiny superhero has big, big problems.",
+                0.7370497634154402
+            ]
+        ],
+        "entities": {
+            "Jack Kirby": {
+                "args": []
+            },
+            "Larry Lieber": {
+                "args": []
+            },
+            "Paul Rudd": {
+                "args": [
+                    [
+                        "4_first, paul rudd, who is laughably unheroic, and has the grace to know as much ...",
+                        -0.5614563283410288
+                    ],
+                    [
+                        "20_and that's a shame, especially for paul rudd fans.",
+                        -0.5344255937004283
+                    ],
+                    [
+                        "36_you can't have a good ant-man movie without a good ant-man, and in the genial and charming everyman paul rudd, the filmmakers have done it right.",
+                        0.5536015637272973
+                    ],
+                    [
+                        "43_reed and rudd's film is proof that no matter how silly some ideas sound at first, good things often do come in small packages.",
+                        0.559946709817887
+                    ],
+                    [
+                        "47_ton-pushing, a good cast led by a winning paul rudd puts the nonsense over in reasonably disarming fashion.",
+                        0.652353932372517
+                    ]
+                ]
+            },
+            "Adam McKay": {
+                "args": []
+            },
+            "Joe Cornish": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Edgar Wright": {
+                "args": []
+            }
+        }
+    }
+}

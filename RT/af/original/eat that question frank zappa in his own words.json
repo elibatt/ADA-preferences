@@ -1,0 +1,112 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Adrian Belew": {
+                "args": []
+            },
+            "Theodore Bikel": {
+                "args": []
+            },
+            "Steve Allen": {
+                "args": []
+            },
+            "Frank Zappa": {
+                "args": [
+                    [
+                        "0_any true zappa fan will eat this stuff up.",
+                        0.6583693405980369
+                    ],
+                    [
+                        "1_\"eat that question\" may be of most interest to zappa fans, ",
+                        0.7299598296796668
+                    ],
+                    [
+                        "3_you don't have to be a fan of frank zappa's music to enjoy",
+                        0.6246321391590568
+                    ],
+                    [
+                        "3_frank zappa in his own words,\" thorsten schutte's documentary.",
+                        0.6844904858727303
+                    ],
+                    [
+                        "4_ there is some nice performance footage, the film isn't a good way for a beginner to get a grip on zappa's music,",
+                        0.6525975109441743
+                    ],
+                    [
+                        "4_it is a nice journey through zappa's mind for the already converted.",
+                        0.7222442255597057
+                    ],
+                    [
+                        "7_there's no small irony in a frank zappa doc being built around the man's interviews, since he regarded journalism as a form of torture.",
+                        -0.5396573913248282
+                    ],
+                    [
+                        "8_frank zappa was an innovative composer and musician, ",
+                        0.6080931508447253
+                    ],
+                    [
+                        "9_ it is also unlikely to make converts out of those who just don't get zappa's pastiche of juvenile parody and sophisticated songwriting, derived from rock, jazz and 20th-century experimental music.",
+                        -0.6647844434575826
+                    ],
+                    [
+                        "10_\"eat that question\" will please zappa fans, ",
+                        0.553126717665061
+                    ],
+                    [
+                        "12_eat that question is a fitting title for a movie that never quite gets at the mystery of zappa's contradictions, even as it stacks up intimate live clips and fierce monologues from a rich trove of vintage interviews.",
+                        0.6154331158251322
+                    ],
+                    [
+                        "13_the movie put me on a major zappa listening jag ... which makes it sound like a fan-only proposition.",
+                        -0.5470540835296337
+                    ],
+                    [
+                        "14_seeing mr. schütte's film, i'm reminded of how much more there was to explain about zappa, and delighted to find how well the film explains it almost a quarter-century after his death.",
+                        -0.5165262148235782
+                    ],
+                    [
+                        "15_along the way, we are given an overview of zappa's career, from his early albums with the mothers of invention through his not particularly accessible classical compositions.",
+                        0.7553004109800204
+                    ],
+                    [
+                        "18_there's no explicit attempt to put forth a grand unifying theory of zappa",
+                        0.5030490550069158
+                    ],
+                    [
+                        "18_ schütte immerses us in the competing aspects of zappa's public persona for their own sake.",
+                        0.7383571853335233
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Thorsten Schütte": {
+                "args": [
+                    [
+                        "14_seeing mr. schütte's film, i'm reminded of how much more there was to explain about zappa, and delighted to find how well the film explains it almost a quarter-century after his death.",
+                        -0.5165262148235782
+                    ],
+                    [
+                        "18_ schütte immerses us in the competing aspects of zappa's public persona for their own sake.",
+                        0.7383571853335233
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

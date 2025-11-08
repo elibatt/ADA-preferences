@@ -1,0 +1,104 @@
+{
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "1_ portman embodies her character's grief no less movingly than her forebears.",
+                -0.5327654714571501
+            ],
+            [
+                "5_ the movie sells her character short at nearly every turn.",
+                -0.6061815822766006
+            ]
+        ]
+    },
+    "director": {
+        "entities": {},
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_o'connor's movie is too sentimental and self-serious to add much of note to the mythos, ",
+                -0.6178189792436479
+            ],
+            [
+                "2_at times, jane got a gun comes perilously close to staying passive-to becoming a gun was gotten by jane.",
+                -0.6491099715619573
+            ],
+            [
+                "3_as stripped-down, revisionist westerns go, \"jane got a gun\" may not have reinvented the wagon wheel, ",
+                0.6043140532543789
+            ],
+            [
+                "4_whatever feminist angle the film might have once aspired to is lost in its listless shuffle.",
+                -0.8112040567157353
+            ],
+            [
+                "5_, \"jane got a gun\" is a major letdown.",
+                -0.5392937617495535
+            ],
+            [
+                "5_ the movie sells her character short at nearly every turn.",
+                -0.6061815822766006
+            ],
+            [
+                "8_jane got a gun is a slow fuse of a film that burns to a whimper instead of an explosion.",
+                -0.6816529553156212
+            ],
+            [
+                "9_the problem with the film is that it never quite finds that final spark of inspiration that might have made it worth seeing, let alone producing in the first place, and it is further hampered by some clunkiness in the storytelling department.",
+                0.5084541616756547
+            ],
+            [
+                "11_this poor little movie fires blanks.",
+                -0.7911047428628021
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Maisie McMaster": {
+                "args": []
+            },
+            "Rodrigo Santoro": {
+                "args": []
+            },
+            "Boyd Holbrook": {
+                "args": []
+            },
+            "Ewan McGregor": {
+                "args": []
+            },
+            "Sam Quinn": {
+                "args": []
+            },
+            "Noah Emmerich": {
+                "args": []
+            },
+            "Natalie Portman": {
+                "args": [
+                    [
+                        "1_ portman embodies her character's grief no less movingly than her forebears.",
+                        -0.5327654714571501
+                    ],
+                    [
+                        "5_despite being co-produced by portman,",
+                        0.5515095652658925
+                    ]
+                ]
+            },
+            "James Burnett": {
+                "args": []
+            },
+            "Joel Edgerton": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

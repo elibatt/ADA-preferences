@@ -1,0 +1,79 @@
+{
+    "acting": {
+        "entities": {
+            "Wang Baoqiang": {
+                "args": []
+            },
+            "Wang Xun": {
+                "args": []
+            },
+            "Michael Pitt": {
+                "args": []
+            },
+            "Haoran Liu": {
+                "args": []
+            },
+            "Xiao Yang": {
+                "args": []
+            },
+            "Natasha Liu Bordizzo": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Sicheng Chen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_though less of a brainteaser than the original film, director-writer chen sicheng infuses chinese color into a plot that solves crimes by using feng shui as clues,",
+                0.5964273366215663
+            ],
+            [
+                "4_the script blasts through reams of plot with lightning dialogue, and even if you have a fast eye for subtitles",
+                0.5598552093351498
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_ detective chinatown 2 is a case worth taking.",
+                0.5678850814777655
+            ],
+            [
+                "2_i can't give the film my most immediate recommendation, ",
+                0.58742645188189
+            ],
+            [
+                "2_ for anyone concerned about the case of the missing modern buddy cop comedy, detective chinatown 2 is a noteworthy placeholder.",
+                -0.658237860343767
+            ],
+            [
+                "4_you may come to the end of the movie with no clear idea what happened.",
+                -0.7084843755498612
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sicheng Chen": {
+                "args": [
+                    [
+                        "1_though less of a brainteaser than the original film, director-writer chen sicheng infuses chinese color into a plot that solves crimes by using feng shui as clues,",
+                        0.5964273366215663
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

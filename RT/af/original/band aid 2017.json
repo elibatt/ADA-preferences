@@ -1,0 +1,154 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_the film too often struggles to find a balance between being searing and charming",
+                0.7101785921417268
+            ],
+            [
+                "5_i wouldn't call \"band aid\" profound, ",
+                -0.5430702077132914
+            ],
+            [
+                "9_lister-jones is the very definition of a 'phenom' and if the film sometimes falls back on cliché, there's enough charm and interest here--particularly in the chemistry between the two leads--to keep it afloat.",
+                0.7308837232103759
+            ],
+            [
+                "10_a charming and profoundly affecting film that dives into the messy business of creation.",
+                0.8371823466261407
+            ],
+            [
+                "11_you may still wish band aid better distinguished their relationship.",
+                0.6675290014357578
+            ],
+            [
+                "12_both leads are excellent together, and the movie is good at showing how anna and ben push each other's ",
+                0.818954006163144
+            ],
+            [
+                "13_at its best, band aid ... carries us along with anna and ben's rocky ride through mourning the loss of youth, with its absolutist faith that there's a life code to be cracked, upon which a door will swing open to blissful ever after.",
+                0.8583170092338757
+            ],
+            [
+                "16_band aid may be slight, a bit stagey and not too visually striking, ",
+                0.5453094830088229
+            ],
+            [
+                "17_sweet and sincere band aid makes a convincing case that relationships are all about how you heal from them.",
+                0.8108321171807078
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Zoe Lister-Jones": {
+                "args": [
+                    [
+                        "0_full of sarcastic humor, earnest emotion and a phenomenal performance from writer/director/producer/star zoe lister-jones, it hinges on the central relationship.",
+                        0.7350008765677293
+                    ],
+                    [
+                        "2_as a performer, lister-jones acquits herself well on both the comedic and melodramatic fronts.",
+                        0.6358438830040545
+                    ],
+                    [
+                        "3_ from lister-jones, on all fronts.",
+                        0.5746656643602123
+                    ],
+                    [
+                        "4_ at best, it's a notable curio, one lister-jones may well build on for her next feature.",
+                        0.6981201823149364
+                    ],
+                    [
+                        "14_if zoe lister-jones wrote, produced, and directed her new film, band aid, to finally give herself a standout role, she succeeded.",
+                        0.7949861449649058
+                    ],
+                    [
+                        "19_it lives and dies on lister-jones and pally's chemistry, which the film is just as willing to test as to nurture.",
+                        0.6591311268676494
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ravi Patel": {
+                "args": []
+            },
+            "Jesse Williams": {
+                "args": []
+            },
+            "Brooklyn Decker": {
+                "args": []
+            },
+            "Susie Essman": {
+                "args": []
+            },
+            "Colin Hanks": {
+                "args": []
+            },
+            "Hannah Simone": {
+                "args": []
+            },
+            "Fred Armisen": {
+                "args": []
+            },
+            "Zoe Lister-Jones": {
+                "args": [
+                    [
+                        "0_full of sarcastic humor, earnest emotion and a phenomenal performance from writer/director/producer/star zoe lister-jones, it hinges on the central relationship.",
+                        0.7350008765677293
+                    ],
+                    [
+                        "2_as a performer, lister-jones acquits herself well on both the comedic and melodramatic fronts.",
+                        0.6358438830040545
+                    ],
+                    [
+                        "3_ from lister-jones, on all fronts.",
+                        0.5746656643602123
+                    ],
+                    [
+                        "4_ at best, it's a notable curio, one lister-jones may well build on for her next feature.",
+                        0.6981201823149364
+                    ],
+                    [
+                        "14_if zoe lister-jones wrote, produced, and directed her new film, band aid, to finally give herself a standout role, she succeeded.",
+                        0.7949861449649058
+                    ],
+                    [
+                        "19_it lives and dies on lister-jones and pally's chemistry, which the film is just as willing to test as to nurture.",
+                        0.6591311268676494
+                    ]
+                ]
+            },
+            "Adam Pally": {
+                "args": [
+                    [
+                        "2_and the scruffily charming pally comes across as a hybrid of seth rogen and paul rudd.",
+                        0.5840478213959087
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "0_full of sarcastic humor, earnest emotion and a phenomenal performance from writer/director/producer/star zoe lister-jones, it hinges on the central relationship.",
+                0.7350008765677293
+            ]
+        ],
+        "entities": {
+            "Zoe Lister-Jones": {
+                "args": []
+            }
+        }
+    }
+}

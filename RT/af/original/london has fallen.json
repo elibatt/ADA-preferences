@@ -1,0 +1,256 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "10_like the original, london has fallen features a top-notch cast and some crackling good action sequences.",
+                0.7608308704986738
+            ]
+        ],
+        "entities": {
+            "Shivani Ghai": {
+                "args": []
+            },
+            "Robert Forster": {
+                "args": []
+            },
+            "Clarkson Guy Williams": {
+                "args": []
+            },
+            "Gerard Butler": {
+                "args": []
+            },
+            "Mehdi Dehbi": {
+                "args": []
+            },
+            "Alon Aboutboul": {
+                "args": []
+            },
+            "Boyan Anev": {
+                "args": []
+            },
+            "Owen Davis": {
+                "args": []
+            },
+            "Julia Montgomery Brown": {
+                "args": [
+                    [
+                        "24_ler fans, and for r-rated action audiences hungry for a scenario in which the good, and mostly white, people pick off the brown, completely inhumanly bad people by the dozen.",
+                        -0.5621713266946109
+                    ]
+                ]
+            },
+            "Sadao Ueda": {
+                "args": []
+            },
+            "Adel Bencherif": {
+                "args": []
+            },
+            "Deborah Grant": {
+                "args": []
+            },
+            "Angela Bassett": {
+                "args": []
+            },
+            "Terence Beesley": {
+                "args": []
+            },
+            "Owen Davis Jr.": {
+                "args": []
+            },
+            "Kemi-Bo Jacobs": {
+                "args": []
+            },
+            "Jackie Earle Haley": {
+                "args": []
+            },
+            "Stacy Shane": {
+                "args": []
+            },
+            "Waleed F. Zuaiter": {
+                "args": []
+            },
+            "Terence Randall": {
+                "args": []
+            },
+            "Julian Kostov": {
+                "args": []
+            },
+            "Elsa Mollien": {
+                "args": []
+            },
+            "Sean O'Bryan": {
+                "args": []
+            },
+            "Jean Baptiste Fillon": {
+                "args": []
+            },
+            "Nikesh Patel": {
+                "args": []
+            },
+            "Joe Fidler": {
+                "args": []
+            },
+            "Morgan Freeman": {
+                "args": []
+            },
+            "Patrick Kennedy": {
+                "args": []
+            },
+            "Nancy Baldwin": {
+                "args": []
+            },
+            "Michael Wildman": {
+                "args": []
+            },
+            "Ginny Holder": {
+                "args": []
+            },
+            "Tsuwayuki Saotome": {
+                "args": []
+            },
+            "Charlotte Riley": {
+                "args": []
+            },
+            "Philip Delancy": {
+                "args": []
+            },
+            "Bryan Larkin": {
+                "args": []
+            },
+            "Melissa Leo": {
+                "args": []
+            },
+            "Harrison Simon": {
+                "args": []
+            },
+            "Andrew Pleavin": {
+                "args": []
+            },
+            "Penny Downie": {
+                "args": []
+            },
+            "Madison Lowry": {
+                "args": []
+            },
+            "Lucy Newman-Williams": {
+                "args": []
+            },
+            "Radha Mitchell": {
+                "args": []
+            },
+            "Scott Sparrow": {
+                "args": []
+            },
+            "Simon Connolly": {
+                "args": []
+            },
+            "Martin Petrushev": {
+                "args": []
+            },
+            "Colin Salmon": {
+                "args": []
+            },
+            "Aaron Eckhart": {
+                "args": [
+                    [
+                        "14_ler and eckhart's] mildly diverting performances aren't enough to dislodge the film's troubling pro-engagement message.",
+                        -0.6947268745038607
+                    ]
+                ]
+            },
+            "Alex Giannini": {
+                "args": []
+            },
+            "Nigel Whitmey": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Babak Najafi": {
+                "args": [
+                    [
+                        "4_director babak najafi, who not surprisingly staged something called easy money ii, botches the action sequences so crudely, consistently and cynically that he makes michael bay look like kurosawa.",
+                        -0.695940136681269
+                    ],
+                    [
+                        "5_somewhere along the line, it may occur to you that babak najafi's sequel to 2013's president-in-peril pic olympus has fallen is a sly attack on america masquerading as a celebration of same.",
+                        0.7757848482506584
+                    ],
+                    [
+                        "19_it's all silly and meant to be fun, except when najafi tries to throw in some serious bits, which wind up being sillier still.",
+                        -0.7139182778002919
+                    ],
+                    [
+                        "20_still, najafi's ambition to make an old-fashioned action flick means reverting to a bygone way of seeing america's place in the world.",
+                        0.748146313207124
+                    ],
+                    [
+                        "30_for this even crasser sequel [fuqua has] been replaced by director babak najafi, who thinks that if four people with assault weapons are good, than 40 are even better.",
+                        0.5732800046099308
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_butler's dark gusto is unexplained, and his character lacks the charisma and one-liners of fellow macho world-savers rambo,",
+                0.5847075052106561
+            ]
+        ],
+        "entities": {
+            "Creighton Rothenberger": {
+                "args": []
+            },
+            "Chad St. John": {
+                "args": []
+            },
+            "Katrin Benedikt": {
+                "args": []
+            },
+            "Christian Gudegast": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_london has fallen is donald trump in film form.",
+                0.6027258651635653
+            ],
+            [
+                "7_it's rarely exciting or suspenseful, and some of the digital effects are also reminiscent of a 1980s action movie level.",
+                0.5791551308012663
+            ],
+            [
+                "10_like the original, london has fallen features a top-notch cast and some crackling good action sequences.",
+                0.7608308704986738
+            ],
+            [
+                "12_london has fallen is competently made and offers what any viewer would reasonably expect.",
+                0.6006412871150049
+            ],
+            [
+                "18_\"london has fallen\" is remarkable only because of how much worse it is than its inane predecessor, 2013's \"olympus has fallen.\"",
+                -0.6407998219947635
+            ],
+            [
+                "23_this sort of movie was made for television viewing.",
+                -0.6020468418457814
+            ],
+            [
+                "27_by casting its villain as a suspiciously isis-like middle eastern terrorist network, london has fallen makes itself into a political movie-",
+                0.544747750058241
+            ]
+        ]
+    }
+}

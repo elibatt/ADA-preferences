@@ -1,0 +1,121 @@
+{
+    "writer": {
+        "entities": {
+            "Ronnie Sandahl": {
+                "args": [
+                    [
+                        "5_danish documentarian janus metz-making his first feature, and working from a script by ronnie sandahl-feels the need to hold our hands and oversimplify these two titans of tennis.",
+                        0.5395903083465475
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "2_\"borg vs. mcenroe\" is an anecdotally gratifying, psychologically nuanced, and dramatically agile character study of borg, ",
+                0.6839019801806435
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Janus Metz ": {
+                "args": [
+                    [
+                        "5_danish documentarian janus metz-making his first feature, and working from a script by ronnie sandahl-feels the need to hold our hands and oversimplify these two titans of tennis.",
+                        0.5395903083465475
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_his film brings that home.",
+                0.6353414366820531
+            ],
+            [
+                "2_ its extended depictions of a celebrated match, it's not a satisfying tennis movie at all.",
+                -0.6295051444431211
+            ],
+            [
+                "3_it's about damn time somebody made a movie outta these guys.",
+                -0.6273257834435773
+            ],
+            [
+                "9_borg vs mcenroe underscores the inherent drama in sports movies, while tapping into a nostalgia factor for a moment when tennis produced storied rivalries and never felt bigger.",
+                -0.5454354746089696
+            ],
+            [
+                "11_the movie's biggest revelation - at least it was a revelation to me - is just how alike these two men were beneath their outward personas.",
+                -0.6349159341924927
+            ],
+            [
+                "12_the film's main fault is how it drags between matches, ",
+                0.5296775077629936
+            ],
+            [
+                "13_labeouf is the best thing about the movie.",
+                0.7105180130596853
+            ],
+            [
+                "18_this fabulous, moody film isn't your typical jock flick where bitter rivals compete to a crowning, sweaty end.",
+                0.509805997457046
+            ],
+            [
+                "21_what we're left with is a staid little movie that races around the court and rallies itself to exhaustion, a historical drama that enshrines the narrative underpinnings of all great sports stories without doing anything to upend them.",
+                0.5842455411412654
+            ],
+            [
+                "22_game, set and almost a great movie.",
+                0.7724430456779396
+            ],
+            [
+                "23_it's a sports movie for masochistic, vainglorious athletes.",
+                0.5610063549906469
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Stellan Skarsgard": {
+                "args": []
+            },
+            "Tuva Novotny": {
+                "args": []
+            },
+            "Sverrir Gudnason": {
+                "args": []
+            },
+            "Shia LaBeouf": {
+                "args": [
+                    [
+                        "6_recreation of a classic 1980 tennis showdown at wimbledon is helped by stellar acting - and gives its formerly tempestuous star shia labeouf a perfect comeback role.",
+                        0.8200570738524253
+                    ],
+                    [
+                        "16_the film - which is nowhere near as interesting as labeouf's performance - is hopelessly reductive about its subjects' psychology even as it mocks the press of 1980 for being reductive about its subjects' psychology.",
+                        0.5335351827104557
+                    ],
+                    [
+                        "25_playing tennis may not seem the best use of shia labeouf's talents, ",
+                        0.8898171417925621
+                    ]
+                ]
+            },
+            "David Bamber": {
+                "args": []
+            },
+            "Björn Granath": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

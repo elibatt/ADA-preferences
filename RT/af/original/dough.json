@@ -1,0 +1,168 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_this london-set comedy means well, ",
+                0.6137461909611324
+            ],
+            [
+                "0_ it's painfully earnest - and it doesn't help that the script is total nonsense.",
+                -0.7669114356478981
+            ],
+            [
+                "1_a culture-clash comedy at once so-bad-it's-good and so-good-it's-bad that it kept me laughing throughout.",
+                -0.5798235307347627
+            ],
+            [
+                "2_it's tempting to ask whether the writers were high when they came up with the concept for dough, except that the film itself makes it clear that they don't have a lot of experience in that area.",
+                -0.5512342754463659
+            ],
+            [
+                "3_it's all about as predictable as it sounds, ",
+                -0.5983145655550662
+            ],
+            [
+                "4_though dough is often in danger of running off the rails with improbable and unnecessary plot twists,",
+                -0.7125663936623639
+            ],
+            [
+                "4_ it is always essentially entertaining and warm in its observations of hope rekindled through simple relationships.",
+                0.8420405343356512
+            ],
+            [
+                "5_dough's formulaic structure is made up for by the dynamic chemistry between its leads.",
+                0.5258148513891557
+            ],
+            [
+                "6_a stickily genteel, cross-cultural comedy-drama that comes up blandly lacking on all counts.",
+                0.6476973763491078
+            ],
+            [
+                "7_\"dough\" is sweet, often funny and always nonthreatening, a movie for those who wish the intractable realities of the world would just disappear.",
+                0.707831937089532
+            ],
+            [
+                "8_\"dough\" includes no secret ingredient.",
+                -0.5521203940855322
+            ],
+            [
+                "8_, mix the makings of many other movie recipes, in the unfounded hope of coming up with something fresh.",
+                -0.5750559196803174
+            ],
+            [
+                "9_it sounds like a fun story, with strong culture-clash potential, ",
+                0.8337741916127664
+            ],
+            [
+                "9_ the execution gets botched.",
+                -0.6072914986853177
+            ],
+            [
+                "10_goldschmidt's low-key delight is tied more to tradition and culture than religion, ",
+                0.8164096463669103
+            ],
+            [
+                "10_ it's a sweet peace accord between observant jews and muslims, and across generations.",
+                0.7912104751940217
+            ],
+            [
+                "11_dough is fun, a sweet-natured confection with a hopeful message about unity that is well-suited for our socially complex, divided times.",
+                0.8375394578646465
+            ],
+            [
+                "12_a mirthful, edgeless dramedy.",
+                -0.5517366758569813
+            ],
+            [
+                "13_\"dough\" should have been more easily digestible",
+                -0.6719563027926422
+            ],
+            [
+                "13_ the setup is sure to appeal to occasional stoners and jewish foodies.",
+                0.507990021097937
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "John Goldschmidt": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jonathan Benson": {
+                "args": []
+            },
+            "Jez Freedman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ it's painfully earnest - and it doesn't help that the script is total nonsense.",
+                -0.7669114356478981
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Jonathan Pryce": {
+                "args": [
+                    [
+                        "3_ it works anyway, thanks to some snappy dialogue and the engaging turns by old pros pryce and collins.",
+                        0.8229414831558577
+                    ]
+                ]
+            },
+            "Philip Davis": {
+                "args": []
+            },
+            "Andy de la Tour": {
+                "args": []
+            },
+            "Malachi Kirby": {
+                "args": []
+            },
+            "Joel Beckett": {
+                "args": []
+            },
+            "Nastasha Gordon": {
+                "args": []
+            },
+            "Daniel Caltagirone": {
+                "args": []
+            },
+            "Jerome Holder": {
+                "args": [
+                    [
+                        "5_pryce and holder play off each other with all the bluster and awkwardness of a real-life father and son.",
+                        0.7172487821974745
+                    ]
+                ]
+            },
+            "Paul Blackwell": {
+                "args": []
+            },
+            "Melanie Freeman": {
+                "args": []
+            },
+            "Andrew Ellis": {
+                "args": []
+            },
+            "Pauline Collins": {
+                "args": []
+            },
+            "Ian Hart": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie strives to be both scary and funny ",
+                -0.5184776985273154
+            ],
+            [
+                "2_this is a perfect film for our mash-up/viral culture in which short, clever, easily digestible bits of entertainment are passed along giddily from friend to friend.",
+                0.797622735363227
+            ],
+            [
+                "13_like its original source material, pride and prejudice and zombies works best as a comedy of manners.",
+                0.883987523332067
+            ],
+            [
+                "16_austen geeks and zombie lovers will enjoy enough laughs to tip the scales in the film's favor.",
+                0.6882060986710653
+            ],
+            [
+                "17_pride and prejudice and zombies is: (a) the greatest movie title since snakes on a plane and (b) the worst movie with a great title since snakes on a plane.",
+                -0.576196573202276
+            ],
+            [
+                "18_ the movie gets in a few juicy innings.",
+                -0.5385795004210678
+            ],
+            [
+                "20_\"pride and prejudice and zombies\" delivers what its title promises: a little romance and some undead villains, plus a bit of comedy.",
+                0.7450642236038834
+            ],
+            [
+                "22_for all the splurch and head-lopping, \"pride and prejudice and zombies\" is monotonal.",
+                0.6820094435786983
+            ],
+            [
+                "24_the novelty of pride and prejudice and zombies wears thin in the last third, ",
+                -0.5833244306790482
+            ],
+            [
+                "26_overall, the movie is an uneasy mix of humor, romance and horror, with dead spots throughout.",
+                -0.5264403014550632
+            ],
+            [
+                "27_far better than vampire hunter, pride and prejudice and zombies at least gets the p&p part of the equation right...",
+                0.7845276116929053
+            ],
+            [
+                "27_yet the film is neither humorous enough to work as send-up, cutting enough to work as social commentary nor scary enough to work as horror.",
+                -0.7341104317143764
+            ],
+            [
+                "31_the hungry monsters in pride and prejudice and zombies are looking for nice big brains.",
+                0.6870152921518055
+            ],
+            [
+                "34_if more inventive than scary, pride and prejudice and zombies breathes fresh life into the hugely popular, ",
+                0.8261529049286758
+            ],
+            [
+                "37_the film flatlines the moment anyone draws a blade.",
+                0.5968602203461421
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "3_an unexpected and off-kilter treat, thanks to a bbc-quality cast and (un)deadpan humor.",
+                0.7855901480262515
+            ]
+        ],
+        "entities": {
+            "Tom Lorcan": {
+                "args": []
+            },
+            "Ryan Oliva": {
+                "args": []
+            },
+            "Bessie Cursons": {
+                "args": []
+            },
+            "Daniel Cohen": {
+                "args": []
+            },
+            "Nathan Whitfield": {
+                "args": []
+            },
+            "Bella Heathcote": {
+                "args": []
+            },
+            "Charles Dance": {
+                "args": []
+            },
+            "Douglas Booth": {
+                "args": []
+            },
+            "Sally Phillips": {
+                "args": []
+            },
+            "Emma Greenwell": {
+                "args": []
+            },
+            "Ellie Bamber": {
+                "args": []
+            },
+            "Robert Morgan": {
+                "args": []
+            },
+            "Dolly Wells": {
+                "args": []
+            },
+            "Jonathan Oliver": {
+                "args": []
+            },
+            "Lily James": {
+                "args": []
+            },
+            "Charlie Ames": {
+                "args": []
+            },
+            "Hermione Corfield": {
+                "args": []
+            },
+            "Rebecca Scott": {
+                "args": []
+            },
+            "Aisling Loftus": {
+                "args": []
+            },
+            "Kate Doherty": {
+                "args": []
+            },
+            "Janet Henfrey": {
+                "args": []
+            },
+            "Richard Braine": {
+                "args": []
+            },
+            "Jack Huston": {
+                "args": []
+            },
+            "Sam Riley": {
+                "args": []
+            },
+            "Charlie Anson": {
+                "args": []
+            },
+            "Pooky Quesnel": {
+                "args": []
+            },
+            "Nicholas Murchie": {
+                "args": []
+            },
+            "Suki Waterhouse": {
+                "args": []
+            },
+            "Dominic Borrelli": {
+                "args": []
+            },
+            "Lena Headey": {
+                "args": []
+            },
+            "Euan MacNaughton": {
+                "args": []
+            },
+            "Morfydd Clark": {
+                "args": []
+            },
+            "Eva Bell": {
+                "args": []
+            },
+            "Robert Fyfe": {
+                "args": []
+            },
+            "Rob Callender": {
+                "args": []
+            },
+            "Matt Smith (XI)": {
+                "args": []
+            },
+            "Angus Kennedy": {
+                "args": []
+            },
+            "Millie Brady": {
+                "args": []
+            },
+            "Pippa Haywood": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_talk about a writer with bite.",
+                0.5879265528712577
+            ],
+            [
+                "10_but writer-director burr steers delivers a screen mash-up that's generally done in the right,",
+                0.7208649466314545
+            ],
+            [
+                "33_here, the action and violence take up the space that would have generally been used for character development.",
+                -0.5348873882826164
+            ]
+        ],
+        "entities": {
+            "Burr Steers": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Burr Steers": {
+                "args": [
+                    [
+                        "1_the bottom line is that burr steers' adaptation is unlikely to please any audience regardless of what they're looking for.",
+                        -0.716223586174536
+                    ],
+                    [
+                        "6_like its source material - a loose term if there ever was one - steers's movie is a failure across multiple fronts.",
+                        -0.7336702021447035
+                    ],
+                    [
+                        "10_but writer-director burr steers delivers a screen mash-up that's generally done in the right,",
+                        0.7208649466314545
+                    ],
+                    [
+                        "15_director burr steers... does a nifty job of rocketing from period-piece romance to gory bloodshed, with sprinkles of dark humor here and there.",
+                        0.7083699449305497
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

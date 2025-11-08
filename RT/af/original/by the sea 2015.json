@@ -1,0 +1,229 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_the actors aren't unhinged enough for the scathing conceit, and the script is more of a mechanism than a revelation.",
+                -0.6407269311112853
+            ],
+            [
+                "16_roland and vanessa's distress, vapid and insufficiently motivated to start with, is further imperiled by the director's heavy-handed screenwriting.",
+                -0.6283739003283635
+            ],
+            [
+                "18_as a writer, jolie pitt is better at ideas than dialogue, much of which is leaden here.",
+                -0.5888426687222583
+            ]
+        ],
+        "entities": {
+            "Angelina Jolie": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_\"by the sea\" is long on perverse images ",
+                -0.6202610125965571
+            ],
+            [
+                "4_ the movie is destined to rank with such celebrity-couple fiascos as gigli (2003) and shanghai surprise (1986).",
+                0.7172203648605349
+            ],
+            [
+                "5_it's very, very slow, with probably only 20 minutes in a two-plus-hour movie in which something could be said to be happening.",
+                -0.7701658964975655
+            ],
+            [
+                "7_by the sea is not only a dog",
+                -0.7219732357809086
+            ],
+            [
+                "8_jolie might have a good film in her yet, should she be able to relinquish the unnecessary yearning to be taken seriously that's weighed everything she's made so far down.",
+                -0.6537485221045303
+            ],
+            [
+                "9_for me the film's deeper intent is illustrating the ebb and flow of marriage and the need to not just accept that reality, ",
+                0.6408197286758692
+            ],
+            [
+                "12_what it all means is tougher to work out.",
+                -0.5483728964628367
+            ],
+            [
+                "13_until more a-listers start directing psychodramas featuring ample french dialogue, by the sea is a welcome, if half-successful, tide change.",
+                0.7795701508212772
+            ],
+            [
+                "21_by the sea is awfully pretty and mostly dreadful.",
+                -0.6497173167463184
+            ],
+            [
+                "24_\"by the sea\" is dazzlingly gorgeous, as are its stars.",
+                0.6340952170528706
+            ],
+            [
+                "25_\"by the sea\" has its moments.",
+                0.5202783456958735
+            ],
+            [
+                "26_once we know what the couple's big mystery is, \"by the sea\" doesn't make sense and begins to seem the one thing it hasn't all along - silly.",
+                -0.6646552606639748
+            ],
+            [
+                "32_too languid and artfully accessorized to work as intended.",
+                0.5358869601427025
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Penny Dix": {
+                "args": []
+            },
+            "Bjorn Kubin": {
+                "args": []
+            },
+            "Malcolm Beethans": {
+                "args": []
+            },
+            "Niels Arestrup": {
+                "args": []
+            },
+            "Richard Bohringer": {
+                "args": []
+            },
+            "Marika Green": {
+                "args": []
+            },
+            "Indi Marceau Coppola": {
+                "args": []
+            },
+            "Aldo Buontempo": {
+                "args": []
+            },
+            "Mélanie Laurent": {
+                "args": []
+            },
+            "George Camilleri": {
+                "args": []
+            },
+            "Angelina Jolie": {
+                "args": [
+                    [
+                        "0_it's a fascinating experiment, and proof that jolie truly has directorial chops and an extraordinary eye for imagery.",
+                        0.7703902120605767
+                    ],
+                    [
+                        "10_but jolie-pitt's attempt to emulate european art cinema is a slow, sodden,",
+                        -0.6227369004095771
+                    ],
+                    [
+                        "14_just one shot after another of jolie lying on a chaise longue, stretching out a pale leg, elegantly arching one foot and thinking hard about the emptiness of existence.",
+                        -0.8147001730572254
+                    ],
+                    [
+                        "18_as a writer, jolie pitt is better at ideas than dialogue, much of which is leaden here.",
+                        -0.5888426687222583
+                    ],
+                    [
+                        "19_\"by the sea\" may simply exist as a movie for angelina jolie and brad pitt to watch.",
+                        -0.5110192310217794
+                    ],
+                    [
+                        "27_ jolie insists the movie isn't based on her own marriage), it doesn't make for compelling filmmaking.",
+                        -0.5997109897079456
+                    ],
+                    [
+                        "29_\"jesus,\" jolie groans, \"have i become that dull?\"",
+                        -0.580810660558841
+                    ],
+                    [
+                        "31_angelina jolie is determined to film herself looking as glamorous and bored as possible.",
+                        -0.7099045217878897
+                    ]
+                ]
+            },
+            "Philippe Martinet": {
+                "args": []
+            },
+            "Francis Xuereb": {
+                "args": []
+            },
+            "Sarah Naudi": {
+                "args": []
+            },
+            "Brad Pitt": {
+                "args": [
+                    [
+                        "23_jolie pitt, directing herself for the first time, is as brave as ever, even when making a movie filled with opaque, euro-style artiness.",
+                        0.8079670647933396
+                    ]
+                ]
+            },
+            "Jeff Atmajian": {
+                "args": []
+            },
+            "Arcadia Vodka": {
+                "args": []
+            },
+            "Kathleen Beethans": {
+                "args": []
+            },
+            "Melvil Poupaud": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "16_roland and vanessa's distress, vapid and insufficiently motivated to start with, is further imperiled by the director's heavy-handed screenwriting.",
+                -0.6283739003283635
+            ]
+        ],
+        "entities": {
+            "Angelina Jolie": {
+                "args": [
+                    [
+                        "0_it's a fascinating experiment, and proof that jolie truly has directorial chops and an extraordinary eye for imagery.",
+                        0.7703902120605767
+                    ],
+                    [
+                        "10_but jolie-pitt's attempt to emulate european art cinema is a slow, sodden,",
+                        -0.6227369004095771
+                    ],
+                    [
+                        "14_just one shot after another of jolie lying on a chaise longue, stretching out a pale leg, elegantly arching one foot and thinking hard about the emptiness of existence.",
+                        -0.8147001730572254
+                    ],
+                    [
+                        "18_as a writer, jolie pitt is better at ideas than dialogue, much of which is leaden here.",
+                        -0.5888426687222583
+                    ],
+                    [
+                        "19_\"by the sea\" may simply exist as a movie for angelina jolie and brad pitt to watch.",
+                        -0.5110192310217794
+                    ],
+                    [
+                        "27_ jolie insists the movie isn't based on her own marriage), it doesn't make for compelling filmmaking.",
+                        -0.5997109897079456
+                    ],
+                    [
+                        "29_\"jesus,\" jolie groans, \"have i become that dull?\"",
+                        -0.580810660558841
+                    ],
+                    [
+                        "31_angelina jolie is determined to film herself looking as glamorous and bored as possible.",
+                        -0.7099045217878897
+                    ]
+                ]
+            }
+        }
+    }
+}

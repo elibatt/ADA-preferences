@@ -1,0 +1,48 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Hun Jang": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "2_song's performance makes me wish the rest of a taxi driver was as ",
+                -0.6072174471799853
+            ]
+        ],
+        "entities": {
+            "Park Hyuk-kwon": {
+                "args": []
+            },
+            "Ryu Jun-yeol": {
+                "args": []
+            },
+            "Song Kang-ho": {
+                "args": []
+            },
+            "Thomas Kretschmann": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_song's performance makes me wish the rest of a taxi driver was as ",
+                -0.6072174471799853
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

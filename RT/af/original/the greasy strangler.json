@@ -1,0 +1,83 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sky Elobar": {
+                "args": []
+            },
+            "Jesse Keen": {
+                "args": []
+            },
+            "Michael St. Michaels": {
+                "args": []
+            },
+            "Holland MacFallister": {
+                "args": []
+            },
+            "Sam Dissanayake": {
+                "args": []
+            },
+            "Sal S. Koussa": {
+                "args": []
+            },
+            "Abdoulaye NGom": {
+                "args": []
+            },
+            "Gil Gex": {
+                "args": []
+            },
+            "Carl Solomon": {
+                "args": []
+            },
+            "Elizabeth DeRazzo": {
+                "args": []
+            },
+            "Joe David Walters": {
+                "args": []
+            },
+            "Dana Haas": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jim Hosking": {
+                "args": [
+                    [
+                        "4_there are people out there who find gross-out internet videos funny, and these people will wholeheartedly embrace jim hosking's feature directorial de",
+                        0.6972515944148496
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jim Hosking": {
+                "args": []
+            },
+            "Toby Harvard": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the best thing about \"the greasy strangler\": that title.",
+                0.5740183966763519
+            ],
+            [
+                "1_the worst thing about \"the greasy strangler\": everything that follows that title.",
+                -0.9223531619966983
+            ]
+        ]
+    }
+}

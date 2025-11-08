@@ -1,0 +1,140 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the film is sumptuous and sensuous to behold ",
+                0.6647038103104674
+            ],
+            [
+                "3_the artist's life as presented here is interesting, and you have to admire someone who can work with the same intensity, over the course of decades, in the face of indifference and rejection.",
+                0.7556649413031493
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Danièle Thompson": {
+                "args": [
+                    [
+                        "0_ occasionally soapy treatment from french writer-director danièle thompson (jet lag).",
+                        0.5285394965125232
+                    ],
+                    [
+                        "7_working with cinematographer jean-marie dreujou, thompson contrasts the widescreen format with a restless handheld camera and many closeups, so the movie feels both sweeping and intimate.",
+                        0.7154261520171623
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Danièle Thompson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_ occasionally soapy treatment from french writer-director danièle thompson (jet lag).",
+                0.5285394965125232
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Isabelle Candelier": {
+                "args": []
+            },
+            "Flore Babled": {
+                "args": []
+            },
+            "Alexandre Kouchner": {
+                "args": []
+            },
+            "Déborah François": {
+                "args": []
+            },
+            "Christian Hecq": {
+                "args": []
+            },
+            "Pierre Yvon": {
+                "args": []
+            },
+            "Nicolas Messica": {
+                "args": []
+            },
+            "Romain Cottard": {
+                "args": []
+            },
+            "Emilie Alfieri": {
+                "args": []
+            },
+            "Alice Pol": {
+                "args": []
+            },
+            "Agathe Goussard": {
+                "args": []
+            },
+            "Gerard Meylan": {
+                "args": []
+            },
+            "Laurent Stocker": {
+                "args": []
+            },
+            "Nicolas Gob": {
+                "args": []
+            },
+            "Freya Mavor": {
+                "args": []
+            },
+            "Sabine Azéma": {
+                "args": []
+            },
+            "Guillaume Gallienne": {
+                "args": []
+            },
+            "Danièle Thompson": {
+                "args": [
+                    [
+                        "0_ occasionally soapy treatment from french writer-director danièle thompson (jet lag).",
+                        0.5285394965125232
+                    ],
+                    [
+                        "7_working with cinematographer jean-marie dreujou, thompson contrasts the widescreen format with a restless handheld camera and many closeups, so the movie feels both sweeping and intimate.",
+                        0.7154261520171623
+                    ]
+                ]
+            },
+            "Félicien Juttner": {
+                "args": []
+            },
+            "Corinne Puget": {
+                "args": []
+            },
+            "Guillaume Canet": {
+                "args": []
+            },
+            "Pablo Cisneros": {
+                "args": []
+            },
+            "Hortense Cezanne": {
+                "args": []
+            },
+            "Sophie deFurst": {
+                "args": []
+            },
+            "Romain Lancry": {
+                "args": []
+            },
+            "Sophie de Furst": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

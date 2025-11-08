@@ -1,0 +1,124 @@
+{
+    "writer": {
+        "entities": {
+            "Anna Biller": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_biller's visual splendor is ... wasted on a mediocre script riddled with structural problems.",
+                -0.7440877199601015
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Anna Biller": {
+                "args": [
+                    [
+                        "4_ i'm not sure biller intended it to be one.",
+                        -0.5919220672285097
+                    ],
+                    [
+                        "14_mere seconds into anna biller's candy-colored retro-horror film",
+                        0.5916344790420561
+                    ],
+                    [
+                        "18_got to hand it to biller - she might have made a \"bad\" movie, ",
+                        -0.7449403337906185
+                    ],
+                    [
+                        "19_anna biller's technicolor throwback is a spellbinding feminist delight.",
+                        0.6682303087626535
+                    ],
+                    [
+                        "21_destined to be a cult classic, this sophomore effort by anna biller is a heady throwback to the american and european sexploitation horror films of the late '60s and early '70s.",
+                        0.7554956082153884
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ for a select few, the love witch offers powerful magic.",
+                0.6840715147414984
+            ],
+            [
+                "4_is \"the love witch\" a parody?",
+                0.5571289080540631
+            ],
+            [
+                "6_ \"the love witch\" does more than simply subvert or parody the erotic underpinnings of the genre.",
+                0.65515873257127
+            ],
+            [
+                "7_as with giallo, \"the love witch\" features deliberately wooden acting, and can be a little boring at times.",
+                -0.741685261550155
+            ],
+            [
+                "9_if you're in the mood for a guilty pleasure, \"the love witch\" is it.",
+                0.6784877273168659
+            ],
+            [
+                "12_the film pulsates with furious creative energy, sparking excitement and amazement by way of its decorative twists, intellectual provocations, and astounding humor.",
+                0.8003414524869953
+            ],
+            [
+                "13_the movie is relentless in how it poses questions about our culture's way of dealing with the power of female sexuality.",
+                0.7434521314588179
+            ],
+            [
+                "14_, you realize this movie is an ornate portal with a beckoning, bejeweled finger, and you're as helpless as one of its titular seducer's hexed-and-sexed victims.",
+                0.6149715419463271
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kaye L. Morris": {
+                "args": []
+            },
+            "Samantha Robinson (VI)": {
+                "args": []
+            },
+            "Jennifer Ingrum": {
+                "args": []
+            },
+            "Jared Sanford": {
+                "args": []
+            },
+            "Robert Seeley": {
+                "args": []
+            },
+            "Jeffrey Vincent Parise": {
+                "args": []
+            },
+            "Laura Waddell": {
+                "args": []
+            },
+            "Lily Holleman": {
+                "args": []
+            },
+            "Elle Evans": {
+                "args": []
+            },
+            "Gian Keys": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_as with giallo, \"the love witch\" features deliberately wooden acting, and can be a little boring at times.",
+                -0.741685261550155
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

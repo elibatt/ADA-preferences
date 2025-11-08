@@ -1,0 +1,147 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "11_it’s the action that sells the popcorn, and this film really delivers on that front, especially when it’s time to put the impossible bombing raid into play.",
+                -0.6243337085095033
+            ],
+            [
+                "14_while the new film is not as memorable, or of its moment, it’s a more coherent piece of character drawing, a more exhilarating spectacle, and, by virtue of not being made in the mid-1980s, altogether less daft.",
+                0.7626193104292488
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "17",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "3_it helps that the filmmaking is pretty much impeccable, with director joseph kosinski providing the kind of clear, streamlined action sequences that make blockbuster spectacle feel fun instead of mandatory.",
+                0.6982152268231052
+            ],
+            [
+                "4_joe kosinski matches his well-established architectural precision with suitably nostalgic ",
+                0.6090420713500431
+            ]
+        ],
+        "entities": {
+            "Joseph Kosinski": {
+                "unique_args": [
+                    [
+                        "3_it helps that the filmmaking is pretty much impeccable, with director joseph kosinski providing the kind of clear, streamlined action sequences that make blockbuster spectacle feel fun instead of mandatory.",
+                        0.6982152268231052
+                    ],
+                    [
+                        "4_joe kosinski matches his well-established architectural precision with suitably nostalgic ",
+                        0.6090420713500431
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "14_while the new film is not as memorable, or of its moment, it’s a more coherent piece of character drawing, a more exhilarating spectacle, and, by virtue of not being made in the mid-1980s, altogether less daft.",
+                0.7626193104292488
+            ]
+        ],
+        "entities": {
+            "Ehren Kruger": {
+                "unique_args": []
+            },
+            "Eric Warren Singer": {
+                "unique_args": []
+            },
+            "Christopher McQuarrie": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "5_somehow cruise's foray back into the danger zone will be remembered more than the original, setting a new standard in the era of reboots.",
+                0.6836118337449358
+            ],
+            [
+                "17_even as you see all the plot twists coming, tom cruise's charms and the spectacular aerial action still take your breath away.",
+                0.8096854229403625
+            ]
+        ],
+        "entities": {
+            "Tom Cruise": {
+                "unique_args": [
+                    [
+                        "5_somehow cruise's foray back into the danger zone will be remembered more than the original, setting a new standard in the era of reboots.",
+                        0.6836118337449358
+                    ],
+                    [
+                        "17_even as you see all the plot twists coming, tom cruise's charms and the spectacular aerial action still take your breath away.",
+                        0.8096854229403625
+                    ]
+                ]
+            },
+            "Miles Teller": {
+                "unique_args": []
+            },
+            "Jennifer Connelly": {
+                "unique_args": []
+            },
+            "Jon Hamm": {
+                "unique_args": []
+            },
+            "Glen Powell": {
+                "unique_args": []
+            },
+            "Ed Harris": {
+                "unique_args": []
+            },
+            "Val Kilmer": {
+                "unique_args": []
+            },
+            "Lewis Pullman": {
+                "unique_args": []
+            },
+            "Charles Parnell": {
+                "unique_args": []
+            },
+            "Bashir Salahuddin": {
+                "unique_args": []
+            },
+            "Monica Barbaro": {
+                "unique_args": []
+            },
+            "Jay Ellis": {
+                "unique_args": []
+            },
+            "Danny Ramirez": {
+                "unique_args": []
+            },
+            "Greg Tarzan Davis": {
+                "unique_args": []
+            },
+            "Jake Picking": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

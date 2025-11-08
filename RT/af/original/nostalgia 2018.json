@@ -1,0 +1,160 @@
+{
+    "writer": {
+        "entities": {
+            "Alex Ross Perry": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Mark Pellington": {
+                "args": [
+                    [
+                        "0_here, director mark pellington seems to be aiming at a portrayal of nostalgia itself, with the people feeling it serving as necessary ",
+                        0.6746650606939008
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "9_the poor director doesn't know what to do about that, ",
+                -0.8448216197649232
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_only a few of the characters are well-developed enough to sustain the movie's interest, while the rest speak in obscure, poetic dialogue that repeats the central thesis ad nauseam.",
+                -0.5829384713812428
+            ],
+            [
+                "2_nostalgia\" is an effective portrait of lives lived, told through shifting stories that examine the various ways in which we categorize our memories.",
+                0.8361757368457664
+            ],
+            [
+                "3_it's a film steeped in melancholy that gently reminds us to live life fully before it's time to say goodbye.",
+                0.783893251681032
+            ],
+            [
+                "4_a well-meaning, expertly acted film, it unfortunately drowns in its own sorrow, making its commercial prospects dim.",
+                0.5403272969119147
+            ],
+            [
+                "7_the film can be naggingly vague and patchily written where precision seems called for, ",
+                -0.7270147328619989
+            ],
+            [
+                "8_the result is a movie that's more interesting to talk about than watch.",
+                0.5128237307882917
+            ],
+            [
+                "10_a movie that's so manipulative it practically jimmies the tears out of your eyes with a crow bar.",
+                0.5332984767383381
+            ],
+            [
+                "13_a soggy string of hallmark moments designed to interrogate the value of the objects we cherish, the movie is front-loaded with major stars and squelching with sentiment.",
+                -0.630002331933913
+            ],
+            [
+                "14_[a] vital, restless, insightful film ...",
+                0.608791582424977
+            ],
+            [
+                "16_nostalgia is not a perfect film ",
+                0.7085597669033077
+            ],
+            [
+                "18_an ambitious movie from some well-regarded filmmakers and actors, ",
+                0.553189789514111
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "John Ortiz": {
+                "args": []
+            },
+            "Lindsey Kraft": {
+                "args": []
+            },
+            "Ellen Burstyn": {
+                "args": []
+            },
+            "James LeGros": {
+                "args": []
+            },
+            "Joanna Going": {
+                "args": []
+            },
+            "Larry Wilmore": {
+                "args": []
+            },
+            "Mikey Madison": {
+                "args": []
+            },
+            "Annalise Basso": {
+                "args": []
+            },
+            "Catherine Keener": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "Jon Hamm": {
+                "args": []
+            },
+            "Bruce Dern": {
+                "args": []
+            },
+            "Shinelle Azoroh": {
+                "args": []
+            },
+            "Dendrie Taylor": {
+                "args": []
+            },
+            "Chloe Farnworth": {
+                "args": []
+            },
+            "Hugo Armstrong": {
+                "args": []
+            },
+            "Ashlyn Faith Williams": {
+                "args": []
+            },
+            "Jennifer Mudge": {
+                "args": []
+            },
+            "Amber Tamblyn": {
+                "args": []
+            },
+            "Arye Gross": {
+                "args": []
+            },
+            "Patton Oswalt": {
+                "args": []
+            },
+            "Tiffany Dion": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_here, director mark pellington seems to be aiming at a portrayal of nostalgia itself, with the people feeling it serving as necessary ",
+                0.6746650606939008
+            ],
+            [
+                "5_from its scattered narrative to its morose musical score to its borderline criminal misuse of a talented cast, it is a clear front-runner for next winter's worst films of 2018 list.",
+                0.5703241421869479
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

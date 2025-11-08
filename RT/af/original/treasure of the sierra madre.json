@@ -1,0 +1,145 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_the movie has never really been about gold ",
+                -0.6199392720718264
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Huston": {
+                "args": [
+                    [
+                        "0_john huston has rarely been in better form than in this 1948 study of gold fever and worse obsessions among an unlikely trio of prospectors...",
+                        0.5102204717279919
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Margarito Luna": {
+                "args": []
+            },
+            "Francisco Islas": {
+                "args": []
+            },
+            "Bruce Bennett": {
+                "args": []
+            },
+            "Arturo Soto Rangel": {
+                "args": []
+            },
+            "Ignacio Villabajo": {
+                "args": []
+            },
+            "Alberto Valdespino": {
+                "args": []
+            },
+            "Alfonso Bedoya": {
+                "args": []
+            },
+            "Jacqueline Dalya": {
+                "args": []
+            },
+            "José Torvay": {
+                "args": []
+            },
+            "Mario Abraham Mancilla": {
+                "args": []
+            },
+            "Harry J. Vejar": {
+                "args": []
+            },
+            "Robert Blake": {
+                "args": []
+            },
+            "Guillermo Calleo": {
+                "args": []
+            },
+            "Ildefonso Vega": {
+                "args": []
+            },
+            "Ralph Dunn": {
+                "args": []
+            },
+            "Roberto Canedo": {
+                "args": []
+            },
+            "Ann Sheridan": {
+                "args": []
+            },
+            "Spencer Chan": {
+                "args": []
+            },
+            "John Huston": {
+                "args": []
+            },
+            "Tim Holt": {
+                "args": []
+            },
+            "Ernesto Escoto": {
+                "args": []
+            },
+            "Julian Rivero": {
+                "args": []
+            },
+            "Jack Holt": {
+                "args": []
+            },
+            "Martin Garralaga": {
+                "args": []
+            },
+            "Barton MacLane": {
+                "args": []
+            },
+            "Humphrey Bogart": {
+                "args": [
+                    [
+                        "2_ about character, and bogart fearlessly makes fred c. dobbs into a pathetic, frightened, selfish man --",
+                        -0.7103436302592938
+                    ]
+                ]
+            },
+            "Walter Huston": {
+                "args": [
+                    [
+                        "0_john huston has rarely been in better form than in this 1948 study of gold fever and worse obsessions among an unlikely trio of prospectors...",
+                        0.5102204717279919
+                    ]
+                ]
+            },
+            "Clifton Young": {
+                "args": []
+            },
+            "Pat Flaherty": {
+                "args": []
+            },
+            "Manuel Donde": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_ about character, and bogart fearlessly makes fred c. dobbs into a pathetic, frightened, selfish man --",
+                -0.7103436302592938
+            ]
+        ],
+        "entities": {
+            "John Huston": {
+                "args": []
+            }
+        }
+    }
+}

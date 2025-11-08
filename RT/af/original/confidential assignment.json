@@ -1,0 +1,49 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_essentially tacking on a drawn-out fourth act after the 90-minute point, the film feels needlessly overblown by the time it hits the two-hour mark.",
+                -0.5615504361121045
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Hyun Bin": {
+                "args": []
+            },
+            "Jang Nam-Kyoung": {
+                "args": []
+            },
+            "Dong-hwi Lee": {
+                "args": []
+            },
+            "Kim Joo-hyuck": {
+                "args": []
+            },
+            "Yoo Hae-jin": {
+                "args": []
+            },
+            "Im Yoona": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kim Sung-Hoon": {
+                "args": []
+            }
+        }
+    }
+}

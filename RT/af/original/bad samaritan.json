@@ -1,0 +1,107 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_bad samaritan is a well-directed thriller with knuckle-chewing suspense.",
+                0.6861108093674604
+            ],
+            [
+                "3_he doesn't know what to do next, and neither does the movie.",
+                -0.7879433782184635
+            ],
+            [
+                "4_while bad samaritan isn't exactly a good film, it is weirdly charming, thanks to its creators' exuberant commitment to unabashedly tacky ideas.",
+                0.6723213485582898
+            ],
+            [
+                "5_a few plot contrivances aside, the unspectacular bad samaritan is tense and disturbing enough, and worth its weight in popcorn.",
+                -0.527948942876687
+            ],
+            [
+                "6_\"bad samaritan\" isn't trying to be steak, it's a burger and fries at a greasy diner.",
+                -0.7690007288761601
+            ],
+            [
+                "6_ and \"bad samaritan\" hits the spot.",
+                0.5594126476869323
+            ],
+            [
+                "7_there's frightfully little atmosphere to this film - anything from creepy sound design to evocative cinematography - rendering the flaws in the story all too visible.",
+                0.6067435944802126
+            ],
+            [
+                "9_an audaciously wacky film, and the filmmakers manage to get a few things just right.",
+                -0.5710696192212422
+            ],
+            [
+                "11_\"bad samaritan\" is a horrible little movie with two things going for it: one wigged-out performance and one genuinely terrific line that's so great",
+                -0.6313248568197051
+            ],
+            [
+                "11_, you want to be able to say that it saves the film.",
+                0.7210800930013166
+            ],
+            [
+                "13_ then, that's what audiences for this kind of movie want from the experience, so consider it a success of sorts.",
+                0.702748292949588
+            ],
+            [
+                "15_bad samaritan could have been a gem, if only it had put as much effort into its story as its setup.",
+                -0.6495172552930552
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "11_\"bad samaritan\" is a horrible little movie with two things going for it: one wigged-out performance and one genuinely terrific line that's so great",
+                -0.6313248568197051
+            ]
+        ],
+        "entities": {
+            "Robert Sheehan": {
+                "args": []
+            },
+            "Kerry Condon": {
+                "args": []
+            },
+            "David Tennant": {
+                "args": []
+            },
+            "Carlito Olivero": {
+                "args": []
+            },
+            "Jacqueline Byers": {
+                "args": []
+            },
+            "Lisa Brenner": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Brandon Boyce": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dean Devlin": {
+                "args": [
+                    [
+                        "14_this comparatively low-budget effort represents a marked improvement from devlin's de",
+                        0.5102032438195139
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

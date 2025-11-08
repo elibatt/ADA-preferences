@@ -1,0 +1,239 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_at first glance, the movie is a faithful and skillful adaptation of the source, ",
+                0.7717515385803314
+            ],
+            [
+                "0_ a second look at both the film and the book reveals some interesting divergences.",
+                0.7716005089908797
+            ],
+            [
+                "1_it's plain and uncondescending in its re-creation of what it means to be a high-school athlete, of what a country dance hall is like, of the necking in cars and movie houses, and of the desolation that follows high-school graduation.",
+                0.5598707728458885
+            ],
+            [
+                "7_superb performances all round add to the charm of this fine, if now unfashionable film.",
+                0.6643906612127654
+            ],
+            [
+                "8_the film is above all an evocation of mood.",
+                0.7213011984375997
+            ],
+            [
+                "9_the last picture show becomes an adventure in rediscovery -- of a very decent, straightforward kind of movie, as well as of -- and i rather hesitate to use such a square phrase -- human values.",
+                0.8410122981989561
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Peter Bogdanovich": {
+                "args": [
+                    [
+                        "4_director peter bogdanovich has seen anarene, texas, in the cinematic terms of 1951 -- the langorous dissolves, the strong chiaroscuro, the dialogue that starts with bickering and ends at confessional.",
+                        -0.5668324080178436
+                    ],
+                    [
+                        "6_ bogdanovich knows how to cast actors and highlight character turns.",
+                        0.5291435443021666
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Charlie Seybert": {
+                "args": []
+            },
+            "Eileen Brennan": {
+                "args": []
+            },
+            "Timothy Bottoms": {
+                "args": []
+            },
+            "Leon Addison Brown": {
+                "args": []
+            },
+            "Cybill Shepherd": {
+                "args": []
+            },
+            "Gary Brockette": {
+                "args": []
+            },
+            "Joe Heathcock": {
+                "args": []
+            },
+            "Janice O'Malley": {
+                "args": []
+            },
+            "Barclay Doyle": {
+                "args": []
+            },
+            "Cloris Leachman": {
+                "args": []
+            },
+            "Gordon Hurst": {
+                "args": []
+            },
+            "Grover Lewis": {
+                "args": []
+            },
+            "Robert Arnold": {
+                "args": []
+            },
+            "Randy Quaid": {
+                "args": []
+            },
+            "Tom Martin": {
+                "args": []
+            },
+            "Ellen Burstyn": {
+                "args": []
+            },
+            "Bobby McGriff": {
+                "args": []
+            },
+            "Joyce Hash": {
+                "args": []
+            },
+            "Clu Gulager": {
+                "args": []
+            },
+            "Marjory Jay": {
+                "args": []
+            },
+            "Pamela Kelier": {
+                "args": []
+            },
+            "Kenny Wood": {
+                "args": []
+            },
+            "Otis Elmore": {
+                "args": []
+            },
+            "Sharon Taggart": {
+                "args": []
+            },
+            "Mike Hosford": {
+                "args": []
+            },
+            "Ben Johnson": {
+                "args": []
+            },
+            "Frank Marshall": {
+                "args": []
+            },
+            "Buddy Wood": {
+                "args": []
+            },
+            "Robert Glenn": {
+                "args": []
+            },
+            "Will Morris Hannis": {
+                "args": []
+            },
+            "John Hillerman": {
+                "args": []
+            },
+            "Helena Humann": {
+                "args": []
+            },
+            "Merrill Shepherd": {
+                "args": []
+            },
+            "Rebecca Ulrick": {
+                "args": []
+            },
+            "Loyd Catlett": {
+                "args": []
+            },
+            "Barc Doyle": {
+                "args": []
+            },
+            "Bill Thurman": {
+                "args": []
+            },
+            "Faye Jordan": {
+                "args": []
+            },
+            "Jack Mueller": {
+                "args": []
+            },
+            "George Gaulden": {
+                "args": []
+            },
+            "Antonia Bogdanovich": {
+                "args": [
+                    [
+                        "4_director peter bogdanovich has seen anarene, texas, in the cinematic terms of 1951 -- the langorous dissolves, the strong chiaroscuro, the dialogue that starts with bickering and ends at confessional.",
+                        -0.5668324080178436
+                    ],
+                    [
+                        "6_ bogdanovich knows how to cast actors and highlight character turns.",
+                        0.5291435443021666
+                    ]
+                ]
+            },
+            "Sam Bottoms": {
+                "args": []
+            },
+            "Kimberly Hyde": {
+                "args": []
+            },
+            "Noble Willingham": {
+                "args": []
+            },
+            "Jeff Bridges": {
+                "args": []
+            },
+            "Charles Salmon": {
+                "args": []
+            },
+            "Clu Galager": {
+                "args": []
+            },
+            "Jessie Lee Fulton": {
+                "args": []
+            },
+            "Joye Hash": {
+                "args": []
+            },
+            "Samuel Bottoms": {
+                "args": []
+            },
+            "Floyd Mahaney": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Larry McMurtry": {
+                "args": [
+                    [
+                        "5_larry mcmurtry did a beautiful job of this.",
+                        0.8310741222497515
+                    ]
+                ]
+            },
+            "Peter Bogdanovich": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_ bogdanovich knows how to cast actors and highlight character turns.",
+                0.5291435443021666
+            ]
+        ]
+    }
+}

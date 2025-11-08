@@ -1,0 +1,264 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "13_and the acting is aces.",
+                -0.6066996779226022
+            ],
+            [
+                "23_ it's also a thrilling ride full of potent emotions, new characters and major twists of fate, built around another commanding star performance.",
+                0.766100782567726
+            ]
+        ],
+        "entities": {
+            "Katie Sawhill": {
+                "args": []
+            },
+            "Natalie Dormer": {
+                "args": []
+            },
+            "Nicholas Pryor": {
+                "args": []
+            },
+            "Jennifer Lawrence": {
+                "args": [
+                    [
+                        "3_jennifer lawrence's charisma and the the sly excellence of her supporting cast keep \"the hunger games: mockingjay, part 1\" aloft.",
+                        0.6898134772890265
+                    ],
+                    [
+                        "5_as an actress, lawrence has grown beyond this sort of thing, and the entire enterprise, directed by francis lawrence, feels like a massive placeholder for the grand finale.",
+                        -0.6778008972185467
+                    ],
+                    [
+                        "29_director francis lawrence does a nice job capturing the claustrophobic environment of district 13 and has a good eye for action shots.",
+                        0.7827247102456008
+                    ],
+                    [
+                        "32_it boasts some imaginative visuals, a few truly thrilling moments, and standout performances from lawrence, banks, harrelson, and hoffman, to whom the film is dedicated.",
+                        0.7527424242297842
+                    ],
+                    [
+                        "36_in this chapter, katniss everdeen, the working-class rebel played by jennifer lawrence, mostly holsters her weapons and plays dress-up, just as the movie itself gives up any higher aspirations of offering social commentary or insight.",
+                        0.647955511555978
+                    ],
+                    [
+                        "46_like an overgrown and bloated trailer for a film yet to come, francis lawrence's the hunger games:",
+                        0.529132307789963
+                    ]
+                ]
+            },
+            "Liam Hemsworth": {
+                "args": []
+            },
+            "Sarita Choudhury": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": []
+            },
+            "Patina Miller": {
+                "args": []
+            },
+            "Caitlin Fowler": {
+                "args": []
+            },
+            "Breann Couch": {
+                "args": []
+            },
+            "Lily Rabe": {
+                "args": []
+            },
+            "Jackson Mizell": {
+                "args": []
+            },
+            "Donna Biscoe": {
+                "args": []
+            },
+            "Jeffrey Wright": {
+                "args": []
+            },
+            "Elizabeth Banks": {
+                "args": []
+            },
+            "Charles Kronmuller": {
+                "args": []
+            },
+            "Sam Claflin": {
+                "args": []
+            },
+            "Rus Blackwell": {
+                "args": []
+            },
+            "Stanley Tucci": {
+                "args": []
+            },
+            "Elden Henson": {
+                "args": []
+            },
+            "Donald Sutherland": {
+                "args": []
+            },
+            "Evan Ross": {
+                "args": []
+            },
+            "Philip Seymour Hoffman": {
+                "args": []
+            },
+            "Stevie Ray Dallimore": {
+                "args": []
+            },
+            "Robert Knepper": {
+                "args": []
+            },
+            "Jordan Woods-Robinson": {
+                "args": []
+            },
+            "Julianne Moore": {
+                "args": [
+                    [
+                        "15_the impressive supporting cast (which features philip seymour hoffman, julianne moore, jeffrey wright, and woody harrelson) keeps this highly watchable.",
+                        0.7575777452288965
+                    ]
+                ]
+            },
+            "Willow Shields": {
+                "args": []
+            },
+            "Jenique Bennett": {
+                "args": []
+            },
+            "Stef Dawson": {
+                "args": []
+            },
+            "Wes Chatham": {
+                "args": []
+            },
+            "Michael Garza": {
+                "args": []
+            },
+            "Jada Taylor": {
+                "args": []
+            },
+            "Mahershala Ali": {
+                "args": []
+            },
+            "Jena Malone": {
+                "args": []
+            },
+            "Josh Hutcherson": {
+                "args": []
+            },
+            "Erika Bierman": {
+                "args": []
+            },
+            "Paula Malcomson": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Francis Lawrence": {
+                "args": [
+                    [
+                        "3_jennifer lawrence's charisma and the the sly excellence of her supporting cast keep \"the hunger games: mockingjay, part 1\" aloft.",
+                        0.6898134772890265
+                    ],
+                    [
+                        "5_as an actress, lawrence has grown beyond this sort of thing, and the entire enterprise, directed by francis lawrence, feels like a massive placeholder for the grand finale.",
+                        -0.6778008972185467
+                    ],
+                    [
+                        "29_director francis lawrence does a nice job capturing the claustrophobic environment of district 13 and has a good eye for action shots.",
+                        0.7827247102456008
+                    ],
+                    [
+                        "32_it boasts some imaginative visuals, a few truly thrilling moments, and standout performances from lawrence, banks, harrelson, and hoffman, to whom the film is dedicated.",
+                        0.7527424242297842
+                    ],
+                    [
+                        "36_in this chapter, katniss everdeen, the working-class rebel played by jennifer lawrence, mostly holsters her weapons and plays dress-up, just as the movie itself gives up any higher aspirations of offering social commentary or insight.",
+                        0.647955511555978
+                    ],
+                    [
+                        "46_like an overgrown and bloated trailer for a film yet to come, francis lawrence's the hunger games:",
+                        0.529132307789963
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Peter Craig": {
+                "args": []
+            },
+            "Danny Strong": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_and it's the most shameless example yet of splitting the final book in a hugely popular series into two film adaptations.",
+                0.7908222233906694
+            ],
+            [
+                "2_might it have been better if they'd squeezed the whole book into one movie?",
+                -0.5254634688038432
+            ],
+            [
+                "9_once you accept that the splitting of mockingjay is a business decision, not a dramatic imperative, part 1 comes off as a curiously satisfying nonaction movie.",
+                0.5165013566918774
+            ],
+            [
+                "18_ \"mockingjay - part 1\" is the first \"hunger games\" movie with meat on its bones.",
+                -0.5155204054411778
+            ],
+            [
+                "24_you leave this well-acted, impeccably designed movie as you entered it: still waiting.",
+                -0.513041336523672
+            ],
+            [
+                "26_mockingjay - part 1 does get a mid-film lift when katniss and gale go up against snow's air force with a few bows and arrows",
+                -0.5063099655454644
+            ],
+            [
+                "26_ a movie that searches in vain for its own pulse.",
+                0.5444654204179669
+            ],
+            [
+                "29_ the actors are what really sell the movie.",
+                0.5543969623527807
+            ],
+            [
+                "33_a dull, claustrophobic, pallid-looking film about people looking into and talking at screens.",
+                -0.5226233949156422
+            ],
+            [
+                "33_when the end finally comes, it's from out of nowhere, except it's not really an ending, more like a work stoppage.",
+                -0.7504855454350264
+            ],
+            [
+                "34_for a film about the power of media to sway humanity in a desired direction, it's awfully leaden.",
+                0.6621465055252538
+            ],
+            [
+                "37_ mockingjay contains scenes of mass graves and mass slaughter on the battlefield, this isn't a movie, or a set of characters, built on bloodlust or the enjoyment of anonymous kills.",
+                -0.5209409000393626
+            ],
+            [
+                "47_still very much a hunger games movie, yes, ",
+                0.6680581100620875
+            ]
+        ]
+    }
+}

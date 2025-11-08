@@ -1,0 +1,88 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Benjamin Legrand": {
+                "args": []
+            },
+            "Franck Ekinci": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_april and the extraordinary world will have your imagination doing somersaults and cartwheels.",
+                0.7807615364224721
+            ],
+            [
+                "2_\"april and the extraordinary world\" is a visual delight, an animated french steampunk adventure that is smart, exciting and wonderfully weird.",
+                0.834414767457574
+            ],
+            [
+                "5_fun, fast-paced french film d'animation that manages to keep its ideas from getting lost amid the steampunk aesthetics, frequent chases, and occasional explosions.",
+                0.7552076980506308
+            ],
+            [
+                "7_while the film tells a rollicking, sometimes barbed story about oppressive governments, secret labs, selfishness, and the point where science meets ethics, it's the world-building that really delights.",
+                0.7761776443879534
+            ],
+            [
+                "9_a joyful, accomplished movie that echoes \"the city of lost children,\" \"the adventures of tintin,\" \"metropolis,\" \"howl's moving castle\" and something unique into a, well, delightful piece of work.",
+                0.8010988466228246
+            ],
+            [
+                "11_the movie's jules verne-esque contraptions are fun to look at -- and will make steampunk fans drool with delight -- ",
+                0.8255385672828335
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anne Coesens": {
+                "args": []
+            },
+            "Philippe Katerine": {
+                "args": []
+            },
+            "Olivier Gourmet": {
+                "args": []
+            },
+            "Marc-Andre Grondin": {
+                "args": []
+            },
+            "Jean Rochefort": {
+                "args": []
+            },
+            "Marion Cotillard": {
+                "args": []
+            },
+            "Benoit Brière": {
+                "args": []
+            },
+            "Bouli Lanners": {
+                "args": []
+            },
+            "Macha Grenon": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Christian Desmares": {
+                "args": []
+            },
+            "Franck Ekinci": {
+                "args": []
+            }
+        }
+    }
+}

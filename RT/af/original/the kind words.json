@@ -1,0 +1,79 @@
+{
+    "writer": {
+        "entities": {
+            "Shemi Zarhin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_the israeli director shemi zarhin, who also wrote the screenplay, shuffles these modern problems into an enjoyably human mystery.",
+                0.7423467708488567
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Maurice Bénichou": {
+                "args": []
+            },
+            "Roy Assaf": {
+                "args": []
+            },
+            "Assaf Ben-Shimon": {
+                "args": []
+            },
+            "Rotem Zissman-Cohen": {
+                "args": []
+            },
+            "Yonatan Bar-Giora": {
+                "args": []
+            },
+            "Louise Portal": {
+                "args": []
+            },
+            "Tsahi Halevi": {
+                "args": []
+            },
+            "Sasson Gabai": {
+                "args": []
+            },
+            "Florence Bloche": {
+                "args": []
+            },
+            "Levana Finkelstein": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_ sluggishly paced, the movie focuses on issues of fertility and generation, with an attendant air of self-absorption.",
+                0.7307982013104116
+            ],
+            [
+                "2_the film ... doesn't always come together.",
+                0.5336090223184481
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Shemi Zarhin": {
+                "args": [
+                    [
+                        "4_the israeli director shemi zarhin, who also wrote the screenplay, shuffles these modern problems into an enjoyably human mystery.",
+                        0.7423467708488567
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_given that the character began life as a hunk of plastic with a cool name, it's hardly surprising that writers have reshaped his biography on the fly, with all the consistency of kids playing with their toys in the backyard.",
+                0.6919279732439978
+            ]
+        ],
+        "entities": {
+            "Christopher Yost": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a movie based on a toy should be a whole lot more fun than this.",
+                0.5041770083753148
+            ],
+            [
+                "3_yes, actors love to work and bills need to be paid, ",
+                -0.5083431884660463
+            ],
+            [
+                "4_while the proverbial \"'90s kids\" may get a nostalgic kick out of seeing their old action figures in the flesh, novices are likely to be bored by a movie that feels more like a failed pilot for a tv show.",
+                -0.6975217242361635
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jahnee Wallace": {
+                "args": []
+            },
+            "Michael Mercaldi": {
+                "args": []
+            },
+            "Niyi Oni": {
+                "args": []
+            },
+            "Richard Wes Howren": {
+                "args": []
+            },
+            "Ben Winchell": {
+                "args": []
+            },
+            "Gabrielle Morell": {
+                "args": []
+            },
+            "Josh Brener": {
+                "args": []
+            },
+            "Julionne Johnson": {
+                "args": []
+            },
+            "Brandon Larracuente": {
+                "args": []
+            },
+            "Brett Kelley": {
+                "args": []
+            },
+            "Briana Morell": {
+                "args": []
+            },
+            "Noah Clevenger": {
+                "args": []
+            },
+            "Nachele Johnson": {
+                "args": []
+            },
+            "Elizabeth Ludlow": {
+                "args": []
+            },
+            "Mary Christina Brown": {
+                "args": []
+            },
+            "Kyle Martinez": {
+                "args": []
+            },
+            "Adam Poole": {
+                "args": []
+            },
+            "Tim Greene": {
+                "args": []
+            },
+            "Phillip DeVona": {
+                "args": []
+            },
+            "Avis-Marie Barnes": {
+                "args": []
+            },
+            "Emily Grealish": {
+                "args": []
+            },
+            "Rochelle Aycoth": {
+                "args": []
+            },
+            "Megan Hayes": {
+                "args": []
+            },
+            "Lawrence Kao": {
+                "args": []
+            },
+            "Brigham McNeely": {
+                "args": []
+            },
+            "Kaitlyn McCarthy": {
+                "args": []
+            },
+            "Mike Doyle": {
+                "args": []
+            },
+            "Amijah McEachern": {
+                "args": []
+            },
+            "Clayton Frey": {
+                "args": []
+            },
+            "Al Mitchell": {
+                "args": []
+            },
+            "Ana Villafañe": {
+                "args": []
+            },
+            "Payton McAdams": {
+                "args": []
+            },
+            "Billy Slaughter": {
+                "args": []
+            },
+            "Megan Grealish": {
+                "args": []
+            },
+            "Andy Garcia": {
+                "args": []
+            },
+            "Will Milvid": {
+                "args": []
+            },
+            "Maria Bello": {
+                "args": [
+                    [
+                        "3_what's truly depressing about the whole enterprise is that garcia and bello were pulled into it.",
+                        0.5213639140176254
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stewart Hendler": {
+                "args": []
+            }
+        }
+    }
+}

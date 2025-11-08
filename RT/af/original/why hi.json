@@ -1,0 +1,176 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Bryan Cranston": {
+                "args": [
+                    [
+                        "13_what was bryan cranston thinking?",
+                        -0.5737041505566223
+                    ],
+                    [
+                        "18_a version of it could also apply to pretty much everyone involved, especially cranston.",
+                        -0.5905078212463775
+                    ],
+                    [
+                        "23_unfolding like a half-hearted remake of meet the parents for the judd apatow generation, this battle between james franco and bryan cranston makes for a fitfully funny stalemate.",
+                        -0.5692494873841826
+                    ],
+                    [
+                        "24_the results are particularly cringe-worthy since they so frequently waste the talents of james franco and bryan cranston, here forced to inhabit lazy generational stereotypes that never resemble legitimate human beings.",
+                        -0.7322022838227532
+                    ]
+                ]
+            },
+            "Zack Pearlman": {
+                "args": []
+            },
+            "Megan Mullally": {
+                "args": []
+            },
+            "Griffin Gluck": {
+                "args": []
+            },
+            "James Franco": {
+                "args": [
+                    [
+                        "11_proving definitively that slapping mr. franco's scenery-eating grin on any old drivel doesn't guarantee entertainment, \"why him?\" is trite, crass and insultingly moronic.",
+                        -0.7829027085616882
+                    ]
+                ]
+            },
+            "Adam DeVine": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Cedric the Entertainer": {
+                "args": [
+                    [
+                        "7_why him? doesn't reinvent the raunchy christmas-themed comedy, ",
+                        -0.6959138958859754
+                    ],
+                    [
+                        "7_ like a visit home for the holidays, it proves to be (oddly) comforting.",
+                        0.7311084065370318
+                    ],
+                    [
+                        "10_ reasonably diverting just the same.",
+                        -0.5289008012340624
+                    ],
+                    [
+                        "12_\"why him?\" has little curiosity about the impulses that drive its characters, relying instead on stale generation-gap humor.",
+                        -0.6371179382051315
+                    ],
+                    [
+                        "17_collapses the way so many r-rated comedies do.",
+                        0.5497538518347813
+                    ],
+                    [
+                        "19_this is the kind of movie where an early-on mention of the band kiss must result in a late-movie kiss karaoke performance, dress-up scene, and/or band appearance.",
+                        0.5573259221957616
+                    ],
+                    [
+                        "21_ it throws enough laughs at the viewer that at least some of them land.",
+                        -0.708250686047749
+                    ],
+                    [
+                        "22_the title isn't the only \"why\" question viewers should be asking themselves.",
+                        -0.7887474729362377
+                    ],
+                    [
+                        "25_ the concept keeps on giving.",
+                        -0.545134256848316
+                    ]
+                ]
+            },
+            "Zoey Deutch": {
+                "args": []
+            },
+            "Andrew Rannells": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_i laughed - just not as frequently or as hard as i would have liked to.",
+                -0.6962391832498991
+            ],
+            [
+                "3_ littered with f-bombs, \"why him?\" is a holiday comedy that never quite figures itself out.",
+                -0.6087591610365807
+            ],
+            [
+                "5_what say we tiptoe quietly away and pretend this movie never happened?",
+                -0.6956297243274685
+            ],
+            [
+                "6_fans of ribald, gross-out humour looking for light seasonal fare with a mildly redemptive message will find why him?",
+                -0.6415490397784499
+            ],
+            [
+                "6_a wildly entertaining jaunt.",
+                0.6858416382114195
+            ],
+            [
+                "9_\"why him?\" rarely delivers more than a half-chuckle.",
+                -0.6890499804018511
+            ],
+            [
+                "9_right now, everyone involved might be thinking, \"why me?\"",
+                -0.7360438605988691
+            ],
+            [
+                "10_not as wild as intended, ",
+                0.5790083939216455
+            ],
+            [
+                "17_after an increasing cavalcade of flatly crass visual gags featuring high-tech toilets, moose urine and poorly-timed sexual shenanigans, why him?",
+                -0.6395191531895784
+            ],
+            [
+                "18_the question in this movie's title gets a lot of use.",
+                -0.5756286292175724
+            ],
+            [
+                "20_in true hollywood fashion, they get him right, ",
+                -0.5448009865515171
+            ],
+            [
+                "21_ventures into some corny (yet sweet) territory in resolving its central conflict, ",
+                0.5190174178313255
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Hamburg": {
+                "args": [
+                    [
+                        "4_for this puerile farce, director john hamburg recycles a tired premise -- a straitlaced father disapproves of his daughter's freewheeling boyfriend -- and then drowns it in moose urine (really).",
+                        -0.6418060737993451
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ian Helfer": {
+                "args": []
+            },
+            "John Hamburg": {
+                "args": []
+            }
+        }
+    }
+}

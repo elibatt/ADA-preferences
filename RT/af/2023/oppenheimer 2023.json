@@ -1,0 +1,282 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "3_every scene feels like a cataclysm waiting to happen, fitting for a film that builds, step-by-step, to the creation of a cataclysm machine.",
+                0.6089260872162201
+            ],
+            [
+                "4_as he corrals the world�s scientists to follow behind him robert oppenheimer is magnetic, more akin to a cult leader than a lowly whitecoat.",
+                0.700519126735372
+            ],
+            [
+                "15_for the most part, the film is a towering achievement.",
+                0.743717809385391
+            ],
+            [
+                "16_fortunately for fans of both, \"oppenheimer\" delivers in telling the truth about the story of the manhattan project, at least as much as can be expected of a hollywood blockbuster.",
+                0.6197465949600006
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "1",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "5",
+                1
+            ],
+            [
+                "6",
+                1
+            ],
+            [
+                "7",
+                1
+            ],
+            [
+                "8",
+                1
+            ],
+            [
+                "10",
+                -1
+            ],
+            [
+                "18",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "0_that the director turned this most devastating of stories into a riveting pop culture phenomenon without ceding one inch on its tragic dimensions is surely an achievement for the ages.",
+                0.6116280213976679
+            ],
+            [
+                "1_what he [nolan] has put before our eyes definitively deserves to be seen, as does cillian murphy's performance in the role of oppenheimer and the irreconcilable ",
+                0.6447920061431421
+            ],
+            [
+                "2_ oppenheimer unequivocally establishes that this is a story worth telling -- and that nolan was the perfect filmmaker to do it.",
+                0.8478000985468648
+            ],
+            [
+                "5_[nolan] captures that theoretical aspect of oppenheimer on the screen in very personal moments... that energy, that swirl of passion in the unknown it's all there, and it is phenomenal to watch.",
+                0.6213733537544401
+            ],
+            [
+                "6_christopher nolan�s newest film is jarring and memorable, an ode to creation and consequence.",
+                0.8138028394526968
+            ],
+            [
+                "7_everything about christopher nolan�s latest movie is massive.",
+                0.6074073736469693
+            ],
+            [
+                "8_befitting his paradigm-shattering protagonist, nolan so audaciously merges form and content that he completely upends the �great-man� biopic.",
+                0.708173106289989
+            ],
+            [
+                "10_thanks to nolan and murphy, we see the full oppenheimer -- neither monster nor savior, victim nor villain, ",
+                -0.6782187831836161
+            ],
+            [
+                "18_christopher nolan�s blockbuster captures the scientific triumphs and monstrous sins of the manhattan project.",
+                0.7325173440456192
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": [
+                    [
+                        "1_what he [nolan] has put before our eyes definitively deserves to be seen, as does cillian murphy's performance in the role of oppenheimer and the irreconcilable ",
+                        0.6447920061431421
+                    ],
+                    [
+                        "2_ oppenheimer unequivocally establishes that this is a story worth telling -- and that nolan was the perfect filmmaker to do it.",
+                        0.8478000985468648
+                    ],
+                    [
+                        "5_[nolan] captures that theoretical aspect of oppenheimer on the screen in very personal moments... that energy, that swirl of passion in the unknown it's all there, and it is phenomenal to watch.",
+                        0.6213733537544401
+                    ],
+                    [
+                        "6_christopher nolan�s newest film is jarring and memorable, an ode to creation and consequence.",
+                        0.8138028394526968
+                    ],
+                    [
+                        "7_everything about christopher nolan�s latest movie is massive.",
+                        0.6074073736469693
+                    ],
+                    [
+                        "8_befitting his paradigm-shattering protagonist, nolan so audaciously merges form and content that he completely upends the �great-man� biopic.",
+                        0.708173106289989
+                    ],
+                    [
+                        "10_thanks to nolan and murphy, we see the full oppenheimer -- neither monster nor savior, victim nor villain, ",
+                        -0.6782187831836161
+                    ],
+                    [
+                        "18_christopher nolan�s blockbuster captures the scientific triumphs and monstrous sins of the manhattan project.",
+                        0.7325173440456192
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+            [
+                "18_writing is a little bit confusing.",
+                -0.7325173440456192
+            ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": [[
+                    "18_writing is a little bit confusing.",
+                    -0.7325173440456192
+                ]]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "1_ fantastic robert downey jr. in the role of lewis strauss.",
+                0.8101476416260318
+            ],
+            [
+                "10_thanks to nolan and murphy, we see the full oppenheimer -- neither monster nor savior, victim nor villain, ",
+                -0.6782187831836161
+            ],
+            [
+                "1_what he [nolan] has put before our eyes definitively deserves to be seen, as does cillian murphy's performance in the role of oppenheimer and the irreconcilable ",
+                0.6447920061431421
+            ],
+            [
+                "10_thanks to nolan and murphy, we see the full oppenheimer -- neither monster nor savior, victim nor villain, ",
+                0.6782187831836161
+            ],
+            [
+                "12_ ",
+                -0.3782187831836161
+            ]
+        ],
+        "entities": {
+            "Cillian Murphy": {
+                "unique_args": [
+                    [
+                        "1_what he [nolan] has put before our eyes definitively deserves to be seen, as does cillian murphy's performance in the role of oppenheimer and the irreconcilable ",
+                        0.6447920061431421
+                    ],
+                    [
+                        "10_thanks to nolan and murphy, we see the full oppenheimer -- neither monster nor savior, victim nor villain, ",
+                        -0.6782187831836161
+                    ],
+                    [
+                        "12_ ",
+                        -0.3782187831836161
+                    ]
+                ]
+            },
+            "Robert Downey Jr.": {
+                "unique_args": [
+                    [
+                        "1_ fantastic robert downey jr. in the role of lewis strauss.",
+                        0.8101476416260318
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [
+            [
+                "1_",
+                -0.3101476416260318
+            ],
+            [
+                "2_",
+                -0.4201476416260318
+            ],  [
+                "3_",
+                0.2101476416260318
+            ],
+            [
+                "4_",
+                0.3101476416260318
+            ],
+            [
+                "5_",
+                0.6101476416260318
+            ]
+
+        ],
+        "entities": {
+            "politics": {
+                "unique_args": [
+                    [
+                        "1_",
+                        -0.3101476416260318
+                    ],
+                    [
+                        "2_",
+                        -0.4201476416260318
+                    ],  [
+                        "3_",
+                        0.2101476416260318
+                    ]
+                ]
+            },
+            "morality": {
+                "unique_args": [
+                    [
+                        "4_",
+                        0.3101476416260318
+                    ],
+                    [
+                        "5_",
+                        0.5101476416260318
+                    ],
+                    [
+                        "6_",
+                        -0.3101476416260318
+                    ]
+                ]
+            },
+            "isolation": {
+                "unique_args": [
+                    [
+                        "5_",
+                        0.6101476416260318
+                    ],
+                    [
+                        "6_",
+                        0.6201476416260318
+                    ],
+                    [
+                        "7_",
+                        0.3101476416260318
+                    ],
+                    [
+                        "8_",
+                        0.4101476416260318
+                    ],
+                    [
+                        "9_",
+                        -0.6101476416260318
+                    ]
+                ]
+            }}
+    }
+}

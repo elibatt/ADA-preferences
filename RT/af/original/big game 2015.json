@@ -1,0 +1,169 @@
+{
+    "acting": {
+        "entities": {
+            "Ray Stevenson": {
+                "args": []
+            },
+            "Erik Markus Schuetz": {
+                "args": []
+            },
+            "Adrian Can": {
+                "args": [
+                    [
+                        "7_as helander's sensibility continues to be, he's got a passion for popcorn-movie energy that can be contagious - especially when he's not trashing santa.",
+                        -0.550227419502088
+                    ],
+                    [
+                        "10_if nothing else, finnish writer-director jalmari helander has a knack for cooking up premises so absurd that they can't help ",
+                        -0.815448294579284
+                    ]
+                ]
+            },
+            "Victor Garber": {
+                "args": []
+            },
+            "Felicity Huffman": {
+                "args": []
+            },
+            "Rauno Juvonen": {
+                "args": []
+            },
+            "Jean-Luc Julien": {
+                "args": []
+            },
+            "Gabriel Raab": {
+                "args": []
+            },
+            "Jorma Tommila": {
+                "args": []
+            },
+            "Risto Salmi": {
+                "args": []
+            },
+            "Philipp Rafferty": {
+                "args": []
+            },
+            "Jim Broadbent": {
+                "args": []
+            },
+            "Mehmet Kurtulus": {
+                "args": []
+            },
+            "Jaymes Butler": {
+                "args": []
+            },
+            "Onni Tommila": {
+                "args": []
+            },
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "0_ a dialled-down jackson and a fired-up tommila make for an entertaining pair.",
+                        0.6722105735643401
+                    ],
+                    [
+                        "3_mr. jackson has never seemed so unblustery",
+                        -0.5050029905406757
+                    ],
+                    [
+                        "6_it seems only fair now to let kids from every other country line up to escort samuel l. jackson to safety.",
+                        -0.6951695339761892
+                    ],
+                    [
+                        "12_\"big game\" is goofy fun, whether jackson is rolling down a hill in a freezer, the kid is trying to stop a bazooka with an arrow, or we're witnessing other stunts that are just too preposterous to describe.",
+                        0.5392417034355262
+                    ],
+                    [
+                        "17_yes, jackson does get to call someone 'motherfucker' right before shooting them.",
+                        -0.6189772364639624
+                    ],
+                    [
+                        "19_even before samuel l. jackson shows up as president of the united states and braves the finnish countryside, it's clear that \"big game\" will be a special kind of guilty pleasure.",
+                        0.6779909183047965
+                    ]
+                ]
+            },
+            "Ted Levine": {
+                "args": []
+            },
+            "Jason Steffan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jalmari Helander": {
+                "args": []
+            },
+            "Petri Jokiranta": {
+                "args": [
+                    [
+                        "0_the story penned by helander with petri jokiranta goes heavy on the hokum, not to mention the cgi fireworks, ",
+                        -0.6843986700015535
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "10_if nothing else, finnish writer-director jalmari helander has a knack for cooking up premises so absurd that they can't help ",
+                -0.815448294579284
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "4_\"big game\" never once feels credible, and that's why it's so entertaining.",
+                0.5076291439508647
+            ],
+            [
+                "4_almost nothing that takes place in this movie could occur in the real world, and there's something comforting about that.",
+                -0.5032085159425996
+            ],
+            [
+                "5_as a throwback, big game understands the thrills of retro action ",
+                0.6617136258427054
+            ],
+            [
+                "13_i was highly prepared to tell you that \"big game\" was cynical garbage and that nobody involved gave a damn -",
+                -0.7376209446824006
+            ],
+            [
+                "15_a refreshingly simple action movie.",
+                0.6257156169106713
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jalmari Helander": {
+                "args": [
+                    [
+                        "0_the story penned by helander with petri jokiranta goes heavy on the hokum, not to mention the cgi fireworks, ",
+                        -0.6843986700015535
+                    ],
+                    [
+                        "7_as helander's sensibility continues to be, he's got a passion for popcorn-movie energy that can be contagious - especially when he's not trashing santa.",
+                        -0.550227419502088
+                    ],
+                    [
+                        "8_while [director] helander probably didn't want to make things too campy or tongue-in-cheek, a little of this attitude might have distracted viewers from the rent-a-villains and generic action.",
+                        -0.8522151652876986
+                    ],
+                    [
+                        "10_if nothing else, finnish writer-director jalmari helander has a knack for cooking up premises so absurd that they can't help ",
+                        -0.815448294579284
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

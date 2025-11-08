@@ -1,0 +1,121 @@
+{
+    "director": {
+        "args": [
+            [
+                "23_while the framework and perspective are familiar, the veteran brit director's films can still have the power to grip us in an emotional chokehold.",
+                0.710786777754494
+            ]
+        ],
+        "entities": {
+            "Ken Loach": {
+                "args": [
+                    [
+                        "2_writer-director ken loach has been making movies about the british working class since the mid-60s, and this masterful dramatic feature proves that even after all these years he can still work himself up into righteous, white-hot rage.",
+                        0.6242937224629392
+                    ],
+                    [
+                        "6_ken loach does the screaming for you.",
+                        -0.5796804876444823
+                    ],
+                    [
+                        "11_this new ken loach landmark sums up everything that has kept his muckraking motor running for decades.",
+                        0.6817647701380491
+                    ],
+                    [
+                        "14_i, daniel blake is an extremely ken loach-y ken loach film, for better and for worse.",
+                        0.6489479943167019
+                    ],
+                    [
+                        "16_[a] combination of traditional movie naturalism and still-seething anger is at the rabble-rousing heart of \"i, daniel blake,\" loach's latest clear-eyed bulletin from the world of the dispossessed.",
+                        0.7442596840523581
+                    ],
+                    [
+                        "22_\"i, daniel blake\" is one of loach's finest films, a drama of tender devastation that tells its story with an unblinking neorealist simplicity that goes right back to the plainspoken purity of vittorio de sica.",
+                        0.802784441213707
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_his performance has such a gentle humanity, even (especially) in the darkest scenes that you can't turn away.",
+                0.6944309406384381
+            ]
+        ],
+        "entities": {
+            "Hayley Squires": {
+                "args": []
+            },
+            "Kate Rutter": {
+                "args": []
+            },
+            "Sharon Percy": {
+                "args": []
+            },
+            "Dylan McKiernan": {
+                "args": []
+            },
+            "Dave Johns": {
+                "args": [
+                    [
+                        "0_whichever side you come down on, johns' and squires' low-key performances are impressive, and the technological/red-tape hurdles their characters face feel stingingly accurate.",
+                        0.7578318175679649
+                    ],
+                    [
+                        "13_loach's low-key naturalism, which barely masks his fury at the injustices perpetrated on screen, is matched by dave johns's performance as daniel.",
+                        0.5852045938737748
+                    ]
+                ]
+            },
+            "Briana Shann": {
+                "args": []
+            },
+            "Kema Sikazwe": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Paul Laverty": {
+                "args": [
+                    [
+                        "20_loach and laverty's hearts are in the right place, as ever.",
+                        0.7853662926202705
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "7_utimately this political film's sentimentality and transparency detract from its power.",
+                0.5856629214665988
+            ],
+            [
+                "8_a film of empathy, grace and wit that goes a long way to explaining the populist anger so emblematic of these times.",
+                0.5488028077844542
+            ],
+            [
+                "12_loach's film isn't as stridently political as it probably sounds.",
+                -0.5211999883836766
+            ],
+            [
+                "20_it's their spleens, which definitely do not work a dream, that they need to monitor.",
+                -0.5159537486510848
+            ],
+            [
+                "21_a spare film, muted in colour - and all the more powerful and urgent for it.",
+                0.826612948509279
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

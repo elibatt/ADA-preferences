@@ -1,0 +1,168 @@
+{
+    "writer": {
+        "entities": {
+            "Andrey Zvyagintsev": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "16_the masterful script deals with telling words.",
+                0.7888792054324192
+            ],
+            [
+                "19_nothing will surprise zvyagintsev fans more than discovering how funny the film is, as the helmer and co-writer oleg negin extend the darkly satirical streak they began with elena.",
+                0.6978450069142813
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Andrey Zvyagintsev": {
+                "args": [
+                    [
+                        "0_a palpable and melancholy aura of resignation fills the masterful leviathan the fourth feature from russian director andrey zvyagintsev.",
+                        0.8006880931746828
+                    ],
+                    [
+                        "12_andrey zvyagintsev's oscar-nominated and vodka-soaked satire of modern russia, which plays more like tragedy.",
+                        0.7062473806352492
+                    ],
+                    [
+                        "17_as in their previous feature, elena, zvyagintsev and cowriter oleg negin modulate their social critique with sharp, ironic humor.",
+                        0.7899150426325294
+                    ],
+                    [
+                        "19_nothing will surprise zvyagintsev fans more than discovering how funny the film is, as the helmer and co-writer oleg negin extend the darkly satirical streak they began with elena.",
+                        0.6978450069142813
+                    ],
+                    [
+                        "21_andrei zvyagintsev's fourth feature is a thriller, a black social comedy, and a thinly veiled swipe at putin's regime in one tidy package.",
+                        0.555721092455822
+                    ],
+                    [
+                        "31_director andrey zvyagintsev's film combines allegory, brutal melodrama, black humor and strikingly beautiful compositions, each frame dense with meaning.",
+                        0.7779048399129908
+                    ],
+                    [
+                        "36_director andrey zvyagintsev puts contemporary russia, as up-to-the-minute as putin and pussy riot, under the microscope.",
+                        0.6001059288421084
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_leviathan offers a wry version of the tragedy that occurs when normal people challenge entrenched hierarchies.",
+                0.7638243381794951
+            ],
+            [
+                "4_the only real hope here is that a movie this hard on the motherland could be made there.",
+                -0.7401310107264294
+            ],
+            [
+                "5_\"leviathan\" plays like downer tolstoy, masterfully specific to these people and unforgivingly allegorical toward the country at large.",
+                -0.5499293692431344
+            ],
+            [
+                "7_at times the movie suggests a cheech and chong comedy with cannabis replaced by vodka.",
+                -0.6309893664481895
+            ],
+            [
+                "8_an observant and skillfully crafted film about corruption in modern-day russia.",
+                0.7406668160245503
+            ],
+            [
+                "11_call it what you like - a modern russian epic, a crime drama, a black comedy or a scream in the dark - leviathan is a shaggy masterpiece.",
+                0.7813365956766375
+            ],
+            [
+                "14_from its chamber-piece delicacy and bureaucratic detail to a grandeur and implacable pessimism that seem as ancient as the land itself, \"leviathan\" is a distinctly russian tragedy.",
+                0.7348883420479079
+            ],
+            [
+                "15_this is quite a movie, a bitter and compassionate work of genius that will reward repeat viewings and keep on getting better.",
+                0.754004640557434
+            ],
+            [
+                "20_the movie strikes a tone that's both spiritually poignant and ominous at the same time.",
+                0.7325282880640895
+            ],
+            [
+                "22_'leviathan' is structured as an intimate suspense story, with a job-like hero on whom all sorts of hell will be visited by an uncaring state.",
+                0.6678733500942599
+            ],
+            [
+                "23_for all his failings, kolya, in the movie's terms, is a natural man, and so his fate in fighting his implacable enemies in the state has a mythic resonance.",
+                0.5910891703914114
+            ],
+            [
+                "23_the movie would not be as powerful as it is if he were haloed.",
+                0.5915356514869242
+            ],
+            [
+                "24_the movie expands, breathtakingly, into mordant humor, impenetrable mystery, ferocious satire and classic tragedy.",
+                0.6679480278584534
+            ],
+            [
+                "26_bleak and relentless as well as impeccably made, biblical in its name as well as its moral outrage at the powerlessness of the individual in the face of unchecked authority, \"leviathan\" is dealing with nothing less than the current state of russia's soul.",
+                0.6897215070752728
+            ],
+            [
+                "28_though it takes place in a small town and involves only a handful of characters, the russian drama \"leviathan\" has a feeling of expansiveness,",
+                0.6668336503981626
+            ],
+            [
+                "29_ the movie closes around you like the fist it protests and laments.",
+                0.5427233983382069
+            ],
+            [
+                "32_the heart and soul of leviathan is serebriakov's kolia, who carries deep sorrow in his eyes and on his shoulders, even as he fends off defeat for longer than you'd imagine possible.",
+                0.7921795922669499
+            ],
+            [
+                "33_this is really a movie about a feeling, or really, about a lack of feeling - about what happens to people in a dominant culture of bullying and abuse, when they have no escape except what's inside the next bottle, no options except not waking up.",
+                -0.8149605573847364
+            ],
+            [
+                "34_leviathan is another downer, ",
+                -0.608074176571566
+            ],
+            [
+                "36_leviathan is a stupendous piece of work that transcends language and borders.",
+                0.5931907719647083
+            ],
+            [
+                "37_this is a whale of a movie, grotesque and a little bloated ",
+                -0.5512141252230935
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Anna Oukolova": {
+                "args": []
+            },
+            "Roman Madianov": {
+                "args": []
+            },
+            "Elena Liadova": {
+                "args": []
+            },
+            "Aleksey Serebryakov": {
+                "args": []
+            },
+            "Vladimir Vdovitchenkov": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

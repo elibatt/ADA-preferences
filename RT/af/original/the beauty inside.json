@@ -1,0 +1,99 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_satisfying, charming and surprising - a film that keeps its supernatural elements grounded in reality, with the focus on the spirituality of true love.",
+                0.8106418411823357
+            ],
+            [
+                "2_the film, pleasing and inoffensive, often amuses as it wrestles with the nature of familiarity as well as the question of where beauty resides.",
+                0.8307295274014671
+            ],
+            [
+                "3_the beauty inside works for the fantastical, soft focus romance it is.",
+                0.7248605795976848
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jong-Yeol Baek": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Han Hyo-joo": {
+                "args": []
+            },
+            "Juri Ueno": {
+                "args": []
+            },
+            "Ko Ah-sung": {
+                "args": []
+            },
+            "Beom-su Lee": {
+                "args": []
+            },
+            "Ji-han Do": {
+                "args": []
+            },
+            "Park Shin-hye": {
+                "args": []
+            },
+            "Chun Woo-hee": {
+                "args": []
+            },
+            "Seo Joon Park": {
+                "args": []
+            },
+            "Yoo Yeonseok": {
+                "args": []
+            },
+            "Kim Sang-ho": {
+                "args": []
+            },
+            "Kim Dae-myung": {
+                "args": []
+            },
+            "Lee Dong Wook": {
+                "args": []
+            },
+            "Kang-Joon Seo": {
+                "args": []
+            },
+            "Jin-wook Lee": {
+                "args": []
+            },
+            "Ju-hyuk Kim": {
+                "args": []
+            },
+            "Karel Hermánek": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_nothing ever truly challenges either main character's conception of love in general and the person they love in particular",
+                0.7524386887772647
+            ]
+        ],
+        "entities": {
+            "Jeong-ye Park": {
+                "args": []
+            },
+            "Seon-jeong Kim": {
+                "args": []
+            }
+        }
+    }
+}

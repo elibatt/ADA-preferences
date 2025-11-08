@@ -1,0 +1,150 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "0_overall, central intelligence isn't 48 hours...",
+                -0.7030543658414201
+            ],
+            [
+                "1_this is a tongue-in-cheek buddy movie that's above average, ",
+                0.633732653714156
+            ],
+            [
+                "7_a fine film to watch if you feel like taking an easy break from the real world.",
+                0.8089456024268811
+            ],
+            [
+                "3",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "15",
+                1
+            ],
+            [
+                "19",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [],
+        "entities": {
+            "Rawson Marshall Thurber": {
+                "unique_args": []
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Ike Barinholtz": {
+                "unique_args": []
+            },
+            "David Stassen": {
+                "unique_args": []
+            },
+            "Rawson Marshall Thurber": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "3_dwayne johnson and kevin hart give central intelligence all the charisma they can, and through their combined sheer force of will, this comedy works.",
+                0.6211893403151181
+            ],
+            [
+                "4_, thanks to johnson, this one's approach to love and lust seems genuinely new wave.",
+                0.8232615983942237
+            ],
+            [
+                "15_no one can steal the show from johnson and hart.",
+                0.6146790870487022
+            ],
+            [
+                "19_the film has a firm grasp of johnson's appeal as a leading man: he is hollywood's most imposing ray of sunshine.",
+                0.733518518141842
+            ],
+            [
+                "0_however, if you enjoy hart's stand-up comedy, and his other numerous flicks,",
+                0.7042531796910992
+            ]
+        ],
+        "entities": {
+            "Dwayne Johnson": {
+                "unique_args": [
+                    [
+                        "3_dwayne johnson and kevin hart give central intelligence all the charisma they can, and through their combined sheer force of will, this comedy works.",
+                        0.6211893403151181
+                    ],
+                    [
+                        "4_, thanks to johnson, this one's approach to love and lust seems genuinely new wave.",
+                        0.8232615983942237
+                    ],
+                    [
+                        "15_no one can steal the show from johnson and hart.",
+                        0.6146790870487022
+                    ],
+                    [
+                        "19_the film has a firm grasp of johnson's appeal as a leading man: he is hollywood's most imposing ray of sunshine.",
+                        0.733518518141842
+                    ]
+                ]
+            },
+            "Kevin Hart": {
+                "unique_args": [
+                    [
+                        "0_however, if you enjoy hart's stand-up comedy, and his other numerous flicks,",
+                        0.7042531796910992
+                    ]
+                ]
+            },
+            "Amy Ryan": {
+                "unique_args": []
+            },
+            "Danielle Nicolet": {
+                "unique_args": []
+            },
+            "Jason Bateman": {
+                "unique_args": []
+            },
+            "Aaron Paul": {
+                "unique_args": []
+            },
+            "Ryan Hansen": {
+                "unique_args": []
+            },
+            "Tim Griffin": {
+                "unique_args": []
+            },
+            "Timothy John Smith": {
+                "unique_args": []
+            },
+            "Sione Kelepi": {
+                "unique_args": []
+            },
+            "Dylan Boyack": {
+                "unique_args": []
+            },
+            "Thomas Kretschmann": {
+                "unique_args": []
+            },
+            "Megan Park": {
+                "unique_args": []
+            },
+            "Slaine": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

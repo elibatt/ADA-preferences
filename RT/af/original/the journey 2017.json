@@ -1,0 +1,113 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Nick Hamm": {
+                "args": [
+                    [
+                        "8_while hamm and bateman have the right idea overall, their love of contrivance too often gives \"the journey\" the sense of being reverse-engineered ...",
+                        0.8168989505472664
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Timothy Spall": {
+                "args": [
+                    [
+                        "1_with precious cargo like spall and meaney to transport, even freddie highmore behind the wheel - and the occasional narrative detour - didn't give sufficient cause to incite road rage.",
+                        -0.7049710851152358
+                    ],
+                    [
+                        "2_ the sparring of spall and meaney is just worth the 94-minute investment.",
+                        -0.5674152078642525
+                    ],
+                    [
+                        "3_the dialogue swings between quick and banal as the chipper mcguinness tries to crack the self-righteous stoic (spall is brilliant) paisley.",
+                        0.5955232806618054
+                    ],
+                    [
+                        "12_though the script tilts to the didactic, the performances are absolutely delicious, with mr. meaney droll and understated and mr. spall fiery and derisive,",
+                        0.8202804425403514
+                    ],
+                    [
+                        "14_the film is buoyed by its sharp, witty lead performances, with spall's holier-than-thou imperiousness clashing suitably with meaney's more affable obstinacy.",
+                        0.7690936939049622
+                    ]
+                ]
+            },
+            "Freddie Highmore": {
+                "args": []
+            },
+            "Catherine McCormack": {
+                "args": []
+            },
+            "Colm Meaney": {
+                "args": []
+            },
+            "John Hurt": {
+                "args": []
+            },
+            "Toby Stephens": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "12_though the script tilts to the didactic, the performances are absolutely delicious, with mr. meaney droll and understated and mr. spall fiery and derisive,",
+                0.8202804425403514
+            ]
+        ],
+        "entities": {
+            "Colin Bateman": {
+                "args": [
+                    [
+                        "8_while hamm and bateman have the right idea overall, their love of contrivance too often gives \"the journey\" the sense of being reverse-engineered ...",
+                        0.8168989505472664
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"the journey\" has fun playing make believe, ",
+                0.7669910499228482
+            ],
+            [
+                "4_every element of the movie feels fabricated, from the stilted conversation to the all-too-convenient obstacles the movie keeps throwing in the path of progress, including a flat tire, an empty gas tank and an implausible detour to a church.",
+                -0.8040373069200201
+            ],
+            [
+                "7_the movie contains some tremendous individual scenes ",
+                0.6196294739085545
+            ],
+            [
+                "10_ the movie itself never coheres into anything believable.",
+                -0.5660590875785048
+            ],
+            [
+                "11_the real-life version of how these two mortal enemies became so close that they were referred to in the press as 'the chuckle brothers' is way more interesting than the 'imagined' version presented in the film.",
+                -0.5560149743084386
+            ],
+            [
+                "13_the journey ponders nothing less than the intractability of political violence.",
+                0.6141780607555638
+            ],
+            [
+                "15_it's a movie that follows every trope in the book, and does so with pleasing fireworks and finesse.",
+                0.7051631903158663
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

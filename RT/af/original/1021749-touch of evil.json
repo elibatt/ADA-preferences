@@ -1,0 +1,199 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_expressionistic in the extreme, filled with shadows, angles and cinematic flourishes, the film raises the usual brooding nightmare ambiance of film noir to a level few other pictures have attempted.",
+                0.6135608336943434
+            ],
+            [
+                "2_having the touch of evil envisioned by our most creative filmmaker, is a wondrous gift no movie lover should miss.",
+                0.6335752079051509
+            ],
+            [
+                "4_indeed, just to see and hear the extraordinary 3 minute and 20 second opening sequence -- a fluid tour de force tracking shot -- without impediment of opening credits and street-sound-masking movie score is accomplishment enough.",
+                0.6538045527806089
+            ],
+            [
+                "9_the film has always been full of reckless energy, and now it is, as they say, better than ever.",
+                0.6314281902527298
+            ],
+            [
+                "11_touch of evil may be the sleaziest good movie ever made.",
+                0.6271218578753972
+            ],
+            [
+                "12_the camera work and blocking have the coordination of an olympic pole vaulter",
+                -0.5718066856569748
+            ],
+            [
+                "16_the film has always been a favorite of those who enjoy visual and dramatic flamboyance.",
+                0.7809342285755247
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Orson Welles": {
+                "args": [
+                    [
+                        "0_made in 1958, it was orson welles's last hollywood film, and in it he makes transcendent use of the american technology his genius throve on",
+                        0.5892328027535797
+                    ],
+                    [
+                        "3_[welles'] scenes with brothel-keeper marlene dietrich have nothing to do with the plot and everything to do with the rotting heart of this amazing fable: the apotheosis of pulp.",
+                        -0.522399037667248
+                    ],
+                    [
+                        "7_where mr. welles soundly succeeds is in generating enough sinister electricity for three such yarns and in generally staging it like a wild, murky nightmare.",
+                        -0.5164196368527787
+                    ],
+                    [
+                        "13_it's a flurry of pressure-cooker baroque, an extreme example of the exhibitionistic hijinks in which welles could sometimes indulge, apparently intensified here because he wasn't doing what he really wanted to be doing.",
+                        -0.7970314078291705
+                    ],
+                    [
+                        "15_touch of evil is a savvy starter because welles' astonishing cinematic invention and his persuasive presence as star are prime noir at tractions.",
+                        -0.5503772603528274
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Taylor Wayne": {
+                "args": []
+            },
+            "Phil Harvey": {
+                "args": []
+            },
+            "Joi Lansing": {
+                "args": []
+            },
+            "Joseph Calleia": {
+                "args": []
+            },
+            "Jennie Dias": {
+                "args": []
+            },
+            "Zsa Zsa Gabor": {
+                "args": []
+            },
+            "Raymond Rodriguez": {
+                "args": []
+            },
+            "Michael Sargent": {
+                "args": []
+            },
+            "Joanna Cook Moore": {
+                "args": []
+            },
+            "Val DeVargas": {
+                "args": []
+            },
+            "Janet Leigh": {
+                "args": []
+            },
+            "Joseph Cotten": {
+                "args": []
+            },
+            "Akim Tamiroff": {
+                "args": []
+            },
+            "Eleanor Dorado": {
+                "args": []
+            },
+            "Mercedes McCambridge": {
+                "args": []
+            },
+            "Victor Millan": {
+                "args": []
+            },
+            "Mort Mills": {
+                "args": []
+            },
+            "Rusty Wescoatt": {
+                "args": []
+            },
+            "Harry Shannon": {
+                "args": []
+            },
+            "Dennis Weaver": {
+                "args": []
+            },
+            "Orson Welles": {
+                "args": [
+                    [
+                        "0_made in 1958, it was orson welles's last hollywood film, and in it he makes transcendent use of the american technology his genius throve on",
+                        0.5892328027535797
+                    ],
+                    [
+                        "3_[welles'] scenes with brothel-keeper marlene dietrich have nothing to do with the plot and everything to do with the rotting heart of this amazing fable: the apotheosis of pulp.",
+                        -0.522399037667248
+                    ],
+                    [
+                        "7_where mr. welles soundly succeeds is in generating enough sinister electricity for three such yarns and in generally staging it like a wild, murky nightmare.",
+                        -0.5164196368527787
+                    ],
+                    [
+                        "13_it's a flurry of pressure-cooker baroque, an extreme example of the exhibitionistic hijinks in which welles could sometimes indulge, apparently intensified here because he wasn't doing what he really wanted to be doing.",
+                        -0.7970314078291705
+                    ],
+                    [
+                        "15_touch of evil is a savvy starter because welles' astonishing cinematic invention and his persuasive presence as star are prime noir at tractions.",
+                        -0.5503772603528274
+                    ]
+                ]
+            },
+            "Yolanda Bojorquez": {
+                "args": []
+            },
+            "Dominick DelGarde": {
+                "args": []
+            },
+            "Keenan Wynn": {
+                "args": []
+            },
+            "Charlton Heston": {
+                "args": []
+            },
+            "Kenny Miller": {
+                "args": []
+            },
+            "Marlene Dietrich": {
+                "args": []
+            },
+            "Arlene McQuade": {
+                "args": []
+            },
+            "Ray Collins": {
+                "args": []
+            },
+            "Lalo Rios": {
+                "args": []
+            },
+            "Joe Basulto": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_a sweaty thriller conundrum on character and corruption, justice and the law, worship and betrayal, it plays havoc with moral ambiguities.",
+                0.7391045788552874
+            ]
+        ],
+        "entities": {
+            "Orson Welles": {
+                "args": []
+            }
+        }
+    }
+}

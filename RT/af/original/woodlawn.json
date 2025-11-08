@@ -1,0 +1,219 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Brando Eaton": {
+                "args": []
+            },
+            "Mark Sellors": {
+                "args": []
+            },
+            "Caleb Castille": {
+                "args": []
+            },
+            "Kirk B.R. Woller": {
+                "args": []
+            },
+            "DeVon Franklin": {
+                "args": []
+            },
+            "Ron Flagge": {
+                "args": []
+            },
+            "Garrett Sutphen": {
+                "args": []
+            },
+            "Kristi Averette": {
+                "args": []
+            },
+            "Jeff Kruse": {
+                "args": []
+            },
+            "Michael Entrekin": {
+                "args": []
+            },
+            "Jeff Rose": {
+                "args": []
+            },
+            "Brian Wyatt": {
+                "args": []
+            },
+            "Jon Voight": {
+                "args": []
+            },
+            "Virginia Williams": {
+                "args": []
+            },
+            "Rhoda Griffis": {
+                "args": []
+            },
+            "Sean Astin": {
+                "args": []
+            },
+            "Devin Bright": {
+                "args": []
+            },
+            "Kevin Downes": {
+                "args": []
+            },
+            "Harry Alexander": {
+                "args": []
+            },
+            "Matthew T. Cook": {
+                "args": []
+            },
+            "Rodney L. Clark": {
+                "args": []
+            },
+            "Walker Morgan Kendrick": {
+                "args": []
+            },
+            "Farris Turner": {
+                "args": []
+            },
+            "Hannah Waits": {
+                "args": []
+            },
+            "Keith Loy": {
+                "args": []
+            },
+            "Jeremy Grimsley": {
+                "args": []
+            },
+            "Haley Spates": {
+                "args": []
+            },
+            "William Ratcliffe": {
+                "args": []
+            },
+            "Carlton Byrd": {
+                "args": []
+            },
+            "Tom Mullins": {
+                "args": []
+            },
+            "Richard Kohnke": {
+                "args": []
+            },
+            "Jet Jurgensmeyer": {
+                "args": []
+            },
+            "Marcus Henderson": {
+                "args": []
+            },
+            "Steven Chester Prince": {
+                "args": []
+            },
+            "Nicholas Bishop": {
+                "args": []
+            },
+            "Danny Vinson": {
+                "args": []
+            },
+            "Doug Markstrom": {
+                "args": []
+            },
+            "Justin O'Neal": {
+                "args": []
+            },
+            "Justin Sanders": {
+                "args": []
+            },
+            "Tyrell Humphries": {
+                "args": []
+            },
+            "Lee Perkins": {
+                "args": []
+            },
+            "David Kloehr": {
+                "args": []
+            },
+            "Kelly Greyson": {
+                "args": []
+            },
+            "Justin Johnston": {
+                "args": []
+            },
+            "Sherri Shepherd": {
+                "args": []
+            },
+            "C. Thomas Howell": {
+                "args": []
+            },
+            "Joy Brunson": {
+                "args": []
+            },
+            "Blake Burgess": {
+                "args": []
+            },
+            "James Vines": {
+                "args": []
+            },
+            "Brett Rice": {
+                "args": []
+            },
+            "Kevin Sizemore": {
+                "args": []
+            },
+            "Stephen Wilson": {
+                "args": []
+            },
+            "Austin Pollard": {
+                "args": []
+            },
+            "Ray Torillo": {
+                "args": []
+            },
+            "Lance E. Nichols": {
+                "args": []
+            },
+            "Dan Vaughan": {
+                "args": []
+            },
+            "Christopher Snuggs": {
+                "args": []
+            },
+            "Jason Burkey": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Erwin (II)": {
+                "args": []
+            },
+            "Jon Erwin": {
+                "args": [
+                    [
+                        "0_sports and religion are a potent combination, one that siblings jon and andrew erwin",
+                        0.8350208809920857
+                    ],
+                    [
+                        "2_ at least the erwin brothers have made an effort, parochially speaking, to go outside the lines.",
+                        -0.5767310405990558
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Quinton Peeples": {
+                "args": []
+            },
+            "Jon Erwin": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_as close to a masterpiece as any film you're likely to see this year.",
+                0.6869262627866936
+            ],
+            [
+                "1_a film to be seen and savored for its moral magnitude.",
+                0.667212031788016
+            ],
+            [
+                "2_the glacial pacing can be an irritant as the film unfolds -- i repeatedly wanted to speed things up -- ",
+                -0.745756210087662
+            ],
+            [
+                "2_ army of shadows won't leave you alone after you've seen it.",
+                -0.5107000684856298
+            ],
+            [
+                "4_for anyone interested in the impact of war on ordinary men, army of shadows proves a sobering and invaluable experience.",
+                0.7061044472826539
+            ],
+            [
+                "5_this memorable movie movingly pays tri",
+                0.6536907365469313
+            ],
+            [
+                "9_ it's nothing like any other french resistance film ever made.",
+                0.5640809717917099
+            ],
+            [
+                "11_what's so devastating about army of shadows is how physically we respond to the terrible decisions faced by the resistance fighters.",
+                -0.6414079843302832
+            ],
+            [
+                "12_rarely has a film shown so truly that place in the heart where hope lives with fatalism.",
+                0.7637649560693809
+            ],
+            [
+                "16_it's a strange enough film, yet weirdly great.",
+                0.7112574320116251
+            ],
+            [
+                "16_no movie has quite gotten the clammy weight of fear, the sense of hopelessness that would necessarily haunt underground workers.",
+                0.5496853883744157
+            ],
+            [
+                "20_almost 40 years after it was made, army of shadows has more to tell us about the internal toll of war and taking a stand than anything hollywood has produced.",
+                0.5199202867653875
+            ],
+            [
+                "21_[a] rare work of art that thrills the senses and the mind.",
+                0.7710002325327975
+            ],
+            [
+                "23_the film is long and episodic, strangely divided between art-house enigmas and melodramatic payoffs for the matinee crowd.",
+                -0.535010734706584
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jean-Pierre Melville": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Georges Sellier": {
+                "args": []
+            },
+            "Claude Mann": {
+                "args": []
+            },
+            "Jean-Marie Robain": {
+                "args": []
+            },
+            "Simone Signoret": {
+                "args": []
+            },
+            "Paul Crauchet": {
+                "args": []
+            },
+            "Alain Libolt": {
+                "args": []
+            },
+            "Christian Barbier": {
+                "args": []
+            },
+            "Paul Meurisse": {
+                "args": []
+            },
+            "Marco Perrin": {
+                "args": []
+            },
+            "Alain Dekock": {
+                "args": []
+            },
+            "Albert Michel Jr.": {
+                "args": []
+            },
+            "Serge Reggiani": {
+                "args": []
+            },
+            "Hubert de Lapparent": {
+                "args": [
+                    [
+                        "3_from the first sight of german soldiers goose-stepping past the arc de triomphe to a postscript that spells out the fate of characters whose moral confusion is all too real, army of shadows is a movie of its time -- and ours.",
+                        0.6539967934027056
+                    ]
+                ]
+            },
+            "Jean-Pierre Cassell": {
+                "args": []
+            },
+            "Jean-Pierre Cassel": {
+                "args": []
+            },
+            "Lino Ventura": {
+                "args": []
+            },
+            "Jeanne Pérez": {
+                "args": []
+            },
+            "Alain Mottet": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "18_the cast of characters is small and well-drawn by an ensemble of veteran actors.",
+                0.7136777876289894
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Jean-Pierre Melville": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

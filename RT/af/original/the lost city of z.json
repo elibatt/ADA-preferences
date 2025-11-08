@@ -1,0 +1,190 @@
+{
+    "acting": {
+        "entities": {
+            "Robert Pattinson": {
+                "args": []
+            },
+            "Charlie Hunnam": {
+                "args": [
+                    [
+                        "30_the cast is terrific, with a revelatory turn from charlie hunnam as fawcett",
+                        0.7480177359787221
+                    ],
+                    [
+                        "34_everyone, including hunnam and pattinson, brings their a-game to james gray's haunting and visionary journey into the heart of amazonian darkness, a potent provocation that gets under your skin.",
+                        0.6893276487940518
+                    ]
+                ]
+            },
+            "Tom Holland (II)": {
+                "args": []
+            },
+            "Angus Macfadyen": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_miller's riveting, heartfelt portrayal etches a delicate picture underneath the colorful, wild portrait of fawcett - of the losses suffered at home in service of greater ambitions and fantastical dreams.",
+                0.7717975138313807
+            ],
+            [
+                "20_hunnam's performance is charming and lived in, easily the best work he's ever done, and scene for scene, this is a splendid film.",
+                0.9235963632168649
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "James Gray": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "42_an attempt at an entirely different kind of film for gray, and the results are revelatory and expansive while also true to his own complicated creative character.",
+                0.6272713281518711
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the lost city of z held my interest,",
+                -0.5013686658474779
+            ],
+            [
+                "3_the never-ending jungle proves perfectly suited to the filmmaker's lush, operatic aesthetic, as does the film's central theme of escaping one's background, through whatever means necessary.",
+                0.633971743027987
+            ],
+            [
+                "4_ like fawcett, \"the lost city of z\" is admirable in its resilience.",
+                -0.5446042800622852
+            ],
+            [
+                "6_the lost city of z eschews multiplex formulae in favour of the jungle of the mind, a much more fertile place to explore.",
+                0.7330776219239772
+            ],
+            [
+                "10_if you long for a film in the tradition of such grown-up entertainments as \"lawrence of arabia\" and \"the english patient,\" this is one to get lost in.",
+                0.5659433343351048
+            ],
+            [
+                "11_a throwback to the good old days when adventure movies had riveting performances, gorgeous camerawork and the ability to tell stories that made sense, the lost city of z holds attention and keeps you fascinated.",
+                0.849963137928096
+            ],
+            [
+                "12_the movie is 141 minutes long ",
+                -0.6378369603709756
+            ],
+            [
+                "15_to really appreciate \"the lost city of z,\" it would help not to consider its hero a complete idiot.",
+                -0.5691699263857806
+            ],
+            [
+                "18_the lost city of z is a miraculous movie, at once moving, intimidating, and gorgeous to behold.",
+                0.7665406752403354
+            ],
+            [
+                "19_you can feel in this film, as you can in herzog's best movies, the ethereal pull that the uncanny can exert on a man.",
+                0.8957555912178687
+            ],
+            [
+                "20_hunnam's performance is charming and lived in, easily the best work he's ever done, and scene for scene, this is a splendid film.",
+                0.9235963632168649
+            ],
+            [
+                "23_by all means, go see \"the lost city of z\" - i wouldn't have missed it.",
+                -0.7004448127664724
+            ],
+            [
+                "25_the lost city of z is neither indiana jones escapism nor a malick-like reverie about nature, ",
+                -0.6756472630053119
+            ],
+            [
+                "27_by the time you realize the transformation has occurred, the movie has you in its clutches, and it doesn't let go.",
+                -0.5894941532535818
+            ],
+            [
+                "29_pictures with the grand sweep and dreamy energy of the lost city of z don't come along every year-they barely come along at all.",
+                -0.5645062675910866
+            ],
+            [
+                "31_ the movie is a wellspring.",
+                -0.5049664936827168
+            ],
+            [
+                "32_the lost city of z is so jarringly out of step with summer blockbuster season that watching it feels like discovering a relic.",
+                -0.7845909759406015
+            ],
+            [
+                "36_the lost city of z(ed) isn't as expansive as you might initially wish ",
+                -0.710750520219813
+            ],
+            [
+                "37_\"the lost city of z\" is beautiful, mournful, and measured.",
+                0.6521454679775776
+            ],
+            [
+                "39_the grandeur of this movie is off the charts.",
+                -0.6362398227092457
+            ],
+            [
+                "39_for a certain kind of old-school film fan, someone who believes in shapely, classical proportions and an epic yarn told over time, it will be the revelation of the year.",
+                0.8164291543962463
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James Gray": {
+                "args": [
+                    [
+                        "9_writer-director james gray stages all this with an impressive sense of narrative scale.",
+                        0.8789792738946722
+                    ],
+                    [
+                        "12_ that's how confident a filmmaker gray has become.",
+                        0.780332145815301
+                    ],
+                    [
+                        "14_film by film, gray is becoming a truer, more effective version of the filmmaker inside him.",
+                        0.65024147258894
+                    ],
+                    [
+                        "17_with its bluff, romantic resuscitation of the cinema's classic adventure-tale genre and tone, it's perhaps gray's most radical attempt at abstraction and displacement.",
+                        0.8227146781126192
+                    ],
+                    [
+                        "26_given fawcett's trailblazing achievements -- and gray's choice to film in difficult circumstances deep in the colombian jungle -- the film is oddly restrained.",
+                        0.7216940209462004
+                    ],
+                    [
+                        "31_the lost city of z may, like early films by gray, leave some thirsting for more swashbuckling adventure.",
+                        0.6306255863913541
+                    ],
+                    [
+                        "33_it's gray's careful choices as a director that truly star here, from the classically infused score by frequent collaborator christopher spelman to the inspiring shots of remote colombia captured by his frequent director of photography, darius khondji.",
+                        0.6929977760318027
+                    ],
+                    [
+                        "34_everyone, including hunnam and pattinson, brings their a-game to james gray's haunting and visionary journey into the heart of amazonian darkness, a potent provocation that gets under your skin.",
+                        0.6893276487940518
+                    ],
+                    [
+                        "42_an attempt at an entirely different kind of film for gray, and the results are revelatory and expansive while also true to his own complicated creative character.",
+                        0.6272713281518711
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

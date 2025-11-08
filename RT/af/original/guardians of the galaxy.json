@@ -1,0 +1,390 @@
+{
+    "writer": {
+        "entities": {
+            "James Gunn (II)": {
+                "args": []
+            },
+            "Nicole Perlman": {
+                "args": [
+                    [
+                        "40_yet the zany script by director james gunn and co-writer nicole perlman is sharply funny.",
+                        0.7471304805180934
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "5_director and co-writer james gunn brings a giddiness and a wondrous, endless sense of why-the-hell-not?",
+                0.5863173253868696
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "James Gunn (II)": {
+                "args": [
+                    [
+                        "5_director and co-writer james gunn brings a giddiness and a wondrous, endless sense of why-the-hell-not?",
+                        0.5863173253868696
+                    ],
+                    [
+                        "13_as directed by james gunn, guardians of the galaxy never takes itself seriously and it's often a visual and musical treat.",
+                        0.5515351432013158
+                    ],
+                    [
+                        "40_yet the zany script by director james gunn and co-writer nicole perlman is sharply funny.",
+                        0.7471304805180934
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_if guardians of the galaxy is an origin story, it is also a satire of the origin story, one that emphasizes the power of the \"we\" over that of the \"chosen one.\"",
+                0.7464901439402729
+            ],
+            [
+                "2_the lightly derisive, live-action-cartoon tone robs the movie of any majesty, even of the comic-book type, and the many violent deaths of their suitable gravity.",
+                0.6240702335604873
+            ],
+            [
+                "7_more surprising still, the very elements that seemed most likely to ruin the movie-the tree-man, the talking raccoon-account for much of its improbable charm.",
+                0.6805481715736605
+            ],
+            [
+                "9_\"guardians of the galaxy\" has wit, energy and zaniness to spare.",
+                0.6377526990466993
+            ],
+            [
+                "10_guardians of the galaxy is an open fire hydrant of a summer movie: more fun than should be allowed in such hot weather.",
+                0.7011850183509393
+            ],
+            [
+                "12_the characters are great and the movie is often very funny.",
+                0.8654554400526199
+            ],
+            [
+                "15_the people who made this movie must have had a swell time in the process, and it's nice to see a summer epic that takes itself so unseriously.",
+                0.7252742741710441
+            ],
+            [
+                "17_if you're old enough to remember when sci-fi and comic books were fun, \"guardians of the galaxy\" will be your new favorite movie.",
+                0.6718325377198215
+            ],
+            [
+                "18_guardians of the galaxy does the impossible.",
+                -0.5880660924014438
+            ],
+            [
+                "21_guardians of the galaxy is too loud, too long and too busy ",
+                -0.6922994478477835
+            ],
+            [
+                "24_it's the funniest of any marvel movie yet, lending the film a lightness that goes a long way toward deflating the grandiosity that sometimes inflates and bloats the studio's films.",
+                0.7113775838819227
+            ],
+            [
+                "27_the film seems content to be the class clown of the marvel universe, which is all well and good.",
+                0.7099152660357604
+            ],
+            [
+                "32_\"guardians of the galaxy\" brings to mind some of the most unforgettable sci-fi event movies of the last 30 years.",
+                0.7676459191477043
+            ],
+            [
+                "33_to see an expensive, big-studio movie freed from creative constraints and directorial cynicism is always a rare and wondrous experience.",
+                0.7985591088073316
+            ],
+            [
+                "34_watching the zippy, ebullient guardians of the galaxy, you wonder \"why can't all comic-book movies be this much fun?\"",
+                -0.5133513006014623
+            ],
+            [
+                "36_a summer comic-book movie that effortlessly makes you feel like a wide-eyed, happy kid again.",
+                0.8627834198376089
+            ],
+            [
+                "37_guardians of the galaxy is solid summer fun - not the mammoth epic we have come to expect from each new marvel release, ",
+                0.8194657393392827
+            ],
+            [
+                "37_ a welcome entry into a moribund movie season.",
+                0.743047986916316
+            ],
+            [
+                "38_guardians of the galaxy is a giddy blast of fresh air, an exercise in unfettered glee that leaves behind all the angst and self-seriousness to revel in just how freakin' cool the adventures it's chronicling are.",
+                0.5837994602593534
+            ],
+            [
+                "42_the movie knows that junk art is still art, that no one is more in need of something to speak for them than the inarticulate - and with that it takes the secret pull of comic geekdom and elevates it to a kind of bittersweet, obsessive romanticism.",
+                -0.5471073010615113
+            ],
+            [
+                "45_guardians of the galaxy\" is the type of movie where every second sentence starts with \"behold!\"",
+                -0.6074805657117288
+            ],
+            [
+                "46_the film is terribly overstuffed and many of the jokes get drowned out by the special effects.",
+                -0.5413560541859511
+            ],
+            [
+                "47_to misquote forrest gump's mother, guardians of the galaxy is like a box of chocolates.",
+                0.5604617726422783
+            ],
+            [
+                "49_\"guardians of the galaxy\" is a smart, funny movie at war with dumb explosions and other special effects.",
+                0.8175040472115934
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bradley Cooper": {
+                "args": []
+            },
+            "Miriam Lucia": {
+                "args": []
+            },
+            "Ronan Summers": {
+                "args": []
+            },
+            "Rob Zombie": {
+                "args": []
+            },
+            "Wyatt Oleff": {
+                "args": []
+            },
+            "Robert Firth": {
+                "args": []
+            },
+            "Richard Katz": {
+                "args": []
+            },
+            "Bruce MacKinnon": {
+                "args": []
+            },
+            "Solomon Mousley": {
+                "args": []
+            },
+            "Josh Brolin": {
+                "args": []
+            },
+            "Sean Gunn": {
+                "args": [
+                    [
+                        "5_director and co-writer james gunn brings a giddiness and a wondrous, endless sense of why-the-hell-not?",
+                        0.5863173253868696
+                    ],
+                    [
+                        "13_as directed by james gunn, guardians of the galaxy never takes itself seriously and it's often a visual and musical treat.",
+                        0.5515351432013158
+                    ],
+                    [
+                        "40_yet the zany script by director james gunn and co-writer nicole perlman is sharply funny.",
+                        0.7471304805180934
+                    ]
+                ]
+            },
+            "Doug Robson": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": []
+            },
+            "Nathan Fillion": {
+                "args": []
+            },
+            "Alexis Rodney": {
+                "args": []
+            },
+            "Michael Rooker": {
+                "args": []
+            },
+            "Krystian Godlewski": {
+                "args": []
+            },
+            "Christopher Fairbank": {
+                "args": []
+            },
+            "Dave Bautista": {
+                "args": []
+            },
+            "Rosie Jones": {
+                "args": [
+                    [
+                        "50_part george lucas and part chuck jones, guardians of the galaxy has enough scrappy heart and smart humor to make it seem like the best possible kind of product, one where the talent of all involved makes it easy to enjoy their hustle.",
+                        0.8802077565352885
+                    ]
+                ]
+            },
+            "James Gunn (II)": {
+                "args": []
+            },
+            "Stephen Blackehart": {
+                "args": []
+            },
+            "Enzo Cilenti": {
+                "args": []
+            },
+            "Enoch Frost": {
+                "args": []
+            },
+            "Tom Proctor": {
+                "args": []
+            },
+            "Nicole Alexandra Shipley": {
+                "args": []
+            },
+            "Keeley Forsyth": {
+                "args": []
+            },
+            "Alison Lintott": {
+                "args": []
+            },
+            "Zoe Saldana": {
+                "args": []
+            },
+            "Rachel Cullen": {
+                "args": []
+            },
+            "Spencer Wilding": {
+                "args": []
+            },
+            "Lindsay Morton": {
+                "args": []
+            },
+            "Laura Ortiz": {
+                "args": []
+            },
+            "Nick Holmes": {
+                "args": []
+            },
+            "Emily Redding": {
+                "args": []
+            },
+            "Ekaterina Zalitko": {
+                "args": []
+            },
+            "Alex Rose": {
+                "args": []
+            },
+            "Peter Serafinowicz": {
+                "args": []
+            },
+            "Isabella Poynton": {
+                "args": []
+            },
+            "Brendan Fehr": {
+                "args": []
+            },
+            "Melia Kreiling": {
+                "args": []
+            },
+            "Laura Haddock": {
+                "args": []
+            },
+            "Naomi Ryan": {
+                "args": []
+            },
+            "David Yarovesky": {
+                "args": []
+            },
+            "Gregg Henry": {
+                "args": []
+            },
+            "Tomas Arana": {
+                "args": []
+            },
+            "Mikaela Hoover": {
+                "args": []
+            },
+            "Benicio Del Toro": {
+                "args": []
+            },
+            "Emmet Scanlan": {
+                "args": []
+            },
+            "Frank Gilhooley": {
+                "args": []
+            },
+            "Sharif Atkins": {
+                "args": []
+            },
+            "John Brotherton": {
+                "args": []
+            },
+            "Stan Lee": {
+                "args": []
+            },
+            "Marama Corlett": {
+                "args": []
+            },
+            "Alexis Denisof": {
+                "args": []
+            },
+            "Ralph Ineson": {
+                "args": []
+            },
+            "Imogen Poynton": {
+                "args": []
+            },
+            "Max Wrottesley": {
+                "args": []
+            },
+            "Djimon Hounsou": {
+                "args": []
+            },
+            "Janis Ahern": {
+                "args": []
+            },
+            "Chris Pratt": {
+                "args": [
+                    [
+                        "4_chris pratt, overflowing with charisma, plays the leader of the pack of misfits, and his blissed-out space cowboy (with a love for seventies music) is so full of good will that he buoys the film and its requisite whizbang special effects.",
+                        0.894113328375775
+                    ],
+                    [
+                        "51_the cheeky comic tone keeps things buoyant - as does chris pratt's winning performance as the most blissfully spaced-out space crusader this side of buckaroo banzai.",
+                        0.6736015525465349
+                    ]
+                ]
+            },
+            "Ophelia Lovibond": {
+                "args": []
+            },
+            "Jennifer Moylan-Taylor": {
+                "args": []
+            },
+            "Abidemi Sobande": {
+                "args": []
+            },
+            "Dominic Grant": {
+                "args": []
+            },
+            "Vin Diesel": {
+                "args": []
+            },
+            "Karen Gillan": {
+                "args": []
+            },
+            "Glenn Close": {
+                "args": []
+            },
+            "Lee Pace": {
+                "args": []
+            },
+            "Graham Shiels": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "writer": {
+        "entities": {
+            "Jason Hall": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_hall's direction and script are efficient and to the point.",
+                0.5804776581295712
+            ],
+            [
+                "22_if the fallout from selfless heroism is tough ground to navigate, the iraq war drama \"thank you for your service\" boasts experienced guides in miles teller and writer-director jason hall.",
+                0.6340200524579772
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Jason Hall": {
+                "args": [
+                    [
+                        "22_if the fallout from selfless heroism is tough ground to navigate, the iraq war drama \"thank you for your service\" boasts experienced guides in miles teller and writer-director jason hall.",
+                        0.6340200524579772
+                    ],
+                    [
+                        "29_stumbling blocks do stack up, standing in the way of hall's best intentions.",
+                        0.7135484480924199
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_hall takes a similarly lackadaisical approach to the facts in thank you for your service, inventing characters and scenes as he tries to create a story arc moviegoers will recognize.",
+                0.6192061666005133
+            ],
+            [
+                "1_these anguished performances go a long way, as does the film's peripheral vision of a banal, depressed america that threatens to forget its warriors.",
+                0.6664774320716831
+            ],
+            [
+                "6_there's something meek at thank you for your service's core.",
+                0.5791332145763731
+            ],
+            [
+                "7_\"thank you for your service\" tells an important story ",
+                0.6962778098533244
+            ],
+            [
+                "9_ always with a grim sense of reality that the film seeks to really drive home.",
+                0.6125026482872469
+            ],
+            [
+                "11_ the film reveals a harrowing veteran experience when it focuses simply on the men themselves.",
+                0.7373691734191524
+            ],
+            [
+                "16_if the film doesn't quite achieve greatness, it's nonetheless heartfelt.",
+                0.6539679113676582
+            ],
+            [
+                "17_this is a powerful and valuable addition to the coming-home war movie canon.",
+                0.7048133830831742
+            ],
+            [
+                "18_thank you for your service",
+                0.6247888950001472
+            ],
+            [
+                "23_\"thank you for your service\" is not a great movie by any stretch.",
+                0.6872196430650541
+            ],
+            [
+                "24_if, like its characters, \"thank you for your service\" sometimes struggles to balance staying strong with wearing its heart on its sleeve, it makes an emotional plea in a direct, effective way.",
+                0.8518296299646813
+            ],
+            [
+                "25_the film puts its viewers through a wringer and through a journey, right up to its final glimpse of a soldier, ",
+                0.7666790255530649
+            ],
+            [
+                "26_but it doesn't do too much to justify itself as a narrative film,",
+                -0.7095046317361768
+            ],
+            [
+                "32_most of it is avid and surprising, and honestly moving, because the film refuses to hype what it shows you.",
+                0.7598643344263136
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Miles Teller": {
+                "args": [
+                    [
+                        "4_despite passionate performances from a miles teller-led cast,",
+                        0.7066070266267525
+                    ],
+                    [
+                        "10_[miles] teller, always so watchable, gives a ",
+                        0.6364918807131541
+                    ],
+                    [
+                        "19_it's a good, quiet performance by [miles] teller, and also by [haley] bennett - her saskia is welcoming ",
+                        0.8105444982765637
+                    ],
+                    [
+                        "22_if the fallout from selfless heroism is tough ground to navigate, the iraq war drama \"thank you for your service\" boasts experienced guides in miles teller and writer-director jason hall.",
+                        0.6340200524579772
+                    ]
+                ]
+            },
+            "Haley Bennett": {
+                "args": []
+            },
+            "Joe Cole": {
+                "args": []
+            },
+            "Scott Haze": {
+                "args": []
+            },
+            "Amy Schumer": {
+                "args": []
+            },
+            "Jayson Warner Smith": {
+                "args": []
+            },
+            "Omar J. Dorsey": {
+                "args": []
+            },
+            "Brad Beyer": {
+                "args": []
+            },
+            "Beulah Koale": {
+                "args": []
+            },
+            "Keisha Castle-Hughes": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_tful, solid performance as adam...",
+                0.5586428548854449
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

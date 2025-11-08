@@ -1,0 +1,175 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_that weird, messy puzzle of trauma and affection where our high school memories reside is what powers the edge of seventeen.",
+                0.7446279426893064
+            ],
+            [
+                "5_this is a movie about a teen, first and foremost, rather than a \"teen movie,\" and that's exactly what makes it feel like a peerless example for the genre.",
+                0.7666554784116604
+            ],
+            [
+                "7_ you've finished a road trip through some of high school film land's best-loved attractions...",
+                0.6361113850146068
+            ],
+            [
+                "7_not another teen movie, indeed.",
+                -0.589623670865406
+            ],
+            [
+                "15_\"the edge of seventeen\" is the rare coming-of-age picture that feels less like a retread than a renewal.",
+                0.6552427571140406
+            ],
+            [
+                "15_tful piece of work, from end to beginning to end.",
+                0.5050399406426199
+            ],
+            [
+                "16_the edge of seventeen is charming, ",
+                0.7873984127005416
+            ],
+            [
+                "16_it makes you feel that the high school movie genre still has merit, even in hollywood hands.",
+                0.5714618671064711
+            ],
+            [
+                "17_you realize that the movie is not just a superior model of teen comedy",
+                -0.701052923807209
+            ],
+            [
+                "18_\"the edge of seventeen,\" in its r-rated way (booze and sex play supporting roles), is a sweetheart - just like erwin.",
+                0.7919663582191038
+            ],
+            [
+                "20_the entire movie is a trigger alert, a comedy where a girl sets her safe space on fire.",
+                0.5482154424056518
+            ],
+            [
+                "32_the struggles of being a kid are beautifully depicted in the film ...",
+                0.659316897143915
+            ],
+            [
+                "33_ the edge of seventeen also has enough good that it might just become a new classic in the high school comedy genre.",
+                0.8655664713806838
+            ],
+            [
+                "37_she isn't just the star of \"the edge of seventeen\" - she's its center of gravity.",
+                0.5728857042654498
+            ],
+            [
+                "38_pick a god, any god, and thank them for this movie.",
+                -0.5266950837660171
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kelly Fremon Craig": {
+                "args": [
+                    [
+                        "19_with a smart, perceptive script from first-time director kelly fremon craig and an arresting lead performance by hailee steinfeld, the film rises to the top of a crowded genre.",
+                        0.8331315904159808
+                    ],
+                    [
+                        "24_this is the first feature by writer-director kelly fremon craig, and ",
+                        0.7434409768592396
+                    ],
+                    [
+                        "29_kelly fremon craig is a good writer, who is also a good director, and \"the edge of seventeen\" is the beginning of a career worth watching.",
+                        0.8453916365912707
+                    ],
+                    [
+                        "30_the scenes that work just make me ache for more of them, signaling that if craig finds her groove, she'll be a force to reckon with.",
+                        0.6987630179263965
+                    ],
+                    [
+                        "34_as written and directed by kelly fremon craig, the characters don't exist beyond their few foregrounded traits, and the action unspools mainly in clattery witticisms that take the place of substantial dialogue.",
+                        -0.6609361727833857
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Kelly Fremon Craig": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "19_with a smart, perceptive script from first-time director kelly fremon craig and an arresting lead performance by hailee steinfeld, the film rises to the top of a crowded genre.",
+                0.8331315904159808
+            ],
+            [
+                "24_this is the first feature by writer-director kelly fremon craig, and ",
+                0.7434409768592396
+            ],
+            [
+                "29_kelly fremon craig is a good writer, who is also a good director, and \"the edge of seventeen\" is the beginning of a career worth watching.",
+                0.8453916365912707
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kyra Sedgwick": {
+                "args": []
+            },
+            "Katie Stuart": {
+                "args": []
+            },
+            "Lina Renna": {
+                "args": []
+            },
+            "Woody Harrelson": {
+                "args": []
+            },
+            "Hailee Steinfeld": {
+                "args": [
+                    [
+                        "11_hailee steinfeld became a child star to watch in true grit, and delivers on that promise in the edge of seventeen, a coming-of-age movie that owes a debt to john hughes films ",
+                        0.829153987132877
+                    ],
+                    [
+                        "19_with a smart, perceptive script from first-time director kelly fremon craig and an arresting lead performance by hailee steinfeld, the film rises to the top of a crowded genre.",
+                        0.8331315904159808
+                    ],
+                    [
+                        "26_the edge of seventeen is a delight, with hailee steinfeld serving as the radiant star at its center.",
+                        0.7652927974782532
+                    ],
+                    [
+                        "36_fast, full-hearted and graced with a beautifully modulated lead turn by hailee steinfeld, the movie takes the risk of playing it straight and sincere - and the risk pays off.",
+                        0.7282806043342782
+                    ]
+                ]
+            },
+            "Haley Lu Richardson": {
+                "args": []
+            },
+            "Blake Jenner": {
+                "args": []
+            },
+            "Hayden Szeto": {
+                "args": []
+            },
+            "Eric Keenleyside": {
+                "args": []
+            },
+            "Alexander Calvert": {
+                "args": []
+            },
+            "Nesta Cooper": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

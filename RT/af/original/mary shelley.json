@@ -1,0 +1,138 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie is still well executed ",
+                0.6022857948397831
+            ],
+            [
+                "1_ handsome and well-acted, reduces mary shelley's accomplishments",
+                0.6757310251535983
+            ],
+            [
+                "3_ it is \"mary shelley's\" chief accomplishment.",
+                0.6193242125106219
+            ],
+            [
+                "5_mary shelley is a dull, tame and disappointingly conventional biopic that almost never misses an opportunity to miss an opportunity.",
+                -0.8411619056090042
+            ],
+            [
+                "6_the director and her star make their point under the meticulously appointed cover of the film's 18th-century setting, ",
+                0.6873217288846108
+            ],
+            [
+                "8_mary shelley wants to be a film about artistic creation and female liberation.",
+                -0.505410804622764
+            ],
+            [
+                "9_it's a deeply conventional movie about ragingly unconventional people.",
+                0.5969687058352522
+            ],
+            [
+                "12_by the movie's end, her performance has come to seem as authentic as anything else in this perfumed account.",
+                0.5609609866753201
+            ],
+            [
+                "21_for a film that chronicles the rise of a creator obsessed with reanimating the dead, \"mary shelley\" is utterly lifeless.",
+                0.6137948605775743
+            ],
+            [
+                "23_impressively shot and suffused with a righteous feminist fire, the film is undercut by a confused and clunky script and a fundamental lack of thematic focus, turning an extraordinary story into didactic and disjointed melodrama.",
+                -0.6174847275374113
+            ],
+            [
+                "24_a passionate film about a woman's ideas.",
+                0.6358430309727087
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Haifaa Al-Mansour": {
+                "args": [
+                    [
+                        "18_a long way from the finesse-and the feminist vigor-that the director, haifaa al-mansour, displayed in her dé",
+                        0.5476192111419178
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_the director and her star make their point under the meticulously appointed cover of the film's 18th-century setting, ",
+                0.6873217288846108
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Emma Jensen": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "16_she has been given a poor script to inhabit.",
+                -0.6946130493865762
+            ],
+            [
+                "20_a welcome showcase for the considerable talents of elle fanning, who deftly shades the trials and tribulations of the young writer and her complicated relationship with percy shelley",
+                0.8270831742321546
+            ],
+            [
+                "23_impressively shot and suffused with a righteous feminist fire, the film is undercut by a confused and clunky script and a fundamental lack of thematic focus, turning an extraordinary story into didactic and disjointed melodrama.",
+                -0.6174847275374113
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Stephen Dillane": {
+                "args": []
+            },
+            "Douglas Booth": {
+                "args": []
+            },
+            "Joanne Froggatt": {
+                "args": []
+            },
+            "Maisie Williams": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": [
+                    [
+                        "0_, at two hours, not even fanning's persuasive performance can elevate it to being more than a moderately interesting historical drama.",
+                        -0.7151406190729158
+                    ],
+                    [
+                        "4_there's nothing internal about fanning's performance to suggest that mary is an artist with something she needs to say and that must be said.",
+                        0.5707328518789067
+                    ],
+                    [
+                        "16_elle fanning as mary shelley is the movie's only real grace.",
+                        -0.5685318577470334
+                    ],
+                    [
+                        "20_a welcome showcase for the considerable talents of elle fanning, who deftly shades the trials and tribulations of the young writer and her complicated relationship with percy shelley",
+                        0.8270831742321546
+                    ]
+                ]
+            },
+            "Bel Powley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_by the movie's end, her performance has come to seem as authentic as anything else in this perfumed account.",
+                0.5609609866753201
+            ]
+        ]
+    }
+}

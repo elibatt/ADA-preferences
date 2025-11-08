@@ -1,0 +1,285 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the hateful eight often feels more like a sadistic stage play than a movie.",
+                -0.5156926230331297
+            ],
+            [
+                "2_the hateful eight is a lot of things.",
+                -0.6414846981429042
+            ],
+            [
+                "3_and it's very entertaining, even when it's entertainingly vile, which happens a lot in this overlong movie's extended third act.",
+                0.5355457799402348
+            ],
+            [
+                "4_the film is pointless, even as entertainment, because it builds to nothing more than a comic book blood bath.",
+                -0.5112751116252798
+            ],
+            [
+                "6_the hateful eight is too extreme, too ghoulishly violent, too besieged by its ensemble's overriding villainy, to feel like anything ",
+                -0.8227703104655139
+            ],
+            [
+                "7_by the end of \"the hateful eight,\" its status as a tale of mystery and its deference to classic westerns have all ",
+                0.6656238577258726
+            ],
+            [
+                "8_the hateful eight is devilishly good.",
+                0.5720427532152111
+            ],
+            [
+                "11_\"the hateful eight\" is a cinema buff's dream - and unlike anything else in theaters this season.",
+                0.6346063212451105
+            ],
+            [
+                "12_\"the hateful eight\" is outrageous, extraordinary, extreme filmmaking at its most confident.",
+                0.7362715152433192
+            ],
+            [
+                "15_some of the film's ugliness is therefore a sign of integrity, and of relevance.",
+                0.6656107126823256
+            ],
+            [
+                "17_the movie is a lot of gore over a lot of nothing.",
+                -0.6702014522361437
+            ],
+            [
+                "19_as the bodies pile up in the second half, along with the switchback narrative reveals, \"the hateful eight\" becomes a hermetically sealed exercise of a dispiriting sort.",
+                -0.5959338691758204
+            ],
+            [
+                "20_if you see \"the hateful eight,\" you'll see an almost three-hour film that never drags, that is enjoyable from beginning to end.",
+                0.7735694241484445
+            ],
+            [
+                "22_people do terrible things in the hateful eight-no matter what you make of the movie, the title doesn't disappoint.",
+                -0.881624296854927
+            ],
+            [
+                "22_ the hateful eight comes off as haggard and atrophied.",
+                -0.6004416537227979
+            ],
+            [
+                "24_the hateful eight is a crackling yarn with a deep well of meaning and socio-political commentary.",
+                0.7924488461151351
+            ],
+            [
+                "25_the hateful eight wears out its welcome well before the halfway point, leaving the equivalent of a whole other movie to sit -- and suffer -- through.",
+                -0.6868495852330835
+            ],
+            [
+                "26_the hateful eight is a movie about the worst aspects of human nature, which is why the film can't be quite described as \"fun,\" at least in the traditional sense.",
+                -0.676171242613849
+            ],
+            [
+                "28_the hateful eight is an easy film to admire for its creator's singular and distinct vision.",
+                0.798546247919675
+            ],
+            [
+                "28_ it's tough movie to love.",
+                -0.5523073990672849
+            ],
+            [
+                "31_an epic work of self-indulgence and smug riffing, stringing together tropes from tv and screen westerns and closed-room whodunits",
+                -0.6390550646918586
+            ],
+            [
+                "31_, the hateful eight announces itself with all the pomp and circumstance of a mid-century cinema spectacle.",
+                0.5704546424670355
+            ],
+            [
+                "39_there is a sameness to the hateful eight, a sense that we have been down this road before, with higher stakes, with a firmer hand on the till.",
+                -0.5749686032392466
+            ],
+            [
+                "46_the movie absolutely delivers on the sheer moment-to-moment pleasures fans have come to expect, from dynamite dialogue to powder-keg confrontations.",
+                0.6549676793535983
+            ],
+            [
+                "47_with its minimalist setting and vivid themes, \"the hateful eight\" suggests \"reservoir dogs\" set in the world of \"django unchained.\"",
+                0.7105112036381859
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Quentin Tarantino": {
+                "args": [
+                    [
+                        "5_that caused tarantino to think 70mm?",
+                        -0.533492203683548
+                    ],
+                    [
+                        "9_this is an impressive ensemble, and tarantino has a true gift for dialogue and story twists, ",
+                        0.8814517435703997
+                    ],
+                    [
+                        "11_but that's only to be expected from quentin tarantino,",
+                        -0.6680031673094129
+                    ],
+                    [
+                        "13_this just isn't the tarantino of pulp fiction, reservoir dogs or even inglourious basterds, ",
+                        -0.6446639845552842
+                    ],
+                    [
+                        "15_ as if mr. tarantino's intellectual ambition and his storytelling discipline had failed him at the same time.",
+                        -0.5448606667964713
+                    ],
+                    [
+                        "16_this is tarantino's bleakest and most violent film, ",
+                        0.6202207967931361
+                    ],
+                    [
+                        "17_i hope that won't be tarantino's epitaph.",
+                        -0.5213525069213205
+                    ],
+                    [
+                        "18_ it's difficult to reconcile tarantino's infectious joie de vivre with the scorched-earth nihilism he uses it to celebrate.",
+                        0.5732933316145684
+                    ],
+                    [
+                        "23_you'll want to buy a ticket for the hateful eight, the western that quentin tarantino was born to make.",
+                        0.5190187559630705
+                    ],
+                    [
+                        "26_ tarantino isn't glorifying the ugliness",
+                        -0.7354328672865906
+                    ],
+                    [
+                        "27_while not as cinematically game-changing as pulp fiction or as gore-spattered as the kill bill films, the hateful eight doles out all of tarantino's favorite things.",
+                        0.5916440807553659
+                    ],
+                    [
+                        "33_one of my favorite tarantino movies since \"jackie brown.\"",
+                        0.6716943161797417
+                    ],
+                    [
+                        "34_the gap between form and content results in the only tarantino movie whose flaws bury its virtues.",
+                        0.5495172534781751
+                    ],
+                    [
+                        "35_and you get quentin tarantino's weird, wild and way-too-long new movie, \"the hateful eight.\"",
+                        -0.5946906475306117
+                    ],
+                    [
+                        "37_like tarantino's best work, the film forces you to see and feel something on its own terms -- in this case, loyalty and identity unraveling under extremes.",
+                        0.831956404401168
+                    ],
+                    [
+                        "38_yep, we're in tarantino territory for sure: way too self-indulgently long, and way, way overboard with that n-word.",
+                        -0.5163369640355071
+                    ],
+                    [
+                        "40_composer ennio morricone's seesawing score sometimes brings to mind tarantino fave sergio leone, ",
+                        0.7251080122673964
+                    ],
+                    [
+                        "43_as someone who's loved almost all of tarantino's films, i felt-for the first time-something close to disappointment.",
+                        -0.5628161627531452
+                    ],
+                    [
+                        "44_if you enjoy a tarantino-scripted conversation or two or five, \"the hateful eight\" may well engage you as a darkly funny locked-door mystery that's in no hurry to show its hand.",
+                        0.5673702606673988
+                    ],
+                    [
+                        "45_as ever with tarantino films, ",
+                        0.6383805631190187
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "42_, this is the writer-director's take on the betrayed promise of america: a perverse vision of sadistic men comforted by false causes.",
+                0.6754498175547688
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Dana Gourrier": {
+                "args": []
+            },
+            "Keith Jefferson": {
+                "args": []
+            },
+            "Bruce Dern": {
+                "args": []
+            },
+            "Jennifer Jason Leigh": {
+                "args": []
+            },
+            "Bruce Del Castillo": {
+                "args": []
+            },
+            "Kurt Russell": {
+                "args": []
+            },
+            "Michael Madsen": {
+                "args": []
+            },
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "13_ any film that gives samuel l. jackson a chance to talk and glower at length is a film worth seeing.",
+                        0.8080546994233474
+                    ]
+                ]
+            },
+            "Belinda Owino": {
+                "args": []
+            },
+            "Tim Roth": {
+                "args": []
+            },
+            "James Parks": {
+                "args": []
+            },
+            "Gene Jones": {
+                "args": []
+            },
+            "Walton Goggins": {
+                "args": []
+            },
+            "Demian Bichir": {
+                "args": []
+            },
+            "Craig Stark": {
+                "args": []
+            },
+            "Lee Horsley": {
+                "args": []
+            },
+            "Zoe Bell": {
+                "args": []
+            },
+            "Channing Tatum": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Quentin Tarantino": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "34_tarantino's absolute control over the images means nothing when he seems unwilling or unable to shape and modulate his writing.",
+                -0.6742887069207393
+            ],
+            [
+                "42_, this is the writer-director's take on the betrayed promise of america: a perverse vision of sadistic men comforted by false causes.",
+                0.6754498175547688
+            ]
+        ]
+    }
+}

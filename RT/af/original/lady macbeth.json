@@ -1,0 +1,208 @@
+{
+    "acting": {
+        "args": [
+            [
+                "6_pugh, a young newcomer with just a tiny handful of film credits, gives a performance of rare ferocity.",
+                0.8083645481260917
+            ],
+            [
+                "11_it's a wonderful performance in a very fine film.",
+                0.9198009806309408
+            ],
+            [
+                "26_pugh, in a performance that will soon be legendary, dives deep into this terrifically twisted, erotic thriller and makes it matter.",
+                0.859101854338938
+            ],
+            [
+                "34_ draws fresh blood from antique material thanks to a sparky cast, subtle nods to contemporary race and gender issues, and a hefty shot of gothic melodrama.",
+                0.802219077846155
+            ]
+        ],
+        "entities": {
+            "Jack Robertson": {
+                "args": []
+            },
+            "Florence Pugh": {
+                "args": [
+                    [
+                        "3_director william oldroyd delivers a taut and well-paced period drama elevated by pugh's riveting performance.",
+                        0.8456435255552581
+                    ],
+                    [
+                        "11_we see pugh's eyes, full of possibility and optimism at the outset, gradually darken.",
+                        0.7289288895702308
+                    ],
+                    [
+                        "13_ the clarity with which pugh and oldroyd communicate katherine's ",
+                        0.6236761855057945
+                    ]
+                ]
+            },
+            "Alan Billingham": {
+                "args": []
+            },
+            "Nicholas Lumley": {
+                "args": []
+            },
+            "Anton Palmer": {
+                "args": []
+            },
+            "Finn Burridge": {
+                "args": []
+            },
+            "Paul Hilton (II)": {
+                "args": []
+            },
+            "Naomi Ackie": {
+                "args": [
+                    [
+                        "16_pugh's and ackie's performances here are electric and expressive, the former portraying ultimate power, the latter ultimate fear.",
+                        0.5331814427064722
+                    ]
+                ]
+            },
+            "Raymond Finn": {
+                "args": []
+            },
+            "Christopher Fairbank": {
+                "args": []
+            },
+            "Kema Slkazwe": {
+                "args": []
+            },
+            "David Kirkbride": {
+                "args": []
+            },
+            "Cliff Burnett": {
+                "args": []
+            },
+            "Ian Conningham": {
+                "args": []
+            },
+            "Cosmo Jarvis": {
+                "args": []
+            },
+            "Rebecca Manley": {
+                "args": []
+            },
+            "Andrew Davis": {
+                "args": []
+            },
+            "Elliot Sinclair": {
+                "args": []
+            },
+            "Bill Fellows": {
+                "args": []
+            },
+            "Fleur Houdijk": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the film lacks the propulsive drive to make her fate moving.",
+                -0.5185065340123995
+            ],
+            [
+                "6_pugh, a young newcomer with just a tiny handful of film credits, gives a performance of rare ferocity.",
+                0.8083645481260917
+            ],
+            [
+                "7_it is so calculated that you can see every shock from 3 miles out, and if it weren't for cold cruelty, lady macbeth would have no life at all.",
+                -0.7935900674525913
+            ],
+            [
+                "11_it's a wonderful performance in a very fine film.",
+                0.9198009806309408
+            ],
+            [
+                "12_the endless scenes of women being barked at, beaten, and dehumanized make this an unlikely date movie, ",
+                0.6586871559874556
+            ],
+            [
+                "13_oldroyd's approach to \"lady macbeth\" guarantees some longueurs as the film wears on.",
+                0.6097327076671222
+            ],
+            [
+                "14_pugh and the film around her hold an audience transfixed and conflicted to the end.",
+                0.6439823671992755
+            ],
+            [
+                "15_shot with unsparing coldness, \"lady macbeth\" is a disturbing character study and dark moral meditation.",
+                0.6691537858354799
+            ],
+            [
+                "24_the strength of the performances and the audacity of the subject matter are enough to keep lady macbeth riveting, with increasingly claustrophobic mise en scène and a breathlessly still soundtrack ...",
+                0.7930163341613541
+            ],
+            [
+                "25_exact and exacting, made with formidable skill and unwavering focus, \"lady macbeth\" is a film that demands to be admired and cares little if you actually like it.",
+                0.6258968302725605
+            ],
+            [
+                "30_there is an emptiness to lady macbeth, part of it on purpose and part of it not.",
+                -0.5307126345358275
+            ],
+            [
+                "31_this brilliantly feminist british indie film plunges a cold, sharp knife into the back of bonnet dramas.",
+                -0.638604434138839
+            ],
+            [
+                "32_\"lady macbeth\" reveals the essence of its plot in the title, ",
+                -0.6105353081821687
+            ],
+            [
+                "34_lady macbeth mostly operates within established period conventions, ",
+                0.6533268040983544
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "William Oldroyd": {
+                "args": [
+                    [
+                        "3_director william oldroyd delivers a taut and well-paced period drama elevated by pugh's riveting performance.",
+                        0.8456435255552581
+                    ],
+                    [
+                        "9_a corrosive, intelligent costume drama from first-time director william oldroyd.",
+                        0.693675588839021
+                    ],
+                    [
+                        "13_ the clarity with which pugh and oldroyd communicate katherine's ",
+                        0.6236761855057945
+                    ],
+                    [
+                        "22_mr. oldroyd boxes katherine in his attractive visuals, imprisoning her as her male relatives do.",
+                        0.6582514256465806
+                    ],
+                    [
+                        "33_pugh announces herself as a major talent to watch in william oldroyd's impressively tough-minded victorian tragedy.",
+                        0.5534747117015602
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_shot with unsparing coldness, \"lady macbeth\" is a disturbing character study and dark moral meditation.",
+                0.6691537858354799
+            ]
+        ],
+        "entities": {
+            "Alice Birch": {
+                "args": []
+            }
+        }
+    }
+}

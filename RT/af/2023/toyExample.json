@@ -1,0 +1,817 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "Positive review about the movie",
+                0.718096073297149
+            ],
+            [
+                "Negative review about the movie",
+                -0.793619282525567
+            ],
+            [
+                "Positive review about the movie",
+                0.718096073297149
+            ],
+            [
+                "Negative review about the movie",
+                -0.793619282525567
+            ],
+            [
+                "Positive review about the movie",
+                0.718096073297149
+            ],
+            [
+                "Positive review about Quentin Tarantino ",
+                1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Negative review about Christopher Nolan",
+                -1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Negative review about Christopher Nolan",
+                -1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Positive review about Christopher Nolan",
+                1
+            ],
+            [
+                "Positive review about general acting",
+                1
+            ],
+            [
+                "Negative review about general acting",
+                -1
+            ],
+            [
+                "Negative review about general acting",
+                -1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Negative review about Johnny Depp",
+                -1
+            ],
+            [
+                "Negative review about Johnny Depp",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Positive review about Mia Wasikowska",
+                1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Positive review about Helena Carter",
+                1
+            ],
+            [
+                "Positive review about Helena Carter",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Negative review about Anne Hathaway",
+                -1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Negative review about Power",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Positive about Revenge",
+                1
+            ],
+            [
+                "Positive about Revenge",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Negative review about Betrayal",
+                -1
+            ]
+
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "Positive review about Quentin Tarantino ",
+                1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ],
+            [
+                "Negative review about Quentin Tarantino ",
+                -1
+            ]
+          
+        ],
+        "entities": {
+            "Quentin Tarantino": {
+                "unique_args": [
+                    [
+                        "Positive review about Quentin Tarantino ",
+                        1
+                    ],
+                    [
+                        "Negative review about Quentin Tarantino ",
+                        -1
+                    ],
+                    [
+                        "Negative review about Quentin Tarantino ",
+                        -1
+                    ],
+                    [
+                        "Negative review about Quentin Tarantino ",
+                        -1
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ],
+                [
+                    "Negative review about Christopher Nolan",
+                    -1
+                ],
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ],
+                [
+                    "Negative review about Christopher Nolan",
+                    -1
+                ],
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ],
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ],
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ],
+                [
+                    "Positive review about Christopher Nolan",
+                    1
+                ]
+        ],
+        "entities": {
+            "Christopher Nolan": {
+                "unique_args": [
+                    [
+                    "Positive review about Christopher Nolan",
+                    1
+                    ],
+                    [
+                        "Negative review about Christopher Nolan",
+                        -1
+                    ],
+                    [
+                        "Positive review about Christopher Nolan",
+                        1
+                    ],
+                    [
+                        "Negative review about Christopher Nolan",
+                        -1
+                    ],
+                    [
+                        "Positive review about Christopher Nolan",
+                        1
+                    ],
+                    [
+                        "Positive review about Christopher Nolan",
+                        1
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "Positive review about general acting",
+                1
+            ],
+            [
+                "Negative review about general acting",
+                -1
+            ],
+            [
+                "Negative review about general acting",
+                -1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Positive review about Johnny Depp",
+                1
+            ],
+            [
+                "Negative review about Johnny Depp",
+                -1
+            ],
+            [
+                "Negative review about Johnny Depp",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Negative review about Mia Wasikowska",
+                -1
+            ],
+            [
+                "Positive review about Mia Wasikowska",
+                1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Negative review about Helena Carter",
+                -1
+            ],
+            [
+                "Positive review about Helena Carter",
+                1
+            ],
+            [
+                "Positive review about Helena Carter",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Positive review about Anne Hathaway",
+                1
+            ],
+            [
+                "Negative review about Anne Hathaway",
+                -1
+            ]
+          
+        ],
+        "entities": {
+            "Johnny Depp": {
+                "unique_args": [
+                    [
+                        "Positive review about Johnny Depp",
+                        1
+                    ],
+                    [
+                        "Positive review about Johnny Depp",
+                        1
+                    ],
+                    [
+                        "Positive review about Johnny Depp",
+                        1
+                    ],
+                    [
+                        "Negative review about Johnny Depp",
+                        -1
+                    ],
+                    [
+                        "Negative review about Johnny Depp",
+                        -1
+                    ]
+                ]
+            },
+            "Mia Wasikowska": {
+                "unique_args": [
+                    [
+                        "Negative review about Mia Wasikowska",
+                        -1
+                    ],
+                    [
+                        "Negative review about Mia Wasikowska",
+                        -1
+                    ],
+                    [
+                        "Negative review about Mia Wasikowska",
+                        -1
+                    ],
+                    [
+                        "Positive review about Mia Wasikowska",
+                        1
+                    ]
+                    
+                ]
+            },
+            "Helena Carter": {
+                "unique_args": [
+                    [
+                        "Negative review about Helena Carter",
+                        -1
+                    ],
+                    [
+                        "Negative review about Helena Carter",
+                        -1
+                    ],
+                    [
+                        "Negative review about Helena Carter",
+                        -1
+                    ],
+                    [
+                        "Negative review about Helena Carter",
+                        -1
+                    ],
+                    [
+                        "Positive review about Helena Carter",
+                        1
+                    ],
+                    [
+                        "Positive review about Helena Carter",
+                        1
+                    ]
+                ]
+            },
+            "Anne Hathaway": {
+                "unique_args": [
+                    [
+                        "Positive review about Anne Hathaway",
+                        1
+                    ],
+                    [
+                        "Positive review about Anne Hathaway",
+                        1
+                    ],
+                    [
+                        "Positive review about Anne Hathaway",
+                        1
+                    ],
+                    [
+                        "Negative review about Anne Hathaway",
+                        -1
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Positive review about Power",
+                1
+            ],
+            [
+                "Negative review about Power",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Negative about Revenge",
+                -1
+            ],
+            [
+                "Positive about Revenge",
+                1
+            ],
+            [
+                "Positive about Revenge",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Positive review about Love",
+                1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Negative review about Love",
+                -1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Positive review about Betrayal",
+                1
+            ],
+            [
+                "Negative review about Betrayal",
+                -1
+            ]
+
+
+        ],
+        "entities": {
+            "Power": {
+                "unique_args": [
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Positive review about Power",
+                        1
+                    ],
+                    [
+                        "Negative review about Power",
+                        -1
+                    ]
+                ]
+            },
+            "Revenge": {
+                "unique_args": [
+                    [
+                        "Negative about Revenge",
+                        -1
+                    ],
+                    [
+                        "Negative about Revenge",
+                        -1
+                    ],
+                    [
+                        "Negative about Revenge",
+                        -1
+                    ],
+                    [
+                        "Negative about Revenge",
+                        -1
+                    ],
+                    [
+                        "Positive about Revenge",
+                        1
+                    ],
+                    [
+                        "Positive about Revenge",
+                        1
+                    ]
+                ]
+            },
+            "Love": {
+                "unique_args": [
+                    [
+                        "Positive review about Love",
+                        1
+                    ],
+                    [
+                        "Positive review about Love",
+                        1
+                    ],
+                    [
+                        "Positive review about Love",
+                        1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ],
+                    [
+                        "Negative review about Love",
+                        -1
+                    ]
+                ]
+            },
+            "Betrayal": {
+                "unique_args": [
+                    [
+                        "Positive review about Betrayal",
+                        1
+                    ],
+                    [
+                        "Positive review about Betrayal",
+                        1
+                    ],
+                    [
+                        "Positive review about Betrayal",
+                        1
+                    ],
+                    [
+                        "Positive review about Betrayal",
+                        1
+                    ],
+                    [
+                        "Negative review about Betrayal",
+                        -1
+                    ]
+                    
+                ]
+            }
+        }
+    }
+}

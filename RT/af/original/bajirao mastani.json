@@ -1,0 +1,71 @@
+{
+    "acting": {
+        "args": [
+            [
+                "0_the physical beauty and real acting talent of the three leads rises this to just above sud-level.",
+                0.6690073208499567
+            ]
+        ],
+        "entities": {
+            "Ayush Tandon": {
+                "args": []
+            },
+            "Mahesh Manjrekar": {
+                "args": []
+            },
+            "Deepika Padukone": {
+                "args": []
+            },
+            "Sanjay Mishra": {
+                "args": []
+            },
+            "Priyanka Chopra": {
+                "args": []
+            },
+            "Anuja Gokhale": {
+                "args": []
+            },
+            "Vaibbhav Tatwawdi": {
+                "args": []
+            },
+            "Aditya Pancholi": {
+                "args": []
+            },
+            "Tanvi Azmi": {
+                "args": []
+            },
+            "Sukhada Khandkekar": {
+                "args": []
+            },
+            "Milind Soman": {
+                "args": []
+            },
+            "Ranveer Singh": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Sanjay Leela Bhansali": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Prakash Kapadia": {
+                "args": []
+            }
+        }
+    }
+}

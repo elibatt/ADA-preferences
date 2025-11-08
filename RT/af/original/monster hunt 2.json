@@ -1,0 +1,64 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jing Boran": {
+                "args": []
+            },
+            "Tony Leung Chiu Wai": {
+                "args": []
+            },
+            "Sandra Ng Kwan Yue": {
+                "args": []
+            },
+            "Baihe Bai": {
+                "args": []
+            },
+            "Eric Tsang": {
+                "args": []
+            },
+            "Yuchun Li": {
+                "args": []
+            },
+            "Tony Yo-ning Yang": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"monster hunt 2\" is so perfectly good-natured and so utterly nonsensical that it makes not-thinking-about-it basically an act of self-preservation, for which, bless its bouncing, gurgling, flolloping heart.",
+                -0.5534707358860288
+            ],
+            [
+                "1_monster hunt 2 is equally charming, sweet, slight, and unmemorable.",
+                0.667847019968902
+            ],
+            [
+                "2_monster hunt 2 ultimately shapes up as more of a stopgap effort to showcase the franchise's possibilities and stir up interest for its grand denouement.",
+                0.5840202059648242
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Raman Hui": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Alan Yuen": {
+                "args": []
+            }
+        }
+    }
+}

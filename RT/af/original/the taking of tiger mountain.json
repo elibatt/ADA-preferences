@@ -1,0 +1,79 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_with its fanfare score, the movie has a nationalistic, didactic flavor and a tiresome devotion to spectacle.",
+                -0.6554245548424218
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Hark Tsui": {
+                "args": [
+                    [
+                        "5_so when tsui revises and redoes the climactic showdown for the sake of entertainment value, you wonder if the hong kong-based filmmaker writes off the whole thing as revisionist history written by victors.",
+                        -0.5206760167491005
+                    ],
+                    [
+                        "6_proves disarmingly entertaining thanks to a tsui specialty: spectacular fight scenes.",
+                        0.8345967717337109
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gengxin Lin": {
+                "args": []
+            },
+            "Liya Tong": {
+                "args": []
+            },
+            "Tony Leung Chiu Wai": {
+                "args": []
+            },
+            "Kenny Lin": {
+                "args": []
+            },
+            "Nan Yu": {
+                "args": []
+            },
+            "Hanyu Zhang": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dong Zhe": {
+                "args": []
+            },
+            "Li Yang": {
+                "args": [
+                    [
+                        "2_its slow-going opening stretch and assorted mawkish subplots might just be the price a viewer has to pay for the sight of yang and hawk slugging it out in a biplane as it careens down a seemingly endless escape tunnel ...",
+                        -0.7088823384491475
+                    ]
+                ]
+            },
+            "Hark Tsui": {
+                "args": []
+            },
+            "Wu Yao Bing": {
+                "args": []
+            },
+            "Huang Xin": {
+                "args": []
+            }
+        }
+    }
+}

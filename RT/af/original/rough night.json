@@ -1,0 +1,169 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_formulaic feminism makes for a rough watch in this chick retread of the hangover.",
+                -0.6345722252449773
+            ],
+            [
+                "4_rough night is a comedy with a great female cast, ",
+                0.7346861660467017
+            ],
+            [
+                "5_the women in rough night are terrific company.",
+                0.6895850381564651
+            ],
+            [
+                "5_too bad you can't say the same for the movie.",
+                -0.7700270349393574
+            ],
+            [
+                "6_the movie falls apart, and flounders to the end, because it doesn't know what its funny is supposed to be.",
+                -0.7730255459444457
+            ],
+            [
+                "7_\"rough night\" is a dismal, excruciating experience, a tired retread of raunchy comedy tropes that can't be bothered to come up with any funny or original bits.",
+                -0.7271782473305898
+            ],
+            [
+                "10_the film has some laughs, to be sure.",
+                0.5485342732045637
+            ],
+            [
+                "12_rough night has many narrative bumps, ",
+                0.6232277473836196
+            ],
+            [
+                "17_the title of this strenuously crude and crotch-obsessed movie may be lazy, ",
+                -0.7096162673983897
+            ],
+            [
+                "19_aniello's work on \"broad city\" is in a significantly higher and more sophisticated level of effrontery than \"rough night.\"",
+                0.7677756710147213
+            ],
+            [
+                "20_that's breakthrough material, ",
+                -0.5101197629173706
+            ],
+            [
+                "23_you almost wish that \"rough night\" had been given a second pass to sharpen some jokes and smooth the transitions and edges, ",
+                -0.5054999329526261
+            ],
+            [
+                "24_it feels like the summer-movie equivalent of a fidget spinner: shiny, manic, and spiraling to nowhere.",
+                -0.7644236404291305
+            ],
+            [
+                "28_the best thing about \"rough night\" is the feisty, claws-out spontaneity of its competitive banter between \"sisters\" who love and hate each other.",
+                0.6584457546275837
+            ],
+            [
+                "30_ in the end \"rough night\" feels more like a rough draft - and proves only that rowdy girl comedies can be just as unfunny as rowdy boy comedies.",
+                -0.7370968423104483
+            ],
+            [
+                "33_features just enough laughs to make you ignore that the movie is a hodgepodge of ideas left over from films like the hangover, bridesmaids, very bad things and even think like a man",
+                -0.8382899484501564
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lucia Aniello": {
+                "args": [
+                    [
+                        "11_though aniello and downs' script feels like a patchwork of other bachelor-night comedies,",
+                        -0.6733752839578014
+                    ],
+                    [
+                        "26_downs and aniello's script takes many unexpected turns, building to a satisfyingly outrageous conclusion.",
+                        0.689723199269553
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kate McKinnon": {
+                "args": []
+            },
+            "Paul W. Downs": {
+                "args": [
+                    [
+                        "11_though aniello and downs' script feels like a patchwork of other bachelor-night comedies,",
+                        -0.6733752839578014
+                    ]
+                ]
+            },
+            "Scarlett Johansson": {
+                "args": [
+                    [
+                        "0_scarlett johansson works overtime to salvage this dismal bridesmaids knockoff, heavily informed by the hangover and even weekend at bernie's.",
+                        -0.5128237086168623
+                    ]
+                ]
+            },
+            "Colton Haynes": {
+                "args": []
+            },
+            "Ilana Glazer": {
+                "args": []
+            },
+            "Jillian Bell": {
+                "args": []
+            },
+            "Ty Burrell": {
+                "args": []
+            },
+            "Demi Moore": {
+                "args": []
+            },
+            "Zoë Kravitz": {
+                "args": []
+            },
+            "Natalie Gold": {
+                "args": []
+            },
+            "Dean Winters": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_rough night is a comedy with a great female cast, ",
+                0.7346861660467017
+            ],
+            [
+                "23_ the bumps in the road are easy to overlook with this excellent cast.",
+                0.7829564862750517
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Lucia Aniello": {
+                "args": []
+            },
+            "Paul W. Downs": {
+                "args": [
+                    [
+                        "11_though aniello and downs' script feels like a patchwork of other bachelor-night comedies,",
+                        -0.6733752839578014
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "26_downs and aniello's script takes many unexpected turns, building to a satisfyingly outrageous conclusion.",
+                0.689723199269553
+            ]
+        ]
+    }
+}

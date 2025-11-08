@@ -1,0 +1,131 @@
+{
+    "writer": {
+        "entities": {
+            "Noé Debré": {
+                "args": []
+            },
+            "Thomas Bidegain": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_the strange, ever-changing result is, at times, as original as loose remakes come, with bidegain using his hallowed source material as a springboard for something rare: a \"writer's movie\" that loses nothing in the jump from script to screen.",
+                -0.5293865886268878
+            ],
+            [
+                "10_ director thomas bidegain has given the premise a unique flavor, crafting a fine, timely screenplay that skips over some years of the story ",
+                0.8014843052561194
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Thomas Bidegain": {
+                "args": [
+                    [
+                        "0_it takes a lot of confidence for a director to pay homage to john ford's \"the searchers\" (1956), and in the case of thomas bidegain's \"les cowboys\" it is not altogether unwarranted.",
+                        -0.6289033853894791
+                    ],
+                    [
+                        "6_ for bidegain as a director.",
+                        0.5824819803593538
+                    ],
+                    [
+                        "9_the strange, ever-changing result is, at times, as original as loose remakes come, with bidegain using his hallowed source material as a springboard for something rare: a \"writer's movie\" that loses nothing in the jump from script to screen.",
+                        -0.5293865886268878
+                    ],
+                    [
+                        "10_ director thomas bidegain has given the premise a unique flavor, crafting a fine, timely screenplay that skips over some years of the story ",
+                        0.8014843052561194
+                    ],
+                    [
+                        "11_as uneven as it is, les cowboys nevertheless shows promise for bidegain as a filmmaker with complexities on his mind and big territories to explore.",
+                        0.7624505987087287
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_\"les cowboys\" keeps you off-kilter from the start.",
+                -0.5428587544534176
+            ],
+            [
+                "5_with all this working against it, les cowboys strikes a fresh chord.",
+                0.7589831001254741
+            ],
+            [
+                "7_reaching across 15 years and multiple countries, \"les cowboys\" repurposes the narrative codes of the classic western to explore the complexities of a disrupted world.",
+                0.7546761115857622
+            ],
+            [
+                "13_bidegain's approach respects his viewers' intelligence and rewards those willing to put in the work.",
+                0.7824061035879286
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Gilles Treton": {
+                "args": []
+            },
+            "Ellora Torchia": {
+                "args": []
+            },
+            "Antoine Chappey": {
+                "args": []
+            },
+            "Laure Calamy": {
+                "args": []
+            },
+            "François Damiens": {
+                "args": []
+            },
+            "Maxim Driesen": {
+                "args": []
+            },
+            "Mounir Margoum": {
+                "args": []
+            },
+            "Jean-Louis Coullo'ch": {
+                "args": []
+            },
+            "Iliana Zabeth": {
+                "args": []
+            },
+            "Finnegan Oldfield": {
+                "args": []
+            },
+            "Francis Leplay": {
+                "args": []
+            },
+            "Antoine Régent": {
+                "args": []
+            },
+            "Antonia Campbell-Hughes": {
+                "args": []
+            },
+            "Djemel Barek": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": []
+            },
+            "Leila Saadali": {
+                "args": []
+            },
+            "Agathe Dronne": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

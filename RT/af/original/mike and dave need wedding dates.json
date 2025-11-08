@@ -1,0 +1,222 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_sometimes a movie seems like it was more fun to make than it is to watch.",
+                -0.5476766245110292
+            ],
+            [
+                "7_mike and dave need wedding dates is one of those movies.",
+                0.6083560619091612
+            ],
+            [
+                "9_the movie goes for a bawdy, \"outrageous\" vibe and big laughs, which it lands less than half the time.",
+                -0.6661942149887923
+            ],
+            [
+                "10_the movie's real value is that it's crude and funny for no defensible reason.",
+                -0.6381575427016235
+            ],
+            [
+                "15_ the producers need a date movie.",
+                0.5152393810882485
+            ],
+            [
+                "18_the film has an unapologetically dirty mind, except when it seems to have no mind at all, which is frequent.",
+                -0.7753145997150005
+            ],
+            [
+                "20_\"mike and dave need wedding dates\" gives us too much hangover and not enough buzz.",
+                -0.7197569166598696
+            ],
+            [
+                "26_for a movie about a wedding, it still feels like a rehearsal.",
+                -0.6465231481656466
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jake Szymanski": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Stephen Root": {
+                "args": []
+            },
+            "Stephanie Faracy": {
+                "args": []
+            },
+            "Hilty Bowen": {
+                "args": []
+            },
+            "Erik Griffin": {
+                "args": []
+            },
+            "Christina Souza": {
+                "args": []
+            },
+            "Chloe Bridges": {
+                "args": []
+            },
+            "Alice Wetterlund": {
+                "args": []
+            },
+            "Mary Holland": {
+                "args": []
+            },
+            "Bob Turton": {
+                "args": []
+            },
+            "Kumail Nanjiani": {
+                "args": []
+            },
+            "Zac Efron": {
+                "args": [
+                    [
+                        "5_there are no rules or character motivations, words come out of zac efron's mouth when it isn't moving, and anna kendrick's wig changes color seemingly at random.",
+                        -0.7736262476012454
+                    ],
+                    [
+                        "6_you never quite believe these women belong with devine and efron's hollywood-generic douche bags -- it feels like a failure of the script, if not the entire industry.",
+                        -0.7748327606338972
+                    ],
+                    [
+                        "25_zac efron's goofy comedic chops have become even more defined than his abs.",
+                        0.6173335981476773
+                    ],
+                    [
+                        "29_zac efron and aubrey plaza lead a game cast in a gently nutty comedy that has a bit of cleverness to go with the raunch.",
+                        0.5485055762065945
+                    ]
+                ]
+            },
+            "Jake Szymanski": {
+                "args": []
+            },
+            "Aubrey Plaza": {
+                "args": []
+            },
+            "Andrea Russett": {
+                "args": []
+            },
+            "Julia Fae": {
+                "args": []
+            },
+            "Cass Bugge": {
+                "args": []
+            },
+            "Wendy Williams": {
+                "args": []
+            },
+            "Sugar Lyn Beard": {
+                "args": []
+            },
+            "Stephanie Allynne": {
+                "args": []
+            },
+            "Adam DeVine": {
+                "args": [
+                    [
+                        "16_some of the dumbest bits (and there are many) don't fail completely because of the talents of the actors, especially devine, whose line readings throughout are sensational.",
+                        -0.5531154846741277
+                    ]
+                ]
+            },
+            "Jennie Pierson": {
+                "args": []
+            },
+            "Marc Maron": {
+                "args": []
+            },
+            "Nicole Byer": {
+                "args": []
+            },
+            "Andrea Miceli": {
+                "args": []
+            },
+            "Eugene Cordero": {
+                "args": []
+            },
+            "Ayden Mayeri": {
+                "args": []
+            },
+            "Lavell Crawford": {
+                "args": []
+            },
+            "Kyle Smigielski": {
+                "args": []
+            },
+            "Ashley Hobbs": {
+                "args": []
+            },
+            "Olga Kalashnikova": {
+                "args": []
+            },
+            "Anna Kendrick": {
+                "args": [
+                    [
+                        "14_ the spot-on comic timing of [kendrick and plaza] captured my funny bone and kept it happily working overtime from start to finish.",
+                        0.6734659299628853
+                    ],
+                    [
+                        "23_efron and devine's immature teamwork suggests that they've been watching step brothers a lot, while kendrick and plaza act like they've been studying tina fey.",
+                        -0.5748799252583909
+                    ],
+                    [
+                        "30_while mike and dave need wedding dates may not be a particularly convincing or memorable portrait of maturation, the fact that kendrick's character even has an arc is enough to make you believe that bro comedies are finally coming of age.",
+                        0.687045181237225
+                    ]
+                ]
+            },
+            "Sam Richardson": {
+                "args": []
+            },
+            "Tabitha Humphrey": {
+                "args": []
+            },
+            "Nancy Miceli": {
+                "args": []
+            },
+            "Tanisha Long": {
+                "args": []
+            },
+            "Danielle Zalopany": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_there are no rules or character motivations, words come out of zac efron's mouth when it isn't moving, and anna kendrick's wig changes color seemingly at random.",
+                -0.7736262476012454
+            ],
+            [
+                "6_you never quite believe these women belong with devine and efron's hollywood-generic douche bags -- it feels like a failure of the script, if not the entire industry.",
+                -0.7748327606338972
+            ],
+            [
+                "30_while mike and dave need wedding dates may not be a particularly convincing or memorable portrait of maturation, the fact that kendrick's character even has an arc is enough to make you believe that bro comedies are finally coming of age.",
+                0.687045181237225
+            ]
+        ],
+        "entities": {
+            "Andrew Jay Cohen": {
+                "args": []
+            },
+            "Brendan O'Brien": {
+                "args": []
+            }
+        }
+    }
+}

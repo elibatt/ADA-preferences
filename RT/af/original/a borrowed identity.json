@@ -1,0 +1,120 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Khalifa Natour": {
+                "args": []
+            },
+            "Danielle Kitzis": {
+                "args": []
+            },
+            "Razi Gabareen": {
+                "args": []
+            },
+            "Michael Moshonov": {
+                "args": []
+            },
+            "Norman Issa": {
+                "args": []
+            },
+            "Loai Nofi": {
+                "args": []
+            },
+            "Yaël Abecassis": {
+                "args": [
+                    [
+                        "9_impressive acting (especially from mr. suliman and yael abecassis as yonatan's mother) enhances this ",
+                        0.6921225933556276
+                    ]
+                ]
+            },
+            "Marlene Bajali": {
+                "args": []
+            },
+            "Kais Nashef": {
+                "args": []
+            },
+            "Tawfeek Barhom": {
+                "args": []
+            },
+            "Laëtitia Eïdo": {
+                "args": []
+            },
+            "Ali Suliman": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "5_riklis is a director of enormous grace and handles the various character dynamics with sensitivity.",
+                0.7116324742809046
+            ]
+        ],
+        "entities": {
+            "Eran Riklis": {
+                "args": [
+                    [
+                        "2_under riklis's direction, the film's first act lulls the audience into a sense of familiarity, before plunging into a darker reality.",
+                        0.7590339911581824
+                    ],
+                    [
+                        "7_director eran riklis (lemon tree) balances an endearing nostalgia for the period -- particularly its counterculture -- with cutting observations of the minority experience",
+                        0.7050243718501904
+                    ],
+                    [
+                        "9_tful drama, directed with a sure hand by mr. riklis, a film veteran.",
+                        0.7849322974786985
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_riklis is a director of enormous grace and handles the various character dynamics with sensitivity.",
+                0.7116324742809046
+            ]
+        ],
+        "entities": {
+            "Sayed Kashua": {
+                "args": [
+                    [
+                        "11_riklis, working from an adaptation of a popular novel by the arab-israeli writer sayed kashua, is wryly perceptive of the ways each side exoticizes and demonizes the other.",
+                        0.7334618923728077
+                    ],
+                    [
+                        "12_nicely balanced between levity and poignancy, kashua's script provides a twist at the end that is certain to provoke strong reaction from both sides of the historical divide.",
+                        0.8133710041241038
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_the film feels quietly truthful, as it focuses more on small, pivotal moments than big ones.",
+                0.7161556022436181
+            ],
+            [
+                "6_\"a borrowed identity\" starts out nice and easy ",
+                0.6840757047433024
+            ],
+            [
+                "6_this is a soft-seeming film about a hard-edged, difficult subject, an israeli film that offers a picture from life's other side.",
+                0.6761007135828956
+            ],
+            [
+                "10_traditional coming-of-age films like a borrowed identity don't often come from israel, which is one of the film's points.",
+                0.7678814263411045
+            ]
+        ]
+    }
+}

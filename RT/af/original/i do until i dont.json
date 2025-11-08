@@ -1,0 +1,151 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_bell's film ends up stuck between being a standard audience-pleaser and something more subversive.",
+                0.5376730179696194
+            ],
+            [
+                "1_for a movie about marriage, you wish it would commit one way or the other.",
+                -0.5039079528214983
+            ],
+            [
+                "9_after a somewhat subversive start, the film devolves into predictable patterns and sketchy stereotypes.",
+                -0.6051618353687593
+            ],
+            [
+                "10_painted in the broadest possible strokes, these ropy relationships agitate a movie that has neither a coherent point nor an authentic character.",
+                -0.6707634504996807
+            ],
+            [
+                "12_until i don't\" is a play-it-safe film, with its chaos a little too controlled.",
+                0.5135144177271449
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lake Bell": {
+                "args": [
+                    [
+                        "3_until i don't marks a strange turn from the characteristic creativity of bell's previous efforts.",
+                        0.665033243300696
+                    ],
+                    [
+                        "4_the movie's satirical backbone softens and dissolves, and watching it go wrong might make you realize it wasn't that good to begin with - that bell had been getting by on energy and the audience's goodwill.",
+                        -0.5820461938228926
+                    ],
+                    [
+                        "7_[lake] bell has an off-kilter perspective that keeps you laughing even as it threatens to capsize the story.",
+                        0.8102440219024258
+                    ],
+                    [
+                        "11_it's a big disappointment, not least because of its talented cast, and bell's obvious talents as a filmmaker.",
+                        0.5394968047093742
+                    ],
+                    [
+                        "12_but bell's examination of the institution of marriage has it insights,",
+                        0.7085372876000032
+                    ],
+                    [
+                        "13_it's when resolution begins to sink into this circle of troubled love that bell begins to find herself as a filmmaker, making room for grace notes, resonant personality and lilting humor.",
+                        0.6817196278214321
+                    ],
+                    [
+                        "15_the outline of a snappy relationship comedy is here, and bell is talented enough to make one.",
+                        0.5314863559265119
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "14_bell's sophomore effort as a director pushes the multitalented actress' promising filmmaking career in the wrong direction with a regressive, uneven effort that can't decide whether to be cynical or sentimental.",
+                -0.5633249458927223
+            ],
+            [
+                "16_bell remains a refreshingly original presence, a genuinely talented screenwriter, and a capable director",
+                0.7737663323726646
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Paul Reiser": {
+                "args": []
+            },
+            "Mary Steenburgen": {
+                "args": []
+            },
+            "Ed Helms": {
+                "args": []
+            },
+            "Chace Crawford": {
+                "args": []
+            },
+            "Wyatt Cenac": {
+                "args": []
+            },
+            "Lake Bell": {
+                "args": [
+                    [
+                        "3_until i don't marks a strange turn from the characteristic creativity of bell's previous efforts.",
+                        0.665033243300696
+                    ],
+                    [
+                        "4_the movie's satirical backbone softens and dissolves, and watching it go wrong might make you realize it wasn't that good to begin with - that bell had been getting by on energy and the audience's goodwill.",
+                        -0.5820461938228926
+                    ],
+                    [
+                        "7_[lake] bell has an off-kilter perspective that keeps you laughing even as it threatens to capsize the story.",
+                        0.8102440219024258
+                    ],
+                    [
+                        "11_it's a big disappointment, not least because of its talented cast, and bell's obvious talents as a filmmaker.",
+                        0.5394968047093742
+                    ],
+                    [
+                        "12_but bell's examination of the institution of marriage has it insights,",
+                        0.7085372876000032
+                    ],
+                    [
+                        "13_it's when resolution begins to sink into this circle of troubled love that bell begins to find herself as a filmmaker, making room for grace notes, resonant personality and lilting humor.",
+                        0.6817196278214321
+                    ],
+                    [
+                        "15_the outline of a snappy relationship comedy is here, and bell is talented enough to make one.",
+                        0.5314863559265119
+                    ]
+                ]
+            },
+            "Amber Heard": {
+                "args": []
+            },
+            "Dolly Wells": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Lake Bell": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_painted in the broadest possible strokes, these ropy relationships agitate a movie that has neither a coherent point nor an authentic character.",
+                -0.6707634504996807
+            ],
+            [
+                "16_bell remains a refreshingly original presence, a genuinely talented screenwriter, and a capable director",
+                0.7737663323726646
+            ]
+        ]
+    }
+}

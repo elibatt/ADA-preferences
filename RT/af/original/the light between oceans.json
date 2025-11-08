@@ -1,0 +1,300 @@
+{
+    "director": {
+        "args": [
+            [
+                "0_i suspect a doomed romance of another sort has unfurled: acclaimed indie director falls for slush bucket best-seller and thinks he can \"redeem\" it with great cinematography and oscar-winning actors.",
+                0.6225403178150286
+            ]
+        ],
+        "entities": {
+            "Derek Cianfrance": {
+                "args": [
+                    [
+                        "12_[director] cianfrance has one chance to lighten the load, to unleash a little visual magic to boost the narrative contrivance, and all he can summon are handheld shots of crashing foam.",
+                        -0.5779080697182059
+                    ],
+                    [
+                        "18_ not so heartbreaking, mr. cianfrance seems to suggest, as the simple passage of time.",
+                        0.5919021597666223
+                    ],
+                    [
+                        "22_without question, cianfrance is a filmmaker to be reckoned with.",
+                        0.6902751409002883
+                    ],
+                    [
+                        "26_for all of cianfrance's seriousness, the material proves too essentially melodramatic, hokey and self-serious to save.",
+                        -0.7094762844767406
+                    ],
+                    [
+                        "33_between oceans at its best has everything to do with the acting - and if all cianfrance ever gives us is that, it's worth the price of his lagging third act.",
+                        0.7572508987941898
+                    ],
+                    [
+                        "37_the cathartic pleasures of a good old-fashioned weepie are promised and then never delivered in derek cianfrance's handsome ",
+                        0.8279527125083032
+                    ],
+                    [
+                        "39_derek cianfrance can't quite thread the needle between john cassavetes and david lean, ",
+                        -0.6127987966224837
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "26_no gorgeous cinematography and no cast, no matter how a-list, can ultimately save this material from itself.",
+                -0.5431883971230017
+            ],
+            [
+                "33_between oceans at its best has everything to do with the acting - and if all cianfrance ever gives us is that, it's worth the price of his lagging third act.",
+                0.7572508987941898
+            ]
+        ],
+        "entities": {
+            "Carmel McGlone": {
+                "args": []
+            },
+            "Rosella Hart": {
+                "args": []
+            },
+            "George Vozar": {
+                "args": []
+            },
+            "Michael Wallace": {
+                "args": []
+            },
+            "Emily Wilmhurst": {
+                "args": []
+            },
+            "Benedict Hardie": {
+                "args": []
+            },
+            "Elizabeth Hawthorne": {
+                "args": []
+            },
+            "Imogen Wilmhurst": {
+                "args": []
+            },
+            "Dean Morganty": {
+                "args": []
+            },
+            "Florence Clery": {
+                "args": []
+            },
+            "Lucy Wilmhurst": {
+                "args": []
+            },
+            "Christine Foote": {
+                "args": []
+            },
+            "Miriam Noonan": {
+                "args": []
+            },
+            "Peter McCauley": {
+                "args": []
+            },
+            "Rachel Weisz": {
+                "args": []
+            },
+            "John Bach": {
+                "args": []
+            },
+            "Edwin Lancashire": {
+                "args": []
+            },
+            "Marshall Napier": {
+                "args": []
+            },
+            "John Anthony Hayes": {
+                "args": []
+            },
+            "Michael Fassbender": {
+                "args": [
+                    [
+                        "19_while fassbender and vikander are excellent and the chemistry between them is palpable, the light between oceans never quite shrugs off its staid decorum to become something truly moving.",
+                        0.7287258957110305
+                    ],
+                    [
+                        "20_was there ever an actor more self-evidently born to play a melancholy lighthouse keeper than michael fassbender?",
+                        0.7947346275866677
+                    ],
+                    [
+                        "23_what power the film possesses is due mainly to the expressive performances of fassbender and vikander, who sweep away the murk more than any lighthouse ever could.",
+                        0.6552373544759538
+                    ]
+                ]
+            },
+            "Bryan Brown": {
+                "args": []
+            },
+            "Georgie Gascoigne": {
+                "args": []
+            },
+            "Leon Ford": {
+                "args": []
+            },
+            "Gary Blackman": {
+                "args": []
+            },
+            "Elliot Newbery": {
+                "args": []
+            },
+            "Jeffrey Thomas": {
+                "args": [
+                    [
+                        "36_just when the audience is gearing up for a powerfully tragic resolution of the kind that thomas hardy might have written, the movie veers off into nicholas sparks territory instead.",
+                        -0.5241139376353662
+                    ]
+                ]
+            },
+            "Caren Pistorius": {
+                "args": []
+            },
+            "Jonathan Wagstaff": {
+                "args": []
+            },
+            "Kerrie Waterworth": {
+                "args": []
+            },
+            "Stephen Ure": {
+                "args": []
+            },
+            "Thomas Unger": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": [
+                    [
+                        "6_fassbenderand vikander, who fell in love during the making of the film, fully commit to their roles and hold us in their grip.",
+                        0.72917743068744
+                    ],
+                    [
+                        "15_fassbender and vikander make the film work, just.",
+                        -0.5328982915147464
+                    ]
+                ]
+            },
+            "Jane Menelaus": {
+                "args": []
+            },
+            "Gerald Bryan": {
+                "args": []
+            },
+            "Garry McDonald": {
+                "args": []
+            },
+            "Evangeline Newbery": {
+                "args": []
+            },
+            "Emily Barclay": {
+                "args": []
+            },
+            "Graham Warman": {
+                "args": []
+            },
+            "Peter Hayden": {
+                "args": []
+            },
+            "Jack Thompson": {
+                "args": []
+            },
+            "Hilary Norris": {
+                "args": []
+            },
+            "Elsa May": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_at the climax the wife makes a decision antithetical to her character, and a morally complex film derails into hackneyed nicholas sparks territory.",
+                0.5372805407616922
+            ]
+        ],
+        "entities": {
+            "Derek Cianfrance": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_, it is emotionally true and that's often the most important thing for a film of this nature.",
+                0.8322858847019643
+            ],
+            [
+                "3_the movie ends up seeming like an inchoate hybrid of melodrama and psychodrama-between the oceans, indeed.",
+                -0.5835343221893541
+            ],
+            [
+                "4_the movie errs most with its main plot, which requires the characters to behave with utmost stupidity, sacrificing its hard-earned storytelling for a frustrating payoff.",
+                -0.5926287147925051
+            ],
+            [
+                "6_the movie, sad to say, can't keep its head above water.",
+                -0.7426957563697462
+            ],
+            [
+                "7_ shining through nearly enough to justify a look-one can see the film that could have been.",
+                -0.585318742186405
+            ],
+            [
+                "10_pretty sure i spotted a credit at the end of the movie for a tear-bucket grip.",
+                0.5690229196906628
+            ],
+            [
+                "11_at the climax the wife makes a decision antithetical to her character, and a morally complex film derails into hackneyed nicholas sparks territory.",
+                0.5372805407616922
+            ],
+            [
+                "13_the film plays more like a fable than a story of earthbound humans, and a fractured fairy tale at that.",
+                0.627707589927118
+            ],
+            [
+                "14_regardless of how the light between oceans affects you -- visually, dramatically or through the fierce, tormented emotions it provokes -- affect you it will.",
+                0.856020803799453
+            ],
+            [
+                "21_\"the light between oceans\" hangs on the screen like a large, lovely painting in a beautiful old frame.",
+                0.7344526623595767
+            ],
+            [
+                "24_the film's solemn visual rhythms exert an almost hypnotic spell that for a time gives a heroic dimension to a story as emotionally fraught as a vintage bette davis melodrama.",
+                0.7941215514271129
+            ],
+            [
+                "28_\"the light between oceans\" is easily one of the year's most visually stunning films.",
+                0.8820903844189348
+            ],
+            [
+                "29_eliminate the dialogue, and this would still be a captivating film.",
+                0.6847326269963456
+            ],
+            [
+                "35_halfway through, overloaded with baggage, the movie finally starts to sink - and takes its whole crew down with it.",
+                -0.6518613464762816
+            ],
+            [
+                "37_ curiously lifeless the light between oceans.",
+                0.5203449520403776
+            ],
+            [
+                "38_\"the light between oceans\" winds up taking one too many self-serious twists and turns.",
+                0.5726670414588537
+            ],
+            [
+                "38_the film earns its darkness, ",
+                0.6073424011324818
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

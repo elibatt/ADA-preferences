@@ -1,0 +1,171 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the movie features no music, and no words, yet some moments are so powerful and visceral that i still caught myself covering my ears.",
+                0.6164359068351201
+            ],
+            [
+                "1_the tribe revels in the distance it leaves between its audience and its characters, ",
+                0.526078953376431
+            ],
+            [
+                "2_this is a challenging film that's not for everyone.",
+                0.7737615839813259
+            ],
+            [
+                "3_there is nothing else like the tribe, at once a searing, singular vision of a particular time and place and a brutal metaphor for the wounded human condition.",
+                0.6821820424591005
+            ],
+            [
+                "5_if \"the tribe\" were set in the hearing world, its desolation would seem reductive and forced, a pose rather than a statement.",
+                -0.6356449766086074
+            ],
+            [
+                "5_without words, the movie becomes a nihilistic fable and, indeed, something unheard of until now.",
+                0.5856822465242828
+            ],
+            [
+                "8_this striking film is a revealing document of a time.",
+                0.7542819444975737
+            ],
+            [
+                "16_one need not read it as a metaphor for the director's homeland to appreciate the movie as a tour de force.",
+                0.7893865060435599
+            ],
+            [
+                "17_nevertheless, the film stands as a singular achievement.",
+                0.7002916026977556
+            ],
+            [
+                "19_as an amazing piece of pure cinema, the tribe needs to be experienced.",
+                0.7846907451704472
+            ],
+            [
+                "21_story-wise, \"the tribe\" is yet another art-film wallow in cruelty, not nearly as unique as its looks and its world.",
+                0.5059631453113114
+            ],
+            [
+                "22_it's a staggering film, ",
+                0.6087979613204451
+            ],
+            [
+                "24_by the end, the tribe has revealed itself as so original, and so chilling, it's likely to leave you speechless.",
+                0.5724927243525447
+            ],
+            [
+                "26_the tribe is a singular, fascinating experiment, ",
+                0.6736715393111716
+            ],
+            [
+                "28_beyond the film-stealing, hypnotic use of sign-language, what we get is a bleak vision of a society gone to pot.",
+                0.5058097103161786
+            ],
+            [
+                "29_while the specifics remain uncertain, it's never particularly difficult to keep up with the movie's pace, since their actions speak plainly enough -- and sometimes add far more expressiveness than any verbal exchanges could provide.",
+                0.5828697045621438
+            ],
+            [
+                "31_actions, emotions and desperate impulses speak far louder than words in the tribe, a formally audacious coup de cinema that marks a stunning writing-directing de",
+                0.6921192805686116
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Miroslav Slaboshpitsky": {
+                "args": [
+                    [
+                        "9_overlong and not always successful in its storytelling, slaboshpitsky consistently returns to sex and violence to shore up a weak plot about a guy who falls for the wrong girl.",
+                        -0.6758418016098929
+                    ],
+                    [
+                        "12_the tribe is a brilliant formal achievement that marks ukrainian writer-director miroslav slaboshpitsky as a filmmaker to watch.",
+                        0.8879500231755579
+                    ],
+                    [
+                        "25_if slaboshpitsky retrofitted his tiresome screenplay with sign language because he wanted to prove that everyone, no matter their circumstances, is only human, i can think of a dozen much less dimwitted strategies he might have employed.",
+                        -0.7157202927764146
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "16_one need not read it as a metaphor for the director's homeland to appreciate the movie as a tour de force.",
+                0.7893865060435599
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Alexander Osadchiy": {
+                "args": []
+            },
+            "Yana Novikova": {
+                "args": []
+            },
+            "Tatiana Radchenko": {
+                "args": []
+            },
+            "Marina Panivan": {
+                "args": []
+            },
+            "Alexander Sidelnikov": {
+                "args": []
+            },
+            "Ivan Tishko": {
+                "args": []
+            },
+            "Grigoriy Fesenko": {
+                "args": []
+            },
+            "Kirill Koshik": {
+                "args": []
+            },
+            "Ludmila Rudenko": {
+                "args": []
+            },
+            "Rosa Babiy": {
+                "args": []
+            },
+            "Alexander Panivan": {
+                "args": []
+            },
+            "Alexander Dsiadevich": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "11_a startlingly original, at times unbearably intense drama from ukraine that - on a moment-to-moment, scene-by-scene basis - blows up expectations on every level: narratively, visually and in terms of performance.",
+                0.7069649034127163
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Miroslav Slaboshpitsky": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_the tribe is a brilliant formal achievement that marks ukrainian writer-director miroslav slaboshpitsky as a filmmaker to watch.",
+                0.8879500231755579
+            ],
+            [
+                "25_if slaboshpitsky retrofitted his tiresome screenplay with sign language because he wanted to prove that everyone, no matter their circumstances, is only human, i can think of a dozen much less dimwitted strategies he might have employed.",
+                -0.7157202927764146
+            ],
+            [
+                "31_actions, emotions and desperate impulses speak far louder than words in the tribe, a formally audacious coup de cinema that marks a stunning writing-directing de",
+                0.6921192805686116
+            ]
+        ]
+    }
+}

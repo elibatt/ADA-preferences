@@ -1,0 +1,172 @@
+{
+    "acting": {
+        "entities": {
+            "Judith Roberts": {
+                "args": []
+            },
+            "Alessandro Nivola": {
+                "args": []
+            },
+            "Ekaterina Samsonov": {
+                "args": []
+            },
+            "Dante Pereira-Olsen": {
+                "args": []
+            },
+            "Joaquin Phoenix": {
+                "args": [
+                    [
+                        "2_[phoenix], the mumbling master of smug self-indulgence, dons another layer of emperor's new duds to favor us with a performance as subtle as a fart in a sardined elevator and twice as odiferous.",
+                        0.5584378329252471
+                    ],
+                    [
+                        "5_joaquin phoenix has never been shy about going big",
+                        -0.6466565180922005
+                    ],
+                    [
+                        "13_through it all walks phoenix as joe, and rarely has this mercurial actor seemed so simultaneously threatening and vulnerable, unstoppable and lost.",
+                        -0.6778662266551374
+                    ],
+                    [
+                        "16_ nagging in its grimness and, were it not for the rooted presence of joaquin phoenix, difficult to believe in.",
+                        -0.610607157648712
+                    ],
+                    [
+                        "20_joaquin phoenix is simply stupendous in a revenge thriller from the brilliant scottish filmmaker lynne ramsay that gets under your skin and makes it crawl.",
+                        0.7626143444653242
+                    ],
+                    [
+                        "22_the gravity and force of mr. phoenix's performance and ms. ramsay's direction are impressive, ",
+                        0.8110262604369413
+                    ]
+                ]
+            },
+            "Alex Manette": {
+                "args": []
+            },
+            "John Doman": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "5_ his performance here ranks as one of his best because of what happens between the outbursts.",
+                0.7230052698902838
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Lynne Ramsay": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_what it lacks in straightforward narrative structure, it makes up for in chest-level punch, and \"you were never really here\" lands like a blow to the sternum.",
+                0.6511339062565993
+            ],
+            [
+                "1_really here is not a film that particularly wants you to \"like\" it.",
+                -0.5247302944459267
+            ],
+            [
+                "9_really here is a demanding film, ",
+                0.5433094288332424
+            ],
+            [
+                "9_to watch it is to see a rigorous and intensely creative filmmaker at work.",
+                0.682917929622552
+            ],
+            [
+                "10_\"you were never really here",
+                -0.6144005921669407
+            ],
+            [
+                "14_here\" is a good film, maybe even a great one.",
+                0.8324415670663496
+            ],
+            [
+                "22_ it's hard not to feel that their talents have been misapplied, and that there is less to the movie than meets the eye.",
+                -0.6497260137898972
+            ],
+            [
+                "23_ it's anchored by the internal work of her leading man.",
+                0.6931839950819735
+            ],
+            [
+                "25_a transcendent, at times almost dangerous film.",
+                -0.5292812485573672
+            ],
+            [
+                "27_really here is a powerful assault of a film, ",
+                0.7521794314099606
+            ],
+            [
+                "28_for all of its meticulous construction and often masterful craft, the film remains something to coldly admire rather than easily embrace, often playing more as a collection of accomplished filmmaking moments than as a fully enthralling whole.",
+                0.8251725857516441
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Lynne Ramsay": {
+                "args": [
+                    [
+                        "3_we do not deserve lynne ramsay.",
+                        -0.6482223635778602
+                    ],
+                    [
+                        "4_in a case of trying to run before knowing how to walk, ramsay tries to make a different kind of action movie without bothering to master the rudiments of the form.",
+                        -0.6053312210048762
+                    ],
+                    [
+                        "7_despite the obvious homage, this is a ramsay film, rooted in the glaswegian auteur's feverish,",
+                        0.6602596967675209
+                    ],
+                    [
+                        "20_joaquin phoenix is simply stupendous in a revenge thriller from the brilliant scottish filmmaker lynne ramsay that gets under your skin and makes it crawl.",
+                        0.7626143444653242
+                    ],
+                    [
+                        "22_the gravity and force of mr. phoenix's performance and ms. ramsay's direction are impressive, ",
+                        0.8110262604369413
+                    ],
+                    [
+                        "23_a film of external beauty in ramsay's visual language and sound design",
+                        0.7599674960659515
+                    ],
+                    [
+                        "24_[director ramsay's] return seals her standing as one of our most fearless and forceful filmmakers, if not one as prolific as she deserves to be.",
+                        0.7188957291597038
+                    ],
+                    [
+                        "30_it's a mesmerizing illustration of [ramsay's] ability to treasure small gestures and whispered exchanges over exposition to construct a tapestry of alternately gripping and melancholic emotions.",
+                        0.6783693853813267
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "11_it's about time a female director of serious nerve threw the genre a curveball.",
+                0.6392943325110454
+            ],
+            [
+                "18_with a jarring 11th-hour twist, [director lynne]",
+                -0.5313885666220812
+            ],
+            [
+                "27_ it's missing its director's inimitable poetry.",
+                -0.6685880895741597
+            ]
+        ]
+    }
+}

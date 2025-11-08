@@ -1,0 +1,263 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_this is an odd movie overall.",
+                -0.08333333333333333
+            ],
+            [
+                "4_the midnight sky is a good example of a movie that sells itself short by trying to be one thing -- serious, heavy, emotional -- when, by all available indicators, it should be more of a thriller, or more ridiculous, or at the very least more fun.",
+                0.13694444444444445
+            ],
+            [
+                "7_ i can't work up the energy to get bent out of shape about it.",
+                0.0
+            ],
+            [
+                "9_his film has some visual flair, ",
+                0.0
+            ],
+            [
+                "10_ the film struggles to fill the rest of its time.",
+                0.0
+            ],
+            [
+                "12_at its best, the film shimmers with a ",
+                1.0
+            ],
+            [
+                "14_tful treatment, something that eludes the ambitious movie as it succumbs to a schematic and sentimental telling that overreaches for a grand gesture and obscures the more meaningful ideas.",
+                0.3
+            ],
+            [
+                "18_it's a carefully balanced movie that gives as much time to human connections, loss, regrets and hope in the small moments as it does to what we reveal of ourselves when survival is at stake.",
+                -0.05
+            ],
+            [
+                "19_the film's conclusions are simple, ",
+                0.0
+            ],
+            [
+                "21_again, it's not a bad film.",
+                0.3499999999999999
+            ],
+            [
+                "32_the film minimizes the tragedy of the human race's near-complete annihilation by positioning it as the backdrop for the world's most grandiose deadbeat-dad redemption arc.",
+                0.25
+            ],
+            [
+                "34_it's a film that will satisfy every kind of fan - sci-fi, intimate drama, romantic and fantasy.",
+                0.26666666666666666
+            ],
+            [
+                "45_, 'the midnight sky' just proves that a movie that reaches for the stars can still come up empty-handed.",
+                0.3
+            ],
+            [
+                "47_it's almost a stranger movie than the filmmakers seem to realize, which gives it a bittersweet edge.",
+                0.0
+            ],
+            [
+                "49_with its soulful alexandre desplat score and martin ruhe's lyrical cinematography as its guide, the movie unleashes a mostly welcome stream of sci-fi pastiche, tapping into the fundamental appeal of its precedents.",
+                0.8
+            ],
+            [
+                "50_this quiet, meditative new film is emotionally involving from tense start to poignant finish.",
+                -0.03939393939393939
+            ]
+        ],
+        "unique_args": [
+            [
+                "3_this is an odd movie overall.",
+                -0.08333333333333333
+            ],
+            [
+                "4_the midnight sky is a good example of a movie that sells itself short by trying to be one thing -- serious, heavy, emotional -- when, by all available indicators, it should be more of a thriller, or more ridiculous, or at the very least more fun.",
+                0.13694444444444445
+            ],
+            [
+                "7_ i can't work up the energy to get bent out of shape about it.",
+                0.0
+            ],
+            [
+                "9_his film has some visual flair, ",
+                0.0
+            ],
+            [
+                "10_ the film struggles to fill the rest of its time.",
+                0.0
+            ],
+            [
+                "12_at its best, the film shimmers with a ",
+                1.0
+            ],
+            [
+                "14_tful treatment, something that eludes the ambitious movie as it succumbs to a schematic and sentimental telling that overreaches for a grand gesture and obscures the more meaningful ideas.",
+                0.3
+            ],
+            [
+                "18_it's a carefully balanced movie that gives as much time to human connections, loss, regrets and hope in the small moments as it does to what we reveal of ourselves when survival is at stake.",
+                -0.05
+            ],
+            [
+                "19_the film's conclusions are simple, ",
+                0.0
+            ],
+            [
+                "21_again, it's not a bad film.",
+                0.3499999999999999
+            ],
+            [
+                "32_the film minimizes the tragedy of the human race's near-complete annihilation by positioning it as the backdrop for the world's most grandiose deadbeat-dad redemption arc.",
+                0.25
+            ],
+            [
+                "34_it's a film that will satisfy every kind of fan - sci-fi, intimate drama, romantic and fantasy.",
+                0.26666666666666666
+            ],
+            [
+                "45_, 'the midnight sky' just proves that a movie that reaches for the stars can still come up empty-handed.",
+                0.3
+            ],
+            [
+                "47_it's almost a stranger movie than the filmmakers seem to realize, which gives it a bittersweet edge.",
+                0.0
+            ],
+            [
+                "49_with its soulful alexandre desplat score and martin ruhe's lyrical cinematography as its guide, the movie unleashes a mostly welcome stream of sci-fi pastiche, tapping into the fundamental appeal of its precedents.",
+                0.8
+            ],
+            [
+                "50_this quiet, meditative new film is emotionally involving from tense start to poignant finish.",
+                -0.03939393939393939
+            ],
+            [
+                "25",
+                1
+            ],
+            [
+                "27",
+                1
+            ],
+            [
+                "29",
+                1
+            ]
+        ]
+    },
+    "director": {
+        "args": [
+            [
+                "27_all the actors excel at helping director-star clooney turn this apocalyptic thriller into something more ",
+                0.5
+            ]
+        ],
+        "entities": {
+            "Quentin Tarantino": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "27_all the actors excel at helping director-star clooney turn this apocalyptic thriller into something more ",
+                0.5
+            ]
+        ]
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Quentin Tarantino": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": []
+    },
+    "acting": {
+        "args": [
+            [
+                "21_and clooney's hollowed-out performance - truly, he seems exhausted by life and disgusted by humanity, with a notable exception - is effective.",
+                -0.07499999999999998
+            ],
+            [
+                "25_ i appreciated the contemplative performance by george clooney.",
+                0.2
+            ],
+            [
+                "29_mr. clooney and his colleagues have crafted an elegant screen version of a novel by lily brooks-dalton with a resonant performance at its center -- his own.",
+                0.3333333333333333
+            ]
+        ],
+        "entities": {
+            "John Travolta": {
+                "args": [],
+                "unique_args": []
+            },
+            "Samuel L. Jackson": {
+                "args": [],
+                "unique_args": []
+            },
+            "Uma Thurman": {
+                "args": [],
+                "unique_args": []
+            },
+            "Harvey Keitel": {
+                "args": [],
+                "unique_args": []
+            },
+            "Tim Roth": {
+                "args": [],
+                "unique_args": []
+            },
+            "Amanda Plummer": {
+                "args": [],
+                "unique_args": []
+            },
+            "Maria de Medeiros": {
+                "args": [],
+                "unique_args": []
+            },
+            "Ving Rhames": {
+                "args": [],
+                "unique_args": []
+            },
+            "Eric Stoltz": {
+                "args": [],
+                "unique_args": []
+            },
+            "Rosanna Arquette": {
+                "args": [],
+                "unique_args": []
+            },
+            "Christopher Walken": {
+                "args": [],
+                "unique_args": []
+            },
+            "Bruce Willis": {
+                "args": [],
+                "unique_args": []
+            }
+        },
+        "unique_args": [
+            [
+                "21_and clooney's hollowed-out performance - truly, he seems exhausted by life and disgusted by humanity, with a notable exception - is effective.",
+                -0.07499999999999998
+            ],
+            [
+                "25_ i appreciated the contemplative performance by george clooney.",
+                0.2
+            ],
+            [
+                "29_mr. clooney and his colleagues have crafted an elegant screen version of a novel by lily brooks-dalton with a resonant performance at its center -- his own.",
+                0.3333333333333333
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {},
+        "unique_args": []
+    }
+}

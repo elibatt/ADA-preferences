@@ -1,0 +1,109 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sosuke Ikematsu": {
+                "args": []
+            },
+            "Hiroshi Abe": {
+                "args": []
+            },
+            "Kirin Kiki": {
+                "args": []
+            },
+            "Lily Franky": {
+                "args": []
+            },
+            "Yoko Maki": {
+                "args": []
+            },
+            "Taiyo Yoshizawa": {
+                "args": []
+            },
+            "Isao Hashizume": {
+                "args": []
+            },
+            "Satomi Kobayashi": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_for a film filled with broken promises, dead dreams, conniving duplicity and desperation, \"after the storm\" has a surprisingly light touch and odd charm.",
+                0.6765847905040363
+            ],
+            [
+                "6_\"after the storm\" has what the japanese call mono no aware, which translates as \"the pathos of things.",
+                0.502205712918916
+            ],
+            [
+                "6_\" it is a film that is aware of the of the transient, impermanent nature of life.",
+                0.8011077448211726
+            ],
+            [
+                "9_there are times in this lovely, complacent movie about uncomplacent circumstance when i wanted to be shaken up, and wasn't.",
+                -0.696002781577945
+            ],
+            [
+                "11_after the storm is one of our best filmmaker's best films.",
+                0.8970649470505474
+            ],
+            [
+                "14_i've admired mr. kore-eda's work for many years...",
+                0.6995826452004674
+            ],
+            [
+                "17_it's a film that sticks with you.",
+                0.655399873582022
+            ],
+            [
+                "19_i walked out of after the storm wanting to be a better person - and further convinced that hirokazu kore-eda isn't just one of the world's best filmmakers, ",
+                -0.7417447555028126
+            ],
+            [
+                "20_kore-ada has explored the father-son dynamic in his previous work, most notably still walking (2008) and like father, like son (2013), and brings a gentle, humanist approach to the material.",
+                0.6630048208126647
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "4_the director keeps his characters and audience bobbing together over waters that grow deeper and deeper, until it's impossible to distinguish the everyday from the profound.",
+                0.6624065611529913
+            ],
+            [
+                "15_a sublimely simple family drama from the japanese writer-director hirokazu kore-eda.",
+                0.7417405528050895
+            ]
+        ],
+        "entities": {
+            "Hirokazu Koreeda": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "2_a quiet character study of a man in slow-motion crisis.",
+                0.6012834304316969
+            ],
+            [
+                "15_a sublimely simple family drama from the japanese writer-director hirokazu kore-eda.",
+                0.7417405528050895
+            ]
+        ],
+        "entities": {
+            "Hirokazu Koreeda": {
+                "args": []
+            }
+        }
+    }
+}

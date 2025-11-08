@@ -1,0 +1,97 @@
+{
+    "acting": {
+        "entities": {
+            "Jack Lowden": {
+                "args": [
+                    [
+                        "3_with its rugged landscapes, handsome production design and, especially, the very appealing work of leads peter mullen and jack lowden, tommy's honour is an ingratiating production all-round.",
+                        0.8220558216054539
+                    ],
+                    [
+                        "16_an engrossing and accessible celebration of the game's modern origins, enhanced by striking locations and a standout cast, led by scottish actors peter mullan and jack lowden.",
+                        0.7905762719464111
+                    ]
+                ]
+            },
+            "Sam Neill": {
+                "args": []
+            },
+            "Peter Mullan": {
+                "args": []
+            },
+            "Max Deacon": {
+                "args": []
+            },
+            "Ophelia Lovibond": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_e to the film's overall craft and, especially, its cast, that it's as much a winner as it is.",
+                0.7499220034111465
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Kevin Cook": {
+                "args": []
+            },
+            "Pamela Marin": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_the rare sports biography that keeps its eye on the ball of character and milieu.",
+                -0.5709758655733217
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "6_towering drama isn't needed for a film to win our favor -- or favour, in the case of tommy's honour.",
+                0.5126648844096376
+            ],
+            [
+                "7_e to the film's overall craft and, especially, its cast, that it's as much a winner as it is.",
+                0.7499220034111465
+            ],
+            [
+                "8_there's a subdued quality to watching golf as a spectator sport, and that same quality of reserved detachment applies to this golf movie.",
+                0.621032302580741
+            ],
+            [
+                "11_\"tommy's honour\" rarely finds a way to make golf seem exciting on film.",
+                0.5765717384268854
+            ],
+            [
+                "13_(key to any sports movie's success) and setting win out.",
+                0.695817525832772
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jason Connery": {
+                "args": [
+                    [
+                        "2_connery (an actor as well, and the son of sean connery) keeps the performers honest, and a few of the father-son tussles, with their admixture of love and envy, are powerful.",
+                        0.8607184330887758
+                    ],
+                    [
+                        "9_ connery's film reduces this little known (outside scotland) ",
+                        0.5924280270683053
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

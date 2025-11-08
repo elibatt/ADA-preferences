@@ -1,0 +1,199 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_this is a film that reaches its emotional climax among a crowd of senior citizens at a nursing home singing a rousing song about the difficulty of bowel movements.",
+                0.6765201802149579
+            ],
+            [
+                "5_while jackie harbors plenty of rage, the comedian is ultimately too heavy on the bull.",
+                -0.5226406225261657
+            ],
+            [
+                "6_the movie never builds enough momentum, emotional or narrative, to get the viewer on its side.",
+                -0.5859499844811968
+            ],
+            [
+                "7_if you've seen the trailer, you've pretty much seen the whole movie.",
+                0.5043695716275106
+            ],
+            [
+                "10_there's a big problem at the center of \"the comedian\": it's not funny.",
+                -0.6490860711396984
+            ],
+            [
+                "13_unfortunately, the comedian is not one of them.",
+                -0.7047775391657991
+            ],
+            [
+                "17_burdened with a choppy, poorly conceived script, \"the comedian\" is impossible to enjoy on any level whatsoever.",
+                -0.7086492868524821
+            ],
+            [
+                "18_ \"the comedian\" never really seems all that interested in probing the comic's psychological wounds.",
+                -0.5005849089782742
+            ],
+            [
+                "19_a film so low in energy that it's almost as if it was made to assist airline passengers in falling asleep.",
+                -0.6999406447408637
+            ],
+            [
+                "20_everyone in \"the comedian\" deserves a better movie than \"the comedian.\"",
+                0.5820694411504727
+            ],
+            [
+                "21_all those years in the oven, and \"the comedian\" still comes out half-baked.",
+                -0.6370552644811668
+            ],
+            [
+                "22_is it too much to want someone to bring the funny in a movie about a comic?",
+                -0.672244311900504
+            ],
+            [
+                "30_ the comedian is down for the count.",
+                -0.6994672037604173
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Taylor Hackford": {
+                "args": [
+                    [
+                        "8_ if the unseemly characters in taylor hackford's latest feature are any indication, it also breeds comedy.",
+                        0.6713091382868376
+                    ],
+                    [
+                        "12_director taylor hackford pitches this film as a drama with comic moments, ",
+                        0.658256520656606
+                    ],
+                    [
+                        "16_a career nadir for director taylor hackford.",
+                        -0.5061286795098084
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Lewis Friedman": {
+                "args": []
+            },
+            "Art Linson": {
+                "args": []
+            },
+            "Richard LaGravenese": {
+                "args": []
+            },
+            "Jeffrey Ross": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_the plot is forced and flimsy, the characters are thinly conceived, and the comic writing is often cringeworthy.",
+                -0.6225725948824969
+            ],
+            [
+                "14_interesting character study and heartfelt love letter to new york city and the camaraderie among its comedians.",
+                0.713258445057542
+            ],
+            [
+                "17_burdened with a choppy, poorly conceived script, \"the comedian\" is impossible to enjoy on any level whatsoever.",
+                -0.7086492868524821
+            ],
+            [
+                "23_the stand-up routines - from jackie and the pros alike - are funny and blue enough to shock a few laughs out of you, sometimes in spite of your better judgment, and the star seems once again genuinely invested in creating a character.",
+                0.6832778083926323
+            ],
+            [
+                "34_fine acting can't quite redeem a sleazy central character.",
+                -0.6362855575048459
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Lois Smith": {
+                "args": []
+            },
+            "Veronica Ferres": {
+                "args": []
+            },
+            "Edie Falco": {
+                "args": []
+            },
+            "Charles Grodin": {
+                "args": []
+            },
+            "Leslie Mann": {
+                "args": [
+                    [
+                        "27_leslie mann is one of my favorite loons.",
+                        0.6552533610377631
+                    ]
+                ]
+            },
+            "Danny DeVito": {
+                "args": []
+            },
+            "Robert De Niro": {
+                "args": [
+                    [
+                        "11_why did mr. de niro do it, and why would anyone pay money to see it?",
+                        -0.5327746635087625
+                    ],
+                    [
+                        "12_ de niro is too loud and overbearing to be funny.",
+                        -0.6176701871500572
+                    ],
+                    [
+                        "13_robert de niro was even in one of them...and mike birbiglia's sharply observed",
+                        0.6839773853202467
+                    ],
+                    [
+                        "25_the uncomfortable yet not unwelcome spectacle of de niro attempting zingers makes this movie an essential subject for future study of the actor's comic side.",
+                        0.6572429661242208
+                    ],
+                    [
+                        "30_de niro gives it his all, ",
+                        0.6090889451201117
+                    ],
+                    [
+                        "32_robert de niro's eight-years-in-the-making passion project is a baffling mess loaded with outdated and unfunny jokes.",
+                        -0.6505181122038443
+                    ]
+                ]
+            },
+            "Cloris Leachman": {
+                "args": []
+            },
+            "Harvey Keitel": {
+                "args": []
+            },
+            "Patti LuPone": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "0_a fetid, overlong drama laden with bizarre subplots and an inexplicably star-studded supporting cast, built around the dated idea that standup comedians can, indeed, be jerks.",
+                -0.5214670378959307
+            ],
+            [
+                "9_what's more painful than watching a comedian bomb onstage in a live performance?",
+                -0.578235279491363
+            ],
+            [
+                "34_fine acting can't quite redeem a sleazy central character.",
+                -0.6362855575048459
+            ]
+        ]
+    }
+}

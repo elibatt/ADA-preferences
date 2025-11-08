@@ -1,0 +1,152 @@
+{
+    "writer": {
+        "entities": {
+            "Stephen Hillenburg": {
+                "args": []
+            },
+            "Glenn Berger": {
+                "args": []
+            },
+            "Jonathan Aibel": {
+                "args": []
+            },
+            "Paul Tibbitt": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "6_mostly nails what has always made the character, and his brightly coloured underwater world, so endearing: the abundant innocence, the welcome lack of cynicism and the out-and-out stupidity.",
+                0.8048072864325513
+            ],
+            [
+                "7_while less fluid and fresh than its 2004 predecessor, the new film displays enough nutty writing and sheer brio to confirm the stamina of its enduring and skillfully voiced characters.",
+                0.765997470803368
+            ],
+            [
+                "14_you can tell the script is short on punch lines by how often it resorts to poop and fart jokes, the last refuge of the desperate gag writer.",
+                -0.6501196198784422
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bill Fagerbakke": {
+                "args": []
+            },
+            "Rodger Bumpass": {
+                "args": []
+            },
+            "Eric Bauza": {
+                "args": []
+            },
+            "Mr. Lawrence": {
+                "args": []
+            },
+            "Carolyn Lawrence": {
+                "args": []
+            },
+            "Rob Paulsen": {
+                "args": []
+            },
+            "Eddie Deezen": {
+                "args": []
+            },
+            "Tim Conway": {
+                "args": []
+            },
+            "Antonio Banderas": {
+                "args": []
+            },
+            "Tom Kenny": {
+                "args": []
+            },
+            "Billy West": {
+                "args": []
+            },
+            "Clancy Brown": {
+                "args": []
+            },
+            "Kevin Michael Richardson": {
+                "args": []
+            },
+            "Jill Talley": {
+                "args": []
+            },
+            "Cree Summer": {
+                "args": []
+            },
+            "April Stewart": {
+                "args": []
+            },
+            "Mary Jo Catlett": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_\"the spongebob movie: sponge out of water\" remains true to the surrealism of its animated television roots.",
+                0.5571733712626468
+            ],
+            [
+                "6_the spongebob movie: sponge out of water",
+                -0.6014018278557609
+            ],
+            [
+                "7_while less fluid and fresh than its 2004 predecessor, the new film displays enough nutty writing and sheer brio to confirm the stamina of its enduring and skillfully voiced characters.",
+                0.765997470803368
+            ],
+            [
+                "9_all of the strangely charming cartoony undersea nonsense of spongebob that's delighted kids and stoners for year comes to the surface in \"the spongebob movie: sponge out of water.",
+                0.6099142492931628
+            ],
+            [
+                "10_maybe we shouldn't have expected too much from \"the spongebob movie: sponge out of water.\"",
+                -0.8030753446799231
+            ],
+            [
+                "12_ checking all of the requisite plot and sensibility boxes, doesn't convey as an organic work of spongebob-ishness.",
+                0.5093250086691059
+            ],
+            [
+                "15_[the film] runs a reasonable-sounding 92 minutes.",
+                -0.544391593862509
+            ],
+            [
+                "17_\"the spongebob movie: sponge out of water\" weaves a silly - and often funny - spell.",
+                0.6873130668411859
+            ],
+            [
+                "17_it's a scrappy little b-movie that zips along rather entertainingly.",
+                -0.617661042076743
+            ],
+            [
+                "20_the story is just a pretext for sustained, rapid-fire gags, many of them hysterical, that range from movie parodies to gary larson-worthy flights of cartoon weirdness.",
+                -0.6146388561576981
+            ],
+            [
+                "21_it's the freewheeling madness of its execution that makes the movie such a trip - as in acid trip.",
+                0.7420885821962024
+            ],
+            [
+                "27_at times there's a genuine sense of daring to the film's freewheeling anarchy, its refusal to stick to a central theme or impart any sort of lesson.",
+                0.7760215728825717
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Paul Tibbitt": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it all feels more like an ambitious home video than a 'proper' film.",
+                -0.5275239230485762
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Denny Tedesco": {
+                "args": [
+                    [
+                        "3_ it's also deeply personal for tedesco ...",
+                        0.6405824354926369
+                    ],
+                    [
+                        "9_with its release held up for seven years because of rights issues, denny tedesco's illuminating documentary about the unsung l.a. session musicians who provided the backbeat for some of the greatest songs from the '50s through the '80s can now be seen.",
+                        0.8363813060434717
+                    ],
+                    [
+                        "10_in the wrecking crew, denny tedesco, whose father was a wrecking crew guitarist, rights that wrong.",
+                        0.5267739278660979
+                    ],
+                    [
+                        "13_these unsung heroes are the subject of an illuminating, witty and comprehensive documentary by denny tedesco, son of the crew's inventive guitarist, the late tommy tedesco.",
+                        0.6626684641128812
+                    ],
+                    [
+                        "14_with a son's love and duty, tedesco ...",
+                        0.8120858145738192
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": [
+            [
+                "5_mostly, it's hagiography, with stars like cher and brian wilson used as character witnesses to the players' greatness.",
+                0.5326405710743087
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Earl Palmer": {
+                "args": []
+            },
+            "Don Randi": {
+                "args": []
+            },
+            "Lou Adler": {
+                "args": []
+            },
+            "Herb Alpert": {
+                "args": []
+            },
+            "Hal Blaine": {
+                "args": []
+            },
+            "Brian Wilson": {
+                "args": [
+                    [
+                        "5_mostly, it's hagiography, with stars like cher and brian wilson used as character witnesses to the players' greatness.",
+                        0.5326405710743087
+                    ],
+                    [
+                        "17_long on nostalgia, the film does shed further light on the genius of brian wilson and the unfair uproar over the monkees' need for musical backup.",
+                        0.688245407818261
+                    ]
+                ]
+            },
+            "Jimmy Webb": {
+                "args": []
+            },
+            "Micky Dolenz": {
+                "args": []
+            },
+            "Joe Osborn": {
+                "args": []
+            },
+            "Cher": {
+                "args": []
+            },
+            "Al Casey": {
+                "args": []
+            },
+            "Plas Johnson": {
+                "args": []
+            },
+            "Tommy Tedesco": {
+                "args": [
+                    [
+                        "3_ it's also deeply personal for tedesco ...",
+                        0.6405824354926369
+                    ],
+                    [
+                        "9_with its release held up for seven years because of rights issues, denny tedesco's illuminating documentary about the unsung l.a. session musicians who provided the backbeat for some of the greatest songs from the '50s through the '80s can now be seen.",
+                        0.8363813060434717
+                    ],
+                    [
+                        "10_in the wrecking crew, denny tedesco, whose father was a wrecking crew guitarist, rights that wrong.",
+                        0.5267739278660979
+                    ],
+                    [
+                        "13_these unsung heroes are the subject of an illuminating, witty and comprehensive documentary by denny tedesco, son of the crew's inventive guitarist, the late tommy tedesco.",
+                        0.6626684641128812
+                    ],
+                    [
+                        "14_with a son's love and duty, tedesco ...",
+                        0.8120858145738192
+                    ]
+                ]
+            },
+            "Carol Kaye": {
+                "args": [
+                    [
+                        "15_the enchanting kaye - \"i was making more money than the president\" - probably deserves her own film.",
+                        0.6430174647820874
+                    ]
+                ]
+            },
+            "Roger McGuinn": {
+                "args": []
+            },
+            "Nancy Sinatra": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

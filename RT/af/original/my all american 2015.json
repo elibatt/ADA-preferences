@@ -1,0 +1,400 @@
+{
+    "acting": {
+        "args": [
+            [
+                "3_\"my all american\" would have done better to dig deeper in its portrayal of a man who set such a high bar for the intrinsic character of a football player.",
+                0.5825297668801649
+            ]
+        ],
+        "entities": {
+            "Diane Dearsan": {
+                "args": []
+            },
+            "Grant Giles": {
+                "args": []
+            },
+            "Diane Selken": {
+                "args": []
+            },
+            "Mary Ann Elekes": {
+                "args": []
+            },
+            "Jordan Shipley": {
+                "args": []
+            },
+            "Sandra Avila": {
+                "args": []
+            },
+            "Sarah Bolger": {
+                "args": []
+            },
+            "Lauren Leal": {
+                "args": []
+            },
+            "Jim Flowers": {
+                "args": []
+            },
+            "Joshua Hawkins": {
+                "args": []
+            },
+            "Matthew Zapata": {
+                "args": []
+            },
+            "Todd Allen": {
+                "args": []
+            },
+            "Walker Satterwhite": {
+                "args": []
+            },
+            "Troy Ogletree": {
+                "args": []
+            },
+            "Dylan Starkey": {
+                "args": []
+            },
+            "Carlton Caudle": {
+                "args": []
+            },
+            "Brittany Clark": {
+                "args": []
+            },
+            "Jacub Dacus": {
+                "args": []
+            },
+            "Charles Reynolds": {
+                "args": []
+            },
+            "Samantha Powell": {
+                "args": []
+            },
+            "Joshua Davis": {
+                "args": []
+            },
+            "Rosendo 'Ross' DeLeon": {
+                "args": []
+            },
+            "Damon Carney": {
+                "args": []
+            },
+            "Stephen Stanton": {
+                "args": []
+            },
+            "Hector Becerra": {
+                "args": []
+            },
+            "Gene Cervenka": {
+                "args": []
+            },
+            "Glenn Bert Coe Jr.": {
+                "args": []
+            },
+            "Jeff Brody": {
+                "args": []
+            },
+            "Marco Perella": {
+                "args": []
+            },
+            "Colin Haag Jr.": {
+                "args": []
+            },
+            "Rebecca Chulew": {
+                "args": []
+            },
+            "J. Taylor": {
+                "args": []
+            },
+            "Rett Terrell": {
+                "args": []
+            },
+            "Grant Merritt": {
+                "args": []
+            },
+            "Ellen Crouch": {
+                "args": []
+            },
+            "Stan Taylor": {
+                "args": []
+            },
+            "Michael Reilly Burke": {
+                "args": []
+            },
+            "Tony Lee Yates": {
+                "args": []
+            },
+            "Abriella Gonzales": {
+                "args": []
+            },
+            "Sam Stinson": {
+                "args": []
+            },
+            "Julie Cude-Eaton": {
+                "args": []
+            },
+            "Alyssa Broun": {
+                "args": []
+            },
+            "Tracey Ely": {
+                "args": []
+            },
+            "Charlie Crenshaw": {
+                "args": []
+            },
+            "Perry Hinson": {
+                "args": []
+            },
+            "Brett Brock": {
+                "args": []
+            },
+            "Marlon Price": {
+                "args": []
+            },
+            "Christopher Gulas": {
+                "args": []
+            },
+            "David Mooney": {
+                "args": []
+            },
+            "Catherine Lawrence Kinslow": {
+                "args": []
+            },
+            "Sonja Gordon": {
+                "args": []
+            },
+            "Nick W. Nicholson": {
+                "args": []
+            },
+            "Robin Tunney": {
+                "args": []
+            },
+            "Regan Goins": {
+                "args": []
+            },
+            "Heather Materne": {
+                "args": []
+            },
+            "Austin Willis": {
+                "args": []
+            },
+            "Eddie Davenport": {
+                "args": []
+            },
+            "Finn Wittrock": {
+                "args": []
+            },
+            "Cassandra Dixson": {
+                "args": []
+            },
+            "Tommy McJunkins": {
+                "args": []
+            },
+            "Eric Hack": {
+                "args": []
+            },
+            "Chris J. Knight": {
+                "args": []
+            },
+            "Joshua Briscoe": {
+                "args": []
+            },
+            "Brooke Morgan": {
+                "args": []
+            },
+            "Casey Charland": {
+                "args": []
+            },
+            "Brent Anderson": {
+                "args": []
+            },
+            "Dennis Alcorn": {
+                "args": []
+            },
+            "Mike Seitz": {
+                "args": []
+            },
+            "Gary Teague": {
+                "args": []
+            },
+            "Chris Roark": {
+                "args": []
+            },
+            "Hays McEachern": {
+                "args": []
+            },
+            "Mackenzie Meehan": {
+                "args": []
+            },
+            "Doug Shuffield": {
+                "args": []
+            },
+            "Richard Kohnke": {
+                "args": []
+            },
+            "Alex Brewster": {
+                "args": []
+            },
+            "Alex MacNicoll": {
+                "args": []
+            },
+            "Laura Evans": {
+                "args": []
+            },
+            "Aaron Eckhart": {
+                "args": []
+            },
+            "Patty Allieri": {
+                "args": []
+            },
+            "John Chriss": {
+                "args": []
+            },
+            "Cody Springer": {
+                "args": []
+            },
+            "Kristin M. Miller": {
+                "args": []
+            },
+            "Wallace Jones": {
+                "args": []
+            },
+            "Juston Street": {
+                "args": []
+            },
+            "Eric Zettina": {
+                "args": []
+            },
+            "Charley Austin": {
+                "args": []
+            },
+            "David Stokey": {
+                "args": []
+            },
+            "Jay Bowles": {
+                "args": []
+            },
+            "Zane-Eric Matthews": {
+                "args": []
+            },
+            "Stacy Harrell": {
+                "args": []
+            },
+            "Tim Ogletree": {
+                "args": []
+            },
+            "Dane Berkshire": {
+                "args": []
+            },
+            "Kaci Beeler": {
+                "args": []
+            },
+            "Stephen Latham": {
+                "args": []
+            },
+            "Samantha Frank": {
+                "args": []
+            },
+            "Andy Skelton": {
+                "args": []
+            },
+            "Robert Lloyd Moore": {
+                "args": []
+            },
+            "Reynolds Washam": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_even those who love inspirational sports films might have to flinch from \"my all american\" is a movie so square, conservative and humorless that it winds up playing like a brutally straight-faced \"south park\" parody of gridiron schmaltz.\"",
+                0.5579487648174699
+            ],
+            [
+                "1_ this film accurately shares a wonderful guy's all-too-short life with us.",
+                0.8458154294664006
+            ],
+            [
+                "2_for those looking for a sports film of basic quality and genuine narrative, \"my all american\" is definitively useless.",
+                0.5983002279877826
+            ],
+            [
+                "3_\"my all american\" would have done better to dig deeper in its portrayal of a man who set such a high bar for the intrinsic character of a football player.",
+                0.5825297668801649
+            ],
+            [
+                "7_there's a point where a movie is so predictably manipulative that it starts to stifle the potential of the actors and deny audiences the opportunity to think on their own.",
+                -0.6674119293559337
+            ],
+            [
+                "8_my all american, a football film as calculated as its title, runs through every cliché in the genre playbook.",
+                -0.5448749326725763
+            ],
+            [
+                "9_the movie is much like its hero, freddie - straightforward, sweet, hard-working and predictable.",
+                0.520637453603325
+            ],
+            [
+                "12_is the film inspirational?",
+                0.7168595147568815
+            ],
+            [
+                "13_\"my all american\" plays like an extended highlights reel, not a movie.",
+                -0.5556316684028839
+            ],
+            [
+                "14_the freddie steinmark story, the film doesn't offer any surprises as it marches to its weepy conclusion.",
+                -0.5638081925580134
+            ],
+            [
+                "16_strict adherence to the playbook may work in sports, ",
+                -0.6434132381428843
+            ],
+            [
+                "16_ \"my all american\" shows the pitfalls of that approach with movies.",
+                0.6948944443901619
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Angelo Pizzo": {
+                "args": [
+                    [
+                        "5_this is ideal fodder for pizzo's brand of college-sports inspiration, ",
+                        0.6941766941259748
+                    ],
+                    [
+                        "6_whether it's because of energy expended on dramatic tangents or because the story's difficult outcome demands a subtler touch, the film doesn't hit the emotional crescendo that pizzo clearly pictures.",
+                        -0.5764530423621377
+                    ],
+                    [
+                        "10_for all its basis in real-world events, pizzo's scenario - adapted from the book \"courage beyond the game: the freddie steinmark story\" by jim dent - plays like thoroughly predictable, by-the-numbers fiction.",
+                        0.5320981214874007
+                    ],
+                    [
+                        "11_like pizzo's earlier sports films, it follows an undersized, underestimated underdog through serious challenges toward a life-affirming climax.",
+                        0.5892261720704111
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_\"my all american\" would have done better to dig deeper in its portrayal of a man who set such a high bar for the intrinsic character of a football player.",
+                0.5825297668801649
+            ]
+        ],
+        "entities": {
+            "Angelo Pizzo": {
+                "args": []
+            }
+        }
+    }
+}

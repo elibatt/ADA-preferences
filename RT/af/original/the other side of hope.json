@@ -1,0 +1,119 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Janne Hyytiäinen": {
+                "args": []
+            },
+            "Ilkka Koivula": {
+                "args": []
+            },
+            "Kati Outinen": {
+                "args": []
+            },
+            "Tommi Korpela": {
+                "args": []
+            },
+            "Nuppu Koivu": {
+                "args": []
+            },
+            "Sherwan Haji": {
+                "args": []
+            },
+            "Simon Al-Bazoon": {
+                "args": []
+            },
+            "Kaija Pakarinen": {
+                "args": []
+            },
+            "Sakari Kuosmanen": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Aki Kaurismäki": {
+                "args": [
+                    [
+                        "0_aki kaurismäki's charmingly deadpan \"",
+                        0.56224772537506
+                    ],
+                    [
+                        "4_ think of the obvious, heavy-handed messaging we'd be spared if all directors followed kaurismäki's expert smuggling techniques.",
+                        -0.5704464808276098
+                    ],
+                    [
+                        "7_the deadpan irony and seemingly dispassionate air of finnish director aki kaurismäki's movies certainly aren't for everyone, ",
+                        0.5785618645334276
+                    ],
+                    [
+                        "8_[kaurismäki's] pessimism, always mercurial, seems to have mellowed, and that makes this film both more pleasing and less powerful.",
+                        0.7826587110155024
+                    ],
+                    [
+                        "10_the movie expands upon kaurismäki's central mode of observation and delivers some trenchant, upsetting truths about the immigration experience from the side of those seeking asylum.",
+                        0.6652382378515154
+                    ],
+                    [
+                        "15_finnish director aki kaurismäki delivers his timeliest and most heartfelt film, mixing humor, pathos, and anger.",
+                        0.7488991812155309
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Aki Kaurismäki": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the other side of hope\" should follow a similar path.",
+                0.6220606623233078
+            ],
+            [
+                "2_this kindhearted, unsentimental movie is a good way to celebrate finland, which celebrated its 100th anniversary as a free nation last week.",
+                0.6369002468409048
+            ],
+            [
+                "3_it's refreshing to see a film about the refugee crisis that doesn't rely on cliche, ",
+                0.7590709947306988
+            ],
+            [
+                "5_the guiding ethic of the other side of hope is as much topical as it universal: that altruism is not especially brave or courageous, ",
+                0.5840627740877588
+            ],
+            [
+                "9_despite its serious subject - the refugee crisis hitting europe - the other side of hope is also very funny, never losing sight of the droll, comic upside to life,",
+                0.5657632473628678
+            ],
+            [
+                "11_kaurismaki unashamedly believes in brotherhood, and among other things his film celebrates people who do the right thing without making a big deal about it.",
+                0.6964048909047322
+            ],
+            [
+                "14_ don't detract from the movie's essential quasi-documentary power.",
+                0.5606348525642708
+            ],
+            [
+                "18_a deeply humane film, as well as a quietly hilarious one.",
+                0.8791718399870263
+            ],
+            [
+                "19_this is a world that reeks of cigarette smoke and cheap vodka, yet as always in the work of finland's maestro of droll melancholy, the perfume that lingers longest is empathy.",
+                0.7232981768518159
+            ]
+        ]
+    }
+}

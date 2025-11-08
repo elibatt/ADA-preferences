@@ -1,0 +1,63 @@
+{
+    "film": {
+        "args": [
+            [
+                "4_it doesn't monkey around - that's left to the film's subjects, who are more than happy to oblige.",
+                0.6886670581348596
+            ],
+            [
+                "6_the film offers a valuable life lesson in the powers of determination and timing, ",
+                0.6968339367507284
+            ],
+            [
+                "7_you know how nature docs work.",
+                0.5021109584429639
+            ],
+            [
+                "10_it's hard to imagine what message children will take away from this film other than that monkeys are just like characters in a fictional disney movie, which they are not.",
+                0.5538174679147524
+            ],
+            [
+                "18_the film should hit the sweet spot for family audiences.",
+                0.793329289491842
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mark Linfield": {
+                "args": [
+                    [
+                        "13_with a lot of patience, and perhaps a little trickery, directors mark linfield and alastair fothergill have produced a simian \"cinderella.\"",
+                        0.5394849162785067
+                    ]
+                ]
+            },
+            "Alastair Fothergill": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Tina Fey": {
+                "args": [
+                    [
+                        "8_it's been clear for awhile now that tina fey rules. \"",
+                        0.5734180082833193
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"ode to my father\" is an epic south korean melodrama capturing more than half a century of recent history through the eyes of an everyman shopkeeper.",
+                0.590289164770637
+            ],
+            [
+                "1_\"ode to my father\" may have slain them in south korea, ",
+                -0.520392685852161
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    }
+}

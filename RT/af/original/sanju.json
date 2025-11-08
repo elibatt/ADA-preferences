@@ -1,0 +1,94 @@
+{
+    "writer": {
+        "entities": {
+            "Abhijat Joshi": {
+                "args": []
+            },
+            "Rajkumar Hirani": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rajkumar Hirani": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_a glorified infomercial about the life of a bollywood bad boy.",
+                -0.6443394174079722
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Ranbir Kapoor": {
+                "args": [
+                    [
+                        "0_mastering sanjay's trademark stooped gait, adopting his distinct baritone, with prosthetic hooded eyes, ranbir kapoor's physical transformation is nothing short of astounding.",
+                        0.5841205110333005
+                    ]
+                ]
+            },
+            "Javon Q. Minter": {
+                "args": []
+            },
+            "Sonam Kapoor": {
+                "args": []
+            },
+            "Jaideep Ahlawat": {
+                "args": []
+            },
+            "Diya Mirza": {
+                "args": []
+            },
+            "Anushka Sharma": {
+                "args": []
+            },
+            "Paresh Rawal": {
+                "args": []
+            },
+            "Ashwin Mushran": {
+                "args": []
+            },
+            "Jim Sarbh": {
+                "args": []
+            },
+            "Manisha Koirala": {
+                "args": []
+            },
+            "M.L. Josepher": {
+                "args": []
+            },
+            "Mahesh Manjrekar": {
+                "args": []
+            },
+            "Steven Allen": {
+                "args": []
+            },
+            "Tabu": {
+                "args": []
+            },
+            "Boman Irani": {
+                "args": []
+            },
+            "Nawab Shah": {
+                "args": []
+            },
+            "Vicky Kaushal": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

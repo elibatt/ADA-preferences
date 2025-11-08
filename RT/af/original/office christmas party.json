@@ -1,0 +1,177 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_yet another reminder that allowing your cast to madly improvise instead of actually providing a coherent script with a scintilla of logic often leads to a decline in sustained laughter.",
+                0.6033222544729427
+            ],
+            [
+                "4_, not even one laugh - affair that proves how indulgent and (worse) boring ensemble comedies such as this become when the ensemble has next to no natural chemistry and even less of a script to riff off of.",
+                -0.8286587753642563
+            ]
+        ],
+        "entities": {
+            "Laura Solon": {
+                "args": []
+            },
+            "Scott Moore": {
+                "args": []
+            },
+            "Jon Lucas": {
+                "args": []
+            },
+            "Justin Malen": {
+                "args": []
+            },
+            "Dan Mazer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_and every time the movie cuts from their mad antics ... the whole film starts to deflate a little, like a mylar balloon from the discount party store.",
+                -0.5726410290223638
+            ],
+            [
+                "5_like most office christmas parties, you should skip it.",
+                -0.503859622498468
+            ],
+            [
+                "6_office christmas party is the holiday comedy movie version of such a business.",
+                -0.5421433529423252
+            ],
+            [
+                "8_office christmas party, cobbled together by six writers, doesn't have the confidence to build its story through the interplay of its employees, and it soon tires of office politics.",
+                -0.7881173111554829
+            ],
+            [
+                "9_you know those office christmas parties where everyone tries to look like they're having a good time, ",
+                0.5110849950134347
+            ],
+            [
+                "11_you admire their individual talent while the movie around them sags and lurches.",
+                0.5402113382303765
+            ],
+            [
+                "18_\"office christmas party\" is an invitation to the kind of mind-and-conscience-erasing escapism that doesn't really exist outside of movie theaters.",
+                0.5402549582542148
+            ],
+            [
+                "20_it's barely a movie at all, more just a bunch of strung-together set pieces about a wild party that features a group of really funny people operating below their station.",
+                -0.5104022188182276
+            ],
+            [
+                "21_in a film that sporadically attempts to progressively satirize pc workplace culture, the sour smell of misogyny pervades the mulled-wine aroma.",
+                -0.6088245165341223
+            ],
+            [
+                "22_in its own r-rated way, it's safe for work.",
+                0.6796224157542233
+            ],
+            [
+                "23_\"office christmas party\" is one of those movies that rounds up a terrific cast and then leaves them stranded with nothing to do - like, well, maybe some people at your office.",
+                0.5837166188437731
+            ],
+            [
+                "26_for a movie that was advertised as the wildest bash of the year, \"office christmas party\" has a few too many plotlines and not enough actual debauchery.",
+                -0.7292398899701781
+            ],
+            [
+                "27_the movie wants to channel the anarchic spirit of national lampoon productions and movies like \"bachelor party,\" where a donkey dies in the elevator, and it succeeds to a degree.",
+                0.5804312897408929
+            ],
+            [
+                "30_this is a studio comedy on auto-pilot, a movie that lets its title do the vast majority of the heavy lifting.",
+                -0.6252825755912648
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "2_yet another reminder that allowing your cast to madly improvise instead of actually providing a coherent script with a scintilla of logic often leads to a decline in sustained laughter.",
+                0.6033222544729427
+            ],
+            [
+                "23_\"office christmas party\" is one of those movies that rounds up a terrific cast and then leaves them stranded with nothing to do - like, well, maybe some people at your office.",
+                0.5837166188437731
+            ],
+            [
+                "25_it benefits from an excellent cast, who seem to be all in.",
+                0.7583881073028936
+            ]
+        ],
+        "entities": {
+            "Olivia Munn": {
+                "args": []
+            },
+            "Jamie Chung": {
+                "args": []
+            },
+            "Randall Park": {
+                "args": []
+            },
+            "Karan Soni": {
+                "args": []
+            },
+            "Kate McKinnon": {
+                "args": []
+            },
+            "T.J. Miller": {
+                "args": []
+            },
+            "Jennifer Aniston": {
+                "args": [
+                    [
+                        "13_which is what you'd hope from a cast featuring some of the funniest actors around, among them kate mckinnon, jason bateman, jennifer aniston, rob corddry, t.j. miller and jillian bell.",
+                        0.6436258738750682
+                    ]
+                ]
+            },
+            "Jason Bateman": {
+                "args": []
+            },
+            "Jillian Bell": {
+                "args": []
+            },
+            "Sam Richardson": {
+                "args": []
+            },
+            "Courtney B. Vance": {
+                "args": []
+            },
+            "Rob Corddry": {
+                "args": []
+            },
+            "Vanessa Bayer": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Will Speck": {
+                "args": [
+                    [
+                        "12_sometimes the movie, directed by josh gordon and will speck, is too obviously just a framework for its stars to deploy goofy schtick, ",
+                        -0.5560498242070453
+                    ],
+                    [
+                        "15_co-directors josh gordon and will speck team with any number of amusing performers here, wasting all ",
+                        0.6047755665900003
+                    ]
+                ]
+            },
+            "Josh Gordon": {
+                "args": []
+            }
+        }
+    }
+}

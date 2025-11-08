@@ -1,0 +1,152 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Nisse Vestblom": {
+                "args": []
+            },
+            "Oscar Salomonsson": {
+                "args": []
+            },
+            "Nils Westblom": {
+                "args": []
+            },
+            "Viktor Gyllenberg": {
+                "args": []
+            },
+            "Charlotta Larsson": {
+                "args": []
+            },
+            "Jonas Gerholm": {
+                "args": []
+            },
+            "Roger Olsen Likvern": {
+                "args": []
+            },
+            "Ola Stensson": {
+                "args": []
+            },
+            "Lotti Törnros": {
+                "args": []
+            },
+            "Holger Andersson": {
+                "args": [
+                    [
+                        "3_if you've ever wondered, \"what if ingmar bergman directed upright citizens brigade?\" then andersson is the director for you.",
+                        0.6650694693168127
+                    ],
+                    [
+                        "5_ andersson does a dynamite job alchemizing despair into big, albeit deadpan, laughs, and the ugliness and banality of everyday existence into moments of beauty ...",
+                        0.7356509829603007
+                    ],
+                    [
+                        "8_i think every moment of this film has been carefully calibrated, and that andersson achieves the effect he seeks.",
+                        -0.5091456020137288
+                    ],
+                    [
+                        "10_swedish director roy andersson has a distinctive style",
+                        0.614126231191899
+                    ],
+                    [
+                        "13_each shot in an andersson film is part diorama, part theatrical performance, part moviemaking the way thomas edison did it:",
+                        0.5542491437826744
+                    ],
+                    [
+                        "14_if fun does not really fit into roy andersson's frame of reference, there is ample pleasure to be gleaned from his formal discipline and his downbeat wit.",
+                        0.733913601347992
+                    ],
+                    [
+                        "15_ andersson compels us to laugh at a grand joke - no less than existence itself - and the punchline stings.",
+                        -0.5674814003134405
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "17_the director's modus operandi-static, meticulously arranged long takes, shot in deep focus to use background and foreground space-is so entirely unique that it's impossible to not to get some joy out of just gawking at his films.",
+                0.5066186476568204
+            ]
+        ],
+        "entities": {
+            "Roy Andersson": {
+                "args": [
+                    [
+                        "3_if you've ever wondered, \"what if ingmar bergman directed upright citizens brigade?\" then andersson is the director for you.",
+                        0.6650694693168127
+                    ],
+                    [
+                        "5_ andersson does a dynamite job alchemizing despair into big, albeit deadpan, laughs, and the ugliness and banality of everyday existence into moments of beauty ...",
+                        0.7356509829603007
+                    ],
+                    [
+                        "8_i think every moment of this film has been carefully calibrated, and that andersson achieves the effect he seeks.",
+                        -0.5091456020137288
+                    ],
+                    [
+                        "10_swedish director roy andersson has a distinctive style",
+                        0.614126231191899
+                    ],
+                    [
+                        "13_each shot in an andersson film is part diorama, part theatrical performance, part moviemaking the way thomas edison did it:",
+                        0.5542491437826744
+                    ],
+                    [
+                        "14_if fun does not really fit into roy andersson's frame of reference, there is ample pleasure to be gleaned from his formal discipline and his downbeat wit.",
+                        0.733913601347992
+                    ],
+                    [
+                        "15_ andersson compels us to laugh at a grand joke - no less than existence itself - and the punchline stings.",
+                        -0.5674814003134405
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Roy Andersson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_a melancholy hoot of a movie.",
+                0.6236523377960378
+            ],
+            [
+                "5_the film's tone may be one of unrelenting absurdist melancholy, ",
+                0.7527797677986514
+            ],
+            [
+                "7_pigeon is a film designed to confound and provoke, sometimes to wearying effect.",
+                -0.5317435385981751
+            ],
+            [
+                "9_for all the despair and horror on display in a pigeon sat on a branch reflecting on existence, you walk out of it as if on a cloud, light and hopeful.",
+                0.6743764566791344
+            ],
+            [
+                "10_ his film is lit like a waiting room at rikers island and the actors look like victims of advanced cirrhosis.",
+                0.5370415962659549
+            ],
+            [
+                "11_the film skips from one quick-hit existential rim-shot moment to the next ",
+                -0.5971374375690195
+            ],
+            [
+                "18_ the film is rarely laugh-out-loud funny.",
+                0.6165646301582879
+            ]
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the result is hardass yet hypnotically beautiful.",
+                0.6274618727181784
+            ],
+            [
+                "1_ it does find an angle on the riots that hasn't been seen much onscreen.",
+                -0.6092870284294896
+            ],
+            [
+                "2_chon's tale is ... praiseworthy, from its beautiful cinematography (by ante cheng in her feature de",
+                0.8831557298112098
+            ],
+            [
+                "2_) to its take on infamous events from a fresh perspective.",
+                0.7064837852726935
+            ],
+            [
+                "4_ also the broad drift of generations.",
+                0.6252888028169743
+            ],
+            [
+                "5_chon's dense, ambitious, and observant film is full of impressive craft and insight.",
+                0.6932834674238666
+            ],
+            [
+                "6_raw and compelling from its poetic opening shot to its gut-punch finale, gook doesn't always find the best way to express itself, ",
+                0.6502659080407625
+            ],
+            [
+                "6_ it knows what needs to be said.",
+                -0.5453708033203437
+            ],
+            [
+                "7_there's not much to take away from the movie besides its sound and fury.",
+                -0.548359940993473
+            ],
+            [
+                "8_chon directs with style and a humane eye for all parties",
+                0.7367196920016856
+            ],
+            [
+                "8_ he's a dynamic young director to keep your eye on.",
+                0.6221347493242005
+            ],
+            [
+                "9_ bristling with life, and it offers a new perspective on a calamitous moment, one whose 25th anniversary has been commemorated in recent months with a slew of potent documentaries.",
+                0.7752737328032113
+            ],
+            [
+                "10_nodding to spike lee's do the right thing and kevin smith's clerks",
+                0.7388010063554541
+            ],
+            [
+                "10_, this sophomore feature exemplifies the grunge and angst-ridden energy of the 90s, with a humorous streak as frank as its racially charged title.",
+                0.6632796813279703
+            ],
+            [
+                "11_gook may not come close to the electric greatness of lee's 1989 film ",
+                0.5041737990203248
+            ],
+            [
+                "11_, as a gesture in its direction, it's alive with biting promise.",
+                0.6961870398736911
+            ],
+            [
+                "12_chon's sophomore feature wavers uncertainly in tone, getting a little too cute for comfort in spots, ",
+                0.6273048075830915
+            ],
+            [
+                "12_ a lively, auspicious breakthrough.",
+                0.6900653288795489
+            ],
+            [
+                "13_[gook] has the air of someone working through ideas, ",
+                -0.6505973050312187
+            ],
+            [
+                "13_ damn if you can't see the passion in every single frame of this movie.",
+                -0.6404361764383284
+            ],
+            [
+                "14_gook rises above message-movie mediocrity, enjoying its characters too much to use them as political mouthpieces.",
+                -0.6808580147553385
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "8_ he's a dynamic young director to keep your eye on.",
+                0.6221347493242005
+            ]
+        ],
+        "entities": {
+            "Justin Chon": {
+                "args": [
+                    [
+                        "1_the film isn't perfect - mr. chon's wild camera motions seem more undisciplined than electric - ",
+                        -0.5929714280954141
+                    ],
+                    [
+                        "3_ viewers who can forgive some of its shortcomings will be rewarded, and look forward to whatever chon may come up with next.",
+                        0.6905173820349981
+                    ],
+                    [
+                        "4_at gook's best, chon captures, with sharply memorable dialogue, both the essence of his particular characters ",
+                        0.7995978898805415
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Simone Baker": {
+                "args": []
+            },
+            "César García": {
+                "args": []
+            },
+            "Ben Munoz": {
+                "args": []
+            },
+            "Curtiss Cook Jr.": {
+                "args": []
+            },
+            "Justin Chon": {
+                "args": [
+                    [
+                        "1_the film isn't perfect - mr. chon's wild camera motions seem more undisciplined than electric - ",
+                        -0.5929714280954141
+                    ],
+                    [
+                        "3_ viewers who can forgive some of its shortcomings will be rewarded, and look forward to whatever chon may come up with next.",
+                        0.6905173820349981
+                    ],
+                    [
+                        "4_at gook's best, chon captures, with sharply memorable dialogue, both the essence of his particular characters ",
+                        0.7995978898805415
+                    ]
+                ]
+            },
+            "Sang Chon": {
+                "args": []
+            },
+            "David So": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Justin Chon": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jo Hartley": {
+                "args": []
+            },
+            "Daniel Westwood": {
+                "args": []
+            },
+            "Sascha Manuel Hodak": {
+                "args": []
+            },
+            "Laura Black": {
+                "args": []
+            },
+            "Christopher Walken": {
+                "args": []
+            },
+            "Karl Farrer": {
+                "args": []
+            },
+            "Brent Phebey": {
+                "args": []
+            },
+            "Ruth Shaw": {
+                "args": []
+            },
+            "Jassie Mortimer": {
+                "args": []
+            },
+            "Mads Sjøgård Pettersen": {
+                "args": []
+            },
+            "Billy Holland": {
+                "args": []
+            },
+            "Jessica Williams": {
+                "args": []
+            },
+            "Hugh Jackman": {
+                "args": [
+                    [
+                        "27_hugh jackman doesn't play wolverine in \"eddie the eagle,\" which is too bad.",
+                        -0.9000599957705908
+                    ]
+                ]
+            },
+            "Austin Burrows": {
+                "args": []
+            },
+            "Anthony Chisholm": {
+                "args": []
+            },
+            "Guna Gultniece": {
+                "args": []
+            },
+            "Katie Hudson": {
+                "args": []
+            },
+            "Rune Temte": {
+                "args": []
+            },
+            "Tim McInnerny": {
+                "args": []
+            },
+            "Christopher Marsh": {
+                "args": []
+            },
+            "Bron James": {
+                "args": []
+            },
+            "Graham Fletcher-Cook": {
+                "args": []
+            },
+            "Michael Jeffries": {
+                "args": []
+            },
+            "Kheira Bey": {
+                "args": []
+            },
+            "Michael Rauth": {
+                "args": []
+            },
+            "Tomasz Dabrowski": {
+                "args": []
+            },
+            "Lasco Atkins": {
+                "args": []
+            },
+            "Daniel Ings": {
+                "args": []
+            },
+            "Matthew Brandon": {
+                "args": []
+            },
+            "Ania Sowinski": {
+                "args": []
+            },
+            "Taron Egerton": {
+                "args": [
+                    [
+                        "1_taron egerton reproduces eddie's offbeat charm, turning him into an asperger's afflicted champion of the undertrodden.",
+                        0.6243082417609697
+                    ],
+                    [
+                        "13_ egerton is terrific as the unlikely olympian and jackman makes a fictitious character seem almost real.",
+                        0.6735218031303423
+                    ],
+                    [
+                        "14_ thanks to the performances of hugh jackman and taron egerton, the end result is a family film that's highly entertaining.",
+                        0.8733354507434712
+                    ]
+                ]
+            },
+            "Martyn Mayger": {
+                "args": []
+            },
+            "Caolan McClafferty": {
+                "args": []
+            },
+            "Garry Moore": {
+                "args": []
+            },
+            "Mac Pietowski": {
+                "args": []
+            },
+            "Anastasia Harrold": {
+                "args": []
+            },
+            "Tony Paul West": {
+                "args": []
+            },
+            "Marc Benjamin": {
+                "args": []
+            },
+            "Russell Balogh": {
+                "args": []
+            },
+            "Edvin Endre": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "23_the secret service director matthew vaughn, of all people-is cheerful and unpretentious.",
+                0.6754390743846973
+            ]
+        ],
+        "entities": {
+            "Dexter Fletcher": {
+                "args": [
+                    [
+                        "12_director dexter fletcher shoves inspiration down your throat until you gag or give in.",
+                        0.5054927232870955
+                    ],
+                    [
+                        "15_director dexter fletcher paints eddie's story in broad, bold strokes, never missing an opportunity to milk a suspenseful dramatic turn or go for the relatively easy laugh -- ",
+                        0.5024559842835092
+                    ],
+                    [
+                        "16_this inspirational heart-warmer from director dexter fletcher is the cinematic equivalent of a hug.",
+                        0.5866647551483026
+                    ],
+                    [
+                        "28_ hopelessly fluffy affair directed by dexter fletcher that slaloms around complete hokum thanks to a pair of winning performances.",
+                        0.8137774797215355
+                    ],
+                    [
+                        "30_if director dexter fletcher's loose adaptation of edwards' story often seems content to mimic \"cool runnings\" beat for beat, at least it picks a bar it can safely clear.",
+                        -0.5479017488503738
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "13_ egerton is terrific as the unlikely olympian and jackman makes a fictitious character seem almost real.",
+                0.6735218031303423
+            ]
+        ],
+        "entities": {
+            "Sean Macaulay": {
+                "args": []
+            },
+            "Simon Kelton": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_eddie the eagle tries to have it both ways with its main subject, simultaneously ridiculing and ennobling him.",
+                -0.5060070929026306
+            ],
+            [
+                "3_while it's often cookie-cutter sports movie conventional, you'd have to be stone-hearted to remain un-charmed.",
+                -0.5546665466440645
+            ],
+            [
+                "7_the people responsible for \"eddie the eagle\" might have made a better movie about samuel f.b. morse, since they're devoted to telegraphing every plot point and potential surprise.",
+                -0.615041256549973
+            ],
+            [
+                "9_ this film doesn't seem to trust the inherent likability of his story.",
+                -0.5976280062500587
+            ],
+            [
+                "17_the infectious \"eddie the eagle\" succeeds by mining both aspects of edwards's story with an equally deft touch.",
+                0.8826006698866042
+            ],
+            [
+                "19_it's a movie as warm and fuzzy as a comfortable blanket, and as safe as the milk edwards prefers to anything stronger.",
+                0.8036991347151642
+            ],
+            [
+                "20_ it turns out that the film's story is 90 percent fiction.",
+                -0.561520419907973
+            ],
+            [
+                "21_while it is stretching the truth to call \"eddie the eagle\" a good film, it is without question a nice one.",
+                0.8012931888816986
+            ],
+            [
+                "22_\"eddie the eagle\" leaves viewers buoyed by satisfactions unique to classic come-from-behind stories.",
+                0.6229535270296547
+            ],
+            [
+                "23_like its protagonist, the film-produced by kick-ass and kingsman:",
+                0.5600502640569945
+            ],
+            [
+                "24_it's a shame that a movie about a man with zero athletic ability, who had the fearlessness to attempt a perilous 90-meter ski jump for the first time ever in front of a rapt olympic audience, takes no chances.",
+                -0.7614361129400701
+            ],
+            [
+                "26_the film never admits it, ",
+                0.5082417879174183
+            ],
+            [
+                "27_the film deserves to be slashed to bits.",
+                0.5935685667384614
+            ],
+            [
+                "29_designed for audiences who will throw their weight behind the film's schmaltz and sentimentality.",
+                0.5139942836566771
+            ],
+            [
+                "29_anyone unwilling to commit to the movie's shamelessness will feel like they've hit the ground headfirst.",
+                -0.7404465810600012
+            ]
+        ]
+    }
+}

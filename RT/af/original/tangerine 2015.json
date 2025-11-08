@@ -1,0 +1,360 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_\"tangerine\" has generated interest partly because it was made using iphones augmented by other devices.",
+                -0.6112247008685909
+            ],
+            [
+                "8_as one character observes in \"tangerine,\" los angeles is \"a beautifully wrapped lie.\"",
+                0.533068610185376
+            ],
+            [
+                "20_the film is clearly not for everyone",
+                0.6196401637388577
+            ],
+            [
+                "24_\"tangerine\" offers a warts-and-all depiction of a subculture seldom treated with respect by straight society.",
+                0.8141227678606522
+            ],
+            [
+                "24_the movie handles it in a sincere way that's entertaining, too.",
+                0.7289993108552989
+            ],
+            [
+                "25_what's extraordinary about tangerine is that it's everything an entertaining, old-fashioned, mainstream hollywood comedy should be ",
+                0.8159808978545064
+            ],
+            [
+                "26_tangerine is all about possibility, and about becoming.",
+                0.5671137036649107
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Sean Baker (II) ": {
+                "args": [
+                    [
+                        "17_ baker makes it feel bigger and louder and crazier than that.",
+                        0.5322128653735121
+                    ],
+                    [
+                        "30_it's the warmth and absence of judgment or condescension toward its marginalized characters that make sean baker's film such a vibrant and uplifting snapshot.",
+                        0.7378057426683848
+                    ],
+                    [
+                        "31_'starlet' helmer sean baker delivers another compassionate portrait of life on the l.a. margins with this big-hearted, low-budget tale of two transgender prostitutes.",
+                        0.6961576785210672
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Graham Mackie": {
+                "args": []
+            },
+            "Matthew Olsen": {
+                "args": []
+            },
+            "Khris Dickerson": {
+                "args": []
+            },
+            "Chelcie Lynn": {
+                "args": []
+            },
+            "Mickey O'Hagan": {
+                "args": []
+            },
+            "Ralph Villalobos": {
+                "args": []
+            },
+            "Chris Bergoch": {
+                "args": []
+            },
+            "Scott Lyons": {
+                "args": []
+            },
+            "Kymber Allen": {
+                "args": []
+            },
+            "Clu Gulager": {
+                "args": []
+            },
+            "Mia Hurley": {
+                "args": []
+            },
+            "Arsen Grigoryan": {
+                "args": []
+            },
+            "Nikie The Dog": {
+                "args": [
+                    [
+                        "0_ technology can only take a film so far - it's the story that really matters.",
+                        0.6202169780088463
+                    ],
+                    [
+                        "2_: there are moments of quietude, inquietude, moments when a sense of wariness and loneliness settles over the women.",
+                        0.6032652246880245
+                    ],
+                    [
+                        "3_\"tangerine\" is the wildest screwball transgender comedy since tony curtis and jack lemmon donned lipstick, mascara and full-tilt female get-ups in \"some like it hot.\"",
+                        -0.6256312523672576
+                    ],
+                    [
+                        "5_it's not the technology and law-breaking that make this movie so ingeniously unique.",
+                        0.5582561029088908
+                    ],
+                    [
+                        "5_it's the people, the place, the electric sense of movement and the biting sense of humor.",
+                        0.7411882612873624
+                    ],
+                    [
+                        "7_in effect, \"tangerine\" offers a saccharine alternative to the uncut realism of the safdie brothers' \"heaven knows what.\"",
+                        0.6944243846033236
+                    ],
+                    [
+                        "8_baker has created a fitting homage to artifice and the often tawdry, tender realities that lie beneath.",
+                        0.8122454229562044
+                    ],
+                    [
+                        "11_tangerine is a great los angeles movie and a great indie and a great reminder of the possibilities of creativity during a time when everything is a sequel or a reboot or a comic-book spectacle.",
+                        0.8660426672463941
+                    ],
+                    [
+                        "12_a necessary portrait of a multiracial l.a. as a concrete-surfaced hard-knocks-a-thon... as well as a hilarious and high-spirited comedy with a dramatic, third-act curve ball that reminds us that there are aching hearts under the quips and weaves.",
+                        0.842979267728261
+                    ],
+                    [
+                        "13_this is a gorgeous, timely and possibly profound human comedy, and if there's no disentangling the medium from the message that's because both are powerful and ambiguous.",
+                        0.8341251833059088
+                    ],
+                    [
+                        "15_a sneaky slice-of-life indie that comes on all casual and cinéma-verité in the early scenes, then slowly coalesces into a romantic comedy as intricately constructed as any door-slamming stage farce.",
+                        0.6015895577440014
+                    ],
+                    [
+                        "16_shot on an iphone 5 for practically no money, tangerine jumps off the screen and wows you like nobody's business.",
+                        -0.6829836046502591
+                    ],
+                    [
+                        "18_the chemistry of the leads and their authentic, crackling dialogue make it a pleasure to tag along for the day.",
+                        0.8681059922688206
+                    ],
+                    [
+                        "22_for all of tangerine's movement ... and all of its slapping and arguing, it's the movie's quietest, softest moments that register most strongly ...",
+                        0.6174235837717237
+                    ],
+                    [
+                        "23_[a] fresh, funny and acutely human comedy about a day in the life of some of hollywood's edgier residents.",
+                        0.8556169183161997
+                    ],
+                    [
+                        "27_tangerine is touching for its non-condescending stance toward working girls and the spirit of the sidewalk.",
+                        0.7099864097586848
+                    ],
+                    [
+                        "28_baker revels in the power of clichés and the generic energy of his low-fi cinematography, which is done with a cell phone.",
+                        0.5386469037878785
+                    ],
+                    [
+                        "30_it's the warmth and absence of judgment or condescension toward its marginalized characters that make sean baker's film such a vibrant and uplifting snapshot.",
+                        0.7378057426683848
+                    ],
+                    [
+                        "31_'starlet' helmer sean baker delivers another compassionate portrait of life on the l.a. margins with this big-hearted, low-budget tale of two transgender prostitutes.",
+                        0.6961576785210672
+                    ]
+                ]
+            },
+            "Darren Dean": {
+                "args": []
+            },
+            "Jory Goodman": {
+                "args": []
+            },
+            "Helene Vitagliano": {
+                "args": []
+            },
+            "Alla Tumanian": {
+                "args": []
+            },
+            "August Stout": {
+                "args": []
+            },
+            "Richie Lillard": {
+                "args": []
+            },
+            "Josh Sussman": {
+                "args": []
+            },
+            "June Rosewood": {
+                "args": []
+            },
+            "Mya Taylor": {
+                "args": [
+                    [
+                        "4_rodriguez and taylor are terrific.",
+                        0.679274287210088
+                    ]
+                ]
+            },
+            "Teresa Margarian Nelson": {
+                "args": []
+            },
+            "Holly Jane Love": {
+                "args": [
+                    [
+                        "19_little is as it seems in \"tangerine,\" a fast, raucously funny comedy about love and other misadventures.",
+                        0.8299604227361138
+                    ],
+                    [
+                        "20_ it's steadfastly nonjudgmental and wonderfully tender toward two searchers for new versions of old-fashioned love.",
+                        0.8254244751124971
+                    ]
+                ]
+            },
+            "Roxana Guirola": {
+                "args": []
+            },
+            "Tess Hunt": {
+                "args": []
+            },
+            "Shanyce Nivaye": {
+                "args": []
+            },
+            "Joshua Sussman": {
+                "args": []
+            },
+            "Ana Foxx": {
+                "args": []
+            },
+            "Kitana Kiki Rodriguez": {
+                "args": []
+            },
+            "Scott Krinsky": {
+                "args": []
+            },
+            "Gayane Avaryan": {
+                "args": []
+            },
+            "Rae L. Siskind": {
+                "args": []
+            },
+            "Melanie Booth": {
+                "args": []
+            },
+            "Angelique Banks": {
+                "args": []
+            },
+            "Melissa Trader": {
+                "args": []
+            },
+            "John Gulager": {
+                "args": []
+            },
+            "Alfred Lopez": {
+                "args": []
+            },
+            "Davida Strothers": {
+                "args": []
+            },
+            "Stu Hopkins": {
+                "args": []
+            },
+            "James Ransone": {
+                "args": []
+            },
+            "Genesis Green": {
+                "args": []
+            },
+            "Aida Morales": {
+                "args": []
+            },
+            "Karren Karaguilian": {
+                "args": []
+            },
+            "David Z. Stamp": {
+                "args": []
+            },
+            "Bianca Copeland": {
+                "args": []
+            },
+            "Julie Cummings": {
+                "args": []
+            },
+            "Ceda Margaryan": {
+                "args": []
+            },
+            "Anni Weisband": {
+                "args": []
+            },
+            "Shih-Ching Tsou": {
+                "args": []
+            },
+            "Ana Foxxx": {
+                "args": []
+            },
+            "Andrew D. Scoggins": {
+                "args": []
+            },
+            "Adam Wood": {
+                "args": []
+            },
+            "Katrina Remero": {
+                "args": []
+            },
+            "Justin Premo": {
+                "args": []
+            },
+            "Krishne Chelliah": {
+                "args": []
+            },
+            "Bebe Maya": {
+                "args": []
+            },
+            "Lola Francis": {
+                "args": []
+            },
+            "Ian Edwards": {
+                "args": []
+            },
+            "Jason Stuart": {
+                "args": []
+            },
+            "Lazano Torres": {
+                "args": []
+            },
+            "James Williams": {
+                "args": []
+            },
+            "Linda Macon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Chris Bergoch": {
+                "args": []
+            },
+            "Sean Baker (II) ": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_as one character observes in \"tangerine,\" los angeles is \"a beautifully wrapped lie.\"",
+                0.533068610185376
+            ]
+        ]
+    }
+}

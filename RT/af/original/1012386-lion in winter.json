@@ -1,0 +1,107 @@
+{
+    "writer": {
+        "args": [
+            [
+                "7_one of the joys which movies provide too rarely is the opportunity to see a literate script handled intelligently.",
+                0.6372315232896456
+            ]
+        ],
+        "entities": {
+            "James Goldman": {
+                "args": [
+                    [
+                        "2_james goldman's screenplay, so chic and sophisticated to the ears of suburbanites, is chock-full of the worst kind of sophomoric fiddling with what goldman takes to be genuine highfalutin lingo.",
+                        -0.7482609995835947
+                    ],
+                    [
+                        "4_director anthony harvey opened up goldman's play into authentic spaces far from any proscenium, and remained faithful to an energetic drama propelled by its performances and dialogue.",
+                        0.6369335422833102
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kenneth Griffith": {
+                "args": []
+            },
+            "Jane Merrow": {
+                "args": []
+            },
+            "Mark Griffith": {
+                "args": []
+            },
+            "Karol Hagar": {
+                "args": []
+            },
+            "Nigel Terry": {
+                "args": []
+            },
+            "Katharine Hepburn": {
+                "args": [
+                    [
+                        "0_all that's ever mattered about the lion in winter are hepburn and o'toole, and the pleasure we take from watching two masters inspire each other to greatness.",
+                        0.7104835524588408
+                    ],
+                    [
+                        "3_an intense, fierce, personal drama put across by outstanding performances of peter o'toole and katherine hepburn.",
+                        0.7447525292415883
+                    ],
+                    [
+                        "8_one of the most revered films of all time...with hallmark performances from peter o'toole and katharine hepburn and the film de",
+                        0.7902330387013974
+                    ]
+                ]
+            },
+            "John Castle": {
+                "args": []
+            },
+            "Kenneth Ives": {
+                "args": []
+            },
+            "Henry Woolf": {
+                "args": []
+            },
+            "Peter O'Toole": {
+                "args": []
+            },
+            "Henry Wolff": {
+                "args": []
+            },
+            "Anthony Hopkins": {
+                "args": []
+            },
+            "O.Z. Whitehead": {
+                "args": []
+            },
+            "Nigel Stock": {
+                "args": []
+            },
+            "Timothy Dalton": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Anthony Harvey": {
+                "args": [
+                    [
+                        "4_director anthony harvey opened up goldman's play into authentic spaces far from any proscenium, and remained faithful to an energetic drama propelled by its performances and dialogue.",
+                        0.6369335422833102
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "acting": {
+        "entities": {
+            "Beth Crudele": {
+                "args": []
+            },
+            "Wendell Pierce": {
+                "args": []
+            },
+            "David Denman": {
+                "args": []
+            },
+            "Mirrah Foulkes": {
+                "args": []
+            },
+            "Nash Edgerton": {
+                "args": []
+            },
+            "Felicity Price": {
+                "args": []
+            },
+            "Jason Bateman": {
+                "args": [
+                    [
+                        "17_edgerton -- who also wrote the square and the story for the rover -- exploits bateman's smarty-pants persona to chilling effect",
+                        0.6184325147730233
+                    ],
+                    [
+                        "20_and bateman, hall and edgerton are three very interesting actors showcased in a confident directorial de",
+                        0.7238097648432039
+                    ]
+                ]
+            },
+            "Katie Aselton": {
+                "args": []
+            },
+            "David Joseph Craig": {
+                "args": []
+            },
+            "Beau Knapp": {
+                "args": []
+            },
+            "Joel Edgerton": {
+                "args": [
+                    [
+                        "4_ edgerton has remixed the formula.",
+                        0.507759383672495
+                    ],
+                    [
+                        "9_the true star of \"the gift\" is joel edgerton as director.",
+                        0.7144875220968805
+                    ],
+                    [
+                        "12_ edgerton doesn't overturn any new stones.",
+                        -0.6624696984219256
+                    ],
+                    [
+                        "19_more than anything, edgerton's script and direction demonstrate a keen understanding of tension and what puts an audience on edge.",
+                        0.7236837312323064
+                    ],
+                    [
+                        "22_ director joel edgerton, who manages to yank the carpet out from under his audience a couple of times.",
+                        0.6080166610635245
+                    ],
+                    [
+                        "25_ from writer, producer and actor joel edgerton.",
+                        0.558816125209497
+                    ],
+                    [
+                        "28_joel edgerton's feature-length directorial de",
+                        0.5076273699378102
+                    ],
+                    [
+                        "29_slick, sharp and terrifying, \"the gift\" is a truly brilliant thriller - and, one hopes, the first of many features from edgerton to come.",
+                        0.7935438508423733
+                    ]
+                ]
+            },
+            "Tim Griffin": {
+                "args": []
+            },
+            "Busy Philipps": {
+                "args": []
+            },
+            "Susan May Pratt": {
+                "args": []
+            },
+            "Rebecca Hall": {
+                "args": []
+            },
+            "Jyothsna Venkatesh": {
+                "args": []
+            },
+            "Melinda Allen": {
+                "args": []
+            },
+            "Allison Tolman": {
+                "args": []
+            },
+            "Laura Drake Mancini": {
+                "args": []
+            },
+            "Stacey Bender": {
+                "args": []
+            },
+            "Adam Lazarre-White": {
+                "args": []
+            },
+            "P.J. Byrne": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Joel Edgerton": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "9_his deft, control of plot, character, style, and tone is damn near perfect - even if it is in service of a very standard genre piece.",
+                0.8313259492916193
+            ],
+            [
+                "11_edgerton's touch as a director and writer is fluid - he eerily holds our attention, like hitchcock holds a door for tippi hedren.",
+                0.6817706257341781
+            ],
+            [
+                "19_more than anything, edgerton's script and direction demonstrate a keen understanding of tension and what puts an audience on edge.",
+                0.7236837312323064
+            ],
+            [
+                "20_at heart this is a three-character chamber piece.",
+                0.5772225008954422
+            ],
+            [
+                "22_a dark and ultimately quite nasty psychological thriller from actor/writer/de",
+                0.6503053001773622
+            ],
+            [
+                "25_ from writer, producer and actor joel edgerton.",
+                0.558816125209497
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_the gift is a tense, unsettling and expertly crafted psychological thriller that keeps the audience consistently on edge.",
+                0.6421421877108089
+            ],
+            [
+                "3_clever and atmospheric, the film has enough twists to keep the average viewer guessing.",
+                0.6871437175082781
+            ],
+            [
+                "4_officially, this is a blank-from-hell movie.",
+                -0.5882572540193272
+            ],
+            [
+                "5_the gift starts out like so many other thrillers before it - with an attractive, well-to-do couple purchasing a big new house - and then beats its own, uniquely tense and twisted path from there.",
+                0.7637264837390443
+            ],
+            [
+                "6_just when we think we know where the gift is going, we're surprised.",
+                0.6005955444257589
+            ],
+            [
+                "7_edgerton not only wrote the movie ",
+                -0.56534770157603
+            ],
+            [
+                "8_edgerton seems to have pulled \"the gift\" right out of a time capsule from 1992.",
+                -0.5079323810427021
+            ],
+            [
+                "10_\"the gift\" uses the tricks of the thriller trade well, ",
+                0.6993343973605168
+            ],
+            [
+                "16_one of the many gifts conferred by the gift is the unaccustomed pleasure of feeling like putty in the hands of a first-rate storyteller.",
+                0.7909325699298716
+            ],
+            [
+                "21_\"the gift\" stretches things a little too much for it to be a first-rate thriller.",
+                -0.674030202316325
+            ],
+            [
+                "24_underneath it all, \"the gift\" is a merciless critique of an amoral corporate culture in which the ends justify the means, and lying and cheating are o.k., as long as they're not found out.",
+                0.5498636507268548
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Joel Edgerton": {
+                "args": [
+                    [
+                        "4_ edgerton has remixed the formula.",
+                        0.507759383672495
+                    ],
+                    [
+                        "9_the true star of \"the gift\" is joel edgerton as director.",
+                        0.7144875220968805
+                    ],
+                    [
+                        "12_ edgerton doesn't overturn any new stones.",
+                        -0.6624696984219256
+                    ],
+                    [
+                        "19_more than anything, edgerton's script and direction demonstrate a keen understanding of tension and what puts an audience on edge.",
+                        0.7236837312323064
+                    ],
+                    [
+                        "20_and bateman, hall and edgerton are three very interesting actors showcased in a confident directorial de",
+                        0.7238097648432039
+                    ],
+                    [
+                        "22_ director joel edgerton, who manages to yank the carpet out from under his audience a couple of times.",
+                        0.6080166610635245
+                    ],
+                    [
+                        "25_ from writer, producer and actor joel edgerton.",
+                        0.558816125209497
+                    ],
+                    [
+                        "28_joel edgerton's feature-length directorial de",
+                        0.5076273699378102
+                    ],
+                    [
+                        "29_slick, sharp and terrifying, \"the gift\" is a truly brilliant thriller - and, one hopes, the first of many features from edgerton to come.",
+                        0.7935438508423733
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "11_edgerton's touch as a director and writer is fluid - he eerily holds our attention, like hitchcock holds a door for tippi hedren.",
+                0.6817706257341781
+            ]
+        ]
+    }
+}

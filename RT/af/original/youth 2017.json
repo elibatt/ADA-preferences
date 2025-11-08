@@ -1,0 +1,72 @@
+{
+    "director": {
+        "args": [
+            [
+                "5_youth, for all its technical prowess, is perhaps the director's most melancholy and pessimistic film about chinese society yet.",
+                0.782316528381435
+            ]
+        ],
+        "entities": {
+            "Feng Xiaogang": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_while there are a lot of conventional tropes, the cast enacts them with such fresh, tenderhearted sincerity that they regain some power.",
+                0.741826741512428
+            ]
+        ],
+        "entities": {
+            "Miao Miao": {
+                "args": []
+            },
+            "Zhong Chuxi": {
+                "args": []
+            },
+            "Xuan Huang": {
+                "args": []
+            },
+            "Yang Caiyu": {
+                "args": []
+            },
+            "Li Xiaofeng": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Yan Geling": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the film still generates a certain amount of fascination as it transforms into a melodramatic love story, ",
+                0.8074392293989496
+            ],
+            [
+                "3_as a straight, sentimental melodrama, \"youth\" works well.",
+                0.7243437041962931
+            ],
+            [
+                "5_youth, for all its technical prowess, is perhaps the director's most melancholy and pessimistic film about chinese society yet.",
+                0.782316528381435
+            ],
+            [
+                "6_the film serves as a paean to idealism and endurance, yet the word \"heart-breaking\" comes to mind scene after scene.",
+                0.5260245686714838
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

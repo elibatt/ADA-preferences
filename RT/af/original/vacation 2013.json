@@ -1,0 +1,292 @@
+{
+    "acting": {
+        "entities": {
+            "Holly Gardner": {
+                "args": []
+            },
+            "Elizabeth Gillies": {
+                "args": []
+            },
+            "Nadine Avola": {
+                "args": []
+            },
+            "Ryan Cartwright": {
+                "args": []
+            },
+            "O'Clair Alexander": {
+                "args": []
+            },
+            "Miles Doleac": {
+                "args": []
+            },
+            "Emyri Crutchfield": {
+                "args": []
+            },
+            "Kirstin Ford": {
+                "args": []
+            },
+            "Nick Kroll": {
+                "args": []
+            },
+            "Hannah Davis": {
+                "args": []
+            },
+            "David Clennon": {
+                "args": []
+            },
+            "Ethan Maher": {
+                "args": []
+            },
+            "John Francis Daley": {
+                "args": []
+            },
+            "Elizabeth Fendrick": {
+                "args": []
+            },
+            "Michael H. Cole": {
+                "args": []
+            },
+            "Brooke Jaye Taylor": {
+                "args": []
+            },
+            "Skyler Gisondo": {
+                "args": []
+            },
+            "Christina Applegate": {
+                "args": []
+            },
+            "Leslie Mann": {
+                "args": []
+            },
+            "Chevy Chase": {
+                "args": []
+            },
+            "Valerie Payton": {
+                "args": []
+            },
+            "Cristina Squyres": {
+                "args": []
+            },
+            "Colin Hanks": {
+                "args": []
+            },
+            "Regina Hall": {
+                "args": []
+            },
+            "Beverly D'Angelo": {
+                "args": []
+            },
+            "Mitchell Warren": {
+                "args": []
+            },
+            "Chris Hemsworth": {
+                "args": []
+            },
+            "Charlie Day": {
+                "args": []
+            },
+            "Matthew Cornwell": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Alkoya Brunson": {
+                "args": []
+            },
+            "Kaitlin Olson": {
+                "args": []
+            },
+            "Tim Heidecker": {
+                "args": []
+            },
+            "Michael Peña": {
+                "args": []
+            },
+            "Catherine Missal": {
+                "args": []
+            },
+            "Ron Livingston": {
+                "args": []
+            },
+            "Ed Helms": {
+                "args": [
+                    [
+                        "7_it falls to helms to carry the movie, and he's not quite up to it.",
+                        -0.5159452665208892
+                    ]
+                ]
+            },
+            "R.F. Daley": {
+                "args": [
+                    [
+                        "3_it's as if daley and goldstein started with a list of disgusting topics - outré sex acts, human waste, pubic hair, projectile vomiting, cow cannibalism, et al. - and constructed a narrative around them.",
+                        -0.5587994539850565
+                    ],
+                    [
+                        "12_whenever daley and goldstein have the opportunity to make any biting observations or mount sustained original gags, they floor it in the opposite direction.",
+                        -0.7080934158779378
+                    ],
+                    [
+                        "21_there's nothing to say that crass can't be funny - and it sometimes is in daley and goldstein's iteration - ",
+                        -0.6728398258035606
+                    ],
+                    [
+                        "27_vacation is an over-the-top, often hilarious homage to the original from the earnest and talented writing-directing team of john francis daley and jonathan goldstein.",
+                        0.7679665999733042
+                    ]
+                ]
+            },
+            "Steele Stebbins": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "31_a trip to the corner store with this cast of characters would be an endurance test - which, with any luck, is as far as the movie's box office returns will carry it.",
+                0.5317746802210209
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Jonathan M. Goldstein": {
+                "args": []
+            },
+            "John Francis Daley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "22_that sound you hear is john hughes and harold ramis, the writer and director of the original, rolling over in their graves.",
+                0.704281905368842
+            ],
+            [
+                "27_vacation is an over-the-top, often hilarious homage to the original from the earnest and talented writing-directing team of john francis daley and jonathan goldstein.",
+                0.7679665999733042
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_you can't do much worse at the movies than vacation.",
+                -0.7841299060811817
+            ],
+            [
+                "2_there's so much dead air in the film that i wondered whether punchlines had been cleaved out to secure a pg-13 rating, ",
+                -0.6746528176725042
+            ],
+            [
+                "6_vacation is lazy, idiotic, and gross - and i laughed my ass off at it.",
+                -0.7722806928216555
+            ],
+            [
+                "9_ the new movie may end up making history:",
+                0.5654774539630163
+            ],
+            [
+                "9_it's already looking like the worst movie of the year.",
+                -0.9374870064597438
+            ],
+            [
+                "10_the new vacation is both better than i'd feared and not as hilarious as i'd hoped.",
+                0.799462806114629
+            ],
+            [
+                "13_early on in this reboot, an adult rusty griswold declares, \"this vacation will stand on its own!\"",
+                -0.5467200176568636
+            ],
+            [
+                "15_a very funny r-rated movie with a pg-13 heart.",
+                0.7501243823975442
+            ],
+            [
+                "16_vacation passes the most important test of any comedy: it's funny.",
+                0.748622112995132
+            ],
+            [
+                "17_the kind of movie that exists because greenlighting it is easier than thinking.",
+                0.5670382556786204
+            ],
+            [
+                "18_lacks the wickedly funny spirit of the original \"vacation.\"",
+                0.7600048198593945
+            ],
+            [
+                "20_this new vacation is hardly an improvement on the old vacation, and may in fact be worse.",
+                -0.7363340040498182
+            ],
+            [
+                "21_ vacation loses any of the ooey-gooey, family-friendly heart that made you really want clark to get to walley world to begin with.",
+                -0.6735850756438976
+            ],
+            [
+                "23_\"vacation\" is, minute to minute, one of the most repellent, mean-spirited gross-out comedies it's ever been my squirmy displeasure to sit through.",
+                -0.7382348207241766
+            ],
+            [
+                "24_\"vacation\" is consistently funny from beginning to end, a piling on of dumb ",
+                -0.5752200832855537
+            ],
+            [
+                "25_in \"vacation\" you cringe first and ask questions later.",
+                0.6859904936127454
+            ],
+            [
+                "26_everyone deserves a vacation.",
+                0.5060238513758799
+            ],
+            [
+                "26_and everyone deserves a better comedy than \"vacation.\"",
+                0.6053549127306278
+            ],
+            [
+                "29_it makes you question whatever attachment you might have to the original, this lazy retread of harold ramis's 1983 vacation sours everything that's made that film such an undying fixture of basic cable.",
+                0.54613457396734
+            ],
+            [
+                "31_a trip to the corner store with this cast of characters would be an endurance test - which, with any luck, is as far as the movie's box office returns will carry it.",
+                0.5317746802210209
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jonathan M. Goldstein": {
+                "args": [
+                    [
+                        "3_it's as if daley and goldstein started with a list of disgusting topics - outré sex acts, human waste, pubic hair, projectile vomiting, cow cannibalism, et al. - and constructed a narrative around them.",
+                        -0.5587994539850565
+                    ],
+                    [
+                        "12_whenever daley and goldstein have the opportunity to make any biting observations or mount sustained original gags, they floor it in the opposite direction.",
+                        -0.7080934158779378
+                    ],
+                    [
+                        "21_there's nothing to say that crass can't be funny - and it sometimes is in daley and goldstein's iteration - ",
+                        -0.6728398258035606
+                    ],
+                    [
+                        "27_vacation is an over-the-top, often hilarious homage to the original from the earnest and talented writing-directing team of john francis daley and jonathan goldstein.",
+                        0.7679665999733042
+                    ]
+                ]
+            },
+            "John Francis Daley": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "22_that sound you hear is john hughes and harold ramis, the writer and director of the original, rolling over in their graves.",
+                0.704281905368842
+            ]
+        ]
+    }
+}

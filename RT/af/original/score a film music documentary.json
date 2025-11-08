@@ -1,0 +1,103 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "James Cameron": {
+                "args": []
+            },
+            "Quincy Jones": {
+                "args": []
+            },
+            "Trent Reznor": {
+                "args": []
+            },
+            "John Williams": {
+                "args": []
+            },
+            "Rachel Portman": {
+                "args": []
+            },
+            "Hans Zimmer": {
+                "args": []
+            },
+            "Randy Newman": {
+                "args": []
+            },
+            "Howard Shore": {
+                "args": []
+            },
+            "Danny Elfman": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Matt Schrader": {
+                "args": [
+                    [
+                        "10_ schrader offers just enough to satisfy both film-music novices and dyed-in-the-wool fanatics.",
+                        0.748031153938882
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Matt Schrader": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a genial 93-minute dash through the history, process and contemporary practice of film composition.",
+                0.7468831577231245
+            ],
+            [
+                "1_a film music documentary is a celebration of the artists who create the musical heartbeat of the movies we love",
+                0.8233915415476184
+            ],
+            [
+                "2_along the way, some treasure is mined from the film's numerous speakers, all of whom seemed happily enamored with their work.",
+                0.7790761188403688
+            ],
+            [
+                "3_\"score: a film music documentary\" spotlights such a rich and fascinating topic - the craft of motion picture scoring - that its mere presence proves a feast for the eyes and ears.",
+                0.8137489217351465
+            ],
+            [
+                "4_it's a well researched, solidly constructed, star-studded look into a film community that has been vital since the days of silent pictures.",
+                0.7715127375446424
+            ],
+            [
+                "5_an honest appreciation for their literally invisible work.",
+                0.5864066310712315
+            ],
+            [
+                "6_this is a movie that is too frenetic and basic to make a substantial impression.",
+                -0.6030974825228607
+            ],
+            [
+                "9_score finally gives film composers their due with a documentary that's part geeky history lesson, part tri",
+                0.7455215315496553
+            ],
+            [
+                "9_e to some of the greatest musical moments in movie history.",
+                0.8225493232201858
+            ],
+            [
+                "11_exploring the process of creating a film score, as fascinating as it is, soon becomes a bit wearying.",
+                0.8943393614898018
+            ]
+        ]
+    }
+}

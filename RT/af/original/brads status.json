@@ -1,0 +1,173 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ben Stiller": {
+                "args": [
+                    [
+                        "1_has there ever been a face more suited to male anxiety than ben stiller's?",
+                        0.549098205259391
+                    ],
+                    [
+                        "5_ben stiller plays the neurotic well, and he is excellent here as brad",
+                        0.906919846607637
+                    ],
+                    [
+                        "8_this challenging, fascinating role is [stiller's] best performance to date.",
+                        0.8650331855089909
+                    ],
+                    [
+                        "11_ben stiller gives a remarkable performance in \"brad's status,\" particularly considering that you want to strangle him for most of the movie.",
+                        0.8720414300206034
+                    ],
+                    [
+                        "12_some of [ben] stiller's best performances have been in roles where he inhabits a kind, gentle neuroticism, uncomfortable in his own skin ",
+                        0.8264759676320362
+                    ],
+                    [
+                        "23_as dad obsessed with his son's college applications, ben stiller is at his best in mike white's high-anxiety satire.",
+                        0.8275802040310248
+                    ],
+                    [
+                        "27_ it sums up the essence of stiller's performances, giving a slew of solipsistic characters the medicine they deserve.",
+                        0.5631116795238053
+                    ],
+                    [
+                        "28_does the world need another ben-stiller-as-malcontent-white-man movie?",
+                        0.5842105860562296
+                    ]
+                ]
+            },
+            "Michael Sheen": {
+                "args": []
+            },
+            "Austin Abrams": {
+                "args": [
+                    [
+                        "5_ austin abrams is fantastic as the laid-back son with a clear-eyed vision of how the world works.",
+                        0.8839858265746119
+                    ],
+                    [
+                        "7_... the best performance, appropriately, comes from the actor you probably haven't heard of: austin abrams...",
+                        0.8730130094982336
+                    ]
+                ]
+            },
+            "Luke Wilson": {
+                "args": []
+            },
+            "Jenna Fischer": {
+                "args": []
+            },
+            "Jemaine Clement": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_we knew this guy was a forgettable jerk not worth our time five minutes into this movie.",
+                -0.6890571675057412
+            ],
+            [
+                "3_the movie may be marketed to art house audiences ",
+                -0.5092278671605153
+            ],
+            [
+                "4_this is the rare mainstream film that addresses the complexities of real life.",
+                0.760313746079021
+            ],
+            [
+                "6_white - whose writing credits include chuck & buck (in which he starred) and nacho libre - has made his most mature and achingly truthful film yet.",
+                0.6972812644912272
+            ],
+            [
+                "14_the story is told from brad's point of view, and the movie is filled with his voice-over musings, fantasy sequences, and flashbacks, ",
+                0.6397837299650231
+            ],
+            [
+                "19_if brad's emotional status were a work of art, it would look a lot like an edvard munch scream, or maybe a dark little corner of dante's inferno.",
+                -0.5527493864134486
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Mike White": {
+                "args": [
+                    [
+                        "16_as he proved in his first film, chuck and buck, and the tv series enlightened, white has empathy for people on outside looking in, and brad's status is his most naked - and grim - exploration of envy yet.",
+                        0.5283344391180615
+                    ],
+                    [
+                        "17_ white keeps the film tart, not bitter, by both staying inside brad's head and letting us see how disordered his values are.",
+                        0.669743839171275
+                    ],
+                    [
+                        "21_starting from a single key insight into human behavior - the natural compulsion to compare oneself to others - white has spun a funny, empathetic and surprisingly grounded comedy that itself defies obvious comparisons.",
+                        0.7193267114448156
+                    ],
+                    [
+                        "23_as dad obsessed with his son's college applications, ben stiller is at his best in mike white's high-anxiety satire.",
+                        0.8275802040310248
+                    ],
+                    [
+                        "23_stiller and white: they make you laugh till it hurts.",
+                        -0.6023519615466535
+                    ],
+                    [
+                        "24_in the vein of his previous screenplays for chuck and buck, the good girl and beatriz at dinner, white depicts the darker side of human nature with deadpan humor and daring honesty.",
+                        0.8073687677803247
+                    ],
+                    [
+                        "27_writer-director mike white's screenplay juggles warmth with a caustic edge that doesn't only put brad in his place",
+                        0.6197371079686036
+                    ],
+                    [
+                        "28_does the world need another ben-stiller-as-malcontent-white-man movie?",
+                        0.5842105860562296
+                    ],
+                    [
+                        "28_when it's as sharp a satire as writer-director mike white has made, absolutely!",
+                        0.7497894928146104
+                    ],
+                    [
+                        "29_the message is too obvious and the humour too gentle for the whole affair not to feel like so much white male whining.",
+                        -0.7479290151304224
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_white - whose writing credits include chuck & buck (in which he starred) and nacho libre - has made his most mature and achingly truthful film yet.",
+                0.6972812644912272
+            ],
+            [
+                "18_white excels at writing dislikable protagonists ... while giving his characters enough humanity not to be monsters, and the potential for change.",
+                0.5308711038605902
+            ],
+            [
+                "27_writer-director mike white's screenplay juggles warmth with a caustic edge that doesn't only put brad in his place",
+                0.6197371079686036
+            ],
+            [
+                "28_when it's as sharp a satire as writer-director mike white has made, absolutely!",
+                0.7497894928146104
+            ]
+        ],
+        "entities": {
+            "Mike White": {
+                "args": []
+            }
+        }
+    }
+}

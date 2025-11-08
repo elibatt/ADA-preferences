@@ -1,0 +1,76 @@
+{
+    "writer": {
+        "entities": {
+            "Mark Monroe": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Ron Howard": {
+                "args": [
+                    [
+                        "4_ron howard's documentary rightly keeps coming back to the music and the band's delight in making it.",
+                        0.7160626465644434
+                    ],
+                    [
+                        "9_ howard has dug up some good ancillary concert footage that illustrates the chaos swirling around every show.",
+                        0.7276808132636676
+                    ],
+                    [
+                        "10_ howard still digs up surprises ...",
+                        0.5769468914787477
+                    ],
+                    [
+                        "11_so it is with howard's movie - the story is so incredibly good, it's worth repeating.",
+                        0.7489109325609271
+                    ],
+                    [
+                        "17_by using home-movie footage in hotel rooms, fly-on-the-wall tape from the studio control room, howard's film often succeeds in making you feel it all from the four lads' astonished point of view.",
+                        0.8136041232429408
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "7_the music is so strong, and such a demonstration of how potent the group was in action, that it alone makes the film worth seeing.",
+                0.7967691603693164
+            ],
+            [
+                "15_it's a testament to the buoyancy of the film that such exhausted, well-trod material can still feel fresh.",
+                0.5905678588288852
+            ],
+            [
+                "18_film about john, paul, george and ringo, whose own youthful words provide the film's best moments.",
+                0.8365198164198561
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Ringo Starr": {
+                "args": []
+            },
+            "Paul McCartney": {
+                "args": []
+            },
+            "John Lennon": {
+                "args": []
+            },
+            "George Harrison": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

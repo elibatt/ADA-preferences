@@ -1,0 +1,123 @@
+{
+    "acting": {
+        "entities": {
+            "Michael Nardone": {
+                "args": []
+            },
+            "Joanna Scanlan": {
+                "args": []
+            },
+            "Matthew J. Morrison": {
+                "args": []
+            },
+            "Christoph Waltz": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": []
+            },
+            "Cara Delevingne": {
+                "args": []
+            },
+            "David Harewood": {
+                "args": []
+            },
+            "Holliday Grainger": {
+                "args": []
+            },
+            "Sebastian Armesto": {
+                "args": []
+            },
+            "Tom Hollander": {
+                "args": []
+            },
+            "Douglas Hodge": {
+                "args": []
+            },
+            "Dane DeHaan": {
+                "args": []
+            },
+            "Jack O'Connell": {
+                "args": []
+            },
+            "Zach Galifianakis": {
+                "args": []
+            },
+            "Cressida Bonas": {
+                "args": []
+            },
+            "Judi Dench": {
+                "args": []
+            },
+            "Kevin Mckidd": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Tom Stoppard": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_like many complex novels crammed into 100-page screenplays, tulip fever is a mess of too many subplots, all awkwardly condensed and fighting for screen time.",
+                -0.7730939417956018
+            ],
+            [
+                "2_to paraphrase bill murray's famous line from tootsie, the long-delayed tulip fever is one nutty 17th century melodrama.",
+                0.5019919380746133
+            ],
+            [
+                "3_all told, this movie about love during a bubble is a bust.",
+                0.6914066337448674
+            ],
+            [
+                "5_ the film is so polished in its technical proficiency that i found the absence of logic forgivable.",
+                -0.5328992544843709
+            ],
+            [
+                "7_a film that's been repeatedly edited into a bizarre, boring final product that packs as much punch as a light sneeze or a gentle cough.",
+                -0.5316944841965274
+            ],
+            [
+                "9_it's often difficult to tell whether tulip fever is supposed to be soap or farce (probably neither, ",
+                -0.8946698053620616
+            ],
+            [
+                "10_at 107 minutes, tulip fever has been trimmed of every ounce of fat.",
+                -0.739184840261647
+            ],
+            [
+                "11_[tulip fever is] lush and boisterous and crammed with the sort of arts gossip and commerce trivia that go nicely with gilded frames and talk of tulip futures.",
+                0.6100936741111316
+            ],
+            [
+                "14_the most disappointing thing about the end to the speculative bubble surrounding tulip fever is that there isn't much there.",
+                -0.8306975899851254
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Justin Chadwick": {
+                "args": [
+                    [
+                        "6_as chadwick piles on the coincidences and misdirections, the movie finally collapses under its own schematic weight, and wilts to the ground.",
+                        -0.6519352635651895
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

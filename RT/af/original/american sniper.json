@@ -1,0 +1,440 @@
+{
+    "film": {
+        "args": [
+            [
+                "9_if american sniper fails at being a truly great film, it is no fault of its star.",
+                0.52287668007718
+            ],
+            [
+                "10_the film is, simply, a tragedy in which american certainty comes to grief against the rocks of the real world, and it views its central figure as a decent man doing indecent things for what he keeps telling himself is a greater good.",
+                0.8062416736444845
+            ],
+            [
+                "11_a movie that can't find a credible perspective on its subject, ",
+                -0.6733379273811693
+            ],
+            [
+                "15_there's a difference between a film about a man reluctant to acknowledge the psychological toll of what he endured and a movie that basically doesn't want to talk about it or question it, or think about it, period.",
+                0.5740902306839736
+            ],
+            [
+                "18_the message of american sniper?",
+                0.6414682066387569
+            ],
+            [
+                "25_less a war movie than a western - the story of a lone gunslinger facing down his nemesis in a dusty, lawless place - it is blunt and effective, ",
+                0.6373052935051546
+            ],
+            [
+                "31_eastwood's impeccably crafted action sequences so catch us up in the chaos of combat we are almost not aware that we're watching a film at all.",
+                0.583830230547163
+            ],
+            [
+                "32_though it never uses the term \"ptsd,\" american sniper, at its best,",
+                0.7474257822471462
+            ],
+            [
+                "34_after 40 years of hollywood counterpropaganda telling us war is necessarily corrupting and malign, its ablest practitioners thugs, loons or victims, \"american sniper\" nobly presents the case for the other side.",
+                0.5234129561466498
+            ],
+            [
+                "38_american sniper is imperfect and at times a little corny, ",
+                0.6607750058692243
+            ],
+            [
+                "42_the film's just a repetition of context-free combat missions and one-dimensional targets.",
+                0.5425205401499417
+            ],
+            [
+                "43_both a devastating war movie and a devastating antiwar movie, a subdued celebration of a warrior's skill and a sorrowful lament over his alienation and misery.",
+                -0.5169362117237093
+            ],
+            [
+                "47_a taut, vivid and sad account of the brief life of the most accomplished marksman in american military annals, american sniper feels very much like a companion piece-in subject, theme and quality-to the hurt locker.",
+                0.6641973468373934
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "8_ it's the ever-tightening knot inside of kyle the director really wants to understand.",
+                -0.6544124453298547
+            ]
+        ],
+        "entities": {
+            "Clint Eastwood": {
+                "args": [
+                    [
+                        "0_american sniper has a perspective that's recognizable from the classic westerns eastwood has long been associated with, both as an actor and a director.",
+                        0.7645016006513703
+                    ],
+                    [
+                        "2_clint eastwood's american sniper is an often lazy and somewhat hazy propaganda film about american heroism and hell in the iraq war.",
+                        -0.5462939375876965
+                    ],
+                    [
+                        "4_director clint eastwood deftly shows the mental and physical toll of heroism in a way that will leave you gutted.",
+                        0.7299741589024478
+                    ],
+                    [
+                        "6_director clint eastwood continues his quiet critique of the moviegoer's deep delight in cinematic violence.",
+                        0.7317251257460775
+                    ],
+                    [
+                        "8_the fluidity and tension of the battle scenes is breathtaking, eastwood at his cinematic best.",
+                        0.8014192727355025
+                    ],
+                    [
+                        "17_\"american sniper,\" eastwood's 37th film as a director, is his darkest, tightest and most morally ambiguous drama since he shot the western dead with \"unforgiven.\"",
+                        0.6918114170568168
+                    ],
+                    [
+                        "18_there really isn't one, apart from eastwood's career-long fascination with taciturn men called upon to do a dirty ",
+                        -0.8065957289892766
+                    ],
+                    [
+                        "19_the movie reality created by eastwood is powerful and intense, and \"american sniper\" is arguably his best picture since \"unforgiven.\"",
+                        0.7920012975269629
+                    ],
+                    [
+                        "20_it is to cooper's credit - and eastwood's - that kyle does not come off as a lunk-headed cartoon hero, ",
+                        -0.8064791867407008
+                    ],
+                    [
+                        "23_mr. eastwood's film lets this good and anguished man speak for himself, and discover himself, at his own pace.",
+                        0.7863016130662368
+                    ],
+                    [
+                        "26_as a piece of direction, it's as taut as anything [eastwood's] ever done.",
+                        0.7336604287902212
+                    ],
+                    [
+                        "30_clint eastwood has directed war movies before, ",
+                        0.5692136981129942
+                    ],
+                    [
+                        "33_ eastwood's deft staging of the iraqi scenes,",
+                        0.7539458424343553
+                    ],
+                    [
+                        "35_cooper nails the role of an american killing machine in clint eastwood's clear-eyed look at the iraq war.",
+                        0.7116054642736995
+                    ],
+                    [
+                        "36_american sniper lifts director clint eastwood out of the doldrums that have plagued his last few films.",
+                        -0.5222609324832657
+                    ],
+                    [
+                        "37_just as only nixon could go to china, only clint eastwood could make a movie about an iraq war veteran and infuse it with doubts, mission anxiety and ruination.",
+                        0.6310673107946881
+                    ],
+                    [
+                        "39_bradley cooper, as navy seal chris kyle, and director eastwood salute kyle's patriotism best by not denying its toll.",
+                        0.6832643663937454
+                    ],
+                    [
+                        "40_cautiously, eastwood has chosen to omit kyle's self-mythologizing altogether, which is itself a distortion of his character.",
+                        -0.6522791860774264
+                    ],
+                    [
+                        "41_american sniper,\" clint eastwood's harrowing meditation on war, is built on this foundation of uncommon compassion.",
+                        0.7530782362734051
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "3_cooper gives maybe the best performance of his career.",
+                0.9054236059375111
+            ]
+        ],
+        "entities": {
+            "James Ryen": {
+                "args": []
+            },
+            "Jonathan Groff": {
+                "args": []
+            },
+            "Tami Goveia": {
+                "args": []
+            },
+            "Eric Ladin": {
+                "args": []
+            },
+            "Sam Jaeger": {
+                "args": []
+            },
+            "Pamela Denise Weaver": {
+                "args": []
+            },
+            "Kevin Ryan": {
+                "args": []
+            },
+            "Navid Negahban": {
+                "args": []
+            },
+            "Billy Miller": {
+                "args": []
+            },
+            "Rey Gallegos": {
+                "args": []
+            },
+            "Max Charles": {
+                "args": []
+            },
+            "Bradley Cooper": {
+                "args": [
+                    [
+                        "3_ cooper succeeds in resembling and sounding like the real kyle,",
+                        -0.5145089548105459
+                    ],
+                    [
+                        "11_ a winning performance from bradley cooper in the title role.",
+                        0.6259993978011098
+                    ],
+                    [
+                        "20_it is to cooper's credit - and eastwood's - that kyle does not come off as a lunk-headed cartoon hero, ",
+                        -0.8064791867407008
+                    ],
+                    [
+                        "28_it's clearly cooper's show.",
+                        -0.53949071775511
+                    ],
+                    [
+                        "28_substantially bulked up and affecting a believable texas drawl, cooper embodies kyle's confidence, intensity and vulnerability.",
+                        0.6977175065885001
+                    ],
+                    [
+                        "39_bradley cooper, as navy seal chris kyle, and director eastwood salute kyle's patriotism best by not denying its toll.",
+                        0.6832643663937454
+                    ]
+                ]
+            },
+            "Melissa J. Hayden": {
+                "args": []
+            },
+            "Fehd Benchemsi": {
+                "args": []
+            },
+            "Leonard Roberts": {
+                "args": []
+            },
+            "Jonathan Kowalsky": {
+                "args": []
+            },
+            "Hector Bucio": {
+                "args": []
+            },
+            "Mark Thomason": {
+                "args": []
+            },
+            "James Dever": {
+                "args": []
+            },
+            "Chance Kelly": {
+                "args": []
+            },
+            "Brando Eaton": {
+                "args": []
+            },
+            "Greg Duke": {
+                "args": []
+            },
+            "Kathe E. Mazur": {
+                "args": []
+            },
+            "Brandon Salgado Telis": {
+                "args": []
+            },
+            "Vincent Selhorst-Jones": {
+                "args": []
+            },
+            "Elise Robertson": {
+                "args": []
+            },
+            "Zack Duhame": {
+                "args": []
+            },
+            "Erik Aude": {
+                "args": []
+            },
+            "Brian Hallisay": {
+                "args": []
+            },
+            "Robert Clotworthy": {
+                "args": []
+            },
+            "Keir O'Donnell": {
+                "args": []
+            },
+            "Ricky Ryba": {
+                "args": []
+            },
+            "Jacob Schick": {
+                "args": []
+            },
+            "Salah Salea": {
+                "args": []
+            },
+            "Luis Jose Lopez": {
+                "args": []
+            },
+            "Amie Farrell": {
+                "args": []
+            },
+            "Jad Mhidi Senhaji": {
+                "args": []
+            },
+            "Jet Jurgensmeyer": {
+                "args": []
+            },
+            "Eric Close": {
+                "args": []
+            },
+            "Mido Hamada": {
+                "args": []
+            },
+            "Victoria Reina Sigloch": {
+                "args": []
+            },
+            "Luke Sunshine": {
+                "args": []
+            },
+            "Anthony Jennings": {
+                "args": []
+            },
+            "Cory Hardrict": {
+                "args": []
+            },
+            "Joel Lambert": {
+                "args": []
+            },
+            "Terry Quay": {
+                "args": []
+            },
+            "Jason Hall": {
+                "args": []
+            },
+            "Bryan Anderson": {
+                "args": []
+            },
+            "Kevin Lacz": {
+                "args": []
+            },
+            "Paul Meixner": {
+                "args": []
+            },
+            "Marnette Patterson": {
+                "args": []
+            },
+            "Ferguson Reid": {
+                "args": []
+            },
+            "Benjamin Mathes": {
+                "args": []
+            },
+            "Leon Charles Farmer": {
+                "args": []
+            },
+            "Madeleine McGraw": {
+                "args": []
+            },
+            "Sammy Sheik": {
+                "args": []
+            },
+            "Tony Nevada": {
+                "args": []
+            },
+            "Luke Grimes": {
+                "args": []
+            },
+            "Fahim Fazli": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": [
+                    [
+                        "27_this movie is drowning in duty -- to say nothing of hoary storytelling devices and one embarrassing scene after the next for sienna miller as mrs. kyle.",
+                        -0.7123401178562215
+                    ]
+                ]
+            },
+            "Jake McDorman": {
+                "args": []
+            },
+            "Aidan McGraw": {
+                "args": []
+            },
+            "Troy Vincent": {
+                "args": []
+            },
+            "Elizabeth Schmidt": {
+                "args": []
+            },
+            "Nick Salter": {
+                "args": []
+            },
+            "Owain Yeoman": {
+                "args": []
+            },
+            "Ben Reed": {
+                "args": []
+            },
+            "Shane Habberstad": {
+                "args": []
+            },
+            "Kyle Gallner": {
+                "args": []
+            },
+            "Ryan Sadaghiani": {
+                "args": []
+            },
+            "Ayman Samman": {
+                "args": []
+            },
+            "Evan Gamble": {
+                "args": []
+            },
+            "Tim Griffin": {
+                "args": []
+            },
+            "Matthew Jason Walsh": {
+                "args": []
+            },
+            "Wade White": {
+                "args": []
+            },
+            "Brett Edwards": {
+                "args": []
+            },
+            "Assaf Cohen": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "40_cautiously, eastwood has chosen to omit kyle's self-mythologizing altogether, which is itself a distortion of his character.",
+                -0.6522791860774264
+            ],
+            [
+                "46_this harrowing and intimate character study offers fairly blunt insights into the physical and psychological toll exacted on the front lines, yet strikes even its familiar notes with a sobering clarity ...",
+                0.6254833681656277
+            ]
+        ],
+        "entities": {
+            "Jason Hall": {
+                "args": []
+            }
+        }
+    }
+}

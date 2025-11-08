@@ -1,0 +1,93 @@
+{
+    "writer": {
+        "entities": {
+            "Handsome Zhao": {
+                "args": []
+            },
+            "Huan Shu": {
+                "args": []
+            },
+            "Xing Ai Na": {
+                "args": []
+            },
+            "Seven Su": {
+                "args": []
+            },
+            "Zheng Xu": {
+                "args": []
+            },
+            "Shu Huan": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Zheng Xu": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_perhaps because it tries too hard to be too many things, the movie loses its punch.",
+                -0.6329129344096125
+            ],
+            [
+                "1_ \"lost in hong kong\" looks to be an all-encompassing love letter to hong kong filmmaking.",
+                -0.6153643663661927
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Juan Du": {
+                "args": []
+            },
+            "Singh Hartihan Bitto": {
+                "args": []
+            },
+            "Eric Kot Man-Fai": {
+                "args": []
+            },
+            "Bei-Er Bao": {
+                "args": []
+            },
+            "Zheng Xu": {
+                "args": []
+            },
+            "Bo Huang": {
+                "args": []
+            },
+            "Wang Baoqiang": {
+                "args": []
+            },
+            "Andrew Dasz": {
+                "args": []
+            },
+            "Bao Bei Er": {
+                "args": []
+            },
+            "Wei Zhao": {
+                "args": []
+            },
+            "Sam Lee": {
+                "args": []
+            },
+            "Du Juan": {
+                "args": []
+            },
+            "Eric Kot": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

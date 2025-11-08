@@ -1,0 +1,133 @@
+{
+    "writer": {
+        "entities": {
+            "Nissar Modi": {
+                "args": [
+                    [
+                        "3_zobel and modi have crafted a ",
+                        0.6070247814405002
+                    ],
+                    [
+                        "10_[a] daringly spare film, directed by craig zobel from a fine screenplay by nissar modi.",
+                        0.7067830803265798
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "4_ its sometimes labored myth-making script and visuals.",
+                -0.5388459488838192
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Craig Zobel": {
+                "args": [
+                    [
+                        "6_an intriguing set-up yields a disappointingly ponderous payoff in craig zobel's post-apocalyptic drama, \"z for zachariah.\"",
+                        0.6175825540031248
+                    ],
+                    [
+                        "10_[a] daringly spare film, directed by craig zobel from a fine screenplay by nissar modi.",
+                        0.7067830803265798
+                    ],
+                    [
+                        "18_as a director, zobel has built his career on taking bold chances, ",
+                        0.5535862067855294
+                    ],
+                    [
+                        "19_craig zobel's film asks what form humanity takes when there's (practically) no one looking.",
+                        -0.5930140751061987
+                    ],
+                    [
+                        "20_director craig zobel has something more contemplative in mind than the usual end-times blood lust...",
+                        0.7670550629865844
+                    ],
+                    [
+                        "22_ zobel and his trio of performers dig into something murkier and more primal.",
+                        0.7789433188015653
+                    ],
+                    [
+                        "24_this dull, slow movie represents a major step back for director craig zobel, who looked like he was ready for the big time with his deeply unsettling \"compliance\" a couple of years ago.",
+                        -0.6745849512016769
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"z for zachariah is a solid relationship drama disguised as post-apocalyptic tale.",
+                0.6367644330270182
+            ],
+            [
+                "1_ the movie stops at the book's two-thirds mark,",
+                0.7018574338413386
+            ],
+            [
+                "2_z for zachariah has the tasteful dullness of a movie too afraid to make a choice in any direction.",
+                -0.5245647764731984
+            ],
+            [
+                "4_\"z for zachariah\" is ultimately too dramatically slight and brief for its ambitions, ",
+                -0.5162754647070629
+            ],
+            [
+                "11_feels like a genuine rarity: an american movie that doesn't tell you what to think or how to feel when the credits start rolling.",
+                -0.5412265737087233
+            ],
+            [
+                "12_did the movie version really require the wholesale addition of captain kirk?",
+                -0.5532865508320961
+            ],
+            [
+                "14_experiencing z for zachariah is a bit like rummaging around in someone else's mind for 90 minutes, and we mean that in the best way.",
+                0.6022478137556743
+            ],
+            [
+                "25_the film remains strangely inert, and the romantic triangle at the story's center never gives off any real passion or heat.",
+                -0.5215785470315916
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Margot Robbie": {
+                "args": [
+                    [
+                        "13_it's the three actors that make the film work, particularly australian actress robbie who follows a small-yet-effective role in the wolf of wall street with more nuanced and ultimately powerful work.",
+                        0.7630526147609368
+                    ]
+                ]
+            },
+            "Chris Pine": {
+                "args": [
+                    [
+                        "12_chris pine, as a swarthy traveler, turns the happy duo into a tense threesome, and suddenly we're having sparksian conversations in the breakfast nook over coffee.",
+                        0.5756044862590362
+                    ]
+                ]
+            },
+            "Chiwetel Ejiofor": {
+                "args": [
+                    [
+                        "17_the acting is strong, with robbie and ejiofor turning in performances that feel powerfully authentic, even in moments of ethical confusion.",
+                        0.7412300384631852
+                    ]
+                ]
+            },
+            "Colin Bragg": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

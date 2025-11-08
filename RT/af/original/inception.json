@@ -1,0 +1,487 @@
+{
+    "film": {
+        "args": [
+            [
+                "3_a heist film of thrilling, almost delirious complexity.",
+                0.6710538914995817
+            ],
+            [
+                "4_even as you tick off the film's overload of references, ",
+                0.6107411655518443
+            ],
+            [
+                "8_inception is a boldly constructed wonder with plenty of -- as one character describes it -- \"paradoxical architecture.\"",
+                0.7805392401434389
+            ],
+            [
+                "9_i found myself admiring the movie's stubborn adherence to its own universe and logic.",
+                0.5145453025209955
+            ],
+            [
+                "12_inception is that rare film that can be enjoyed on superficial and progressively deeper levels, a feat that uncannily mimics the mind-bending journey its protagonist takes.",
+                0.7974445517034865
+            ],
+            [
+                "14_it is a $160 million action film about loss and regret, and it is exciting in part because of its flaws.",
+                0.6442344798758775
+            ],
+            [
+                "19_nolan's film is surely the most ambitious psychological thriller ever, and yet also the most personal.",
+                0.780814297676698
+            ],
+            [
+                "20_with its james bond-on-acid action scenes and puzzle-within-a-maze-within-a-puzzle mind games, inception is certainly the most daring and original blockbuster of the year, as well as a visual tour de force.",
+                0.8678593088939217
+            ],
+            [
+                "21_inception is the blockbuster we've all been thirsting for, a sleek brain-twister that makes the other 2010 mainstream releases look puny, drab and empty-headed in comparison.",
+                -0.6900949841026378
+            ],
+            [
+                "22_inception delivers dazzling special effects and a boatload of stars, ",
+                0.757008771240119
+            ],
+            [
+                "28_with inception, viewers have a chance to see that notion get a state-of-the-art update.",
+                0.7250905432785174
+            ],
+            [
+                "30_it's a long movie (2.5 hours) ",
+                -0.6722037696087992
+            ],
+            [
+                "37_it's gratifying to experience a summer movie with large visual ambitions and with nothing more or less on its mind than (as shakespeare said) a dream that hath no bottom.",
+                0.6010893033279117
+            ],
+            [
+                "39_it's an affecting movie",
+                0.7142612283602112
+            ],
+            [
+                "40_inception is either a great, mind-bending movie or one big swindle.",
+                0.5769148164657565
+            ],
+            [
+                "42_a sublime brain-twister of a movie that plays out so intricately on so many levels simultaneously that a bathroom break comes at your own peril.",
+                -0.5804606064082287
+            ],
+            [
+                "44_inception is an elegant, portentous ride, ",
+                0.7277865976968865
+            ],
+            [
+                "46_ be warned: inception dreams big.",
+                0.5489087875759946
+            ],
+            [
+                "47_at first, inception left me cold, feeling as if i'd just eavesdropped on somebody's bad acid trip.",
+                -0.7908031809900897
+            ],
+            [
+                "47_now i find i can't get the film out of my mind, which is really the whole point of it, isn't it?",
+                -0.8282113046959247
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Christopher Nolan": {
+                "args": [
+                    [
+                        "0_this endlessly fascinating swirl of a film could have come only from nolan, who blends the cerebral twistiness of memento (his thriller that moves backward in time) with the spectacular action of his batman megahit, the dark knight.",
+                        0.7834755700640096
+                    ],
+                    [
+                        "1_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                        0.8167977378147315
+                    ],
+                    [
+                        "6_it's only the latest indication that christopher nolan might be the slyest narrative tactician making movies today.",
+                        -0.5602005916446846
+                    ],
+                    [
+                        "11_like his protagonist, nolan excels as an implanter of subversive ideas.",
+                        0.6642575197885954
+                    ],
+                    [
+                        "13_by convoluting the various planes of experience, by overlapping and obscuring ostensible realities and ostensible dreams, mr. nolan deprives us the opportunity of investing emotionally in any of it.",
+                        0.6887643350432484
+                    ],
+                    [
+                        "14_t has all of nolan's strengths, and some of his weaknesses, and it is undeniably his.",
+                        0.7043784397015868
+                    ],
+                    [
+                        "25_ mr. nolan has not, in the end, given cobb a rich enough inner life to sustain the performance.",
+                        0.5105866410964304
+                    ],
+                    [
+                        "26_in this smart sci-fi puzzle box, director christopher nolan transports the audience to a dreamscape that begins with the familiar and then takes a radical, imaginative leap.",
+                        0.7971887489973561
+                    ],
+                    [
+                        "27_like a dream, nolan's film fades swiftly in the light -- ",
+                        0.815780122692662
+                    ],
+                    [
+                        "29_inception may have been directed by christopher nolan, ",
+                        0.5068528042686318
+                    ],
+                    [
+                        "31_writer/director christopher nolan not only cements his status as hollywood's most innovative filmmaker, he has created a daring genre: the surrealist heist thriller.",
+                        0.7286054026819019
+                    ],
+                    [
+                        "32_at the end of inception, i hadn't lived through the grueling emotional journey nolan seemed to think i had, ",
+                        -0.5361946685994792
+                    ],
+                    [
+                        "33_the dream logic of inception -- which deals, like nolan's far more intriguing memento, with the architecture of memory and the nature of reality -- is stymied by a clunking script, crammed with expository exchanges and urgent blather.",
+                        0.8226700797384889
+                    ],
+                    [
+                        "35_one of the best things about nolan as a director is that he's not self-conscious.",
+                        0.7581289960086444
+                    ],
+                    [
+                        "35_ that lack of self-consciousness is also nolan's downside.",
+                        -0.5832228297755115
+                    ],
+                    [
+                        "36_when it's over, nolan still seems a few steps ahead of us.",
+                        0.5387771886933971
+                    ],
+                    [
+                        "43_only david fincher knows how to take a studio's money and spin it as stylishly as nolan.",
+                        0.7356073432665579
+                    ],
+                    [
+                        "44_ i'm not sure nolan is any closer to visualizing the real (dream) deal than hitchcock was.",
+                        -0.5788935715963376
+                    ],
+                    [
+                        "45_it's obvious that nolan either can't articulate or doesn't believe in a distinction between living feelings and dreams -- and his barren inception doesn't capture much of either.",
+                        0.5275337000462386
+                    ],
+                    [
+                        "46_in this wildly ingenious chess game, grandmaster nolan plants ideas in our heads that disturb and dazzle.",
+                        0.6445296586691525
+                    ],
+                    [
+                        "49_nobody can deny that christopher nolan's \"inception\" is a thinking man's blockbuster.",
+                        0.6821853591034347
+                    ],
+                    [
+                        "50_as engrossing and logic-resistant as the state of dreaming it seeks to replicate, christopher nolan's audacious new creation demands further study to fully absorb the multiple, simultaneous stories nolan finagles into one narrative experience.",
+                        0.7434720051784125
+                    ],
+                    [
+                        "52_if movies are shared dreams, then christopher nolan is surely one of hollywood's most inventive dreamers, given the evidence of his commandingly clever inception.",
+                        0.838304320025949
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {
+            "dream": {
+                "args": [
+                    [
+                        "26_in this smart sci-fi puzzle box, director christopher nolan transports the audience to a dreamscape that begins with the familiar and then takes a radical, imaginative leap.",
+                        0.7971887489973561
+                    ],
+                    [
+                        "53_a devilishly complicated, fiendishly enjoyable sci-fi voyage across a dreamscape that is thoroughly compelling.",
+                        0.725254387710669
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Christopher Nolan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                0.8167977378147315
+            ],
+            [
+                "8_inception is a boldly constructed wonder with plenty of -- as one character describes it -- \"paradoxical architecture.\"",
+                0.7805392401434389
+            ],
+            [
+                "33_the dream logic of inception -- which deals, like nolan's far more intriguing memento, with the architecture of memory and the nature of reality -- is stymied by a clunking script, crammed with expository exchanges and urgent blather.",
+                0.8226700797384889
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Magnus Nolan": {
+                "args": [
+                    [
+                        "0_this endlessly fascinating swirl of a film could have come only from nolan, who blends the cerebral twistiness of memento (his thriller that moves backward in time) with the spectacular action of his batman megahit, the dark knight.",
+                        0.7834755700640096
+                    ],
+                    [
+                        "1_a spectacular fantasy thriller based on nolan's own original screenplay, inception is the smartest cgi head-trip since the matrix.",
+                        0.8167977378147315
+                    ],
+                    [
+                        "6_it's only the latest indication that christopher nolan might be the slyest narrative tactician making movies today.",
+                        -0.5602005916446846
+                    ],
+                    [
+                        "11_like his protagonist, nolan excels as an implanter of subversive ideas.",
+                        0.6642575197885954
+                    ],
+                    [
+                        "13_by convoluting the various planes of experience, by overlapping and obscuring ostensible realities and ostensible dreams, mr. nolan deprives us the opportunity of investing emotionally in any of it.",
+                        0.6887643350432484
+                    ],
+                    [
+                        "14_t has all of nolan's strengths, and some of his weaknesses, and it is undeniably his.",
+                        0.7043784397015868
+                    ],
+                    [
+                        "25_ mr. nolan has not, in the end, given cobb a rich enough inner life to sustain the performance.",
+                        0.5105866410964304
+                    ],
+                    [
+                        "26_in this smart sci-fi puzzle box, director christopher nolan transports the audience to a dreamscape that begins with the familiar and then takes a radical, imaginative leap.",
+                        0.7971887489973561
+                    ],
+                    [
+                        "27_like a dream, nolan's film fades swiftly in the light -- ",
+                        0.815780122692662
+                    ],
+                    [
+                        "29_inception may have been directed by christopher nolan, ",
+                        0.5068528042686318
+                    ],
+                    [
+                        "31_writer/director christopher nolan not only cements his status as hollywood's most innovative filmmaker, he has created a daring genre: the surrealist heist thriller.",
+                        0.7286054026819019
+                    ],
+                    [
+                        "32_at the end of inception, i hadn't lived through the grueling emotional journey nolan seemed to think i had, ",
+                        -0.5361946685994792
+                    ],
+                    [
+                        "33_the dream logic of inception -- which deals, like nolan's far more intriguing memento, with the architecture of memory and the nature of reality -- is stymied by a clunking script, crammed with expository exchanges and urgent blather.",
+                        0.8226700797384889
+                    ],
+                    [
+                        "35_one of the best things about nolan as a director is that he's not self-conscious.",
+                        0.7581289960086444
+                    ],
+                    [
+                        "35_ that lack of self-consciousness is also nolan's downside.",
+                        -0.5832228297755115
+                    ],
+                    [
+                        "36_when it's over, nolan still seems a few steps ahead of us.",
+                        0.5387771886933971
+                    ],
+                    [
+                        "43_only david fincher knows how to take a studio's money and spin it as stylishly as nolan.",
+                        0.7356073432665579
+                    ],
+                    [
+                        "44_ i'm not sure nolan is any closer to visualizing the real (dream) deal than hitchcock was.",
+                        -0.5788935715963376
+                    ],
+                    [
+                        "45_it's obvious that nolan either can't articulate or doesn't believe in a distinction between living feelings and dreams -- and his barren inception doesn't capture much of either.",
+                        0.5275337000462386
+                    ],
+                    [
+                        "46_in this wildly ingenious chess game, grandmaster nolan plants ideas in our heads that disturb and dazzle.",
+                        0.6445296586691525
+                    ],
+                    [
+                        "49_nobody can deny that christopher nolan's \"inception\" is a thinking man's blockbuster.",
+                        0.6821853591034347
+                    ],
+                    [
+                        "50_as engrossing and logic-resistant as the state of dreaming it seeks to replicate, christopher nolan's audacious new creation demands further study to fully absorb the multiple, simultaneous stories nolan finagles into one narrative experience.",
+                        0.7434720051784125
+                    ],
+                    [
+                        "52_if movies are shared dreams, then christopher nolan is surely one of hollywood's most inventive dreamers, given the evidence of his commandingly clever inception.",
+                        0.838304320025949
+                    ]
+                ]
+            },
+            "Cillian Murphy": {
+                "args": []
+            },
+            "Joseph Gordon-Levitt": {
+                "args": []
+            },
+            "Ellen Page": {
+                "args": []
+            },
+            "Pete Postlethwaite": {
+                "args": []
+            },
+            "Jonathan Geare": {
+                "args": []
+            },
+            "Felix Scott": {
+                "args": []
+            },
+            "Talulah Riley": {
+                "args": []
+            },
+            "Peter Basham": {
+                "args": []
+            },
+            "Helena Cullinan": {
+                "args": []
+            },
+            "Natasha Beaumont": {
+                "args": []
+            },
+            "Andrew Pleavin": {
+                "args": []
+            },
+            "Mark Raducci": {
+                "args": []
+            },
+            "Tohoru Masamune": {
+                "args": []
+            },
+            "Dileep Rao": {
+                "args": []
+            },
+            "Angela Nathenson": {
+                "args": []
+            },
+            "Jean-Michel Dagory": {
+                "args": []
+            },
+            "Taylor Geare": {
+                "args": []
+            },
+            "Jill Maddrell": {
+                "args": []
+            },
+            "Johnathan Geare": {
+                "args": []
+            },
+            "Carl Gilliard": {
+                "args": []
+            },
+            "Silvie Laguna": {
+                "args": []
+            },
+            "Nicolas Clerc": {
+                "args": []
+            },
+            "Michael Caine": {
+                "args": []
+            },
+            "Kraig Thornber": {
+                "args": []
+            },
+            "Virgile Bramly": {
+                "args": []
+            },
+            "Shannon Welles": {
+                "args": []
+            },
+            "Earl Cameron": {
+                "args": []
+            },
+            "Marion Cotillard": {
+                "args": []
+            },
+            "Yuji Okumoto": {
+                "args": []
+            },
+            "Tom Hardy": {
+                "args": []
+            },
+            "Miranda Nolan": {
+                "args": []
+            },
+            "Jack Gilroy": {
+                "args": []
+            },
+            "Adam Cole": {
+                "args": []
+            },
+            "Mark Fleischmann": {
+                "args": []
+            },
+            "Michael Gaston": {
+                "args": []
+            },
+            "Lukas Haas": {
+                "args": []
+            },
+            "Jason Tendell": {
+                "args": []
+            },
+            "Tim Kelleher": {
+                "args": []
+            },
+            "Ken Watanabe": {
+                "args": []
+            },
+            "Jack Murray": {
+                "args": []
+            },
+            "Ryan Hayward": {
+                "args": []
+            },
+            "Shelley Lang": {
+                "args": []
+            },
+            "Tom Berenger": {
+                "args": []
+            },
+            "Lisa Reynolds": {
+                "args": []
+            },
+            "Marc Raducci": {
+                "args": []
+            },
+            "Russ Fega": {
+                "args": []
+            },
+            "Alex Lombard": {
+                "args": []
+            },
+            "Claire Geare": {
+                "args": []
+            },
+            "Nicole Pulliam": {
+                "args": []
+            },
+            "Tai-Li Lee": {
+                "args": []
+            },
+            "Coralie Dedykere": {
+                "args": []
+            },
+            "Leonardo DiCaprio": {
+                "args": [
+                    [
+                        "25_mr. dicaprio exercises impressive control in portraying a man on the verge of losing his grip, ",
+                        0.668674268532889
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Reema Debnath": {
+                "args": []
+            },
+            "Rohitash Gaud": {
+                "args": []
+            },
+            "Sachin Parikh": {
+                "args": []
+            },
+            "Brijendra Kala": {
+                "args": []
+            },
+            "Sushant Singh Rajput": {
+                "args": []
+            },
+            "Sanjay Dutt": {
+                "args": []
+            },
+            "Sai Gundewar": {
+                "args": []
+            },
+            "Ram Sethi": {
+                "args": []
+            },
+            "Rukhsaar Rehman": {
+                "args": []
+            },
+            "Anushka Sharma": {
+                "args": []
+            },
+            "Amardeep Jha": {
+                "args": []
+            },
+            "Dheerendra Dwivedi": {
+                "args": []
+            },
+            "Ranbir Kapoor": {
+                "args": []
+            },
+            "Aamir Khan": {
+                "args": [
+                    [
+                        "0_the performances are pitch perfect, with a-lister khan proving yet again that he's the most versatile and intelligent indian actor of his generation.",
+                        0.7440431224244537
+                    ]
+                ]
+            },
+            "Parikshit Sahni": {
+                "args": []
+            },
+            "Boman Irani": {
+                "args": []
+            },
+            "Saurabh Shukla": {
+                "args": []
+            },
+            "Ram P. Sethi": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rajkumar Hirani": {
+                "args": [
+                    [
+                        "3_mr. hirani remains an excellent storyteller, weaving his disparate story strands into a convincing, satisfying whole - a rare bollywood feat.",
+                        0.8668497274738298
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Abhijat Joshi": {
+                "args": []
+            },
+            "Raju-Kumar Hirani": {
+                "args": [
+                    [
+                        "3_mr. hirani remains an excellent storyteller, weaving his disparate story strands into a convincing, satisfying whole - a rare bollywood feat.",
+                        0.8668497274738298
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the result is probably the best mainstream hindi film of 2014.",
+                0.8699932274050352
+            ],
+            [
+                "1_the film deftly pokes fun at the foibles of earthlings -- especially their warring religions -- with warmth and compassion, and shines a light on the contradictions of india's strict ",
+                0.8627514834380111
+            ],
+            [
+                "2_a biting, whip-smart satire on the thorny subject of organized religion, the bollywood musical \"pk\" enlightens and provokes through outrageous slapstick.",
+                0.6947017707965757
+            ]
+        ]
+    }
+}

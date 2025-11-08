@@ -1,0 +1,112 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Boris Karloff": {
+                "args": [
+                    [
+                        "7_as much as the later movies diluted the character of the frankenstein creature, nothing could blunt the impact made by karloff in the role of the most memorable movie monster of all time.",
+                        -0.5009429163236525
+                    ]
+                ]
+            },
+            "John Boles": {
+                "args": []
+            },
+            "Edward Van Sloan": {
+                "args": []
+            },
+            "Pauline Moore": {
+                "args": []
+            },
+            "Arletta Duncan": {
+                "args": []
+            },
+            "Colin Clive": {
+                "args": []
+            },
+            "Francis Ford": {
+                "args": []
+            },
+            "Marilyn Harris": {
+                "args": []
+            },
+            "Frederick Kerr": {
+                "args": []
+            },
+            "Mae Clarke": {
+                "args": []
+            },
+            "Michael Mark": {
+                "args": []
+            },
+            "Lionel Belmore": {
+                "args": []
+            },
+            "Dwight Frye": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "James Whale": {
+                "args": [
+                    [
+                        "1_james whale has done a great job in his direction.",
+                        0.8802131581781303
+                    ],
+                    [
+                        "2_[whale] did it in the grand guignol manner, with as many queer sounds, dark corners, false faces and cellar stairs as could possibly be inserted.",
+                        0.6035940385194963
+                    ],
+                    [
+                        "5_the film is unique in whale's work in that the horror is played absolutely straight, and it has a weird fairytale beauty not matched until cocteau made la belle et la bête.",
+                        0.7208096090521474
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "7_as much as the later movies diluted the character of the frankenstein creature, nothing could blunt the impact made by karloff in the role of the most memorable movie monster of all time.",
+                -0.5009429163236525
+            ]
+        ],
+        "entities": {
+            "Francis Edwards Faragoh": {
+                "args": []
+            },
+            "Robert Florey": {
+                "args": []
+            },
+            "John L. Balderston": {
+                "args": []
+            },
+            "Garrett Fort": {
+                "args": []
+            },
+            "Francis Edward Faragoh": {
+                "args": []
+            },
+            "Garrett Elsden Fort": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the most influential horror film ever made, this stark and stylish work has a weird fairytale beauty.",
+                0.7439865390951297
+            ]
+        ]
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_on the surface, kubo and the two string's is not a bad film, ",
+                -0.7985202265564366
+            ],
+            [
+                "5_the overall stunning nature of the work cannot be ignored.",
+                0.7552561019323029
+            ],
+            [
+                "7_kubo is a lovely, unforgettable film about creativity and storytelling - about creating one's own fate by taking charge of one's story.",
+                0.8698294986112738
+            ],
+            [
+                "8_kubo and the two strings is a magical motion picture in every sense of the word.",
+                0.7444699682391638
+            ],
+            [
+                "9_despite the occasionally labored writing (with attempts at humor that are dry and distancing), kubo and the two strings is swoonworthy in its vibrant visuals that span across unruly seas,",
+                -0.543114537022503
+            ],
+            [
+                "11_ the film's intrinsic message is all about the transformative powers of music and love.",
+                0.8317216441841101
+            ],
+            [
+                "11_it's a movie the whole family can rock out to.",
+                0.6820857050358103
+            ],
+            [
+                "13_animation can be a safe place to explore some trickier topics, and kubo and the two strings has a dash of bitter mixed with the sweet.",
+                0.7847097748798766
+            ],
+            [
+                "14_the first and last things to be said in this limited space about kubo and the two strings are that it's a showcase for some of the most startlingly beautiful animation in recent -- and not so recent -- memory.",
+                0.7532445168447985
+            ],
+            [
+                "17_yet wizardly art direction isn't the film's most striking quality.",
+                0.6167705717673356
+            ],
+            [
+                "18_i cannot stress enough how truly stunning the brilliant visuals are in this movie.",
+                0.6130233467350542
+            ],
+            [
+                "25_if the film's plotting and dialogue had measured up, \"kubo\" might have been a masterpiece.",
+                -0.6116468695752308
+            ],
+            [
+                "28_kubo and the two strings is a visually dazzling film set in an ancient, magical japan.",
+                0.859157699184756
+            ],
+            [
+                "28_as a narrative, kubo and the two strings is nearly incomprehensible.",
+                0.5281352074229564
+            ],
+            [
+                "29_from its captivating narration and first stormy scene, kubo and the two strings lures the audience into its vivid storytelling and exquisite execution of stop-motion animation.",
+                0.791161547758204
+            ],
+            [
+                "33_[kubo and the two strings] is an eye-popping delight that deftly blends colorful folklore with gorgeous, origami-informed visuals to immersive effect.",
+                0.8837955524803581
+            ],
+            [
+                "36_the impetus to tune out the movie's words only makes it easier to feast your eyes on its breathtaking images, which after a summer of underlit glop feel like a tall glass of cool water.",
+                0.6526443907666111
+            ],
+            [
+                "37_staggeringly beautiful and immensely true, this is the best animated film of 2016.",
+                0.913152034185151
+            ],
+            [
+                "39_this is laika's brightest film to date, in both its dazzling colors and its core of irrepressible joy.",
+                0.820791971400417
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Travis Knight (II) ": {
+                "args": [
+                    [
+                        "31_the handcrafted textures and wry self-awareness of kubo and the two strings make knight's film resolutely its own tale, one that folds into its own exotic shape.",
+                        0.863474131733212
+                    ],
+                    [
+                        "32_first-time director travis knight",
+                        0.5084088286195046
+                    ],
+                    [
+                        "38_with its staggering visuals and genuine heart, laika chief travis knight's fantastical samurai adventure puts the emotion in stop-motion.",
+                        0.7839416135195609
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "32_-- he served as lead animator on laika's previous three films -- has given kubo a gorgeously tactile look full of lavish depth and detail, and an engaging cast of characters.",
+                0.7988811554608276
+            ]
+        ],
+        "entities": {
+            "Art Parkinson": {
+                "args": []
+            },
+            "Cary-Hiroyuki Tagawa": {
+                "args": []
+            },
+            "Alpha Takahashi": {
+                "args": []
+            },
+            "Saemi Nakamura": {
+                "args": []
+            },
+            "Rooney Mara": {
+                "args": []
+            },
+            "Ken Takemoto": {
+                "args": []
+            },
+            "George Takei": {
+                "args": []
+            },
+            "Charlize Theron": {
+                "args": []
+            },
+            "Cary Yoshio Mizobe": {
+                "args": []
+            },
+            "Matthew McConaughey": {
+                "args": []
+            },
+            "Luke Donaldson": {
+                "args": []
+            },
+            "Minae Noji": {
+                "args": []
+            },
+            "Mariel Sheets": {
+                "args": []
+            },
+            "Rachel Morihiro": {
+                "args": []
+            },
+            "Laura Miro": {
+                "args": []
+            },
+            "Aaron Aoki": {
+                "args": []
+            },
+            "Meyrick Murphy": {
+                "args": []
+            },
+            "Brenda Vaccaro": {
+                "args": []
+            },
+            "Ralph Fiennes": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_despite the occasionally labored writing (with attempts at humor that are dry and distancing), kubo and the two strings is swoonworthy in its vibrant visuals that span across unruly seas,",
+                -0.543114537022503
+            ]
+        ],
+        "entities": {
+            "Chris Butler": {
+                "args": []
+            },
+            "Marc Haimes": {
+                "args": []
+            }
+        }
+    }
+}

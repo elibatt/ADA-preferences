@@ -1,0 +1,102 @@
+{
+    "film": {
+        "args": [
+            [
+                "9_the movie's boggling matter-of-factness is a key to its enduring -- no, its deepening -- charm.",
+                0.6223951262968259
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "George Dunning": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Clive": {
+                "args": []
+            },
+            "Geoffrey Hughes": {
+                "args": []
+            },
+            "Beatles The": {
+                "args": [
+                    [
+                        "0_sure, some of the puns and in-jokes sound a little dated, ",
+                        -0.5023834688254802
+                    ],
+                    [
+                        "0_ any movie that strings together lines from shakespeare merely as a throwaway comic riff is, in my book, a film for the ages.",
+                        0.6634499630046814
+                    ],
+                    [
+                        "1_if the result seems less a coherent story than a two-hour pot high, submarine is still a breakthrough combination of the feature film and art's intimacy with the unconscious.",
+                        0.659993463685153
+                    ],
+                    [
+                        "2_here are all the ingredients of a novel entertainment.",
+                        -0.6771015873093404
+                    ],
+                    [
+                        "3_this 1968 beatles musical gets somewhat plot heavy near the end, ",
+                        0.5103548234130602
+                    ],
+                    [
+                        "6_yellow submarine is a family movie in the truest sense.",
+                        0.622104653352128
+                    ],
+                    [
+                        "7_almost 20 years after its release, this charming fable chronicling the beatles' battles to save pepperland from the blue meanies is one of the best testaments ever to the redeeming value of good music.",
+                        0.812323267447444
+                    ],
+                    [
+                        "8_instead of contrived urgency, there's unpressured whimsy, and the movie exists as pure charm, expressed in fantastical imagery.",
+                        0.7407229786348184
+                    ],
+                    [
+                        "8_and then there are the songs.",
+                        0.5271004520936416
+                    ]
+                ]
+            },
+            "Lance Percival": {
+                "args": []
+            },
+            "Paul Angelis": {
+                "args": []
+            },
+            "Peter Batten": {
+                "args": []
+            },
+            "Dick Emery": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Jack Mendelsohn": {
+                "args": []
+            },
+            "Erich Segal": {
+                "args": []
+            },
+            "Al Brodax": {
+                "args": []
+            },
+            "Lee Minoff": {
+                "args": []
+            }
+        }
+    }
+}

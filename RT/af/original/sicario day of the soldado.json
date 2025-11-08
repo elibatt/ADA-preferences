@@ -1,0 +1,152 @@
+{
+    "writer": {
+        "args": [
+            [
+                "2_without a humanizing element like blunt's character, this whole grim affair is just a race to the bottom in which everyone loses.",
+                -0.6840962670795203
+            ],
+            [
+                "3_moner is terrific, and her character's fortunes can be read in her eyes-blazing to begin with, as she scraps with another girl in a schoolyard, ",
+                0.6321890148457844
+            ]
+        ],
+        "entities": {
+            "Taylor Sheridan": {
+                "args": [
+                    [
+                        "33_a needless sequel that serves only to deepen one's appreciation of the original's tightwire act and suggests that screenwriter taylor sheridan's moral ambivalence about american power ended with the obama presidency.",
+                        0.5938501981412776
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_if there is a theme in this film, i would venture to guess that it's right there in the title.",
+                0.5237592239413693
+            ],
+            [
+                "7_ as a whole, ideologically, i don't know what this movie is trying to say",
+                -0.7239048027741398
+            ],
+            [
+                "13_day of the soldado -- a sequel that wasn't exactly needed, which proceeds to raise complicated issues that the movie, with its simple-minded formula, isn't particularly well equipped to handle.",
+                -0.5754476426684864
+            ],
+            [
+                "20_it's a given that sequels are never as good as the original movie, ",
+                0.7397095479679334
+            ],
+            [
+                "23_the trouble with this muscular, fitfully absorbing, confusingly titled action movie - a bigger, brasher and less memorable picture than its predecessor in every respect - is that its cynicism too often feels like a put-on.",
+                0.5114877670550585
+            ],
+            [
+                "24_a much more conventional film with fewer pretensions to high art.",
+                0.5237827010897651
+            ],
+            [
+                "26_\"sicario: day of the soldado\" is less a political film and much more a straightforward action movie.",
+                0.5906442564048964
+            ],
+            [
+                "28_he does his most convincing work while looking like he's about to nod off.",
+                -0.579854029911365
+            ],
+            [
+                "35_when day of the soldado truly wallows in violence, it does so exquisitely, with the kind of hopelessness that film violence, especially around this subject matter, should convey.",
+                0.740331033148659
+            ],
+            [
+                "37_it's a tough-as-nails action thriller, and all those nails are hammered directly into the movie's own coffin.",
+                0.6940994798571845
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Josh Brolin": {
+                "args": []
+            },
+            "Matthew Modine": {
+                "args": []
+            },
+            "Isabela Moner": {
+                "args": []
+            },
+            "Bruno Bichir": {
+                "args": []
+            },
+            "Ian Bohen": {
+                "args": []
+            },
+            "Jake Picking": {
+                "args": []
+            },
+            "Benicio Del Toro": {
+                "args": [
+                    [
+                        "14_while \"sicario\" didn't exactly beg to be a film franchise, \"soldado\" proves it'll go as long as brolin and del toro can stay corrupt and captivating.",
+                        -0.557973175386898
+                    ],
+                    [
+                        "16_ the presence of the sleepily charismatic del toro-his beleaguered alejandro carries heavy baggage both in his heart and beneath his eyes-the soldado man show does grow tiresome.",
+                        0.6252364795374703
+                    ],
+                    [
+                        "26_the adrenaline is undeniable, and even when things get a little sketchy, there's always del toro.",
+                        0.5130427989992843
+                    ],
+                    [
+                        "27_ brolin and del toro keep the action strong and stinging until the sequel crosses the line into trump-style fearmongering.",
+                        0.632506033323682
+                    ],
+                    [
+                        "28_benicio del toro is the ernest hemingway of screen badasses: the less he says the better he is.",
+                        -0.603419760034022
+                    ]
+                ]
+            },
+            "Catherine Keener": {
+                "args": []
+            },
+            "Manuel Garcia-Rulfo": {
+                "args": []
+            },
+            "Shea Whigham": {
+                "args": []
+            },
+            "Jeffrey Donovan": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stefano Sollima": {
+                "args": [
+                    [
+                        "6_as if in imitation of the ruthless mexican drug cartel its heroes go after, director stefano sollima's sequel decapitates, disembowels, and castrates denis villeneuve's beautiful, tough, and sad 2015 original.",
+                        0.6185636675872676
+                    ],
+                    [
+                        "11_the power of sollima's tough, testosterone-fueled, high-impact fable comes not from its harrowing depiction of violence, as visceral and authentic as anything ever shot.",
+                        0.6073100748688963
+                    ],
+                    [
+                        "36_director stefano sollima eschews the quiet suspense of the original in favor of hard-core action.",
+                        0.6051165552698917
+                    ]
+                ]
+            }
+        }
+    }
+}

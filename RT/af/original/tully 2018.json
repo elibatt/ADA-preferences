@@ -1,0 +1,219 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "0_as a portrayal of postpartum depression, tully is a success-simplistic at times, ",
+                0.6461454800168753
+            ]
+        ],
+        "entities": {
+            "Charlize Theron": {
+                "args": [
+                    [
+                        "3_charlize theron wakes it from its lethargy, takes it by the jugular, and squeezes until it yells.",
+                        -0.5113024880099467
+                    ],
+                    [
+                        "8_i don't think it's a stretch to propose a charlize theron day.",
+                        -0.7197218822689735
+                    ],
+                    [
+                        "9_theron and davis are magic together, with davis projecting a warmth that rounds out theron's character's harsher edges.",
+                        0.8143915326091358
+                    ],
+                    [
+                        "11_what saves the movie from unbearable smugness is the lovely duet of theron and davis playing their deepening partnership without either posturing or a disclaiming wink at the audience.",
+                        0.5692783059501312
+                    ],
+                    [
+                        "16_charlize theron, mackenzie davis, director jason reitman and screenwriter diablo cody whip up the great existential-crisis mother's day movie.",
+                        0.7678954995543653
+                    ],
+                    [
+                        "21_ms. theron and ms. davis make a pleasurable, watchable pair - ms. davis is obviously happy to be the moon to ms. theron's sun - ",
+                        0.7330831417206195
+                    ],
+                    [
+                        "22_what holds the film together are a couple of really strong performances by charlize theron and mackenzie davis.",
+                        0.8231020562112887
+                    ],
+                    [
+                        "27_you can see in theron's overly caffeinated eyes and slumped back the layers of loneliness and self-loathing that finally burst through, demanding change.",
+                        0.6969173459995972
+                    ],
+                    [
+                        "29_charlize theron was destined to specialize in bruising comedy.",
+                        0.5235585844876283
+                    ]
+                ]
+            },
+            "Mackenzie Davis": {
+                "args": []
+            },
+            "Mark Duplass": {
+                "args": []
+            },
+            "Emily Haine": {
+                "args": []
+            },
+            "Ron Livingston": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jason Reitman": {
+                "args": [
+                    [
+                        "15_mr. reitman has recaptured the delicate directorial touch he misplaced after young adult, while ms. cody's multi-edged sword of a script sends its characters down the damnedest surprising paths.",
+                        0.7117207552198371
+                    ],
+                    [
+                        "16_charlize theron, mackenzie davis, director jason reitman and screenwriter diablo cody whip up the great existential-crisis mother's day movie.",
+                        0.7678954995543653
+                    ],
+                    [
+                        "34_but [jason] reitman and especially [diablo] cody approach the material with the freshness of filmmakers still learning new things about themselves,",
+                        0.6810880754484536
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "4_tully is a walking film script, and the best thing that can be said about the film is that a group of very talented actors works very hard to make its contrivances pass as plausible.",
+                0.5785274648799188
+            ],
+            [
+                "9_theron and davis are magic together, with davis projecting a warmth that rounds out theron's character's harsher edges.",
+                0.8143915326091358
+            ]
+        ],
+        "entities": {
+            "Diablo Cody": {
+                "args": [
+                    [
+                        "15_mr. reitman has recaptured the delicate directorial touch he misplaced after young adult, while ms. cody's multi-edged sword of a script sends its characters down the damnedest surprising paths.",
+                        0.7117207552198371
+                    ],
+                    [
+                        "16_charlize theron, mackenzie davis, director jason reitman and screenwriter diablo cody whip up the great existential-crisis mother's day movie.",
+                        0.7678954995543653
+                    ],
+                    [
+                        "23_[tully] features cody's hyper-verbal brand of snark, cynicism and subtle poignancy, ",
+                        0.6045730007224537
+                    ],
+                    [
+                        "25_at its spiky, intermittent best, \"tully\" is the best work cody has done in the conventional feature format since \"juno.\"",
+                        0.7881373887752419
+                    ],
+                    [
+                        "32_that it works as well as it does is thanks to a screenplay that largely drops cody's signature sarcasm - so often used to mask painful underlying secrets - for a voice that is much more raw and direct.",
+                        0.8303778791666329
+                    ],
+                    [
+                        "34_but [jason] reitman and especially [diablo] cody approach the material with the freshness of filmmakers still learning new things about themselves,",
+                        0.6810880754484536
+                    ],
+                    [
+                        "35_...a major movie about motherhood in which cody's signature sarcasm has deepened into anxiety, exhaustion and wisdom",
+                        0.5397271397072751
+                    ],
+                    [
+                        "36_the tully-marlo relationship is born of solipsism and inner drama, and cody turns out to be amazingly gifted at it.",
+                        0.6954844203428159
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_as a portrayal of postpartum depression, tully is a success-simplistic at times, ",
+                0.6461454800168753
+            ],
+            [
+                "1_the emotions tully surfaces aren't comforting, and they have less to do with the actual realities of motherhood than with the idea of motherhood as something that leaves you forever changed and cut off from your younger self.",
+                -0.727198367168119
+            ],
+            [
+                "2_for those with an appetite for an early-summer movie with heart, ",
+                0.7069055970853357
+            ],
+            [
+                "2_ no costumes, \"tully\" will take care of them, too.",
+                -0.523134119950936
+            ],
+            [
+                "3_tully fails on every level except one:",
+                -0.7908406620406325
+            ],
+            [
+                "4_tully is a walking film script, and the best thing that can be said about the film is that a group of very talented actors works very hard to make its contrivances pass as plausible.",
+                0.5785274648799188
+            ],
+            [
+                "5_in \"tully,\" the cynicism about the supposed undiluted joys of motherhood rings true, or at least truer than in movies that don't admit such a station in life can be less than paradise.",
+                -0.5853629312831459
+            ],
+            [
+                "6_, is that, as tully proceeds, it tumbles into clunkiness, and there's a desperate unsubtlety to the improvement in marlo's lot.",
+                -0.5248439461726788
+            ],
+            [
+                "13_it's never quite clear where tully is heading until, in a revelatory moment, it gets there.",
+                0.5391215807756451
+            ],
+            [
+                "17_tully is that rare movie that i wished were longer, in order to spend more time with two fascinating characters who could potentially have been part of one mother of a tale.",
+                0.788530990000265
+            ],
+            [
+                "18_\"tully\" is an uncommonly intelligent, amusing and honest portrait of motherhood, thorns and all.",
+                0.8581887324806354
+            ],
+            [
+                "19_not many films address motherhood with as much irreverence and insight as \"tully.\"",
+                0.6954857811013241
+            ],
+            [
+                "20_more often than not, tully comes across as a group of relatable characters marooned in a story with nowhere to go.",
+                -0.6087182309530969
+            ],
+            [
+                "21_ \"tully\" isn't really interested in the sustaining joys of female bonding.",
+                -0.7515434473892126
+            ],
+            [
+                "31_theron holds the movie in her hands and gives it to us like a gift",
+                0.7480742485340223
+            ],
+            [
+                "33_tully encapsulates the psychological process of maturity with pithy humor and vertiginous insight.",
+                0.7164012067393698
+            ],
+            [
+                "37_tully takes some daring detours that i didn't see coming.",
+                -0.5876957016486436
+            ],
+            [
+                "37_and it's a better, less predictable movie for it.",
+                -0.5633991895952285
+            ],
+            [
+                "41_\"tully\" has its heart (and many other things) in the right place, ",
+                0.6439999669128134
+            ]
+        ]
+    }
+}

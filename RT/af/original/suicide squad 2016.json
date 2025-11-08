@@ -1,0 +1,357 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_it is damaged goods from the get-go, the kind of film grown in a petri dish in hollywood.",
+                0.6487876704039803
+            ],
+            [
+                "2_to say that the movie loses the plot would not be strictly accurate, for that would imply that there was a plot to lose.",
+                -0.5617618178984272
+            ],
+            [
+                "3_if i have not yet convinced you of the movie's astonishingly slipshod quality, i'm unlikely ever to do so.",
+                -0.75583708122753
+            ],
+            [
+                "5_regrettably, the film's place-setting opening lays the scene for a different, more exciting film that never really unfolds.",
+                0.5852092046872696
+            ],
+            [
+                "6_in suicide squad's case, bad is just plain bad.",
+                -0.8512207921348007
+            ],
+            [
+                "7_suicide squad amounts to an all-out attack on the whole idea of entertainment.",
+                -0.7425188389243522
+            ],
+            [
+                "9_the closest suicide squad comes to the masterworks of christopher nolan is that, like memento, it suffers from instant amnesia.",
+                0.5037354265319931
+            ],
+            [
+                "11_[a] strange embrace of a movie, which continues to tantalize even as it overstimulates.",
+                0.6320382532008071
+            ],
+            [
+                "12_everything about \"suicide squad\" from the title on down promises overkill.",
+                -0.7141369921132493
+            ],
+            [
+                "12_and the movie, to its ultimate discredit, delivers.",
+                -0.5153375107713474
+            ],
+            [
+                "13_\"suicide squad\" is an interminable muddle.",
+                -0.61289964855718
+            ],
+            [
+                "14_for all that exposition, the film never tells us what we really need to know: why should we care?",
+                -0.736512026442814
+            ],
+            [
+                "15_suicide squad is not very successful at that.",
+                -0.5972395428316855
+            ],
+            [
+                "16_ falling short of appealing to - the teenage demographic, the film is a double cop-out, disappointing both fans of the source material's grown-up gloom-and-doom aesthetic and discerning adolescents.",
+                0.5985780745275839
+            ],
+            [
+                "17_ it's not even close to the worst movie of the summer or the year.",
+                -0.9381950178523121
+            ],
+            [
+                "23_if awards were handed out for the loudest movie of the year, suicide squad would be schindler's list.",
+                0.6412626808375694
+            ],
+            [
+                "23_ [it] turns out to be just another generic superhero action movie.",
+                -0.7222849675727543
+            ],
+            [
+                "25_the question isn't whether \"suicide squad\" is as good as \"the avengers,\" ",
+                0.5069481175003321
+            ],
+            [
+                "26_suicide squad does have quite a few tremendously entertaining sequences of high action and low comedy.",
+                0.5699940118086113
+            ],
+            [
+                "27_there isn't a moment of spontaneous fun or humor in this long, turgid movie, the latest letdown for dc comics fans who've been waiting for someone to pick up the baton christopher nolan left behind.",
+                -0.8071398823262744
+            ],
+            [
+                "29_everyone started making a movie before they really knew what they were doing.",
+                -0.6387839186610845
+            ],
+            [
+                "30_ someone you really loathe and detest - send that person a ticket for \"suicide squad.\"",
+                -0.5723148207705597
+            ],
+            [
+                "31_\"suicide squad\" is a so-so, off-peak superhero movie.",
+                -0.7470463399978219
+            ],
+            [
+                "32_it will be interesting to see where dc takes these characters after the semi-delightful mess that is \"suicide squad.\"",
+                -0.6276389128134481
+            ],
+            [
+                "37_in a year overloaded with comic-book movies, \"suicide squad\" just seems like more of the same.",
+                0.510400296186271
+            ],
+            [
+                "41_what a waste of a perfectly twisted suicide squad.",
+                -0.7605387792189365
+            ],
+            [
+                "42_it's probably best to think of \"suicide squad\" as a primer, an entry into a side world of the dc universe that may pay bigger benefits in later films.",
+                0.838197984487994
+            ],
+            [
+                "46_compared to its ilk, suicide squad is an excellently quirky, proudly raised middle finger to the staid superhero-movie establishment.",
+                -0.5743266913138532
+            ],
+            [
+                "48_suicide squad is the rare superhero movie in which i actually found myself wondering about the characters' inner lives.",
+                0.5311163137923542
+            ],
+            [
+                "51_a puzzlingly confused undertaking that never becomes as cool as it thinks it is, suicide squad assembles an all-star team of supervillains and then doesn't know what to do with them.",
+                -0.611464801462643
+            ],
+            [
+                "53_can barely get all of these characters onto a billboard, much less a movie.",
+                -0.671103892328624
+            ],
+            [
+                "54_just when you think the summer movie season can't get any worse, along come the 'worst.",
+                -0.8685366076627359
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "David Ayer": {
+                "args": [
+                    [
+                        "4_writer-director david ayer doesn't have the right graphic technique for a comic-book-style jamboree -- he's strictly a noirish-pulp guy -- and the characters, all of whom are promisingly introduced, fizzle fast.",
+                        -0.5515847696625541
+                    ],
+                    [
+                        "21_[it was up to ayer] to revitalize...the dc franchise.",
+                        -0.6790342940163118
+                    ],
+                    [
+                        "28_(ayer made fury just two years ago!).",
+                        -0.5076937196420765
+                    ],
+                    [
+                        "35_david ayer's flash-and-dash directing style makes it a challenge to follow the story, not to mention a chore to process the onslaught of violence.",
+                        0.6606378742902858
+                    ],
+                    [
+                        "40_i'd say it's ayer's willingness to go all limp-dick and compromise his hardcore action bona fides for a pg-13 crowdpleaser that would rather ingratiate than cut deep, or even cut at all.",
+                        -0.5847241039393147
+                    ],
+                    [
+                        "43_so much happens in david ayer's dc comics adaptation suicide squad that by the end, it's as if you've seen nothing.",
+                        0.6119274615868777
+                    ],
+                    [
+                        "44_harley quinn is an embodiment of all the conflicting things this frankly disastrous new movie, choppily written and directed david ayer, is attempting to do.",
+                        -0.6349065874913069
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "David Ayer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Frank Zupancic": {
+                "args": []
+            },
+            "Joel Lacoursiere": {
+                "args": []
+            },
+            "Alex Meraz": {
+                "args": []
+            },
+            "Viola Davis": {
+                "args": []
+            },
+            "Tyler Grey": {
+                "args": []
+            },
+            "Daniela Uruena": {
+                "args": []
+            },
+            "Kenneth Choi": {
+                "args": []
+            },
+            "Kevin Vance": {
+                "args": []
+            },
+            "Billy Otis": {
+                "args": []
+            },
+            "Ike Barinholtz": {
+                "args": []
+            },
+            "David Harbour": {
+                "args": []
+            },
+            "Nicholas Van Burek": {
+                "args": []
+            },
+            "Cara Delevingne": {
+                "args": []
+            },
+            "Robert B. Kennedy": {
+                "args": []
+            },
+            "Shai Pierre-Dixon": {
+                "args": []
+            },
+            "Aidan Devine": {
+                "args": []
+            },
+            "Joel Kinnaman": {
+                "args": []
+            },
+            "Kent Sheridan": {
+                "args": []
+            },
+            "Birgitte Solem": {
+                "args": []
+            },
+            "Christopher Dyson": {
+                "args": []
+            },
+            "Robin Atkin Downes": {
+                "args": []
+            },
+            "Roger Shank": {
+                "args": []
+            },
+            "Tufford Kennedy": {
+                "args": []
+            },
+            "Jai Courtney": {
+                "args": []
+            },
+            "Clive McLean": {
+                "args": []
+            },
+            "Jay Hernandez": {
+                "args": []
+            },
+            "Karen Fukuhara": {
+                "args": []
+            },
+            "Derek Perks": {
+                "args": []
+            },
+            "Agueda Cardenas": {
+                "args": []
+            },
+            "Jameson Kraemer": {
+                "args": []
+            },
+            "Kevin Hanchard": {
+                "args": []
+            },
+            "Common": {
+                "args": []
+            },
+            "Nathaniel Brown": {
+                "args": []
+            },
+            "Scott Eastwood": {
+                "args": []
+            },
+            "Ho Chow": {
+                "args": []
+            },
+            "Amanda Brugel": {
+                "args": []
+            },
+            "Nicolas Uruena": {
+                "args": []
+            },
+            "Corina Calderon": {
+                "args": []
+            },
+            "Rosemary DeLosSantos": {
+                "args": []
+            },
+            "Jim Parrack": {
+                "args": []
+            },
+            "Ted Whittall": {
+                "args": []
+            },
+            "Adewale Akinnuoye-Agbaje": {
+                "args": []
+            },
+            "Alain Chanoine": {
+                "args": []
+            },
+            "Dwight Ireland": {
+                "args": []
+            },
+            "Ezra Miller": {
+                "args": []
+            },
+            "Margot Robbie": {
+                "args": [
+                    [
+                        "10_whenever robbie isn't dancing around, the movie feels as heavy and relentless as a mack truck.",
+                        -0.7121909632535244
+                    ]
+                ]
+            },
+            "Bambadjan Bamba": {
+                "args": []
+            },
+            "Will Smith": {
+                "args": [
+                    [
+                        "24_even credible efforts by smith and especially margot robbie -- vamping it up as the apple of the joker's eye, the sadistic harley quinn -- don't breathe life into the film frequently enough to give it much of a pulse.",
+                        0.7404717941238322
+                    ]
+                ]
+            },
+            "Jaime FitzSimons": {
+                "args": []
+            },
+            "James McGowan": {
+                "args": []
+            },
+            "Jared Leto": {
+                "args": []
+            },
+            "Matt Baram": {
+                "args": []
+            },
+            "Adam Beach": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

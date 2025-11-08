@@ -1,0 +1,326 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_one of the things that partly excuses the movie's mush is that it's a kind of musical.",
+                0.5496851085845241
+            ],
+            [
+                "1_danny collins is the cinematic equivalent of a well-sung easy rock tune, enjoyably light and bouncy, with some darker notes hidden within the chords.",
+                0.819024938041148
+            ],
+            [
+                "6_like its hero, the movie is flawed, ",
+                0.5222994962728597
+            ],
+            [
+                "7_the lesson of this likable little movie is that it's never too late to reclaim your integrity.",
+                -0.5161300734860093
+            ],
+            [
+                "8_right away, you can tell that danny collins is working.",
+                -0.5009365128953789
+            ],
+            [
+                "11_so shameless is this movie's urge to batter you into laughter and tears that you give in, exhausted and maybe even a little grateful.",
+                -0.525211651481199
+            ],
+            [
+                "15_\"danny collins,\" like its central character, has a good heart, and sometimes that's enough.",
+                0.6616014400902669
+            ],
+            [
+                "16_there's a delayed-secret hitch in the narrative that hijacks the movie, for better or worse.",
+                -0.5960170476078169
+            ],
+            [
+                "17_the movie becomes, perhaps inadvertently, a celebration of selling out.",
+                0.6018211394041492
+            ],
+            [
+                "20_danny collins has no intention of breaking new ground.",
+                -0.7484760838053383
+            ],
+            [
+                "22_ don't give up on danny collins.",
+                -0.555963396038448
+            ],
+            [
+                "23_danny collins gets the point across without pretention.",
+                0.530674807650311
+            ],
+            [
+                "24_ proves to be a kind of swell idea for a fiction film.",
+                0.6032954503071936
+            ],
+            [
+                "25_ danny collins rings out with emotional resonance.",
+                0.5553576029953184
+            ],
+            [
+                "28_a redemption movie in the skeptical key of jerry maguire with dozens of small, perfect moments",
+                0.7407157164275888
+            ],
+            [
+                "30_danny collins is nothing to write home about, ",
+                -0.7575561733442806
+            ],
+            [
+                "31_\"danny collins'' is certainly watchable, ",
+                0.5214252067245331
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dan Fogelman": {
+                "args": [
+                    [
+                        "2_, fogelman puts all the right people together, and what's more, gets a performance out of pacino that's one of his best-ever comic turns.",
+                        0.8508161627558882
+                    ],
+                    [
+                        "3_pacino's exuberance rescues dan fogelman's directing de",
+                        0.6165936733032337
+                    ],
+                    [
+                        "3_ from the schematic snares in fogelman's script.",
+                        0.5287159399275974
+                    ],
+                    [
+                        "10_what fogelman doesn't quite achieve as screenwriter at the start of the film he makes up for in his directorial de",
+                        0.7169073543289008
+                    ],
+                    [
+                        "13_there's a nice fluidity and freedom to writer-director dan fogelman's storytelling, so things never become predictable.",
+                        0.7028061017811543
+                    ],
+                    [
+                        "19_writer-director dan fogelman seems as torn as danny is between his artistic impulses and his hard-wired attraction to bland, audience-friendly material.",
+                        -0.6472023499231098
+                    ],
+                    [
+                        "26_ as fictionalized by screenwriter dan fogelman, it becomes yet another soggy tale of father-son healing.",
+                        -0.549764099485943
+                    ],
+                    [
+                        "29_ of dan fogelman, writer of crazy, stupid, love and last vegas, the movie combines the compulsive sub-plotting of the former with the retirement-age asides of the latter.",
+                        0.5346242896066397
+                    ],
+                    [
+                        "32_ it's a pleasure to see dan fogelman slow down the flow for his two erstwhile ricky romas, kicking around life's harsh turns with tenderness.",
+                        0.7903697216204109
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "10_he supports wonderfully the affable allure of his attuned cast.",
+                0.7405021878212352
+            ],
+            [
+                "34_the top-notch cast makes this bleecker street release almost tolerable, ",
+                0.7738188253588802
+            ]
+        ],
+        "entities": {
+            "Tim Jo": {
+                "args": []
+            },
+            "Melissa Benoist": {
+                "args": []
+            },
+            "Bobby Cannavale": {
+                "args": []
+            },
+            "Tim Pierce": {
+                "args": []
+            },
+            "Davide Donatiello": {
+                "args": []
+            },
+            "Eric Daniel Newnham": {
+                "args": []
+            },
+            "Michael Patrick McGill": {
+                "args": []
+            },
+            "Nick Offerman": {
+                "args": []
+            },
+            "C.J. Vanston": {
+                "args": []
+            },
+            "Kari Kimmel": {
+                "args": []
+            },
+            "Hiroshi Morotomi": {
+                "args": []
+            },
+            "Christopher Plummer": {
+                "args": []
+            },
+            "Francine Levinson": {
+                "args": []
+            },
+            "Carmel Echols": {
+                "args": []
+            },
+            "Josh Peck": {
+                "args": []
+            },
+            "Kenny Aronoff": {
+                "args": []
+            },
+            "Mindi Abair": {
+                "args": []
+            },
+            "Hal Alpert": {
+                "args": []
+            },
+            "Travis Johns": {
+                "args": []
+            },
+            "Margy Stein": {
+                "args": []
+            },
+            "Giselle Eisenberg": {
+                "args": []
+            },
+            "Aarti Mann": {
+                "args": []
+            },
+            "Joshua Sternlicht": {
+                "args": []
+            },
+            "Brian Thomas Smith": {
+                "args": []
+            },
+            "Bill Cantos": {
+                "args": []
+            },
+            "Don Was": {
+                "args": []
+            },
+            "Hiroshi Moroto": {
+                "args": []
+            },
+            "Al Pacino": {
+                "args": [
+                    [
+                        "2_, fogelman puts all the right people together, and what's more, gets a performance out of pacino that's one of his best-ever comic turns.",
+                        0.8508161627558882
+                    ],
+                    [
+                        "4_it's never dull to watch pros like pacino, bening, plummer, garner and cannavale interact - this is dream casting - and the film makes the most of that, along with a pleasingly comprehensive lennon soundtrack.",
+                        0.7229703796320768
+                    ],
+                    [
+                        "9_legendary as al pacino's skills are, he wouldn't be the first actor i'd cast to play a 70ish pop star who still fills mid-sized arenas some 40 years after he last charted a hit single.",
+                        0.5501220252529292
+                    ],
+                    [
+                        "9_yet al pacino sells the heck out of his performance as danny collins.",
+                        0.5615020786355294
+                    ],
+                    [
+                        "12_how bad could a movie be that features talent as serious as al pacino, annette bening, christopher plummer, bobby cannavale and jennifer garner?",
+                        -0.5669252171245331
+                    ],
+                    [
+                        "18_an appealing comedy with an unabashed streak of melodrama, sharp dialogue, and a superb ensemble cast, anchored by a lead performance by al pacino in lovable scamp mode.",
+                        0.8117496142081523
+                    ],
+                    [
+                        "20_ pacino and a top cast make it mean something.",
+                        0.6068877212865871
+                    ],
+                    [
+                        "27_ ultimately sweet comedy-drama takes full advantage of pacino's larger-than-life persona (think \"glengarry glen ross,\" \"donnie brasco,\" \"the insider\") and his ability to add in lovely grace notes.",
+                        0.7944850530508789
+                    ],
+                    [
+                        "35_a familiar late-in-life redemption narrative, made surprisingly palatable by pacino's winning comic bravado, a superb supporting cast, and currents of real feeling that cut through the expected bromides about the emptiness of fortune and fame.",
+                        0.7291654598635595
+                    ]
+                ]
+            },
+            "Annette Bening": {
+                "args": [
+                    [
+                        "33_a cast of old pros (christopher plummer, annette bening, bobby cannavale, jennifer garner) and a touching final scene elevate the material just enough to redeem it.",
+                        0.5753252527471384
+                    ]
+                ]
+            },
+            "Kiff VandenHeuvel": {
+                "args": []
+            },
+            "Judith Hill": {
+                "args": []
+            },
+            "Jennifer Garner": {
+                "args": []
+            },
+            "Eric Schneider": {
+                "args": []
+            },
+            "Henri C. Wittelsohn": {
+                "args": []
+            },
+            "Patrick Kudej": {
+                "args": []
+            },
+            "Scott Lawrence": {
+                "args": []
+            },
+            "Eric Lange": {
+                "args": []
+            },
+            "Katarina Cas": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_ from the schematic snares in fogelman's script.",
+                0.5287159399275974
+            ],
+            [
+                "10_what fogelman doesn't quite achieve as screenwriter at the start of the film he makes up for in his directorial de",
+                0.7169073543289008
+            ],
+            [
+                "13_there's a nice fluidity and freedom to writer-director dan fogelman's storytelling, so things never become predictable.",
+                0.7028061017811543
+            ],
+            [
+                "15_\"danny collins,\" like its central character, has a good heart, and sometimes that's enough.",
+                0.6616014400902669
+            ],
+            [
+                "26_ as fictionalized by screenwriter dan fogelman, it becomes yet another soggy tale of father-son healing.",
+                -0.549764099485943
+            ],
+            [
+                "29_ of dan fogelman, writer of crazy, stupid, love and last vegas, the movie combines the compulsive sub-plotting of the former with the retirement-age asides of the latter.",
+                0.5346242896066397
+            ]
+        ],
+        "entities": {
+            "Dan Fogelman": {
+                "args": []
+            }
+        }
+    }
+}

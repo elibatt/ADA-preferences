@@ -1,0 +1,86 @@
+{
+    "writer": {
+        "args": [
+            [
+                "12_as exposed as the actors allow themselves to be, their mostly improvised script never takes them anywhere, and the rough edge of their banter seems to acknowledge as much.",
+                0.5204605336266181
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "2_it may fail as a movie, ",
+                -0.6232144049632992
+            ],
+            [
+                "5_the film is, like its predecessors, funny.",
+                0.7065090115274961
+            ],
+            [
+                "10_if you've seen either of the other movies, you've seen the trip to spain, whose variations are minor enough to be called negligible.",
+                0.6444943680632609
+            ],
+            [
+                "13_the trip to spain is the least of the movie trio ",
+                -0.5608426920980671
+            ],
+            [
+                "16_the trip films constitute the only movie franchise that matters.",
+                -0.6519811675418561
+            ],
+            [
+                "18_the trip to spain is a breezy study of aging men afraid they've lost their potency, their command of life, their once-certain enshrinement in the culture.",
+                0.5149807103656958
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Claire Keelan": {
+                "args": []
+            },
+            "Marta Barrio": {
+                "args": []
+            },
+            "Rob Brydon": {
+                "args": [
+                    [
+                        "11_keep your eye on brydon: he has some great tips for you.",
+                        0.8072069920079582
+                    ]
+                ]
+            },
+            "Tim Leach": {
+                "args": []
+            },
+            "Steve Coogan": {
+                "args": [
+                    [
+                        "3_the mercurial nature of fame acts as an ideal metaphor for the fleeting and uncertain nature of life itself - all of which, in the masterful hands of brydon, coogan and winterbottom, goes down more smoothly than a glass of rioja.",
+                        0.6966274487790123
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Michael Winterbottom": {
+                "args": [
+                    [
+                        "3_the mercurial nature of fame acts as an ideal metaphor for the fleeting and uncertain nature of life itself - all of which, in the masterful hands of brydon, coogan and winterbottom, goes down more smoothly than a glass of rioja.",
+                        0.6966274487790123
+                    ]
+                ]
+            }
+        }
+    }
+}

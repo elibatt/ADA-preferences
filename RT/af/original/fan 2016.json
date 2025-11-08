@@ -1,0 +1,98 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Maneesh Sharma": {
+                "args": [
+                    [
+                        "1_[director sharma] pads out the songless film with well-executed ",
+                        0.6926226974492875
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Yogendra Tiku": {
+                "args": []
+            },
+            "Miroslav Zaruba": {
+                "args": []
+            },
+            "Paul Blackwell": {
+                "args": []
+            },
+            "Lee Nicholas Harris": {
+                "args": []
+            },
+            "Gioacchino Jim Cuffaro": {
+                "args": []
+            },
+            "Shriya Pilgaonkar": {
+                "args": []
+            },
+            "Joanne Manchester": {
+                "args": []
+            },
+            "Farah Ahmed (II)": {
+                "args": []
+            },
+            "Deepika Amin": {
+                "args": []
+            },
+            "Joelle Koissi": {
+                "args": []
+            },
+            "Halima Nagori": {
+                "args": []
+            },
+            "Chandru Bhojwani": {
+                "args": []
+            },
+            "Waluscha De Sousa": {
+                "args": []
+            },
+            "Noni Harrison": {
+                "args": []
+            },
+            "Malgorzata Jaworska": {
+                "args": []
+            },
+            "Mariola Jaworska": {
+                "args": []
+            },
+            "Jack Gover": {
+                "args": []
+            },
+            "Zachary Coffin": {
+                "args": []
+            },
+            "Shah Rukh Khan": {
+                "args": []
+            },
+            "Pamela Betsy Cooper": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Habib Faisal": {
+                "args": []
+            },
+            "Sharat Katariya": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

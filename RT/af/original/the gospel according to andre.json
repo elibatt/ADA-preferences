@@ -1,0 +1,62 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "8_for everything gospel leaves out, it's at least nice to see a film that does for him what he's been doing for designers and celebrities for years: cheering him on.",
+                0.6302108652151728
+            ],
+            [
+                "13_the film amounts to essentially a long, intimate brunch conversation with its inimitable subject, and for those with even a passing interest in fashion, that should be plenty.",
+                0.6719123049433946
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Andre Leon Talley": {
+                "args": [
+                    [
+                        "1_all that glitters - or sparkles, or goes swish - is gospel in kate novack's intimate, absorbing portrait of legendary fashion editor andré leon talley.",
+                        0.7832530714254152
+                    ],
+                    [
+                        "3_it's a fascinating look at the self-invented andré leon talley, a bold, daring creation who never let anything obstruct his passions, curiosities and whims.",
+                        0.8139456095094553
+                    ],
+                    [
+                        "11_\"gospel\" presumes that simply filling the screen with mr. talley is enough.",
+                        -0.5743194017799333
+                    ]
+                ]
+            },
+            "Anna Wintour": {
+                "args": []
+            },
+            "Tamron Hall": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kate Novack": {
+                "args": [
+                    [
+                        "1_all that glitters - or sparkles, or goes swish - is gospel in kate novack's intimate, absorbing portrait of legendary fashion editor andré leon talley.",
+                        0.7832530714254152
+                    ]
+                ]
+            }
+        }
+    }
+}

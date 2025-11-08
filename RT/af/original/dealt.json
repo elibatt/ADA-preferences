@@ -1,0 +1,72 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Richard Turner (XXXI)": {
+                "args": [
+                    [
+                        "4_the card magician richard turner reveals that he has more than just a few tricks up his sleeve in luke korem's captivating documentary \"dealt.\"",
+                        0.6423277632760593
+                    ]
+                ]
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Luke Korem": {
+                "args": [
+                    [
+                        "1_director luke korem's documentary proves the lad's point.",
+                        0.6763719530126426
+                    ],
+                    [
+                        "4_the card magician richard turner reveals that he has more than just a few tricks up his sleeve in luke korem's captivating documentary \"dealt.\"",
+                        0.6423277632760593
+                    ],
+                    [
+                        "6_here's the deal: luke korem's documentary is a fascinating portrait of a blind card mechanic.",
+                        0.7151408049595276
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "3_\"dealt\" achieves the neat trick of giving its main subject a rewarding character arc.",
+                0.579345151539995
+            ]
+        ],
+        "entities": {
+            "Luke Korem": {
+                "args": []
+            },
+            "Bradley Jackson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_this is a movie that has lots of magic, in more ways than one.",
+                0.6399822192354206
+            ],
+            [
+                "3_\"dealt\" achieves the neat trick of giving its main subject a rewarding character arc.",
+                0.579345151539995
+            ],
+            [
+                "5_a polished portrait that should play very well to those with eye disease and to those who support them.",
+                0.7098629415239899
+            ]
+        ]
+    }
+}

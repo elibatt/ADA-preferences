@@ -1,0 +1,318 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_while the film is stuffed with cliches, at least they're the warm and fuzzy kind.",
+                0.7531379826411311
+            ],
+            [
+                "5_ it's the movie world's equivalent - a star vehicle.",
+                0.5993324628696828
+            ],
+            [
+                "6_one of these days, someone should make a movie about a really nasty old guy who, by the end of the story, is still a nasty old guy.",
+                -0.665043687696454
+            ],
+            [
+                "7_\"st. vincent\" may not be a great movie, ",
+                0.80351264383724
+            ],
+            [
+                "9_murray, of course, makes it all work well enough.",
+                0.6993380185045057
+            ],
+            [
+                "13_a movie with laughter, soul and a twisting path to the heart.",
+                0.67656563571693
+            ],
+            [
+                "19_the movie slumps into the hokey, and the actor's curdled misanthropy makes way for a soothing, implausible uplift.",
+                -0.5251062661069441
+            ],
+            [
+                "22_a piece of very well-made cheese, a movie in which one can feel its manipulations and heart-string pulling, ",
+                0.6860761470503927
+            ],
+            [
+                "30_for a movie about an irascible old coot babysitting a sweet-natured preteen boy, as vincent does when single parent maggie must work long hours at her hospital job, st. vincent goes down easier than it probably should.",
+                -0.5990589038152205
+            ],
+            [
+                "31_\"st. vincent,\" the movie, is a lot like its namesake character, vincent: overexuberant, a bit predictable, messy in a very self-conscious way.",
+                0.5607290234296212
+            ],
+            [
+                "38_ ultimately reveals its true self as a film equivalent of the gooey 1971",
+                0.6588468097121747
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Ted Melfi": {
+                "args": [
+                    [
+                        "5_give director melfi credit for knowing the capacity of the engine he has under its hood.",
+                        0.5035747513936064
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Ted Melfi": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_for that, all hail bill murray who whacks away at the script's sentimental softballs like a-rod in full swing.",
+                0.5262877088126939
+            ],
+            [
+                "31_\"st. vincent,\" the movie, is a lot like its namesake character, vincent: overexuberant, a bit predictable, messy in a very self-conscious way.",
+                0.5607290234296212
+            ],
+            [
+                "34_the overqualified actors often give quirky life to a script that denudes their characters of nuance.",
+                0.6891856502583786
+            ],
+            [
+                "39_here, in all its splendor, is a cinematic character as robust and colorful as \"a confederacy of dunces'\" ignatius j. reilly.",
+                0.7172828848039507
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Deirdre O'Connell": {
+                "args": []
+            },
+            "Larry Gray": {
+                "args": []
+            },
+            "Terrence Howard": {
+                "args": []
+            },
+            "Melissa McCarthy": {
+                "args": [
+                    [
+                        "4_it's good to see funny gal mccarthy playing the straight woman in this comedy rather than the appealing/appalling lout.",
+                        0.5634581884285805
+                    ]
+                ]
+            },
+            "Ron McLarty": {
+                "args": []
+            },
+            "J. Elaine Marcos": {
+                "args": []
+            },
+            "Kerry Flanagan": {
+                "args": []
+            },
+            "Scott Adsit": {
+                "args": []
+            },
+            "Melanie Nicholls-King": {
+                "args": []
+            },
+            "Brenda Wehle": {
+                "args": []
+            },
+            "Niles Fitch": {
+                "args": []
+            },
+            "Nathan Corddry": {
+                "args": []
+            },
+            "David Filippi": {
+                "args": []
+            },
+            "Reg E. Cathey": {
+                "args": []
+            },
+            "Jeff Bowser": {
+                "args": []
+            },
+            "Kimberly Quinn": {
+                "args": []
+            },
+            "David Iacono": {
+                "args": []
+            },
+            "Jaeden Lieberher": {
+                "args": []
+            },
+            "Richard Ford Grayling": {
+                "args": []
+            },
+            "Ann Dowd": {
+                "args": []
+            },
+            "Dario Barosso": {
+                "args": []
+            },
+            "Naomi Watts": {
+                "args": []
+            },
+            "Amber Clayton": {
+                "args": []
+            },
+            "Tom Durkin": {
+                "args": []
+            },
+            "Orlagh Cassidy": {
+                "args": []
+            },
+            "Bill Murray": {
+                "args": [
+                    [
+                        "2_for that, all hail bill murray who whacks away at the script's sentimental softballs like a-rod in full swing.",
+                        0.5262877088126939
+                    ],
+                    [
+                        "3_ next to murray, the key casting is jaeden lieberher as young oliver.",
+                        0.6242960458572442
+                    ],
+                    [
+                        "10_bill murray is one of those actors blessed with the gift of making bad behavior seem grizzled and adorable.",
+                        0.6239493370071887
+                    ],
+                    [
+                        "10_it's a valuable tool in any funny person's kit, and murray uses it to carry the benignly naughty st. vincent above its material.",
+                        0.745197838733789
+                    ],
+                    [
+                        "11_what is murray doing in this sort of tapioca?",
+                        -0.5998441424106683
+                    ],
+                    [
+                        "15_[murray's] freewheeling, deadpan image fuses so thoroughly with vincent's own endearingly grizzled misanthropy that it's hard to tell where the actor ends and the geezer begins.",
+                        0.7195929375984612
+                    ],
+                    [
+                        "16_of course, murray is the star attraction here, in a role that's both fan-friendly and reminiscent of the range he showed in \"broken flowers\" and \"lost in translation.\"",
+                        0.5788949412541655
+                    ],
+                    [
+                        "21_ the ride itself isn't always so bad, especially when you've got bill murray along for company.",
+                        -0.7370396194313569
+                    ],
+                    [
+                        "25_you can put murray in a drama or a comedy or almost anything that isn't too loud or too busy, and he'll drain the goo without also ditching the humanity.",
+                        -0.6851932167273396
+                    ],
+                    [
+                        "26_naturally, mr. murray is a joy to watch.",
+                        0.8196731513160832
+                    ],
+                    [
+                        "27_this is bill murray's movie, and he dominates (and redeems) every scene he's in.",
+                        0.625891898022388
+                    ],
+                    [
+                        "29_who wouldn't want to spend 102 minutes in the company of murray at his grumpy best - his eyes in a perpetual roll, annoyed by anyone and everything, ",
+                        -0.5503848996743164
+                    ],
+                    [
+                        "37_soaked in whiskey, dipped in brine, bill murray delivers a salty, acerbic, inebriated comic blast as the unlikeliest saint imaginable in st. vincent.",
+                        0.797717544959922
+                    ],
+                    [
+                        "38_amusing enough as long as bill murray sticks to his mean and ornery act ",
+                        0.5060426596358258
+                    ],
+                    [
+                        "40_it's fascinating to watch murray act circles around his existing appeal and play into it at the same time.",
+                        0.8015526077966562
+                    ],
+                    [
+                        "41_\"maybe even jack nicholson couldn't do a better job than murray playing this improbable hero - something that probably isn't going to be forgotten come oscar time.\"",
+                        -0.5725268433260247
+                    ]
+                ]
+            },
+            "Ray Iannicelli": {
+                "args": []
+            },
+            "Donna Mitchell": {
+                "args": []
+            },
+            "Ron Bush": {
+                "args": []
+            },
+            "Lenny Venito": {
+                "args": []
+            },
+            "Greta Lee": {
+                "args": []
+            },
+            "Brian Berrebbi": {
+                "args": []
+            },
+            "Frank Wood": {
+                "args": []
+            },
+            "Gabriel Hernández": {
+                "args": []
+            },
+            "Tim Wilson": {
+                "args": []
+            },
+            "Joann Lamneck": {
+                "args": []
+            },
+            "Katharina Damm": {
+                "args": []
+            },
+            "Portia": {
+                "args": []
+            },
+            "Addison Rose Melfi": {
+                "args": [
+                    [
+                        "5_give director melfi credit for knowing the capacity of the engine he has under its hood.",
+                        0.5035747513936064
+                    ]
+                ]
+            },
+            "Emma Fisher": {
+                "args": []
+            },
+            "Sade DeMorcy": {
+                "args": []
+            },
+            "Fred Evanko": {
+                "args": []
+            },
+            "Alexandra Fong": {
+                "args": []
+            },
+            "Maria Elena Ramirez": {
+                "args": []
+            },
+            "Maria-Christina Oliveras": {
+                "args": []
+            },
+            "James Andrew O'Connor": {
+                "args": []
+            },
+            "Elliott Santiago": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "12_ it sails ahead on the collective charms of its ensemble cast.",
+                0.6920902695742477
+            ]
+        ]
+    }
+}

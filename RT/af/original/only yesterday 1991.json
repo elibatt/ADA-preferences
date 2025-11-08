@@ -1,0 +1,127 @@
+{
+    "writer": {
+        "entities": {
+            "Isao Takahata": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Isao Takahata": {
+                "args": [
+                    [
+                        "1_half coming-of-age story, half adult drama, the film demonstrates takahata's belief that animation need not be limited to children's fantasy.",
+                        0.6965159207029838
+                    ],
+                    [
+                        "8_isao takahata's film is an animation miracle so subtle that it doesn't fully hit you till you take it home and into your dreams.",
+                        0.6964965656918951
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_ the story is what sets the film apart.",
+                0.6178943949950448
+            ],
+            [
+                "6_only yesterday is a meditation on coming of age, the ways our personalities are formed, and informed.",
+                0.6839276310758655
+            ],
+            [
+                "9_only yesterday may have been released in 1991 and take place in 1982 and 1966, ",
+                -0.5907395338538785
+            ],
+            [
+                "10_the movie will probably go over the heads of little children, ",
+                -0.5639643049776959
+            ],
+            [
+                "12_only yesterday can sometimes seem a little too random in what it chooses to show, ",
+                -0.5594759601190215
+            ],
+            [
+                "14_ it's also a breathtaking work of art on its own.",
+                0.8140551649270477
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Yuki Minowa": {
+                "args": []
+            },
+            "Ava Acres": {
+                "args": []
+            },
+            "Gianella Thielmann": {
+                "args": []
+            },
+            "Madeleine Rose Yen": {
+                "args": []
+            },
+            "Toshirô Yanagiba": {
+                "args": []
+            },
+            "Yorie Yamashita": {
+                "args": []
+            },
+            "Matt Yang King": {
+                "args": []
+            },
+            "Hope Levy": {
+                "args": []
+            },
+            "Alison Fernandez": {
+                "args": []
+            },
+            "Youko Honna": {
+                "args": []
+            },
+            "Yuuki Masuda": {
+                "args": []
+            },
+            "Mayumi Iizuka": {
+                "args": []
+            },
+            "Mona Marshall": {
+                "args": []
+            },
+            "Grey Griffin": {
+                "args": []
+            },
+            "Stephanie Sheh": {
+                "args": []
+            },
+            "Miki Imai": {
+                "args": []
+            },
+            "Jaden Betts": {
+                "args": []
+            },
+            "Matthew Yang King": {
+                "args": []
+            },
+            "Dev Patel": {
+                "args": []
+            },
+            "Daisy Ridley": {
+                "args": []
+            },
+            "Laura Bailey": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

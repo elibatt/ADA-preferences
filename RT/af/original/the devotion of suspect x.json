@@ -1,0 +1,36 @@
+{
+    "writer": {
+        "entities": {
+            "Keigo Higashino": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Kai Wang": {
+                "args": []
+            },
+            "Luyi Zhang": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Alec Su": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

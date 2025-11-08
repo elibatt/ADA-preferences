@@ -1,0 +1,82 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Corbett": {
+                "args": [
+                    [
+                        "4_steve gomer's fine fact-based, faith-based film showcases a career-highlight performance by john corbett.",
+                        0.705431600545197
+                    ]
+                ]
+            },
+            "Cara Buono": {
+                "args": []
+            },
+            "Chonda Pierce": {
+                "args": []
+            },
+            "Barry Corbin": {
+                "args": []
+            },
+            "Nelson Lee": {
+                "args": []
+            },
+            "Myles Moore": {
+                "args": []
+            },
+            "Gregory Alan Williams": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Steve Gomer": {
+                "args": [
+                    [
+                        "0_as directed by steven gomer, the film is hampered by uneven and sometimes awkward pacing.",
+                        -0.5507602803504252
+                    ],
+                    [
+                        "4_steve gomer's fine fact-based, faith-based film showcases a career-highlight performance by john corbett.",
+                        0.705431600545197
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Steve Armour": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_all saints is rather fascinating in its relationship to faith and religion.",
+                0.7375559920292287
+            ],
+            [
+                "1_it's a film not so much about scripture as it is about community.",
+                0.6465399395353659
+            ],
+            [
+                "3_all saints feels like a bit of a miracle.",
+                -0.5432399997365958
+            ],
+            [
+                "3_it's a faith-based movie inspired by a true story that lets its dramatic moments unfold without relying on melodrama.",
+                0.7940300415006624
+            ]
+        ]
+    }
+}

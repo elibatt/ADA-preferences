@@ -1,0 +1,121 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_ the movie is too timid to follow through when two macho guys are dared to kiss.",
+                -0.5948926238952492
+            ],
+            [
+                "5_what super troopers 2 is missing, and what the original more-or-less had, is that underdog dynamic.",
+                -0.7390926825379073
+            ],
+            [
+                "6_in that respect, the movie delivers on both counts.",
+                0.6666996898215088
+            ],
+            [
+                "7_ they've apparently come up with a film script while we wait.",
+                -0.5543346601073665
+            ],
+            [
+                "8_with a little more ambition, \"super troopers 2\" could have been something greater.",
+                -0.580047372443058
+            ],
+            [
+                "10_it's been 17 years since we last saw the super troopers.",
+                -0.5798490681007265
+            ],
+            [
+                "11_audiences that found \"paul blart: mall cop\" too demanding may relish \"super troopers 2.",
+                -0.5118163137259388
+            ],
+            [
+                "12_ultimately \"super troopers 2\" is a bad movie, ",
+                -0.8883929492907446
+            ],
+            [
+                "13_this non-indulger will attest that you don't have to be high to find this long-impending sequel to 2002's \"super troopers\" very funny indeed.",
+                -0.5724568333198525
+            ],
+            [
+                "19_at a moment when the image of crude police officers shirking their responsibilities is especially loaded in american culture, \"super troopers 2\" suffers a fate worse than ineptitude",
+                -0.5789849075377368
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jay Chandrasekhar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Emmanuelle Chriqui": {
+                "args": []
+            },
+            "Marisa Coughlan": {
+                "args": []
+            },
+            "Erik Stolhanske": {
+                "args": []
+            },
+            "Rob Lowe": {
+                "args": []
+            },
+            "Kevin Heffernan": {
+                "args": []
+            },
+            "Lynda Carter": {
+                "args": []
+            },
+            "Fred Savage": {
+                "args": []
+            },
+            "Paul Soter": {
+                "args": []
+            },
+            "Brian Cox": {
+                "args": []
+            },
+            "Steve Lemme": {
+                "args": []
+            },
+            "Jay Chandrasekhar": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Paul Soter": {
+                "args": []
+            },
+            "Erik Stolhanske": {
+                "args": []
+            },
+            "Steve Lemme": {
+                "args": []
+            },
+            "Kevin Heffernan": {
+                "args": []
+            },
+            "Jay Chandrasekhar": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_ they've apparently come up with a film script while we wait.",
+                -0.5543346601073665
+            ]
+        ]
+    }
+}

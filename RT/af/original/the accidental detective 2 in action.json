@@ -1,0 +1,35 @@
+{
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Kwang-soo Lee": {
+                "args": []
+            },
+            "Sung Dong-Il": {
+                "args": []
+            },
+            "Sang-woo Kwone": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Eon-hie Lee": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

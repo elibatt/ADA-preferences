@@ -1,0 +1,193 @@
+{
+    "writer": {
+        "args": [
+            [
+                "32_it has a smart script, imaginative filmmaking and a cast of fine actors that actually get to act.",
+                0.817663570522018
+            ]
+        ],
+        "entities": {
+            "Max Borenstein": {
+                "args": []
+            },
+            "Dan Gilroy": {
+                "args": []
+            },
+            "Derek Connolly": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_creedence clearwater revival thrums on the soundtrack - has any '70s movie managed to avoid it?",
+                -0.543335724848593
+            ],
+            [
+                "5_it is the platonic ideal of big, smart-dumb b-movie filmmaking - and, like kong himself, it must be seen to be believed.",
+                0.7024342831236441
+            ],
+            [
+                "6_a fun if muddled monster movie that gets its best jolts from the sheer size of its beasts.",
+                0.7938666771531815
+            ],
+            [
+                "9_every time the movie threatens to get interesting, one of its hordes of ersatz, non-animated characters shows up and starts talking again.",
+                0.755498511393997
+            ],
+            [
+                "10_ultimately, the film's vietnam setting is less about warfare and history than finding an intoxicating canvas for a pretty old story.",
+                0.7710280601244999
+            ],
+            [
+                "13_if the ultimate point of this movie is to get kong into the ring with godzilla, this isn't a bad appetizer.",
+                -0.8394591713185274
+            ],
+            [
+                "14_mostly, the movie gives the impression of serving as the opening salvo in a larger corporate enterprise.",
+                0.5443905639130332
+            ],
+            [
+                "18_if you're looking for a film that offers pure escapism, \"kong: skull island\" should definitely meet expectations.",
+                0.6289805366127641
+            ],
+            [
+                "19_\"kong: skull island\" is a big, noisy b-movie infused with moments of wit and sprightly visual sophistication, anchored by what surely must be the most enormous version of king kong since the giant ape made his screen de",
+                0.6652456349059976
+            ],
+            [
+                "22_a half-magnificent, half-misguided example of a 'show me the monster' movie.",
+                -0.5979244485859724
+            ],
+            [
+                "24_an unusual combination of thunderous monster movie and gritty war film, \"kong: skull island\" is a fresh take on a nearly 85-year-old classic.",
+                0.8219877974660916
+            ],
+            [
+                "25_\"kong: skull island\" is a saturday afternoon monster movie, nothing more and nothing less - that's what's good about it.",
+                -0.5193615296721489
+            ],
+            [
+                "26_ it deploys action-movie feints and horror-film frights capably amid its clichés and deaths.",
+                -0.6477493000921771
+            ],
+            [
+                "28_ it bought a really good movie, too.",
+                0.7075327572238366
+            ],
+            [
+                "34_the monster battles have enough wow to keep the movie rolling along, ",
+                0.5699848766682561
+            ],
+            [
+                "36_it's a king kong movie -- a state-of-the-art monster mash.",
+                0.5893050132242171
+            ],
+            [
+                "38_the thing that breaks the back of this movie, and makes the second half so much less prodigious than the first, is a simple matter of geography.",
+                -0.5554753886095307
+            ],
+            [
+                "39_scratches your monster-movie itch without ever once providing an injection of unpredictability or eccentricity.",
+                0.5237438376947905
+            ],
+            [
+                "42_a charming, insistent trifle, a monster movie that's unafraid to be cruel while also mining the genre's inherent silliness.",
+                -0.5074005609614798
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "32_it has a smart script, imaginative filmmaking and a cast of fine actors that actually get to act.",
+                0.817663570522018
+            ]
+        ],
+        "entities": {
+            "John Goodman": {
+                "args": []
+            },
+            "Samuel L. Jackson": {
+                "args": [
+                    [
+                        "2_ on the human side, the film is clumsily written, over-cast and underacted, with only frustrated soldier samuel l. jackson striking the right tone of crazy amid the chaos.",
+                        0.6089278379025409
+                    ]
+                ]
+            },
+            "Corey Hawkins": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": [
+                    [
+                        "0_skull island is just good enough-the sharp allusions, the moments of wit and warmth supplied by reilly's long-abandoned airman-to make one wish it were better.",
+                        -0.5548931735062901
+                    ],
+                    [
+                        "7_you'd say [reilly] was the comic relief, except kong: skull island can't seem to manage seriousness in the first place.",
+                        -0.5305835257096594
+                    ]
+                ]
+            },
+            "Brie Larson": {
+                "args": []
+            },
+            "John Ortiz": {
+                "args": []
+            },
+            "Tian Jing": {
+                "args": []
+            },
+            "Terry Notary": {
+                "args": []
+            },
+            "Tom Hiddleston": {
+                "args": [
+                    [
+                        "8_and it doesn't hurt when a great big monster movie features an a-list cast including john goodman, samuel l. jackson, brie larson, tom hiddleston and john c. reilly.",
+                        -0.5910405302493604
+                    ]
+                ]
+            },
+            "Toby Kebbell": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Jordan Vogt-Roberts": {
+                "args": [
+                    [
+                        "3_the action and special effects are mostly first-rate and vogt-roberts maintains a vaguely satiric tone that sidesteps schlockiness.",
+                        0.6459700847479609
+                    ],
+                    [
+                        "4_ vogt-roberts earns the right to blast \"run through the jungle.\"",
+                        0.5966410364750618
+                    ],
+                    [
+                        "20_the picture is grand and nutty and visually splendid: vogt-roberts knows he's gotta go big or go home, so he treads boldly ...",
+                        0.6845871277636387
+                    ],
+                    [
+                        "40_and director jordan vogt-roberts and industrial light and magic's kong is a cgi showstopper.",
+                        0.7069361890680992
+                    ],
+                    [
+                        "45_directed by jordan vogt-roberts with a gleeful, look-at-me-ma garishness that speaks to his background in tv comedy, the movie feels wonderfully close to self-parody.",
+                        -0.59252132769634
+                    ]
+                ]
+            }
+        }
+    }
+}

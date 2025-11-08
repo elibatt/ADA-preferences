@@ -1,0 +1,138 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_and so, this short, ramshackle, shrinking movie manages to stick with you.",
+                0.6077425287261722
+            ],
+            [
+                "1_there are two reasons to check out people places things - ",
+                0.5260911573875028
+            ],
+            [
+                "3_small, smart and inescapably independent, \"people places things\" has its own offbeat and charmingly low-key way of seeing the world.",
+                0.7595536429304252
+            ],
+            [
+                "5_as the movie progresses, will learns, in his low-key way, that life is full of unexpected twists, that love is hard to put away, and that people who share children can never fully leave each other.",
+                0.866466474048482
+            ],
+            [
+                "6_a movie that, much like the insufferable charlie, can't make up its mind about where to go or how to get there.",
+                -0.7759255079138669
+            ],
+            [
+                "8_it's a slight little movie, ",
+                0.5047797175011126
+            ],
+            [
+                "9_rampant cutesiness, improbable spontaneous decisions, indie-movie clichés, and the occasional decent one-liner.",
+                0.5550756742036365
+            ],
+            [
+                "10_but thanks to witty dialogue, strong performances and sure-handed direction, the movie's also smart,",
+                0.8716745063122907
+            ],
+            [
+                "11_strouse's film is about the changes that occur in all relationships and about letting go when it's time.",
+                0.7065615010240347
+            ],
+            [
+                "16_for a film with one eye on messy, real emotions, \"people, places, things\" undercuts itself with goofy humor.",
+                0.7399514548473678
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "James C. Strouse": {
+                "args": [
+                    [
+                        "15_a superb, comically gifted cast helps writer-director jim strouse lift this quite a few cuts above his previous work as well as above the general run of films about modern life and relationships.",
+                        0.8590051490357447
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Jessica Williams": {
+                "args": []
+            },
+            "Nancy Eng": {
+                "args": []
+            },
+            "Derrick Arthur": {
+                "args": []
+            },
+            "Gia Gadsby": {
+                "args": []
+            },
+            "Gavin Haag": {
+                "args": []
+            },
+            "Paul Castro Jr.": {
+                "args": []
+            },
+            "Aundrea Gadsby Gadsby": {
+                "args": []
+            },
+            "Regina Hall": {
+                "args": []
+            },
+            "Jason Dyer": {
+                "args": []
+            },
+            "Celia Au": {
+                "args": []
+            },
+            "Samantha Posey": {
+                "args": []
+            },
+            "Jemaine Clement": {
+                "args": []
+            },
+            "Dionne Audain": {
+                "args": []
+            },
+            "Michael Chernus": {
+                "args": []
+            },
+            "Stephanie Allynne": {
+                "args": []
+            },
+            "Matthew Maher": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "15_a superb, comically gifted cast helps writer-director jim strouse lift this quite a few cuts above his previous work as well as above the general run of films about modern life and relationships.",
+                0.8590051490357447
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "James C. Strouse": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "14_a mild, low-impact relationship dramedy with a droll script and considerable feeling.",
+                0.6153384523416935
+            ],
+            [
+                "15_a superb, comically gifted cast helps writer-director jim strouse lift this quite a few cuts above his previous work as well as above the general run of films about modern life and relationships.",
+                0.8590051490357447
+            ]
+        ]
+    }
+}

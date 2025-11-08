@@ -1,0 +1,189 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_this movie, premised on the idea that self-esteem trumps physical beauty, doesn't even believe in the product it's selling.",
+                -0.705496875452996
+            ],
+            [
+                "2_the most damning aspect of this movie, more damning even than its pandering or blatant commercialism, is how deeply unfunny it is.",
+                -0.7110952292586354
+            ],
+            [
+                "3_in what should have been a major breakthrough for this comedian, i feel pretty",
+                -0.7697658692368043
+            ],
+            [
+                "5_ the film's corporate sheen and feminist lip service (not to mention an abundance of soulcycle product placement) feel all too 2018.",
+                -0.6596197789242797
+            ],
+            [
+                "7_there's definitely a movie to be made that takes on society's obsession with appearance in a sharp, focused manner, ",
+                0.7788737813860052
+            ],
+            [
+                "7_ \"i feel pretty\" isn't it.",
+                -0.7535232372563664
+            ],
+            [
+                "8_in the case of i feel pretty, as corny and contrived as the final scenes are, you might actually applaud the message.",
+                -0.708255680851295
+            ],
+            [
+                "9_pretty presents its message is one of the film's biggest problems.",
+                0.5302101925012388
+            ],
+            [
+                "11_schumer redeems i feel pretty by completely and fearlessly buying into the premise, and delivering a few good lines that slice into the shallow idiocy of valuing beauty over brains and celebrities over common folk.",
+                -0.627589851762097
+            ],
+            [
+                "13_this film is unlikely to impress the academy, ",
+                -0.5617678336317508
+            ],
+            [
+                "17_if only the rest of the film had such complete confidence.",
+                -0.5478040714790908
+            ],
+            [
+                "19_\"i feel pretty\" takes a talented comic and casts her in the worst possible light (and i don't mean that literally.",
+                -0.7681403894936536
+            ],
+            [
+                "22_i would gladly watch a version of \"i feel pretty\" with a less privileged celebrity in the lead, ",
+                0.5487073424296047
+            ],
+            [
+                "24_the net result is a mildly likable movie that, in comedy terms, won't win any pageants.",
+                -0.6488543481496952
+            ],
+            [
+                "25_schumer is the movie, shamelessly comic... ",
+                0.5271323491409059
+            ],
+            [
+                "25_i feel pretty may go down as her signature picture.",
+                0.5657397218383464
+            ],
+            [
+                "26_as sweet as \"i feel pretty\" often is, it's also at times depressing.",
+                -0.5126049950825525
+            ],
+            [
+                "29_i know how \"i feel pretty\" wants me to feel.",
+                -0.7666090524365243
+            ],
+            [
+                "35_schumer remains likable, and the film has its moments, ",
+                0.5941022754470098
+            ],
+            [
+                "35_ there are so many excellent opportunities here for poignant cringe comedy that more often than not i feel pretty feels like a missed opportunity -- and a slow, ponderous one at that.",
+                -0.6642800367611396
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marc Silverstein": {
+                "args": []
+            },
+            "Abby Kohn": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Marc Silverstein": {
+                "args": []
+            },
+            "Abby Kohn": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "3_instead becomes a good idea totally hamstrung, gutted, eviscerated by poor writing.",
+                -0.781319158552849
+            ],
+            [
+                "10_on the minus side, it muddles its message with an overstuffed script, choppy editing, and some unnecessarily over-the-top moments.",
+                -0.6416459746244504
+            ],
+            [
+                "25_ also willing to take us straight into the character's pain.",
+                0.8084656189034802
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Rory Scovel": {
+                "args": []
+            },
+            "Michelle Williams": {
+                "args": []
+            },
+            "Lauren Hutton": {
+                "args": []
+            },
+            "Tom Hopper": {
+                "args": []
+            },
+            "Sasheer Zamata": {
+                "args": []
+            },
+            "Naomi Campbell": {
+                "args": []
+            },
+            "Amy Schumer": {
+                "args": [
+                    [
+                        "0_pretty is the second movie comedy within the last year in which schumer's inventive artistry is misused.",
+                        0.7250127566372795
+                    ],
+                    [
+                        "4_amy schumer is always fun company.",
+                        0.7290547587330932
+                    ],
+                    [
+                        "14_it's clear that ms. schumer knows a thing or two about sexist ideologies, real power struggles and all the deeply unfunny, unpretty rest.",
+                        -0.5159266808861447
+                    ],
+                    [
+                        "16_when it's good...and when schumer's fully locked into her take-no-prisoners charm assault, it's pretty undeniably delightful stuff.",
+                        0.7731452730476307
+                    ],
+                    [
+                        "22_ i can't deny the sweet-and-salty verve that schumer brings to this one.",
+                        0.6500207112520067
+                    ],
+                    [
+                        "33_a good-natured comedy with a sweet-and-saucy performance from schumer.",
+                        0.7938110516162035
+                    ],
+                    [
+                        "36_amy schumer plays yet another shallow new yorker with self-esteem issues in",
+                        0.5701588032819013
+                    ]
+                ]
+            },
+            "Busy Philipps": {
+                "args": []
+            },
+            "Aidy Bryant": {
+                "args": []
+            },
+            "Emily Ratajkowski": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

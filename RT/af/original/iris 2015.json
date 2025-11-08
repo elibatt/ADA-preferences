@@ -1,0 +1,159 @@
+{
+    "writer": {
+        "args": [
+            [
+                "3_this character is moving through.",
+                0.5667462677649717
+            ],
+            [
+                "22_an interest in fashion is not required to enjoy and admire this truly original character.",
+                0.6227243405221837
+            ]
+        ],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_'iris\" is a joyful look at an aging eccentric and an examination of the playful nature of design and fashion",
+                0.762661581413038
+            ],
+            [
+                "3_iris is an absolute kick, whether or not you care a whit about the world",
+                0.6324104195924062
+            ],
+            [
+                "5_the film plays like a refreshingly frank visit with a favorite relative.",
+                0.7087009694476711
+            ],
+            [
+                "7_\"iris\" serves as a spirited, often dazzling primer in how to fight the dying of the light and feel fabulous while doing it.",
+                0.6665202851161165
+            ],
+            [
+                "9_the chief virtue of \"iris\" is its amiability -",
+                0.5495343094520323
+            ],
+            [
+                "10_apfel is constantly chatting to \"albert\" off camera, not to us, and the affection adds an unusual meta level to iris ...",
+                0.6945150515979404
+            ],
+            [
+                "10_that intimacy is the movie's real subject",
+                0.550404094916031
+            ],
+            [
+                "15_ constant asset to \"iris.\"",
+                0.5668256658404598
+            ],
+            [
+                "16_there are few better ways right now to spend 80 movie minutes than to see iris, a delightful eye-opener about life, love, statement eyeglasses, bracelets the size of tricycle tires and the art of making the grandest of entrances.",
+                0.8246182947412138
+            ],
+            [
+                "17_the film exists as a document both of a witty, good-natured society fixture and of a very particular moment in history.",
+                0.8672051610762014
+            ],
+            [
+                "19_iris is more than just a movie about an amusing lady who likes clothes an awful lot.",
+                -0.6398846663389647
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Harold Koda": {
+                "args": []
+            },
+            "David Hoey": {
+                "args": []
+            },
+            "Naeem Khan": {
+                "args": []
+            },
+            "Bruce Weber": {
+                "args": []
+            },
+            "Tavi Gevinson": {
+                "args": []
+            },
+            "Carl Apfel": {
+                "args": []
+            },
+            "Iris Apfel": {
+                "args": [
+                    [
+                        "4_maysles simply presents lots of other designers telling apfel how brilliant she is, their testimony interspersed with pithy accounts of her past achievements.",
+                        0.659204293350344
+                    ],
+                    [
+                        "6_flamboyantly fashionable and filter-free, 93-year-old iris apfel is a delightfully quirky muse for legendary documentary filmmaker albert maysles's final solo film, iris.",
+                        0.7569931306332074
+                    ],
+                    [
+                        "9_it's a delight to spend time in apfel's company, and thanks to albert maysles, we can.",
+                        0.8148192210743589
+                    ],
+                    [
+                        "12_maysles' portrait of iris apfel, a 93-year-old self-described \"geriatric starlet,\" is surprisingly memorable, graced with an unforced ",
+                        0.8012490488671427
+                    ],
+                    [
+                        "14_traveling to vintage clothing stores from w. 27th st. to palm beach, fla., apfel creates excursions that are like time spent with your coolest, funniest and most sage aunt.",
+                        0.711218344082831
+                    ],
+                    [
+                        "20_maysles endearingly reveals apfel's blend of blind passion and keen practicality, her unflagging enthusiasm for transmitting her knowledge to young people, and her synoptic view of fashion as living history.",
+                        0.7697709953012863
+                    ]
+                ]
+            },
+            "Margaret Russell": {
+                "args": []
+            },
+            "Linda Fargo": {
+                "args": []
+            },
+            "Mickey Boardman": {
+                "args": []
+            },
+            "Billy Apfel": {
+                "args": []
+            },
+            "Alexis Bittar": {
+                "args": []
+            },
+            "Dries vanNoten": {
+                "args": []
+            },
+            "Duro Olowu": {
+                "args": []
+            },
+            "Jenny Lyons": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Albert Maysles": {
+                "args": [
+                    [
+                        "6_flamboyantly fashionable and filter-free, 93-year-old iris apfel is a delightfully quirky muse for legendary documentary filmmaker albert maysles's final solo film, iris.",
+                        0.7569931306332074
+                    ],
+                    [
+                        "9_it's a delight to spend time in apfel's company, and thanks to albert maysles, we can.",
+                        0.8148192210743589
+                    ]
+                ]
+            }
+        }
+    }
+}

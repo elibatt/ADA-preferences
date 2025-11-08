@@ -1,0 +1,113 @@
+{
+    "writer": {
+        "entities": {
+            "Hirokazu Koreeda": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Hirokazu Koreeda": {
+                "args": [
+                    [
+                        "6_the film essentially disintegrates before your eyes, with koreeda displaying little of the quiet elegance he's built his entire career upon.",
+                        0.7048130606957534
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_ its focus is finally too fuzzy to compel the way the best of the director's work does.",
+                0.8206806272416225
+            ],
+            [
+                "9_compelling enough while you're watching it, frustrating then forgettable once it ends, this is a work that wouldn't command much attention if it came from any other director.",
+                -0.6392730314983146
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"the third murder\" is an intriguing investigation into truth and the nature of justice.",
+                0.779762657166754
+            ],
+            [
+                "3_kore-eda is too polished a filmmaker for \"the third murder\" not to be of interest, ",
+                -0.5438467889974219
+            ],
+            [
+                "3_ its focus is finally too fuzzy to compel the way the best of the director's work does.",
+                0.8206806272416225
+            ],
+            [
+                "4_ the movie feels plotted rather than experienced.",
+                -0.5199522297711026
+            ],
+            [
+                "8_the film's fourth murder involves the slow asphyxiation of the viewer's patience.",
+                0.5769767855756629
+            ],
+            [
+                "9_compelling enough while you're watching it, frustrating then forgettable once it ends, this is a work that wouldn't command much attention if it came from any other director.",
+                -0.6392730314983146
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Izumi Matsuoka": {
+                "args": []
+            },
+            "Aju Makita": {
+                "args": []
+            },
+            "Yuki Saito": {
+                "args": []
+            },
+            "Kotaro Yoshida": {
+                "args": []
+            },
+            "Hajime Inoue": {
+                "args": []
+            },
+            "Miwako Ichikawa": {
+                "args": []
+            },
+            "Shinnosuke Mitsushima": {
+                "args": []
+            },
+            "Mikako Ichikawa": {
+                "args": []
+            },
+            "Suzu Hirose": {
+                "args": []
+            },
+            "Masaharu Fukuyama": {
+                "args": []
+            },
+            "Koji Yakusho": {
+                "args": [
+                    [
+                        "7_the back and forths between accused and lawyer are among the movie's most enthralling scenes, largely because the soft-featured mr. yakusho - lips lightly curling - can make a nice smile seem positively terrifying.",
+                        0.7864029033197116
+                    ]
+                ]
+            },
+            "Ichirô Ogura": {
+                "args": []
+            },
+            "Isao Hashizume": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

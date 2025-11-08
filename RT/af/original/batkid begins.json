@@ -1,0 +1,116 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Dana Nachman": {
+                "args": [
+                    [
+                        "0_the deeper we go into dana nachman's unquestioning, feature-length cheerleading film, the more uncomfortable i felt about the reaction of one person to that magical and overwhelming day.",
+                        0.5919078337351078
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Scott Clayton": {
+                "args": []
+            },
+            "Eric Johnston": {
+                "args": []
+            },
+            "Sue Johnston": {
+                "args": []
+            },
+            "Phillip Watt": {
+                "args": []
+            },
+            "Mike Jutan": {
+                "args": []
+            },
+            "Ama Daetz": {
+                "args": []
+            },
+            "Nick J. Scott": {
+                "args": []
+            },
+            "Teresa Clovicko": {
+                "args": []
+            },
+            "Scott Miles": {
+                "args": [
+                    [
+                        "6_the seams occasionally show, especially whenever the shy, overwhelmed miles grows tired or reluctant - or whenever the easily defeated villains start to look like so many overstuffed dolls - ",
+                        -0.6062938408639713
+                    ],
+                    [
+                        "9_nachman's documentary does a great job of showing the many pieces that came into place for miles' moment, ",
+                        0.8414065267834059
+                    ],
+                    [
+                        "16_yet there's still something about this oversize spectacle, and miles' ultimate place in it, that gives nagging pause.",
+                        0.6035841475052854
+                    ],
+                    [
+                        "18_the film isn't really about young miles (whose cancer is today in remission) ",
+                        -0.6755018286705091
+                    ]
+                ]
+            },
+            "Patricia Wilson": {
+                "args": []
+            },
+            "Natalie Scott": {
+                "args": []
+            },
+            "Jennifer Wilson": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Dana Nachman": {
+                "args": []
+            },
+            "Kurt Kuenne": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_unfortunately batkid begins is so rigidly upbeat that it begins to seem like one of those really cheesy hallmark movies on tv.",
+                -0.8050508207810412
+            ],
+            [
+                "5_batkid begins has the feel of a barn-raising gone global.",
+                -0.6357043631542924
+            ],
+            [
+                "8_\"batkid\" is a feel-good film, in the sense that the people who made this wish come true seem to feel pretty good about themselves.",
+                0.5626615435932912
+            ],
+            [
+                "10_the film will restore one's faith in humanity, at least during its running time.",
+                0.6799404748989494
+            ],
+            [
+                "11_marveling without questioning, the movie is content to package the phenomenon and coast on its feel-good wave.",
+                0.5600362440179009
+            ],
+            [
+                "19_\"batkid begins\" doesn't have answers for our many troubles, nor will it change the world, ",
+                0.6140041779753844
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

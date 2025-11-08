@@ -1,0 +1,239 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_so it's a surprise to discover that the bar for this movie is low enough to conga under.",
+                -0.6137021477665433
+            ],
+            [
+                "11_this film is not about anything other than its own coolness.",
+                -0.5524763925096816
+            ],
+            [
+                "12_that the movie is almost instantly forgettable is part of the pleasure.",
+                0.590623307497543
+            ],
+            [
+                "16_this is like an austin powers movie directed by wes anderson, ",
+                -0.5478422566069981
+            ],
+            [
+                "17_the man from u.n.c.l.e. plays like a lower key, vintage edition of a mission: impossible movie.",
+                -0.6482187966180616
+            ],
+            [
+                "17_it's a good movie with a great look.",
+                0.8431587969902603
+            ],
+            [
+                "21_actually, it does work, hitting the requisite number of hip notes.",
+                -0.6673705663498537
+            ],
+            [
+                "25_the threat that this mess of a movie might be followed by a sequel is enough to make anyone cry uncle.",
+                -0.7751437080462567
+            ],
+            [
+                "27_ritchie is a director with no instinct for the audience, and he can't hold things together for an entire film.",
+                -0.6592925738032583
+            ],
+            [
+                "28_holding out for a fun summer film?",
+                0.8358276772368959
+            ],
+            [
+                "30_this is a movie whose charm sneaks up on you, like a spy in the night.",
+                0.6960794048311526
+            ],
+            [
+                "32_cavill's solo, and the movie, are aggressively quippy, which is what happens when screenwriters set out to be funny ",
+                -0.541184449384573
+            ],
+            [
+                "33_\"the man from u.n.c.l.e.\" is only intermittently engaging and amusing, and those portions of the movie that succeed are also frustrating.",
+                0.572928037683238
+            ],
+            [
+                "34_it doesn't work this time.",
+                -0.7473850254023585
+            ],
+            [
+                "35_alas, the movie doesn't fulfil the tease of the opening sequence.",
+                -0.6867187284292487
+            ],
+            [
+                "38_u.n.c.l.e. has enough style and smarts to make it an amusingly louche summer movie: a cultivated mix of action and wit, suits and cities.",
+                0.6079736355790537
+            ],
+            [
+                "39_with brisk pacing, and a cast this attractive parading the kinds of fashions that will remind you how much you miss mad men, most of the movie boasts a mod crispness.",
+                0.6738487850723471
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "39_with brisk pacing, and a cast this attractive parading the kinds of fashions that will remind you how much you miss mad men, most of the movie boasts a mod crispness.",
+                0.6738487850723471
+            ]
+        ],
+        "entities": {
+            "Hugh Grant": {
+                "args": []
+            },
+            "Misha Kuznetsov": {
+                "args": []
+            },
+            "Alicia Vikander": {
+                "args": []
+            },
+            "Luca Calvani": {
+                "args": []
+            },
+            "Elizabeth Debicki": {
+                "args": []
+            },
+            "Peter Stark": {
+                "args": []
+            },
+            "Pablo Scola": {
+                "args": []
+            },
+            "Luca Della Valle": {
+                "args": []
+            },
+            "Riccardo Flammini": {
+                "args": []
+            },
+            "Andrea Cagliesi": {
+                "args": []
+            },
+            "Marianna Di Martino": {
+                "args": []
+            },
+            "Gabriel Farnese": {
+                "args": []
+            },
+            "Julian Michael Deuster": {
+                "args": []
+            },
+            "David Beckham": {
+                "args": []
+            },
+            "Sylvester Groth": {
+                "args": []
+            },
+            "Alessandro Ananasso": {
+                "args": []
+            },
+            "Christian Berkel": {
+                "args": []
+            },
+            "Elbio Bonsaglio": {
+                "args": []
+            },
+            "Cesare Taurasi": {
+                "args": []
+            },
+            "Michael J. Peluso": {
+                "args": []
+            },
+            "Henry Cavill": {
+                "args": [
+                    [
+                        "1_as for cavill, let us just say that the line between phlegmatic suavity and downright dullness is rather more easily breached than the berlin wall.",
+                        0.6219109669874536
+                    ]
+                ]
+            },
+            "Joana Metrass": {
+                "args": []
+            },
+            "Jared Harris": {
+                "args": []
+            },
+            "David Menkin": {
+                "args": []
+            },
+            "Sergio Marini": {
+                "args": []
+            },
+            "Simona Caparrini": {
+                "args": []
+            },
+            "Riccardo Calvanese": {
+                "args": []
+            },
+            "Francesco De Vito": {
+                "args": []
+            },
+            "Armie Hammer": {
+                "args": []
+            },
+            "Alan Turkington": {
+                "args": []
+            },
+            "Guy Williams": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Lionel Wigram": {
+                "args": []
+            },
+            "Guy Ritchie": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "27_ritchie is a director with no instinct for the audience, and he can't hold things together for an entire film.",
+                -0.6592925738032583
+            ]
+        ],
+        "entities": {
+            "Guy Ritchie": {
+                "args": [
+                    [
+                        "4_while it looks good - ritchie has always been a slick visual stylist - it's ultimately as passive as an old rerun.",
+                        0.6979529483026521
+                    ],
+                    [
+                        "16_ ritchie's personal style is very much in evidence.",
+                        0.5562003652678082
+                    ],
+                    [
+                        "18_as stylish as it is witty, guy ritchie's retro spy movie, the man from u.n.c.l.e., is a lovable lark and full of mischief.",
+                        0.7440136947244946
+                    ],
+                    [
+                        "22_guy ritchie makes the kind of enjoyably disreputable movies that are fun to watch until they're not.",
+                        0.6806158886328826
+                    ],
+                    [
+                        "26_composer daniel pemberton's evocations of early '60s \"danger\" music respect the period, which is more than can be said for ritchie's hatchet-style of staging and editing.",
+                        0.6313501939014792
+                    ],
+                    [
+                        "34_ short on substance, guy ritchie's ring-a-ding-ding cold war spy thriller attempts to resurrect a mothballed '60s tv series the way that mission:",
+                        -0.7066627582426959
+                    ],
+                    [
+                        "36_an unusually restrained guy ritchie serves up solid entertainment with a classy touch, ",
+                        0.5763466808400505
+                    ]
+                ]
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

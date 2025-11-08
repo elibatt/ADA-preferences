@@ -1,0 +1,331 @@
+{
+    "writer": {
+        "entities": {
+            "Paul Tamasy": {
+                "args": []
+            },
+            "Scott Silver": {
+                "args": []
+            },
+            "Eric Johnson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "23_the script embraces certain character archetypes wholeheartedly (pig-headed crew mate",
+                0.5490245681051199
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Craig Gillespie": {
+                "args": [
+                    [
+                        "28_the tale-telling ability of director craig gillespie is frustratingly inconsistent.",
+                        -0.5002756715085849
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "4_it feels like a parody of a prestige film, like one of the fake oscar trailers in \"tropic thunder.\"",
+                -0.7038662204203963
+            ],
+            [
+                "8_there's nothing subtle about the finest hours, ",
+                0.5379586037046075
+            ],
+            [
+                "9_\"the finest hours\" tells a noble story of brave men who risked their lives to help others.",
+                0.8882939969839415
+            ],
+            [
+                "10_gillespie (million dollar arm) and his screenwriters laudably strive to keep true to the film's real-life account from 1952...",
+                0.7793851199225863
+            ],
+            [
+                "10_ history often needs more than just the bare facts to make for a satisfying movie.",
+                0.5228824502672015
+            ],
+            [
+                "12_the heroism of that small-boat crew from 1952 deserves a special film.",
+                0.6226389380963788
+            ],
+            [
+                "15_the finest hours is all about action, suspense, and tension, and it rarely lets its audience down on any of those accounts.",
+                0.6874109926805426
+            ],
+            [
+                "16_it's a movie made for the kind of audiences who feel that movies aren't made for them anymore - you know who you are.",
+                -0.5050186854259267
+            ],
+            [
+                "18_\"the finest hours\" is set in the early '50s.",
+                0.7492341973241008
+            ],
+            [
+                "20_on the waves, the film finally finds its sea legs and delivers an old-school adventure based on a heroic deliverance that deserves its day in the sun.",
+                0.8858187211894223
+            ],
+            [
+                "21_the finest hours... splits in two much like the wounded vessel at its heart.",
+                0.6355712068614292
+            ],
+            [
+                "21_there's the film that's set on the sea and much of that is pretty terrific...",
+                0.7796381896775342
+            ],
+            [
+                "21_and then there's the film set on land, and that one runs aground.",
+                0.54502805215839
+            ],
+            [
+                "22_somewhere in here, there's a pretty decent movie.",
+                -0.5021792859943507
+            ],
+            [
+                "26_the finest hours rocks the boat in terms of blizzard-blitzed sea thrills ",
+                0.6045797062822218
+            ],
+            [
+                "29_\"the finest hours\" never departs from a tried-and-true formula, ",
+                0.5873948879027191
+            ],
+            [
+                "30_the whole cast and crew all put in a solid shift at the office making the movie, producing a perfectly entertaining, sometimes quite well-crafted disaster drama that nonetheless retreats from the memory almost as soon as the credits roll.",
+                0.8531467723340633
+            ],
+            [
+                "31_the movie's all ship, no crew.",
+                -0.716422980878254
+            ],
+            [
+                "32_while its first-act romance has a sweetly nostalgic, andy hardy glow, and its high-seas action sequences are mildly thrilling, the finest hours ultimately feels too harmless and predictable to fully surrender to.",
+                0.6233507755910999
+            ],
+            [
+                "34_we're told that a certain action is impossible, until it isn't, or that a certain thing would never happen, and then it does, so even with all those lives on the line, the movie can't effectively build up stakes or consequences.",
+                -0.6807519773636893
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Savanna Young": {
+                "args": []
+            },
+            "Danny Connelly (II)": {
+                "args": []
+            },
+            "Patrick Walsh": {
+                "args": []
+            },
+            "Karl Carlo Green": {
+                "args": []
+            },
+            "John Magaro": {
+                "args": []
+            },
+            "Josh Stewart": {
+                "args": []
+            },
+            "Michael Marchand": {
+                "args": []
+            },
+            "Stew Replogle": {
+                "args": []
+            },
+            "Matthew Maher": {
+                "args": []
+            },
+            "Justin Blanchard": {
+                "args": []
+            },
+            "David Riccio, Jr.": {
+                "args": []
+            },
+            "Savannah Rae Allen": {
+                "args": []
+            },
+            "Holliday Grainger": {
+                "args": [
+                    [
+                        "25_the ocean-set peril grows monotonous, and the attempts to infuse grainger's worry-girl role with some agency and dramatic urgency are noble, ",
+                        -0.5005814881745696
+                    ]
+                ]
+            },
+            "Savanna Young-Norris": {
+                "args": []
+            },
+            "Abraham Benrubi": {
+                "args": []
+            },
+            "Michael Maggiani": {
+                "args": []
+            },
+            "Joseph Oliveira": {
+                "args": []
+            },
+            "Kate Crowley": {
+                "args": []
+            },
+            "Jesse Gabbard": {
+                "args": []
+            },
+            "Thomas Brogan": {
+                "args": []
+            },
+            "Kate Jurdi": {
+                "args": []
+            },
+            "Alexander Cook": {
+                "args": []
+            },
+            "Kyle Gallner": {
+                "args": []
+            },
+            "Gene Harrison": {
+                "args": []
+            },
+            "London Hall": {
+                "args": []
+            },
+            "John Vincent Mason": {
+                "args": []
+            },
+            "Jay Street": {
+                "args": []
+            },
+            "Robert Glenn": {
+                "args": []
+            },
+            "David Riccio Jr.": {
+                "args": []
+            },
+            "John Ortiz": {
+                "args": []
+            },
+            "Ben Koldyke": {
+                "args": []
+            },
+            "Doug McHugh": {
+                "args": []
+            },
+            "Lance Norris": {
+                "args": []
+            },
+            "Ernest Anemone": {
+                "args": []
+            },
+            "Harley Harrison": {
+                "args": []
+            },
+            "Eric Bana": {
+                "args": []
+            },
+            "Steve Rasetta": {
+                "args": []
+            },
+            "Larry Eudene": {
+                "args": []
+            },
+            "George J. Vezina": {
+                "args": []
+            },
+            "Roberto Lopez": {
+                "args": []
+            },
+            "Kristen Annese": {
+                "args": []
+            },
+            "Casey Affleck": {
+                "args": [
+                    [
+                        "7_this disaster flick manages to stay afloat largely thanks to the yeoman efforts of casey affleck.",
+                        0.5630270339125689
+                    ]
+                ]
+            },
+            "Trevor Dylan": {
+                "args": []
+            },
+            "Keiynan Lonsdale": {
+                "args": []
+            },
+            "Beau Knapp": {
+                "args": []
+            },
+            "Polly Pillsbury": {
+                "args": []
+            },
+            "Ben Foster": {
+                "args": []
+            },
+            "John Gigliotti": {
+                "args": []
+            },
+            "Rachel Ramey": {
+                "args": []
+            },
+            "Bobby Kenney": {
+                "args": []
+            },
+            "Graham McTavish": {
+                "args": []
+            },
+            "Michael Raymond-James": {
+                "args": []
+            },
+            "Carl M. Reppucci": {
+                "args": []
+            },
+            "Chris Pine": {
+                "args": [
+                    [
+                        "2_impressive storm sequences and a very good pine almost save the day.",
+                        0.6430992825910898
+                    ],
+                    [
+                        "27_[pine is] the movie's finest special effect-not because he plays webber as mindlessly brave ",
+                        0.776005902395491
+                    ]
+                ]
+            },
+            "Michael Steven Swanson": {
+                "args": []
+            },
+            "Joseph Aubrey II": {
+                "args": []
+            },
+            "Nicholas Varga": {
+                "args": []
+            },
+            "Joseph E.G. Barrett": {
+                "args": []
+            },
+            "Rachel Brosnahan": {
+                "args": []
+            },
+            "Angela Hope Smith": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "30_the whole cast and crew all put in a solid shift at the office making the movie, producing a perfectly entertaining, sometimes quite well-crafted disaster drama that nonetheless retreats from the memory almost as soon as the credits roll.",
+                0.8531467723340633
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

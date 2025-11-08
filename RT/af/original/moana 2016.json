@@ -1,0 +1,230 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {
+            "melody": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "40_contemporary disney at its finest - a vibrantly rendered adventure that combines state-of-the-art cg animation with traditional storytelling and colorful characters, all enlivened by a terrific voice cast.",
+                0.8407732753335222
+            ]
+        ],
+        "entities": {
+            "Oscar Kightley": {
+                "args": []
+            },
+            "Alan Tudyk": {
+                "args": []
+            },
+            "Rachel House": {
+                "args": []
+            },
+            "Louise Bush": {
+                "args": []
+            },
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "3_story of pacific islander girl on a quest benefits from dwayne johnson's comic timing and a lin-manuel miranda soundtrack",
+                        0.702968853494403
+                    ],
+                    [
+                        "33_dwayne johnson shines as maui.",
+                        0.6650564190916171
+                    ]
+                ]
+            },
+            "Jemaine Clement": {
+                "args": []
+            },
+            "Auli'i Cravalho": {
+                "args": [
+                    [
+                        "8_[moana] has supercharged wit, eye-popping visuals featuring azure seas and glowing coral, spirited voice work from auli'i cravalho as moana and dwayne johnson.",
+                        0.615329130376107
+                    ],
+                    [
+                        "33_, is auli'i cravalho, winning the day and carrying the movie as the wonderful and quite lovable moana.",
+                        0.897512826248194
+                    ]
+                ]
+            },
+            "Temuera Morrison": {
+                "args": [
+                    [
+                        "33_temuera morrison and nicole scherzinger are terrific voicing moana's loving parents.",
+                        0.8089100320462747
+                    ]
+                ]
+            },
+            "Puanani Cravalho": {
+                "args": []
+            },
+            "Troy Polamalu": {
+                "args": []
+            },
+            "Nicole Scherzinger": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "John Musker": {
+                "args": []
+            },
+            "Chris Williams (IX) ": {
+                "args": []
+            },
+            "Don Hall": {
+                "args": []
+            },
+            "Ron Clements": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "24_moana pays homage to pacific islanders by introducing us to a strong female character unlike any we've seen in mainstream films - a hero who is both smart and sympathetic, strong and compassionate, independent yet belongs to a group.",
+                0.8138878924265622
+            ],
+            [
+                "31_[moana] is an excellent character with spirit, doubts, drive and a heck of a voice.",
+                0.8871711373503083
+            ],
+            [
+                "43_much to its credit, the screenplay makes moana an interesting, self-actualized character.",
+                0.5990676703102554
+            ]
+        ],
+        "entities": {
+            "Jared Bush": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_ the movie is refreshing for its lack of a love interest",
+                0.5954705168092043
+            ],
+            [
+                "1_ instead moana learns how to chart her own course.",
+                0.5735257192067693
+            ],
+            [
+                "2_an absolute delight, a lush, exuberant quest fable full of big musical numbers and featuring perhaps the most stunning visuals of any disney film to date.",
+                0.7963163606881793
+            ],
+            [
+                "4_the film achieves what the best disney animated features do: a sense of place that is refined and specific.",
+                0.8749890034634917
+            ],
+            [
+                "5_[moana] is beautiful in more ways than i can tell, thanks to the brilliance of more animators than i could count.",
+                0.8118035617365941
+            ],
+            [
+                "6_moana is a movie of natural delights.",
+                0.650963497460529
+            ],
+            [
+                "11_if movies are meant to be a getaway, \"moana\" is like a vacation.",
+                -0.711589674575732
+            ],
+            [
+                "12_while moana's story is rooted in the past, she's a modern heroine, a smart, resourceful leader who learns to find her own way.",
+                0.7833666019747713
+            ],
+            [
+                "13_\"moana\" is a welcome step forward in its message and its look, and for young women characters in this type of film.",
+                0.8073076781031405
+            ],
+            [
+                "14_paying respect and homage to the polynesian culture and its ancient mythology, the walt disney animation moana is as culturally rich as it is entertaining.",
+                0.8029576315736979
+            ],
+            [
+                "15_moana is solid \"retro disney\" - a new film that embraces older ideas, themes, and narrative approaches.",
+                0.7679396658813862
+            ],
+            [
+                "18_disney continues its animation roll with moana, a seafaring quest that sails past its one rocky patch with visual brilliance and several broadway-ready songs, the latter conjured in part by hamilton's lin-manuel miranda.",
+                -0.5134408727778998
+            ],
+            [
+                "19_while the main themes of \"moana\" are identity and self-discovery - familiar territory, to be sure - the film manages to enliven such well-traveled latitudes with a breeze as fresh as the islands.",
+                0.7595995984199669
+            ],
+            [
+                "20_the film is bright, busy, enjoyable, progressive without being insufferable.",
+                0.6216402016705226
+            ],
+            [
+                "21_\"moana\" is a case of inspired visual and musical forms packaging wishy-washy substance.",
+                -0.5198540724081943
+            ],
+            [
+                "22_the film is richer for its attention to heritage, going far beyond surface aesthetics, building the foundation of \"moana\" on the values and beliefs that make up this culture.",
+                0.7300891395525293
+            ],
+            [
+                "24_moana pays homage to pacific islanders by introducing us to a strong female character unlike any we've seen in mainstream films - a hero who is both smart and sympathetic, strong and compassionate, independent yet belongs to a group.",
+                0.8138878924265622
+            ],
+            [
+                "25_moana would have been enormously entertaining regardless of when it came out, ",
+                0.5510056457839582
+            ],
+            [
+                "29_[a] lovely, reassuring hug of a movie ...",
+                0.7526221828686612
+            ],
+            [
+                "30_moana 's great heart and great humor actively subvert the violent, egocentric, macho mind-set that dominates so many popular stories.",
+                0.8602114211125516
+            ],
+            [
+                "31_[moana] is an excellent character with spirit, doubts, drive and a heck of a voice.",
+                0.8871711373503083
+            ],
+            [
+                "34_ how dumb is it that in 2016 we still have to compliment a kids' movie for that?",
+                -0.6797064785258529
+            ],
+            [
+                "35_for the most part ... the movie feels more heartfelt than calculated, no small feat after decades of princesses, journeys, and \"i want\" songs.",
+                0.5406438013229367
+            ],
+            [
+                "37_moana makes for a great role model for young children, especially girls.",
+                0.7721269519543121
+            ],
+            [
+                "38_moana's indisputable saving grace is how good it looks - really, better than any other disney movie to date, overflowing with lush, brazen beauty.",
+                0.7158262318208602
+            ],
+            [
+                "41_moana has a lot of the hallmarks of your classic disney adventure - the goofy animal sidekicks, the feel-good messages - ",
+                0.7793853254936426
+            ],
+            [
+                "42_\"moana\" keeps with the tradition that made disney the leader in animated fairy and folk tales, and yet, showing a thoroughly modern touch, it's the first to do so without so much as suggesting a love interest.",
+                0.8038320759969148
+            ],
+            [
+                "43_much to its credit, the screenplay makes moana an interesting, self-actualized character.",
+                0.5990676703102554
+            ]
+        ]
+    }
+}

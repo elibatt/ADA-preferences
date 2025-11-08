@@ -1,0 +1,80 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_once valentina lands in mexico and reunites with her arrested development-style clan of wealthy, dysfunctional, clueless, and highly corruptible screw-ups, la boda de valentina finds its groove in satisfying caricature.",
+                0.8002279198450879
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Marco Polo Constandse": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Santiago Limón": {
+                "args": []
+            },
+            "Issa López": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Marimar Vega": {
+                "args": []
+            },
+            "Jesús Zavala": {
+                "args": []
+            },
+            "Amparo Barcia": {
+                "args": []
+            },
+            "Yolanda Abbud": {
+                "args": []
+            },
+            "Tony Dalton": {
+                "args": []
+            },
+            "Ingrid Dion": {
+                "args": []
+            },
+            "Omar Chaparro": {
+                "args": []
+            },
+            "Sabine Moussier": {
+                "args": []
+            },
+            "Prosha Hussein": {
+                "args": []
+            },
+            "Kate Vernon": {
+                "args": []
+            },
+            "Christian Tappán": {
+                "args": []
+            },
+            "Álvaro Carcaño": {
+                "args": []
+            },
+            "Ryan Carnes": {
+                "args": []
+            },
+            "Harding Junior": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

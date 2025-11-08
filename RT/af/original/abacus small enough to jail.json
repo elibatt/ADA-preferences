@@ -1,0 +1,65 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "1_\"abacus\" is probably the only film made in the past decade that could get an audience rooting for a bank, ",
+                -0.7352491532829937
+            ],
+            [
+                "6_the film's director, who would make an excellent character witness for the defence, raises ... questions ",
+                0.8812340380440528
+            ],
+            [
+                "7_as gripping as the movie is as a legal thriller, it's even more notable as a portrait of a community.",
+                0.8257955659356471
+            ],
+            [
+                "8_the film persuasively argues that any fraud at abacus occurred at a low level, and that the bank dealt with it swiftly and properly.",
+                0.671442383273808
+            ],
+            [
+                "14_the movie wants us to raise our fists and shout, \"yes, that's what happened.",
+                -0.5021245797947612
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "6_the film's director, who would make an excellent character witness for the defence, raises ... questions ",
+                0.8812340380440528
+            ]
+        ],
+        "entities": {
+            "Steve James": {
+                "args": [
+                    [
+                        "0_the personalities make the picture, and james' camera presence is such that \"abacus\" never seems to gin up or theatricalize anyone's ",
+                        -0.5636697332578335
+                    ],
+                    [
+                        "2_using drawings and courtroom testimony, james creates a tense courtroom drama out of seemingly dry material.",
+                        -0.5293646353002598
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_the film's director, who would make an excellent character witness for the defence, raises ... questions ",
+                0.8812340380440528
+            ]
+        ],
+        "entities": {}
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_live by night is a solid, interesting ",
+                0.6517807848223068
+            ],
+            [
+                "4_here, the outlaw-as-hero trick just doesn't work",
+                -0.7774385541739464
+            ],
+            [
+                "5_it sure looks great - it was lensed by tarantino regular robert richardson - and its gangster-movie tropes are familiar, yet welcome.",
+                0.6618449162874903
+            ],
+            [
+                "7_i was enjoying live by night as a guilty pleasure of sorts and was on the verge of giving it a qualified recommendation until the last 10 minutes, which are equal parts predictable and way, way over the top.",
+                0.5066817643408195
+            ],
+            [
+                "9_somber, well-judged and admirably ambitious, \"live by night\" nonetheless falls short of being essential, its familiar moving parts heading predictably toward a conclusion that feels mechanical and preordained.",
+                0.5365200749410846
+            ],
+            [
+                "10_trimmed down from a 400-page novel by dennis lehane, the film has a swarm of interesting denizens and plot ingredients.",
+                -0.676097940160862
+            ],
+            [
+                "11_affleck went maximalist with live by night, and it was, indeed, too much.",
+                -0.5547451264310029
+            ],
+            [
+                "12_\"live by night\" may look first-rate (",
+                0.5545978599251854
+            ],
+            [
+                "18_too bad his movie is so deadly dull.",
+                -0.875388610085066
+            ],
+            [
+                "19_if there's any surprise in live by night, it's how good it feels to watch a gangster battle the kkk in the year 2017.",
+                -0.5555056266224982
+            ],
+            [
+                "23_for all its sporadic philosophizing and belated stabs at romance, live by night is cold and inert at its core.",
+                -0.709775911555951
+            ],
+            [
+                "31_it's difficult to avoid sizing up \"live by night\" as \"the town\" with a classier wardrobe ",
+                -0.5438482357248142
+            ],
+            [
+                "34_while his boston-based crime dramas gone baby gone and the town were lean and gritty, with no-nonsense thrills that called to mind the work of director don siegel, this more ambitious epic comes off as bloated and meandering.",
+                0.5296567739368396
+            ],
+            [
+                "35_chock-full of sturdy fedoras, thick accents and double-crossing mobsters, the resulting film is both remarkably compelling and a bewildering mixed bag.",
+                0.5767014616273413
+            ],
+            [
+                "36_\"live by night\" may be about rum, ",
+                0.555551139726859
+            ],
+            [
+                "38_it's like seeing the ghost of a terrific movie:",
+                0.7178503110616341
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "22_as a director, he's too enamored of his star to push the character to the uncomfortable places that are demanded by this tale steeped in contradictory moral and ethical extremes.",
+                0.6559372066402085
+            ],
+            [
+                "34_while his boston-based crime dramas gone baby gone and the town were lean and gritty, with no-nonsense thrills that called to mind the work of director don siegel, this more ambitious epic comes off as bloated and meandering.",
+                0.5296567739368396
+            ]
+        ],
+        "entities": {
+            "Ben Affleck": {
+                "args": [
+                    [
+                        "1_one of the film's final set pieces is so wonderfully staged that it reminds you what skill affleck has with the camera.",
+                        0.7608590151367515
+                    ],
+                    [
+                        "8_writer-director-star ben affleck goes for broke and goes bust with an american tale that mistakes muchness for greatness.",
+                        0.5092152342462244
+                    ],
+                    [
+                        "12_ affleck's direction, whether it's action or simply two people, seething, is routine) ",
+                        0.5266687664802985
+                    ],
+                    [
+                        "13_it's worth seeing for affleck's charismatic performance and for its vision of america as a land of greed, violence and political expediency that some moviegoers will find all too familiar.",
+                        0.815687224586101
+                    ],
+                    [
+                        "16_as an actor, affleck is a strong, reassuring presence",
+                        0.7274046982682069
+                    ],
+                    [
+                        "25_still, affleck shines as a director of actors and action.",
+                        0.6915539833186852
+                    ],
+                    [
+                        "27_live by night is clearly affleck's love letter to classic pulp, and almost no noir touchstone goes unturned in its two-hour-plus run: sharp-suited mafiosi, hip-swinging vixens, bloody shoot-outs, double crosses.",
+                        -0.6754183935558871
+                    ],
+                    [
+                        "28_mr. affleck handles the busy narrative without finding its hook, ",
+                        -0.516371360841152
+                    ],
+                    [
+                        "29_you can sense the contours of an absorbing story as writer/director/star ben affleck's slapdash and fragmented assemblage limps along.",
+                        0.5968546012004835
+                    ],
+                    [
+                        "32_the navy-blue cinematography of boston is well lit, the florida atmosphere looks like a commercial for dade county orange juice, the actors all look like they are awaiting directions from affleck by cell phone.",
+                        -0.5889899707516348
+                    ],
+                    [
+                        "33_the movie looks quite nice, thanks to affleck, and that's about the most you can say for its hero, too.",
+                        0.8314797218991986
+                    ],
+                    [
+                        "37_the ... nagging hole in the thriller is affleck himself, playing a tough guy with a sense of right and wrong, in a stolid performance that takes up a lot of space without packing the necessary gravitas.",
+                        -0.5404326213645578
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "15_the problems are a screenplay that can't decide which story to tell, unmemorable casting choices in key supporting roles, and a central performance that, curiously, isn't very much there.",
+                -0.506381484479156
+            ],
+            [
+                "16_ his performance is an anchor holding things in place and allowing for a flotilla of strong supporting portrayals.",
+                0.7945504413900161
+            ]
+        ],
+        "entities": {
+            "Anthony Palermo": {
+                "args": []
+            },
+            "Danny Kitz": {
+                "args": []
+            },
+            "Miguel J. Pimentel": {
+                "args": []
+            },
+            "Eduardo Cruz": {
+                "args": []
+            },
+            "Ryan Young": {
+                "args": []
+            },
+            "Michael Mantell": {
+                "args": []
+            },
+            "Ben Affleck": {
+                "args": [
+                    [
+                        "1_one of the film's final set pieces is so wonderfully staged that it reminds you what skill affleck has with the camera.",
+                        0.7608590151367515
+                    ],
+                    [
+                        "8_writer-director-star ben affleck goes for broke and goes bust with an american tale that mistakes muchness for greatness.",
+                        0.5092152342462244
+                    ],
+                    [
+                        "12_ affleck's direction, whether it's action or simply two people, seething, is routine) ",
+                        0.5266687664802985
+                    ],
+                    [
+                        "13_it's worth seeing for affleck's charismatic performance and for its vision of america as a land of greed, violence and political expediency that some moviegoers will find all too familiar.",
+                        0.815687224586101
+                    ],
+                    [
+                        "16_as an actor, affleck is a strong, reassuring presence",
+                        0.7274046982682069
+                    ],
+                    [
+                        "25_still, affleck shines as a director of actors and action.",
+                        0.6915539833186852
+                    ],
+                    [
+                        "27_live by night is clearly affleck's love letter to classic pulp, and almost no noir touchstone goes unturned in its two-hour-plus run: sharp-suited mafiosi, hip-swinging vixens, bloody shoot-outs, double crosses.",
+                        -0.6754183935558871
+                    ],
+                    [
+                        "28_mr. affleck handles the busy narrative without finding its hook, ",
+                        -0.516371360841152
+                    ],
+                    [
+                        "29_you can sense the contours of an absorbing story as writer/director/star ben affleck's slapdash and fragmented assemblage limps along.",
+                        0.5968546012004835
+                    ],
+                    [
+                        "32_the navy-blue cinematography of boston is well lit, the florida atmosphere looks like a commercial for dade county orange juice, the actors all look like they are awaiting directions from affleck by cell phone.",
+                        -0.5889899707516348
+                    ],
+                    [
+                        "33_the movie looks quite nice, thanks to affleck, and that's about the most you can say for its hero, too.",
+                        0.8314797218991986
+                    ],
+                    [
+                        "37_the ... nagging hole in the thriller is affleck himself, playing a tough guy with a sense of right and wrong, in a stolid performance that takes up a lot of space without packing the necessary gravitas.",
+                        -0.5404326213645578
+                    ]
+                ]
+            },
+            "Peter Arpesella": {
+                "args": []
+            },
+            "Andrew Bongiorno": {
+                "args": []
+            },
+            "Anthony Michael Hall": {
+                "args": []
+            },
+            "Lewis Wheeler": {
+                "args": []
+            },
+            "Gabriel Silva": {
+                "args": []
+            },
+            "Chris Cooper": {
+                "args": []
+            },
+            "Gianfranco Terrin": {
+                "args": []
+            },
+            "Massi Furlan": {
+                "args": []
+            },
+            "Clark Gregg": {
+                "args": []
+            },
+            "Benny Ciaramello": {
+                "args": []
+            },
+            "David Fierro": {
+                "args": []
+            },
+            "Bobby Curcuro": {
+                "args": []
+            },
+            "Max Casella": {
+                "args": []
+            },
+            "Tom Virtue": {
+                "args": []
+            },
+            "Stanley M. Farrow": {
+                "args": []
+            },
+            "Bruce Serafin": {
+                "args": []
+            },
+            "Chris Messina": {
+                "args": []
+            },
+            "Giuseppe Losavio": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": []
+            },
+            "Peter Sabri": {
+                "args": []
+            },
+            "Ric Sarabia": {
+                "args": []
+            },
+            "Titus Welliver": {
+                "args": []
+            },
+            "Brendan Gleeson": {
+                "args": []
+            },
+            "Scott Eastwood": {
+                "args": []
+            },
+            "Derek Mears": {
+                "args": []
+            },
+            "J.D. Evermore": {
+                "args": []
+            },
+            "Zak Lee Guarnaccia": {
+                "args": []
+            },
+            "Austin Swift": {
+                "args": []
+            },
+            "Chris Sullivan (XII)": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": []
+            },
+            "Christian Clemenson": {
+                "args": []
+            },
+            "Zoe Saldana": {
+                "args": []
+            },
+            "Michael Chieffo": {
+                "args": []
+            },
+            "Robert Glenister": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "15_the problems are a screenplay that can't decide which story to tell, unmemorable casting choices in key supporting roles, and a central performance that, curiously, isn't very much there.",
+                -0.506381484479156
+            ],
+            [
+                "22_as a director, he's too enamored of his star to push the character to the uncomfortable places that are demanded by this tale steeped in contradictory moral and ethical extremes.",
+                0.6559372066402085
+            ],
+            [
+                "29_you can sense the contours of an absorbing story as writer/director/star ben affleck's slapdash and fragmented assemblage limps along.",
+                0.5968546012004835
+            ]
+        ],
+        "entities": {
+            "Ben Affleck": {
+                "args": []
+            }
+        }
+    }
+}

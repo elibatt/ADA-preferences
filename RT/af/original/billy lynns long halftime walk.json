@@ -1,0 +1,368 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "6_an interesting story buoyed by good acting that feels -",
+                0.5178027003593695
+            ],
+            [
+                "15_the acting and script are so strong that the picture is an outstanding achievement even in the 2d version that most people will see.",
+                0.6818725580827943
+            ]
+        ],
+        "entities": {
+            "Erin Moore": {
+                "args": []
+            },
+            "Mohammed Ettaghlaoui": {
+                "args": []
+            },
+            "Zaydun Khalaf": {
+                "args": []
+            },
+            "Brad Mills": {
+                "args": []
+            },
+            "Chris Tucker": {
+                "args": []
+            },
+            "Alexandra Bartee": {
+                "args": []
+            },
+            "Deirdre Lovejoy": {
+                "args": []
+            },
+            "Garrett Hedlund": {
+                "args": [
+                    [
+                        "20_it's the easy camaraderie between the soldiers, led with a gruff, dry humor by standout garrett hedlund",
+                        0.7310048908639926
+                    ]
+                ]
+            },
+            "Jay D. Kacho": {
+                "args": []
+            },
+            "Ayoub Smaili": {
+                "args": []
+            },
+            "Badia Obaid": {
+                "args": []
+            },
+            "Markina Brown": {
+                "args": []
+            },
+            "David Ramsey (III)": {
+                "args": []
+            },
+            "Steve Martin": {
+                "args": []
+            },
+            "Abderahmane Naji": {
+                "args": []
+            },
+            "JJ Watt": {
+                "args": []
+            },
+            "Tommy McNulty": {
+                "args": []
+            },
+            "Cooper Andrews": {
+                "args": []
+            },
+            "Khalid Sadiki": {
+                "args": []
+            },
+            "Laura Lundy Wheale": {
+                "args": []
+            },
+            "Lee McLamb": {
+                "args": []
+            },
+            "Arturo Castro": {
+                "args": []
+            },
+            "Andy Glen": {
+                "args": []
+            },
+            "Beau Knapp": {
+                "args": []
+            },
+            "Richard Allen Daniel": {
+                "args": []
+            },
+            "Currin McLamb": {
+                "args": []
+            },
+            "Fajer Kaisi": {
+                "args": []
+            },
+            "Joe Alwyn": {
+                "args": []
+            },
+            "Dana Barrett": {
+                "args": []
+            },
+            "Austin McLamb": {
+                "args": []
+            },
+            "Astro": {
+                "args": []
+            },
+            "Makenzie Leigh": {
+                "args": []
+            },
+            "Mason Lee": {
+                "args": [
+                    [
+                        "3_ang lee's heart may be in the right place with his iraq war thumb-sucker",
+                        0.7501290807274585
+                    ],
+                    [
+                        "10_ang lee's unprecedented use of digital technology makes for a hyperreal immersion into the mind of a traumatized soldier.",
+                        0.7193349481149931
+                    ],
+                    [
+                        "13_director ang lee has taken the very internal novel by dallas author ben fountain - a work that tries to get into the head of an iraq war soldier -- and opened it up into a surprisingly effective meditation on a soldier's homefront experience.",
+                        0.5592794381463413
+                    ],
+                    [
+                        "14_ lee simply can't give us both at the same time.",
+                        -0.618247283245683
+                    ],
+                    [
+                        "16_without 3d, \"billy lynn's long halftime walk\" feels like a neutered movie: watching it, you're constantly wondering what it would have looked like the way lee intended.",
+                        -0.5997817332538941
+                    ],
+                    [
+                        "23_ang lee's technical artistry is indisputable, ",
+                        0.5110961196148224
+                    ],
+                    [
+                        "27_ang lee's film doesn't entirely work, ",
+                        -0.519473659567401
+                    ],
+                    [
+                        "28_the weirdest and rarest misfire in lee's illustrious career.",
+                        -0.6713943624868646
+                    ],
+                    [
+                        "31_this is an uncharacteristically unsubtle work from lee-yet in the end, it's not ineffective.",
+                        -0.6298395251564393
+                    ],
+                    [
+                        "32_the film isn't perfect, and certainly not lee's strongest...",
+                        0.6142811499713834
+                    ]
+                ]
+            },
+            "Christopher Matthew Cook": {
+                "args": []
+            },
+            "Ismael Cruz Córdova": {
+                "args": []
+            },
+            "Abdellah Sadiki": {
+                "args": []
+            },
+            "Azim Ganem Rizk": {
+                "args": []
+            },
+            "Brandin Jenkins": {
+                "args": []
+            },
+            "Barney Harris": {
+                "args": []
+            },
+            "Lailli Kadiri": {
+                "args": []
+            },
+            "Randy Gonzalez": {
+                "args": []
+            },
+            "Richard Sherman": {
+                "args": []
+            },
+            "Moustapha El Airiji": {
+                "args": []
+            },
+            "Ben Platt": {
+                "args": []
+            },
+            "Tim Blake Nelson": {
+                "args": []
+            },
+            "Katrina Pettiford": {
+                "args": []
+            },
+            "Souad Chaoui": {
+                "args": []
+            },
+            "Matthew R. Brady": {
+                "args": []
+            },
+            "Vin Diesel": {
+                "args": []
+            },
+            "Mansour Badri": {
+                "args": []
+            },
+            "Holly Anne Morris": {
+                "args": []
+            },
+            "Bruce McKinnon": {
+                "args": []
+            },
+            "Elizabeth Chestang": {
+                "args": []
+            },
+            "Ayoub Bnini": {
+                "args": []
+            },
+            "Jay Peterson": {
+                "args": []
+            },
+            "Chesta Drake": {
+                "args": []
+            },
+            "Kristen Stewart": {
+                "args": []
+            },
+            "Matthew Barnes": {
+                "args": []
+            },
+            "Mbarek Ben Amr": {
+                "args": []
+            },
+            "Antonio Badrani": {
+                "args": []
+            },
+            "Ismaili Alaoui": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [
+            [
+                "11_a gifted director ruining a good book by literalizing what a writer made us visualize for ourselves.",
+                0.8206283216635698
+            ]
+        ],
+        "entities": {
+            "Ang Lee": {
+                "args": [
+                    [
+                        "3_ang lee's heart may be in the right place with his iraq war thumb-sucker",
+                        0.7501290807274585
+                    ],
+                    [
+                        "10_ang lee's unprecedented use of digital technology makes for a hyperreal immersion into the mind of a traumatized soldier.",
+                        0.7193349481149931
+                    ],
+                    [
+                        "13_director ang lee has taken the very internal novel by dallas author ben fountain - a work that tries to get into the head of an iraq war soldier -- and opened it up into a surprisingly effective meditation on a soldier's homefront experience.",
+                        0.5592794381463413
+                    ],
+                    [
+                        "14_ lee simply can't give us both at the same time.",
+                        -0.618247283245683
+                    ],
+                    [
+                        "16_without 3d, \"billy lynn's long halftime walk\" feels like a neutered movie: watching it, you're constantly wondering what it would have looked like the way lee intended.",
+                        -0.5997817332538941
+                    ],
+                    [
+                        "23_ang lee's technical artistry is indisputable, ",
+                        0.5110961196148224
+                    ],
+                    [
+                        "27_ang lee's film doesn't entirely work, ",
+                        -0.519473659567401
+                    ],
+                    [
+                        "28_the weirdest and rarest misfire in lee's illustrious career.",
+                        -0.6713943624868646
+                    ],
+                    [
+                        "31_this is an uncharacteristically unsubtle work from lee-yet in the end, it's not ineffective.",
+                        -0.6298395251564393
+                    ],
+                    [
+                        "32_the film isn't perfect, and certainly not lee's strongest...",
+                        0.6142811499713834
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "8_the script is all too faithful to fountain's florid brand of not-quite-human poetry.",
+                -0.5428705387903292
+            ],
+            [
+                "11_a gifted director ruining a good book by literalizing what a writer made us visualize for ourselves.",
+                0.8206283216635698
+            ],
+            [
+                "15_the acting and script are so strong that the picture is an outstanding achievement even in the 2d version that most people will see.",
+                0.6818725580827943
+            ],
+            [
+                "36_an absorbing character study, even if it's ultimately not one that justifies its much-vaunted technological advances.",
+                0.6252046690113694
+            ]
+        ],
+        "entities": {
+            "Jean-Christophe Castelli": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_for a movie about the aftershocks of battle, billy lynn feels curiously tranquil.",
+                -0.6037153991634454
+            ],
+            [
+                "8_the movie doesn't really work.",
+                -0.7589243869693554
+            ],
+            [
+                "17_taking place mostly over the course of a single day, it's a smart and languorous film that finds time to luxuriate in conversations and to create a feeling for small-town american life.",
+                0.8296369224967699
+            ],
+            [
+                "21_i suspect that whatever virtues the film possesses -- and it does, in flashes, convey the uneasy confluence of jingoism and authentic patriotism -- will come through more clearly in 2-d, without all the hype.",
+                0.6395724279476225
+            ],
+            [
+                "25_dramatically inert, satirically inept and thematically insufferable, \"billy lynn's long halftime walk\" is the most disappointing film of the year.",
+                -0.7202675170134522
+            ],
+            [
+                "27_lee's experiment in high-frame-rate cinema is arresting even when the film's story isn't.",
+                0.5119373314279074
+            ],
+            [
+                "30_you may be surprised at how sweet this movie is and also, in retrospect, startled by how bleak its vision turns out to be.",
+                0.7327262920673008
+            ],
+            [
+                "37_the film isn't simply a technological experiment",
+                -0.6724326774720639
+            ],
+            [
+                "38_this film is structured so that the scenes where billy and his fellow soldiers stand behind destiny's child at the halftime show feel far more nerve-wracking than the unconvincing war scenes, and this deliberate imbalance never pays off dramatically.",
+                0.5413687460765085
+            ]
+        ]
+    }
+}

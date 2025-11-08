@@ -1,0 +1,140 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rutina Wesley": {
+                "args": []
+            },
+            "Kathryn Morris": {
+                "args": []
+            },
+            "David Starzyk": {
+                "args": []
+            },
+            "Shannon Lucio": {
+                "args": []
+            },
+            "Tess Harper": {
+                "args": []
+            },
+            "Patrick Daniel": {
+                "args": []
+            },
+            "Jamal Duff": {
+                "args": []
+            },
+            "Tyde Kierney": {
+                "args": []
+            },
+            "Michael Ealy": {
+                "args": []
+            },
+            "Julia Valentine Larson": {
+                "args": []
+            },
+            "Sanaa Lathan": {
+                "args": [
+                    [
+                        "3_i love sanaa lathan, except when she has to play dumb.",
+                        -0.6813710014472777
+                    ]
+                ]
+            },
+            "Wilmer Calderon": {
+                "args": []
+            },
+            "Charles S. Dutton": {
+                "args": []
+            },
+            "Gordon Clapp": {
+                "args": []
+            },
+            "Michael Panes": {
+                "args": []
+            },
+            "Morris Chestnut": {
+                "args": []
+            },
+            "Holt McCallany": {
+                "args": []
+            },
+            "Granville Ames": {
+                "args": []
+            },
+            "Duncan Joiner": {
+                "args": []
+            },
+            "Tripp Pickell": {
+                "args": []
+            },
+            "Irene Choi": {
+                "args": []
+            },
+            "Lyndsey Doolen": {
+                "args": []
+            },
+            "Michael Andrew Baker": {
+                "args": []
+            },
+            "Ronnie Gene Blevins": {
+                "args": []
+            },
+            "Jessica Parker Kennedy": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "David M. Rosenthal": {
+                "args": [
+                    [
+                        "9_david m. rosenthal's internet-age thriller falls head over heels for cheesy cliches.",
+                        -0.7961512865035678
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Tyger Williams": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_and, boy, does the perfect guy need her to be dumb.",
+                0.5043787974298435
+            ],
+            [
+                "7_the perfect guy escalates quite nicely, leading to a satisfyingly white-knuckled finale.",
+                0.8081193928626362
+            ],
+            [
+                "8_in fact, you could sleep through the movie and still recite what happened.",
+                -0.7074255335560526
+            ],
+            [
+                "10_\"the perfect guy\" - which was, it must be pointed out, deliberately not screened for critics prior to release - is a perfect example of how lame, lazy material strands good actors, resulting in a movie that looks great and feels less so.",
+                -0.5305006223806119
+            ],
+            [
+                "11_but this one is a movie torn - too grim and self-important to go truly nuts,",
+                -0.6237033773733651
+            ],
+            [
+                "11_ but too silly and slipshod to work on a more somber level.",
+                -0.6996110001423317
+            ]
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Shah Rukh Khan": {
+                "args": []
+            },
+            "Anil Mange": {
+                "args": []
+            },
+            "Sunny Leone": {
+                "args": []
+            },
+            "Nawazuddin Siddiqui": {
+                "args": []
+            },
+            "Mahira Khan": {
+                "args": []
+            },
+            "Lilly Singh": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Rahul Dholakia": {
+                "args": [
+                    [
+                        "1_avoiding flabby subplots, mr. dholakia keeps \"raees\" taut and suspenseful, even at two and a half hours, ",
+                        -0.6502198838922344
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Rahul Dholakia": {
+                "args": []
+            },
+            "Harit Mehta": {
+                "args": []
+            },
+            "Niraj Shukla": {
+                "args": []
+            },
+            "Ashish Vashi": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_[raees] is a fiery slice of bollywood action.",
+                0.5509427305297292
+            ],
+            [
+                "1_ it probably has a song too many.",
+                0.5862153273032367
+            ]
+        ]
+    }
+}

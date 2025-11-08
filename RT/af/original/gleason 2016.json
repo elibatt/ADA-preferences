@@ -1,0 +1,155 @@
+{
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Ryan Gootee": {
+                "args": []
+            },
+            "Mike McKenzie": {
+                "args": []
+            },
+            "Mike McCready": {
+                "args": []
+            },
+            "Scott Fujita": {
+                "args": []
+            },
+            "Rivers Gleason": {
+                "args": []
+            },
+            "Brendan Weber": {
+                "args": []
+            },
+            "Paul Varisco, Jr.": {
+                "args": []
+            },
+            "Vinnie Varisco": {
+                "args": []
+            },
+            "Jill Varisco": {
+                "args": []
+            },
+            "Kyle Gleason": {
+                "args": []
+            },
+            "Steve Gleason": {
+                "args": [
+                    [
+                        "5_you don't need to know steve gleason's name to be enraptured by his extraordinary story.",
+                        0.6727654275957323
+                    ],
+                    [
+                        "7_\"gleason\" immerses the viewer in the ordeal of incurable illness.",
+                        -0.6423650249374324
+                    ],
+                    [
+                        "8_\"gleason\" portrays great strength and great suffering in equal measure, lending vivid credence to tired platitudes about what it means to live life to the fullest.",
+                        0.7942465082326224
+                    ],
+                    [
+                        "9_that's so not \"gleason.\"",
+                        -0.6966331183837028
+                    ],
+                    [
+                        "10_tweel has crafted a film that goes beyond the facts of gleason's football life.",
+                        0.5921952785126565
+                    ],
+                    [
+                        "11_the documentary gleason, a big sundance hit, is difficult to watch -- and that's the point.",
+                        0.558075863929526
+                    ],
+                    [
+                        "15_\"gleason\" is so powerful in its cumulative effect that it should be accompanied by a consumer advisory-something along the lines of \"this documentary may cause sudden alterations of mood and attitude.\"",
+                        0.6411284583968706
+                    ],
+                    [
+                        "16_the result is a candid testament to not only gleason himself ",
+                        0.5365444471123118
+                    ],
+                    [
+                        "18_ultimately, while \"gleason\" can be tough to watch, it has a strong message of the value of relationships and how to spend a life doing meaningful work against great odds.",
+                        0.7727438422538306
+                    ],
+                    [
+                        "19_if steve gleason wasn't a famous name, would we still be watching?",
+                        0.5105999341770592
+                    ],
+                    [
+                        "22_like the dramatic play that initially made him famous, gleason manages to generate an intense form of excitement around winning against seemingly impossible odds.",
+                        0.6455754798983715
+                    ],
+                    [
+                        "23_having followed [gleason] from the start, we can't help ",
+                        -0.6923574997974097
+                    ]
+                ]
+            },
+            "Kevin Dedmon": {
+                "args": []
+            },
+            "Michel Varisco": {
+                "args": []
+            },
+            "Drew Brees": {
+                "args": []
+            },
+            "Mike Gleason": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_an intimate, deeply moving film.",
+                0.6988772952724064
+            ],
+            [
+                "12_a tearjerker of a film ",
+                0.5660469945916791
+            ],
+            [
+                "13_while the director's vision never strays too far from the positive message that he and the gleasons doubtlessly wish to impart, the movie winds up being most effective at doing what cinema cannot avoid doing.",
+                -0.5579021123170957
+            ],
+            [
+                "14_if this film portrait stirs deep emotions, they spring from a breathtakingly unsentimental embrace of life at its most challenging.",
+                0.8134778365952375
+            ],
+            [
+                "20_there are moments of such raw, intimate anguish in this film that you can't help ",
+                0.6903850516769852
+            ],
+            [
+                "22_while not exactly subtle, the movie's sentimental qualities are genuine.",
+                0.5291593245725146
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Clay Tweel": {
+                "args": [
+                    [
+                        "24_clay tweel's emotionally wrenching documentary chronicles",
+                        0.6606936038490523
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "13_while the director's vision never strays too far from the positive message that he and the gleasons doubtlessly wish to impart, the movie winds up being most effective at doing what cinema cannot avoid doing.",
+                -0.5579021123170957
+            ]
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {
+            "Brent McCorkle": {
+                "args": []
+            },
+            "Jon Erwin": {
+                "args": []
+            },
+            "Alex Cramer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the movie works for the same reason the song does: it lightens the burden of the pain people are shouldering today, and gives them something to look forward to.",
+                0.6256107460238484
+            ],
+            [
+                "2_this is an interesting idea, executed with a reductive, tin-eared understanding of what constitutes art to go along with a faith-based movie's reductive, tin-eared understanding of what constitutes entertainment.",
+                0.7040191850515143
+            ],
+            [
+                "3_like so many faith-based efforts, i can only imagine suffers from a terminal case of self-importance.",
+                -0.6147401165628291
+            ],
+            [
+                "4_why is the movie made from a universally healing single such an earnest, awkward dud?",
+                -0.6630747228800467
+            ],
+            [
+                "4_well, partly because the movie can't settle on what's more important, the family stuff or the ascension of the song as a fame-inducing anthem.",
+                0.6325473406525806
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Rhoda Griffis": {
+                "args": []
+            },
+            "Gianna Simone": {
+                "args": []
+            },
+            "Dennis Quaid": {
+                "args": []
+            },
+            "Madeline Carroll": {
+                "args": []
+            },
+            "Priscilla C. Shirer": {
+                "args": []
+            },
+            "Brody Rose": {
+                "args": []
+            },
+            "J. Michael Finley": {
+                "args": []
+            },
+            "Trace Adkins": {
+                "args": []
+            },
+            "Tanya Clarke": {
+                "args": []
+            },
+            "Cloris Leachman": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Andrew Erwin (II)": {
+                "args": []
+            },
+            "Jon Erwin": {
+                "args": []
+            }
+        }
+    }
+}

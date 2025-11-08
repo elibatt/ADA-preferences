@@ -1,0 +1,126 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Elaine Jin": {
+                "args": []
+            },
+            "Jiang Wu": {
+                "args": []
+            },
+            "Jingjing Li": {
+                "args": []
+            },
+            "Wallace Chung": {
+                "args": []
+            },
+            "Tang Wei": {
+                "args": []
+            },
+            "Eric Tsang": {
+                "args": []
+            },
+            "Taishen Cheng": {
+                "args": []
+            },
+            "Cindy Tian": {
+                "args": []
+            },
+            "Anthony Pun": {
+                "args": []
+            },
+            "Ludi Lin": {
+                "args": []
+            },
+            "Leon Ko": {
+                "args": []
+            },
+            "Jianfeng Bao": {
+                "args": []
+            },
+            "Sandra Ng Kwan Yue": {
+                "args": []
+            },
+            "Baihe Bai": {
+                "args": []
+            },
+            "Yuexuan Zhang": {
+                "args": []
+            },
+            "Xiaodong Guo": {
+                "args": []
+            },
+            "Jing Boran": {
+                "args": []
+            },
+            "Chunxia Liu": {
+                "args": []
+            },
+            "Yao Chen": {
+                "args": []
+            },
+            "Kai Kang": {
+                "args": []
+            },
+            "Kaiyan Yan": {
+                "args": []
+            },
+            "Yuexin Wang": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ the monsters' high-energy antics and the humans' martial-arts skills make for a delightfully bizarre adventure romp.",
+                0.6060327112786774
+            ],
+            [
+                "1_this film is pleasantly cheesy, and probably more interesting than anything that's currently being marketed to your not-so-picky kids.",
+                -0.558552426765005
+            ],
+            [
+                "3_the film is far from perfect, ",
+                0.6799519652124968
+            ],
+            [
+                "7_\"monster hunt\" has visual appeal to spare, ",
+                0.5708270549989506
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Raman Hui": {
+                "args": [
+                    [
+                        "5_director raman hui mixes martial-arts fights and slapstick comedy (lots of mugging by jing) into a whimsical, fast-paced monster mash.",
+                        -0.5258215245103026
+                    ],
+                    [
+                        "6_[hui] does not achieve the surreal grandeur of hayao miyazaki's animated films, ",
+                        0.6369355526864281
+                    ],
+                    [
+                        "10_raman hui's monster hunt is a kid-friendly adventure fantasy that may be too slowly paced for its target demographic.",
+                        -0.5553995768878546
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Alan Yuen": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "8_yet there's an uncomfortable tension between the film's whimsical, amélie-light (or, lighter) style and its clumsy political point-scoring.",
+                0.673823202426765
+            ],
+            [
+                "10_refreshingly, the film doesn't shy away from its characters' desires...",
+                -0.6084603448374476
+            ],
+            [
+                "0",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "4",
+                1
+            ],
+            [
+                "7",
+                1
+            ],
+            [
+                "13",
+                1
+            ],
+            [
+                "16",
+                -1
+            ],
+            [
+                "17",
+                1
+            ],
+            [
+                "19",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "0_ del toro’s use of a vivid colour palette would impress anyone.",
+                0.7299323700686753
+            ],
+            [
+                "2_so, while we know elisa has humanity, del toro has to plead his case for the fish-man.",
+                0.6618386320533483
+            ],
+            [
+                "4_del toro creates a beautifully imagined world, rich in colours and characters, with touches of humour and social commentary.",
+                0.8323797503579614
+            ],
+            [
+                "13_del toro's greatest work.",
+                0.7393240109819937
+            ],
+            [
+                "16_del toro's willingness to court absurdity and bad taste serves to guarantee his integrity, proving he hasn't entirely gone respectable.",
+                -0.6630627663954283
+            ],
+            [
+                "19_ del toro lays it on so thick that there's no room for counterargument or even independent ",
+                -0.7782060106147705
+            ]
+        ],
+        "entities": {
+            "Guillermo del Toro": {
+                "unique_args": [
+                    [
+                        "0_ del toro’s use of a vivid colour palette would impress anyone.",
+                        0.7299323700686753
+                    ],
+                    [
+                        "2_so, while we know elisa has humanity, del toro has to plead his case for the fish-man.",
+                        0.6618386320533483
+                    ],
+                    [
+                        "4_del toro creates a beautifully imagined world, rich in colours and characters, with touches of humour and social commentary.",
+                        0.8323797503579614
+                    ],
+                    [
+                        "13_del toro's greatest work.",
+                        0.7393240109819937
+                    ],
+                    [
+                        "16_del toro's willingness to court absurdity and bad taste serves to guarantee his integrity, proving he hasn't entirely gone respectable.",
+                        -0.6630627663954283
+                    ],
+                    [
+                        "19_ del toro lays it on so thick that there's no room for counterargument or even independent ",
+                        -0.7782060106147705
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "Guillermo del Toro": {
+                "unique_args": []
+            },
+            "Vanessa Taylor": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [
+            [
+                "7_hawkins's performance throughout is career-defining.",
+                0.6323577496588074
+            ],
+            [
+                "0_you’ll either be charmed by hawkins’s ethereal, wordless performance or you won’t, ",
+                0.6432436579196354
+            ],
+            [
+                "17_a visually spectacular fairytale, the shape of water is a dazzling film, anchored by a masterful performance from the effervescent sally hawkins.",
+                0.8809584128940516
+            ]
+        ],
+        "entities": {
+            "Sally Hawkins": {
+                "unique_args": [
+                    [
+                        "0_you’ll either be charmed by hawkins’s ethereal, wordless performance or you won’t, ",
+                        0.6432436579196354
+                    ],
+                    [
+                        "17_a visually spectacular fairytale, the shape of water is a dazzling film, anchored by a masterful performance from the effervescent sally hawkins.",
+                        0.8809584128940516
+                    ]
+                ]
+            },
+            "Michael Shannon": {
+                "unique_args": []
+            },
+            "Richard Jenkins": {
+                "unique_args": []
+            },
+            "Octavia Spencer": {
+                "unique_args": []
+            },
+            "Michael Stuhlbarg": {
+                "unique_args": []
+            },
+            "Doug Jones": {
+                "unique_args": []
+            },
+            "David Hewlett": {
+                "unique_args": []
+            },
+            "Nick Searcy": {
+                "unique_args": []
+            },
+            "Stewart Arnott": {
+                "unique_args": []
+            },
+            "Nigel Bennett": {
+                "unique_args": []
+            },
+            "Lauren Lee Smith": {
+                "unique_args": []
+            },
+            "Martin Roach": {
+                "unique_args": []
+            },
+            "Allegra Fulton": {
+                "unique_args": []
+            },
+            "John Kapelos": {
+                "unique_args": []
+            },
+            "Morgan Kelly": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

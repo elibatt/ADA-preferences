@@ -1,0 +1,298 @@
+{
+    "writer": {
+        "entities": {
+            "Noah Baumbach": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": [
+                    [
+                        "5_ greta gerwig, who stars, has a kind of stand-tall, hands-on-hips superhero vibe about her.",
+                        0.7273104091029392
+                    ],
+                    [
+                        "8_it's one of the year's most intriguing and unmissable performances, and it confirms that gerwig is among the brightest talents on the cinema scene.",
+                        0.8724107774048082
+                    ],
+                    [
+                        "10_with gerwig, you worry that she seems to be winging it -- until you realize that she also knows how to fly.",
+                        0.6560722093622925
+                    ],
+                    [
+                        "22_as the pushback to gerwig's force field, kirke may at times be too mousy for her own (or the film's) good, ",
+                        0.7735149665356699
+                    ],
+                    [
+                        "28_what makes mistress america so lovely is its balance of compassion and scrutiny: baumbach and gerwig don't let these characters get away with their shortcomings, ",
+                        0.6436616472912225
+                    ],
+                    [
+                        "30_ ms. gerwig's performance is a comic diamond, and not in the rough.",
+                        0.5375611434419401
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "6_a winning, slightly screwball investigation of the fraught relationship between writer and subject, or maybe artist and muse, or maybe both.",
+                0.7694149308674629
+            ],
+            [
+                "8_somehow, she makes an inherently unlikable character, likable.",
+                0.5860960298268922
+            ],
+            [
+                "19_ to see \"mistress america\" is to feel protective of the character she plays, and a little annoyed at the way baumbach treats her.",
+                0.5580250721511986
+            ],
+            [
+                "24_the script gets stagy, the jokes fall flat, and the manic pacing doesn't make up the difference.",
+                -0.7887462054686092
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Noah Baumbach": {
+                "args": [
+                    [
+                        "0_noah baumbach is one of those successful directors who's obsessed with failure.",
+                        -0.5282867679226558
+                    ],
+                    [
+                        "7_i can't think of a filmmaker more focused on the foibles of female relationships than baumbach.",
+                        0.5821475843546573
+                    ],
+                    [
+                        "11_zippy, sharp and monstrously smart, mistress america is not only noah baumbach's funniest film, ",
+                        0.6628172458514312
+                    ],
+                    [
+                        "19_ to see \"mistress america\" is to feel protective of the character she plays, and a little annoyed at the way baumbach treats her.",
+                        0.5580250721511986
+                    ],
+                    [
+                        "20_\"mistress america\" defies pigeonholing, which is true of anything produced by the insightful baumbach, who always offers interesting observations about relationships and human frailties.",
+                        0.820298329433798
+                    ],
+                    [
+                        "21_while woody allen's recent films have grown ever more hermetic in their perplexity, baumbach is becoming as prolific, and as quick on the comic draw, as the allen of yore.",
+                        0.7166095121109223
+                    ],
+                    [
+                        "28_what makes mistress america so lovely is its balance of compassion and scrutiny: baumbach and gerwig don't let these characters get away with their shortcomings, ",
+                        0.6436616472912225
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_the difference between a good screwball comedy and a great one is that you care about the screwballs, and in that sense, mistress america is great indeed.",
+                0.9094676654979373
+            ],
+            [
+                "2_mistress america isn't a deep psychological examination of women's friendships.",
+                0.5951702196418512
+            ],
+            [
+                "3_\"mistress america\" is comedy at its best - ",
+                0.8207315738345957
+            ],
+            [
+                "4_ mistress america overstays its welcome.",
+                0.6972400838426995
+            ],
+            [
+                "5_mistress america is not a new comic-book movie, ",
+                -0.5251848899829219
+            ],
+            [
+                "14_what sustains the film is its fascination with a group of lovely, horrible people - narcissists who are nevertheless able to improvise something glittering and almost meaningful out of their inability to matter.",
+                0.60200355941991
+            ],
+            [
+                "16_mistress america is the kind of screwball comedy ernst lubitsch or preston sturges would have loved, and there's no finer praise than that.",
+                0.646796178449033
+            ],
+            [
+                "17_even at its most daft and infectiously ditzy, \"mistress america\" is a sharp, aware and surpassingly kind portrait of the agony and ecstasy of becoming yourself.",
+                0.740527794820562
+            ],
+            [
+                "23_\"mistress america\" is a very funny and observant movie, albeit squirm-inducing, with endlessly quotable dialogue.",
+                0.82406835689541
+            ],
+            [
+                "26_at the center of the film is the interesting idea that we're all putting on performances for each other",
+                0.5191643198381002
+            ],
+            [
+                "26_ unfortunately, the manner in which \"mistress america\" explores that theme also makes it a movie where moments of authenticity are scarce.",
+                0.6280274463040526
+            ],
+            [
+                "27_it's fair to say that \"mistress america\" revises and subverts this most buoyant of genres with a steady undertow of anxiety, dread and anger.",
+                0.7153445123309334
+            ],
+            [
+                "28_ neither does the film condemn these people or present them as irredeemable.",
+                -0.6380659384698247
+            ],
+            [
+                "29_in both details and tone, mistress america is a jumble.",
+                0.6809488230310685
+            ],
+            [
+                "31_as a feather in its jaunty hat, the movie also reinvigorates the art of screwball comedy.",
+                0.5955205945685191
+            ],
+            [
+                "33_mistress america nimbly vivisects how we define ourselves in an age when twitter allows people to broadcast their achievements so widely that every cell phone doubles as an ekg machine for our self-worth.",
+                0.7285388337047721
+            ],
+            [
+                "36_\"mistress america\" is lighter stuff.",
+                0.5009905181723281
+            ],
+            [
+                "36_but it's definitely a fun movie,",
+                0.839416916482898
+            ],
+            [
+                "38_\"mistress america\" never falters in its case study of a complicated female friendship.",
+                0.5809037132200257
+            ],
+            [
+                "39_the film has nothing if not great vitality and an active creative spirit, ",
+                0.7793266405082591
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Shoba Narayanan": {
+                "args": []
+            },
+            "Mary Beth Minthorn": {
+                "args": []
+            },
+            "Cindy Cheung": {
+                "args": []
+            },
+            "Andrea Chen": {
+                "args": []
+            },
+            "Dean Wareham": {
+                "args": []
+            },
+            "Shana Dowdeswell": {
+                "args": []
+            },
+            "Gretchen Young": {
+                "args": []
+            },
+            "Morgan Lynch": {
+                "args": []
+            },
+            "Joel Marsh Garland": {
+                "args": []
+            },
+            "Jasmine Cephas Jones": {
+                "args": []
+            },
+            "Rebecca Naomi Jones": {
+                "args": []
+            },
+            "Michael Chernus": {
+                "args": []
+            },
+            "Matthew Shear": {
+                "args": []
+            },
+            "Heather Lind": {
+                "args": []
+            },
+            "Juliet Brett": {
+                "args": []
+            },
+            "Alan McAdam": {
+                "args": []
+            },
+            "Clare Foley": {
+                "args": []
+            },
+            "Charlie Gillette": {
+                "args": []
+            },
+            "Kathryn Erbe": {
+                "args": []
+            },
+            "Rebecca Henderson": {
+                "args": []
+            },
+            "Greta Gerwig": {
+                "args": [
+                    [
+                        "5_ greta gerwig, who stars, has a kind of stand-tall, hands-on-hips superhero vibe about her.",
+                        0.7273104091029392
+                    ],
+                    [
+                        "8_it's one of the year's most intriguing and unmissable performances, and it confirms that gerwig is among the brightest talents on the cinema scene.",
+                        0.8724107774048082
+                    ],
+                    [
+                        "10_with gerwig, you worry that she seems to be winging it -- until you realize that she also knows how to fly.",
+                        0.6560722093622925
+                    ],
+                    [
+                        "22_as the pushback to gerwig's force field, kirke may at times be too mousy for her own (or the film's) good, ",
+                        0.7735149665356699
+                    ],
+                    [
+                        "28_what makes mistress america so lovely is its balance of compassion and scrutiny: baumbach and gerwig don't let these characters get away with their shortcomings, ",
+                        0.6436616472912225
+                    ],
+                    [
+                        "30_ ms. gerwig's performance is a comic diamond, and not in the rough.",
+                        0.5375611434419401
+                    ]
+                ]
+            },
+            "Mickey Sumner": {
+                "args": []
+            },
+            "Shelby Rebecca Wong": {
+                "args": []
+            },
+            "Colin Stokes": {
+                "args": []
+            },
+            "Lola Kirke": {
+                "args": [
+                    [
+                        "25_gerwig and kirke are an excellent pair.",
+                        0.8698017602698084
+                    ],
+                    [
+                        "25_gerwig's frenetic gesticulations, noodle-y dancing and micro-expressions balance kirke's more sedate and measured expressions.",
+                        0.6387464515477207
+                    ],
+                    [
+                        "30_ms. kirke is skillful and appealing as tracy, ",
+                        0.7045223293815636
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

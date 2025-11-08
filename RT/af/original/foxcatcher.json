@@ -1,0 +1,411 @@
+{
+    "writer": {
+        "args": [
+            [
+                "30_beautifully acted and impeccably mounted, it is light on historical details and heavy on atmosphere, character and chintz.",
+                0.5714383202839574
+            ],
+            [
+                "39_as a character study \"foxcatcher\" is mesmerizing, eerie and unpredictably weird.",
+                0.5931604220477409
+            ]
+        ],
+        "entities": {
+            "Dan Futterman": {
+                "args": []
+            },
+            "E. Max Frye": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "3_watch this film for the performances:",
+                0.6754897911923278
+            ],
+            [
+                "4_foxcatcher is too cold of a movie to love, ",
+                -0.7067197396335266
+            ],
+            [
+                "7_the triumph of foxcatcher is not in the subject ",
+                -0.5389317897314296
+            ],
+            [
+                "9_but the movie is so chiseled down and sculpted that even once it gets there (you know when),",
+                -0.624168953481947
+            ],
+            [
+                "12_as chilly as du pont's mansion on a winter's night, foxcatcher never quite comes together.",
+                0.5273033971172624
+            ],
+            [
+                "13_\"foxcatcher\" is a warped, oppressive landmark.",
+                0.5838829839470121
+            ],
+            [
+                "16_the story here may have been worth a movie, ",
+                -0.5439036084295752
+            ],
+            [
+                "18_at its core, \"foxcatcher\" grapples, bluntly, with the subjects of class and money, and what some people do when, to quote a line from \"psycho,\" they can't buy off their own unhappiness.",
+                -0.5176389875664911
+            ],
+            [
+                "20_foxcatcher isn't afraid of venturing into territory avoided by most sports-related motion pictures.",
+                -0.5898781848848526
+            ],
+            [
+                "20_this isn't an inspirational film",
+                -0.528120118783135
+            ],
+            [
+                "22_foxcatcher is among the best movies of the year, ",
+                0.9224311083939717
+            ],
+            [
+                "24_it's rare to see an american movie that explores, let alone acknowledges, the class system in this country, or one that gets so far inside the abyss of the ethic that drives so many men to succeed -- and to implode when they don't.",
+                0.7077385871453643
+            ],
+            [
+                "25_the movie's take at times is fascinating.",
+                0.7036847994188317
+            ],
+            [
+                "26_a despairing, intentionally disturbing film that draws us into a maelstrom of desperate emotions, it holds up a dark mirror to the american dream and does not like what it sees.",
+                0.5737612405414327
+            ],
+            [
+                "27_punishingly long, the movie insists that viewers spend more than two over-deliberate hours with a man whose pathology could be sketched in a few minutes.",
+                -0.5119255521617946
+            ],
+            [
+                "28_in more ways than one, \"foxcatcher\" is a movie-an enthralling enigma of a movie-about control.",
+                0.6523030637376328
+            ],
+            [
+                "29_\"foxcatcher\" is a gripping yarn all the way through, even if we're not entirely sure what the point is.",
+                0.7877798893759042
+            ],
+            [
+                "33_foxcatcher might just be the feel-bad movie of the year.",
+                -0.6463585921483562
+            ],
+            [
+                "35_foxcatcher, one of the year's very best films, exposes the diseased underbelly of american exceptionalism and knocks the ground out from under you.",
+                0.8347313168351589
+            ],
+            [
+                "39_as a character study \"foxcatcher\" is mesmerizing, eerie and unpredictably weird.",
+                0.5931604220477409
+            ],
+            [
+                "42_like du pont himself, foxcatcher draws us in without really allowing us to get under its skin.",
+                0.6373490336959374
+            ],
+            [
+                "45_it's an important, vital, vibrant film that gives new light to men who struggled so hard to find it in their real lives.",
+                0.8214537808501333
+            ],
+            [
+                "49_t-provoking and solid piece of work.",
+                0.6223909101641071
+            ]
+        ]
+    },
+    "acting": {
+        "args": [
+            [
+                "5_if you're willing to be thrown for a loop, you're in good hands with this medal-worthy cast and crew.",
+                0.7112065810039528
+            ]
+        ],
+        "entities": {
+            "J.D. Bergman": {
+                "args": []
+            },
+            "Stan Dziedzic": {
+                "args": []
+            },
+            "Samara Lee": {
+                "args": []
+            },
+            "Alan Oppenheimer": {
+                "args": []
+            },
+            "Sienna Miller": {
+                "args": [
+                    [
+                        "0_[miller] is equally adept at portraying the peculiarities of wrestling here, and how those physical moves -- beautifully choreographed and executed -- sync with deeper psychological currents.",
+                        0.7498812517205673
+                    ],
+                    [
+                        "1_there's just no life in the film: aiming for a tone of studied foreboding, bennett miller instead sucks all the energy from his story.",
+                        -0.6297106960228733
+                    ],
+                    [
+                        "2_director bennett miller (\"capote,\" \"moneyball\") has a fascinating story here and he knows it.",
+                        0.681109872265479
+                    ],
+                    [
+                        "7_the clear-eyed compassion and moral intelligence of miller's film brings sense to the senseless, and finds the human pulse behind the tabloid shock.",
+                        0.7367244636297512
+                    ],
+                    [
+                        "8_what miller and his team have wrought with foxcatcher is a spellbinding portrait of desire and loneliness, which so often manifests itself in hollow victories and violent acts.",
+                        0.5351599846866173
+                    ],
+                    [
+                        "14_even if you don't know the details of this real-life, late-20th-century tragedy, director bennett miller's masterfully observed psychological study is imbued with a sense of an inevitable, catastrophic meltdown.",
+                        0.7638095637630133
+                    ],
+                    [
+                        "36_it's understandable that bennett miller should have been fascinated by the du pont-schultz case and wanted to make a film from it.",
+                        -0.5316277605715094
+                    ],
+                    [
+                        "48_once miller lays all his cards on the table ... you realize you haven't been watching people struggling with the very real temptations of unchecked privilege, so much as fumbling blindly in a glib, gloomy satire of american exceptionalism.",
+                        -0.583116687580868
+                    ]
+                ]
+            },
+            "Donald Modrick": {
+                "args": []
+            },
+            "Steve Carell": {
+                "args": [
+                    [
+                        "3_ carell immersing himself into the mindset of a troubled man ...",
+                        -0.5236434233801882
+                    ],
+                    [
+                        "11_the year's best cast, including a phenomenal carell, makes up for slow pacing in the latest drama from the director of \"capote.\"",
+                        0.6958004842645069
+                    ],
+                    [
+                        "12_it's too bad then that the film...doesn't live up to carell's memorable performance.",
+                        -0.7973023155064989
+                    ],
+                    [
+                        "15_the fatherhood issues fueling the tension among mark (channing tatum), dave (mark ruffalo), and du pont (a creepy, completely unrecognizable steve carell) are muted ",
+                        0.529111522856646
+                    ],
+                    [
+                        "35_steve carell offers a tour de force of slow-burning menace.",
+                        0.6273571968202147
+                    ],
+                    [
+                        "47_ the movie derives its primary discomfiting power from steve carell in a revelatory performance as a monster of american wealth.",
+                        0.6507352619032453
+                    ],
+                    [
+                        "50_steve carell, mark ruffalo and channing tatum give superb performances in bennett miller's powerfully disturbing true-crime saga.",
+                        0.8139530767839425
+                    ],
+                    [
+                        "51_a superbly modulated study of a twisted mind with a career-changing performance by steve carell.",
+                        0.646283347197798
+                    ]
+                ]
+            },
+            "Bruce Baumgartner": {
+                "args": []
+            },
+            "Jackson Frazer": {
+                "args": []
+            },
+            "Ken Williams": {
+                "args": []
+            },
+            "Robert Haramia": {
+                "args": []
+            },
+            "Channing Tatum": {
+                "args": [
+                    [
+                        "10_ the secret hero of \"foxcatcher\" - and the performance you keep coming back to - is channing tatum as mark, a lost boy in the skin of a brute.",
+                        0.5567370142776786
+                    ],
+                    [
+                        "19_pretty-boy tatum impresses in every way.",
+                        0.5797497119913121
+                    ],
+                    [
+                        "47_though anchored by a affecting and sullen turn by channing tatum,",
+                        0.6535073900637658
+                    ]
+                ]
+            },
+            "Gabrielle B. Burton": {
+                "args": []
+            },
+            "Bill Ehrin": {
+                "args": []
+            },
+            "Dan Anders": {
+                "args": []
+            },
+            "David Zabriskie": {
+                "args": []
+            },
+            "David Miller": {
+                "args": []
+            },
+            "Frederick Feeney": {
+                "args": []
+            },
+            "Jake Herbert": {
+                "args": []
+            },
+            "Francis J. Murphy III": {
+                "args": []
+            },
+            "Anthony Michael Hall": {
+                "args": []
+            },
+            "Roger Callard": {
+                "args": []
+            },
+            "John C. Baxter": {
+                "args": []
+            },
+            "Guy Boyd": {
+                "args": []
+            },
+            "Gene Mills": {
+                "args": []
+            },
+            "Reece Humphrey": {
+                "args": []
+            },
+            "Corey Walker": {
+                "args": []
+            },
+            "Sam Brehm": {
+                "args": []
+            },
+            "Jazz Securo": {
+                "args": []
+            },
+            "Mark Snider": {
+                "args": []
+            },
+            "Bryan Cook": {
+                "args": []
+            },
+            "Zach Rey": {
+                "args": []
+            },
+            "Mark Ruffalo": {
+                "args": [
+                    [
+                        "3_tatum and ruffalo finding new ground in familiar personas",
+                        0.55449195085941
+                    ],
+                    [
+                        "10_we expect expert acting from ruffalo, and we get it, ",
+                        0.5264604243849663
+                    ]
+                ]
+            },
+            "Joey Russo": {
+                "args": []
+            },
+            "Richard E. Chapla Jr.": {
+                "args": []
+            },
+            "Kevin Cooke": {
+                "args": []
+            },
+            "Corey Jantzen": {
+                "args": []
+            },
+            "Rick Steigerwald": {
+                "args": []
+            },
+            "Barry Vlanich": {
+                "args": []
+            },
+            "Vanessa Redgrave": {
+                "args": []
+            },
+            "Mark Schultz": {
+                "args": []
+            },
+            "Dave Bennett": {
+                "args": []
+            },
+            "Daniel Hilt": {
+                "args": []
+            },
+            "Lee Perkins": {
+                "args": []
+            },
+            "Kemp Lee": {
+                "args": []
+            },
+            "Jane Mowder": {
+                "args": []
+            },
+            "Brett Rice": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "11_the year's best cast, including a phenomenal carell, makes up for slow pacing in the latest drama from the director of \"capote.\"",
+                0.6958004842645069
+            ]
+        ],
+        "entities": {
+            "Bennett Miller": {
+                "args": [
+                    [
+                        "0_[miller] is equally adept at portraying the peculiarities of wrestling here, and how those physical moves -- beautifully choreographed and executed -- sync with deeper psychological currents.",
+                        0.7498812517205673
+                    ],
+                    [
+                        "1_there's just no life in the film: aiming for a tone of studied foreboding, bennett miller instead sucks all the energy from his story.",
+                        -0.6297106960228733
+                    ],
+                    [
+                        "2_director bennett miller (\"capote,\" \"moneyball\") has a fascinating story here and he knows it.",
+                        0.681109872265479
+                    ],
+                    [
+                        "7_the clear-eyed compassion and moral intelligence of miller's film brings sense to the senseless, and finds the human pulse behind the tabloid shock.",
+                        0.7367244636297512
+                    ],
+                    [
+                        "8_what miller and his team have wrought with foxcatcher is a spellbinding portrait of desire and loneliness, which so often manifests itself in hollow victories and violent acts.",
+                        0.5351599846866173
+                    ],
+                    [
+                        "14_even if you don't know the details of this real-life, late-20th-century tragedy, director bennett miller's masterfully observed psychological study is imbued with a sense of an inevitable, catastrophic meltdown.",
+                        0.7638095637630133
+                    ],
+                    [
+                        "36_it's understandable that bennett miller should have been fascinated by the du pont-schultz case and wanted to make a film from it.",
+                        -0.5316277605715094
+                    ],
+                    [
+                        "48_once miller lays all his cards on the table ... you realize you haven't been watching people struggling with the very real temptations of unchecked privilege, so much as fumbling blindly in a glib, gloomy satire of american exceptionalism.",
+                        -0.583116687580868
+                    ],
+                    [
+                        "50_steve carell, mark ruffalo and channing tatum give superb performances in bennett miller's powerfully disturbing true-crime saga.",
+                        0.8139530767839425
+                    ]
+                ]
+            }
+        }
+    }
+}

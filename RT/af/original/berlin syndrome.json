@@ -1,0 +1,76 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Cate Shortland": {
+                "args": [
+                    [
+                        "2_australian director cate shortland creates a dreamlike sense of place within a nightmare scenario with this taut and strongly acted thriller.",
+                        0.7565093263161731
+                    ],
+                    [
+                        "4_the movie identifies ms. shortland as a talent to watch.",
+                        -0.5340050541901755
+                    ],
+                    [
+                        "9_palmer and shortland keep audiences on the edge of their seat for a bit too long (there's a tighter version within this nearly two-hour one) ",
+                        0.7230665957387434
+                    ],
+                    [
+                        "11_between more trickily opaque stretches of character development, shortland nails a handful of straight-up, nerve-shredding tension sequences, teasing a version of the film that might have tilted into full-bore horror.",
+                        -0.6298733098952847
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Emma Bading": {
+                "args": []
+            },
+            "Matthias Habich": {
+                "args": []
+            },
+            "Teresa Palmer": {
+                "args": [
+                    [
+                        "4_and it should constitute some kind of breakthrough for ms. palmer, who has not been given much of interest to do since she arrived in hollywood a little over a decade ago.",
+                        -0.7318284450423507
+                    ],
+                    [
+                        "8_shortland serves up something that's got plenty of bite to it, and palmer gladly tears into it",
+                        0.6653492619604674
+                    ]
+                ]
+            },
+            "Lucie Aron": {
+                "args": []
+            },
+            "Max Riemelt": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_between more trickily opaque stretches of character development, shortland nails a handful of straight-up, nerve-shredding tension sequences, teasing a version of the film that might have tilted into full-bore horror.",
+                -0.6298733098952847
+            ]
+        ],
+        "entities": {
+            "Shaun Grant (II) ": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

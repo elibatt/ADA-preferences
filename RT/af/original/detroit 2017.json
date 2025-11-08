@@ -1,0 +1,256 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "John Boyega": {
+                "args": [
+                    [
+                        "27_ these shortcomings are mitigated somewhat by the strong performances, particularly from john boyega.",
+                        0.7946118338407614
+                    ]
+                ]
+            },
+            "Anthony Mackie": {
+                "args": [
+                    [
+                        "34_anthony mackie is a standout as a careful vietnam vet, a guy who's only moved from one battlefield to another.",
+                        -0.6376372716352651
+                    ]
+                ]
+            },
+            "Jack Reynor": {
+                "args": []
+            },
+            "Jason Mitchell": {
+                "args": []
+            },
+            "Ben O'Toole": {
+                "args": []
+            },
+            "Jeremy Strong": {
+                "args": []
+            },
+            "Miguel J. Pimentel": {
+                "args": []
+            },
+            "Austin Hébert": {
+                "args": []
+            },
+            "Will Poulter": {
+                "args": []
+            },
+            "John Krasinski": {
+                "args": []
+            },
+            "Malcolm David Kelley": {
+                "args": []
+            },
+            "Laz Alonso": {
+                "args": []
+            },
+            "Kaitlyn Dever": {
+                "args": []
+            },
+            "Khris Davis": {
+                "args": []
+            },
+            "Joseph David Jones": {
+                "args": []
+            },
+            "Peyton Alex Smith": {
+                "args": []
+            },
+            "Gbenga Akinnagbe": {
+                "args": []
+            },
+            "Leon Thomas III": {
+                "args": []
+            },
+            "Hannah Murray": {
+                "args": []
+            },
+            "Chris Chalk": {
+                "args": []
+            },
+            "Jacob Latimore": {
+                "args": []
+            },
+            "Ephraim Sykes": {
+                "args": []
+            },
+            "Nathan Davis, Jr.": {
+                "args": []
+            },
+            "Algee Smith": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kathryn Bigelow": {
+                "args": [
+                    [
+                        "3_reteaming bigelow and boal",
+                        0.5057129941580405
+                    ],
+                    [
+                        "19_in some ways, \"detroit\" is bigelow's simplest work to date.",
+                        0.5248901071965643
+                    ],
+                    [
+                        "20_what bigelow does - incomparably - is put us in that room with those people at that moment.",
+                        0.6956686554978798
+                    ],
+                    [
+                        "21_what's missing from bigelow's film is not sensitivity ",
+                        -0.735599121329008
+                    ],
+                    [
+                        "22_ it's based on an episode that occurred half a century ago, it feels like [bigelow's] timeliest movie yet.",
+                        -0.7809642470884612
+                    ],
+                    [
+                        "33_director bigelow and screenwriter boal take the detroit race riots of half a century ago and create a hardcore masterpiece that digs into our violent past to hold up a dark mirror to the systemic racism that still rages in the here and now.",
+                        0.5538445272222645
+                    ],
+                    [
+                        "38_we have to own this, and bigelow highlights this ugly moment on its 50th anniversary.",
+                        -0.6084073714121685
+                    ],
+                    [
+                        "42_kathryn bigelow's harrowing docudrama is a bumpy ",
+                        0.6188615139918031
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "11_the injustice and anger behind it all feels like current reality, even a half-century on, making detroit urgent viewing regardless of its character-development flaws.",
+                -0.5563498660701436
+            ],
+            [
+                "14_\"detroit\" may be flawed in its bluntness and its inability to provide every character with an interior existence beyond villain and victim.",
+                0.5893633167007856
+            ]
+        ],
+        "entities": {
+            "Mark Boal": {
+                "args": [
+                    [
+                        "3_reteaming bigelow and boal",
+                        0.5057129941580405
+                    ],
+                    [
+                        "7_bigelow and boal want to make a moral howl of a movie that burns with felt life, ",
+                        -0.5412031327579846
+                    ],
+                    [
+                        "33_director bigelow and screenwriter boal take the detroit race riots of half a century ago and create a hardcore masterpiece that digs into our violent past to hold up a dark mirror to the systemic racism that still rages in the here and now.",
+                        0.5538445272222645
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_[detroit] is a film that, for all its emotional power, is strangely disengaged from the cultural and systemic forces that led to police brutality in 1967 and continue to do so today.",
+                0.5905773320835149
+            ],
+            [
+                "1_the violence in detroit is gratuitous simply because there is so much of it and it is so profoundly repugnant.",
+                -0.7466871555939013
+            ],
+            [
+                "2_bigelow doesn't have as original, as distinctive, as reflective a sense of cinematic drama as the extraordinary subject matter of \"detroit\" requires.",
+                0.6305430217484617
+            ],
+            [
+                "6_detroit is a well-made and evocative film that is also numbingly brutal with little to no reprieve.",
+                0.5012859740731406
+            ],
+            [
+                "9_detroit is an imperfect ",
+                0.6075423543274449
+            ],
+            [
+                "10_relentless in its storytelling, \"detroit\" is a film of blistering impact.",
+                0.6167349974752131
+            ],
+            [
+                "11_the injustice and anger behind it all feels like current reality, even a half-century on, making detroit urgent viewing regardless of its character-development flaws.",
+                -0.5563498660701436
+            ],
+            [
+                "12_the film is imperfect, ",
+                0.6037715779026422
+            ],
+            [
+                "12_ for anyone who still harbors delusions about systemic racism and police-community relations, \"detroit\" is an important and effective wake-up call.",
+                0.841722075626929
+            ],
+            [
+                "13_flaws and all, detroit is still well worth seeing -- shedding a sobering light on an extreme case of criminality under the color of authority.",
+                0.8230253678920277
+            ],
+            [
+                "14_\"detroit\" may be flawed in its bluntness and its inability to provide every character with an interior existence beyond villain and victim.",
+                0.5893633167007856
+            ],
+            [
+                "15_\"detroit,\" as a movie, is all over the place, yet oddly that messiness is one of its strengths.",
+                -0.5328853851002536
+            ],
+            [
+                "17_detroit is so effective at what it does and how it accomplishes its aims that it becomes almost unwatchable.",
+                0.5518372764263426
+            ],
+            [
+                "18_this unreconciled and incomplete film does an unusually good job of terrifying and unsettling us, before sending us back out into a world that's more like 1967 than we'd care to admit.",
+                0.7925911659543146
+            ],
+            [
+                "21_her characters never come alive, moving through the film less as people than entries in a sociology textbook.",
+                -0.6426497038126211
+            ],
+            [
+                "23_detroit was directed, written, produced, shot, and edited by white creatives who do not understand the weight of the images they hone in on with an unflinching gaze.",
+                0.5122646054566026
+            ],
+            [
+                "25_the film's unflinching gaze on a lawless night will likely be politicized, ",
+                0.6151336369728635
+            ],
+            [
+                "32_the film's struggle against simplification - against the sentimentality, wishful thinking and outright denial that defines most hollywood considerations of america's racial past - is palpable, almost heroic, even if it is not always successful.",
+                0.6921066135104892
+            ],
+            [
+                "35_bigelow makes it the centerpiece of detroit and, simply put, has crafted her most harrowing piece of filmmaking.",
+                0.6822098233044638
+            ],
+            [
+                "38_this is not a film about civic pride or the city's comeback.",
+                0.5788241908532403
+            ],
+            [
+                "40_intense and physically powerful in the way it conveys its atrocious events, the film nonetheless remains short on complexity, as if it were enough simply to provoke and outrage the audience.",
+                0.7063192067079731
+            ],
+            [
+                "41_a work of consummate skill which kicks into high gear when the focus turns from widespread civil unrest to the very specific.",
+                0.6161452014362837
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_caligari, the most complete essay in the décor of delirium, is one of the most famous films of all time, and it was considered a radical advance in film technique, yet it is rarely imitated -- and you'll know why.",
+                0.7455860449169347
+            ],
+            [
+                "1_a case can be made that caligari was the first true horror film.",
+                0.5316557276036833
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Robert Wiene": {
+                "args": [
+                    [
+                        "3_robert wiene has made perfect use of settings designed by hermann warm, walter reimann and walter roehrig, settings that squeeze and turn and adjust the eye and through the eye the mentality.",
+                        0.7337316790097653
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "David Lee Fisher & Hans Janowitz": {
+                "args": []
+            },
+            "Carl Mayer": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Werner Krauss": {
+                "args": []
+            },
+            "Lil Dagover": {
+                "args": []
+            },
+            "Friedrich Feher": {
+                "args": []
+            },
+            "Frederich Feher": {
+                "args": []
+            },
+            "Elsa Wagner": {
+                "args": []
+            },
+            "Rudolf Klein-Rogge": {
+                "args": []
+            },
+            "Rudolf Lettinger": {
+                "args": []
+            },
+            "Conrad Veidt": {
+                "args": []
+            },
+            "Ludwig Rex": {
+                "args": []
+            },
+            "Henri Peters-Arnolds": {
+                "args": []
+            },
+            "Hans Heinrich von Twardowski": {
+                "args": []
+            },
+            "Hans Heinz von Twardowski": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

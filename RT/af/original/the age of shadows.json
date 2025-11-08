@@ -1,0 +1,73 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_running at 140 minutes, \"the age of shadows\" is worth every moment.",
+                0.5553500282602232
+            ],
+            [
+                "5_patriotism and self-interest clash powerfully in \"the age of shadows,\" a stylish and morally complex thriller set largely in japanese-occupied 1920s seoul.",
+                0.7464731378174689
+            ],
+            [
+                "7_while the notion of a cop and perp who could be friends under different circumstances is nothing fresh, the age of shadows puts its own spin on it.",
+                0.5638070004293542
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Kim Jee-woon": {
+                "args": [
+                    [
+                        "6_kim jee-woon's gripping 1920s period piece isn't just an homage to older movies, even if it never goes anywhere you don't expect it to.",
+                        -0.5652016518445111
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_for this director, exposition can't hold a candle to elegantly staged shootouts.",
+                -0.7104113059922128
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Kim Jee-woon": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Han Ji-min": {
+                "args": [
+                    [
+                        "4_the screenwriters, lee ji-min and park jong-dae, embellish this crafty scenario with no shortage of ingenious complications, effectively doubling the number of double agents at every turn.",
+                        0.5905146937090584
+                    ]
+                ]
+            },
+            "Yoo Gong": {
+                "args": []
+            },
+            "Song Kang-ho": {
+                "args": []
+            },
+            "Hee-soon Park": {
+                "args": []
+            },
+            "Tae-goo Um": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

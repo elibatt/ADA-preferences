@@ -1,0 +1,289 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Ron Howard": {
+                "args": [
+                    [
+                        "3_ron howard's mostly lame adaptation of dan brown's wholly lame novel.",
+                        -0.6150750887780752
+                    ],
+                    [
+                        "11_he keeps letting director ron howard turn them into silly movies.",
+                        -0.6706258802349505
+                    ],
+                    [
+                        "13_once again directed by the reliable ron howard, it's by far the worst of this less-than-stellar trio.",
+                        -0.8216357138749715
+                    ],
+                    [
+                        "14_director ron howard has paced the movie like one extended chase, ",
+                        -0.5752860609542282
+                    ],
+                    [
+                        "33_brown's stories are defined by their almost surreal fuddiness, a mix of conspiracy-nut mumbo jumbo and banality that is more or less encapsulated by the idea of something called \"ron howard's inferno.\"",
+                        -0.5283746073694074
+                    ],
+                    [
+                        "34_ those who have stuck through howard and hanks' previous dan brown adaptations should find enough thrills to keep them interested in solving the mystery.",
+                        0.6491922345601427
+                    ],
+                    [
+                        "36_sometimes howard cuts to images of pained souls writhing in unending anguish.",
+                        0.7019488309849496
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "22_his greatest acting challenge may have been keeping a straight face.",
+                0.5190955788886675
+            ]
+        ],
+        "entities": {
+            "Attila Arpa": {
+                "args": []
+            },
+            "Jon Donahue": {
+                "args": []
+            },
+            "Maria Grazia Mandruzzato": {
+                "args": []
+            },
+            "Xavier Laurent": {
+                "args": []
+            },
+            "Felipe Torres": {
+                "args": []
+            },
+            "Balint Adorjani": {
+                "args": []
+            },
+            "Vincent Riotta": {
+                "args": []
+            },
+            "Cristian Stelluti": {
+                "args": []
+            },
+            "Gábor Nagypál": {
+                "args": []
+            },
+            "Vincenzo Tanassi": {
+                "args": []
+            },
+            "Mehmet Ergen": {
+                "args": []
+            },
+            "Alessandro Fabrizi": {
+                "args": []
+            },
+            "Peter Schueller": {
+                "args": []
+            },
+            "Peter Linka": {
+                "args": []
+            },
+            "Alessandro Grimaldi": {
+                "args": []
+            },
+            "Fortunato Cerlino": {
+                "args": []
+            },
+            "Kerem Ozen": {
+                "args": []
+            },
+            "Francesca Inaudi": {
+                "args": []
+            },
+            "Felicity Jones": {
+                "args": []
+            },
+            "Omar Sy": {
+                "args": []
+            },
+            "Mario Acampa": {
+                "args": []
+            },
+            "Emilio Dino Conti": {
+                "args": []
+            },
+            "Ana Ularu": {
+                "args": []
+            },
+            "Simone Mariani": {
+                "args": []
+            },
+            "Kata Sarbo": {
+                "args": []
+            },
+            "Paul Ritter": {
+                "args": []
+            },
+            "Zsolt Páll": {
+                "args": []
+            },
+            "Alberto Basaluzzo": {
+                "args": []
+            },
+            "Irrfan Khan": {
+                "args": []
+            },
+            "Sardar Tagirovsky": {
+                "args": []
+            },
+            "Sidse Babett Knudsen": {
+                "args": []
+            },
+            "Pasquale Corrente": {
+                "args": []
+            },
+            "Buyukkol Mehmet Onur": {
+                "args": []
+            },
+            "Ida Darvish": {
+                "args": []
+            },
+            "Philip Arditti": {
+                "args": []
+            },
+            "Ben Foster": {
+                "args": []
+            },
+            "Rebecka Sternberg": {
+                "args": []
+            },
+            "Lili Gesler": {
+                "args": []
+            },
+            "Luca Fiorilli": {
+                "args": []
+            },
+            "Tom Hanks": {
+                "args": [
+                    [
+                        "9_\"inferno\" is a grabber, and hanks knows langdon so well, he wears that character like a somewhat worn yet still well-constructed suit of clothes.",
+                        0.5764844964085621
+                    ],
+                    [
+                        "16_fans of tom hanks, of the books, or of the movies made from the books will likely find inferno an acceptable amusement for the usual reasons of loyalty and familiarity.",
+                        0.7556994446540339
+                    ],
+                    [
+                        "22_in his third performance as langdon, hanks has little to do ",
+                        -0.5813029412155197
+                    ],
+                    [
+                        "34_ those who have stuck through howard and hanks' previous dan brown adaptations should find enough thrills to keep them interested in solving the mystery.",
+                        0.6491922345601427
+                    ],
+                    [
+                        "36_sometimes hanks can't remember anything that happened.",
+                        -0.7395647421623188
+                    ]
+                ]
+            },
+            "Yang Haiwen": {
+                "args": []
+            },
+            "Gianni Annoni": {
+                "args": []
+            },
+            "Paolo Antonio Simioni": {
+                "args": []
+            },
+            "Gabor Atlasz": {
+                "args": []
+            },
+            "Mirjam Novak": {
+                "args": []
+            },
+            "Gabor Diossi": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "9_\"inferno\" is a grabber, and hanks knows langdon so well, he wears that character like a somewhat worn yet still well-constructed suit of clothes.",
+                0.5764844964085621
+            ]
+        ],
+        "entities": {
+            "David Koepp": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_inferno is better than the da vinci code or angels & demons, ",
+                0.520551269508729
+            ],
+            [
+                "2_ following inferno is a wild goose chase - without the goose.",
+                0.614586358605768
+            ],
+            [
+                "6_you don't need a hidden set of clues to decipher that \"inferno\" is one of the worst movies of the year.",
+                -0.8094537393747445
+            ],
+            [
+                "17_ the whole movie is like that, a combination of high culture and cheese.",
+                0.7079374566463384
+            ],
+            [
+                "19_inferno is somewhere in between - watchable ",
+                -0.6143686605063962
+            ],
+            [
+                "20_\"inferno\" takes itself way too seriously, even for a movie in which the quarry is a ticking time bomb in the form of a virus that, once unleashed, will kill half the planet.",
+                -0.8252978820069561
+            ],
+            [
+                "21_it is hard to overstate how bad this abysmal film is.",
+                -0.8138686736764686
+            ],
+            [
+                "24_but inferno just lays there onscreen,",
+                -0.6040769570957389
+            ],
+            [
+                "26_i can't say i liked \"inferno,\" ",
+                -0.6243442141920925
+            ],
+            [
+                "29_the kind of movie that stops - and stoops - to explain, early and often.",
+                -0.5543325151934609
+            ],
+            [
+                "29_ the movie makes almost no sense.",
+                -0.6076641136319691
+            ],
+            [
+                "30_\"inferno\" is the exact cinematic equivalent of an airport paperback, which is what's fine and forgettable about it.",
+                -0.7214290007372017
+            ],
+            [
+                "37_even with a wealth of talent involved, inferno is missing some serious heat.",
+                -0.7732830589420328
+            ],
+            [
+                "38_inferno may not have the zeitgeisty draw of its predecessors, ",
+                0.5481171145896365
+            ],
+            [
+                "42_fundamentally silly the film may be, ",
+                -0.5135958566533152
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

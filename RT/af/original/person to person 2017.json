@@ -1,0 +1,90 @@
+{
+    "writer": {
+        "entities": {
+            "Dustin Guy Defa": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Dustin Guy Defa": {
+                "args": [
+                    [
+                        "9_ defa's feature itself is an example of reprising things about the past that didn't particularly work.",
+                        -0.6164838541261916
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "1_a solid cast whose talents mostly go to waste and a movie that meanders from one moment to the next without much momentum.",
+                -0.5775091525561064
+            ],
+            [
+                "3_person to person is a gently comic slices-of-life drama, the kind where a variety of people's conflicting, occasionally overlapping experience of the city comes together into a messy whole.",
+                0.8120173896566278
+            ],
+            [
+                "6_a sweet, light puff of a movie, person to person succeeds on the strength of its affection for shaggy-dog stories and the personalities who waltz in and out of them.",
+                0.8222271338148658
+            ],
+            [
+                "8_once you settle into its groove the movie becomes much more than the sum of its parts.",
+                0.6199755981625359
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Bene Coopersmith": {
+                "args": []
+            },
+            "Isiah Whitlock Jr.": {
+                "args": []
+            },
+            "Philip Baker Hall": {
+                "args": []
+            },
+            "George Sample III": {
+                "args": []
+            },
+            "Olivia Luccardi": {
+                "args": []
+            },
+            "Michael Cera": {
+                "args": []
+            },
+            "Buddy Duress": {
+                "args": []
+            },
+            "Tavi Gevinson": {
+                "args": []
+            },
+            "Ben Rosenfield (II)": {
+                "args": []
+            },
+            "Michaela Watkins": {
+                "args": []
+            },
+            "Abbi Jacobson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_a solid cast whose talents mostly go to waste and a movie that meanders from one moment to the next without much momentum.",
+                -0.5775091525561064
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

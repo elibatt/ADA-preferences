@@ -1,0 +1,84 @@
+{
+    "acting": {
+        "entities": {
+            "Sage Ryan": {
+                "args": []
+            },
+            "Michael Gross": {
+                "args": []
+            },
+            "Dave B. Mitchell": {
+                "args": []
+            },
+            "Jon Curry": {
+                "args": []
+            },
+            "Al Rodrigo": {
+                "args": []
+            },
+            "Ian McShane": {
+                "args": []
+            },
+            "Mick Wingert": {
+                "args": []
+            },
+            "Jacob Latimore": {
+                "args": []
+            },
+            "China Anne McClain": {
+                "args": []
+            },
+            "Cynthia Kaye McWilliams": {
+                "args": []
+            },
+            "Adewale Akinnuoye-Agbaje": {
+                "args": []
+            },
+            "Fred Tatasciore": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Alex Kronemer": {
+                "args": []
+            },
+            "Yassin Kamel": {
+                "args": []
+            },
+            "Michael Wolfe": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "3_where bilal exceeds in animation and direction, it lacks in entertaining, cohesive story, possibly owing to either the directors' desire to remain accurate to muslim texts or the huge span of time they are trying to cover in a single movie.",
+                0.7295253997223271
+            ],
+            [
+                "9_viewers unfamiliar with bilal's story may have trouble following parts of the film.",
+                0.530849739590656
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Khurram H. Alavi": {
+                "args": []
+            },
+            "Ayman Jamal": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

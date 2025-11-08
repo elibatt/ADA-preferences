@@ -1,0 +1,73 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [
+            [
+                "0_a portrayal we haven't often seen before, and marks a new direction for films targeted at that audience.",
+                0.7232195534258794
+            ]
+        ],
+        "entities": {
+            "Brett Dalton (II)": {
+                "args": []
+            },
+            "D.B. Sweeney": {
+                "args": []
+            },
+            "Emily Eruraviel": {
+                "args": []
+            },
+            "Anjelah Johnson-Reyes": {
+                "args": []
+            },
+            "Kirk B.R. Woller": {
+                "args": []
+            },
+            "Neil Flynn": {
+                "args": []
+            },
+            "Shawn Michaels (V)": {
+                "args": []
+            },
+            "Christopher Maleki": {
+                "args": []
+            },
+            "Liam Matthews": {
+                "args": []
+            },
+            "Nicole Astra": {
+                "args": []
+            },
+            "Tim Frank": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Dallas Jenkins": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andrea Gyertson": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_the resurrection of gavin stone should satisfy its target heartland audience.",
+                -0.5891687474395874
+            ]
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "acting": {
+        "entities": {
+            "Kerry Shale": {
+                "args": []
+            },
+            "Shaquille O'Neal": {
+                "args": []
+            },
+            "Alan Cumming": {
+                "args": []
+            },
+            "Atul Sharma": {
+                "args": []
+            },
+            "Deila Sheppard": {
+                "args": []
+            },
+            "Gabriel Iglesias": {
+                "args": []
+            },
+            "Will Arnett": {
+                "args": [
+                    [
+                        "1_grown-ups will find it painful to watch a clearly embarrassed arnett go through the motions, muttering his lines as he internally wonders why he never became the next kevin costner.",
+                        -0.8081257623970899
+                    ]
+                ]
+            },
+            "Chris \"Ludacris\" Bridges": {
+                "args": []
+            },
+            "Cristina Dohmen": {
+                "args": []
+            },
+            "Andy Beckwith": {
+                "args": []
+            },
+            "Natasha Lyonne": {
+                "args": []
+            },
+            "Omar Chaparro": {
+                "args": []
+            },
+            "Stanley Tucci": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Marc Hyman": {
+                "args": []
+            },
+            "Max Botkin": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_grown-ups might not roll over for \"show dogs,\" ",
+                -0.6632415818292823
+            ],
+            [
+                "3_even by the low standards of this type of live-action, family friendly comedy, show dogs is especially lame.",
+                -0.6336385682309957
+            ],
+            [
+                "4_make a stand to hollywood and vote with your wallet: we all deserve a better live-action talking-dog movie than this.",
+                0.5692639003337743
+            ],
+            [
+                "6_the film's lack of inspiration at every level - technical, narrative and comedic - is so crushing that, save for pre-adolescents, most will consider this a top contender for worst of breed.",
+                -0.7995184410495436
+            ],
+            [
+                "8_sometimes a rewarding movie theater experience comes from a simple film that doesn't promise more than it can deliver. \"",
+                0.5181065324917054
+            ],
+            [
+                "9_this nicely modulated film largely avoids the hyper-aggressive jokiness and desperate stabs at relevance that often plague kidpics.",
+                0.6642897628883856
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Raja Gosnell": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

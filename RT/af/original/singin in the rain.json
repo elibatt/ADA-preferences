@@ -1,0 +1,204 @@
+{
+    "film": {
+        "args": [
+            [
+                "11_there is no movie musical more fun than singin' in the rain, and few that remain as fresh over the years.",
+                0.555405313849274
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Stanley Donen": {
+                "args": []
+            },
+            "Gene Kelly": {
+                "args": [
+                    [
+                        "5_compounded generously of music, dance, color, spectacle and a riotous abundance of gene kelly, jean hagen and donald o'connor on the screen, all elements in this rainbow program are carefuly contrived and guaranteed to...put you in a ",
+                        0.5834321893527967
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Adolph Green": {
+                "args": []
+            },
+            "Betty Comden": {
+                "args": [
+                    [
+                        "7_a rare musical whose story -- scripted by betty comden and adolph green -- is just as good as the songs.",
+                        0.819336085607628
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Charles Evans": {
+                "args": []
+            },
+            "Lynn Bernay": {
+                "args": []
+            },
+            "Jimmy Thompson": {
+                "args": []
+            },
+            "Don Hulbert": {
+                "args": []
+            },
+            "Cyd Charisse": {
+                "args": []
+            },
+            "Jimmie Thompson": {
+                "args": []
+            },
+            "Patricia Denise": {
+                "args": []
+            },
+            "Dan Foster": {
+                "args": []
+            },
+            "Bob Watson": {
+                "args": []
+            },
+            "Judy Landon": {
+                "args": []
+            },
+            "Ernest Flatt": {
+                "args": []
+            },
+            "Madge Blake": {
+                "args": []
+            },
+            "Dennis Ross": {
+                "args": []
+            },
+            "Bobby Watson": {
+                "args": []
+            },
+            "David Kasday": {
+                "args": []
+            },
+            "Shirley Jean Rickert": {
+                "args": []
+            },
+            "Debbie Reynolds": {
+                "args": [
+                    [
+                        "10_miss reynolds, besides singing in her own pleasurable style and doing some clever dancing, handles her first romantic lead appealingly and capably.",
+                        0.8187555879404125
+                    ]
+                ]
+            },
+            "Dawn Addams": {
+                "args": []
+            },
+            "Julius Tannen": {
+                "args": []
+            },
+            "Dorothy Patrick": {
+                "args": []
+            },
+            "Morgan Jones": {
+                "args": []
+            },
+            "Douglas Fowley": {
+                "args": []
+            },
+            "Joi Lansing": {
+                "args": []
+            },
+            "Millard Mitchell": {
+                "args": []
+            },
+            "Wilson Wood": {
+                "args": []
+            },
+            "Bill Chatham": {
+                "args": []
+            },
+            "David Sharpe": {
+                "args": []
+            },
+            "Richard Emory": {
+                "args": []
+            },
+            "John Dodsworth": {
+                "args": []
+            },
+            "Gene Kelly": {
+                "args": [
+                    [
+                        "5_compounded generously of music, dance, color, spectacle and a riotous abundance of gene kelly, jean hagen and donald o'connor on the screen, all elements in this rainbow program are carefuly contrived and guaranteed to...put you in a ",
+                        0.5834321893527967
+                    ]
+                ]
+            },
+            "Stuart Holmes": {
+                "args": []
+            },
+            "Jean Hagen": {
+                "args": []
+            },
+            "King Donovan": {
+                "args": []
+            },
+            "Robert Dayo": {
+                "args": []
+            },
+            "Bill Lewin": {
+                "args": []
+            },
+            "Donald O'Connor": {
+                "args": [
+                    [
+                        "10_kelly and o'connor each can be covered with one word: great!",
+                        0.6153314912416576
+                    ]
+                ]
+            },
+            "Rita Moreno": {
+                "args": []
+            },
+            "Jack George": {
+                "args": []
+            },
+            "Carl Milletaire": {
+                "args": []
+            },
+            "Jeanne Coyne": {
+                "args": []
+            },
+            "William Lester": {
+                "args": []
+            },
+            "Russell Saunders": {
+                "args": []
+            },
+            "Kathleen Freeman": {
+                "args": []
+            },
+            "Margaret Bert": {
+                "args": []
+            },
+            "Elaine Stewart": {
+                "args": []
+            },
+            "Mae Clarke": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

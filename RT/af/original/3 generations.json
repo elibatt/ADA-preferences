@@ -1,0 +1,167 @@
+{
+    "writer": {
+        "entities": {
+            "Gaby Dellal": {
+                "args": []
+            },
+            "Nikole Beckwith": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "10_yet another film where non-trans people learn valuable life lessons, complete with lots of hugs, while the actual trans character's story takes a backseat.",
+                0.6384637439665692
+            ],
+            [
+                "13_after her character's trans cred is fully established, fanning is pushed into the background and about ray starts to feel like a bad neil simon comedy.",
+                -0.8062404402784851
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Naomi Watts": {
+                "args": []
+            },
+            "Andrew Polk": {
+                "args": []
+            },
+            "Maxwell Simkins": {
+                "args": []
+            },
+            "Maria Dizzia": {
+                "args": []
+            },
+            "Elle Fanning": {
+                "args": [
+                    [
+                        "13_after her character's trans cred is fully established, fanning is pushed into the background and about ray starts to feel like a bad neil simon comedy.",
+                        -0.8062404402784851
+                    ]
+                ]
+            },
+            "Sam Trammell": {
+                "args": []
+            },
+            "Tate Donovan": {
+                "args": []
+            },
+            "Antonio Ortiz": {
+                "args": []
+            },
+            "Lucca De Oliveira": {
+                "args": []
+            },
+            "Ira Jackson": {
+                "args": []
+            },
+            "Susan Blackwell": {
+                "args": []
+            },
+            "Matta Marie Conforti": {
+                "args": []
+            },
+            "Francesca Keller": {
+                "args": []
+            },
+            "Carlos Jordan": {
+                "args": []
+            },
+            "Eva Kaminsky": {
+                "args": []
+            },
+            "Gameela Wright": {
+                "args": []
+            },
+            "Marquis Rodriguez": {
+                "args": []
+            },
+            "Marcos Gonzalez": {
+                "args": []
+            },
+            "Jinn S. Kim": {
+                "args": []
+            },
+            "Elle Winter": {
+                "args": []
+            },
+            "Linda Emond": {
+                "args": []
+            },
+            "Susan Sarandon": {
+                "args": []
+            },
+            "Tessa Albertson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "7_takes on the topic of gender dysphoria with a talented cast ",
+                0.6340378658751534
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"3 generations\" starts with a unique and intimate point of view, only to become yet another indie drama about the difficulties of motherhood.",
+                0.584045037174975
+            ],
+            [
+                "1_\"3 generations\" feels focus-grouped into existence, like its every development was fine-tuned to be as inoffensively on-message as possible in its treatment of trans issues.",
+                -0.5737210221928101
+            ],
+            [
+                "2_3 generations is contrived, ",
+                -0.6337135174466203
+            ],
+            [
+                "3_this is a movie that derives most of its suspense on whether a piece of paper will be signed, not a strong basis for dramatic tension.",
+                0.5796059692912405
+            ],
+            [
+                "4_if you can look past the sitcom humor, that late-in-the-game melodrama and the usual cliche about the mature child in a family of immature adults, \"3 generations\" does a few important things.",
+                0.7563908743771007
+            ],
+            [
+                "5_in the end, 3 generations wants to to be about trans issues more than it really wants to live in them.",
+                -0.7239219231917827
+            ],
+            [
+                "6_3 generations doesn't cut deep into the torn-from-the-headlines issue of trans rights.",
+                -0.5027714603045976
+            ],
+            [
+                "9_good intentions abound in \"3 generations,\" a movie about a new york teenager transitioning from female to male, ",
+                0.5131278260863017
+            ],
+            [
+                "10_yet another film where non-trans people learn valuable life lessons, complete with lots of hugs, while the actual trans character's story takes a backseat.",
+                0.6384637439665692
+            ],
+            [
+                "14_dellal's likably chaotic direction and a bevy of solid performances make sure the film's beating heart outweighs most of its contrivances.",
+                0.8201278581945293
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Gaby Dellal": {
+                "args": [
+                    [
+                        "11_[dellal] way overcranks the \"movie\" neuroses of her three characters, muffling any human spark.",
+                        0.5800926536443282
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

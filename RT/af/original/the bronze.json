@@ -1,0 +1,185 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Bryan Buckley": {
+                "args": [
+                    [
+                        "10_after a while, you may even start to feel that what director bryan buckley & co. really value is whatever squirming discomfort they can wring from an audience that fancies itself sophisticated enough to enjoy the naturally unpleasant.",
+                        0.5421538202214987
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Cecily Strong": {
+                "args": []
+            },
+            "Barak Hardley": {
+                "args": []
+            },
+            "Melissa Rauch": {
+                "args": [
+                    [
+                        "8_but rauch's timing is impeccable,",
+                        0.6581867651784244
+                    ],
+                    [
+                        "14_the problem with the bronze isn't that melissa rauch's hope ann gregory is such a nasty, foul-mouthed, terrible little human being.",
+                        -0.8449486657845875
+                    ]
+                ]
+            },
+            "Gary Cole": {
+                "args": []
+            },
+            "Brian Binder": {
+                "args": []
+            },
+            "Christine E. Abraham": {
+                "args": []
+            },
+            "Haley Lu Richardson": {
+                "args": []
+            },
+            "Ellery Sprayberry": {
+                "args": []
+            },
+            "Thomas Middleditch": {
+                "args": []
+            },
+            "Bryan Binder": {
+                "args": []
+            },
+            "Sebastian Stan": {
+                "args": []
+            },
+            "Christine Abrahamsen": {
+                "args": []
+            },
+            "Dale Raoul": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "5_and every so often it's refreshing to have a movie that dares to say - you know, no matter what all the screenwriting gurus tell you, some characters never change.",
+                0.6155198088399555
+            ],
+            [
+                "9_an olympic-themed tale that goes way overboard in conveying that its main character is despicable.",
+                0.5072894247975247
+            ],
+            [
+                "12_ultimately the character of hope is not as ",
+                -0.5797475182084686
+            ]
+        ],
+        "entities": {
+            "Winston Rauch": {
+                "args": []
+            },
+            "Melissa Rauch": {
+                "args": [
+                    [
+                        "8_but rauch's timing is impeccable,",
+                        0.6581867651784244
+                    ],
+                    [
+                        "14_the problem with the bronze isn't that melissa rauch's hope ann gregory is such a nasty, foul-mouthed, terrible little human being.",
+                        -0.8449486657845875
+                    ]
+                ]
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the bronze is an uninspired creation that feels like tina fey's sarah palin impression in a 'little britain' sketch.",
+                -0.6758527569292737
+            ],
+            [
+                "1_a crude yet cuddly comedy written by a star of \"the big bang theory.\"",
+                -0.5677713134000164
+            ],
+            [
+                "5_and every so often it's refreshing to have a movie that dares to say - you know, no matter what all the screenwriting gurus tell you, some characters never change.",
+                0.6155198088399555
+            ],
+            [
+                "6_the bronze often feels like an extended skit, ",
+                -0.6874587335701148
+            ],
+            [
+                "6_ hope is so refreshingly unladylike and the movie is so refreshingly cynical about gymnastics that the results are surprisingly amusing.",
+                0.5352893040580575
+            ],
+            [
+                "7_\"the bronze\" is a fiercely independent comedy, sure to be too startling for some, ",
+                -0.516577160871527
+            ],
+            [
+                "14_it's that she's not as funny as the film thinks she is.",
+                -0.526274814605106
+            ],
+            [
+                "16_this is one movie that gets better as it goes along, even as it fails to fully hit the high bar of making us care about a very nasty individual.",
+                -0.6256493669569051
+            ],
+            [
+                "17_when it comes down to it, \"the bronze\" is just another movie about overcoming arrested development.",
+                -0.7509866856948321
+            ],
+            [
+                "18_as it stands, \"the bronze\" is just clumsy, caught between the same conflicting impulses it tries to depict - the compulsion to be outrageous and the desire to be loved.",
+                -0.5845113931822994
+            ],
+            [
+                "19_the film makes a point of mocking tonya harding-style greed and clinging to faded glory, ",
+                0.5736247716693291
+            ],
+            [
+                "20_ at least the bronze softens up convincingly.",
+                -0.6329742596786473
+            ],
+            [
+                "21_there are some laughs in \"the bronze,\" ",
+                -0.6798666242614007
+            ],
+            [
+                "22_i found myself admiring \"the bronze\" ...",
+                -0.563287862508127
+            ],
+            [
+                "22_this film is a comedy wrapped in barbed wire",
+                -0.5507905032758548
+            ],
+            [
+                "23_\"the bronze\" isn't a brilliant game-changer, just a funny and filthy diversion.",
+                0.6537600669791996
+            ],
+            [
+                "24_for a movie with a critique of mediocrity well within its grasp, this one settles for an embrace of it, barely breaking a sweat.",
+                0.5258296150208512
+            ],
+            [
+                "26_the bronze is a strident comedy made in accordance with the sole guiding principle of, when it doubt, go even more vulgar.",
+                -0.522712592565577
+            ],
+            [
+                "27_though no one would accuse \"the bronze\" of not being funny,",
+                -0.668515096160551
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

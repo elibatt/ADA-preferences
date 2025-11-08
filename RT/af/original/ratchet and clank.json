@@ -1,0 +1,108 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_it's a shame, then, that the movie ultimately finds itself becoming so conventional.",
+                -0.6937470045671521
+            ],
+            [
+                "3_feels like watching four episodes of a saturday morning cartoon mashed into a feature-length film.",
+                -0.6086550629901056
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Kevin Munroe": {
+                "args": []
+            },
+            "Jericca Cleland": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ian James Corlett": {
+                "args": []
+            },
+            "Brad Swaile": {
+                "args": []
+            },
+            "Alessandro Juliani": {
+                "args": []
+            },
+            "Lee Tockar": {
+                "args": []
+            },
+            "Cole Howard": {
+                "args": []
+            },
+            "Brian Drummond": {
+                "args": []
+            },
+            "Rebecca Shoichet": {
+                "args": []
+            },
+            "Tabitha St. Germain": {
+                "args": []
+            },
+            "Brian Dobson": {
+                "args": []
+            },
+            "Rosario Dawson": {
+                "args": []
+            },
+            "Paul Giamatti": {
+                "args": []
+            },
+            "John Goodman": {
+                "args": []
+            },
+            "James Arnold Taylor": {
+                "args": []
+            },
+            "Jim Ward": {
+                "args": []
+            },
+            "Armin Shimerman": {
+                "args": []
+            },
+            "Sylvester Stallone": {
+                "args": []
+            },
+            "Bella Thorne": {
+                "args": []
+            },
+            "Vincent Tong": {
+                "args": []
+            },
+            "Don Briggs": {
+                "args": []
+            },
+            "Andrew Cownden": {
+                "args": []
+            },
+            "David Kaye": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Gerry Swallow": {
+                "args": []
+            },
+            "Kevin Munroe": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "director": {
+        "args": [],
+        "entities": {
+            "Eran Creevy": {
+                "args": [
+                    [
+                        "3_ director eran creevy's third feature doesn't inspire a whole lot of confidence with its bland introduction.",
+                        -0.573983838183884
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Anthony Hopkins": {
+                "args": []
+            },
+            "Ben Kingsley": {
+                "args": []
+            },
+            "Nicholas Hoult": {
+                "args": [
+                    [
+                        "1_unexceptional, a hodgepodge of corny voice-over and repetitive, anticlimactic plotting, with hoult and jones miscast as a couple of party-hardy american expats.",
+                        -0.5541716151370627
+                    ],
+                    [
+                        "4_a flatly earnest hoult and jones are hamstrung by drippy dialogue, while kingsley and hopkins overplay their more colorful parts - with the former doing a cartoonish turkish accent and the latter delivering lines with strange emphasis.",
+                        -0.5389734174523229
+                    ]
+                ]
+            },
+            "Marwan Kenzari": {
+                "args": []
+            },
+            "Christina Hecke": {
+                "args": []
+            },
+            "Erdal Yildiz": {
+                "args": []
+            },
+            "Aleksandar Jovanovic": {
+                "args": []
+            },
+            "Christian Rubeck": {
+                "args": []
+            },
+            "Joachim Król": {
+                "args": []
+            },
+            "Michael Epp": {
+                "args": []
+            },
+            "Ben Hecker": {
+                "args": []
+            },
+            "Clemans Schick": {
+                "args": []
+            },
+            "Felicity Jones": {
+                "args": [
+                    [
+                        "0_hoult and jones are unable to breathe much life into their bland characters, and it's ultimately sad to watch the former hannibal lecter and gandhi reduced to playing silly, tough-guy caricatures.",
+                        -0.810625020812561
+                    ]
+                ]
+            },
+            "Lara Melina Siebertz": {
+                "args": []
+            },
+            "Nadia Hilker": {
+                "args": []
+            },
+            "Markus Klauk": {
+                "args": []
+            },
+            "Johnny Palmiero": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "F. Scott Frazier": {
+                "args": []
+            },
+            "Eran Creevy": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "2_the kind of low-rent action movie that only exists because everybody involved knew that nobody in the western world would ever see it.",
+                -0.5432436800044668
+            ],
+            [
+                "5_hand-in-hand with its bleeding-heart nature, collide has the ballsy idea of making a serious action movie about a fool in love, ",
+                0.5653508834463263
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

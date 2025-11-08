@@ -1,0 +1,96 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_rashomon is such a movie",
+                -0.5238933856749272
+            ],
+            [
+                "3_rashomon is a novel, stimulating moviegoing experience, and a sure sign that u.s. film importers will be looking hard at japanese pictures from now on.",
+                0.736611175367427
+            ],
+            [
+                "5_an impressive piece of work, visually and rhythmically masterful.",
+                0.7489975325524418
+            ],
+            [
+                "8_rashomon (1950) struck the world of film like a thunderbolt.",
+                0.7476870432323317
+            ],
+            [
+                "9_kurosawa's most brilliant move in rashomon is never to reveal what really happened.",
+                0.6478366573405285
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Akira Kurosawa": {
+                "args": [
+                    [
+                        "6_its virtues are still plentiful: kurosawa's visual style at its most muscular, rhythmically nuanced editing, and excellent performances.",
+                        0.8630217831897554
+                    ],
+                    [
+                        "7_much of the power of the picture -- and it unquestionably has hypnotic power -- derives from the brilliance with which the camera of director akira kurosawa has been used.",
+                        0.7361085192010043
+                    ],
+                    [
+                        "10_what kurosawa implies in this haunting film is that in the retelling, inevitably every man will make himself out to be the hero or villain of the story.",
+                        0.6446362141391453
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Shinobu Hashimoto": {
+                "args": []
+            },
+            "Akira Kurosawa": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Minoru Chiaki": {
+                "args": []
+            },
+            "Daisuke Katô": {
+                "args": []
+            },
+            "Fumiko Homma": {
+                "args": []
+            },
+            "Machiko Kyo": {
+                "args": []
+            },
+            "Takashi Shimura": {
+                "args": []
+            },
+            "Toshiro Mifune": {
+                "args": []
+            },
+            "Kichijiro Ueda": {
+                "args": []
+            },
+            "Masayuki Mori": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "4_this caused a flurry in critical circles for its brilliance of conception, technique, acting and its theme of passion.",
+                0.6435843801705687
+            ]
+        ]
+    }
+}

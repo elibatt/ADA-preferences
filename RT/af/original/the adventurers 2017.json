@@ -1,0 +1,82 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jingchu Zhang": {
+                "args": []
+            },
+            "Yo Wang": {
+                "args": []
+            },
+            "Qi Shu": {
+                "args": []
+            },
+            "Jean Reno": {
+                "args": []
+            },
+            "Eric Tsang": {
+                "args": []
+            },
+            "Andy Lau": {
+                "args": []
+            },
+            "Karel Dobry": {
+                "args": []
+            },
+            "Sha Yi": {
+                "args": []
+            },
+            "Tony Yang": {
+                "args": []
+            },
+            "Zhang Yiqun": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Stephen Fung": {
+                "args": [
+                    [
+                        "2_while the basic ingredients are familiar, fung endows them with panache and speed, and he punctuates the action with humor.",
+                        0.5902761461264787
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Andy Lo": {
+                "args": []
+            },
+            "Stephen Fung": {
+                "args": []
+            },
+            "Chi Kwong Cheung": {
+                "args": []
+            },
+            "Wong Hiu Chong": {
+                "args": []
+            },
+            "Steve Ha": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_the adventurers is every bit as generic as its title ...",
+                -0.6491306473122034
+            ]
+        ]
+    }
+}

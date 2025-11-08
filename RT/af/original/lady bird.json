@@ -1,0 +1,293 @@
+{
+    "film": {
+        "args": [
+            [
+                "2_\"lady bird\" is a deeply accomplished de",
+                0.6870334227917746
+            ],
+            [
+                "3_ few as wonderful as \"lady bird.\"",
+                0.7882818064740154
+            ],
+            [
+                "5_the film is a dazzling collaboration between two of the most impressive art-house actresses of the past decade.",
+                0.753804698609942
+            ],
+            [
+                "6_lady bird understands late adolescence as the endless accumulations of tiny humiliations and a deep, unutterable yearning for escape.",
+                0.6657108825182416
+            ],
+            [
+                "7_the delightful and insightful lady bird achieves flight in its own unique way, just like the aerodynamically unorthodox ladybug the title tips to.",
+                0.8109992754403248
+            ],
+            [
+                "8_lady bird is a coming-of-age story distinguished by a great script and a perfect cast.",
+                0.9077008735707581
+            ],
+            [
+                "14_\"lady bird\" is a triumph of style, sensibility and spirit.",
+                0.7183670731603717
+            ],
+            [
+                "15_if a more enchanted movie comes along this year, i'll be surprised.",
+                0.7379216591998872
+            ],
+            [
+                "16_this is simply beautiful work.",
+                0.6714687349909254
+            ],
+            [
+                "17_ she brings that to her work as director, as \"lady bird\" skims along happily, showing us moments both crucial and trivial in a teenage girl's life.",
+                0.7641307602064861
+            ],
+            [
+                "21_the movie is best when it undercuts its own seriousness, as when lady bird proclaims, \"i want to be the best version of who i can be,\" and then follows up with, \"what if this is the best version?\"",
+                0.5838986223887728
+            ],
+            [
+                "22_lady bird finds fresh purchase in well-trodden territory by observing the human carnival from a girl's point of view.",
+                0.7310123749313542
+            ],
+            [
+                "28_lady bird is both generous and joyous, ",
+                0.6620834678972018
+            ],
+            [
+                "34_if you pay the right kind of attention to \"lady bird\" - absorbing its riffs and digressions as well as its melodies, its choral passages along with its solos and duets - you will almost certainly love it.",
+                0.8969224644675345
+            ],
+            [
+                "36_lady bird is a perfect coming-of-age comedy for anyone who's ever had teenage wanderlust, fought with their parents, fostered a love-hate tension with their hometown or popped communion wafers in secret.",
+                0.783256612276342
+            ],
+            [
+                "41_lady bird is something truly special: a coming-of-age comedy so funny, perceptive, and truthful that it makes most other films about adolescence look like little more than lessons in cliché.",
+                0.807444413416077
+            ],
+            [
+                "44_\"lady bird\" consolidates the style and sensibility of a generation caught between the last gasp of the 20th century and post-9/11 disillusionment like nothing else before.",
+                0.6929933098910328
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {
+            "adolescence": {
+                "args": [
+                    [
+                        "1_a heartfelt coming-of-age story that perfectly captures the bittersweet transition from adolescence to dawning adulthood...",
+                        0.7575900470886555
+                    ],
+                    [
+                        "8_lady bird is a coming-of-age story distinguished by a great script and a perfect cast.",
+                        0.9077008735707581
+                    ],
+                    [
+                        "11_saoirse ronan plays lady bird as if she'd been following writer-director greta gerwig around all her life - mannerisms and liberated worldview fully internalized.",
+                        0.7305407278967829
+                    ],
+                    [
+                        "33_in telling her own coming of age story, gerwig proves herself a blazing talent and ronan and metcalf should have oscar calling.",
+                        0.6936840410977401
+                    ],
+                    [
+                        "36_lady bird is a perfect coming-of-age comedy for anyone who's ever had teenage wanderlust, fought with their parents, fostered a love-hate tension with their hometown or popped communion wafers in secret.",
+                        0.783256612276342
+                    ],
+                    [
+                        "37_as writer and director, greta gerwig infuses this comedic coming-of-age drama with verbal virtuosity, gestural idiosyncrasy, and emotional vitality.",
+                        0.7462283407312142
+                    ],
+                    [
+                        "39_gerwig has proven that she's equally adept behind the camera, allowing her personal experiences to inform this upbeat, charming coming-of-age comedy.",
+                        0.7637823525858725
+                    ],
+                    [
+                        "41_lady bird is something truly special: a coming-of-age comedy so funny, perceptive, and truthful that it makes most other films about adolescence look like little more than lessons in cliché.",
+                        0.807444413416077
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Greta Gerwig": {
+                "args": [
+                    [
+                        "2_, as much a love letter to gerwig's hometown as it is to awkward adolescence.",
+                        0.640094149839868
+                    ],
+                    [
+                        "9_highlighted by an awards-worthy performance by saoirse ronan and structured around a light, witty script by gerwig, the movie delivers a well-targeted snapshot of a year-in-the-life of an ordinary high school senior.",
+                        0.8574521252867289
+                    ],
+                    [
+                        "17_as an actor, gerwig has shown an enchantingly light touch",
+                        0.6693369568332928
+                    ],
+                    [
+                        "18_, so it's no surprise that gerwig the auteur so delicately balances hilarity and heartbreak.",
+                        0.634514237751549
+                    ],
+                    [
+                        "19_a finely wrought, deeply felt mash note to gerwig's hometown of sacramento, and the rare film about teenage life that puts equal weight on the dark, sad and tough parts, as it does on the joyous, raucous, euphoric moments.",
+                        0.5742116395261556
+                    ],
+                    [
+                        "25_left to her own devices, gerwig has arrived and solidified her place as one of the most invigorating, observant and authentic voices in movies today with a director's acumen to match.",
+                        0.8597901294887494
+                    ],
+                    [
+                        "27_the loosely autobiographical lady bird is actress-writer greta gerwig's solo directorial de",
+                        0.6196349096333953
+                    ],
+                    [
+                        "31_as warm as it is smart - and it is very smart - \"lady bird\" marks actor/screenwriter greta gerwig's superb de",
+                        0.8664842051489268
+                    ],
+                    [
+                        "33_in telling her own coming of age story, gerwig proves herself a blazing talent and ronan and metcalf should have oscar calling.",
+                        0.6936840410977401
+                    ],
+                    [
+                        "37_as writer and director, greta gerwig infuses this comedic coming-of-age drama with verbal virtuosity, gestural idiosyncrasy, and emotional vitality.",
+                        0.7462283407312142
+                    ],
+                    [
+                        "42_this is a resoundingly modern, assuredly female-voiced comedy that portends more great things to come from gerwig behind the camera.",
+                        0.7553162654359706
+                    ],
+                    [
+                        "43_lady bird is a sharp-witted solo first feature by actress and now writer-director greta gerwig.",
+                        0.8124394236829313
+                    ],
+                    [
+                        "46_a sweet, deeply personal portrayal of female adolescence that's more attuned to the bonds between best girlfriends than casual flings with boys, writer-director greta gerwig's beautiful lady bird flutters with the attractively loose rhythms of youth.",
+                        0.8550014712110963
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_ she brings that to her work as director, as \"lady bird\" skims along happily, showing us moments both crucial and trivial in a teenage girl's life.",
+                0.7641307602064861
+            ],
+            [
+                "31_ as a solo director and yet another astonishing performance by star saoirse ronan.",
+                0.5829606774710006
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Odeya Rush": {
+                "args": []
+            },
+            "Lucas Hedges": {
+                "args": []
+            },
+            "Tracy Letts": {
+                "args": []
+            },
+            "Lois Smith": {
+                "args": []
+            },
+            "Saoirse Ronan": {
+                "args": [
+                    [
+                        "9_highlighted by an awards-worthy performance by saoirse ronan and structured around a light, witty script by gerwig, the movie delivers a well-targeted snapshot of a year-in-the-life of an ordinary high school senior.",
+                        0.8574521252867289
+                    ],
+                    [
+                        "13_in ronan's marvelous performance, tough and transparent at the same time, we can see the blurred outlines of the equally assured filmmaker behind her.",
+                        0.7756414505200789
+                    ],
+                    [
+                        "31_ as a solo director and yet another astonishing performance by star saoirse ronan.",
+                        0.5829606774710006
+                    ],
+                    [
+                        "33_in telling her own coming of age story, gerwig proves herself a blazing talent and ronan and metcalf should have oscar calling.",
+                        0.6936840410977401
+                    ],
+                    [
+                        "35_[saorise] ronan's accent is american, ",
+                        -0.5078386126831069
+                    ]
+                ]
+            },
+            "Marielle Scott": {
+                "args": []
+            },
+            "Jordan Rodrigues": {
+                "args": []
+            },
+            "Timothée Chalamet": {
+                "args": []
+            },
+            "Laurie Metcalf": {
+                "args": []
+            },
+            "Beanie Feldstein": {
+                "args": []
+            },
+            "Monique Edwards": {
+                "args": []
+            },
+            "Stephen Henderson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_lady bird is a coming-of-age story distinguished by a great script and a perfect cast.",
+                0.9077008735707581
+            ],
+            [
+                "46_a sweet, deeply personal portrayal of female adolescence that's more attuned to the bonds between best girlfriends than casual flings with boys, writer-director greta gerwig's beautiful lady bird flutters with the attractively loose rhythms of youth.",
+                0.8550014712110963
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Greta Gerwig": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "8_lady bird is a coming-of-age story distinguished by a great script and a perfect cast.",
+                0.9077008735707581
+            ],
+            [
+                "9_highlighted by an awards-worthy performance by saoirse ronan and structured around a light, witty script by gerwig, the movie delivers a well-targeted snapshot of a year-in-the-life of an ordinary high school senior.",
+                0.8574521252867289
+            ],
+            [
+                "27_the loosely autobiographical lady bird is actress-writer greta gerwig's solo directorial de",
+                0.6196349096333953
+            ],
+            [
+                "31_as warm as it is smart - and it is very smart - \"lady bird\" marks actor/screenwriter greta gerwig's superb de",
+                0.8664842051489268
+            ],
+            [
+                "37_as writer and director, greta gerwig infuses this comedic coming-of-age drama with verbal virtuosity, gestural idiosyncrasy, and emotional vitality.",
+                0.7462283407312142
+            ],
+            [
+                "43_lady bird is a sharp-witted solo first feature by actress and now writer-director greta gerwig.",
+                0.8124394236829313
+            ],
+            [
+                "46_a sweet, deeply personal portrayal of female adolescence that's more attuned to the bonds between best girlfriends than casual flings with boys, writer-director greta gerwig's beautiful lady bird flutters with the attractively loose rhythms of youth.",
+                0.8550014712110963
+            ]
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {
+            "Amitabh Bachchan": {
+                "args": []
+            },
+            "Sabyasachi Chakraborty": {
+                "args": []
+            },
+            "Prakash Belawadi": {
+                "args": []
+            },
+            "Padmavati Rao": {
+                "args": []
+            },
+            "Anupam Bhattacharya": {
+                "args": []
+            },
+            "Tota Roy Chowdhury": {
+                "args": []
+            },
+            "Suneel Sinha": {
+                "args": []
+            },
+            "Nawazuddin Siddiqui": {
+                "args": []
+            },
+            "Vidya Balan": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_a well-acted bollywood kidnapping thriller offers an intriguing indian spin on american crime-movie conventions.",
+                0.7846182922531715
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ribhu Dasgupta": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Suresh Nair": {
+                "args": []
+            },
+            "Bijesh Jayarajan": {
+                "args": []
+            }
+        }
+    }
+}

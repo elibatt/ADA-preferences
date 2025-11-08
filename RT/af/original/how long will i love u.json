@@ -1,0 +1,32 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jia Ying Lei": {
+                "args": []
+            },
+            "Liya Tong": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Lun Xu": {
+                "args": []
+            }
+        }
+    }
+}

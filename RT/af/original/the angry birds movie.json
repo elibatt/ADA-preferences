@@ -1,0 +1,230 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_the angry birds movie is really not bad.",
+                -0.7417000399997894
+            ],
+            [
+                "0_the film has taken its bird-brained brand... and used it to construct characters and plots that are certainly serviceable, and possibly even inspired.",
+                -0.5033462111487407
+            ],
+            [
+                "1_there's not enough here for a full length feature film - something that becomes obvious the longer the movie is on the screen.",
+                -0.7578043049303013
+            ],
+            [
+                "2_maybe at this point it's too much to hope for an animated film like the angry birds movie to exist as anything other than marketing fodder, ",
+                -0.5686779115375591
+            ],
+            [
+                "8_after paying good money to take your family to see this film, you may be dealing with some anger-management issues of your own.",
+                0.8070584468016502
+            ],
+            [
+                "9_the movie is ultimately a 90-minute commercial with vivid colors and other cuddly game characters popping up along the way.",
+                0.5299920800452201
+            ],
+            [
+                "10_laugh watching the angry birds movie.",
+                -0.5910988520178795
+            ],
+            [
+                "13_\"the angry birds movie\" is unnecessary ",
+                -0.7519852786309198
+            ],
+            [
+                "16_the 3-d animated film delivers a mildly diverting mix of winky meta-jokes and moral lessons, cannily aimed at both the next generation of tiny consumers and their more sophisticated parents.",
+                0.7929682484108553
+            ],
+            [
+                "17_\"the angry birds movie\" is just fowl.",
+                -0.5908306545298556
+            ],
+            [
+                "18_[angry birds] proves to be more than just a gimmick, and doesn't skimp on any of the quirky wackiness that you might expect from a film about blob-shaped, flightless birds battling pigs.",
+                0.5357203709319398
+            ],
+            [
+                "19_instead of elevating the angry birds concept to surreal heights of insane genius, the filmmakers settle for a tale bogged down by familiar themes plucked from much better films.",
+                0.5213866629981373
+            ],
+            [
+                "20_ultimately, the angry birds movie does a decent job exploring the merits of anger.",
+                0.5799102475701278
+            ],
+            [
+                "20_ it has heart and life, which isn't too shabby for any film -- app or not.",
+                -0.5991766914675701
+            ],
+            [
+                "23_let's be clear, then: the angry birds movie isn't pointless because it's based on an app.",
+                -0.7965286972547612
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Fergal Reilly": {
+                "args": []
+            },
+            "Clay Kaytis": {
+                "args": [
+                    [
+                        "11_screenwriter jon vitti and first-time directors fergal reilly and clay kaytis certainly give it a try, ",
+                        0.6748454263324231
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jon Vitti": {
+                "args": [
+                    [
+                        "11_screenwriter jon vitti and first-time directors fergal reilly and clay kaytis certainly give it a try, ",
+                        0.6748454263324231
+                    ],
+                    [
+                        "15_ jon vitti's smart-aleck script can be quite funny, and the brightly colored animation is appealing.",
+                        0.8520613680309014
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "22_the animation punches well above its weight with properly looney tunes-standard sight gags, polished, highly expressive character design, and rendering so intensely computed nearly every barbule and rachis on each individual feather is visible.",
+                0.7499056659001967
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Indra Raval": {
+                "args": []
+            },
+            "John Cohen": {
+                "args": [
+                    [
+                        "15_the movie's story, by john cohen, is pretty thin gruel, ",
+                        -0.6252097520654855
+                    ]
+                ]
+            },
+            "Sean Penn": {
+                "args": []
+            },
+            "Ava Acres": {
+                "args": []
+            },
+            "Vincent Oswald": {
+                "args": []
+            },
+            "Josh Gad": {
+                "args": []
+            },
+            "Joaquin Raval": {
+                "args": []
+            },
+            "Tituss Burgess": {
+                "args": []
+            },
+            "Ian Andrew Hecox": {
+                "args": []
+            },
+            "Fergal Reilly": {
+                "args": []
+            },
+            "Samantha F. Cohen": {
+                "args": []
+            },
+            "Bill Hader": {
+                "args": []
+            },
+            "Kate McKinnon": {
+                "args": []
+            },
+            "Hannibal Buress": {
+                "args": []
+            },
+            "Clay Kaytis": {
+                "args": [
+                    [
+                        "11_screenwriter jon vitti and first-time directors fergal reilly and clay kaytis certainly give it a try, ",
+                        0.6748454263324231
+                    ]
+                ]
+            },
+            "Ike Barinholtz": {
+                "args": []
+            },
+            "Kevin Bigley": {
+                "args": []
+            },
+            "Tony Hale": {
+                "args": []
+            },
+            "Bella Laudiero": {
+                "args": []
+            },
+            "Matt Taylor": {
+                "args": []
+            },
+            "Maya Rudolph": {
+                "args": []
+            },
+            "Charli XCX": {
+                "args": []
+            },
+            "Peter Dinklage": {
+                "args": []
+            },
+            "Adam Brown": {
+                "args": []
+            },
+            "Danny McBride (IV)": {
+                "args": []
+            },
+            "Anthony Padilla": {
+                "args": []
+            },
+            "Eileen Marra": {
+                "args": []
+            },
+            "Keegan-Michael Key": {
+                "args": []
+            },
+            "Matt McCarthy": {
+                "args": []
+            },
+            "Blake Shelton": {
+                "args": []
+            },
+            "Sofie Wolfe": {
+                "args": []
+            },
+            "Jason Sudeikis": {
+                "args": [
+                    [
+                        "10_i loved sudeikis' and penn's performances.",
+                        0.7813191166017986
+                    ]
+                ]
+            },
+            "Romeo Santos": {
+                "args": []
+            },
+            "Malena Brewer": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

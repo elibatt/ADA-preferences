@@ -1,0 +1,44 @@
+{
+    "film": {
+        "args": [
+            [
+                "19_it's that kind of detail that makes a the film such an immersive experience.",
+                0.7977360366345722
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Howard Hall": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Jim Carrey": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Howard Hall": {
+                "args": []
+            },
+            "Toni Myers": {
+                "args": []
+            },
+            "Graeme Ferguson": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_it's a very august sort of movie, the kind that benefits from low, lax expectations.",
+                0.6712391050842286
+            ],
+            [
+                "2_the movie evaporates in the mind, ",
+                0.608036829615282
+            ],
+            [
+                "3_the action-movie absurdity is still in place, ",
+                -0.5553630761697381
+            ],
+            [
+                "4_the movie has the sleepy vibe of some of those scuzzy '90s crime thrillers.",
+                0.5261453547097962
+            ],
+            [
+                "5_as misfires go, american ultra can at least claim not to be boring.",
+                -0.8468709209141112
+            ],
+            [
+                "6_you never fully buy \"american ultra\" -",
+                0.5423102065214569
+            ],
+            [
+                "13_american ultra has its moments, ",
+                -0.5776469702497995
+            ],
+            [
+                "15_\"american ultra\" is doodles in a math-class notebook given a budget, and ",
+                0.5130849332796711
+            ],
+            [
+                "16_take dazed and confused and mix it up a bit with james bond, and you have a general idea of where american ultra is headed.",
+                -0.5592770226103532
+            ],
+            [
+                "17_in the end, american ultra is doomed by its nondescript script.",
+                0.522360137972038
+            ],
+            [
+                "21_\"american ultra\" has a clever premise.",
+                0.5368784995790795
+            ],
+            [
+                "25_\"american ultra\" tries to combine a sweet, slacker romance with a slick, super-violent action flick.",
+                0.5861009150431773
+            ],
+            [
+                "26_ he gets to stride both sides of the street in the disposable yet mildly enjoyable riff on the spy-movie formula.",
+                0.7237141936781363
+            ],
+            [
+                "27_this is a deeply weird film - in the best way - and feels incredibly of this particular moment.",
+                0.6654405855314655
+            ],
+            [
+                "28_\"american ultra\" is an american-style movie that needed more ultra.",
+                0.6906405927807797
+            ],
+            [
+                "29_the movie's twisty charm gives way to gory splatter, ",
+                0.6360043674306286
+            ],
+            [
+                "33_it's violent, brash, inventive and horrific, and perhaps the most romantic film of the year.",
+                0.753271229270169
+            ],
+            [
+                "35_the director and screenwriter lose their way, allowing the film's sensibility to degenerate from outrageous to cartoony, and piling up plot contrivances and corpses in stacks so high that they obscure whatever charms the film once might have held.",
+                -0.6640609678439828
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Nima Nourizadeh": {
+                "args": [
+                    [
+                        "7_and a lot more of landis' dialogue, and a lot less of what feels like nourizadeh's audition for an even bigger, dumber movie.",
+                        -0.6557222656748107
+                    ],
+                    [
+                        "10_it turns out to be a disappointingly underdeveloped film that its makers, chiefly director nima nourizadeh and writer max landis, must have ",
+                        -0.5835469300835103
+                    ],
+                    [
+                        "22_it's all quite fun to watch, thanks in large part to the script by max landis, whose ability to find humor in the middle of a crisis meshes well with nourizadeh's kinetic directing style.",
+                        0.7485161531053699
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "35_the director and screenwriter lose their way, allowing the film's sensibility to degenerate from outrageous to cartoony, and piling up plot contrivances and corpses in stacks so high that they obscure whatever charms the film once might have held.",
+                -0.6640609678439828
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Max Landis": {
+                "args": [
+                    [
+                        "1_nourizadeh, working with a script by max landis, plays mike's bloody violence like visual guitar riffs, and approaches the martial-arts set pieces with heavily underlined wit.",
+                        0.5363391356084358
+                    ],
+                    [
+                        "3_ so is landis' muddy-bloody touch: by the end, eisenberg's face is a purple, swollen wreck, and rightly so.",
+                        -0.560782536673381
+                    ],
+                    [
+                        "7_and a lot more of landis' dialogue, and a lot less of what feels like nourizadeh's audition for an even bigger, dumber movie.",
+                        -0.6557222656748107
+                    ],
+                    [
+                        "10_it turns out to be a disappointingly underdeveloped film that its makers, chiefly director nima nourizadeh and writer max landis, must have ",
+                        -0.5835469300835103
+                    ],
+                    [
+                        "19_the brightest star of this picture is screenwriter max landis, who pulls off a masterful mashup of action, comedy and romance, with bits of animation tossed in.",
+                        0.6059100869745537
+                    ],
+                    [
+                        "22_it's all quite fun to watch, thanks in large part to the script by max landis, whose ability to find humor in the middle of a crisis meshes well with nourizadeh's kinetic directing style.",
+                        0.7485161531053699
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "17_in the end, american ultra is doomed by its nondescript script.",
+                0.522360137972038
+            ],
+            [
+                "35_the director and screenwriter lose their way, allowing the film's sensibility to degenerate from outrageous to cartoony, and piling up plot contrivances and corpses in stacks so high that they obscure whatever charms the film once might have held.",
+                -0.6640609678439828
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Kristen Stewart": {
+                "args": [
+                    [
+                        "11_eisenberg and stewart have both found romantic partners with whom they have chemistry (some provided by controlled substances).",
+                        0.68927499376991
+                    ]
+                ]
+            },
+            "John Bernecker": {
+                "args": []
+            },
+            "Sam Malone": {
+                "args": []
+            },
+            "Trace Cheramie": {
+                "args": []
+            },
+            "Freddie Poole": {
+                "args": []
+            },
+            "Lavell Crawford": {
+                "args": []
+            },
+            "Jesse Eisenberg": {
+                "args": [
+                    [
+                        "2_ stewart and eisenberg have real movie-star chemistry.",
+                        -0.5562357677077707
+                    ],
+                    [
+                        "3_ so is landis' muddy-bloody touch: by the end, eisenberg's face is a purple, swollen wreck, and rightly so.",
+                        -0.560782536673381
+                    ],
+                    [
+                        "14_[it] becomes a glib, juvenile exercise in violence for its own sake, squandering the lived-in vibe between eisenberg and his co-star, kristen stewart.",
+                        -0.5538604491269942
+                    ],
+                    [
+                        "18_what begins as a clever action-comedy a la \"pineapple express\" or eisenberg's earlier \"zombieland\" devolves into a standard shoot'em-up, with gore splashed around to distract us from the dearth of wit.",
+                        -0.5529358577173747
+                    ],
+                    [
+                        "29_ eisenberg and stewart stay appealing to the last.",
+                        0.5772274869766613
+                    ]
+                ]
+            },
+            "Ilram Choi": {
+                "args": []
+            },
+            "John Leguizamo": {
+                "args": []
+            },
+            "Jack Yang": {
+                "args": []
+            },
+            "Matthew R. Staley": {
+                "args": []
+            },
+            "Johnny McPhail": {
+                "args": []
+            },
+            "Isaac Hughes": {
+                "args": []
+            },
+            "Topher Grace": {
+                "args": []
+            },
+            "Paul Vincent O'Connor": {
+                "args": []
+            },
+            "Michael Papajohn": {
+                "args": []
+            },
+            "Tim Smith": {
+                "args": []
+            },
+            "Stuart Greer": {
+                "args": []
+            },
+            "Bill Pullman": {
+                "args": []
+            },
+            "Lyle Brocato": {
+                "args": []
+            },
+            "Monique Ganderton": {
+                "args": []
+            },
+            "Nick Stanner": {
+                "args": []
+            },
+            "Connie Britton": {
+                "args": []
+            },
+            "Gabe Begneaud": {
+                "args": []
+            },
+            "Tony Hale": {
+                "args": []
+            },
+            "James Bendishaw": {
+                "args": []
+            },
+            "Nash Edgerton": {
+                "args": []
+            },
+            "Eric VanArsdale": {
+                "args": []
+            },
+            "Rachel Wulff": {
+                "args": []
+            },
+            "Alvin Chon": {
+                "args": []
+            },
+            "Eyad Elbitar": {
+                "args": []
+            },
+            "James Moses Black": {
+                "args": []
+            },
+            "Teri Wyble": {
+                "args": []
+            },
+            "Wayne Pére": {
+                "args": []
+            },
+            "Vic Chao": {
+                "args": []
+            },
+            "Don Yesso": {
+                "args": []
+            },
+            "Eric Stratemeier": {
+                "args": []
+            },
+            "Walton Goggins": {
+                "args": []
+            },
+            "Jim Klock": {
+                "args": []
+            },
+            "Robert Bennett": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

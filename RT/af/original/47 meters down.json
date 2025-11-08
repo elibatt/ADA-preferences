@@ -1,0 +1,109 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Yani Gellman": {
+                "args": []
+            },
+            "Santiago Segura": {
+                "args": []
+            },
+            "Mandy Moore": {
+                "args": []
+            },
+            "Matthew Modine": {
+                "args": []
+            },
+            "Axel Mansilla": {
+                "args": []
+            },
+            "Chris J. Johnson": {
+                "args": []
+            },
+            "Claire Holt": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Johannes Roberts": {
+                "args": [
+                    [
+                        "7_the screenplay by johannes roberts and ernest riera is a weirdly clunky work that never seems to know what it's doing.",
+                        -0.535962546656942
+                    ],
+                    [
+                        "13_director johannes roberts ratchets up the tension with precision.",
+                        0.5387717925144545
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Ernest Riera": {
+                "args": [
+                    [
+                        "7_the screenplay by johannes roberts and ernest riera is a weirdly clunky work that never seems to know what it's doing.",
+                        -0.535962546656942
+                    ]
+                ]
+            },
+            "Johannes Roberts": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_ on its own b-movie terms 47 meters",
+                -0.544226246338603
+            ],
+            [
+                "1_ highly-effective horror film is exactly the kind of movie that legendary hollywood d-movie producer roger corman would have knocked out in the '70s: plenty of writhing female limbs, no surprises.",
+                -0.5162517756112757
+            ],
+            [
+                "2_even at 89 minutes, you can feel the oxygen running out of this movie.",
+                -0.7166901949838567
+            ],
+            [
+                "3_it's gratifying to see a summer popcorn movie where a simple idea goes a long way.",
+                0.7104976772632012
+            ],
+            [
+                "5_the movie's saving grace is the visceral response that sharks produce, even more than four decades after jaws first had audiences screaming.",
+                -0.6113303487349425
+            ],
+            [
+                "13_a lean and mean little b-movie that skillfully plays on our fear of what lies beneath the waves.",
+                0.6215495492641727
+            ],
+            [
+                "15_the film functions less as a great thriller than as a good pitch to shift vacation travelers away from ocean trips toward ski holidays.",
+                0.7566479886906845
+            ],
+            [
+                "16_the movie's third act takes an abrupt swerve in a less plausible, more heightened direction, serving up the conventional heroics that acts one and two had studiously avoided.",
+                0.5826120728002181
+            ],
+            [
+                "18_a movie that's meant to fill this summer's smart-low-budget-thriller slot.",
+                -0.5665791356556429
+            ],
+            [
+                "20_the \"jaws\" jokes write themselves with \"47 meters down",
+                -0.6183662873347788
+            ]
+        ]
+    }
+}

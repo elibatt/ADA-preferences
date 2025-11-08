@@ -1,0 +1,183 @@
+{
+    "acting": {
+        "entities": {
+            "Byron Mann": {
+                "args": []
+            },
+            "Roland Møller": {
+                "args": []
+            },
+            "Chin Han": {
+                "args": []
+            },
+            "Hannah Quinlivan": {
+                "args": []
+            },
+            "Pablo Schreiber": {
+                "args": []
+            },
+            "Neve Campbell": {
+                "args": [
+                    [
+                        "12_ they're just evil, stoic, mildly badass (particularly neve campbell, as will's resourceful wife) or the rock.",
+                        0.5957105429223817
+                    ]
+                ]
+            },
+            "Noah Taylor": {
+                "args": []
+            },
+            "Dwayne Johnson": {
+                "args": [
+                    [
+                        "0_along with johnson's rippling physique and heroic fingertips, the film's chief asset is the creatively conceived title object-the very tall building.",
+                        -0.5143757567024001
+                    ],
+                    [
+                        "7_just another film that squanders the movie-star charisma of johnson, who should consider lending his box-office clout to more worthy projects.",
+                        -0.539572706476992
+                    ],
+                    [
+                        "8_\"skyscraper\" is not one of dwayne johnson's best.",
+                        0.5748140374932911
+                    ],
+                    [
+                        "11_you know this movie is stupid because, well, it stars dwayne johnson",
+                        -0.7396002142567939
+                    ],
+                    [
+                        "17_of course, in real life, johnson doesn't really leap from cranes into burning buildings.",
+                        -0.6406874420625672
+                    ],
+                    [
+                        "22_mr. johnson... doesn't have to do all that much here, ",
+                        -0.7654116550510152
+                    ],
+                    [
+                        "24_ i enjoyed it a great deal - more than san andreas, certainly, as well as rampage and baywatch and most other dwayne johnson pictures.",
+                        0.8792014088757112
+                    ],
+                    [
+                        "26_while it's a completely disposable story, \"skyscraper\" is fascinating simply for thurber's fascination with evolving johnson's star persona.",
+                        0.7147063420854415
+                    ],
+                    [
+                        "30_\"skyscraper\" plays out like a metaphor for diminishing returns - johnson keeps climbing, higher and higher, until there's nowhere left to go ",
+                        -0.6433766823137655
+                    ],
+                    [
+                        "32_ the structure is rickety, by enlisting johnson, thurber ensures that his \"skyscraper\" is built on solid rock.",
+                        0.6387180749268817
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Rawson Marshall Thurber": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "27_in this overworked, underpaid country of ours, why begrudge a screenwriter seizing the chance to knock off early?",
+                -0.705269440812111
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_it would be fair to say that skyscraper does what it sets out to do ",
+                0.6818683121652509
+            ],
+            [
+                "3_as a streaming option on a slow night or a long flight, the movie has its uses.",
+                -0.6162536922840183
+            ],
+            [
+                "4_skyscraper itself defies gravity - and plain sense, and humour, and self-awareness, and most things even a dumb, hot-",
+                -0.5361076293738082
+            ],
+            [
+                "5_all \"skyscraper\" has going for it is a tall building.",
+                -0.575893675641972
+            ],
+            [
+                "6_the movie is great, outlandish fun because the star makes it so",
+                0.8788273191936445
+            ],
+            [
+                "11_and it's called \"skyscraper.",
+                -0.504849761830108
+            ],
+            [
+                "12_nobody in this film has a personality",
+                0.5314386871189215
+            ],
+            [
+                "13_skyscraper is the kind of movie you can watch on a flight, without bothering to wear headphones.",
+                -0.5296819653170084
+            ],
+            [
+                "15_if you are a fan of the rock, of action movies with vague plots and lots of crazy angles from really high up, this film was made for you.",
+                -0.5606898216613312
+            ],
+            [
+                "16_\"skyscraper\" is dumb summer fun.",
+                0.5065184993041798
+            ],
+            [
+                "17_but in the unapologetically absurd skyscraper, boy,",
+                -0.6100236854097393
+            ],
+            [
+                "20_[skyscraper] delivers similar old-fashioned, popcorn-y pleasures with its rock-solid foundation, with a bare-bones plot and plenty of stunts that do for tall buildings what jaws did for sharks.",
+                0.7885011872055887
+            ],
+            [
+                "24_skyscraper is one of the stupidest movies i've seen since san andreas, ",
+                0.5970838493338427
+            ],
+            [
+                "25_if all this digital artifice accomplishes anything, it effectively heightens the irreducible flesh-and-blood realism of the movie's star.",
+                0.7401531482230623
+            ],
+            [
+                "31_skyscraper is one of the most idiotic action movies to come down the pike in some time.",
+                0.5745123131076545
+            ],
+            [
+                "33_a film that suggests what would happen if you took the towering inferno and die hard and stripped them of the qualities that made both work.",
+                -0.5651805329863044
+            ],
+            [
+                "34_the whole film feels as if it's on autopilot, or maybe written by artificial intelligence that's been fed a steady diet of the \"die hard\" oeuvre, \"speed,\" \"das boot,\" and, i'm guessing, \"the towering inferno.\"",
+                -0.7433007775134077
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Rawson Marshall Thurber": {
+                "args": [
+                    [
+                        "26_while it's a completely disposable story, \"skyscraper\" is fascinating simply for thurber's fascination with evolving johnson's star persona.",
+                        0.7147063420854415
+                    ],
+                    [
+                        "32_ the structure is rickety, by enlisting johnson, thurber ensures that his \"skyscraper\" is built on solid rock.",
+                        0.6387180749268817
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

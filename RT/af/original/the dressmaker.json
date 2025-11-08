@@ -1,0 +1,278 @@
+{
+    "film": {
+        "args": [
+            [
+                "7_this confused and overlong film inhabits a world of caustic darkness that not even an expert seamstress could patch over with silly pratfalls.",
+                -0.6475228878807404
+            ],
+            [
+                "8_ its promising start, \"the dressmaker\" doesn't move much beyond the level of well-costumed playacting.",
+                -0.6986787933808405
+            ],
+            [
+                "9_the dressmaker may be a revenge comedy, ",
+                -0.5257064104219149
+            ],
+            [
+                "13_overplotted, undercooked and extremely well-dressed, \"the dressmaker\" has style to burn, ",
+                0.5445306942479666
+            ],
+            [
+                "15_ mostly the dressmaker is just cruel.",
+                -0.7599538795086562
+            ],
+            [
+                "18_the film is most successful when it's playing dress-up, less so when the comedy goes black, and worst off when it attempts melodrama.",
+                -0.8303673606973445
+            ],
+            [
+                "20_\"the dressmaker\" is only sew-sew.",
+                -0.593623555743233
+            ],
+            [
+                "21_moorhouse's adaptation of rosalie ham's 2000 novel may lead audiences to expect a primmer, more well-behaved movie based on its title alone, ",
+                -0.5387918572487678
+            ],
+            [
+                "22_ the film boasts enough manic energy and straight-up weirdness to keep you entertained before overstaying its welcome in the final act.",
+                0.6928375651752354
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jocelyn Moorhouse": {
+                "args": [
+                    [
+                        "9_and that seems to be exactly how moorhouse wants it.",
+                        -0.6302752099325468
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Darcey Wilson": {
+                "args": []
+            },
+            "Grace Rosebirch": {
+                "args": []
+            },
+            "Barry Otto": {
+                "args": []
+            },
+            "Simon Farrow": {
+                "args": []
+            },
+            "Rebecca Gibney": {
+                "args": []
+            },
+            "Roy Barker": {
+                "args": []
+            },
+            "Mike Snow": {
+                "args": []
+            },
+            "Rachael Lorenz": {
+                "args": []
+            },
+            "Julia Blake": {
+                "args": []
+            },
+            "Malcolm Cole": {
+                "args": []
+            },
+            "Mark Leonard Winter": {
+                "args": []
+            },
+            "Shane Bourne": {
+                "args": []
+            },
+            "Ed McSwiney": {
+                "args": []
+            },
+            "Sacha Horler": {
+                "args": []
+            },
+            "James MacKay": {
+                "args": []
+            },
+            "Caroline Goodall": {
+                "args": []
+            },
+            "Hugo Weaving": {
+                "args": []
+            },
+            "Liam Hemsworth": {
+                "args": []
+            },
+            "Amanda Woodhams": {
+                "args": []
+            },
+            "Geneviève Lemon": {
+                "args": []
+            },
+            "Kate Winslet": {
+                "args": [
+                    [
+                        "2_kate winslet can do anything ... except save this movie from quirky overkill.",
+                        -0.7062589108652829
+                    ],
+                    [
+                        "3_the film has so many moodswings that watching it induces whiplash, and just about everybody in it, from winslet on down to judy davis, playing the dressmaker's crotchety mother, flagrantly overdoes it.",
+                        0.538315284446684
+                    ],
+                    [
+                        "4_the second winslet sets her sewing machine on the ground and snarls, \"i'm back, you bastards,\" we're delighted to hear we're in for something fun.",
+                        0.5656615891736807
+                    ],
+                    [
+                        "6_there are giggles to be had -- especially given the talents of cast members like winslet, davis, hemsworth and weaving -- ",
+                        0.5675369651277249
+                    ],
+                    [
+                        "16_ between winslet and castmate judy davis's various spitfire moments and some potent dark turns, there's a fair amount to like.",
+                        0.7021768710267948
+                    ],
+                    [
+                        "17_tonal inconsistencies sink \"the dressmaker,\" and the same applies to winslet's character.",
+                        -0.525232297051426
+                    ]
+                ]
+            },
+            "Stan Leman": {
+                "args": []
+            },
+            "Eric Beach": {
+                "args": []
+            },
+            "Jason Buckley": {
+                "args": []
+            },
+            "Hayley Magnus": {
+                "args": []
+            },
+            "Sarah Snook": {
+                "args": []
+            },
+            "Geneviève Picot": {
+                "args": []
+            },
+            "Terry Norris": {
+                "args": []
+            },
+            "Katia Nizic": {
+                "args": []
+            },
+            "Olivia Sprague": {
+                "args": []
+            },
+            "Lanie Lane": {
+                "args": []
+            },
+            "Gyton Grantley": {
+                "args": []
+            },
+            "Beulah Harridene": {
+                "args": []
+            },
+            "Fletcher Humphrys": {
+                "args": []
+            },
+            "Rory Potter": {
+                "args": []
+            },
+            "Spike Hogan": {
+                "args": []
+            },
+            "Sandra Talty": {
+                "args": []
+            },
+            "Howard Cairns": {
+                "args": []
+            },
+            "Gregory Quinn": {
+                "args": []
+            },
+            "Alex DeVos": {
+                "args": []
+            },
+            "Judy Davis": {
+                "args": [
+                    [
+                        "14_winslet and davis salvage what they can from the movie - a heroic effort, almost, making it a fun trifle, albeit one with some deadly serious overtones.",
+                        0.7104368843087578
+                    ]
+                ]
+            },
+            "Shane Jacobson": {
+                "args": []
+            },
+            "Caroline Lee": {
+                "args": []
+            },
+            "Lucy Moir": {
+                "args": []
+            },
+            "Tracy Harvey": {
+                "args": []
+            },
+            "Judah Hobbs": {
+                "args": []
+            },
+            "Sage Barreda": {
+                "args": []
+            },
+            "Madeleine Hogan": {
+                "args": []
+            },
+            "Margot Knight": {
+                "args": []
+            },
+            "Muriel Pratt": {
+                "args": []
+            },
+            "Adrienne Pickering": {
+                "args": []
+            },
+            "Simon Maiden": {
+                "args": []
+            },
+            "Charlotte Friels": {
+                "args": []
+            },
+            "Kerry Fox": {
+                "args": []
+            },
+            "Richard Anastasios": {
+                "args": []
+            },
+            "Alison Whyte": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Jocelyn Moorhouse": {
+                "args": []
+            },
+            "P.J. Hogan": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "17_tonal inconsistencies sink \"the dressmaker,\" and the same applies to winslet's character.",
+                -0.525232297051426
+            ]
+        ]
+    }
+}

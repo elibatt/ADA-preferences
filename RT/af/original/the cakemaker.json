@@ -1,0 +1,91 @@
+{
+    "writer": {
+        "args": [
+            [
+                "1_credit first-time writer/director",
+                0.6124548723187186
+            ],
+            [
+                "6_ by israeli writer/director",
+                0.6235708102058798
+            ]
+        ],
+        "entities": {
+            "Ofir Raul Graizer": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "4_graizer take his time and never feels the need to spell everything out, and \"the cakemaker\" is a testament to what filmmakers can achieve when they trust the audience.",
+                0.6475887200903125
+            ],
+            [
+                "7_the cakemaker is more of a petit four than a belly bomb, ",
+                -0.6435803676127552
+            ],
+            [
+                "8_sad and sweet, and with a rare lyricism, \"the cakemaker\" believes in a love that neither nationality, sexual orientation nor religious belief can deter.",
+                0.8301094096187275
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Sarah Adler": {
+                "args": [
+                    [
+                        "3_kalkhof has perfect chemistry with both miller and adler.",
+                        0.7577480209911351
+                    ]
+                ]
+            },
+            "Tim Kalkhof": {
+                "args": [
+                    [
+                        "0_natural performances from kalkhof and adler root the melodrama in genuine pathos.",
+                        0.6500077869043475
+                    ]
+                ]
+            },
+            "Roy Miller": {
+                "args": []
+            },
+            "Sandra Sade": {
+                "args": []
+            },
+            "Zohar Shtrauss": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "1_credit first-time writer/director",
+                0.6124548723187186
+            ],
+            [
+                "6_ by israeli writer/director",
+                0.6235708102058798
+            ]
+        ],
+        "entities": {
+            "Ofir Raul Graizer": {
+                "args": [
+                    [
+                        "1_ofir raul graizer with pulling off something of a miracle.",
+                        0.6007344747994172
+                    ]
+                ]
+            }
+        }
+    }
+}

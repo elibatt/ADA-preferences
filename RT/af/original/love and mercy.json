@@ -1,0 +1,188 @@
+{
+    "acting": {
+        "entities": {
+            "Morgan Phillips": {
+                "args": []
+            },
+            "Brett Davern": {
+                "args": []
+            },
+            "Mark Linett": {
+                "args": []
+            },
+            "Erik Eidem": {
+                "args": []
+            },
+            "Max Schneider": {
+                "args": []
+            },
+            "Diana-Maria Riva": {
+                "args": []
+            },
+            "Elizabeth Banks": {
+                "args": []
+            },
+            "Jeff Meacham": {
+                "args": []
+            },
+            "Kenny Wormald": {
+                "args": []
+            },
+            "Joanna Going": {
+                "args": []
+            },
+            "John Cusack": {
+                "args": []
+            },
+            "Vince Meghrouni": {
+                "args": []
+            },
+            "Paul Dano": {
+                "args": [
+                    [
+                        "28_in contrast to cusack's introspection, dano lets it bleed as brian wilson, giving a performance awards were invented for.",
+                        0.6401110905728534
+                    ],
+                    [
+                        "35_the performances in love & mercy are key to its power: dano can be a dispassionate, affected actor, ",
+                        0.5886929855047656
+                    ]
+                ]
+            },
+            "Bill Camp": {
+                "args": []
+            },
+            "Paul Giamatti": {
+                "args": []
+            },
+            "Fred Cross": {
+                "args": []
+            },
+            "Graham Rogers": {
+                "args": []
+            },
+            "Carolyn Stotesbery": {
+                "args": []
+            },
+            "Johnny Sneed": {
+                "args": []
+            },
+            "Teresa Cowles": {
+                "args": []
+            },
+            "Nick Gehlfuss": {
+                "args": []
+            },
+            "Gary Griffin": {
+                "args": []
+            },
+            "Dylan Kenin": {
+                "args": []
+            },
+            "Jeff Galfer": {
+                "args": []
+            },
+            "Tyson Ritter": {
+                "args": []
+            },
+            "Erin Darke": {
+                "args": []
+            },
+            "Jake Abel": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "26_pohlad has surrounded himself with award-worthy talent on both sides of the camera, from music supervisor atticus ross to the art department to the stellar cast.",
+                0.8451384247705513
+            ]
+        ]
+    },
+    "writer": {
+        "entities": {
+            "Michael Alan Lerner": {
+                "args": []
+            },
+            "Oren Moverman": {
+                "args": [
+                    [
+                        "37_the script is by oren moverman, who performed a kind of jujitsu on bob dylan in todd haynes's",
+                        0.7798817489816015
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "21_naming a film \"love & mercy,\" even if that's one of the lead character's famous songs, implies that it will provide insight and sympathy.",
+                0.8740644747876996
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "1_when you consider all the ways that \"love & mercy\" could have gone terribly wrong, and how full of life it is in the end (and, yes, of love and mercy), i think the end product is almost miraculous.",
+                0.523587641259659
+            ],
+            [
+                "10_these are not things you expect from a hollywood film biography.",
+                -0.5474388551066345
+            ],
+            [
+                "11_either way, the man was far-out, and so is this film.",
+                0.582576788911044
+            ],
+            [
+                "12_this self-conscious film feels convincingly told only part of the time.",
+                -0.5616328799324961
+            ],
+            [
+                "18_[the film] breezily reference brian wilson's multiple lives through shorthand, achieving a sharply focused and admirably dense narrative that feels as crowd-pleasing and as creatively searching as their protagonist's own work.",
+                0.6916404592818634
+            ],
+            [
+                "21_naming a film \"love & mercy,\" even if that's one of the lead character's famous songs, implies that it will provide insight and sympathy.",
+                0.8740644747876996
+            ],
+            [
+                "23_it offers a glimpse into the making of immortal pop tunes, songs of love and longing that are all the more astonishing considering the mental anguish their creator was enduring.",
+                0.8406922207039994
+            ],
+            [
+                "28_musically, the film is a miracle, right and riveting in every detail.",
+                0.8147482694391002
+            ],
+            [
+                "36_ it's a commanding and artful film, that's full of excellent and worthy performances whether you're a student of brian wilson or just a curious tourist.",
+                0.8390234696810589
+            ],
+            [
+                "38_too many music bio-pics breeze over the hard construction work of the creative act, as if embarrassed by the taking of such pains.",
+                0.6712687721449953
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Bill Pohlad": {
+                "args": [
+                    [
+                        "24_director bill pohlad's decidedly unconventional brian wilson biopic love & mercy, which takes its title from an overlooked 1988 solo single from the beach boys' co-founder, is the pet sounds of biopics.",
+                        0.6051615392465891
+                    ],
+                    [
+                        "34_director bill pohlad's schizophrenic biopic of the beach boys' troubled genius, brian wilson, is two movies in one.",
+                        0.6566464222954255
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

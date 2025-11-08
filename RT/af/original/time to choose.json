@@ -1,0 +1,92 @@
+{
+    "writer": {
+        "entities": {
+            "Charles Ferguson": {
+                "args": []
+            },
+            "Chad Beck": {
+                "args": [
+                    [
+                        "3_what elevates \"time to choose,\" other than its very strong editing by beck, is the sense that not only are people doing something to change the trajectory of our planet's depleted resources ",
+                        -0.5031545863505774
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Charles Ferguson": {
+                "args": [
+                    [
+                        "11_rather than shrugging with disgust, ferguson points to the better world that nearly everybody wants and that already exists in some places.",
+                        0.7144472595602214
+                    ],
+                    [
+                        "13_oscar winning director charles ferguson treads some familiar ground ",
+                        0.6264758203772559
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "2_time to choose from the many other documentaries about climate change is that, after dutifully presenting many of the usual horrifying climate statistics, it lays out a series of possible solutions, already available, to the crisis.",
+                0.7410747727496496
+            ],
+            [
+                "4_a film that shapes and alters your perceptions.",
+                0.6551648048776788
+            ],
+            [
+                "7_this is not a film that leaves you in hand-wringing despair.",
+                0.5611321330225659
+            ],
+            [
+                "12_in forgoing an emphasis on numbers in favor of heart-tugging images of natural beauty and rhapsodic talking-head testimonials, the film comes across more as a sales pitch than an invigorating plea for action.",
+                0.7872799794711093
+            ],
+            [
+                "13_ also offers new insights that make the sometimes pedantic time to choose worth seeing.",
+                0.6555211315257756
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Michael Brune": {
+                "args": []
+            },
+            "Jerry Brown": {
+                "args": []
+            },
+            "James Hansen": {
+                "args": []
+            },
+            "Michael Pollan": {
+                "args": []
+            },
+            "Steven Chu": {
+                "args": []
+            },
+            "Oscar Isaac": {
+                "args": []
+            },
+            "Jane Goodall": {
+                "args": []
+            },
+            "Christina Figueres": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    }
+}

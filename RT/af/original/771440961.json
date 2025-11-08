@@ -1,0 +1,44 @@
+{
+    "writer": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": []
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Peter Greene": {
+                "args": []
+            },
+            "Ethan Juan": {
+                "args": []
+            },
+            "Michael Miu": {
+                "args": []
+            },
+            "Yuan Wenkang": {
+                "args": []
+            },
+            "Du Juan": {
+                "args": []
+            },
+            "Cecilia Yip": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Luo Dong": {
+                "args": []
+            }
+        }
+    }
+}

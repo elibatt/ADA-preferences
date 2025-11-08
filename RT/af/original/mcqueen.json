@@ -1,0 +1,95 @@
+{
+    "acting": {
+        "args": [],
+        "entities": {}
+    },
+    "film": {
+        "args": [
+            [
+                "0_\"mcqueen\" doesn't even have to try to make the case for mcqueen's brilliance.",
+                -0.7518477525585535
+            ],
+            [
+                "4_if you have any intention of seeing \"mcqueen\" make sure you see it in a theater for full effect.",
+                0.5310396620227399
+            ],
+            [
+                "5_e that the late, irreverent fashion designer alexander mcqueen would surely have appreciated.",
+                -0.5343212723293255
+            ],
+            [
+                "6_\"mcqueen\" makes the case that its subject was an artist whose clay was clothing.",
+                0.6558079022811483
+            ],
+            [
+                "7_\"mcqueen\" is an intriguing look at genius, its inspiration and ultimately its cost.",
+                0.793760344956533
+            ],
+            [
+                "8_maybe now is the right moment-and mcqueen, ",
+                0.5569286598621023
+            ],
+            [
+                "8_ its shortcomings, the right film-to reheat [this] debate.",
+                0.7253960444191389
+            ],
+            [
+                "11_this doc on the late designer alexander mcqueen is a ravishing, haunting portrait of a fashion-shock genius.",
+                0.6896009508931119
+            ],
+            [
+                "12_if nothing else, \"mcqueen\" is a staggeringly beautiful piece of filmmaking.",
+                0.6028960633251708
+            ],
+            [
+                "13_alexander mcqueen was sui generis, one of a kind, which is why more than a million people turned out in london and new york to see a posthumous exhibition of his work, and why this striking documentary is hard to get out of your mind.",
+                -0.6180417648812214
+            ],
+            [
+                "14_manages to both emphasize mcqueen's groundbreaking work and give moving insight into his personality.",
+                0.5989156848383388
+            ],
+            [
+                "15_feeling less like a celebration than a fond farewell, \"mcqueen\" successfully steers clear of hagiography, yet has its share of omissions and missteps.",
+                0.5750746935827759
+            ],
+            [
+                "16_ the film lets the art - what the met rightly called \"such savage beauty\" - speak for itself.",
+                0.7116713688411713
+            ],
+            [
+                "17_the intricacy of the pieces and stagings... makes mcqueen the relatively rare documentary that demands to be seen on the big screen.",
+                0.6494727529498809
+            ],
+            [
+                "20_this intelligent, honest documentary explores mcqueen's complex personality without getting tacky or tabloidy, or ignoring his dark side.",
+                0.6970914631457141
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Ian Bonhôte": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Peter Ettedgui": {
+                "args": [
+                    [
+                        "22_bonhôte and ettedgui are blessed with intimate, candid interviews with many of the people who worked closest with mcqueen, as well as archival interviews with his late muse and booster isabella blow and his beloved mother joyce.",
+                        0.8508701639948271
+                    ]
+                ]
+            }
+        }
+    }
+}

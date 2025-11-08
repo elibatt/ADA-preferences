@@ -1,0 +1,130 @@
+{
+    "film": {
+        "args": [
+            [
+                "6_dore's film should be seen.",
+                0.6244836465536199
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mary Dore": {
+                "args": [
+                    [
+                        "0_ms. dore's work is not only a tri",
+                        -0.6325610897113482
+                    ],
+                    [
+                        "7_clearly fascinated with the era, its literature, its sit-ins and its ethos, dore respects the film's still-passionate veterans, while noting some missed goals and flawed efforts to express their aims.",
+                        0.6741055223884701
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {},
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Muriel Fox": {
+                "args": []
+            },
+            "Kate Millett": {
+                "args": []
+            },
+            "Alix Kates Shulman": {
+                "args": []
+            },
+            "Trina Robbins": {
+                "args": []
+            },
+            "Ellen Shumsky": {
+                "args": []
+            },
+            "Virginia Whitehill": {
+                "args": []
+            },
+            "Judith Arcana": {
+                "args": []
+            },
+            "Chaude Pamela Allen": {
+                "args": []
+            },
+            "Karla Jay": {
+                "args": []
+            },
+            "Rita Mae Brown": {
+                "args": []
+            },
+            "Heather Booth": {
+                "args": []
+            },
+            "Vivian Rothstein": {
+                "args": []
+            },
+            "Marlene Sanders": {
+                "args": []
+            },
+            "Eleanor Holmes Norton": {
+                "args": []
+            },
+            "Alta": {
+                "args": []
+            },
+            "Alice Wolfson": {
+                "args": []
+            },
+            "Susan Griffin": {
+                "args": []
+            },
+            "Linda Burnham": {
+                "args": []
+            },
+            "Jacqui Michot Ceballos": {
+                "args": []
+            },
+            "Marilyn Webb": {
+                "args": []
+            },
+            "Susan Brownmiller": {
+                "args": []
+            },
+            "Ruth Rosen": {
+                "args": []
+            },
+            "Damita Jo Freeman": {
+                "args": []
+            },
+            "Carol Giardina": {
+                "args": []
+            },
+            "Nona Willis Aronowitz": {
+                "args": []
+            },
+            "Roxanne Dunbar-Ortiz": {
+                "args": []
+            },
+            "Denise Oliver": {
+                "args": []
+            },
+            "Ellen Willis": {
+                "args": []
+            },
+            "Fran Beal": {
+                "args": []
+            },
+            "Mary Jean Collins": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

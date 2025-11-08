@@ -1,0 +1,163 @@
+{
+    "writer": {
+        "entities": {
+            "Dorothy Blyskal": {
+                "args": [
+                    [
+                        "6_ it's torpedoed by the tin-eared backstory laid out by dorothy blyskal's script.",
+                        0.653063076564845
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "3_ the surrounding film - especially the script and performances - doesn't serve this thrilling true-life story, or the audience.",
+                0.6017893787171267
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Judy Greer": {
+                "args": []
+            },
+            "Ray Corasani": {
+                "args": []
+            },
+            "Spencer Stone": {
+                "args": []
+            },
+            "Bryce Gheisar": {
+                "args": []
+            },
+            "P.J. Byrne": {
+                "args": []
+            },
+            "Alek Skarlatos": {
+                "args": []
+            },
+            "Jenna Fischer": {
+                "args": []
+            },
+            "Anthony Sadler": {
+                "args": []
+            },
+            "Thomas Lennon": {
+                "args": []
+            },
+            "William Jennings": {
+                "args": []
+            },
+            "Paul-Mikél Williams": {
+                "args": []
+            },
+            "Tony Hale": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": [
+            [
+                "0_this disjuncture is impossible to forget while watching the film, and it's very uncomfortable.",
+                0.5318528368104793
+            ],
+            [
+                "1_ the movie never lives up to the breathless excitement the real-life story promises.",
+                0.5054328755449975
+            ],
+            [
+                "3_ the surrounding film - especially the script and performances - doesn't serve this thrilling true-life story, or the audience.",
+                0.6017893787171267
+            ],
+            [
+                "6_whatever its obvious limitations, the gambit of casting nonactors in the lead roles at least brings the movie a certain authenticity, ",
+                -0.5242284583174219
+            ],
+            [
+                "7_they had never acted before and as far as i'm concerned their record is clean, leaving the gripping, complex movie that might have been frustratingly out of reach.",
+                -0.5773532608418046
+            ],
+            [
+                "11_it's impossible to say whether the 15:17 to paris would have been a better movie with professional actors in the lead roles.",
+                -0.5808183062230023
+            ],
+            [
+                "18_the result is a case study in why getting things right isn't necessarily the right way to make a movie.",
+                -0.7178611479836852
+            ],
+            [
+                "19_if only someone could've heroically intervened to save this movie.",
+                -0.8141158112424411
+            ],
+            [
+                "20_eastwood faced similar issues with his last film, \"sully,\" and he still hasn't figured out how to take a relatively short dramatic event and build a movie around it.",
+                -0.5952761344739583
+            ],
+            [
+                "26_the film keeps telling us that what happened aboard that train was the fulfillment of something, ",
+                -0.6140606547579257
+            ],
+            [
+                "26_they seem like pieces of reality trapped in a movie.",
+                -0.6221470016696189
+            ],
+            [
+                "27_ his workmanlike absorption in the task at hand is precisely what makes this movie fascinating as well as moving.",
+                0.8447723137725665
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Clint Eastwood": {
+                "args": [
+                    [
+                        "3_the action sequence on the train is truly remarkable, and eastwood shoots with a documentary-style immediacy, ",
+                        0.7615877018025347
+                    ],
+                    [
+                        "5_a consummate work in eastwood's filmography.",
+                        0.5549027981527548
+                    ],
+                    [
+                        "8_performances in eastwood films are usually uneven, ",
+                        -0.5915416433574526
+                    ],
+                    [
+                        "13_with the 15:17 to paris, eastwood once again tells an american story with a narrow-minded efficiency that somehow makes reality seem fake.",
+                        0.6923647373257416
+                    ],
+                    [
+                        "16_ eastwood deserves credit for not going the cheesy route by drawing out the attack unnaturally, the rest of \"15:17\" is so drawn out, you almost wish he would have given into cheese.",
+                        -0.8369444175466844
+                    ],
+                    [
+                        "23_a few minutes of nail-biting, recreated heroism isn't enough to justify the other 90-or-so minutes in clint eastwood's dry salute of a movie, which struggles to mix patriotism, friendship, god, and destiny into something meaningful.",
+                        -0.8176024263327185
+                    ],
+                    [
+                        "24_ zoom out a little and it's hard not to see eastwood's america-centric focus in the 15:17 to paris as self-serving.",
+                        -0.5009805531905729
+                    ],
+                    [
+                        "27_a certain blunt power is guaranteed by the facts of the story, and mr. eastwood doesn't obviously try for anything more than that.",
+                        -0.5206623900418001
+                    ]
+                ]
+            }
+        },
+        "args": [
+            [
+                "4_the 15:17 to paris shows that the 87-year-old director is still capable of surprises.",
+                0.7152187976963368
+            ]
+        ]
+    }
+}

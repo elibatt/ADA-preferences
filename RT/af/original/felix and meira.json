@@ -1,0 +1,123 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_delicate, warm and worried, \"felix and meira\" is a coming-of-age film about two grown people stunted by social circumstance.",
+                0.7404518486964662
+            ],
+            [
+                "1_this is the sort of movie whose warmth toward its characters is contagious.",
+                0.5223126808338913
+            ],
+            [
+                "2_as ardent and earnest as it is, \"felix and meira\" is a test case.",
+                0.6198808619531596
+            ],
+            [
+                "5_\"felix and meira\" raises the question: are we happiest with a twin spirit - or with a reverse image that completes the picture?",
+                0.7858634567064287
+            ],
+            [
+                "8_[a] quiet, aching film ...",
+                0.6068755553949153
+            ],
+            [
+                "9_giroux's refusal to pass judgment on his characters prevents us from doing so, and the film is much more powerful for it.",
+                0.6915087966337203
+            ],
+            [
+                "10_\"félix and meira\" appears to be a simple movie about fitting in, acceptance and sacrifice.",
+                0.6663349300452667
+            ],
+            [
+                "10_yet it's so elegant and poses many different sides that it's actually a very complex film with very complex characters.",
+                0.8082736976189753
+            ],
+            [
+                "11_it's always gratifying to see a movie in which an ostensibly closed-off community is depicted humanely rather than voyeuristically.",
+                -0.6290071333927791
+            ],
+            [
+                "16_felix and meira continue to pine and mope",
+                0.5078073572507151
+            ],
+            [
+                "16_ the movie mopes with them in exhausting, often awkwardly intrusive detail.",
+                -0.5555901599348729
+            ],
+            [
+                "20_\"felix and meira\" is tender and sad, and wonderfully shot in snowy quebec, ",
+                -0.5021313299099721
+            ],
+            [
+                "20_it's such a gentle whisper of a film, it's hard to hear what it wants to say.",
+                -0.6121539066882048
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Maxime Giroux": {
+                "args": [
+                    [
+                        "4_director maxime giroux gets good performances from leads martin dubreuil and hadas yaron...",
+                        0.7916922496002863
+                    ],
+                    [
+                        "15_this tenderly observed love story (by the director, maxime giroux) isn't about religion - or its lack - ",
+                        -0.5989500632796242
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Benoît Girard": {
+                "args": []
+            },
+            "Anne-Élisabeth Bossé": {
+                "args": []
+            },
+            "Hadas Yaron": {
+                "args": []
+            },
+            "Martin Dubreuil": {
+                "args": [
+                    [
+                        "4_director maxime giroux gets good performances from leads martin dubreuil and hadas yaron...",
+                        0.7916922496002863
+                    ]
+                ]
+            },
+            "Josh Dolguin": {
+                "args": []
+            },
+            "Luzer Twersky": {
+                "args": [
+                    [
+                        "12_luzer twersky as shulem, meira's controlling husband, is a fine example of the film's willingness to extend empathy to all of its characters, and its refusal to pigeonhole them into a black and white moral landscape.",
+                        0.7701420299949977
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Alexandre Laferrière": {
+                "args": []
+            },
+            "Maxime Giroux": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

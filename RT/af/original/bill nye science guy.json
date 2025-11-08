@@ -1,0 +1,81 @@
+{
+    "writer": {
+        "entities": {
+            "Jason Sussberg": {
+                "args": []
+            },
+            "David Alvarado": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Dr. Neil deGrasse Tyson": {
+                "args": []
+            },
+            "Heather Berlin": {
+                "args": []
+            },
+            "Francis Collins": {
+                "args": []
+            },
+            "Ann Druyan": {
+                "args": []
+            },
+            "Bill Nye": {
+                "args": [
+                    [
+                        "1_\"bill nye: science guy\" is a surprisingly kaleidoscopic portrait of someone we ",
+                        0.6023784687453964
+                    ],
+                    [
+                        "4_bow-tied brainiac bill nye gets a sympathetic treatment from admiring filmmakers in this non-shocking doc.",
+                        0.6196072812304931
+                    ],
+                    [
+                        "5_\"bill nye: science guy\" offers an absorbing and entertaining portrait, of both the science evangelist and the guy behind him.",
+                        0.7203933612487032
+                    ],
+                    [
+                        "11_assuredly, and productively, a project made from the modern persona of nye.",
+                        0.6316539382349077
+                    ],
+                    [
+                        "13_what really shines through here is the moments where [nye's] old instincts kick in.",
+                        0.5674648259959609
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Jason Sussberg": {
+                "args": [
+                    [
+                        "7_directors david alvarado and jason sussberg have tapped into something deeper than vanilla hagiography.",
+                        0.6718171809480146
+                    ],
+                    [
+                        "12_co-directors david alvarado and jason sussberg ... effectively chart their affable subject's trek from mechanical engineer to renowned science guy to passionate defender of the planet.",
+                        0.6705229277579798
+                    ]
+                ]
+            },
+            "David Alvarado": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

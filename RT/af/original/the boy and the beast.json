@@ -1,0 +1,115 @@
+{
+    "film": {
+        "args": [
+            [
+                "1_ the film creates such vivid worlds on both sides of the alley, you'll root for their coexistence.",
+                0.8055720505616095
+            ],
+            [
+                "6_anime enthusiasts will enjoy \"the boy and the beast,\" ",
+                0.7493970035117834
+            ],
+            [
+                "7_it is the world of man, not beast, that makes this coming-of-age movie most touching.",
+                0.8017049523945625
+            ],
+            [
+                "9_the boy and the beast works with many common anime tropes ",
+                0.7854006751070326
+            ],
+            [
+                "12_an action-packed buddy movie that strategically combines several of japanese fans' favorite ingredients: conflicted teens, supernatural creatures and epic battles.",
+                0.761013494170812
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Mamoru Hosoda": {
+                "args": [
+                    [
+                        "2_what sets this film apart from its generic predecessors is writer/director hosoda's knack for playful set pieces, and unsentimental love of surrogate familial communities.",
+                        0.7863236182428351
+                    ],
+                    [
+                        "11_\"the boy and the beast\" confirms mamoru hosoda's reputation as one of the most interesting writer-directors working in japanese animation.",
+                        0.8003760872916775
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Mamoru Hosoda": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_what sets this film apart from its generic predecessors is writer/director hosoda's knack for playful set pieces, and unsentimental love of surrogate familial communities.",
+                0.7863236182428351
+            ],
+            [
+                "10_ has more than enough character and brio to stand foursquare on its own two hairy feet.",
+                -0.5371997813589613
+            ],
+            [
+                "11_\"the boy and the beast\" confirms mamoru hosoda's reputation as one of the most interesting writer-directors working in japanese animation.",
+                0.8003760872916775
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Sean Hennigan": {
+                "args": []
+            },
+            "Chuck Huber": {
+                "args": []
+            },
+            "Morgan Berry (II)": {
+                "args": []
+            },
+            "Brittney Karbowski": {
+                "args": []
+            },
+            "Austin Tindle": {
+                "args": []
+            },
+            "Steve Powell (IV)": {
+                "args": []
+            },
+            "Monica Rial": {
+                "args": []
+            },
+            "Bryn Apprill": {
+                "args": []
+            },
+            "Ian Sinclair (IV)": {
+                "args": []
+            },
+            "Eric Vale": {
+                "args": []
+            },
+            "Jessica Cavanagh": {
+                "args": []
+            },
+            "Josh Grelle": {
+                "args": []
+            },
+            "Luci Christian": {
+                "args": []
+            },
+            "John Swasey": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

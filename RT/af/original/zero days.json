@@ -1,0 +1,164 @@
+{
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Gary D. Brown": {
+                "args": []
+            },
+            "Richard A. Clarke": {
+                "args": []
+            },
+            "Mahmoud Ahmadinejad": {
+                "args": []
+            },
+            "Emad Kiyaei": {
+                "args": []
+            },
+            "Sean Paul McGurk": {
+                "args": []
+            },
+            "Gary Samore": {
+                "args": []
+            },
+            "Eugene Kaspersky": {
+                "args": []
+            },
+            "Rolf Mowatt-Larssen": {
+                "args": []
+            },
+            "Olli Heinonen": {
+                "args": []
+            },
+            "Mikhail Gorbachev": {
+                "args": []
+            },
+            "Hillary Clinton": {
+                "args": []
+            },
+            "Eric Chien": {
+                "args": []
+            },
+            "Michael Hayden": {
+                "args": []
+            },
+            "Ralph Langner": {
+                "args": []
+            },
+            "Vitaly Kamluk": {
+                "args": []
+            },
+            "David Sanger": {
+                "args": []
+            },
+            "Yossi Melman": {
+                "args": []
+            },
+            "Liam O'Murchu": {
+                "args": []
+            },
+            "Sergey Ulasen": {
+                "args": []
+            },
+            "Major General Amos Yadin": {
+                "args": []
+            },
+            "Yuval Steinitz": {
+                "args": []
+            },
+            "Nancy Reagan": {
+                "args": []
+            },
+            "Major General Amos Yadlin": {
+                "args": []
+            },
+            "Chris Inglis": {
+                "args": []
+            },
+            "George W. Bush": {
+                "args": []
+            }
+        }
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Alex Gibney": {
+                "args": [
+                    [
+                        "2_since no terrorist group or nation state has ever claimed credit for stuxnet, gibney can only hypothesize about its origins, ",
+                        0.5077064071994147
+                    ],
+                    [
+                        "6_and mr. gibney has a proven record of tiptoeing to the edge without going too far.",
+                        0.5696383703484975
+                    ],
+                    [
+                        "9_the future is now, gibney's documentary persuasively argues, and what it holds for all of us is as scary to contemplate as it may be impossible to ward off.",
+                        0.6826856211382317
+                    ],
+                    [
+                        "10_ gibney deserves credit for doing more than just fanning the flames of paranoia.",
+                        0.6595592383271801
+                    ],
+                    [
+                        "12_the stuxnet story finally plays out like a twisty summer espionage thriller, with gibney amping up that drama with sleek digital imagery and a foreboding musical score.",
+                        0.7964669796209108
+                    ],
+                    [
+                        "18_while most people weren't looking, america went and changed the rules of engagement, and with \"zero days,\" gibney urgently suggests how little time the world has to clarify its stand before the wrong party goes too far.",
+                        -0.6184437077630824
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [
+            [
+                "6_in documentary filmmaking, as in news writing, there is a fine line between irresponsible alarmism and dispassionate reportage.",
+                0.7349646867342017
+            ]
+        ],
+        "entities": {
+            "Alex Gibney": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "1_zero days is ... under attack from little stylistic worms that threaten to turn an ",
+                -0.5732316348155291
+            ],
+            [
+                "4_by necessity, far more questions than answers are raised in zero days.",
+                0.6597234543303763
+            ],
+            [
+                "5_easily the most important film anyone has released this year, it is a documentary that deserves to be seen by every sentient citizen of this country - and indeed the world.",
+                0.7586319179942843
+            ],
+            [
+                "8_you'll want to see \"zero days\"-just not when you're counting on a good night's sleep a few hours later.",
+                -0.6295767230502953
+            ],
+            [
+                "10_an ideal movie for internet conspiracy theorists displeased with the powers that be, ",
+                0.6713514040141109
+            ],
+            [
+                "15_the film is a two-hour investment and the rewards are a handful of facts and ideas that could have been expressed in half that time.",
+                -0.5912674061004255
+            ],
+            [
+                "16_ after a while, it starts to seem a shame that another recent film already claimed stonewall as a title.",
+                -0.7021208909341196
+            ]
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "writer": {
+        "args": [
+            [
+                "5_ also the telling detail, revealing character through spare gestures.",
+                0.71533343185651
+            ]
+        ],
+        "entities": {
+            "Masashi Ando": {
+                "args": []
+            },
+            "Hiromasa Yonebayashi": {
+                "args": []
+            },
+            "Keiko Niwa": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "0_it's a kid's movie that grown-ups will like.",
+                0.736145477983871
+            ],
+            [
+                "0_as marnie does on anna, the movie casts a spell.",
+                0.6616875586654618
+            ],
+            [
+                "4_this is a film defined by patience and attention, an adventure of emotional exploration.",
+                0.756266113776173
+            ],
+            [
+                "5_to those film lovers attuned to quiet moments and emotional nuance, this film has a shine all its own.",
+                0.7354251643393397
+            ],
+            [
+                "6_if you feel any kinship with the disaffected, \"when marnie was there\" has much to tell you.",
+                -0.5585356747453842
+            ],
+            [
+                "9_showcasing the gorgeous hand-drawn work that is a hallmark of japanese animation house studio ghibli,",
+                0.7365216014186506
+            ],
+            [
+                "9_when marnie was there tells a story of youthful friendship tinged with melancholy and magic.",
+                0.8145964693816538
+            ],
+            [
+                "10_as a children's movie, it's uncommonly sensitive and complicated, rooted in relationships rather than dazzling action.",
+                0.7507912660152146
+            ],
+            [
+                "12_there are times, especially in the first act, when \"when marnie was there\" lacks a certain urgency, often moving with all the drive of a breeze through the oft-heard wind chimes.",
+                0.7536635513354224
+            ],
+            [
+                "13_when marnie was there may start off a bit awkwardly, ",
+                -0.5779478556011072
+            ],
+            [
+                "14_beneath its calm, exquisitely detailed surface, \"when marnie was there\" bubbles with half-formed ideas and undeveloped themes.",
+                0.5723559658953479
+            ],
+            [
+                "15_ the film works up a considerable emotional charge by the end.",
+                0.6045376260563396
+            ],
+            [
+                "16_as a visual (and auditory) experience, when marnie was there offers so many other pleasures that audiences may well overlook the story issues.",
+                0.7355412293138013
+            ],
+            [
+                "17_even without its moving parable of emotional repair, when marnie was there has all of ghibli's exquisitely hand-drawn sense of place ...",
+                0.7541180130282251
+            ],
+            [
+                "20_when marnie was there may well be its last feature film.",
+                0.5608974225119208
+            ],
+            [
+                "21_when marnie was there isn't one of ghibli's greatest films, ",
+                -0.5610546111106663
+            ]
+        ]
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "Ava Acres": {
+                "args": []
+            },
+            "Vanessa L. Williams": {
+                "args": []
+            },
+            "Nanako Matsushima": {
+                "args": []
+            },
+            "Hailee Steinfeld": {
+                "args": []
+            },
+            "Hitomi Kuroki": {
+                "args": []
+            },
+            "John C. Reilly": {
+                "args": []
+            },
+            "Raini Rodriguez": {
+                "args": []
+            },
+            "Kiernan Shipka": {
+                "args": []
+            },
+            "Ellen Burstyn": {
+                "args": []
+            },
+            "Geena Davis": {
+                "args": []
+            },
+            "Kathy Bates": {
+                "args": []
+            },
+            "Grey DeLisle": {
+                "args": []
+            },
+            "Catherine O'Hara": {
+                "args": []
+            }
+        }
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [],
+        "entities": {
+            "Hiromasa Yonebayashi": {
+                "args": []
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_some of the more obtuse and mystifying elements of his work stem from direct memories filtered through his hallucinatory imagination.",
+                0.625429657664233
+            ],
+            [
+                "2_ there's nothing scarier in his work than a father's wrath, whether it's expressed in rape, murder, or just the silent shake of a head.",
+                -0.6216912748636947
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    },
+    "director": {
+        "args": [
+            [
+                "6_i learned more about the director's process and creative drive in a tidy 90 minutes than i ever could in the three hours it would take to slog through inland empire.",
+                0.5463236868014639
+            ]
+        ],
+        "entities": {
+            "Rick Barnes": {
+                "args": []
+            },
+            "Olivia Neergaard-Holm": {
+                "args": []
+            },
+            "Jon Nguyen": {
+                "args": [
+                    [
+                        "12_extravagantly surreal as the products of his imagination may be, they are deeply rooted in personal history and philosophy -- and it's this connection that jon nguyen's disarmingly off-kilter documentary... probes to rewarding effect.",
+                        0.7045476840189386
+                    ]
+                ]
+            }
+        }
+    },
+    "acting": {
+        "args": [],
+        "entities": {
+            "David Lynch": {
+                "args": [
+                    [
+                        "1_is there a more rewarding way of spending 90 minutes than watching lynch putter, reminisce, and work on a sculpture?",
+                        -0.5382071196500523
+                    ],
+                    [
+                        "1_ you'd need to give lynch the budget to produce another feature to find out.",
+                        -0.5576701726532666
+                    ],
+                    [
+                        "3_ for lynch's many partisans, it's required watching.",
+                        0.5788957717821491
+                    ],
+                    [
+                        "4_for lynch - who hasn't made a feature since 2006's \"inland empire\" - the look back is clearly edifying, as you can feel him reflecting upon his journey in between long drags on his cigarettes.",
+                        -0.5003371977558279
+                    ],
+                    [
+                        "5_no one else weighs in on lynch here",
+                        -0.7082229212408296
+                    ],
+                    [
+                        "5_still, lynch devotees should dig this respectful, offbeat portrait.",
+                        0.6755598747382093
+                    ],
+                    [
+                        "7_a more useful subtitle for this fans-only doc would be everything before eraserhead, the surreal 1977 horror movie that launched david lynch's feature film career and eventual critical acclaim.",
+                        0.5557463584938572
+                    ],
+                    [
+                        "8_there's old home-movie footage too, lots of it previously unseen, and it all feeds into that image of lynch as the twisted by-product of middle america, an apple-cheeked eagle scout who somehow got drawn into the dark side.",
+                        0.6688432919666074
+                    ],
+                    [
+                        "9_this cockeyed, oblique attempt to get closer to the worldview of david lynch-one of american cinema's finest oddities-is a compelling slice of cinephile inquiry.",
+                        0.8318510865699473
+                    ],
+                    [
+                        "11_what it offers is a more personal chronicle of lynch's formative years, told through extensive use of old photos and home movies, that ends just as he's beginning to put together eraserhead.",
+                        0.7579292899927241
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {}
+    }
+}

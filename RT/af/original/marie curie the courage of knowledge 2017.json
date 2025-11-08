@@ -1,0 +1,110 @@
+{
+    "director": {
+        "args": [
+            [
+                "3_if the material ultimately eludes the director's grasp, wandering off on unfocused tangents, it's because of its ambition.",
+                -0.7611284403603514
+            ]
+        ],
+        "entities": {
+            "Marie Noelle": {
+                "args": []
+            }
+        }
+    },
+    "acting": {
+        "args": [
+            [
+                "4_ unfortunately no one else in the cast comes close to her level of investment.",
+                -0.7574994306403329
+            ]
+        ],
+        "entities": {
+            "Nicolas Frei": {
+                "args": []
+            },
+            "Daniel Olbrychski": {
+                "args": []
+            },
+            "Sabin Tambrea": {
+                "args": []
+            },
+            "Karolina Gruszka": {
+                "args": [
+                    [
+                        "4_karolina gruszka is very good as curie, conveying a mix of intelligence and romantic impulse",
+                        0.8304337409359606
+                    ]
+                ]
+            },
+            "Sasha Crapanzano": {
+                "args": []
+            },
+            "Marie Denarnaud": {
+                "args": []
+            },
+            "Izabela Kuna": {
+                "args": []
+            },
+            "Samuel Finzi": {
+                "args": []
+            },
+            "Malik Zidi": {
+                "args": []
+            },
+            "Rose Montron": {
+                "args": []
+            },
+            "Adele Schmitt": {
+                "args": []
+            },
+            "Piotr G?owacki": {
+                "args": []
+            },
+            "André Wilms": {
+                "args": []
+            },
+            "Jan Frycz": {
+                "args": []
+            },
+            "Arieh Worthalter": {
+                "args": []
+            },
+            "Edgar Sehr": {
+                "args": []
+            },
+            "Charles Berling": {
+                "args": []
+            },
+            "Emma Pokromska": {
+                "args": []
+            },
+            "Artur Dziurman": {
+                "args": []
+            }
+        }
+    },
+    "writer": {
+        "args": [],
+        "entities": {
+            "Marie Noelle": {
+                "args": []
+            },
+            "Andrea Stoll": {
+                "args": []
+            }
+        }
+    },
+    "film": {
+        "args": [
+            [
+                "5_that's enough to keep the film moving along.",
+                0.6906996585208847
+            ]
+        ]
+    },
+    "themes": {
+        "args": [],
+        "entities": {}
+    }
+}

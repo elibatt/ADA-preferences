@@ -1,0 +1,130 @@
+{
+    "film": {
+        "unique_args": [
+            [
+                "11_this movie isn't a disaster, ",
+                -0.8088719650826999
+            ],
+            [
+                "13_the film is painful in at least one way - its waste of good actors.",
+                -0.6127545009229607
+            ],
+            [
+                "18_there are just a few groovy special effects and a practically incomprehensible story which we finally can't work up enough energy to care about.",
+                -0.8033498493255673
+            ],
+            [
+                "19_a fun and diverting summer movie, well worth the price of admission.",
+                0.8187445693723291
+            ],
+            [
+                "0",
+                -1
+            ],
+            [
+                "2",
+                -1
+            ]
+        ]
+    },
+    "director": {
+        "unique_args": [
+            [
+                "0_in the end, de palma's work seems full of sound and visual fury without signifying much of anything.",
+                -0.6140259748989481
+            ],
+            [
+                "2_de palma has a choppy, episodic sense of story, and he crafts individual scenes rather than telling a single unified story.",
+                -0.608234232255074
+            ]
+        ],
+        "entities": {
+            "Brian De Palma": {
+                "unique_args": [
+                    [
+                        "0_in the end, de palma's work seems full of sound and visual fury without signifying much of anything.",
+                        -0.6140259748989481
+                    ],
+                    [
+                        "2_de palma has a choppy, episodic sense of story, and he crafts individual scenes rather than telling a single unified story.",
+                        -0.608234232255074
+                    ]
+                ]
+            }
+        }
+    },
+    "writer": {
+        "unique_args": [],
+        "entities": {
+            "David Koepp": {
+                "unique_args": []
+            },
+            "Robert Towne": {
+                "unique_args": []
+            }
+        }
+    },
+    "acting": {
+        "unique_args": [],
+        "entities": {
+            "Tom Cruise": {
+                "unique_args": []
+            },
+            "Jon Voight": {
+                "unique_args": []
+            },
+            "Henry Czerny": {
+                "unique_args": []
+            },
+            "Ving Rhames": {
+                "unique_args": []
+            },
+            "Kristin Scott Thomas": {
+                "unique_args": []
+            },
+            "Jean Reno": {
+                "unique_args": []
+            },
+            "Emmanuelle Béart": {
+                "unique_args": []
+            },
+            "Randall Paul": {
+                "unique_args": []
+            },
+            "John McLaughlin": {
+                "unique_args": []
+            },
+            "Karel Dobry": {
+                "unique_args": []
+            },
+            "Melissa Knatchbull": {
+                "unique_args": []
+            },
+            "Vanessa Redgrave": {
+                "unique_args": []
+            },
+            "Dale Dye": {
+                "unique_args": []
+            },
+            "Marcel Iures": {
+                "unique_args": []
+            },
+            "Ion Caramitru": {
+                "unique_args": []
+            },
+            "Ingeborga Dapkunayte": {
+                "unique_args": []
+            },
+            "Andreas Wisniewski": {
+                "unique_args": []
+            },
+            "Gaston Subert": {
+                "unique_args": []
+            }
+        }
+    },
+    "themes": {
+        "unique_args": [],
+        "entities": {}
+    }
+}

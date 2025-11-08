@@ -1,0 +1,58 @@
+{
+    "film": {
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Umesh Shukla": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Amitabh Bachchan": {
+                "args": [
+                    [
+                        "0_this chintzy portion of screenwriter saumya joshi's consistently sentimental narrative is mostly bearable thanks to kapoor's comic timing and bachchan's seemingly boundless energy.",
+                        0.7273835104180957
+                    ]
+                ]
+            },
+            "Paresh Rawal": {
+                "args": []
+            },
+            "Jimit Trivedi": {
+                "args": []
+            },
+            "Mukesh Hariawala": {
+                "args": []
+            },
+            "Rishi Kapoor": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Saumya Joshi": {
+                "args": [
+                    [
+                        "0_this chintzy portion of screenwriter saumya joshi's consistently sentimental narrative is mostly bearable thanks to kapoor's comic timing and bachchan's seemingly boundless energy.",
+                        0.7273835104180957
+                    ]
+                ]
+            },
+            "Vishal V. Patil": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}

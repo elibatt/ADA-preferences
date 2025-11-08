@@ -1,0 +1,219 @@
+{
+    "writer": {
+        "entities": {
+            "Adriana Trigiani": {
+                "args": []
+            }
+        },
+        "args": []
+    },
+    "acting": {
+        "entities": {
+            "Patrick Wilson": {
+                "args": []
+            },
+            "Mary Pat Gleason": {
+                "args": []
+            },
+            "Joe Inscoe": {
+                "args": []
+            },
+            "Lily Kamp": {
+                "args": []
+            },
+            "Whoopi Goldberg": {
+                "args": []
+            },
+            "Jean Williams": {
+                "args": []
+            },
+            "James Edward Mitchell, Jr.": {
+                "args": []
+            },
+            "John Benjamin Hickey": {
+                "args": []
+            },
+            "Ashley Judd": {
+                "args": []
+            },
+            "Wendy Luck": {
+                "args": []
+            },
+            "Mary K. Wilson": {
+                "args": []
+            },
+            "Terry Kilgore": {
+                "args": []
+            },
+            "Paul Wilson (XLIV)": {
+                "args": []
+            },
+            "Mary Deese Hampton": {
+                "args": []
+            },
+            "Bridget Gabbe": {
+                "args": []
+            },
+            "Dagmara Dominczyk": {
+                "args": []
+            },
+            "Addison Toney": {
+                "args": []
+            },
+            "Sharon Watroba": {
+                "args": []
+            },
+            "Angelina Fiordellisi": {
+                "args": []
+            },
+            "Jack McClanahan": {
+                "args": []
+            },
+            "Beatrice Bancroft": {
+                "args": []
+            },
+            "Dagmara Domincyzk": {
+                "args": []
+            },
+            "Judith Ivey": {
+                "args": []
+            },
+            "Erika Coleman": {
+                "args": []
+            },
+            "John S. Rausch": {
+                "args": []
+            },
+            "Jasmine Guy": {
+                "args": []
+            },
+            "Jenna Elfman": {
+                "args": []
+            },
+            "Ron Flanary": {
+                "args": []
+            },
+            "Eamonn McCrystal": {
+                "args": []
+            },
+            "Kalin Wilson": {
+                "args": []
+            },
+            "Brandon Scott Beaty, Sr.": {
+                "args": []
+            },
+            "Rick Horne": {
+                "args": []
+            },
+            "Heather McElyea Blair": {
+                "args": []
+            },
+            "Jane Krakowski": {
+                "args": []
+            },
+            "John Wilson": {
+                "args": []
+            },
+            "Rickey Wiles": {
+                "args": []
+            },
+            "Anthony LaPaglia": {
+                "args": []
+            },
+            "Mary Testa": {
+                "args": []
+            },
+            "Chris Sarandon": {
+                "args": []
+            },
+            "Carlo Trigiani": {
+                "args": [
+                    [
+                        "6_director adriana trigiani, adapting her best-selling novel, delivers the hackneyed material with good cheer, eliciting bright performances from an [excellent] ensemble cast.",
+                        0.9192134220621351
+                    ],
+                    [
+                        "8_apparently too close to the story to recognize how ill suited she was to translating its charms to the screen, trigiani has emerged with nothing ",
+                        -0.7721856635358046
+                    ]
+                ]
+            },
+            "Star Bresee": {
+                "args": []
+            },
+            "James Hampton": {
+                "args": []
+            },
+            "Greg Kress": {
+                "args": []
+            },
+            "Brianna Mullins": {
+                "args": []
+            },
+            "Eleanor Jones": {
+                "args": []
+            },
+            "Matthew Stocke": {
+                "args": []
+            },
+            "Brownie Polly, III": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "1_ it's better if you are a fan of one or more members of the cast.",
+                0.7322207806765619
+            ]
+        ]
+    },
+    "film": {
+        "args": [
+            [
+                "0_by the time we get to the final, borderline ludicrous moments in big stone gap, i wasn't even surprised by the overwhelming sappiness of it all.",
+                -0.7477300788435116
+            ],
+            [
+                "1_the movie ambles along amiably enough for a while",
+                -0.5280775467883294
+            ],
+            [
+                "2_that the creaky romantic comedy \"big stone gap\" attracted such a large ensemble of talented name actors only makes this country-fried turkey feel like an even more notable miss.",
+                -0.7261652782598653
+            ],
+            [
+                "3_it's tempting to say \"big stone gap\" is greeting-card pretty and sweet, ",
+                0.5145397087614455
+            ],
+            [
+                "3_big stone gap\" is edge-free.",
+                0.5593255877551694
+            ],
+            [
+                "5_nothing feels believable in \"big stone gap,\" a bungled, charm-free look at small-town life in the south in the late '70s.",
+                0.7431250538134955
+            ]
+        ]
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "director": {
+        "entities": {
+            "Adriana Trigiani": {
+                "args": [
+                    [
+                        "6_director adriana trigiani, adapting her best-selling novel, delivers the hackneyed material with good cheer, eliciting bright performances from an [excellent] ensemble cast.",
+                        0.9192134220621351
+                    ],
+                    [
+                        "8_apparently too close to the story to recognize how ill suited she was to translating its charms to the screen, trigiani has emerged with nothing ",
+                        -0.7721856635358046
+                    ]
+                ]
+            }
+        },
+        "args": []
+    }
+}

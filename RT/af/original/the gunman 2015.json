@@ -1,0 +1,191 @@
+{
+    "film": {
+        "args": [
+            [
+                "0_, have two academy award-winning actors been so stunningly off the mark in the same movie.",
+                -0.5543900759069863
+            ],
+            [
+                "1_i object to the gunman because it's unconvincing and incoherent.",
+                -0.648249174486727
+            ],
+            [
+                "4_the gunman degenerates into dreary setups for guns and gore.",
+                -0.65166547534576
+            ],
+            [
+                "8_the kind of throughly anonymous and undistinguished film that barely would have passed muster as a mid-2000s dtv project top-lining a third-tier tv star.",
+                -0.5366214105326264
+            ],
+            [
+                "10_the gunman\" doesn't play by those rules.",
+                -0.647605038655452
+            ],
+            [
+                "11_penn is dour and not the least bit heroic in this movie.",
+                -0.6381974418591339
+            ],
+            [
+                "13_if the film's intent is to condition the audience into a distaste for violence through boredom, it succeeds.",
+                0.588107130428755
+            ],
+            [
+                "16_this stupid movie is no exception ...",
+                -0.8813792989716678
+            ],
+            [
+                "19_the only redeeming feature about the gunman is its exotic locations.",
+                -0.589092657526956
+            ],
+            [
+                "20_ there are more dialogue-driven subplots here than a movie full of bullets and land mines requires.",
+                -0.581014472247032
+            ],
+            [
+                "21_ the film feels misshapen as a result.",
+                -0.6090093953295624
+            ],
+            [
+                "25_\"the gunman\" may start as a genre exercise of promising purpose, ",
+                -0.5214815042749373
+            ],
+            [
+                "28_ he's not enough to prevent the film from becoming the same-old.",
+                -0.6890904814112586
+            ],
+            [
+                "31_the gunman is too disorganized and sloppy to make sense as political commentary or to work on the most basic level as a globe-trotting chase thriller.",
+                -0.7069971205031389
+            ],
+            [
+                "32_and nobody is going to win five seconds of admiration for 115 minutes of tedium in the gunman.",
+                -0.6640243102626442
+            ],
+            [
+                "35_penn's need to be seen as a guy of integrity is left naked in the gunman, ",
+                -0.6534752646075134
+            ],
+            [
+                "35_ at least he's having some fun with the action-movie trappings, and with taking his shirt off.",
+                0.5007763757408065
+            ],
+            [
+                "36_the kind of film that can't be bothered to do any more with its spanish setting than have a showdown at a bullfight.",
+                -0.7428586062943461
+            ]
+        ]
+    },
+    "director": {
+        "entities": {
+            "Pierre Morel": {
+                "args": [
+                    [
+                        "29_ the action is tautly staged by morel and that makes \"the gunman\" a satisfactory time-passer.",
+                        0.5533861886679301
+                    ]
+                ]
+            }
+        },
+        "args": []
+    },
+    "themes": {
+        "entities": {},
+        "args": []
+    },
+    "writer": {
+        "entities": {
+            "Pete Travis": {
+                "args": []
+            },
+            "Don MacPherson": {
+                "args": []
+            }
+        },
+        "args": [
+            [
+                "2_a dull, generic retread, made far worse by penn's self-seriousness as an actor, by the banal political pieties he's grafted on as producer and co-writer, and by the presence of a pitifully retrograde female lead role.",
+                -0.6685246570909322
+            ],
+            [
+                "26_ the script does not do its job in crucial areas, letting the audience get way, way out ahead of the reveals.",
+                -0.5157235905927691
+            ]
+        ]
+    },
+    "acting": {
+        "entities": {
+            "Idris Elba": {
+                "args": []
+            },
+            "Ray Winstone": {
+                "args": []
+            },
+            "Jasmine Trinca": {
+                "args": []
+            },
+            "Javier Bardem": {
+                "args": []
+            },
+            "Sean Penn": {
+                "args": [
+                    [
+                        "2_a dull, generic retread, made far worse by penn's self-seriousness as an actor, by the banal political pieties he's grafted on as producer and co-writer, and by the presence of a pitifully retrograde female lead role.",
+                        -0.6685246570909322
+                    ],
+                    [
+                        "3_i doubt the gunman will do much to advance penn's foray into action-hero bankability, and that's probably a good thing.",
+                        0.5175110761660409
+                    ],
+                    [
+                        "5_and if the film isn't quite as seriously political as i'm guessing penn told himself it was,",
+                        -0.6770014543200007
+                    ],
+                    [
+                        "12_a plot that makes no sense, characters that are barely there, and a denouement that is an insult to everybody's intelligence, all combine to make penn's action-man de",
+                        -0.7368611018344773
+                    ],
+                    [
+                        "14_mr. penn, aiming for weary, battered intensity, settles into a zone somewhere between fatigue and indigestion.",
+                        -0.5900120905520925
+                    ],
+                    [
+                        "16_i've pretty much always enjoyed watching penn in everything, not ",
+                        0.6261090201567678
+                    ],
+                    [
+                        "17_whatever else we might think of sean penn's bid for an active middle age via the gunman, we can't doubt his enthusiasm.",
+                        -0.677369301746637
+                    ],
+                    [
+                        "21_i can imagine sean penn agreeing to star in this taken knockoff on the condition that it educate moviegoers about humanitarian crises in africa",
+                        -0.5622018401737952
+                    ],
+                    [
+                        "22_\"the gunman\" is a predictable slog through action-movie tropes, and penn's intensity isn't a good fit.",
+                        -0.6974467623656333
+                    ],
+                    [
+                        "27_ mainly because of penn's particular aura of irascible integrity.",
+                        0.6915250838158852
+                    ],
+                    [
+                        "33_watching penn pump iron and denounce capitalism for two hours would be roughly as illuminating as this monotonous euro-thriller.",
+                        -0.5664598736279298
+                    ],
+                    [
+                        "37_sadly, penn's veiny, sweat-glazed biceps are the most objectively impressive feature of this rote, humorless thriller, a distinctly unconvincing attempt to refashion the star ... as a middle-aged action hero in the liam neeson mold.",
+                        -0.5440539519037444
+                    ],
+                    [
+                        "38_ultimately this feels like a vanity project designed to do for penn's bankability, africa, spain and mercenaries what the taken franchise did for liam neeson, paris and albanian gangsters.",
+                        -0.7482631621035265
+                    ]
+                ]
+            },
+            "Mark Rylance": {
+                "args": []
+            }
+        },
+        "args": []
+    }
+}
