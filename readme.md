@@ -9,7 +9,7 @@ Note that, since most of this code is old (2019), some functionalities do not wo
 More in detail, this code presents two main possibilities:
 * Calculate the base score/strengths of the arguments and determine the attacks/supports of an argumentation framework whose structure already exists. The structure of an AF is stored in a JSON file; some already existing AF JSON files are in the folder _RT/af/original_. Warning: these files do not have the final structure required by the code to calculate everything correctly. In fact, if you run one of them, you will obtain very different results from the ones saved in the files "all_sent_dfquad_sent.jsonl" and similar. The AF files to be taken into consideration, instead, are in _RT/af/2023_ folder (the code automatically considers this folder for the moment). 
 
-* Calculate the base score/strengths of the nodes and determine the attacks/supports of an argumentation framework that is _created during code execution_, about a certain movie. The movie could be one whose title exists in the file _rt_bo_films.pkl_, or one you want to search and analyze on the website.  
+* Calculate the base score/strengths of the nodes and determine the attacks/supports of an argumentation framework that is _created during code execution_, about a certain movie. The movie can be one whose title exists in the file _rt_bo_films.pkl_, or one you want to search and analyze on the website.  
 
 
 ### General code execution
