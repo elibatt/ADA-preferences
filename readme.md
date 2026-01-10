@@ -1,9 +1,9 @@
 # ROTTEN TOMATOES 
 ## What is the point of this code?
 
-This code was originally written in 2019 in relation to the paper "Extracting Dialogical Explanations for Review Aggregations with Argumentative Dialogical Agents" by Cocarascu, Rago, Toni, and it also contains some new preference-related features added in 2023. The main idea of the code is to build a QBAF extracted from the aggregation of reviews about a movie. In particular, we use the website "Rotten Tomatoes" to retrieve the reviews and to compare the obtained strength with the TomatometerScore (see [Rotten Tomatoes](https://www.rottentomatoes.com/)).
+This code was originally written in 2019 in relation to the paper "Extracting Dialogical Explanations for Review Aggregations with Argumentative Dialogical Agents" by Cocarascu, Rago, Toni, (https://doi.org/10.5555/3306127.3331830) and it also contains some new preference-related features added in 2023. The main idea of the code is to build a QBAF (Quantitative Bipolar Argumentation Framework) extracted from the aggregation of reviews about a movie. In particular, we use the website "Rotten Tomatoes" to retrieve the reviews and to compare the obtained strength with the TomatometerScore (see [Rotten Tomatoes](https://www.rottentomatoes.com/)).
 
-Note that, since most of this code is old (2019), some functionalities do not work (for example, the links have changed). This document describes the functionalities that work.
+Note that, since most of this code is rather old (2019), some functionalities do not work (for example, the links have changed). This document describes the functionalities that work.
 
 ### Two possibilities
 More in detail, this code presents two main possibilities:
